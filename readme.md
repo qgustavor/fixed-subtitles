@@ -6,9 +6,7 @@ If you find an error, even in this file, send a pull request fixing it. I recomm
 
 When submitting a new anime commit first the original file, then the fix in other commit, so it's possible to check changes. In the first commit use the the MyAnimeList ID and episode number as the title, and in the description put the the anime and translation details. Check [this example commit](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). For other commits just describe what was changed.
 
-## Tradução em português
-
-### Legendas Arrumadas
+## Legendas Arrumadas
 
 Eu arrumo legendas com erros claros de tradução. Claro que não são traduções perfeitas: eu só corrijo os erros que percebi e que me lembro.
 
