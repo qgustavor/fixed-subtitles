@@ -6,10 +6,14 @@ If you find an error, even in this file, send a pull request fixing it. I recomm
 
 When submitting a new anime commit first the original file, then the fix in other commit, so it's possible to check changes. In the first commit use the the MyAnimeList ID and episode number as the title, and in the description put the the anime and translation details. Check [this example commit](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). For other commits just describe what was changed.
 
+Note that the objective of this repository is fixing subtitles, *not* making a list of bad fansubs. In fact this will end being a list of *good* fansubs as their translators know that they're humans which make mistakes and so they make their scripts easier to fix. The others either are too lazy to fix their mistakes or don't admit their mistakes.
+
 ## Legendas Arrumadas
 
-Eu arrumo legendas com erros claros de traduÁ„o. Claro que n„o s„o traduÁıes perfeitas: eu sÛ corrijo os erros que percebi e que me lembro.
+Eu arrumo legendas com erros claros de tradu√ß√£o. Claro que n√£o s√£o tradu√ß√µes perfeitas: eu s√≥ corrijo os erros que percebi e que me lembro.
 
-Se vocÍ encontrou um erro, mesmo nesse arquivo, envie um *pull request* arrumando ele. Recomendo que enviem mudanÁas via *pull requests* por que assim seu nome aparecer· na p·gina de contribuidores, alÈm disso criar uma conta no GitHub È bem f·cil. Finalmente, por favor use um corretor ortogr·fico antes de enviar.
+Se voc√™ encontrou um erro, mesmo nesse arquivo, envie um *pull request* arrumando ele. Recomendo que enviem mudan√ßas via *pull requests* por que assim seu nome aparecer√° na p√°gina de contribuidores, al√©m disso criar uma conta no GitHub √© bem f√°cil. Finalmente, por favor use um corretor ortogr√°fico antes de enviar.
 
-Ao enviar um novo anime primeiro faÁa um *commit* do arquivo original, ent„o outro com a correÁ„o, de modo que seja possÌvel verificar as mudanÁas. No primeiro *commit* use o ID do MyAnimeList e o n˙mero do episÛdio como tÌtulo, e coloque informaÁıes do anime e da traduÁ„o na descriÁ„o. Olhe [esse *commit* de exemplo](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). Para os outros commits sÛ descreva o que foi alterado.
+Ao enviar um novo anime primeiro fa√ßa um *commit* do arquivo original, ent√£o outro com a corre√ß√£o, de modo que seja poss√≠vel verificar as mudan√ßas. No primeiro *commit* use o ID do MyAnimeList e o n√∫mero do epis√≥dio como t√≠tulo, e coloque informa√ß√µes do anime e da tradu√ß√£o na descri√ß√£o. Olhe [esse *commit* de exemplo](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). Para os outros commits s√≥ descreva o que foi alterado.
+
+Note que o objetivo desse reposit√≥rio √© arrumar legendas, *n√£o* fazer uma lista de fansubs ruins. Na verdade ele se tornar√° uma lista de fansubs *boas* j√° que seus tradutores sabem que s√£o humanos que cometem erros e assim deixam seus scripts mais f√°ceis de serem corrigidos. J√° os outros ou s√£o muito pregui√ßosos para corrigir seus erros ou n√£o admitem seus erros.
