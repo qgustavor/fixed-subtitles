@@ -48,61 +48,62 @@ Dialogue: 10,0:00:57.66,0:00:59.31,Iroha main,Satsuki,0,0,0,,Droga!
 Dialogue: 10,0:02:12.72,0:02:14.19,Iroha main,Satsuki,0,0,0,,O que você quer?
 Dialogue: 10,0:02:18.82,0:02:20.03,Iroha main,dude,0,0,0,,Eu consegui uma boa foto.
 Dialogue: 10,0:02:22.24,0:02:23.62,Iroha main,Satsuki,0,0,0,,Você não me pediu permissão primeiro?
-Dialogue: 10,0:02:23.62,0:02:25.68,Iroha main,dude,0,0,0,,Desculpe. 
-Dialogue: 10,0:02:26.52,0:02:28.41,Iroha main,dude,0,0,0,,Quando me deparo com um bom disparo,
-Dialogue: 10,0:02:28.41,0:02:30.36,Iroha main,dude,0,0,0,,meus instintos como um cinegrafista tomam conta.
-Dialogue: 10,0:02:30.81,0:02:33.21,Iroha main,Satsuki,0,0,0,,Isso é assustador, senhor.
+Dialogue: 10,0:02:23.62,0:02:25.68,Iroha main,dude,0,0,0,,Desculpe.
+Dialogue: 10,0:02:26.52,0:02:28.41,Iroha main,dude,0,0,0,,Quando me deparo com uma boa foto,
+Dialogue: 10,0:02:28.41,0:02:30.36,Iroha main,dude,0,0,0,,meus instintos como um fotógrafo falam mais alto.
+Dialogue: 10,0:02:30.81,0:02:33.21,Iroha main,Satsuki,0,0,0,,Isso é assustador, {\i1}tio{\i0}.
 Dialogue: 10,0:02:34.42,0:02:36.13,Iroha main,dude,0,0,0,,Bem, isso é chocante.
-Dialogue: 10,0:02:37.91,0:02:41.39,Iroha main,dude,0,0,0,,Eu pensei que ainda estaria na faixa de “irmão”.
+Dialogue: 10,0:02:37.91,0:02:41.39,Iroha main,dude,0,0,0,,Não pensava que eu já era tão velho assim.
 Dialogue: 10,0:02:44.17,0:02:46.28,Iroha main,Satsuki,0,0,0,,Você quer me contratar?
 Dialogue: 10,0:02:49.57,0:02:50.10,Iroha main,dude,0,0,0,,Eh?
-Dialogue: 10,0:02:50.99,0:02:53.06,Iroha main,Satsuki,0,0,0,,Eu quero poupar dinheiro, para que eu possa sair de casa.
+Dialogue: 10,0:02:50.99,0:02:53.06,Iroha main,Satsuki,0,0,0,,Quero poupar dinheiro, para que eu possa sair de casa.
 Dialogue: 10,0:02:59.32,0:03:00.60,Iroha main,dude,0,0,0,,Não, obrigado.
-Dialogue: 10,0:03:01.06,0:03:05.95,Iroha main,dude,0,0,0,,Eu não tenho a coragem de fazer uma jogada sobre uma garota que ainda está usando um sutiã.
-Dialogue: 10,0:04:12.17,0:04:13.26,Iroha main,kid1,0,0,0,,Então, quanto por isso?
-Dialogue: 10,0:04:13.26,0:04:14.44,Iroha main,kid2,0,0,0,,Nos de um desconto!
+Dialogue: 10,0:03:01.06,0:03:05.95,Iroha main,dude,0,0,0,,Eu não tenho a coragem de ir em cima de uma garota que usa sutiã de criança.
+Dialogue: 10,0:04:12.17,0:04:13.26,Iroha main,kid1,0,0,0,,Então, quanto custa?
+Dialogue: 10,0:04:13.26,0:04:14.44,Iroha main,kid2,0,0,0,,Nos dê um desconto!
 Dialogue: 10,0:04:14.44,0:04:17.20,Iroha main,Enishi,0,0,0,,Bem, vamos ver...
-Dialogue: 10,0:04:19.02,0:04:21.44,Iroha main,Enishi,0,0,0,,Como o 'um' soa?
-Dialogue: 10,0:04:21.87,0:04:23.74,Iroha main,Enishi,0,0,0,,Embora eu esteje dando a esse preço.
-Dialogue: 10,0:04:23.74,0:04:25.07,Iroha main,kid1,0,0,0,,Huh? ¥ 100?
+Dialogue: 10,0:04:19.02,0:04:21.44,Iroha main,Enishi,0,0,0,,Que tal por uma moeda?
+Dialogue: 10,0:04:21.87,0:04:23.74,Iroha main,Enishi,0,0,0,,Acho que é uma boa oferta.
+Dialogue: 10,0:04:23.74,0:04:25.07,Iroha main,kid1,0,0,0,,Huh? 100 ienes?
 Dialogue: 10,0:04:25.07,0:04:26.67,Iroha main,kid2,0,0,0,,Isso é muito caro, senhor.
 Dialogue: 10,0:04:26.67,0:04:27.81,Iroha main,Enishi,0,0,0,,Sério?
-Dialogue: 10,0:04:27.81,0:04:29.81,Iroha main,Enishi,0,0,0,,Eu sou um profissional, vocês sabiam.
+Dialogue: 10,0:04:27.81,0:04:29.81,Iroha main,Enishi,0,0,0,,Eu sou um profissional, vocês sabem.
 Dialogue: 10,0:04:30.25,0:04:31.04,Iroha main,Enishi,0,0,0,,Além do mais...
-Dialogue: 10,0:04:32.08,0:04:34.87,Iroha main,Enishi,0,0,0,,Ele fica muito bom após {\i1}esta{\i0} parte.
-Dialogue: 10,0:04:39.02,0:04:41.26,Iroha main,kid2,0,0,0,,Ohana? Aquele pequeno esguicho?
-Dialogue: 10,0:04:41.26,0:04:43.43,Iroha main,kid1,0,0,0,,Eu não quero lê-lo se ela é a personagem principal.
-Dialogue: 10,0:04:43.43,0:04:43.95,Iroha main,kid1,0,0,0,,Certo?
+Dialogue: 10,0:04:32.08,0:04:34.87,Iroha main,Enishi,0,0,0,,Ele fica muito bom após {\i1}desta{\i0} parte.
+Dialogue: 10,0:04:39.02,0:04:41.26,Iroha main,kid2,0,0,0,,Ohana? Aquela pirralha?
+Dialogue: 10,0:04:41.26,0:04:43.43,Iroha main,kid1,0,0,0,,Não quero ler isso se ela for a personagem principal.
+Dialogue: 10,0:04:43.43,0:04:43.95,Iroha main,kid1,0,0,0,,Não é?
 Dialogue: 10,0:04:43.95,0:04:44.47,Iroha main,kid2,0,0,0,,Sim.
 Dialogue: 10,0:04:44.47,0:04:45.13,Iroha main,Enishi,0,0,0,,O quê?
 Dialogue: 10,0:04:45.53,0:04:46.47,Iroha main,,0,0,0,,Ouçam!
 Dialogue: 10,0:04:46.47,0:04:48.76,Iroha main,Enishi,0,0,0,,A melhor parte sobre Ohana-chan,
 Dialogue: 10,0:04:48.76,0:04:52.42,Iroha main,Enishi,0,0,0,,é quando o cabelo está amarrado, seu charme vem lentamente{\fscx300}-{\fscx100}
-Dialogue: 10,0:04:54.06,0:04:56.90,Iroha main,Ohana,0,0,0,,Obrigado pelo elogio.
-Dialogue: 10,0:04:57.70,0:04:59.21,Iroha main,kid1,0,0,0,,Merda é a Ohana!
+Dialogue: 10,0:04:54.06,0:04:56.90,Iroha main,Ohana,0,0,0,,Obrigada pelo elogio.
+Dialogue: 10,0:04:57.70,0:04:59.21,Iroha main,kid1,0,0,0,,Merda, é a Ohana!
 Dialogue: 10,0:04:59.21,0:05:00.49,Iroha main,kid2,0,0,0,,Eu não posso lidar com a versão real!
 Dialogue: 10,0:05:00.49,0:05:01.69,Iroha main,kid1,0,0,0,,Eu também não!
 Dialogue: 10,0:05:02.67,0:05:04.70,Iroha main,Ohana,0,0,0,,Eles não podem lidar com a versão “real”?
 Dialogue: 10,0:05:05.96,0:05:09.54,Iroha main,Enishi,0,0,0,,Vamos, Ohana-chan, não interfira com o meu trabalho...
 Dialogue: 10,0:05:13.06,0:05:14.12,Iroha main,Ohana,0,0,0,,Ei!
-Dialogue: 10,0:05:14.12,0:05:17.79,Iroha main,Ohana,0,0,0,,Esse não é o material erótico que o novo cara do restaurante escreveu?
-Dialogue: 10,0:05:18.92,0:05:22.80,Iroha main,Enishi,0,0,0,,Bem, ele já tinha terminado de escrever, então eu vou deixar as pessoas alugá-lo.
+Dialogue: 10,0:05:14.12,0:05:17.79,Iroha main,Ohana,0,0,0,,Essa não é aquela história de uma empregada em treinamento coberta de bolhas?
+Dialogue: 10,0:05:18.92,0:05:22.80,Iroha main,Enishi,0,0,0,,Agora que já tive o esforço de escrever resolvi colocá-lo para ser alugado.
 Dialogue: 10,0:05:22.80,0:05:24.13,Iroha main,Ohana,0,0,0,,“Alugar”?
 Dialogue: 10,0:05:24.84,0:05:25.70,Iroha main,Enishi,0,0,0,,Isso mesmo.
-Dialogue: 10,0:05:25.70,0:05:30.60,Iroha main,Enishi,0,0,0,,Estou entregando esta obra de arte para as pessoas que desejam ansiosamente para lê-lo, e apreciar o seu valor.
+Dialogue: 10,0:05:25.70,0:05:30.60,Iroha main,Enishi,0,0,0,,Estou entregando esta obra de arte para as pessoas que desejam ansiosamente lê-lo e apreciar o seu valor.
 Dialogue: 10,0:05:31.19,0:05:35.21,Iroha main,Enishi,0,0,0,,Ouça! A história do empréstimo de livros é mais profunda.
 Dialogue: 10,0:05:35.21,0:05:37.02,Iroha main,Enishi,0,0,0,,O início de seu sonho era...
 Dialogue: 10,0:05:40.60,0:05:41.89,Iroha main,Enishi,0,0,0,,Desculpe.
 Dialogue: 10,0:05:48.83,0:05:52.17,Iroha main,Ohana,0,0,0,,Eu não posso acreditar que ele continuou a escrever coisas como esta.
+Dialogue: 10,0:05:54.23,0:05:57.27,Overlaps,Book,0,0,0,,{\alpha&H33\fs40}No livro: {\an8\i1}"Eu... quero brilhar!"
 Dialogue: 10,0:05:57.89,0:05:59.71,Iroha main,Ohana,0,0,0,,{\i1}Eu quero brilhar!{\i0}
 Dialogue: 10,0:06:05.43,0:06:08.68,Iroha main,Ohana,0,0,0,,“Eu quero brilhar”, hum?
 Dialogue: 10,0:06:21.23,0:06:23.40,Iroha main,Ohana,0,0,0,,Certo! Hora de voltar ao trabalho!
-Dialogue: 10,0:06:23.40,0:06:26.16,Iroha main,Sui,0,0,0,,Eu entendo. Obrigado.
+Dialogue: 10,0:06:23.40,0:06:26.16,Iroha main,Sui,0,0,0,,Eu entendo. Obrigada.
 Dialogue: 10,0:06:26.16,0:06:28.15,Iroha main,engineer,0,0,0,,Vamos desligar a energia para fazer algumas manutenções,
 Dialogue: 10,0:06:28.15,0:06:30.95,Iroha main,engineer,0,0,0,,mas deve estar de volta em três horas.
-Dialogue: 10,0:06:30.95,0:06:35.74,Iroha main,Sui,0,0,0,,Por favor, faça rapidamente para que nossos clientes não sejem incomodados.
-Dialogue: 10,0:06:39.05,0:06:42.39,Iroha main,Sui,0,0,0,,Gostaria de saber se alguém vai encontrar uma maneira de transformar
-Dialogue: 10,0:06:42.39,0:06:45.83,Iroha main,Sui,0,0,0,,toda essa energia excedente em electricidade na minha vida.
+Dialogue: 10,0:06:30.95,0:06:35.74,Iroha main,Sui,0,0,0,,Não queremos que nossos clientes sejam incomodados então termine rapidamente, por favor.
+Dialogue: 10,0:06:39.05,0:06:42.39,Iroha main,Sui,0,0,0,,Espero ainda ver o dia em que será possível transformar
+Dialogue: 10,0:06:42.39,0:06:45.83,Iroha main,Sui,0,0,0,,toda essa energia excedente dos jovens em eletricidade.
 Dialogue: 10,0:06:45.83,0:06:46.64,Iroha main,engineer,0,0,0,,Eh?
 Dialogue: 10,0:06:57.83,0:07:01.65,Iroha main,Ohana,0,0,0,,{\i1}Eu me acostumei a viver aqui no Kissuisou.{\i0}
 Dialogue: 10,0:07:02.23,0:07:06.11,Iroha main,Ohana,0,0,0,,{\i1}Acho que me acostumei com o trabalho também,{\i0}
@@ -115,15 +116,15 @@ Dialogue: 10,0:07:30.74,0:07:32.62,Iroha main,Ohana,0,0,0,,Parece o rosto de uma
 Dialogue: 10,0:07:33.31,0:07:35.18,Iroha main,Ohana,0,0,0,,“Você gostaria que eu polisse sua testa?”
 Dialogue: 10,0:07:35.85,0:07:37.35,Iroha main,Ohana,0,0,0,,Lá vamos nós.
 Dialogue: 10,0:07:37.65,0:07:39.26,Iroha main,Ohana,0,0,0,,Não adianta apenas polir este ponto!
-Dialogue: 10,0:07:48.28,0:07:52.24,Iroha main,Yuino,0,0,0,,Ei, isso não é justo.
+Dialogue: 10,0:07:48.28,0:07:52.24,Iroha main,Yuino,0,0,0,,Tinha um degrau? Não vale!
 Dialogue: 10,0:07:53.74,0:07:55.33,Iroha main,Ohana,0,0,0,,Yuina-san?!
 Dialogue: 10,0:07:55.33,0:07:57.73,Iroha main,Yuino,0,0,0,,Oh, eu imploro seu perdão.
 Dialogue: 10,0:08:00.78,0:08:03.17,Iroha main,Tohru,0,0,0,,Ren-san, devemos usar isso também?
 Dialogue: 10,0:08:03.17,0:08:04.51,Iroha main,Ren,0,0,0,,Vamos ver...
-Dialogue: 10,0:08:04.51,0:08:08.30,Iroha main,Ren,0,0,0,,Ele vai mal rapidamente, por isso aqueça-o antes que ele faça isso.
+Dialogue: 10,0:08:04.51,0:08:08.30,Iroha main,Ren,0,0,0,,Isso estraga rápido, então o cozinhe logo.
 Dialogue: 10,0:08:08.30,0:08:09.21,Iroha main,Tohru,0,0,0,,Sim, senhor.
 Dialogue: 10,0:08:09.75,0:08:11.77,Iroha main,Ren,0,0,0,,Este peixe pode ser usado na Kanroni,
-Dialogue: 10,0:08:12.02,0:08:14.76,Iroha main,Ren,0,0,0,,eo porco foi descongelado, então vamos fazer ensopado.
+Dialogue: 10,0:08:12.02,0:08:14.76,Iroha main,Ren,0,0,0,,e o porco foi descongelado, então vamos fazer ensopado.
 Dialogue: 10,0:08:14.76,0:08:15.70,Iroha main,Ren,0,0,0,,Podemos usar molho de soja para este{\fscx300}-{\fscx100}
 Dialogue: 10,0:08:15.70,0:08:17.10,Iroha main,Yuino,0,0,0,,Aí está você!
 Dialogue: 10,0:08:17.10,0:08:18.70,Iroha main,Yuino,0,0,0,,Oi!
@@ -131,14 +132,13 @@ Dialogue: 10,0:08:18.70,0:08:19.79,Iroha main,Ohana,0,0,0,,Yuina-san!
 Dialogue: 10,0:08:19.79,0:08:22.56,Iroha main,Yuino,0,0,0,,É Tohru-san e Tsurugi-san!
 Dialogue: 10,0:08:22.56,0:08:24.02,Iroha main,Ohana,0,0,0,,Ei, não os interrompa!
 Dialogue: 10,0:08:25.89,0:08:29.60,Iroha main,Yuino,0,0,0,,Ei, qual o nome desse escovinha?
-Dialogue: 10,0:08:31.05,0:08:33.28,Iroha main,Minko,0,0,0,,Ei! Não se refira ao Ren-san tão desreipeitosamente{\fscx300}-{\fscx100}
+Dialogue: 10,0:08:31.05,0:08:33.28,Iroha main,Minko,0,0,0,,Ei! Não se refira ao Ren-san tão desrespeitosamente{\fscx300}-{\fscx100}
 Dialogue: 10,0:08:32.18,0:08:33.28,Overlaps,Yuino,0,0,0,,Caramba!
-Dialogue: 10,0:08:33.28,0:08:35.60,Iroha main,Yuino,0,0,0,,Você está preparando-lo enquanto ele ainda está vivo? Isso é tão nojento!
+Dialogue: 10,0:08:33.28,0:08:35.60,Iroha main,Yuino,0,0,0,,Você está preparando enquanto ele ainda está vivo? Isso é tão nojento!
 Dialogue: 10,0:08:35.60,0:08:36.76,Iroha main,Yuino,0,0,0,,Oh, espere.
 Dialogue: 10,0:08:37.24,0:08:41.58,Iroha main,Yuino,0,0,0,,Se você adicionar algumas decorações aqui ~
 Dialogue: 10,0:08:43.44,0:08:44.75,Iroha main,Ohana,0,0,0,,Yui{\fscx300}-{\fscx100}
 Dialogue: 10,0:08:44.75,0:08:46.97,Iroha main,Yuino,0,0,0,,Aqui, pronto!
-Dialogue: 10,0:08:47.75,0:08:50.87,Iroha main,Yuino,0,0,0,,{\an8\i1}Nota: Sashimi é o peixe cru fatiado.
 Dialogue: 10,0:08:47.75,0:08:50.87,Iroha main,Yuino,0,0,0,,O sashimi é lindo.
 Dialogue: 10,0:08:50.87,0:08:52.82,Iroha main,Yuino,0,0,0,,O que você acha?
 Dialogue: 10,0:08:51.03,0:08:52.55,Overlaps,Ohana,0,0,0,,Bem, um...
@@ -159,33 +159,33 @@ Dialogue: 10,0:09:22.45,0:09:23.57,Iroha main,Ohana,0,0,0,,Vejo.
 Dialogue: 10,0:09:23.57,0:09:24.62,Iroha main,Ohana,0,0,0,,“Estilos?”
 Dialogue: 10,0:09:27.73,0:09:31.14,Iroha main,Yuino,0,0,0,,Eu sou inexperiente, por isso, cuide de mim.
 Dialogue: 10,0:09:31.54,0:09:33.09,Iroha main,Ohana,0,0,0,,S-Senhora{\fscx300}-{\fscx100}
-Dialogue: 10,0:09:33.50,0:09:35.86,Iroha main,Sui,0,0,0,,Bem, então, eu vou deixá-la para você.
+Dialogue: 10,0:09:33.50,0:09:35.86,Iroha main,Sui,0,0,0,,Bem, então, vou deixar você cuidar dela.
 Dialogue: 10,0:09:35.86,0:09:36.35,Iroha main,Ohana,0,0,0,,Huh?
 Dialogue: 10,0:09:36.35,0:09:37.89,Iroha main,Ohana,0,0,0,,Espere, eu?
 Dialogue: 10,0:09:37.89,0:09:38.71,Iroha main,Ohana,0,0,0,,Por quê?
 Dialogue: 10,0:09:38.71,0:09:40.35,Iroha main,Ohana,0,0,0,,Senhora!
 Dialogue: 10,0:09:40.35,0:09:41.41,Iroha main,Yuino,0,0,0,,Eu estou contando com você!
 Dialogue: 10,0:09:41.95,0:09:43.45,Iroha main,Yuino,0,0,0,,Ohana-chan~
-Dialogue: 10,0:09:46.98,0:09:50.81,Iroha main,Ohana,0,0,0,,Eu me sinto como se eu tivesse tido um fardo muito chato imposta a mim.
-Dialogue: 10,0:09:50.81,0:09:52.78,Iroha main,Yuino,0,0,0,,Lute, Ohana-chan!
-Dialogue: 10,0:09:53.04,0:09:54.81,Iroha main,Ohana,0,0,0,,Bem, obrigado.
-Dialogue: 10,0:09:56.21,0:09:58.71,Iroha main,Yuino,0,0,0,,Certo, oque vem a seguir.
+Dialogue: 10,0:09:46.98,0:09:50.81,Iroha main,Ohana,0,0,0,,Eu me sinto como se eu tivesse tido um fardo muito chato imposto a mim.
+Dialogue: 10,0:09:50.81,0:09:52.78,Iroha main,Yuino,0,0,0,,Se anime, Ohana-chan!
+Dialogue: 10,0:09:53.04,0:09:54.81,Iroha main,Ohana,0,0,0,,Bem, obrigada.
+Dialogue: 10,0:09:56.21,0:09:58.71,Iroha main,Yuino,0,0,0,,Certo, o que vem a seguir?
 Dialogue: 10,0:09:58.71,0:10:00.37,Iroha main,Ohana,0,0,0,,Yuina-san, espere!
 Dialogue: 10,0:10:01.01,0:10:03.70,Thought/Flashback,weather girl,0,0,0,,O tufão que passou sobre o Japão na semana passada{\fscx300}-{\fscx100}
 Dialogue: 10,0:10:03.70,0:10:06.29,Iroha main,Enishi,0,0,0,,Tudo bem, vamos começar a reunião.
 Dialogue: 10,0:10:06.77,0:10:09.66,Iroha main,Enishi,0,0,0,,Dissemos as pessoas com reservas sobre o corte de energia,
 Dialogue: 10,0:10:09.66,0:10:13.30,Iroha main,Enishi,0,0,0,,mas certifique-se de explicar isso a elas novamente quando servirem chá.
 Dialogue: 10,0:10:13.30,0:10:17.19,Iroha main,Takako,0,0,0,,Nós também estamos mudando os tempos de banho para homens e mulheres.
-Dialogue: 10,0:10:15.92,0:10:18.50,Overlaps,Nako,0,0,0,,Vamos ver, enquanto servia o chá, e...
-Dialogue: 10,0:10:19.04,0:10:22.68,Iroha main,Tomoe,0,0,0,,Deve ser bom parar algumas horas durante o dia.
-Dialogue: 10,0:10:22.68,0:10:25.52,Iroha main,Tomoe,0,0,0,,Tenho certeza que os convidados estão explorarando a área circundante.
+Dialogue: 10,0:10:15.92,0:10:18.50,Overlaps,Nako,0,0,0,,Vamos ver, quando servir o chá, e...
+Dialogue: 10,0:10:19.04,0:10:22.68,Iroha main,Tomoe,0,0,0,,A gente consegue ficar algumas hora sem eletricidade de dia.
+Dialogue: 10,0:10:22.68,0:10:25.52,Iroha main,Tomoe,0,0,0,,Tenho certeza que os convidados estarão passeando pela região.
 Dialogue: 10,0:10:25.52,0:10:26.64,Iroha main,Enishi,0,0,0,,Não pode, não pode.
-Dialogue: 10,0:10:26.64,0:10:30.81,Iroha main,Enishi,0,0,0,,Não diga coisas como “deve ser bom”, pense sobre as pessoas um pouco mais!
+Dialogue: 10,0:10:26.64,0:10:30.81,Iroha main,Enishi,0,0,0,,Não diga coisas como “a gente consegue”, pense sobre as pessoas um pouco mais!
 Dialogue: 10,0:10:31.83,0:10:37.26,Iroha main,Takako,0,0,0,,Converse com eles suave e docemente, como você faria com o seu noivo.
-Dialogue: 10,0:10:37.26,0:10:39.00,Iroha main,Tomoe,0,0,0,,Como um noivo?
+Dialogue: 10,0:10:37.26,0:10:39.00,Iroha main,Tomoe,0,0,0,,Como se fossem um noivo?
 Dialogue: 10,0:10:39.36,0:10:40.41,Iroha main,Takako,0,0,0,,Certo.
-Dialogue: 10,0:10:40.91,0:10:43.58,Iroha main,Takako,0,0,0,,Tudo o que tenho pertence a você ~
-Dialogue: 10,0:10:43.58,0:10:48.87,Iroha main,Enishi,0,0,0,,Para você, eu iria saltar em um lago de fogo ~
+Dialogue: 10,0:10:40.91,0:10:43.58,Iroha main,Takako,0,0,0,,Tudo o que tenho pertence a você~
+Dialogue: 10,0:10:43.58,0:10:48.87,Iroha main,Enishi,0,0,0,,Para você, eu iria saltar em um lago de fogo~
 Dialogue: 10,0:10:49.42,0:10:50.79,Iroha main,Enishi,0,0,0,,Certo, Takako?
 Dialogue: 10,0:10:50.79,0:10:51.50,Iroha main,Tomoe,0,0,0,,Huh?
 Dialogue: 10,0:10:53.14,0:10:57.73,Iroha main,Takako,0,0,0,,Você não tem ninguém especial, Tomoe-san, então você pode achar que é um pouco difícil de entender.
@@ -203,14 +203,14 @@ Dialogue: 10,0:11:19.69,0:11:21.82,Iroha main,Tomoe,0,0,0,,Eu tenho um trabalho 
 Dialogue: 10,0:11:21.82,0:11:24.06,Iroha main,Tomoe,0,0,0,,Eu não preciso de um noivo ou o que seja!
 Dialogue: 10,0:11:27.25,0:11:29.50,Iroha main,Yuino,0,0,0,,Isto é horrível!
 Dialogue: 10,0:11:32.70,0:11:34.84,Iroha main,Yuino,0,0,0,,Eu não consigo fazer direito.
-Dialogue: 10,0:11:34.84,0:11:37.03,Iroha main,Yuino,0,0,0,,Estou torcendo a toalha!
+Dialogue: 10,0:11:34.84,0:11:37.03,Iroha main,Yuino,0,0,0,,O lençol está ficando amassado!
 Dialogue: 10,0:11:37.03,0:11:40.12,Iroha main,Ohana,0,0,0,,Não assim, viu?
 Dialogue: 10,0:11:41.55,0:11:43.87,Iroha main,Ohana,0,0,0,,Espalhe-o corretamente.
 Dialogue: 10,0:11:50.10,0:11:52.48,Iroha main,Tomoe,0,0,0,,Aqui, segure esse canto para baixo.
 Dialogue: 10,0:11:53.24,0:11:54.40,Iroha main,Yuino,0,0,0,,Certo.
 Dialogue: 10,0:11:54.40,0:11:57.48,Iroha main,Tomoe,0,0,0,,Agora deslize sua mão adiante.
 Dialogue: 10,0:11:57.48,0:11:58.49,Iroha main,Tomoe,0,0,0,,Aqui!
-Dialogue: 10,0:11:58.79,0:11:59.74,Iroha main,Yuino,0,0,0,,Wow!
+Dialogue: 10,0:11:58.79,0:11:59.74,Iroha main,Yuino,0,0,0,,Uau!
 Dialogue: 10,0:12:00.36,0:12:01.97,Iroha main,Yuino,0,0,0,,Eu consegui!
 Dialogue: 10,0:12:01.97,0:12:03.91,Iroha main,Tomoe,0,0,0,,Sim, bom trabalho!
 Dialogue: 10,0:12:03.91,0:12:05.16,Iroha main,Yuino,0,0,0,,Incrível!
@@ -221,7 +221,7 @@ Dialogue: 10,0:12:11.85,0:12:14.76,Iroha main,Yuino,0,0,0,,Seu filho tem sorte d
 Dialogue: 10,0:12:16.41,0:12:17.20,Iroha main,Tomoe,0,0,0,,“Filho”?
 Dialogue: 10,0:12:18.05,0:12:23.47,Iroha main,Yuino,0,0,0,,Ah, de alguma forma você está sempre tão calma, então eu assumi que você já é uma mãe.
 Dialogue: 10,0:12:23.47,0:12:25.01,Iroha main,Yuino,0,0,0,,Estou errada?
-Dialogue: 10,0:12:25.44,0:12:27.71,Iroha main,Tomoe,0,0,0,,Mãe? Me da um tempo.
+Dialogue: 10,0:12:25.44,0:12:27.71,Iroha main,Tomoe,0,0,0,,Mãe? Me dá um tempo.
 Dialogue: 10,0:12:28.26,0:12:32.52,Iroha main,Tomoe,0,0,0,,Eu nem sequer satisfiz os pré-requisitos para fazer os bebês ainda!
 Dialogue: 10,0:12:34.01,0:12:35.95,Iroha main,Ohana,0,0,0,,Você não deve fazer isso.
 Dialogue: 10,0:12:35.95,0:12:39.05,Iroha main,Ohana,0,0,0,,Tomoe-san é sensível sobre coisas desse tipo.
@@ -231,9 +231,9 @@ Dialogue: 10,0:12:46.11,0:12:49.90,Iroha main,Ohana,0,0,0,,Oh não, está quase 
 Dialogue: 10,0:12:50.51,0:12:52.45,Iroha main,Yuina,0,0,0,,Vá em frente!
 Dialogue: 10,0:12:52.45,0:12:55.30,Iroha main,Yuina,0,0,0,,Eu posso cuidar de colocar as yukatas para fora.
 Dialogue: 10,0:12:55.30,0:12:56.70,Iroha main,Ohana,0,0,0,,Huh? Mas...
-Dialogue: 10,0:12:56.70,0:12:58.75,Iroha main,Yuina,0,0,0,,Não se preucupe comigo!
+Dialogue: 10,0:12:56.70,0:12:58.75,Iroha main,Yuina,0,0,0,,Não se preocupe comigo!
 Dialogue: 10,0:12:59.32,0:13:03.34,Iroha main,Ohana,0,0,0,,Sério? Então eu vou terminar de limpar o chão.
-Dialogue: 10,0:13:03.34,0:13:05.54,Iroha main,Yuina,0,0,0,,Obrigado por me dar um pouco do seu tempo.
+Dialogue: 10,0:13:03.34,0:13:05.54,Iroha main,Yuina,0,0,0,,Obrigada por me dar um pouco do seu tempo.
 Dialogue: 10,0:13:08.14,0:13:10.00,Iroha main,Yuina,0,0,0,,Aqui, pronto.
 Dialogue: 10,0:13:10.89,0:13:15.08,Iroha main,Yuina,0,0,0,,Mas, esse trabalho é certamente tedioso.
 Dialogue: 10,0:13:15.85,0:13:19.68,Iroha main,Yuina,0,0,0,,Eu quero fazer algo mais emocionante!
@@ -249,7 +249,7 @@ Dialogue: 10,0:14:09.28,0:14:09.99,Iroha main,Nako,0,0,0,,Sim.
 Dialogue: 10,0:14:09.99,0:14:13.70,Iroha main,Nako,0,0,0,,É só que eu tenho que trabalhar um pouco mais do que o habitual.
 Dialogue: 10,0:14:16.26,0:14:17.50,Iroha main,Nako,0,0,0,,No entanto...
 Dialogue: 10,0:14:18.58,0:14:20.12,Iroha main,Nako,0,0,0,,O dia depois de amanhã,
-Dialogue: 10,0:14:20.66,0:14:23.20,Iroha main,Nako,0,0,0,,Mana, minha irmã deveria ir em uma viagem para a colheita de batatas.
+Dialogue: 10,0:14:20.66,0:14:23.20,Iroha main,Nako,0,0,0,,minha irmã Mana deveria ir em uma viagem para a colheita de batatas.
 Dialogue: 10,0:14:23.20,0:14:24.80,Iroha main,Ohana,0,0,0,,Colheita de batatas?
 Dialogue: 10,0:14:24.80,0:14:26.56,Iroha main,Nako,0,0,0,,Sim, ela deveria ir em uma viagem.
 Dialogue: 10,0:14:27.10,0:14:30.76,Iroha main,Nako,0,0,0,,No início, minha mãe disse que ela ia tirar uma folga,
@@ -258,12 +258,12 @@ Dialogue: 10,0:14:33.13,0:14:34.57,Iroha main,Nako,0,0,0,,Eu acho que ela está 
 Dialogue: 10,0:14:34.57,0:14:35.61,Iroha main,Ohana,0,0,0,,Eu entendo totalmente isso!
 Dialogue: 10,0:14:36.63,0:14:38.41,Iroha main,Ohana,0,0,0,,Quando as pessoas esperam coisas que não funcionam,
 Dialogue: 10,0:14:38.41,0:14:40.90,Iroha main,Ohana,0,0,0,,dói o dobro, né?
-Dialogue: 10,0:14:40.90,0:14:44.41,Iroha main,Ohana,0,0,0,,Coisas como essa se ​​tornar traumas que você nunca esquece, né?
+Dialogue: 10,0:14:40.90,0:14:44.41,Iroha main,Ohana,0,0,0,,Coisas como essa podem virar traumas que você nunca esquece, né?
 Dialogue: 10,0:14:44.41,0:14:45.71,Iroha main,Ohana,0,0,0,,Não importa quantos anos se passam!
 Dialogue: 10,0:14:49.24,0:14:52.28,Iroha main,Ohana,0,0,0,,Talvez eu tenha ido um pouco longe demais?
 Dialogue: 10,0:14:54.87,0:14:57.06,Iroha main,Ohana,0,0,0,,Eu tenho certeza que ela vai ficar bem!
-Dialogue: 10,0:14:57.06,0:15:00.24,Iroha main,Ohana,0,0,0,,Com o tempo, você vai parar de se preocupar com isso, então...
-Dialogue: 10,0:15:00.24,0:15:05.23,Iroha main,Ohana,0,0,0,,Você não vai querer uma família perfeita mais, contanto que você possa obter de alguma forma.
+Dialogue: 10,0:14:57.06,0:15:00.24,Iroha main,Ohana,0,0,0,,Com o tempo, ela vai parar de se preocupar com isso, então...
+Dialogue: 10,0:15:00.24,0:15:05.23,Iroha main,Ohana,0,0,0,,Ela nem vai mais querer uma família perfeita, desde que ela se vire de alguma forma.
 Dialogue: 10,0:15:05.23,0:15:06.57,Iroha main,Ohana,0,0,0,,Até eu...
 Dialogue: 10,0:15:08.36,0:15:09.63,Iroha main,Ohana,0,0,0,,M-Me desculpe!
 Dialogue: 10,0:15:10.00,0:15:12.14,Iroha main,Ohana,0,0,0,,Você era sensível sobre esse tipo de coisa?
@@ -292,17 +292,17 @@ Dialogue: 10,0:16:30.15,0:16:32.28,Iroha main,Ohana,0,0,0,,{\i1}Ela cuida dos af
 Dialogue: 10,0:16:32.61,0:16:36.83,Iroha main,Ohana,0,0,0,,{\i1}e ela se preocupa com sua irmã mais nova também.{\i0}
 Dialogue: 10,0:16:38.20,0:16:40.74,Iroha main,Ohana,0,0,0,,{\i1}Nako-chi é como uma mãe.{\i0}
 Dialogue: 10,0:16:42.32,0:16:45.42,Iroha main,Ohana,0,0,0,,{\i1}Uma mãe ideal para isso.{\i0}
-Dialogue: 10,0:16:47.43,0:16:52.69,Iroha main,Ohana,0,0,0,,{\i1}Meu relacionamento com a minha mãe era um pouco...anormal, eu acho.{\i0}
+Dialogue: 10,0:16:47.43,0:16:52.69,Iroha main,Ohana,0,0,0,,{\i1}Meu relacionamento com a minha mãe era um pouco... anormal, eu acho.{\i0}
 Dialogue: 10,0:16:54.03,0:16:56.49,Iroha main,Ohana,0,0,0,,{\i1}Quando eu era criança, eu costumava ter melhores expectativas,{\i0}
 Dialogue: 10,0:16:56.93,0:16:59.37,Iroha main,Ohana,0,0,0,,{\i1}mas logo parei de pensar assim.{\i0}
 Dialogue: 10,0:17:01.03,0:17:03.82,Iroha main,Ohana,0,0,0,,{\i1}Eu realmente não odeio ela ou algo assim.{\i0}
 Dialogue: 10,0:17:04.68,0:17:05.62,Iroha main,Ohana,0,0,0,,{\i1}Mas...{\i0}
 Dialogue: 10,0:17:11.52,0:17:14.48,Iroha main,Ohana,0,0,0,,{\i1}Mas Mama não sabia nada sobre mim.{\i0}
 Dialogue: 10,0:17:15.38,0:17:19.47,Iroha main,Ohana,0,0,0,,Mas eu também não sei muita coisa sobre a Mama.
-Dialogue: 10,0:17:27.48,0:17:28.90,Iroha main,Yuina,0,0,0,,Corta, corta, corte!
+Dialogue: 10,0:17:27.48,0:17:28.90,Iroha main,Yuina,0,0,0,,Corta, corta, corta!
 Dialogue: 10,0:17:28.90,0:17:31.22,Iroha main,Yuina,0,0,0,,Isso é tão divertido!
 Dialogue: 10,0:17:31.22,0:17:32.96,Iroha main,Yuina,0,0,0,,Como eu estou fazendo, vovô?
-Dialogue: 10,0:17:32.96,0:17:36.32,Iroha main,Denroku,0,0,0,,Hum, eu posso assumir...
+Dialogue: 10,0:17:32.96,0:17:36.32,Iroha main,Denroku,0,0,0,,Hum, eu posso assumir agora?
 Dialogue: 10,0:17:35.53,0:17:37.76,Overlaps,Yuina,0,0,0,,Isso precisa de mais originalidade.
 Dialogue: 10,0:17:38.19,0:17:40.80,Iroha main,Yuina,0,0,0,,Oh, está começando a ficar bonito.
 Dialogue: 10,0:17:40.80,0:17:44.79,Iroha main,Yuina,0,0,0,,Corta, corta, corta!
@@ -311,18 +311,18 @@ Dialogue: 10,0:17:52.27,0:17:54.26,Iroha main,Ohana,0,0,0,,Que confusão!
 Dialogue: 10,0:17:54.26,0:17:55.57,Iroha main,Ohana,0,0,0,,O quê é tudo isso!
 Dialogue: 10,0:17:55.57,0:17:56.68,Iroha main,Ohana,0,0,0,,Caramba!
 Dialogue: 10,0:17:57.89,0:17:59.53,Iroha main,Ohana,0,0,0,,Realmente...
-Dialogue: 10,0:18:04.89,0:18:07.80,Iroha main,Ohana,0,0,0,,Este é o caderno do Mame-jii...
-Dialogue: 10,0:18:10.62,0:18:12.68,Iroha main,Ohana,0,0,0,,“Três peças de folhas vermelhas do jardim.”
-Dialogue: 10,0:18:13.43,0:18:15.60,Iroha main,Ohana,0,0,0,,“A esposa de Miyoshi-san virá para visitar.”
+Dialogue: 10,0:18:04.89,0:18:07.80,Iroha main,Ohana,0,0,0,,Este é o caderno do Homem dos Feijões...
+Dialogue: 10,0:18:10.62,0:18:12.68,Iroha main,Ohana,0,0,0,,“As folhas vermelhas do jardim estão 30% vermelhas.”
+Dialogue: 10,0:18:13.43,0:18:15.60,Iroha main,Ohana,0,0,0,,“A esposa do Miyoshi-san virá para visitar.”
 Dialogue: 10,0:18:15.94,0:18:18.53,Iroha main,Ohana,0,0,0,,“Tenho sopa de miso de porco com arroz e algas pronto”.
 Dialogue: 10,0:18:18.97,0:18:22.00,Iroha main,Ohana,0,0,0,,Oh? Até coisas assim estão escritas aqui.
 Dialogue: 10,0:18:24.33,0:18:26.45,Iroha main,Ohana,0,0,0,,“Eu quero brilhar”
 Dialogue: 10,0:18:26.83,0:18:29.60,Iroha main,Ohana,0,0,0,,“Satsuki-chan disse isso”?
-Dialogue: 10,0:18:32.27,0:18:37.47,Iroha main,Aki,0,0,0,,Senhora, os convidados que reservaram a sala da Camellia disse que vão se atrasar.
+Dialogue: 10,0:18:32.27,0:18:37.47,Iroha main,Aki,0,0,0,,Senhora, os convidados que reservaram o Quarto da Camellia disse que vão se atrasar.
 Dialogue: 10,0:18:37.47,0:18:38.43,Iroha main,Sui,0,0,0,,Entendido.
-Dialogue: 10,0:18:38.85,0:18:41.16,Iroha main,Sui,0,0,0,,Aki-san, a limpeza da sala de Ondas está pronta?
+Dialogue: 10,0:18:38.85,0:18:41.16,Iroha main,Sui,0,0,0,,Aki-san, a limpeza do Quarto de Ondas está pronta?
 Dialogue: 10,0:18:41.16,0:18:41.72,Iroha main,Aki,0,0,0,,Sim.
-Dialogue: 10,0:18:42.16,0:18:46.52,Iroha main,girl,0,0,0,,Senhora, os convidados na sala Garça estão perguntando sobre o café da manhã de amanhã.
+Dialogue: 10,0:18:42.16,0:18:46.52,Iroha main,girl,0,0,0,,Senhora, os convidados no Quarto da Garça estão perguntando sobre o café da manhã de amanhã.
 Dialogue: 10,0:18:46.52,0:18:48.02,Iroha main,Sui,0,0,0,,Eu irei lá.
 Dialogue: 10,0:18:48.02,0:18:51.31,Iroha main,Enishi,0,0,0,,Mamãe, e quanto aos meus lanches?
 Dialogue: 10,0:18:51.31,0:18:53.01,Iroha main,Sui,0,0,0,,Peça para Satsuki para prepará-lo para você.
@@ -340,7 +340,7 @@ Dialogue: 10,0:19:48.19,0:19:49.40,Iroha main,Sui,0,0,0,,Eu estou bem.
 Dialogue: 10,0:19:49.40,0:19:50.78,Iroha main,Sui,0,0,0,,Eu me senti um pouco tonta.
 Dialogue: 10,0:19:51.12,0:19:53.05,Iroha main,Denroku,0,0,0,,Por favor, não se sobrecarregue.
 Dialogue: 10,0:19:53.05,0:19:55.49,Iroha main,Denroku,0,0,0,,As luzes estavam acesas ontem à noite em seu quarto{\fscx300}-{\fscx100}
-Dialogue: 10,0:19:55.49,0:19:59.88,Iroha main,Sui,0,0,0,,Se você diz isso, quer dizer que você estava acordado e trabalhando tambem, né, Denroku?
+Dialogue: 10,0:19:55.49,0:19:59.88,Iroha main,Sui,0,0,0,,Se você diz isso, quer dizer que você estava acordado e trabalhando também, né, Denroku?
 Dialogue: 10,0:19:59.88,0:20:02.01,Iroha main,Denroku,0,0,0,,S-Sim...
 Dialogue: 10,0:20:02.74,0:20:05.81,Iroha main,Sui,0,0,0,,“Depois que o gerente morreu, Kissuisou mudou.”
 Dialogue: 10,0:20:06.20,0:20:08.48,Iroha main,Sui,0,0,0,,“A Senhora não pode fazer isso depois de tudo.”
@@ -352,16 +352,16 @@ Dialogue: 10,0:20:36.66,0:20:38.92,Iroha main,dude,0,0,0,,Yunosagi realmente é 
 Dialogue: 10,0:20:39.33,0:20:41.22,Iroha main,dude,0,0,0,,Tem conseguido manter sua beleza natural,
 Dialogue: 10,0:20:41.22,0:20:43.34,Iroha main,dude,0,0,0,,assim como as meninas.
 Dialogue: 10,0:20:43.34,0:20:45.15,Iroha main,dude,0,0,0,,Eu não posso deixar de tirar fotos.
-Dialogue: 10,0:20:45.15,0:20:48.28,Iroha main,Satsuki,0,0,0,,Você está tentando dizer que eu sou rude?
+Dialogue: 10,0:20:45.15,0:20:48.28,Iroha main,Satsuki,0,0,0,,Você está tentando dizer que eu sou caipira?
 Dialogue: 10,0:20:48.28,0:20:49.35,Iroha main,dude,0,0,0,,Nada mal.
-Dialogue: 10,0:20:49.60,0:20:52.61,Iroha main,dude,0,0,0,,“Rude” é uma palavra que não escuto a muito tempo.
+Dialogue: 10,0:20:49.60,0:20:52.61,Iroha main,dude,0,0,0,,“Caipira” é uma palavra que não escuto a muito tempo.
 Dialogue: 10,0:20:53.44,0:20:54.45,Iroha main,Satsuki,0,0,0,,Ei{\fscx300}-{\fscx100}
 Dialogue: 10,0:21:06.59,0:21:08.49,Iroha main,dude,0,0,0,,Você quer ir para a faculdade em Tóquio?
 Dialogue: 10,0:21:20.54,0:21:21.67,Iroha main,Satsuki,0,0,0,,Tóquio? Bem, na verdade...
 Dialogue: 10,0:21:23.35,0:21:26.47,Iroha main,Satsuki,0,0,0,,Eu só quero ficar o mais longe possível daquela casa.
 Dialogue: 10,0:21:27.19,0:21:28.51,Iroha main,dude,0,0,0,,“Daquela casa”?
 Dialogue: 10,0:21:28.51,0:21:32.46,Iroha main,Satsuki,0,0,0,,Eu me sinto como se eu estivesse apodrecendo quando eu fico lá.
-Dialogue: 10,0:21:32.46,0:21:35.58,Iroha main,Satsuki,0,0,0,,Eu...quero brilhar mais.
+Dialogue: 10,0:21:32.46,0:21:35.58,Iroha main,Satsuki,0,0,0,,Eu... quero brilhar mais.
 Dialogue: 10,0:21:37.32,0:21:40.00,Iroha main,dude,0,0,0,,Você é muito brilhante agora, você sabe.
 Dialogue: 10,0:21:53.82,0:21:56.60,Iroha main,Satsuki,0,0,0,,O próximo trem chega em 30 minutos.
 Dialogue: 10,0:22:06.00,0:22:07.33,Iroha main,girl,0,0,0,,Quem era aquele cara?
@@ -371,7 +371,7 @@ Dialogue: 10,0:22:10.09,0:22:11.73,Iroha main,Satsuki,0,0,0,,Eu estava apenas so
 Dialogue: 10,0:22:12.36,0:22:14.27,Iroha main,Satsuki,0,0,0,,Eu espero que você esteja desfrutando disso.
 Dialogue: 10,0:22:14.93,0:22:16.64,Iroha main,girl,0,0,0,,É a sua penalidade pelo atraso.
 Dialogue: 10,0:22:18.00,0:22:21.00,Iroha main,girl,0,0,0,,Hey, você está comprando algo bem ousado?
-Dialogue: 10,0:22:21.36,0:22:22.66,Iroha main,girl,0,0,0,,¥ 5000?
+Dialogue: 10,0:22:21.36,0:22:22.66,Iroha main,girl,0,0,0,,5000 ienes?
 Dialogue: 10,0:22:22.66,0:22:23.94,Iroha main,Satsuki,0,0,0,,Eu não tenho o suficiente. Empresta-me algum dinheiro?
 Dialogue: 10,0:22:23.94,0:22:25.36,Iroha main,girl,0,0,0,,Sem chance!
 Dialogue: 10,0:22:29.12,0:22:30.47,Iroha main,Denroku,0,0,0,,Satsuki-chan...
@@ -380,7 +380,7 @@ Dialogue: 10,0:22:33.73,0:22:34.70,Iroha main,Sui,0,0,0,,O que é isso?
 Dialogue: 10,0:22:35.81,0:22:36.70,Iroha main,Satsuki,0,0,0,,Devolva!
 Dialogue: 10,0:22:37.22,0:22:39.71,Iroha main,Satsuki,0,0,0,,Eu comprei com a minha mesada, então qual é o problema?
 Dialogue: 10,0:22:39.71,0:22:42.29,Iroha main,Sui,0,0,0,,E de onde você acha que a mesada vem?
-Dialogue: 10,0:22:42.96,0:22:45.42,Iroha main,Sui,0,0,0,,Comprando roupas intima chamativa assim...
+Dialogue: 10,0:22:42.96,0:22:45.42,Iroha main,Sui,0,0,0,,Comprando roupas intimas chamativas assim...
 Dialogue: 10,0:22:45.90,0:22:46.80,Iroha main,Sui,0,0,0,,Você não tem vergonha?
 Dialogue: 10,0:22:47.19,0:22:49.52,Iroha main,Satsuki,0,0,0,,Meninas em Tóquio usam coisas como esta.
 Dialogue: 10,0:22:49.52,0:22:51.75,Iroha main,Satsuki,0,0,0,,Eu estou indo para Tóquio também!
@@ -401,12 +401,12 @@ Dialogue: 10,0:23:34.03,0:23:35.64,Iroha main,Satsuki,0,0,0,,Eu não quero me to
 Dialogue: 10,0:23:36.63,0:23:37.92,Iroha main,Satsuki,0,0,0,,Absolutamente não!
 Dialogue: 10,0:23:37.92,0:23:38.89,Iroha main,girl,0,0,0,,Senhora!
 Dialogue: 10,0:23:38.89,0:23:39.98,Iroha main,Denroku,0,0,0,,Satsuki-chan!
-Dialogue: 10,0:23:53.34,0:23:55.88,Iroha main,Ohana,0,0,0,,“O cinegrafista vem para ficar.”
+Dialogue: 10,0:23:53.34,0:23:55.88,Iroha main,Ohana,0,0,0,,“O fotógrafo ficou mais tempo.”
 Dialogue: 10,0:23:55.88,0:23:58.48,Iroha main,Ohana,0,0,0,,“Satsuki-chan leva dois tapas.”
-Dialogue: 10,0:23:59.63,0:24:01.96,Iroha main,Ohana,0,0,0,,É muito contundente de entender.
+Dialogue: 10,0:23:59.63,0:24:01.96,Iroha main,Ohana,0,0,0,,É muito vago para entender.
 Dialogue: 10,0:24:03.87,0:24:09.17,Iroha main,Ohana,0,0,0,,Mas mamãe pensava que ela queria brilhar também.
 Dialogue: 10,0:24:10.86,0:24:11.88,Iroha main,Ohana,0,0,0,,E...
-Dialogue: 10,0:24:13.15,0:24:14.93,Iroha main,Ohana,0,0,0,,este câmera...
+Dialogue: 10,0:24:13.15,0:24:14.93,Iroha main,Ohana,0,0,0,,este fotógrafo...
 Dialogue: 10,0:24:15.39,0:24:16.68,Iroha main,Ohana,0,0,0,,Tem que ser o papai.
 Dialogue: 10,0:24:19.07,0:24:20.86,Thought/Flashback,Ohana,0,0,0,,Se eles se conheceram aqui,
 Dialogue: 10,0:24:21.48,0:24:23.71,Thought/Flashback,Ohana,0,0,0,,e eu nasci,
@@ -417,12 +417,12 @@ Dialogue: 10,0:24:48.59,0:24:51.21,Iroha main,Yuina,0,0,0,,Até amanhã!
 Dialogue: 10,0:24:51.66,0:24:53.58,Iroha main,Tomoe,0,0,0,,O que há com essa garota?
 Dialogue: 10,0:24:53.58,0:24:56.26,Iroha main,Tomoe,0,0,0,,Ela me arrastou por todo o lugar!
 Dialogue: 10,0:24:56.26,0:24:58.80,Iroha main,Tomoe,0,0,0,,Eu já estou ocupada com esta queda de energia maldita...
-Dialogue: 10,0:25:01.85,0:25:03.18,Iroha main,Tomoe,0,0,0,,Você quer usá-lo também, Minko-chan?
-Dialogue: 10,0:25:03.18,0:25:06.46,Iroha main,Minko,0,0,0,,Um...Para que você usa isso?
+Dialogue: 10,0:25:01.85,0:25:03.18,Iroha main,Tomoe,0,0,0,,Você quer usar também, Minko-chan?
+Dialogue: 10,0:25:03.18,0:25:06.46,Iroha main,Minko,0,0,0,,Um... Para que você usa isso?
 Dialogue: 10,0:25:07.60,0:25:09.37,Iroha main,Tomoe,0,0,0,,Do que você está falando?
 Dialogue: 10,0:25:09.37,0:25:12.65,Iroha main,Tomoe,0,0,0,,Você usa para se livrar de todos os calos ásperos nas solas{\fscx300}-{\fscx100}
-Dialogue: 10,0:25:17.70,0:25:23.04,Iroha main,Minko,0,0,0,,Um...as solas da minha mãe são muito áspera, ea pele é toda amarela{\fscx300}-{\fscx100}
-Dialogue: 10,0:25:23.47,0:25:26.62,Iroha main,Tomoe,0,0,0,,Sua pele engrossa e fica difícil quando você trabalha!
+Dialogue: 10,0:25:17.70,0:25:23.04,Iroha main,Minko,0,0,0,,Um... as solas da minha mãe são muito ásperas, e a pele é toda amarela{\fscx300}-{\fscx100}
+Dialogue: 10,0:25:23.47,0:25:26.62,Iroha main,Tomoe,0,0,0,,Sua pele engrossa e fica dura quando você trabalha!
 Dialogue: 10,0:25:26.62,0:25:29.25,Iroha main,Tomoe,0,0,0,,Vocês meninas precisam de mais treinamento!
 Dialogue: 10,0:25:29.25,0:25:30.92,Iroha main,Minko,0,0,0,,Sinto muito!
 Dialogue: 10,0:25:40.49,0:25:42.22,Iroha main,Ohana,0,0,0,,Parece que você teve um momento difícil.
@@ -431,9 +431,9 @@ Dialogue: 10,0:25:50.71,0:25:53.29,Iroha main,Minko,0,0,0,,Ela tinha que tomar c
 Dialogue: 10,0:25:54.49,0:25:55.78,Iroha main,Ohana,0,0,0,,Ela é incrível, né?
 Dialogue: 10,0:25:55.78,0:25:58.16,Iroha main,Ohana,0,0,0,,Ela tem que trabalhar mesmo depois de terminar seu trabalho aqui.
 Dialogue: 10,0:25:58.16,0:26:01.08,Iroha main,Ohana,0,0,0,,Nako-chi está trabalhando realmente duro.
-Dialogue: 10,0:26:01.65,0:26:04.57,Iroha main,Ohana,0,0,0,,Ela está crescida...quase como uma mãe.
+Dialogue: 10,0:26:01.65,0:26:04.57,Iroha main,Ohana,0,0,0,,Ela está crescida... quase como uma mãe.
 Dialogue: 10,0:26:05.49,0:26:07.25,Iroha main,Minko,0,0,0,,Eu me pergunto se sua sola...
-Dialogue: 10,0:26:07.54,0:26:08.29,Iroha main,Minko,0,0,0,,estão ficando amarelo.
+Dialogue: 10,0:26:07.54,0:26:08.29,Iroha main,Minko,0,0,0,,está ficando amarela.
 Dialogue: 10,0:26:14.66,0:26:16.55,Iroha main,kid,0,0,0,,Nako tem soluços!
 Dialogue: 10,0:26:16.55,0:26:18.70,Iroha main,Mina,0,0,0,,Alguém está falando sobre ela!
 Dialogue: 10,0:26:19.25,0:26:21.88,Iroha main,kid,0,0,0,,É quando você espirra, estúpida!
@@ -452,26 +452,26 @@ Dialogue: 10,0:26:54.89,0:26:56.63,Iroha main,kid,0,0,0,,Agora está tudo molhad
 Dialogue: 10,0:26:57.33,0:26:59.65,Iroha main,Nako,0,0,0,,Não me dê mais trabalho.
 Dialogue: 10,0:27:05.07,0:27:07.43,Iroha main,Nako,0,0,0,,Isso mesmo, sobre a sua viagem depois de amanhã,
 Dialogue: 10,0:27:07.43,0:27:10.02,Iroha main,Nako,0,0,0,,Eu vou pedir um dia de folga no trabalho.
-Dialogue: 10,0:27:11.66,0:27:14.82,Iroha main,Nako,0,0,0,,Então, vamos continuar a viagem juntas, ok?
+Dialogue: 10,0:27:11.66,0:27:14.82,Iroha main,Nako,0,0,0,,Então, vamos viajar juntas, ok?
 Dialogue: 10,0:27:14.82,0:27:15.82,Iroha main,Mana,0,0,0,,Sério?
 Dialogue: 10,0:27:15.82,0:27:16.59,Iroha main,Nako,0,0,0,,Sim.
-Dialogue: 10,0:27:17.78,0:27:19.21,Iroha main,Mana,0,0,0,,Yay!
-Dialogue: 10,0:27:19.61,0:27:20.97,Iroha main,Mana,0,0,0,,Yay!
+Dialogue: 10,0:27:17.78,0:27:19.21,Iroha main,Mana,0,0,0,,Viva!
+Dialogue: 10,0:27:19.61,0:27:20.97,Iroha main,Mana,0,0,0,,Viva!
 Dialogue: 10,0:27:20.97,0:27:22.53,Iroha main,kid,0,0,0,,Bom para você, Mana.
-Dialogue: 10,0:27:24.10,0:27:26.79,Thought/Flashback,TV,0,0,0,,E a resposta correta é?
-Dialogue: 10,0:27:26.79,0:27:27.64,Thought/Flashback,TV,0,0,0,,Qual?
+Dialogue: 10,0:27:24.10,0:27:26.79,Thought/Flashback,TV,0,0,0,,{\an8\i1}E a resposta correta é...
+Dialogue: 10,0:27:26.79,0:27:27.64,Thought/Flashback,TV,0,0,0,,{\an8\i1}...qual dessas?
 Dialogue: 10,0:27:31.08,0:27:33.47,Iroha main,Nako,0,0,0,,Parece que estamos um pouco acima do limite este mês.
-Dialogue: 10,0:27:34.34,0:27:38.16,Iroha main,Nako,0,0,0,,Mesmo que compremos um novo, seria uma pena se não usá-lo...
+Dialogue: 10,0:27:34.34,0:27:38.16,Iroha main,Nako,0,0,0,,Não faz sentido comprar um novo se não vamos usar...
 Dialogue: 10,0:27:38.80,0:27:40.50,Iroha main,Mana,0,0,0,,Nako, história!
 Dialogue: 10,0:27:42.05,0:27:43.93,Iroha main,Nako,0,0,0,,Claro, me dê um minuto.
 Dialogue: 10,0:27:43.93,0:27:49.10,Iroha main,kid,0,0,0,,Você venha, Nako está cansada, então deixe-a descansar um pouco.
 Dialogue: 10,0:27:50.45,0:27:51.81,Iroha main,Mana,0,0,0,,Okay.
 Dialogue: 10,0:27:52.39,0:27:54.61,Iroha main,Nako,0,0,0,,Eu, estou bem.
-Dialogue: 10,0:27:56.56,0:27:59.29,Iroha main,Nako,0,0,0,,“A princesa disse desta forma para o príncipe.”
+Dialogue: 10,0:27:56.56,0:27:59.29,Iroha main,Nako,0,0,0,,“A princesa disse desta forma para o príncipe:”
 Dialogue: 10,0:27:59.94,0:28:02.53,Iroha main,Nako,0,0,0,,“Isso não é uma tigela de arroz, é uma chaleira.”
 Dialogue: 10,0:28:15.41,0:28:17.11,Iroha main,Nako,0,0,0,,Mana, você está acordada?
-Dialogue: 10,0:28:27.94,0:28:29.56,Iroha main,Nako,0,0,0,,Obrigado.
-Dialogue: 10,0:28:33.02,0:28:35.23,Iroha main,Ohana,0,0,0,,Min-chi está atrazada.
+Dialogue: 10,0:28:27.94,0:28:29.56,Iroha main,Nako,0,0,0,,Obrigada.
+Dialogue: 10,0:28:33.02,0:28:35.23,Iroha main,Ohana,0,0,0,,Min-chi está atrasada.
 Dialogue: 10,0:28:41.99,0:28:43.20,Iroha main,Ohana,0,0,0,,Ainda bem que eu trouxe isso comigo.
 Dialogue: 10,0:29:01.28,0:29:02.56,Iroha main,Satsuki,0,0,0,,Então você vai voltar?
 Dialogue: 10,0:29:03.91,0:29:06.30,Iroha main,dude,0,0,0,,Sim, eu passei muito tempo aqui.
@@ -486,7 +486,7 @@ Dialogue: 10,0:29:36.18,0:29:39.17,Iroha main,Satsuki,0,0,0,,mas eu ainda não t
 Dialogue: 10,0:29:39.83,0:29:42.50,Iroha main,Satsuki,0,0,0,,Eu não sei mesmo o que eu quero fazer depois de ir para Tóquio.
 Dialogue: 10,0:29:45.42,0:29:47.30,Iroha main,dude,0,0,0,,Quer vir para o meu quarto um pouco?
 Dialogue: 10,0:29:56.65,0:29:58.00,Iroha main,dude,0,0,0,,Desculpe, está uma bagunça.
-Dialogue: 10,0:29:59.78,0:30:02.41,Iroha main,Satsuki,0,0,0,,Um...Eu realmente não deveria estar aqui.
+Dialogue: 10,0:29:59.78,0:30:02.41,Iroha main,Satsuki,0,0,0,,Um... Eu realmente não deveria estar aqui.
 Dialogue: 10,0:30:02.41,0:30:03.19,Iroha main,dude,0,0,0,,Aqui.
 Dialogue: 10,0:30:10.13,0:30:11.35,Iroha main,Satsuki,0,0,0,,Não.
 Dialogue: 10,0:30:11.89,0:30:14.54,Iroha main,Satsuki,0,0,0,,Essa não sou eu.
@@ -496,10 +496,10 @@ Dialogue: 10,0:30:23.68,0:30:26.22,Iroha main,dude,0,0,0,,Seu brilho não é alg
 Dialogue: 10,0:30:27.00,0:30:29.83,Iroha main,dude,0,0,0,,Não há nenhuma regra dizendo que você não pode brilhar sem um objetivo.
 Dialogue: 10,0:30:30.46,0:30:32.99,Iroha main,dude,0,0,0,,Você pode se preocupar muito, ir embora com um monte de problemas,
 Dialogue: 10,0:30:33.36,0:30:35.78,Iroha main,dude,0,0,0,,e mesmo depois de tudo isso, olhe.
-Dialogue: 10,0:30:36.83,0:30:38.19,Iroha main,dude,0,0,0,,Você ainda esta linda.
+Dialogue: 10,0:30:36.83,0:30:38.19,Iroha main,dude,0,0,0,,Você ainda está linda.
 Dialogue: 10,0:30:45.62,0:30:47.40,Iroha main,dude,0,0,0,,Satsuki-chan? O que há de errado{\fscx300}-{\fscx100}
 Dialogue: 10,0:30:47.40,0:30:49.54,Iroha main,Satsuki,0,0,0,,Eu acho que eu te amo!
-Dialogue: 10,0:30:55.65,0:31:01.54,Iroha main,dude,0,0,0,,Você provavelmente tem a sua admiração por Tóquio e eu tudo misturado.
+Dialogue: 10,0:30:55.65,0:31:01.54,Iroha main,dude,0,0,0,,Você provavelmente misturou a sua admiração por Tóquio comigo.
 Dialogue: 10,0:31:01.54,0:31:02.54,Iroha main,Satsuki,0,0,0,,Você está apenas tentando agir com maturidade!
 Dialogue: 10,0:31:03.25,0:31:04.38,Iroha main,dude,0,0,0,,Você acha isso?
 Dialogue: 10,0:31:05.97,0:31:07.55,Iroha main,Satsuki,0,0,0,,Sim, você é!
@@ -510,7 +510,7 @@ Dialogue: 10,0:31:36.45,0:31:38.83,Iroha main,Enishi,0,0,0,,Onee-chan, ele está
 Dialogue: 10,0:31:40.14,0:31:41.21,Iroha main,dude,0,0,0,,Está tudo bem, Enishi-kun.
 Dialogue: 10,0:31:42.01,0:31:42.83,Iroha main,dude,0,0,0,,Aqui,
 Dialogue: 10,0:31:44.23,0:31:46.00,Iroha main,dude,0,0,0,,você pode dar isto para sua irmã para mim?
-Dialogue: 10,0:31:46.76,0:31:48.09,Iroha main,dude,0,0,0,,Diga que ela esqueceu de tirar isso de mim.
+Dialogue: 10,0:31:46.76,0:31:48.09,Iroha main,dude,0,0,0,,Diga que ela esqueceu de pegar isso.
 Dialogue: 10,0:31:48.09,0:31:48.78,Iroha main,Enishi,0,0,0,,Sim!
 Dialogue: 10,0:31:49.82,0:31:50.80,Iroha main,dude,0,0,0,,Obrigado.
 Dialogue: 10,0:31:51.78,0:31:53.75,Iroha main,Enishi,0,0,0,,Onee-chan?
@@ -518,12 +518,12 @@ Dialogue: 10,0:31:57.55,0:31:59.27,Iroha main,Enishi,0,0,0,,Ei, Onee-chan!
 Dialogue: 10,0:32:00.05,0:32:01.44,Iroha main,Enishi,0,0,0,,Onee{\fscx300}-{\fscx100}
 Dialogue: 10,0:32:36.83,0:32:39.96,Iroha main,Satsuki,0,0,0,,Eu não estou dizendo adeus, ok?
 Dialogue: 10,0:32:46.94,0:32:49.10,Iroha main,girl,0,0,0,,Sim, eu digo a ela.
-Dialogue: 10,0:32:49.10,0:32:50.72,Iroha main,Sui,0,0,0,,Os hóspedes na sala Garça{\fscx300}-{\fscx100}
+Dialogue: 10,0:32:49.10,0:32:50.72,Iroha main,Sui,0,0,0,,Os hóspedes do Quarto da Garça{\fscx300}-{\fscx100}
 Dialogue: 10,0:32:49.70,0:32:50.72,Overlaps,girl,0,0,0,,Senhora!
 Dialogue: 10,0:32:50.72,0:32:52.56,Iroha main,girl,0,0,0,,Tivemos uma chamada da escola da senhorita.
 Dialogue: 10,0:33:00.20,0:33:02.44,Iroha main,Sui,0,0,0,,Satsuki, eu estou entrando.
 Dialogue: 10,0:33:03.66,0:33:05.92,Iroha main,Sui,0,0,0,,Acabei de receber um telefonema de sua escola.
-Dialogue: 10,0:33:05.92,0:33:09.06,Iroha main,Sui,0,0,0,,Você mudou sua escolha de facudade?
+Dialogue: 10,0:33:05.92,0:33:09.06,Iroha main,Sui,0,0,0,,Você mudou sua escolha de faculdade?
 Dialogue: 10,0:33:09.06,0:33:10.49,Iroha main,Sui,0,0,0,,Por que não pediu permissão?
 Dialogue: 10,0:33:10.49,0:33:12.20,Iroha main,Satsuki,0,0,0,,Eu encontrei algo que eu quero fazer.
 Dialogue: 10,0:33:14.98,0:33:17.39,Iroha main,Satsuki,0,0,0,,Eu vou ser uma editora.
@@ -535,7 +535,7 @@ Dialogue: 10,0:33:26.65,0:33:28.17,Iroha main,Satsuki,0,0,0,,Eu sou o mesmo que 
 Dialogue: 10,0:33:28.17,0:33:29.79,Iroha main,Satsuki,0,0,0,,Você só perseguiu o papai!
 Dialogue: 10,0:33:30.44,0:33:32.52,Iroha main,Satsuki,0,0,0,,Mas eu não vou negar mais isso.
 Dialogue: 10,0:33:33.95,0:33:36.90,Iroha main,Satsuki,0,0,0,,Por favor! Deixe-me ir para Tóquio!
-Dialogue: 10,0:33:36.90,0:33:39.28,Iroha main,Satsuki,0,0,0,,Eu vou conseguir um emprego de meio periodo e me apoiar.
+Dialogue: 10,0:33:36.90,0:33:39.28,Iroha main,Satsuki,0,0,0,,Eu vou conseguir um emprego de meio período e me apoiar.
 Dialogue: 10,0:33:40.53,0:33:41.68,Iroha main,Satsuki,0,0,0,,Por favor, deixe-me...
 Dialogue: 10,0:33:42.08,0:33:44.25,Iroha main,Satsuki,0,0,0,,Por favor, deixe-me seguir o meu sonho!
 Dialogue: 10,0:33:50.42,0:33:52.84,Iroha main,Ohana,0,0,0,,“Achei o que ela quer fazer?”
@@ -570,7 +570,7 @@ Dialogue: 10,0:35:18.05,0:35:19.88,Iroha main,Ohana,0,0,0,,{\i1}Eu estou alcanç
 Dialogue: 10,0:35:20.30,0:35:23.93,Iroha main,Ohana,0,0,0,,{\i1}Para o passado da Mama, que eu pensei que nunca iria descobrir.{\i0}
 Dialogue: 10,0:35:24.30,0:35:26.40,Iroha main,Ohana,0,0,0,,{\i1}Ela tinha preocupações? Ela estava perdida?{\i0}
 Dialogue: 10,0:35:26.40,0:35:27.38,Iroha main,Ohana,0,0,0,,{\i1}Ela se apaixonou?{\i0}
-Dialogue: 10,0:35:33.15,0:35:34.79,Iroha main,Ohana,0,0,0,,{\i1}Ela...se apaixonou.{\i0}
+Dialogue: 10,0:35:33.15,0:35:34.79,Iroha main,Ohana,0,0,0,,{\i1}Ela... se apaixonou.{\i0}
 Dialogue: 10,0:35:35.50,0:35:38.69,Iroha main,Ohana,0,0,0,,{\i1}Mama encontrou o amor.{\i0}
 Dialogue: 10,0:35:40.78,0:35:43.49,Iroha main,Ohana,0,0,0,,{\i1}Eu poderia tê-lo encontrado também.{\i0}
 Dialogue: 10,0:35:44.92,0:35:46.25,Iroha main,Ohana,0,0,0,,{\i1}Eu deveria ter, pelo menos.{\i0}
@@ -582,25 +582,25 @@ Dialogue: 10,0:36:10.03,0:36:11.02,Thought/Flashback,Ohana,0,0,0,,Kou-chan?
 Dialogue: 10,0:36:11.02,0:36:12.17,Thought/Flashback,Kou,0,0,0,,Nada.
 Dialogue: 10,0:36:13.28,0:36:14.65,Thought/Flashback,Kou,0,0,0,,Olhe, tem um lugar livre.
 Dialogue: 10,0:36:16.43,0:36:18.28,Thought/Flashback,Ohana,0,0,0,,É bem debaixo das cerejeiras!
-Dialogue: 10,0:36:19.88,0:36:22.31,Thought/Flashback,Ohana,0,0,0,,E, no entanto, eu ..
-Dialogue: 10,0:36:33.65,0:36:36.07,Iroha main,Minko,0,0,0,,Não, ainda não esta certo.
+Dialogue: 10,0:36:19.88,0:36:22.31,Thought/Flashback,Ohana,0,0,0,,E, no entanto, eu...
+Dialogue: 10,0:36:33.65,0:36:36.07,Iroha main,Minko,0,0,0,,Não, ainda não é isso.
 Dialogue: 10,0:36:40.29,0:36:43.21,Iroha main,Minko,0,0,0,,{\i1}Eu quero cozinhar alguma coisa que Tohru-san vá aprovar.{\i0}
 Dialogue: 10,0:36:44.03,0:36:44.96,Iroha main,Minko,0,0,0,,{\i1}Mas...{\i0}
 Dialogue: 10,0:36:56.92,0:37:00.19,Iroha main,Minko,0,0,0,,Tsukudani, bonita!
-Dialogue: 10,0:37:08.99,0:37:13.13,Iroha main,Tohru,0,0,0,,Porque todas as meninas estão se animando a essa hora da noite?
-Dialogue: 10,0:37:13.84,0:37:14.90,Iroha main,Tohru,0,0,0,,Eu estou indo para casa.
+Dialogue: 10,0:37:08.99,0:37:13.13,Iroha main,Tohru,0,0,0,,Porque todas as meninas ficam tão animadas a essa hora da noite?
+Dialogue: 10,0:37:13.84,0:37:14.90,Iroha main,Tohru,0,0,0,,Vou para casa.
 Dialogue: 10,0:37:37.90,0:37:40.47,Iroha main,Tomoe,0,0,0,,Ah, bom dia!
 Dialogue: 10,0:37:43.62,0:37:45.32,Iroha main,Ren,0,0,0,,Y-Yo.
 Dialogue: 10,0:37:46.48,0:37:48.95,Iroha main,Tomoe,0,0,0,,Ren-san, o que há com esse cabelo?
-Dialogue: 10,0:37:48.95,0:37:51.80,Iroha main,Ren,0,0,0,,Sim, eu pensei em mudá-lo.
-Dialogue: 10,0:37:52.62,0:37:55.54,Iroha main,Ren,0,0,0,,É chamado de “mudança de imagem”, certo?
+Dialogue: 10,0:37:48.95,0:37:51.80,Iroha main,Ren,0,0,0,,Sim, eu pensei em mudar ele.
+Dialogue: 10,0:37:52.62,0:37:55.54,Iroha main,Ren,0,0,0,,É como dizem, mudar a aparência, né?
 Dialogue: 10,0:37:56.69,0:38:00.34,Iroha main,Tomoe,0,0,0,,Só porque você estava atrasado, você não ajeitou o seu cabelo?
-Dialogue: 10,0:38:00.34,0:38:01.21,Iroha main,Tomoe,0,0,0,,Lá vai você .
+Dialogue: 10,0:38:00.34,0:38:01.21,Iroha main,Tomoe,0,0,0,,Pronto.
 Dialogue: 10,0:38:04.92,0:38:06.75,Iroha main,Tomoe,0,0,0,,Escute, Ren-san.
 Dialogue: 10,0:38:06.75,0:38:09.45,Iroha main,Tomoe,0,0,0,,Nós ainda temos a vida inteira pela frente.
 Dialogue: 10,0:38:09.45,0:38:10.90,Iroha main,Tomoe,0,0,0,,Então, não fique desleixado!
 Dialogue: 10,0:38:10.90,0:38:12.55,Iroha main,Ren,0,0,0,,S-Sim.
-Dialogue: 10,0:38:13.68,0:38:19.30,Iroha main,Tomoe,0,0,0,,Certo, eu estou colocando vocês meninas através de seus passos até que suas solas estejem completamente cobertas de calos, ok?
+Dialogue: 10,0:38:13.68,0:38:19.30,Iroha main,Tomoe,0,0,0,,Certo! Vamos trabalhar até que suas solas estejam completamente cobertas de calos, ok?
 Dialogue: 10,0:38:19.30,0:38:20.36,Iroha main,Yuina,0,0,0,,Sim!
 Dialogue: 10,0:38:20.36,0:38:21.96,Iroha main,Nako,0,0,0,,“Solas”?
 Dialogue: 10,0:38:22.32,0:38:23.38,Iroha main,Nako,0,0,0,,“Calos”?
@@ -612,54 +612,55 @@ Dialogue: 10,0:38:33.91,0:38:36.31,Iroha main,Nako,0,0,0,,Isso mesmo, eles disse
 Dialogue: 10,0:38:36.31,0:38:37.88,Iroha main,Nako,0,0,0,,Eu sabia que você ia lembrar, Yuina-san!
 Dialogue: 10,0:38:37.88,0:38:39.58,Iroha main,Yuina,0,0,0,,Começou tipo há dez minutos, certo?
 Dialogue: 10,0:38:39.58,0:38:41.27,Iroha main,Yuina,0,0,0,,Aqui, eu tenho mais para todos vocês também!
-Dialogue: 10,0:38:41.27,0:38:43.50,Iroha main,Ohana,0,0,0,,Incrivel! Como é gentil de sua parte, Yuina-san!
-Dialogue: 10,0:38:44.02,0:38:48.43,Iroha main,Yuina,0,0,0,,Yuina ainda está crescendo!
-Dialogue: 10,0:38:49.01,0:38:50.14,Iroha main,Tomoe,0,0,0,,Mesmo que eu seje!
+Dialogue: 10,0:38:41.27,0:38:43.50,Iroha main,Ohana,0,0,0,,Incrível! Que preparo de sua parte, Yuina-san!
+Dialogue: 10,0:38:44.02,0:38:48.43,Iroha main,Yuina,0,0,0,,Yuina... está crescendo!
+Dialogue: 10,0:38:49.01,0:38:50.14,Iroha main,Tomoe,0,0,0,,Eu ainda...
 Dialogue: 10,0:38:50.14,0:38:54.14,Iroha main,Tomoe,0,0,0,,Eu ainda estou crescendo também!
-Dialogue: 10,0:38:55.10,0:38:59.10,Iroha main,Tomoe,0,0,0,,Apesar da minha aparência, eu ainda estou no buraco!
-Dialogue: 10,0:38:59.10,0:39:00.14,Iroha main,Yuina,0,0,0,,Incrivel!
-Dialogue: 10,0:39:00.14,0:39:02.61,Iroha main,Ohana,0,0,0,,É raro ver Tomoe-san fazendo a limpeza!
+Dialogue: 10,0:38:55.10,0:38:57.10,Iroha main,Tomoe,0,0,0,,Se preparem para ficar impressionados...
+Dialogue: 10,0:38:57.10,0:38:59.10,Iroha main,Tomoe,0,0,0,,...lá vou eu!
+Dialogue: 10,0:38:59.10,0:39:00.14,Iroha main,Yuina,0,0,0,,Incrível!
+Dialogue: 10,0:39:00.14,0:39:02.61,Iroha main,Ohana,0,0,0,,É raro ver a Tomoe-san fazendo a limpeza!
 Dialogue: 10,0:39:04.28,0:39:05.61,Iroha main,Tohru,0,0,0,,Parece que começou.
 Dialogue: 10,0:39:06.05,0:39:09.09,Iroha main,Ren,0,0,0,,Ok, termine o que você pode, por agora.
 Dialogue: 10,0:39:09.09,0:39:10.41,Iroha main,Minko,0,0,0,,Eu estou aqui.
 Dialogue: 10,0:39:10.41,0:39:11.29,Iroha main,Ren,0,0,0,,Certo.
-Dialogue: 10,0:39:11.76,0:39:13.62,Iroha main,Ren,0,0,0,,Nós não temos tempo para um pequeno-almoço adequado.
-Dialogue: 10,0:39:14.33,0:39:15.75,Iroha main,Ren,0,0,0,,Vamos apenas comer aqui.
+Dialogue: 10,0:39:11.76,0:39:13.62,Iroha main,Ren,0,0,0,,Nós não temos tempo para um café da manhã adequado.
+Dialogue: 10,0:39:14.33,0:39:15.75,Iroha main,Ren,0,0,0,,Vamos comer aqui mesmo.
 Dialogue: 10,0:39:15.75,0:39:16.74,Iroha main,Tohru,0,0,0,,Claro.
 Dialogue: 10,0:39:16.74,0:39:17.87,Iroha main,Minko,0,0,0,,Sim.
 Dialogue: 10,0:39:17.87,0:39:18.96,Iroha main,Minko,0,0,0,,Eu vou buscá-las imediatamente!
-Dialogue: 10,0:39:19.51,0:39:22.97,Iroha main,Tohru,0,0,0,,Então eu deveria dizer o atacadista sobre isso?
+Dialogue: 10,0:39:19.51,0:39:22.97,Iroha main,Tohru,0,0,0,,Então eu deveria dizer ao fornecedor sobre isso?
 Dialogue: 10,0:39:22.97,0:39:24.25,Iroha main,Ren,0,0,0,,Sim,
 Dialogue: 10,0:39:24.25,0:39:27.72,Iroha main,Ren,0,0,0,,que com essa falta de energia e tudo...
 Dialogue: 10,0:39:24.93,0:39:27.26,Overlaps,Minko,0,0,0,,{\i1}Pensei nesse novo prato na noite passada.{\i0}
 Dialogue: 10,0:39:27.26,0:39:28.80,Overlaps,Minko,0,0,0,,{\i1}Tenho certeza de que Tohru-san vai aprová-lo!{\i0}
 Dialogue: 10,0:39:28.80,0:39:30.08,Iroha main,Ren,0,0,0,,Nesse caso...
 Dialogue: 10,0:39:30.08,0:39:31.28,Iroha main,Minko,0,0,0,,Está pronto.
-Dialogue: 10,0:39:31.61,0:39:32.22,Iroha main,Ren,0,0,0,,Woah,
+Dialogue: 10,0:39:31.61,0:39:32.22,Iroha main,Ren,0,0,0,,Uau,
 Dialogue: 10,0:39:32.62,0:39:35.25,Iroha main,Ren,0,0,0,,você colocou muito esforço nisso.
 Dialogue: 10,0:39:35.25,0:39:35.96,Iroha main,Ren,0,0,0,,Como você come isso?
-Dialogue: 10,0:39:37.41,0:39:39.65,Iroha main,Minko,0,0,0,,Para isso, você coloca em cima deste balde e os come com{\fscx300}-{\fscx100}
+Dialogue: 10,0:39:37.41,0:39:39.65,Iroha main,Minko,0,0,0,,Você os coloca nesse molho e os come com{\fscx300}-{\fscx100}
 Dialogue: 10,0:39:39.65,0:39:40.77,Iroha main,Tohru,0,0,0,,Isso não é bom.
 Dialogue: 10,0:39:41.48,0:39:42.37,Iroha main,Tohru,0,0,0,,Ren-san.
-Dialogue: 10,0:39:42.97,0:39:46.46,Iroha main,Tohru,0,0,0,,Vai demorar um pouco para deixá-lo pronto, por isso vou dar-lhes uma chamada agora.
+Dialogue: 10,0:39:42.97,0:39:46.46,Iroha main,Tohru,0,0,0,,Vai demorar um pouco para arrumar isso, então vou avisar eles.
 Dialogue: 10,0:39:46.91,0:39:48.00,Iroha main,Ren,0,0,0,,Claro, mas o que acontece com café da manhã?
 Dialogue: 10,0:39:48.00,0:39:49.09,Iroha main,Tohru,0,0,0,,Eu vou comer mais tarde.
-Dialogue: 10,0:39:57.49,0:39:59.54,Iroha main,Tomoe,0,0,0,,Depois que você terminar com isso, faça o quarto Mist.
-Dialogue: 10,0:39:59.54,0:40:00.63,Iroha main,Yuina,0,0,0,,Aye aye, senhora!
+Dialogue: 10,0:39:57.49,0:39:59.54,Iroha main,Tomoe,0,0,0,,Depois que você terminar com isso, arrume o Quarto da Neblina
+Dialogue: 10,0:39:59.54,0:40:00.63,Iroha main,Yuina,0,0,0,,Sim sim senhora!
 Dialogue: 10,0:40:04.50,0:40:07.50,Iroha main,Tamako,0,0,0,,Isso mesmo. Este lugar é...
 Dialogue: 10,0:40:09.70,0:40:11.77,Iroha main,Tomoe,0,0,0,,Yuina-chan, me ajude com isso!
-Dialogue: 10,0:40:11.77,0:40:13.23,Iroha main,Yuina,0,0,0,,Ja estou indo~
+Dialogue: 10,0:40:11.77,0:40:13.23,Iroha main,Yuina,0,0,0,,Já estou indo~
 Dialogue: 10,0:40:15.51,0:40:17.53,Iroha main,Ohana,0,0,0,,{\i1}Ela ainda está se dando bem, apesar de suas falhas.{\i0}
 Dialogue: 10,0:40:26.62,0:40:28.22,Iroha main,Ohana,0,0,0,,Ok, tudo pronto!
 Dialogue: 10,0:40:29.49,0:40:31.84,Iroha main,Ohana,0,0,0,,Graças ao trabalho duro da Yuina-san,
 Dialogue: 10,0:40:32.46,0:40:34.46,Iroha main,Ohana,0,0,0,,parece que vamos terminar na hora, certo?
 Dialogue: 10,0:40:34.46,0:40:34.95,Iroha main,Nako,0,0,0,,É!
-Dialogue: 10,0:40:35.64,0:40:38.78,Iroha main,nako,0,0,0,,Achei que teria um tempo difícil, porque não temos energia.
+Dialogue: 10,0:40:35.64,0:40:38.78,Iroha main,nako,0,0,0,,Achei que sem energia as coisas ficariam complicadas.
 Dialogue: 10,0:40:38.78,0:40:40.16,Iroha main,Nako,0,0,0,,Mas é um alívio!
 Dialogue: 10,0:40:40.53,0:40:45.91,Iroha main,Nako,0,0,0,,Tenho que me preparar para a viagem de amanhã, então eu queria sair mais cedo.
 Dialogue: 10,0:40:45.91,0:40:47.73,Iroha main,Ohana,0,0,0,,Oh, você pode ir em frente agora.
 Dialogue: 10,0:40:48.19,0:40:50.30,Iroha main,Ohana,0,0,0,,Eu vou fazer a sua parte.
-Dialogue: 10,0:40:50.30,0:40:52.34,Iroha main,Nako,0,0,0,,Huh? Eu não posso fazer isso!
+Dialogue: 10,0:40:50.30,0:40:52.34,Iroha main,Nako,0,0,0,,Huh? Não posso te deixar fazer isso!
 Dialogue: 10,0:40:52.79,0:40:55.16,Iroha main,Ohana,0,0,0,,Está tudo bem, eu posso te dar cobertura desta vez.
 Dialogue: 10,0:40:55.16,0:40:57.13,Iroha main,Ohana,0,0,0,,Além disso, a energia deve estar de volta, certo?
 Dialogue: 10,0:41:03.83,0:41:04.42,Iroha main,Ohana,0,0,0,,Huh?
@@ -683,7 +684,7 @@ Dialogue: 10,0:41:42.88,0:41:43.69,Iroha main,Ren,0,0,0,,Sim.
 Dialogue: 10,0:41:43.69,0:41:47.93,Iroha main,Ren,0,0,0,,Eu estava indo para assar um peixe, mas se não podemos usar o forno,
 Dialogue: 10,0:41:47.93,0:41:50.36,Iroha main,Ren,0,0,0,,nós vamos ter que mudar e fritar em óleo em seu lugar.
 Dialogue: 10,0:41:50.36,0:41:52.06,Iroha main,Tohru,0,0,0,,Nós não podemos usar a geladeira...
-Dialogue: 10,0:41:52.94,0:41:55.07,Iroha main,Tohru,0,0,0,,Portanto, não podemos fazer a geléia de vegetal, certo?
+Dialogue: 10,0:41:52.94,0:41:55.07,Iroha main,Tohru,0,0,0,,Portanto, não podemos fazer a geleia de vegetal, certo?
 Dialogue: 10,0:41:55.63,0:41:57.15,Iroha main,Tohru,0,0,0,,Devemos apenas jogar algo juntos?
 Dialogue: 10,0:41:57.54,0:42:00.35,Iroha main,Sui,0,0,0,,Tomoe, explique isso para os clientes.
 Dialogue: 10,0:41:58.10,0:41:59.87,Overlaps,Ohana,0,0,0,,Nako-chi, você não tem que ir para casa?
@@ -695,7 +696,7 @@ Dialogue: 10,0:42:09.76,0:42:11.12,Iroha main,Nako,0,0,0,,Sinto muito!
 Dialogue: 10,0:42:11.98,0:42:12.63,Iroha main,Nako,0,0,0,,Alô?
 Dialogue: 10,0:42:13.64,0:42:15.56,Iroha main,Nako,0,0,0,,O que há de errado, Tomoya?
 Dialogue: 10,0:42:15.56,0:42:18.13,Iroha main,Nako,0,0,0,,Eu lhe disse para não me chamar a menos que seja uma emergência!
-Dialogue: 10,0:42:18.13,0:42:21.44,Thought/Flashback,Tomoya,0,0,0,,Eu...não consigo encontrá-la.
+Dialogue: 10,0:42:18.13,0:42:21.44,Thought/Flashback,Tomoya,0,0,0,,Eu... não consigo encontrá-la.
 Dialogue: 10,0:42:23.24,0:42:24.10,Iroha main,Nako,0,0,0,,Mana?
 Dialogue: 10,0:42:24.43,0:42:25.60,Iroha main,Ohana,0,0,0,,Nako-chi?
 Dialogue: 10,0:42:26.50,0:42:31.15,Iroha main,Tomoya,0,0,0,,Eu estava ajudando a se preparar para sua viagem,
@@ -736,23 +737,23 @@ Dialogue: 10,0:43:56.52,0:43:58.99,Iroha main,Nako,0,0,0,,Eu não me importo sob
 Dialogue: 10,0:43:59.82,0:44:00.82,Iroha main,Nako,0,0,0,,Volte!
 Dialogue: 10,0:44:01.49,0:44:02.58,Iroha main,Ohana,0,0,0,,Nako-chi...
 Dialogue: 10,0:44:02.58,0:44:05.62,Iroha main,Nako,0,0,0,,Eu nunca fui egoísta antes!
-Dialogue: 10,0:44:05.62,0:44:07.55,Iroha main,Nako,0,0,0,,Eu nunca sou egoísta!
+Dialogue: 10,0:44:05.62,0:44:07.55,Iroha main,Nako,0,0,0,,Nunca fui!
 Dialogue: 10,0:44:08.98,0:44:11.22,Iroha main,Nako,0,0,0,,Pelo menos me ouça agora!
-Dialogue: 10,0:44:11.22,0:44:13.71,Iroha main,Nako,0,0,0,,Estou sempre mantendo-engarrafado dentro de mim!
+Dialogue: 10,0:44:11.22,0:44:13.71,Iroha main,Nako,0,0,0,,Estive aguentando por tanto tempo!
 Dialogue: 10,0:44:14.08,0:44:16.14,Iroha main,Nako,0,0,0,,Assim, pelo menos deixe-me ser egoísta agora!
-Dialogue: 10,0:44:17.80,0:44:19.05,Iroha main,Nako,0,0,0,,Volta!
+Dialogue: 10,0:44:17.80,0:44:19.05,Iroha main,Nako,0,0,0,,Volte para casa!
 Dialogue: 10,0:44:22.98,0:44:23.96,Iroha main,Ohana,0,0,0,,Nako-chi...
 Dialogue: 10,0:44:24.29,0:44:25.60,Thought/Flashback,Ohana,0,0,0,,Eu tentei ser paciente.{\fad(0,500)}
-Dialogue: 10,0:44:26.92,0:44:28.26,Thought/Flashback,Ohana,0,0,0,,Isso é certo.
-Dialogue: 10,0:44:28.26,0:44:30.45,Thought/Flashback,Ohana,0,0,0,,Em aturar um monte de suas palhaçadas.
+Dialogue: 10,0:44:26.92,0:44:28.26,Thought/Flashback,Ohana,0,0,0,,É isso mesmo.
+Dialogue: 10,0:44:28.26,0:44:30.45,Thought/Flashback,Ohana,0,0,0,,Já aguentei várias e várias vezes.
 Dialogue: 10,0:44:30.98,0:44:33.19,Thought/Flashback,Ohana,0,0,0,,Mesmo se você for para a festa à noite,
 Dialogue: 10,0:44:33.19,0:44:36.02,Thought/Flashback,Ohana,0,0,0,,mesmo estando escuro, eu estava com medo de ficar sozinha,
-Dialogue: 10,0:44:36.02,0:44:37.85,Thought/Flashback,Ohana,0,0,0,,Eu ainda coloquei com ele!
-Dialogue: 10,0:44:38.40,0:44:41.44,Thought/Flashback,Ohana,0,0,0,,Mesmo no Dia dos Pais, quando fomos para o jardim zoológico, e os dias de piscina,
-Dialogue: 10,0:44:41.44,0:44:43.20,Thought/Flashback,Ohana,0,0,0,,mesmo que eu tive que cancelar, eu coloquei com ele.
-Dialogue: 10,0:44:43.20,0:44:44.57,Thought/Flashback,Ohana,0,0,0,,Coloquei-se com ele,
+Dialogue: 10,0:44:36.02,0:44:37.85,Thought/Flashback,Ohana,0,0,0,,Mesmo assim eu aguentei!
+Dialogue: 10,0:44:38.40,0:44:41.44,Thought/Flashback,Ohana,0,0,0,,Mesmo no Dia dos Pais, quando fomos para o jardim zoológico, até a piscina,
+Dialogue: 10,0:44:41.44,0:44:43.20,Thought/Flashback,Ohana,0,0,0,,mesmo que eu tive que cancelar, eu aguentei.
+Dialogue: 10,0:44:43.20,0:44:44.57,Thought/Flashback,Ohana,0,0,0,,Aguentei, aguentei,
 Dialogue: 10,0:44:45.08,0:44:47.58,Thought/Flashback,Ohana,0,0,0,,porque você estava sempre trabalhando.
-Dialogue: 10,0:44:47.96,0:44:52.76,Iroha main,Nako,0,0,0,,Você prometeu levar Mana até o telhado da loja de departamento,
+Dialogue: 10,0:44:47.96,0:44:52.76,Iroha main,Nako,0,0,0,,Você prometeu levar Mana no show no telhado da loja,
 Dialogue: 10,0:44:52.76,0:44:54.41,Iroha main,Nako,0,0,0,,mas você quebrou a promessa!
 Dialogue: 10,0:44:58.20,0:45:01.92,Iroha main,Nako,0,0,0,,Ela estava realmente ansiosa para isso!
 Dialogue: 10,0:45:03.32,0:45:04.45,Iroha main,Ohana,0,0,0,,Vamos lá.
@@ -760,7 +761,7 @@ Dialogue: 10,0:45:06.55,0:45:08.07,Iroha main,Ohana,0,0,0,,Mana-chan pode estar 
 Dialogue: 10,0:45:26.79,0:45:29.05,Iroha main,Ohana,0,0,0,,{\i1}Coisas assim aconteceram comigo também.{\i0}
 Dialogue: 10,0:45:30.28,0:45:33.98,Iroha main,Ohana,0,0,0,,{\i1}Mama quebrou sua promessa de me levar para o zoológico.{\i0}
 Dialogue: 10,0:45:41.09,0:45:44.63,Iroha main,Ohana,0,0,0,,{\i1}Mas eu não podia desistir, e eu não sabia o caminho.{\i0}
-Dialogue: 10,0:45:45.13,0:45:47.84,Iroha main,Ohana,0,0,0,,{\i1}Então eu fui a uma loja de animal de estimação.{\i0}
+Dialogue: 10,0:45:45.13,0:45:47.84,Iroha main,Ohana,0,0,0,,{\i1}Então eu fui a uma loja de animais de estimação.{\i0}
 Dialogue: 10,0:46:29.88,0:46:30.75,Iroha main,Nako,0,0,0,,Mana!
 Dialogue: 10,0:46:42.24,0:46:43.36,Iroha main,Nako,0,0,0,,Sua idiota...
 Dialogue: 10,0:46:43.81,0:46:45.23,Iroha main,Nako,0,0,0,,Mana, sua idiota!
@@ -771,20 +772,20 @@ Dialogue: 10,0:46:51.99,0:46:53.07,Iroha main,Nako,0,0,0,,Idiota!
 Dialogue: 10,0:46:53.07,0:46:54.86,Iroha main,Nako,0,0,0,,Você tem uma viagem amanhã, certo?
 Dialogue: 10,0:46:54.86,0:46:56.61,Iroha main,Mana,0,0,0,,Eu não quero ir!
 Dialogue: 10,0:46:59.48,0:47:00.59,Iroha main,Mana,0,0,0,,Se Mama...
-Dialogue: 10,0:47:01.74,0:47:03.84,Iroha main,Mana,0,0,0,,Se Mama...não vir...
-Dialogue: 10,0:47:04.97,0:47:06.50,Iroha main,Mana,0,0,0,,Eu não quero...
+Dialogue: 10,0:47:01.74,0:47:03.84,Iroha main,Mana,0,0,0,,Se Mama... não vir...
+Dialogue: 10,0:47:04.97,0:47:06.50,Iroha main,Mana,0,0,0,,então não quero...
 Dialogue: 10,0:47:07.13,0:47:08.65,Iroha main,Mana,0,0,0,,ir em uma viagem!
 Dialogue: 10,0:47:09.30,0:47:12.54,Iroha main,Mana,0,0,0,,Todo mundo vai estar com suas mães!
 Dialogue: 10,0:47:12.99,0:47:14.50,Iroha main,Mana,0,0,0,,Eu não quero ficar sem ela!
-Dialogue: 10,0:47:26.20,0:47:27.80,Iroha main,Nako,0,0,0,,Eu estou aqui para você, no entanto.
+Dialogue: 10,0:47:26.20,0:47:27.80,Iroha main,Nako,0,0,0,,Eu estou aqui, não é?
 Dialogue: 10,0:47:28.65,0:47:30.88,Iroha main,Nako,0,0,0,,Eu vou com você.
 Dialogue: 10,0:47:31.42,0:47:33.45,Iroha main,Nako,0,0,0,,E eu vou fazer um grande almoço para você.
 Dialogue: 10,0:47:38.12,0:47:39.16,Iroha main,Nako,0,0,0,,Então...
 Dialogue: 10,0:47:40.09,0:47:40.88,Iroha main,Nako,0,0,0,,Ok?
 Dialogue: 10,0:47:48.42,0:47:50.54,Iroha main,Nako,0,0,0,,O que há de errado, Ohana-chan?
 Dialogue: 10,0:47:51.90,0:47:53.22,Iroha main,Ohana,0,0,0,,Eu realmente não sei, mas...
-Dialogue: 10,0:47:54.38,0:47:58.02,Iroha main,Ohana,0,0,0,,Eu estou chorando porque você não vai!
-Dialogue: 10,0:47:58.97,0:48:02.19,Iroha main,Ohana,0,0,0,,Mesmo que você ainda seje uma criança, Nako-chi,
+Dialogue: 10,0:47:54.38,0:47:58.02,Iroha main,Ohana,0,0,0,,Eu estou chorando porque você não está!
+Dialogue: 10,0:47:58.97,0:48:02.19,Iroha main,Ohana,0,0,0,,Mesmo que você ainda seja uma criança, Nako-chi,
 Dialogue: 10,0:48:02.19,0:48:04.32,Iroha main,Ohana,0,0,0,,você diz coisas que um adulto faria.
 Dialogue: 10,0:48:04.80,0:48:07.61,Iroha main,Ohana,0,0,0,,Tenho certeza que você quer chorar também!
 Dialogue: 10,0:48:08.27,0:48:09.98,Iroha main,Ohana,0,0,0,,Você é uma grande pessoa!
@@ -792,7 +793,7 @@ Dialogue: 10,0:48:10.44,0:48:12.84,Iroha main,Ohana,0,0,0,,Você está fazendo u
 Dialogue: 10,0:48:21.66,0:48:23.61,Iroha main,Nako,0,0,0,,Ohana-chan...
 Dialogue: 10,0:48:39.73,0:48:42.05,Iroha main,Nako,0,0,0,,Deixei Tomoya saber.
 Dialogue: 10,0:48:42.05,0:48:43.56,Iroha main,Nako,0,0,0,,Ele disse que estava arrependido?
-Dialogue: 10,0:48:43.56,0:48:47.68,Iroha main,Nako,0,0,0,,Sim. Mas você tem que dizer que está arrependida tambem, ok?
+Dialogue: 10,0:48:43.56,0:48:47.68,Iroha main,Nako,0,0,0,,Sim. Mas você tem que dizer que está arrependida também, ok?
 Dialogue: 10,0:48:47.68,0:48:49.18,Iroha main,Mana,0,0,0,,Tudo bem!
 Dialogue: 10,0:48:54.03,0:48:55.18,Iroha main,Ohana,0,0,0,,Luminárias?
 Dialogue: 10,0:49:03.68,0:49:05.87,Iroha main,Mana,0,0,0,,Uau, que bonito!
@@ -800,14 +801,14 @@ Dialogue: 10,0:49:06.84,0:49:09.24,Iroha main,Nako,0,0,0,,Eles são todas velas.
 Dialogue: 10,0:49:09.24,0:49:11.38,Iroha main,Yuina,0,0,0,,Ah, elas estão de volta!
 Dialogue: 10,0:49:11.38,0:49:13.26,Iroha main,Tomoe,0,0,0,,Sua irmã está com você também?
 Dialogue: 10,0:49:13.26,0:49:14.38,Iroha main,Tomoe,0,0,0,,Isso é ótimo.
-Dialogue: 10,0:49:15.33,0:49:17.35,Iroha main,Ohana,0,0,0,,Um...isso é.
+Dialogue: 10,0:49:15.33,0:49:17.35,Iroha main,Ohana,0,0,0,,Um... isso é.
 Dialogue: 10,0:49:17.90,0:49:20.49,Iroha main,Yuina,0,0,0,,Nós superamos o apagão com um pouco de luz de velas.
 Dialogue: 10,0:49:20.49,0:49:21.63,Iroha main,Yuina,0,0,0,,Não é maravilhoso?
 Dialogue: 10,0:49:21.63,0:49:22.60,Iroha main,Ohana,0,0,0,,Entendo.
 Dialogue: 10,0:49:22.60,0:49:25.28,Iroha main,Yuina,0,0,0,,Vou colocar algumas lá também ~
-Dialogue: 10,0:49:26.34,0:49:29.07,Iroha main,Tomoe,0,0,0,,Esta era sua idéia.
+Dialogue: 10,0:49:26.34,0:49:29.07,Iroha main,Tomoe,0,0,0,,Esta era sua ideia.
 Dialogue: 10,0:49:29.49,0:49:30.71,Iroha main,Ohana,0,0,0,,Da Yuina-san?
-Dialogue: 10,0:49:31.07,0:49:34.03,Iroha main,Tomoe,0,0,0,,Os clientes estão realmente muito feliz.
+Dialogue: 10,0:49:31.07,0:49:34.03,Iroha main,Tomoe,0,0,0,,Os clientes estão realmente muito felizes.
 Dialogue: 10,0:49:34.03,0:49:36.99,Iroha main,Tomoe,0,0,0,,Ren-san e os outros trabalharam muito duro para cozinhar também.
 Dialogue: 10,0:49:36.99,0:49:39.95,Iroha main,Tomoe,0,0,0,,Conseguimos transformar a falta de energia a nosso favor.
 Dialogue: 10,0:49:40.50,0:49:41.54,Iroha main,Mana,0,0,0,,Por ali também!
@@ -828,26 +829,26 @@ Dialogue: 10,0:50:19.50,0:50:20.19,Iroha main,Ohana,0,0,0,,Mana-chan!
 Dialogue: 10,0:50:20.19,0:50:21.44,Iroha main,Nako,0,0,0,,Caramba, Mana!
 Dialogue: 10,0:50:21.44,0:50:22.54,Iroha main,Mana,0,0,0,,Deixe-me ir!
 Dialogue: 10,0:50:23.56,0:50:25.43,Iroha main,Sui,0,0,0,,Dê-lhe um banho.
-Dialogue: 10,0:50:31.35,0:50:33.15,Iroha main,Ohana,0,0,0,,A água-viva toalha!
-Dialogue: 10,0:50:33.15,0:50:35.21,Iroha main,Mana,0,0,0,,Uau, incrivel!
+Dialogue: 10,0:50:31.35,0:50:33.15,Iroha main,Ohana,0,0,0,,A toalha água-viva!
+Dialogue: 10,0:50:33.15,0:50:35.21,Iroha main,Mana,0,0,0,,Uau, incrível!
 Dialogue: 10,0:50:35.21,0:50:36.50,Iroha main,Tomoe,0,0,0,,Bem, até!
-Dialogue: 10,0:50:36.50,0:50:38.09,Iroha main,All,0,0,0,,Obrigado por seu trabalho duro!
-Dialogue: 10,0:50:41.58,0:50:43.88,Iroha main,Yuina,0,0,0,,Ah...este banho é ótimo!
-Dialogue: 10,0:50:43.88,0:50:45.88,Iroha main,Minko,0,0,0,,Ah...estou cansada...
+Dialogue: 10,0:50:36.50,0:50:38.09,Iroha main,All,0,0,0,,Até mais!
+Dialogue: 10,0:50:41.58,0:50:43.88,Iroha main,Yuina,0,0,0,,Ah... este banho é ótimo!
+Dialogue: 10,0:50:43.88,0:50:45.88,Iroha main,Minko,0,0,0,,Ah... estou cansada...
 Dialogue: 10,0:50:45.88,0:50:48.02,Iroha main,Nako,0,0,0,,Desculpe eu causei tantos problemas.
 Dialogue: 10,0:50:48.02,0:50:49.94,Iroha main,Minko,0,0,0,,Ah, não, você não é a razão{\fscx300}-{\fscx100}
 Dialogue: 10,0:50:49.94,0:50:50.88,Iroha main,Mana,0,0,0,,Splash!
 Dialogue: 10,0:50:51.65,0:50:53.02,Iroha main,Mana,0,0,0,,Splash!
 Dialogue: 10,0:50:53.02,0:50:54.22,Iroha main,Nako,0,0,0,,Pare com isso, Mana!
 Dialogue: 10,0:50:54.22,0:50:55.76,Iroha main,Nako,0,0,0,,Não brinque no banho!
-Dialogue: 10,0:50:55.76,0:50:57.78,Iroha main,Yuina,0,0,0,,Hey, eu quero nadar também!
-Dialogue: 10,0:51:01.73,0:51:03.79,Iroha main,Sui,0,0,0,,Elas estão tão animada.
+Dialogue: 10,0:50:55.76,0:50:57.78,Iroha main,Yuina,0,0,0,,Ah, eu quero nadar também!
+Dialogue: 10,0:51:01.73,0:51:03.79,Iroha main,Sui,0,0,0,,Elas estão tão animadas.
 Dialogue: 10,0:51:07.04,0:51:08.66,Iroha main,Enishi,0,0,0,,Mãe!
 Dialogue: 10,0:51:08.66,0:51:11.25,Iroha main,Enishi,0,0,0,,Onee-chan não contou até 100.
-Dialogue: 10,0:51:10.50,0:51:12.88,Overlaps,Satsuki,0,0,0,,Cale a boca, Enishi,  chimpanzé.
+Dialogue: 10,0:51:10.50,0:51:12.88,Overlaps,Satsuki,0,0,0,,Cale a boca, Enishi, chimpanzé.
 Dialogue: 10,0:51:23.15,0:51:24.42,Iroha main,Ohana,0,0,0,,Eu sou um fantasma ~
 Dialogue: 10,0:51:24.42,0:51:26.21,Iroha main,Mana,0,0,0,,Um fantasma! Um fantasma!
-Dialogue: 10,0:51:26.89,0:51:29.85,Iroha main,Nako,0,0,0,,Mana, coloque suas calcinhas.
+Dialogue: 10,0:51:26.89,0:51:29.85,Iroha main,Nako,0,0,0,,Mana, coloque sua calcinha.
 Dialogue: 10,0:51:29.85,0:51:31.32,Iroha main,Mana,0,0,0,,Isso é incrível!
 Dialogue: 10,0:51:31.32,0:51:34.89,Iroha main,Mana,0,0,0,,Isso parece divertido, eu quero tentar também!
 Dialogue: 10,0:51:34.89,0:51:35.91,Iroha main,Mana,0,0,0,,Deixe-me tentar também!
@@ -857,19 +858,19 @@ Dialogue: 10,0:51:37.19,0:51:39.01,Iroha main,Nako,0,0,0,,Eu recebi uma mensagem
 Dialogue: 10,0:51:39.01,0:51:40.60,Iroha main,Nako,0,0,0,,Ela disse que vai com você em sua viagem!
 Dialogue: 10,0:51:40.60,0:51:41.67,Iroha main,Mana,0,0,0,,Sério?
 Dialogue: 10,0:51:41.67,0:51:42.43,Iroha main,Nako,0,0,0,,Sim!
-Dialogue: 10,0:51:43.15,0:51:44.54,Iroha main,Mana,0,0,0,,Yay!
-Dialogue: 10,0:51:44.54,0:51:46.79,Iroha main,Mana,0,0,0,,Yay!
+Dialogue: 10,0:51:43.15,0:51:44.54,Iroha main,Mana,0,0,0,,Viva!
+Dialogue: 10,0:51:44.54,0:51:46.79,Iroha main,Mana,0,0,0,,Viva!
 Dialogue: 10,0:51:46.79,0:51:49.16,Iroha main,Nako,0,0,0,,Ei, coloque sua calcinha primeiro{\fscx300}-{\fscx100}
 Dialogue: 10,0:51:50.28,0:51:52.19,Iroha main,Mana,0,0,0,,Nako, arruma minha lancheira, ok?
-Dialogue: 10,0:51:52.19,0:51:54.78,Iroha main,Mana,0,0,0,,Com muitas camadas, como fazemos para o Ano Novo!
-Dialogue: 10,0:51:55.20,0:51:56.69,Iroha main,Nako,0,0,0,,Muitas camadas?
+Dialogue: 10,0:51:52.19,0:51:54.78,Iroha main,Mana,0,0,0,,Com várias camadas, como fazemos para o Ano Novo!
+Dialogue: 10,0:51:55.20,0:51:56.69,Iroha main,Nako,0,0,0,,Várias camadas?
 Dialogue: 10,0:51:56.69,0:51:59.15,Iroha main,Nako,0,0,0,,Nós não temos tempo para isso agora.
-Dialogue: 10,0:52:00.00,0:52:02.04,Iroha main,Mana,0,0,0,,Mas eu quero comer muitas camadas!
+Dialogue: 10,0:52:00.00,0:52:02.04,Iroha main,Mana,0,0,0,,Mas quero com várias camadas!
 Dialogue: 10,0:52:00.84,0:52:02.56,Overlaps,Ohana,0,0,0,,Bom para Mana-chan, certo?
 Dialogue: 10,0:52:02.37,0:52:03.55,Iroha main,Ohana,0,0,0,,Por favor, Nako!
 Dialogue: 10,0:52:03.56,0:52:05.76,Iroha main,Ohana,0,0,0,,Eu prometo que vou comer tudo isso.
 Dialogue: 10,0:52:16.77,0:52:18.61,Iroha main,Ohana,0,0,0,,Eu preciso colocá-los de volta corretamente.
-Dialogue: 10,0:52:22.80,0:52:26.12,Iroha main,Ohana,0,0,0,,Acho que...não há mais nada escrito sobre a mama.
+Dialogue: 10,0:52:22.80,0:52:26.12,Iroha main,Ohana,0,0,0,,Acho que... não há mais nada escrito sobre a mama.
 Dialogue: 10,0:52:27.48,0:52:28.83,Iroha main,Ohana,0,0,0,,Eu acho que é óbvio.
 Dialogue: 10,0:52:28.83,0:52:31.33,Iroha main,Ohana,0,0,0,,A essa altura, ela já estava em Tóquio.
 Dialogue: 10,0:52:32.32,0:52:36.11,Iroha main,Ohana,0,0,0,,{\i1}Há várias coisas sobre a minha mãe que não estão escritas aqui.{\i0}
@@ -883,33 +884,33 @@ Dialogue: 10,0:52:56.95,0:52:57.82,Iroha main,Ohana,0,0,0,,Huh?
 Dialogue: 10,0:52:58.59,0:52:59.82,Iroha main,Ohana,0,0,0,,Eu?
 Dialogue: 10,0:53:13.41,0:53:15.11,Iroha main,Ohana,0,0,0,,Graças a Deus.
 Dialogue: 10,0:53:16.24,0:53:17.79,Iroha main,Ohana,0,0,0,,É isso mesmo!
-Dialogue: 10,0:53:20.56,0:53:22.85,Iroha main,Minko,0,0,0,,As luzes...voltaram.
+Dialogue: 10,0:53:20.56,0:53:22.85,Iroha main,Minko,0,0,0,,As luzes... voltaram.
 Dialogue: 10,0:53:25.49,0:53:27.52,Iroha main,Ohana,0,0,0,,Huh? Min-chi?
 Dialogue: 10,0:53:28.57,0:53:30.15,Iroha main,Minko,0,0,0,,Quem disse que você poderia vir para a cozinha?
 Dialogue: 10,0:53:30.54,0:53:31.46,Iroha main,Ohana,0,0,0,,Desculpe.
 Dialogue: 10,0:53:31.46,0:53:34.60,Iroha main,Ohana,0,0,0,,Pensei em fazer uma lancheira \N multi-camadas para Mana-chan.
-Dialogue: 10,0:53:36.98,0:53:40.07,Iroha main,Ohana,0,0,0,,Min-chi...Não me diga que você teve a mesma idéia!
+Dialogue: 10,0:53:36.98,0:53:40.07,Iroha main,Ohana,0,0,0,,Min-chi... Não me diga que você teve a mesma ideia!
 Dialogue: 10,0:53:40.40,0:53:44.81,Iroha main,Minko,0,0,0,,E-Eu pensei que fazer coisas como esta seria uma boa experiência de aprendizagem.
 Dialogue: 10,0:53:44.81,0:53:45.95,Iroha main,Ohana,0,0,0,,Isso é tudo!
-Dialogue: 10,0:53:51.88,0:53:54.58,Iroha main,Ohana,0,0,0,,Um...O que é isso?
+Dialogue: 10,0:53:51.88,0:53:54.58,Iroha main,Ohana,0,0,0,,Um... O que é isso?
 Dialogue: 10,0:53:55.33,0:53:57.00,Iroha main,Ohana,0,0,0,,Um Hokemon?
 Dialogue: 10,0:53:57.00,0:53:58.02,Iroha main,Minko,0,0,0,,Não!
-Dialogue: 10,0:53:58.80,0:54:00.13,Iroha main,Minko,0,0,0,,Precure...
+Dialogue: 10,0:53:58.80,0:54:00.13,Iroha main,Minko,0,0,0,,Brecure...
 Dialogue: 10,0:54:00.60,0:54:01.73,Iroha main,Ohana,0,0,0,,É humano?
-Dialogue: 10,0:54:02.43,0:54:05.86,Iroha main,Minko,0,0,0,,Você realmente é uma...
-Dialogue: 10,0:54:07.40,0:54:08.47,Iroha main,Minko,0,0,0,,Balut!
+Dialogue: 10,0:54:02.43,0:54:05.86,Iroha main,Minko,0,0,0,,Você realmente é um...
+Dialogue: 10,0:54:07.40,0:54:08.47,Iroha main,Minko,0,0,0,,Ovo!
 Dialogue: 10,0:54:09.62,0:54:12.35,Iroha main,Ohana,0,0,0,,Sinto muito! É muito bom!
-Dialogue: 10,0:54:12.35,0:54:16.65,Iroha main,Ohana,0,0,0,,Eu gosto de como o frango é frito em pedaços pequenos, para que eles possam caber na boca de Mana-chan!
-Dialogue: 10,0:54:17.60,0:54:19.42,Iroha main,Ohana,0,0,0,,As cores são muito agradáveis​​,
+Dialogue: 10,0:54:12.35,0:54:16.65,Iroha main,Ohana,0,0,0,,Eu gosto de como o frango é frito em pedaços pequenos, são perfeitos para a Mana-chan!
+Dialogue: 10,0:54:17.60,0:54:19.42,Iroha main,Ohana,0,0,0,,As cores são muito agradáveis,
 Dialogue: 10,0:54:19.42,0:54:20.86,Iroha main,Ohana,0,0,0,,Vermelho, amarelo e...
 Dialogue: 10,0:54:20.86,0:54:27.23,Iroha main,Ohana,0,0,0,,É isso mesmo, eu não poderia dizer que não era humano, porque a pele é feita de crepe de ovo picado!
 Dialogue: 10,0:54:27.23,0:54:28.45,Iroha main,Minko,0,0,0,,Ok, isso é o suficiente!
 Dialogue: 10,0:54:29.87,0:54:33.24,Iroha main,Ohana,0,0,0,,Mas eu posso dizer que você estava pensando na Mana-chan quando você fez isso.
 Dialogue: 10,0:54:33.24,0:54:34.79,Iroha main,Minko,0,0,0,,Bem, sim.
 Dialogue: 10,0:54:35.38,0:54:38.42,Iroha main,Minko,0,0,0,,Como um chef, eu deveria estar pensando em quem vai comer o que eu cozinho.
-Dialogue: 10,0:54:41.41,0:54:45.40,Iroha main,Minko,0,0,0,,{\i1}Naquela época, eu não tomava o gosto dos idosos em conta.{\i0}
+Dialogue: 10,0:54:41.41,0:54:45.40,Iroha main,Minko,0,0,0,,{\i1}Naquela época, eu não considerei o gosto dos idosos.{\i0}
 Dialogue: 10,0:54:47.05,0:54:48.05,Iroha main,Minko,0,0,0,,{\i1}E daquela outra vez,{\i0}
-Dialogue: 10,0:54:48.77,0:54:52.31,Iroha main,Minko,0,0,0,,{\i1}já estávamos atrasados, mas eu fiz algo que leva tempo para comer.{\i0}
+Dialogue: 10,0:54:48.77,0:54:52.31,Iroha main,Minko,0,0,0,,{\i1}eles estavam atrasados, mas eu fiz algo que leva tempo para comer.{\i0}
 Dialogue: 10,0:54:54.30,0:54:56.54,Iroha main,Minko,0,0,0,,{\i1}Eu não estava pensando.{\i0}
 Dialogue: 10,0:54:57.08,0:54:58.85,Thought/Flashback,Minko,0,0,0,,Sobre as pessoas que iriam comê-lo.
 Dialogue: 10,0:55:00.14,0:55:01.49,Iroha main,Ohana,0,0,0,,Oi!
@@ -922,39 +923,40 @@ Dialogue: 10,0:55:11.77,0:55:13.16,Iroha main,Ohana,0,0,0,,Por que eu?
 Dialogue: 10,0:55:13.16,0:55:15.82,Iroha main,Tohru,0,0,0,,Eu não posso dizer se elas se dão bem ou não.
 Dialogue: 10,0:55:13.16,0:55:15.82,Overlaps,Minko,0,0,0,,Você não está fazendo qualquer outra coisa, certo?
 Dialogue: 10,0:55:17.61,0:55:18.87,Iroha main,Ohana,0,0,0,,Na realidade{\fscx300}-{\fscx100}
-Dialogue: 10,0:55:18.87,0:55:20.44,Iroha main,Minko,0,0,0,,Calada! Balut!
+Dialogue: 10,0:55:18.87,0:55:20.44,Iroha main,Minko,0,0,0,,Calada! Ovo!
 Dialogue: 10,0:55:20.44,0:55:22.29,Iroha main,Ohana,0,0,0,,Essa é a segunda vez!
 Dialogue: 10,0:55:22.29,0:55:24.14,Iroha main,Taro,0,0,0,,Meu próximo trabalho será intitulado
 Dialogue: 10,0:55:24.14,0:55:27.31,Iroha main,Taro,0,0,0,,“Chef Novata: Sopa Nameko da meia-noite!”
-Dialogue: 10,0:55:27.72,0:55:29.80,Iroha main,Taro,0,0,0,,Algo assim, oque você acha?
+Dialogue: 10,0:55:27.72,0:55:29.80,Iroha main,Taro,0,0,0,,Algo assim, o que você acha?
 Dialogue: 10,0:56:12.69,0:56:15.43,Iroha main,Satsuki,0,0,0,,Apenas cinco minutos a mais, Ohana...
 Dialogue: 10,0:56:17.60,0:56:19.06,Iroha main,Satsuki,0,0,0,,Cara, isso fede!
 Dialogue: 10,0:56:21.39,0:56:24.82,Iroha main,Satsuki,0,0,0,,Uau, é tudo viscoso...
 Dialogue: 10,0:56:24.82,0:56:26.78,Iroha main,Satsuki,0,0,0,,O que era isso, para começar?
-Dialogue: 10,0:56:28.94,0:56:31.31,Iroha main,Satsuki,0,0,0,,Coisas como isto se acumula sem a Ohana por perto.
+Dialogue: 10,0:56:28.94,0:56:31.31,Iroha main,Satsuki,0,0,0,,Coisas assim se acumulam sem a Ohana por perto.
 Dialogue: 10,0:56:32.45,0:56:34.82,Iroha main,Satsuki,0,0,0,,Eu realmente preciso jogar fora o lixo hoje.
 Dialogue: 10,0:56:37.35,0:56:39.15,Iroha main,Satsuki,0,0,0,,Sim, sim. Estou indo.
-Dialogue: 10,0:56:42.13,0:56:43.77,Iroha main,Satsuki,0,0,0,,Alo, é Matsumae.
+Dialogue: 10,0:56:42.13,0:56:43.77,Iroha main,Satsuki,0,0,0,,Alô, é Matsumae.
 Dialogue: 10,0:56:44.01,0:56:45.38,Iroha main,Satsuki,0,0,0,,Huh? Onii-san?
 Dialogue: 10,0:56:45.82,0:56:47.38,Iroha main,Satsuki,0,0,0,,A quanto tempo!
 Dialogue: 10,0:56:49.35,0:56:52.08,Iroha main,Satsuki,0,0,0,,Sim, eu estou bem. Ohana também.
-Dialogue: 10,0:56:53.13,0:56:58.01,Iroha main,Satsuki,0,0,0,,Ah, certo. Encontramos um patrocinador, e fomos capazes de fazer a exposição de fotos.
-Dialogue: 10,0:57:00.58,0:57:04.28,Iroha main,Satsuki,0,0,0,,Ainda há pessoas que querem ver seus quadros.
+Dialogue: 10,0:56:53.13,0:56:56.46,Iroha main,Satsuki,0,0,0,,Ah, certo. Encontramos um patrocinador.
+Dialogue: 10,0:56:56.46,0:56:58.01,Iroha main,Satsuki,0,0,0,,Vamos fazer uma exibição de fotos.
+Dialogue: 10,0:57:00.58,0:57:04.28,Iroha main,Satsuki,0,0,0,,Ainda há pessoas que querem ver suas fotos.
 Dialogue: 10,0:57:05.63,0:57:07.01,Iroha main,Satsuki,0,0,0,,Sim, isso mesmo.
 Dialogue: 10,0:57:07.53,0:57:10.66,Iroha main,Satsuki,0,0,0,,Uma vez que é uma boa oportunidade, eu gostaria de mostrar as fotos que ele tirou no privado também.
 Dialogue: 10,0:57:11.09,0:57:15.32,Iroha main,Satsuki,0,0,0,,Então, eu queria saber se você tem alguns de seus trabalhos com você.
 Dialogue: 10,0:57:17.34,0:57:19.49,Iroha main,Satsuki,0,0,0,,Estou pensando em nomeá-la “Ohana”.
 Dialogue: 10,0:57:20.94,0:57:22.19,Iroha main,Satsuki,0,0,0,,Ohana?
-Dialogue: 10,0:57:22.52,0:57:25.89,Iroha main,Satsuki,0,0,0,,“Bonito como uma flor”, ou algo parecido?
+Dialogue: 10,0:57:22.52,0:57:25.89,Iroha main,Satsuki,0,0,0,,“Bonita como uma flor”, ou algo parecido?
 Dialogue: 10,0:57:26.24,0:57:28.34,Iroha main,dude,0,0,0,,Sim, isso também, mas,
 Dialogue: 10,0:57:28.76,0:57:32.55,Iroha main,dude,0,0,0,,em havaiano, significa “família”.
 Dialogue: 10,0:57:33.15,0:57:33.89,Iroha main,dude,0,0,0,,Ohana.
-Dialogue: 10,0:57:35.35,0:57:36.59,Iroha main,Satsuki,0,0,0,,Familia?
-Dialogue: 10,0:57:36.59,0:57:38.83,Iroha main,dude,0,0,0,,Sim. Familia.
-Dialogue: 10,0:57:40.08,0:57:41.50,Iroha main,Satsuki,0,0,0,,Familia, huh?
+Dialogue: 10,0:57:35.35,0:57:36.59,Iroha main,Satsuki,0,0,0,,Família?
+Dialogue: 10,0:57:36.59,0:57:38.83,Iroha main,dude,0,0,0,,Sim. Família.
+Dialogue: 10,0:57:40.08,0:57:41.50,Iroha main,Satsuki,0,0,0,,Família, huh?
 Dialogue: 10,0:57:42.36,0:57:44.52,Iroha main,Satsuki,0,0,0,,Sim. Sim eu gostei.
 Dialogue: 10,0:57:44.98,0:57:46.64,Iroha main,dude,0,0,0,,Tudo bem, vamos tirar uma foto.
-Dialogue: 10,0:57:53.53,0:57:55.69,Iroha main,outside,0,0,0,,Okay! Continue indo!
+Dialogue: 10,0:57:53.53,0:57:55.69,Iroha main,outside,0,0,0,,Vai! Continue indo!
 Dialogue: 10,0:57:57.19,0:57:59.91,Iroha main,Satsuki,0,0,0,,Me desculpe, eu te ligo de volta mais tarde.
 Dialogue: 10,0:58:00.41,0:58:01.07,Iroha main,Satsuki,0,0,0,,Sim.
 Dialogue: 10,0:58:01.07,0:58:02.40,Iroha main,Satsuki,0,0,0,,Sim, estou contando com você.
@@ -964,11 +966,11 @@ Dialogue: 10,0:58:14.26,0:58:16.63,Iroha main,Ohana,0,0,0,,Ah, eu dormi demais!
 Dialogue: 10,0:58:17.38,0:58:19.10,Iroha main,Ohana,0,0,0,,Min-chi, nós temos que ir!
 Dialogue: 10,0:58:20.18,0:58:21.09,Iroha main,Minko,0,0,0,,Ohana!
 Dialogue: 10,0:58:21.55,0:58:24.39,Iroha main,Minko,0,0,0,,Espere! Se corrermos, vamos estragar o almoço!
-Dialogue: 10,0:58:24.39,0:58:26.35,Iroha main,Ohana,0,0,0,,Mas estamos atrasadas​​!
-Dialogue: 10,0:58:26.35,0:58:27.82,Overlaps,Minko,0,0,0,,Então corra em uma linha reta perfeita!
+Dialogue: 10,0:58:24.39,0:58:26.35,Iroha main,Ohana,0,0,0,,Mas estamos atrasadas!
+Dialogue: 10,0:58:26.35,0:58:27.82,Overlaps,Minko,0,0,0,,Então corra em linha reta!
 Dialogue: 10,0:58:27.10,0:58:30.15,Iroha main,Sui,0,0,0,,O que é toda essa confusão?
 Dialogue: 10,0:58:32.42,0:58:34.68,Iroha main,Sui,0,0,0,,Que clima excelente nesta manhã.
-Dialogue: 10,0:58:37.49,0:58:38.42,Iroha main,Minko,0,0,0,,E sobre o trem?
+Dialogue: 10,0:58:37.49,0:58:38.42,Iroha main,Minko,0,0,0,,E o trem?
 Dialogue: 10,0:58:38.42,0:58:40.74,Iroha main,Ohana,0,0,0,,Oh, não, nós só temos três minutos!
 Dialogue: 10,0:58:40.74,0:58:42.93,Iroha main,Ohana,0,0,0,,Apresse-se! Nós temos que fazer isso!
 Dialogue: 10,0:58:43.80,0:58:45.14,Iroha main,Ohana,0,0,0,,Min-chi, espere!
@@ -976,7 +978,7 @@ Dialogue: 10,0:58:45.14,0:58:46.49,Iroha main,Minko,0,0,0,,De jeito nenhum!
 Dialogue: 10,0:58:49.09,0:58:50.91,Iroha main,Girl,0,0,0,,Você está atrasada!
 Dialogue: 10,0:58:50.91,0:58:54.63,Overlaps,Girl,0,0,0,,Apresse-se, ou você vai se atrasar!
 Dialogue: 10,0:58:52.06,0:58:53.45,Iroha main,Satsuki,0,0,0,,Sinto muito.
-Dialogue: 10,0:58:53.45,0:58:56.42,Thought/Flashback,guy,0,0,0,,Você acabou de sair de mim de repente!
+Dialogue: 10,0:58:53.45,0:58:56.42,Thought/Flashback,guy,0,0,0,,Você nem nos avisou!
 Dialogue: 10,0:58:56.42,0:58:58.23,Thought/Flashback,guy,0,0,0,,Você vai se mudar para a casa dos seus pais?
 Dialogue: 10,0:58:58.23,0:59:02.83,Iroha main,guy,0,0,0,,Eu não disse a minha mãe ainda, então eu não sei o que vai acontecer.
 Dialogue: 10,0:59:02.83,0:59:04.52,Iroha main,guy,0,0,0,,Mas eu vou conseguir de alguma forma.
@@ -985,20 +987,20 @@ Dialogue: 10,0:59:09.23,0:59:13.07,Thought/Flashback,guy,0,0,0,,Você foi finalm
 Dialogue: 10,0:59:13.72,0:59:14.65,Thought/Flashback,guy,0,0,0,,Você está bem ali?
 Dialogue: 10,0:59:14.65,0:59:17.86,Iroha main,Satsuki,0,0,0,,Sinto muito! Eu vou ligar de volta depois de acalmá-la.
 Dialogue: 10,0:59:17.86,0:59:19.28,Iroha main,Satsuki,0,0,0,,Tchau!
-Dialogue: 10,0:59:26.35,0:59:27.55,Iroha main,Satsuki,0,0,0,,pronto.
-Dialogue: 10,0:59:27.55,0:59:30.05,Iroha main,girl,0,0,0,,Uau, esse bebe é tão fofo.
+Dialogue: 10,0:59:26.35,0:59:27.55,Iroha main,Satsuki,0,0,0,,Calma, calma.
+Dialogue: 10,0:59:27.55,0:59:30.05,Iroha main,girl,0,0,0,,Uau, esse bebê é tão fofo.
 Dialogue: 10,0:59:30.05,0:59:31.56,Iroha main,girl,0,0,0,,Sim, ele é.
 Dialogue: 10,0:59:31.56,0:59:32.85,Iroha main,girl,0,0,0,,Tão pequeno!
 Dialogue: 10,0:59:35.18,0:59:36.90,Iroha main,Satsuki,0,0,0,,Acho que eu deveria começar a me mexer.
-Dialogue: 10,0:59:53.51,0:59:55.61,Iroha main,Satsuki,0,0,0,,Já faz algum tempo, Mame-jii.
+Dialogue: 10,0:59:53.51,0:59:55.61,Iroha main,Satsuki,0,0,0,,Já faz algum tempo, Homem dos Feijões.
 Dialogue: 10,0:59:55.61,0:59:57.45,Iroha main,Denroku,0,0,0,,Satsuki-chan...
 Dialogue: 10,0:59:58.54,1:00:00.01,Iroha main,Denroku,0,0,0,,Essa é sua filha?
 Dialogue: 10,1:00:01.49,1:00:03.12,Iroha main,Satsuki,0,0,0,,Ela se chama Ohana.
 Dialogue: 10,1:00:04.72,1:00:06.08,Iroha main,Denroku,0,0,0,,Ela tem o cabelo encaracolado.
-Dialogue: 10,1:00:06.95,1:00:09.92,Iroha main,Satsuki,0,0,0,,Nós tivemos aparencia lisa por gerações na nossa família, certo?
+Dialogue: 10,1:00:06.95,1:00:09.92,Iroha main,Satsuki,0,0,0,,Nós tivemos aparência lisa por gerações na nossa família, certo?
 Dialogue: 10,1:00:10.29,1:00:12.10,Iroha main,Satsuki,0,0,0,,Ela deve ter pego isso de seu pai.
 Dialogue: 10,1:00:16.69,1:00:18.80,Iroha main,Denroku,0,0,0,,Ela é muito fofa.
-Dialogue: 10,1:00:19.21,1:00:20.60,Iroha main,Satsuki,0,0,0,,Obrigado.
+Dialogue: 10,1:00:19.21,1:00:20.60,Iroha main,Satsuki,0,0,0,,Obrigada.
 Dialogue: 10,1:00:21.67,1:00:24.20,Iroha main,Satsuki,0,0,0,,Diga-me, onde está a mamãe?
 Dialogue: 10,1:00:24.20,1:00:25.41,Iroha main,Denroku,0,0,0,,A Senhora está{\fscx300}-{\fscx100}
 Dialogue: 10,1:00:25.41,1:00:26.78,Iroha main,Ren,0,0,0,,Sinto muito!
@@ -1006,10 +1008,10 @@ Dialogue: 10,1:00:28.25,1:00:29.40,Iroha main,old chef,0,0,0,,Está tudo bem, Re
 Dialogue: 10,1:00:29.40,1:00:30.27,Iroha main,Ren,0,0,0,,Estou extremamente arrependido.
 Dialogue: 10,1:00:30.69,1:00:32.07,Iroha main,Ren,0,0,0,,Estou extremamente arrependido.
 Dialogue: 10,1:00:33.12,1:00:35.06,Iroha main,Ren,0,0,0,,É minha culpa ter feito a encomenda errada!
-Dialogue: 10,1:00:35.98,1:00:38.67,Iroha main,old chef,0,0,0,,Devido ao clima frio, não podemos obter qualquer peixe decente nos dias de hoje.
-Dialogue: 10,1:00:38.67,1:00:42.34,Iroha main,girl,0,0,0,,Senhora, não é bom. Ninguém tem sobrando.
-Dialogue: 10,1:00:43.31,1:00:45.58,Iroha main,Ren,0,0,0,,É minha responsabilidade. Eu vou renunciar{\fscx300}-{\fscx100}
-Dialogue: 10,1:00:45.58,1:00:50.66,Iroha main,Sui,0,0,0,,Se a sua renúncia poderia resolver isso, eu ficaria feliz em deixá-lo.
+Dialogue: 10,1:00:35.98,1:00:38.67,Iroha main,old chef,0,0,0,,Devido ao clima frio é difícil conseguir um peixe bom por hoje.
+Dialogue: 10,1:00:38.67,1:00:42.34,Iroha main,girl,0,0,0,,Senhora, ninguém tem sobrando para emprestar.
+Dialogue: 10,1:00:43.31,1:00:45.58,Iroha main,Ren,0,0,0,,É minha responsabilidade. Vou pedir demissão{\fscx300}-{\fscx100}
+Dialogue: 10,1:00:45.58,1:00:50.66,Iroha main,Sui,0,0,0,,Se a sua demissão poderia resolver isso, eu ficaria feliz em deixá-lo.
 Dialogue: 10,1:00:51.16,1:00:53.26,Iroha main,Sui,0,0,0,,Este não é mais apenas o seu problema.
 Dialogue: 10,1:00:53.79,1:00:55.46,Iroha main,Sui,0,0,0,,Este é o problema do Kissuisou.
 Dialogue: 10,1:00:56.08,1:00:59.16,Iroha main,Sui,0,0,0,,Kissuisou pertence a todos nós.
@@ -1021,18 +1023,18 @@ Dialogue: 10,1:01:07.88,1:01:09.32,Iroha main,Ren,0,0,0,,Sim. Sinto muito!
 Dialogue: 10,1:01:10.27,1:01:11.14,Iroha main,Satsuki,0,0,0,,{\i1}Mãe...{\i0}
 Dialogue: 10,1:01:12.37,1:01:14.40,Iroha main,Satsuki,0,0,0,,{\i1}Naquela época, eu não podia dizer nada.{\i0}
 Dialogue: 10,1:01:14.84,1:01:16.44,Iroha main,Satsuki,0,0,0,,{\i1}Venha agora, não fique aí parado.{\i0}
-Dialogue: 10,1:01:15.64,1:01:19.19,Overlaps,Satsuki,0,0,0,,{\i1}Mãe não é assombrado por suas memórias de meu pai.{\i0}
+Dialogue: 10,1:01:15.64,1:01:19.19,Overlaps,Satsuki,0,0,0,,{\i1}A mãe não é assombrada pelas memórias de meu pai.{\i0}
 Dialogue: 10,1:01:20.05,1:01:21.93,Iroha main,Satsuki,0,0,0,,{\i1}Ela não está agarrada ao passado.{\i0}
 Dialogue: 10,1:01:16.44,1:01:19.19,Iroha main,Sui,0,0,0,,Renji, pense em outra coisa para cozinhar.
 Dialogue: 10,1:01:22.47,1:01:23.99,Iroha main,Satsuki,0,0,0,,{\i1}Mãe...{\i0}
 Dialogue: 10,1:01:25.17,1:01:26.32,Iroha main,Satsuki,0,0,0,,{\i1}não pode perder.{\i0}
-Dialogue: 10,1:01:26.32,1:01:31.08,Iroha main,Sui,0,0,0,,Se você precisar de legumes peça Fukuya para levá-lo ao mercado.
+Dialogue: 10,1:01:26.32,1:01:31.08,Iroha main,Sui,0,0,0,,Se você precisar de legumes peça para o Fukuya levá-lo ao mercado.
 Dialogue: 10,1:01:28.74,1:01:31.08,Overlaps,Satsuki,0,0,0,,{\i1}Ela não pode perder.{\i0}
 Dialogue: 10,1:01:32.20,1:01:33.82,Iroha main,Satsuki,0,0,0,,{\i1}Ela não pode perder para si mesma.{\i0}
 Dialogue: 10,1:01:34.36,1:01:37.14,Iroha main,Satsuki,0,0,0,,{\i1}Para o bem de seu futuro.{\i0}
 Dialogue: 10,1:01:41.67,1:01:43.52,Iroha main,Denroku,0,0,0,,Satsuki-chan{\fscx300}-{\fscx100}
 Dialogue: 10,1:01:43.52,1:01:46.19,Iroha main,Satsuki,0,0,0,,Não diga a minha mãe que eu vim até aqui.
-Dialogue: 10,1:01:49.66,1:01:51.01,Iroha main,Satsuki,0,0,0,,Cuide-se, Mame-jii.
+Dialogue: 10,1:01:49.66,1:01:51.01,Iroha main,Satsuki,0,0,0,,Cuide-se, Homem dos Feijões.
 Dialogue: 10,1:02:02.64,1:02:05.28,Iroha main,Satsuki,0,0,0,,Eu não vou perder para você, sua bruxa velha.
 Dialogue: 10,1:02:15.53,1:02:16.24,Iroha main,Satsuki,0,0,0,,Oh,
 Dialogue: 10,1:02:17.19,1:02:18.38,Iroha main,Satsuki,0,0,0,,se divertindo?
