@@ -56,10 +56,10 @@ Dialogue: 1,0:03:38.32,0:03:44.70,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}
 Dialogue: 2,0:03:44.70,0:03:51.54,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Um estudante à toa usando pijamas, desiste antes das férias de verão
 Dialogue: 1,0:03:51.54,0:03:58.25,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Minha esquisitice é menor que a sua,
 Dialogue: 2,0:03:58.25,0:04:09.06,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Mesmo eu me considerando uma alien,\Nte encontrei na sala de reuniões espacial
-Dialogue: 1,0:04:09.06,0:04:15.85,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Quando tentei criar uma frequencia para saber se você estava sintonizado,
+Dialogue: 1,0:04:09.06,0:04:15.85,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Quando tentei criar uma frequência para saber se você estava sintonizado,
 Dialogue: 2,0:04:15.85,0:04:22.61,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}você se interessou, enquanto as outras pessoas só me ignoravam
 Dialogue: 1,0:04:22.61,0:04:29.37,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Eu gosto de você por causa dos detalhes
-Dialogue: 2,0:04:29.37,0:04:36.38,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}estamos transmitindo idéias em frequências diferentes
+Dialogue: 2,0:04:29.37,0:04:36.38,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}estamos transmitindo ideias em frequências diferentes
 Dialogue: 1,0:04:42.05,0:04:49.60,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Ás vezes, fico preocupada querendo saber se você está mesmo sintonizado
 Dialogue: 2,0:04:49.60,0:04:55.81,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Mesmo assim, gosto de ter você ao meu lado,
 Dialogue: 1,0:04:55.81,0:05:00.69,OPtl2,,0000,0000,0000,,{\blur5}{\fad(150,400)}Que ironia, você é o único que me sintoniza.
@@ -67,10 +67,10 @@ Dialogue: 3,0:03:38.32,0:03:44.70,OPtl,,0000,0000,0000,,{\fad(150,400)}Um colegi
 Dialogue: 4,0:03:44.70,0:03:51.54,OPtl,,0000,0000,0000,,{\fad(150,400)}Um estudante à toa usando pijamas, desiste antes das férias de verão
 Dialogue: 3,0:03:51.54,0:03:58.25,OPtl,,0000,0000,0000,,{\fad(150,400)}Minha esquisitice é menor que a sua,
 Dialogue: 4,0:03:58.25,0:04:09.06,OPtl,,0000,0000,0000,,{\fad(150,400)}Mesmo eu me considerando uma alien,\Nte encontrei na sala de reuniões espacial
-Dialogue: 3,0:04:09.06,0:04:15.85,OPtl,,0000,0000,0000,,{\fad(150,400)}Quando tentei criar uma frequencia para saber se você estava sintonizado,
+Dialogue: 3,0:04:09.06,0:04:15.85,OPtl,,0000,0000,0000,,{\fad(150,400)}Quando tentei criar uma frequência para saber se você estava sintonizado,
 Dialogue: 4,0:04:15.85,0:04:22.61,OPtl,,0000,0000,0000,,{\fad(150,400)}você se interessou, enquanto as outras pessoas só me ignoravam
 Dialogue: 3,0:04:22.61,0:04:29.37,OPtl,,0000,0000,0000,,{\fad(150,400)}Eu gosto de você por causa dos detalhes
-Dialogue: 4,0:04:29.37,0:04:36.38,OPtl,,0000,0000,0000,,{\fad(150,400)}estamos transmitindo idéias em frequências diferentes
+Dialogue: 4,0:04:29.37,0:04:36.38,OPtl,,0000,0000,0000,,{\fad(150,400)}estamos transmitindo ideias em frequências diferentes
 Dialogue: 3,0:04:42.05,0:04:49.60,OPtl,,0000,0000,0000,,{\fad(150,400)}Ás vezes, fico preocupada querendo saber se você está mesmo sintonizado
 Dialogue: 4,0:04:49.60,0:04:55.81,OPtl,,0000,0000,0000,,{\fad(150,400)}Mesmo assim, gosto de ter você ao meu lado,
 Dialogue: 3,0:04:55.81,0:05:00.69,OPtl,,0000,0000,0000,,{\fad(150,400)}Que ironia, você é o único que me sintoniza.
@@ -146,7 +146,7 @@ Dialogue: 0,0:00:02.25,0:00:04.41,Default,,0000,0000,0000,,Digita-digita-digita
 Dialogue: 0,0:00:07.80,0:00:10.61,Default,,0000,0000,0000,,Incrível, parece que o número que você me passou era verdadeiro.
 Dialogue: 0,0:00:12.40,0:00:14.78,Default,,0000,0000,0000,,Minha primeira mensagem da Ryuushi-san...
 Dialogue: 0,0:00:17.61,0:00:19.33,Default,,0000,0000,0000,,O meu nome é Ryuuko!
-Dialogue: 0,0:00:19.33,0:00:21.12,Default,,0000,0000,0000,,Typity-typity-type!
+Dialogue: 0,0:00:19.33,0:00:21.12,Default,,0000,0000,0000,,Digita-digita-digita
 Dialogue: 0,0:00:25.20,0:00:26.36,Default,,0000,0000,0000,,Ryuushi-san.
 Dialogue: 0,0:00:26.36,0:00:27.74,Default,,0000,0000,0000,,Quê?
 Dialogue: 0,0:00:27.74,0:00:30.38,Default,,0000,0000,0000,,Seu cabelo está ficando em pé.
@@ -417,7 +417,7 @@ Dialogue: 0,0:16:09.77,0:16:15.32,Default,,0000,0000,0000,,Tem um lobo mal, \Nqu
 Dialogue: 0,0:16:16.64,0:16:19.20,Default,,0000,0000,0000,,Por que ela olhou pra mim \Nno "lobo mau"?
 Dialogue: 0,0:16:19.56,0:16:23.33,Default,,0000,0000,0000,,Olhe as estrelas, ou o que você quiser \Nlá em cima! Isso é com você!
 Dialogue: 0,0:16:27.35,0:16:32.86,Default,,0000,0000,0000,,{\q2}Ela finalmente percebeu que os insetos não estão picando-a,\N mas do jeito que está ela não vai poder ver as estrelas.
-Dialogue: 0,0:16:37.90,0:16:39.90,Default,,0000,0000,0000,,Disista e tire isso logo.
+Dialogue: 0,0:16:37.90,0:16:39.90,Default,,0000,0000,0000,,Desista e tire isso logo.
 Dialogue: 0,0:16:39.90,0:16:42.16,Default,,0000,0000,0000,,O primo está mandando eu tirar.
 Dialogue: 0,0:16:42.16,0:16:43.88,Default,,0000,0000,0000,,Se você não quiser não tire.
 Dialogue: 0,0:16:43.88,0:16:46.83,Default,,0000,0000,0000,,Ou você quer ver as estrelas refletidas no seu futon a noite toda?
@@ -477,7 +477,7 @@ Dialogue: 0,0:20:03.42,0:20:06.90,Default,,0000,0000,0000,,Ryuushi-san voltou pa
 Dialogue: 0,0:20:06.90,0:20:10.74,Default,,0000,0000,0000,,Bem, metade da sua "pirraça" era só fingimento.
 Dialogue: 0,0:20:12.30,0:20:13.66,Default,,0000,0000,0000,,Strike!
 Dialogue: 0,0:20:13.66,0:20:18.63,Default,,0000,0000,0000,,Com certeza, se eles fossem conversam, as coisas só piorariam.
-Dialogue: 0,0:20:22.55,0:20:26.47,Default,,0000,0000,0000,,3ª posição ao fundo, número 7, \NTouwa Erio estréia como batedora.
+Dialogue: 0,0:20:22.55,0:20:26.47,Default,,0000,0000,0000,,3ª posição ao fundo, número 7, \NTouwa Erio estreia como batedora.
 Dialogue: 0,0:20:31.79,0:20:33.32,Default,,0000,0000,0000,,Strike!
 Dialogue: 0,0:20:34.44,0:20:37.60,Default,,0000,0000,0000,,Pelo menos ela sabe as regras \Ndo baseball?
 Dialogue: 0,0:20:37.60,0:20:38.56,Default,,0000,0000,0000,,Sei lá.
