@@ -141,8 +141,7 @@ Dialogue: 0,0:11:35.09,0:11:35.21,Signs,,0000,0000,0000,,{\fnCorbel\b1\an7\fs24\
 Dialogue: 0,0:11:35.09,0:11:35.21,Signs,,0000,0000,0000,,{\fnCorbel\b1\an7\fs24\c&HFFD6B9&\frz358.834\pos(534,457)}Já to acordado. Bom dia
 Dialogue: 0,0:11:44.85,0:11:46.60,Signs,,0000,0000,0000,,{\fnCorbel\b1\an7\fs24\frz359.28\c&HFFD6B9&\pos(619,331)}Enviando...
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0000,0000,0000,,
-Dialogue: 0,0:00:02.25,0:00:04.41,Default,,0000,0000,0000,,{\an8\fs24}Onomatopéia para digitar.
-Dialogue: 0,0:00:02.25,0:00:04.41,Default,,0000,0000,0000,,Typity-typity-type!{não consegui traduzir isso não}
+Dialogue: 0,0:00:02.25,0:00:04.41,Default,,0000,0000,0000,,Digita-digita-digita
 Dialogue: 0,0:00:07.80,0:00:10.61,Default,,0000,0000,0000,,Incrível, parece que o número que você me passou era verdadeiro.
 Dialogue: 0,0:00:12.40,0:00:14.78,Default,,0000,0000,0000,,Minha primeira mensagem da Ryuushi-san...
 Dialogue: 0,0:00:17.61,0:00:19.33,Default,,0000,0000,0000,,O meu nome é Ryuuko!
