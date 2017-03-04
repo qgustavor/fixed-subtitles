@@ -6,6 +6,10 @@ When submitting a new anime commit first the original file, then the fix in othe
 
 Note that the objective of this repository is fixing subtitles, *not* making a list of bad fansubs. In fact this will end being a list of *good* fansubs as their translators know that they're humans which make mistakes and so they make their scripts easier to fix. The others either are too lazy to fix their mistakes or don't admit their mistakes.
 
+If you want to fix an error from a fansub like this you can do a whiteout translation. For stylistic reasons try to make it remember a correction fluid: put a white rectangle over the wrong subtitle then the fixed subtitle above it. Finally put the fix in the "whiteout fixes" folder. Use the following image as inspiration:
+
+![Whiteout inspiration](https://i.imgur.com/1MosfLO.jpg?1)
+
 ## Folder organization:
 
 * Create folders if some anime was three or more files;
@@ -22,6 +26,8 @@ Recomendo que enviem mudanças via *pull requests* por que assim seu nome aparece
 Ao enviar um novo anime primeiro faça um *commit* do arquivo original, então outro com a correção, de modo que seja possível verificar as mudanças. No primeiro *commit* use o ID do MyAnimeList e o número do episódio como título, e coloque informações do anime e da tradução na descrição. Olhe [esse *commit* de exemplo](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). Para os outros commits só descreva o que foi alterado.
 
 Note que o objetivo desse repositório é arrumar legendas, *não* fazer uma lista de fansubs ruins. Na verdade ele se tornará uma lista de fansubs *boas* já que seus tradutores sabem que são humanos que cometem erros e assim deixam seus scripts mais fáceis de serem corrigidos. Já os outros ou são muito preguiçosos para corrigir seus erros ou não admitem seus erros.
+
+Caso queira corrigir um erro dessas fansubs você pode fazer uma correção tipo corretivo. Por questão estilística pedimos que faça a correção de modo que pareça mesmo um corretivo: coloque um retângulo branco sobre a legenda errada e por cima coloque a correção. Finalmente coloque a correção na pasta "whiteout fixes". Use a imagem acima (na versão em inglês desse documento) para inspiração.
 
 ## Organização das pastas:
 
