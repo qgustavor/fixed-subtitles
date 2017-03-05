@@ -6,7 +6,7 @@ This project includes subtitles that probally will not be fixed by the fansubs w
 
 * The fansub don't exists anymore;
 * There is at least one year that released it, without fixing it;
-* The fansub usually don't fix any errors;
+* The fansub usually don't fix their mistakes;
 
 Usually we only fix errors from fansubs which release their scripts, but if some fansub don't release those we have fixes in ["whiteout"](https://en.wikipedia.org/wiki/Correction_fluid) style put in the "whiteout fixes" folder.
 
