@@ -4,9 +4,9 @@ I recommend proposing changes via pull requests so your name will be stored in t
 
 When submitting a new anime commit first the original file, then the fix in other commit, so it's possible to check changes. In the first commit use the the MyAnimeList ID and episode number as the title, and in the description put the the anime and translation details. Check [this example commit](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). For other commits just describe what was changed.
 
-Note that the objective of this repository is fixing subtitles, *not* making a list of bad fansubs. In fact this will end being a list of *good* fansubs as their translators know that they're humans which make mistakes and so they make their scripts easier to fix. The others either are too lazy to fix their mistakes or don't admit their mistakes.
+Note that the objective of this repository is fixing subtitles, *not* making a list of bad translators. In fact this will end being a list of the *good* ones as they know that they're humans which make mistakes and so they make their scripts easier to fix. The others either are too lazy to fix their mistakes or don't admit their mistakes.
 
-If you want to fix an error from a fansub like this you can do a whiteout translation. For stylistic reasons try to make it remember a correction fluid: put a white rectangle over the wrong subtitle then the fixed subtitle above it. Finally put the fix in the "whiteout fixes" folder. Use the following image as inspiration:
+If you want to fix an error from *the others* you can do a whiteout translation. For stylistic reasons try to make it remember a correction fluid: put a white rectangle over the wrong subtitle then the fixed subtitle above it. Finally put the fix in the "whiteout fixes" folder. Use the following image as inspiration:
 
 ![Whiteout inspiration](https://i.imgur.com/1MosfLO.jpg?1)
 
@@ -17,23 +17,35 @@ If you want to fix an error from a fansub like this you can do a whiteout transl
 * Use the romanized name (like MyAnimeList) as the folder name, prefixed by the MyAnimeList ID prefix, separated by hyphen;
 * If the name is too long (more than 25 characters), you can use some abbreviation based on the romanized name ([this anime](https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru) can be shortened to Oreshura);
 * If the anime hasn't an abbreviation use the long name, if will not cause any problem;
-* Don't use English (or Portuguese) name translations, using as those just make things harder;
+* Use the original subtitle or video name in files;
+* Use the original romanized name (to avoid Unicode issues) in folders and commits; even if some people have problems with those names don't use English (or Portuguese) name translations because then you're making it harder to people which don't speak those languages;
+
+## Non-anime content:
+
+* For other content you can adapt the rules above for the media you're submitting;
+* If you're not using a MyAnimeList ID include the website abbreviation like this: ["IMDB-0120338 - Titanic"](http://www.imdb.com/title/tt0120338/), ["MDL-19702 - NIGEHAJI"](http://mydramalist.com/19702-nigeru-wa-haji-da-ga-yaku-ni-tatsu).
 
 # Como contribuir
 
-Recomendo que enviem mudanÁas via *pull requests* por que assim seu nome aparecer· na p·gina de contribuidores, alÈm disso criar uma conta no GitHub È bem f·cil. Finalmente, por favor use um corretor ortogr·fico antes de enviar.
+Recomendo que enviem mudan√ßas via *pull requests* por que assim seu nome aparecer√° na p√°gina de contribuidores, al√©m disso criar uma conta no GitHub √© bem f√°cil. Finalmente, por favor use um corretor ortogr√°fico antes de enviar.
 
-Ao enviar um novo anime primeiro faÁa um *commit* do arquivo original, ent„o outro com a correÁ„o, de modo que seja possÌvel verificar as mudanÁas. No primeiro *commit* use o ID do MyAnimeList e o n˙mero do episÛdio como tÌtulo, e coloque informaÁıes do anime e da traduÁ„o na descriÁ„o. Olhe [esse *commit* de exemplo](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). Para os outros commits sÛ descreva o que foi alterado.
+Ao enviar um novo anime primeiro fa√ßa um *commit* do arquivo original, ent√£o outro com a corre√ß√£o, de modo que seja poss√≠vel verificar as mudan√ßas. No primeiro *commit* use o ID do MyAnimeList e o n√∫mero do epis√≥dio como t√≠tulo, e coloque informa√ß√µes do anime e da tradu√ß√£o na descri√ß√£o. Olhe [esse *commit* de exemplo](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). Para os outros commits s√≥ descreva o que foi alterado.
 
-Note que o objetivo desse repositÛrio È arrumar legendas, *n„o* fazer uma lista de fansubs ruins. Na verdade ele se tornar· uma lista de fansubs *boas* j· que seus tradutores sabem que s„o humanos que cometem erros e assim deixam seus scripts mais f·ceis de serem corrigidos. J· os outros ou s„o muito preguiÁosos para corrigir seus erros ou n„o admitem seus erros.
+Note que o objetivo desse reposit√≥rio √© arrumar legendas, *n√£o* fazer uma lista dos tradutores ruins. Na verdade ele se tornar√° uma lista de quem √© *bom* nisso j√° que seus eles sabem que s√£o humanos que cometem erros e assim deixam seus scripts mais f√°ceis de serem corrigidos. J√° os outros ou s√£o muito pregui√ßosos para corrigir seus erros ou n√£o admitem seus erros.
 
-Caso queira corrigir um erro dessas fansubs vocÍ pode fazer uma correÁ„o tipo corretivo. Por quest„o estilÌstica pedimos que faÁa a correÁ„o de modo que pareÁa mesmo um corretivo: coloque um ret‚ngulo branco sobre a legenda errada e por cima coloque a correÁ„o. Finalmente coloque a correÁ„o na pasta "whiteout fixes". Use a imagem acima (na vers„o em inglÍs desse documento) para inspiraÁ„o.
+Caso queira corrigir um erro *desses outros* voc√™ pode fazer uma corre√ß√£o tipo corretivo. Por quest√£o estil√≠stica pedimos que fa√ßa a corre√ß√£o de modo que pare√ßa mesmo um corretivo: coloque um ret√¢ngulo branco sobre a legenda errada e por cima coloque a corre√ß√£o. Finalmente coloque a corre√ß√£o na pasta "whiteout fixes". Use a imagem acima (na vers√£o em ingl√™s desse documento) para inspira√ß√£o.
 
-## OrganizaÁ„o das pastas:
+## Organiza√ß√£o das pastas:
 
-* Crie pastas se algum anime tem trÍs ou mais arquivos;
+* Crie pastas se algum anime tem tr√™s ou mais arquivos;
 * Agrupe os arquivos por temporada, incluindo OVAs, especiais, filmes e outros arquivos relacionados na mesma pasta (como o AniDB e algumas fansubs fazem);
-* Use o nome romanizado (como o MyAnimeList) como o nome da pasta, prefixado com o ID do MyAnimeList, separado por hÌfen.
-* Se o nome for muito longo (mais de 25 caracteres) pode ser usado a abreviaÁ„o baseada no nome romanizado ([esse anime](https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru) pode ser encurtado para Oreshura);
-* Se o anime n„o tem uma abreviaÁ„o use o nome longo, isso n„o causar· nenhum problema;
-* N„o use traduÁıes para PortuguÍs (ou InglÍs) j· que essas sÛ complicam as coisas;
+* Use o nome romanizado (como o MyAnimeList) como o nome da pasta, prefixado com o ID do MyAnimeList, separado por h√≠fen.
+* Se o nome for muito longo (mais de 25 caracteres) pode ser usado a abrevia√ß√£o baseada no nome romanizado ([esse anime](https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru) pode ser encurtado para Oreshura);
+* Se o anime n√£o tem uma abrevia√ß√£o use o nome longo, isso n√£o causar√° nenhum problema;
+* Use o nome original da legenda ou do v√≠deo nos arquivos;
+* Use o nome original romanizado (para evitar problemas com Unicode) nas pastas e *commits*; mesmo que algumas pessoas tenham problemas com esses nomes n√£o use tradu√ß√µes para Portugu√™s (ou Ingl√™s) pois assim voc√™ estar√° causando problemas para quem n√£o fala essas l√≠nguas;
+
+## Conte√∫dos que n√£o sejam anime:
+
+* Para outros conte√∫dos voc√™ pode adaptar as regras acima para o tipo de conte√∫do que voc√™ est√° enviando;
+* Se voc√™ n√£o for usar uma ID do MyAnimeList inclua a abrevia√ß√£o do site usado dessa forma: ["IMDB-0120338 - Titanic"](http://www.imdb.com/title/tt0120338/), ["MDL-19702 - NIGEHAJI"](http://mydramalist.com/19702-nigeru-wa-haji-da-ga-yaku-ni-tatsu).
