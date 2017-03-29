@@ -253,7 +253,7 @@ Dialogue: 5,0:06:33.19,0:06:34.14,Default,,0,0,0,,Eu te amo.
 Dialogue: 5,0:06:43.82,0:06:46.12,Default,,0,0,0,,Hanabi, está acordada?
 Dialogue: 5,0:06:47.16,0:06:49.12,Default,,0,0,0,,Pode ir fazer compras pra mim?
 Dialogue: 5,0:06:50.90,0:06:51.94,Default,,0,0,0,,O que foi?
-Dialogue: 5,0:06:51.94,0:06:54.51,Default,,0,0,0,,Você está tão desligada que o sua amiga saiu. {You've been out of it ever since your friend left.}
+Dialogue: 5,0:06:51.94,0:06:54.51,Default,,0,0,0,,Você está tão desligada que a sua amiga saiu. {You've been out of it ever since your friend left.}
 Dialogue: 5,0:07:00.67,0:07:06.33,Default,,0,0,0,,{\i1}Não tem nada mais revoltante do que a afeição de alguém na qual você está completamente desinteressado, certo?
 Dialogue: 5,0:07:08.40,0:07:11.41,Default,,0,0,0,,{\i1}Me desculpe se eu a fiz se sentir mal. {I'm sorry if I revolted you.}
 Dialogue: 5,0:07:14.19,0:07:18.36,Default,,0,0,0,,{\i1}Eu não fazia ideia de que ser o ser o amor de alguém... {ser o amor de alguém}{##ué, não fica melhor assim, como você colocou}{I had no idea that being the object of someone's desires...}
@@ -364,7 +364,7 @@ Dialogue: 0,0:14:36.23,0:14:40.60,signs,,0,0,0,,{\move(640,305,640,308)\fscx112\
 Dialogue: 5,0:14:43.72,0:14:45.37,Default,,0,0,0,,{\i1}Isso é muito fácil.
 Dialogue: 5,0:14:46.47,0:14:50.36,Default,,0,0,0,,{\i1}Eu posso tocar o Mugi assim tão fácil.
 Dialogue: 5,0:14:54.02,0:14:55.70,Default,,0,0,0,,{\i1}Mas naquela hora,
-Dialogue: 5,0:14:57.28,0:14:59.92,Default,,0,0,0,,{\i1}eu fique com medo de tocar a Ecchan.
+Dialogue: 5,0:14:57.28,0:14:59.92,Default,,0,0,0,,{\i1}eu fiquei com medo de tocar a Ecchan.
 Dialogue: 5,0:15:01.99,0:15:03.03,Default,,0,0,0,,{\i1}Por quê?
 Dialogue: 5,0:15:03.73,0:15:05.20,Default,,0,0,0,,{\i1}Por que ela é uma garota?
 Dialogue: 5,0:15:10.10,0:15:13.27,Default,,0,0,0,,Eu me sinto calma quando estou com você.
