@@ -54,7 +54,7 @@ Dialogue: 5,0:01:34.96,0:01:36.29,Default,,0,0,0,,Olá.
 Dialogue: 5,0:01:36.29,0:01:37.99,Default,,0,0,0,,P-Precisa de alguma coisa?
 Dialogue: 5,0:01:38.42,0:01:42.11,Default,,0,0,0,,Ah, é mesmo. Você esqueceu isso\N na sala dos professores.
 Dialogue: 5,0:01:42.11,0:01:44.89,Default,,0,0,0,,Aqui, sua pasta.
-Dialogue: 5,0:01:44.89,0:01:47.96,Default,,0,0,0,,M-Muito obrigada.
+Dialogue: 5,0:01:44.89,0:01:47.96,Default,,0,0,0,,M-Muito obrigado.
 Dialogue: 5,0:01:56.68,0:01:57.57,Default,,0,0,0,,Doeu.
 Dialogue: 5,0:01:58.84,0:01:59.74,Default,,0,0,0,,{\an8}Com licença.
 Dialogue: 5,0:01:59.74,0:02:01.12,Default,,0,0,0,,{\an8}Eu vi os sublinhados que você fez.
@@ -159,10 +159,10 @@ Dialogue: 0,0:03:57.75,0:04:00.17,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(20
 Dialogue: 1,0:03:57.75,0:04:00.17,OP,,0,0,0,,{\c&HF1F1ED&\blur0.6\fad(200,0)}Mesmo quando você está perto, eu sinto como se estivesse longe.
 Dialogue: 0,0:04:00.51,0:04:03.01,OP,,0,0,0,,{\c&H000000&\blur1.5\fad(0,200)\t(2300,2345,\1a&HFF&)}Esse sentimento vem e vai.
 Dialogue: 1,0:04:00.51,0:04:03.01,OP,,0,0,0,,{\c&HCDCCCD&\blur0.6\fad(0,200)}Esse sentimento vem e vai.
-Dialogue: 0,0:04:03.01,0:04:04.64,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,0)\t(155,200,\1a&H00&)}"Dessista," "Não dessista"
-Dialogue: 1,0:04:03.01,0:04:04.64,OP,,0,0,0,,{\c&HD88ACD&\blur0.6\fad(200,0)}"Dessista," "Não dessista"
-Dialogue: 0,0:04:04.93,0:04:05.60,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(100,200)\t(55,100,\1a&H00&)\t(470,515,\1a&HFF&)}"Dessista," "Não dessista"
-Dialogue: 1,0:04:04.93,0:04:05.60,OP,,0,0,0,,{\c&HD88ACD&\blur0.6\fad(100,200)}"Dessista," "Não dessista"
+Dialogue: 0,0:04:03.01,0:04:04.64,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,0)\t(155,200,\1a&H00&)}"Desista," "Não desista"
+Dialogue: 1,0:04:03.01,0:04:04.64,OP,,0,0,0,,{\c&HD88ACD&\blur0.6\fad(200,0)}"Desista," "Não desista"
+Dialogue: 0,0:04:04.93,0:04:05.60,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(100,200)\t(55,100,\1a&H00&)\t(470,515,\1a&HFF&)}"Desista," "Não desista"
+Dialogue: 1,0:04:04.93,0:04:05.60,OP,,0,0,0,,{\c&HD88ACD&\blur0.6\fad(100,200)}"Desista," "Não desista"
 Dialogue: 0,0:04:05.60,0:04:08.14,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(1564,1564,)\t(155,200,\1a&H00&)\t(2340,2385,\1a&HFF&)}As pétalas que eu arranco não tem fim.
 Dialogue: 1,0:04:05.60,0:04:08.14,OP,,0,0,0,,{\c&HD88ACD&\blur0.6\fad(200,200)\t(1564,1564,\c&H227435&)}As pétalas que eu arranco não tem fim.
 Dialogue: 0,0:04:08.14,0:04:10.35,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,0)\t(155,200,\1a&H00&)}Eu perdi a chave dessa caixa de tesouros.
@@ -171,8 +171,8 @@ Dialogue: 0,0:04:10.68,0:04:13.24,OP,,0,0,0,,{\c&H000000&\blur1.5\fad(0,200)\t(2
 Dialogue: 1,0:04:10.68,0:04:13.24,OP,,0,0,0,,{\c&HBEADA8&\blur0.6\fad(0,200)}Abraçando esses brilhantes sentimentos,
 Dialogue: 0,0:04:13.24,0:04:20.87,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,0)\t\t(4768,0,\alpha&HFF&)\t(155,200,\1a&H00&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
 Dialogue: 1,0:04:13.24,0:04:20.87,OP,,0,0,0,,{\c&HDAD1C4&\blur0.6\fad(200,0)\t(639,639,\c&H6D5756&)\t(4768,0,\c&H000000&\alpha&HFF&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
-Dialogue: 0,0:04:28.66,0:04:31.26,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(651,984,)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
-Dialogue: 1,0:04:28.66,0:04:31.26,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
+Dialogue: 0,0:04:28.66,0:04:31.26,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(651,984,)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
+Dialogue: 1,0:04:28.66,0:04:31.26,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
 Dialogue: 0,0:04:31.26,0:04:33.82,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2360,2405,\1a&HFF&)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 1,0:04:31.26,0:04:33.82,OP,,0,0,0,,{\c&HC397A4&\blur0.6\fad(200,200)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 0,0:04:33.82,0:04:36.33,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2310,2355,\1a&HFF&)}eu não sei por quanto tempo eu vou aguentar.
@@ -271,7 +271,7 @@ Dialogue: 5,0:07:34.10,0:07:38.36,Default,,0,0,0,,{\i1}Ele diz isso desde o fund
 Dialogue: 5,0:07:39.12,0:07:40.14,Default,,0,0,0,,{\i1}Isso porque...
 Dialogue: 5,0:07:41.57,0:07:44.43,Default,,0,0,0,,{\i1}ele já tem alguém especifico em mente? {## maiuscula?}
 Comment: 0,0:07:48.73,0:07:51.36,signs,,0,0,0,,{\pos(431,214)\fscx73\fscy73\frz352.9\fnArial Rounded MT Std Extra Bold\b1\c&HFFFFFF&\blur4\t(0,864,0.5,\blur0.6)\t(0,1832,\c&H847F76&)}Field \Nday {## engrish}
-Dialogue: 5,0:07:53.38,0:07:56.00,Default,,0,0,0,,Incrível, Hana-cha! Você ficou em primeiro lugar!
+Dialogue: 5,0:07:53.38,0:07:56.00,Default,,0,0,0,,Incrível, Hana-chan! Você ficou em primeiro lugar!
 Dialogue: 5,0:07:56.00,0:07:57.28,Default,,0,0,0,,Incrível, incrível!
 Dialogue: 5,0:07:57.28,0:07:58.83,Default,,0,0,0,,Que inveja.
 Dialogue: 5,0:07:58.83,0:07:59.90,Default,,0,0,0,,Ei.
@@ -287,7 +287,7 @@ Dialogue: 5,0:08:23.19,0:08:25.65,Default,,0,0,0,,Os seus tênis que são injust
 Comment: 5,0:08:26.05,0:08:26.96,Default,,0,0,0,,Gulp.
 Dialogue: 5,0:08:28.14,0:08:29.73,Default,,0,0,0,,Ah, é verdade!
 Dialogue: 5,0:08:29.73,0:08:31.92,Default,,0,0,0,,Esses são tênis de corrida!
-Dialogue: 5,0:08:31.92,0:08:34.94,Default,,0,0,0,,Eles disseram que não podiamos usar eles na escola!
+Dialogue: 5,0:08:31.92,0:08:34.94,Default,,0,0,0,,Eles disseram que não podíamos usar eles na escola!
 Dialogue: 5,0:08:35.86,0:08:37.16,Default,,0,0,0,,Ei, Noriko.
 Dialogue: 5,0:08:37.56,0:08:39.70,Default,,0,0,0,,Quantas vezes eu já disse?
 Dialogue: 5,0:08:42.29,0:08:43.20,Default,,0,0,0,,Hana-chan.
@@ -663,14 +663,14 @@ Dialogue: 5,0:10:11.94,0:10:13.18,Default,,0,0,0,,{\i1}Mentiroso.
 Dialogue: 5,0:10:23.21,0:10:26.39,Default,,0,0,0,,{\an8}A professora de música, a Minagawa-sensei é linda.
 Dialogue: 5,0:10:26.74,0:10:28.36,Default,,0,0,0,,Está falando na nova?
 Dialogue: 5,0:10:28.36,0:10:29.76,Default,,0,0,0,,{\an8}Ela não é tão mais velha que nós.
-Dialogue: 5,0:10:30.68,0:10:33.71,Default,,0,0,0,,A Yasuraoka está olhando pra cá.
+Dialogue: 5,0:10:30.68,0:10:33.71,Default,,0,0,0,,A Yasuraoka-san está olhando pra cá.
 Dialogue: 5,0:10:33.71,0:10:35.80,Default,,0,0,0,,Mesmo? Será que sou eu?
 Dialogue: 5,0:10:35.80,0:10:37.59,Default,,0,0,0,,Não seja idiota...
 Dialogue: 5,0:10:43.23,0:10:43.99,Default,,0,0,0,,Me desculpe.
 Dialogue: 5,0:10:45.11,0:10:46.44,Default,,0,0,0,,Você está bem?
 Dialogue: 5,0:10:46.44,0:10:47.96,Default,,0,0,0,,Não se machucou?
 Dialogue: 5,0:10:49.73,0:10:51.13,Default,,0,0,0,,{\i1}Cabelo longo.
-Dialogue: 5,0:10:51.13,0:10:53.22,Default,,0,0,0,,{\i1}Um casado de lã caro.
+Dialogue: 5,0:10:51.13,0:10:53.22,Default,,0,0,0,,{\i1}Um cardigã fora de moda.
 Dialogue: 5,0:10:53.22,0:10:55.81,Default,,0,0,0,,{\i1}O forte cheiro do xampu.
 Dialogue: 5,0:10:55.81,0:10:57.72,Default,,0,0,0,,{\i1}Olhos com maquiagem natural.
 Dialogue: 5,0:11:04.35,0:11:05.81,Default,,0,0,0,,Sensei.
@@ -783,17 +783,17 @@ Dialogue: 5,0:18:39.95,0:18:42.21,Default,,0,0,0,,Eu já dei a minha resposta, a
 Dialogue: 5,0:18:42.21,0:18:42.97,Default,,0,0,0,,Ei.
 Dialogue: 5,0:18:43.35,0:18:44.43,Default,,0,0,0,,Espera.
 Dialogue: 5,0:18:45.75,0:18:48.64,Default,,0,0,0,,Eu esperei uma semana pela sua resposta.
-Dialogue: 5,0:18:48.97,0:18:51.10,Default,,0,0,0,,Você fez eu criar espectativas.
+Dialogue: 5,0:18:48.97,0:18:51.10,Default,,0,0,0,,Você fez eu criar expectativas.
 Dialogue: 5,0:18:55.64,0:19:01.54,Default,,0,0,0,,Não tem nada mais revoltante do que a afeição de alguém que você está completamente desinteressado, tem?
 Dialogue: 5,0:19:10.71,0:19:12.71,Default,,0,0,0,,{\i1}Droga.
-Dialogue: 5,0:19:13.17,0:19:14.42,Default,,0,0,0,,{\i1}Um boomerang.
+Dialogue: 5,0:19:13.17,0:19:14.42,Default,,0,0,0,,{\i1}Um bumerangue.
 Dialogue: 5,0:19:19.63,0:19:21.05,Default,,0,0,0,,{\i1}Naquela hora,
 Dialogue: 5,0:19:21.97,0:19:24.01,Default,,0,0,0,,{\i1}eu não consegui responder.
 Dialogue: 5,0:19:25.84,0:19:27.62,Default,,0,0,0,,{\i1}Eu não consegui dizer.
 Dialogue: 5,0:19:29.23,0:19:30.63,Default,,0,0,0,,{\i1}Não digo o Mugi.
 Dialogue: 5,0:19:32.32,0:19:36.53,Default,,0,0,0,,{\i1}E sim o meu irmão que eu estava vendo através do Mugi.
 Dialogue: 5,0:19:39.79,0:19:41.34,Default,,0,0,0,,{\i1}Por isso, eu...
-Dialogue: 5,0:19:45.99,0:19:47.82,Default,,0,0,0,,Que supresa você aqui.
+Dialogue: 5,0:19:45.99,0:19:47.82,Default,,0,0,0,,Que surpresa você aqui.
 Dialogue: 5,0:19:53.63,0:19:55.28,Default,,0,0,0,,Pensei que não fosse mais voltar.
 Dialogue: 5,0:20:08.06,0:20:11.31,Default,,0,0,0,,Quer dizer que estamos saindo?
 Dialogue: 5,0:20:11.31,0:20:12.00,Default,,0,0,0,,Hã?
@@ -804,11 +804,11 @@ Dialogue: 5,0:20:22.58,0:20:24.09,Default,,0,0,0,,Você não é o meu tipo.
 Dialogue: 5,0:20:27.43,0:20:28.48,Default,,0,0,0,,Nem você o meu.
 Dialogue: 5,0:20:30.28,0:20:33.79,Default,,0,0,0,,{\i1}E então fizemos um pacto.
 Dialogue: 5,0:20:34.60,0:20:37.52,Default,,0,0,0,,{\i1}Que não iriamos nos apaixonar um pelo outro.
-Dialogue: 5,0:20:37.52,0:20:42.08,Default,,0,0,0,,{\i1}Se um de nós fizer isso com a \Npessoa que ralmente ama, então a nossa relação acabou. {If one of us makes it with the person we really love, our relationship ends.}
+Dialogue: 5,0:20:37.52,0:20:42.08,Default,,0,0,0,,{\i1}Se um de nós fizer isso com a \Npessoa que realmente ama, então a nossa relação acabou. {If one of us makes it with the person we really love, our relationship ends.}
 Dialogue: 5,0:20:42.81,0:20:47.96,Default,,0,0,0,,{\i1}Em outras palavras, você pode ter tudo, menos os meus sentimentos.
 Dialogue: 5,0:20:50.33,0:20:54.74,Default,,0,0,0,,Então isso basicamente isso é uma amiza—
 Dialogue: 5,0:20:54.74,0:20:56.31,Default,,0,0,0,,Não, não, não.
-Dialogue: 5,0:20:57.17,0:20:59.78,Default,,0,0,0,,Nós não fizemos... Sexo.
+Dialogue: 5,0:20:57.17,0:20:59.78,Default,,0,0,0,,Nós não fizemos... sexo.
 Dialogue: 5,0:21:00.72,0:21:02.45,Default,,0,0,0,,E provavelmente não faremos.
 Dialogue: 5,0:21:04.79,0:21:05.77,Default,,0,0,0,,Mesmo?
 Dialogue: 5,0:21:08.65,0:21:12.71,Default,,0,0,0,,{\i1}Se um de nós estiver se sentindo sozinho,\N qual o problema de querer que o outro abrace você?
