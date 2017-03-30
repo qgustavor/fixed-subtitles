@@ -34,7 +34,7 @@ Style: OP - Copy,Goudy Old Style,40,&H00C7A545,&H000019FF,&H00000000,&H00000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:00:16.88,0:00:17.88,Default,,0,0,0,,Seus óculos.
 Dialogue: 5,0:00:18.58,0:00:19.62,Default,,0,0,0,,Desculpa.
-Dialogue: 5,0:00:44.79,0:00:47.25,Default,,0,0,0,,Ontem eu e o Kanai-senei...
+Dialogue: 5,0:00:44.79,0:00:47.25,Default,,0,0,0,,Ontem eu e o Kanai-sensei...
 Dialogue: 5,0:00:47.81,0:00:49.15,Default,,0,0,0,,fizemos.
 Dialogue: 5,0:00:54.57,0:00:59.53,Default,,0,0,0,,{\i1}Eu sou uma pessoa que estou sempre pronta para fazer o que não posso. {A person who can readily do what I can't.}
 Dialogue: 5,0:00:59.98,0:01:02.50,Default,,0,0,0,,{\i1}Ela me roubou tudo.
@@ -215,7 +215,7 @@ Dialogue: 5,0:04:19.80,0:04:23.07,Default,,0,0,0,,Mugi, acho que nós devíamos 
 Dialogue: 5,0:04:23.57,0:04:24.43,Default,,0,0,0,,Certo?
 Dialogue: 5,0:04:27.30,0:04:29.24,Default,,0,0,0,,Nós nos damos bem.
 Dialogue: 5,0:04:29.96,0:04:31.43,Default,,0,0,0,,Tenho certeza que vai dar certo.
-Dialogue: 5,0:04:34.46,0:04:38.03,Default,,0,0,0,,Tenho certeza que você também vai se apaixona por mim.
+Dialogue: 5,0:04:34.46,0:04:38.03,Default,,0,0,0,,Tenho certeza que você também vai se apaixonar por mim.
 Dialogue: 5,0:04:40.73,0:04:43.19,Default,,0,0,0,,Hã? Não vai pra casa comigo?
 Dialogue: 5,0:04:43.19,0:04:44.82,Default,,0,0,0,,Não, tenho que fazer uma coisa.
 Dialogue: 5,0:04:51.02,0:04:52.89,Default,,0,0,0,,Oh, Hanabi.
@@ -353,7 +353,7 @@ Dialogue: 5,0:08:03.94,0:08:05.62,Default,,0,0,0,,{\i1}Eu quero que você me per
 Dialogue: 5,0:08:06.88,0:08:13.22,Default,,0,0,0,,{\i1}Eu tirei vantagem da situação e envolvi você nos meus desejos egoístas.
 Dialogue: 5,0:08:14.64,0:08:18.21,Default,,0,0,0,,{\i1}Eu mereço essa punição.
 Dialogue: 5,0:08:25.60,0:08:28.74,Default,,0,0,0,,Se estava com febre deveria ter me dito.
-Dialogue: 5,0:08:29.40,0:08:32.04,Default,,0,0,0,,Você não meu deu chance de dizer.
+Dialogue: 5,0:08:29.40,0:08:32.04,Default,,0,0,0,,Você não me deu chance de dizer.
 Dialogue: 5,0:08:33.19,0:08:34.44,Default,,0,0,0,,Desculpa.
 Dialogue: 5,0:08:38.78,0:08:40.38,Default,,0,0,0,,N-Não.
 Dialogue: 5,0:08:40.38,0:08:43.00,Default,,0,0,0,,Não podemos fazer isso aqui.
@@ -418,7 +418,8 @@ Dialogue: 0,0:11:59.78,0:12:01.99,signs,,0,0,0,,{\an4\pos(485,555)\fscx89\fscy89
 Dialogue: 0,0:11:59.78,0:12:01.99,signs,,0,0,0,,{\an4\pos(523,687)\fscx48\fscy48\frz16.1\fnLato\c&H938F8D&\blur0.6}Deslize para ler
 Dialogue: 5,0:12:05.43,0:12:06.91,Default,,0,0,0,,Está usando seu uniforme.
 Dialogue: 5,0:12:06.91,0:12:09.48,Default,,0,0,0,,Eu vim da escola. {aaaaaaaaaaa adora a voz dela} {gakogakogakogakogakogako}
-Dialogue: 5,0:12:09.48,0:12:11.42,Default,,0,0,0,,{\i1}Fingir ser uma {\i0}JK{\i1} é irritante. {jk é joshi koukousei, mas tem aquilo de ser um termo pra gyaru e também prostitutas que ainda se vestem como se estivessem no colégio, assim como é uma moda e tendência, então JK}
+Dialogue: 5,0:12:09.48,0:12:13.42,Default,,0,0,0,,{\fs30\an8\i1\alpha&H40&}Nota: JK é joshi koukousei (colegial), mas tem aquilo de ser um termo pra gyaru e também prostitutas que ainda se vestem como se estivessem no colégio, assim como é uma moda e tendência, então JK.
+Dialogue: 5,0:12:09.48,0:12:11.42,Default,,0,0,0,,{\i1}Fingir ser uma {\i0}JK{\i1} é irritante.
 Dialogue: 5,0:12:21.34,0:12:23.45,Default,,0,0,0,,Você é bem fofa, Hanabi-chan.
 Dialogue: 5,0:12:23.45,0:12:25.02,Default,,0,0,0,,Aposto que ouve bastante isso.
 Dialogue: 5,0:12:25.02,0:12:27.14,Default,,0,0,0,,{\i1}Geh, esse clima é perigoso.
@@ -490,7 +491,7 @@ Dialogue: 5,0:16:09.08,0:16:11.11,Default,,0,0,0,,Certo, é mesmo.
 Dialogue: 5,0:16:11.11,0:16:13.74,Default,,0,0,0,,Desculpa. Vamos ir com calma.
 Dialogue: 5,0:16:14.15,0:16:15.61,Default,,0,0,0,,{\i1}Essa foi por pouco.
 Dialogue: 5,0:16:15.61,0:16:17.74,Default,,0,0,0,,{\i1}Eu quase perdi. {I almost just caved there.}
-Dialogue: 5,0:16:18.86,0:16:20.25,Default,,0,0,0,,Vamos começar a nos sentir mais confortável um com o outro.
+Dialogue: 5,0:16:18.86,0:16:20.25,Default,,0,0,0,,Vamos começar a nos sentir mais confortáveis um com o outro.
 Dialogue: 0,0:16:20.95,0:16:22.25,Default,,0,0,0,,Pouco a pouco.
 Dialogue: 5,0:16:23.48,0:16:24.41,Default,,0,0,0,,Sim.
 Dialogue: 5,0:16:25.16,0:16:27.98,Default,,0,0,0,,{\i1}Eu posso fingir o quanto você quiser.
@@ -767,7 +768,7 @@ Dialogue: 5,0:19:03.57,0:19:07.33,Default,,0,0,0,,{\i1}Não, nós decidimos sair
 Dialogue: 5,0:19:07.33,0:19:10.98,Default,,0,0,0,,{\i1}Eu não sei com que ela estava, mas isso é estranho.{don't know who she was with, \Nbut she has to have ended it by now.}
 Dialogue: 5,0:19:12.50,0:19:14.87,Default,,0,0,0,,{\i1}Eu estou sendo enganado?!
 Dialogue: 5,0:19:17.44,0:19:19.72,Default,,0,0,0,,Você devia desaparecer logo.
-Dialogue: 5,0:19:20.55,0:19:21.90,Default,,0,0,0,,Vou ter que deixa de novo.{I'll just have to leave another one.}
+Dialogue: 5,0:19:20.55,0:19:21.90,Default,,0,0,0,,Vou ter que deixar de novo.{I'll just have to leave another one.}
 Dialogue: 5,0:19:30.87,0:19:32.17,Default,,0,0,0,,Quer vir até a minha casa?
 Dialogue: 5,0:19:32.17,0:19:35.90,Default,,0,0,0,,Não, eu vou ter que acordar cedo amanhã.
 Dialogue: 5,0:19:39.63,0:19:41.34,Default,,0,0,0,,{\i1}Ela beijou normalmente.
