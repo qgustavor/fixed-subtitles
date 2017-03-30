@@ -260,7 +260,7 @@ Dialogue: 5,0:07:12.94,0:07:18.33,Default,,0,0,0,,{\i1}É claro que eu ficaria c
 Dialogue: 5,0:07:20.03,0:07:22.14,Default,,0,0,0,,{\i1}O seu amado...
 Dialogue: 5,0:07:23.46,0:07:24.73,Default,,0,0,0,,Kanai-sensei.
 Dialogue: 5,0:07:25.54,0:07:27.38,Default,,0,0,0,,M-Minagawa-sensei!  {bitch, you 'aint kawaii}
-Dialogue: 5,0:07:30.27,0:07:33.21,Default,,0,0,0,,Alô, Yasuraoka.
+Dialogue: 5,0:07:30.27,0:07:33.21,Default,,0,0,0,,Olá, Yasuraoka-san.
 Dialogue: 5,0:07:33.21,0:07:35.68,Default,,0,0,0,,{\i1}Isso é tudo sua culpa. {This is really all your fault.} {ikenai = algo proibído, que não deveria ser feito, perigoso}
 Dialogue: 5,0:07:35.68,0:07:38.33,Default,,0,0,0,,P-Precisa de alguma coisa?
 Dialogue: 5,0:07:38.33,0:07:40.64,Default,,0,0,0,,{\i1}Afinal, eu não me importo...
@@ -292,7 +292,7 @@ Dialogue: 0,0:09:15.27,0:09:17.99,Default,,0,0,0,,e tudo que eu realmente me lem
 Dialogue: 5,0:09:20.27,0:09:23.58,Default,,0,0,0,,{\i1}Sim, exatamente como aquele.
 Dialogue: 5,0:09:34.01,0:09:36.34,Default,,0,0,0,,{\i1}Me apaixonar à primeira vista\N em um dia de primavera.
 Dialogue: 5,0:09:41.95,0:09:45.56,Default,,0,0,0,,{\i1}Talvez eu seja mesmo muito simples.
-Dialogue: 5,0:09:47.55,0:09:49.04,Default,,0,0,0,,Ah, uma cerejeira.
+Dialogue: 5,0:09:47.55,0:09:49.04,Default,,0,0,0,,Ah, uma pétala de cerejeira.
 Dialogue: 5,0:09:51.08,0:09:52.98,Default,,0,0,0,,Nós nos vimos essa manhã. {## ENGRISH}
 Dialogue: 5,0:09:54.30,0:09:57.70,Default,,0,0,0,,Oh, vejo que você não tinha notado.
 Dialogue: 5,0:09:58.60,0:10:01.17,Default,,0,0,0,,Eu vi você na cerimônia.{I saw you at the assembly.}
@@ -371,7 +371,7 @@ Dialogue: 5,0:15:16.85,0:15:18.57,Default,,0,0,0,,Está nervosa?
 Dialogue: 5,0:15:18.57,0:15:20.33,Default,,0,0,0,,Estou.
 Dialogue: 5,0:15:20.33,0:15:22.22,Default,,0,0,0,,É claro que eu estaria.
 Dialogue: 5,0:15:23.51,0:15:24.68,Default,,0,0,0,,Por quê?
-Dialogue: 5,0:15:24.68,0:15:26.83,Default,,0,0,0,,Porque eu sou um garota?
+Dialogue: 5,0:15:24.68,0:15:26.83,Default,,0,0,0,,Porque eu sou uma garota?
 Dialogue: 5,0:15:26.83,0:15:28.19,Default,,0,0,0,,Não.
 Dialogue: 5,0:15:29.12,0:15:30.15,Default,,0,0,0,,Por que você...
 Dialogue: 5,0:15:31.56,0:15:33.10,Default,,0,0,0,,é minha amiga.
@@ -488,7 +488,7 @@ Dialogue: 0,0:22:44.04,0:22:50.98,ED,,0,0,0,,{\blur0.5\fad(200,200)}watashi to k
 Dialogue: 0,0:22:50.98,0:22:54.51,ED,,0,0,0,,{\blur0.5\fad(200,200)}Ahh, heikousen
 Dialogue: 0,0:21:24.72,0:21:26.72,Default,,0,0,0,,
 Comment: 5,0:03:04.82,0:03:05.99,Default,,0,0,0,,What?
-Comment: 5,0:06:21.91,0:06:24.28,Default,,0,0,0,,Oh, no. {hehe iyada, nada aqui já que no anterior também desconsiderei}
+Dialogue: 0,0:06:21.91,0:06:24.28,Default,,0,0,0,,Ah, não... {hehe iyada, nada aqui já que no anterior também desconsiderei}
 Comment: 5,0:06:40.54,0:06:42.11,Default,,0,0,0,,Wow, she's good.
 Comment: 5,0:07:28.66,0:07:29.97,Default,,0,0,0,,
 Comment: 5,0:07:45.46,0:07:46.55,Default,,0,0,0,,{\an8}A sua pasta...
