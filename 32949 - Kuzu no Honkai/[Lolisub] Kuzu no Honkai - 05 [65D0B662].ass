@@ -237,7 +237,7 @@ Dialogue: 5,0:05:19.73,0:05:21.18,Default,,0,0,0,,Eu comprei um no caminho.
 Dialogue: 5,0:05:21.18,0:05:23.92,Default,,0,0,0,,{\i1}Eh, ela está usando as mesmas roupas de ontem.
 Dialogue: 5,0:05:25.05,0:05:28.89,Default,,0,0,0,,{\i1}Aposto que ela está fazendo isso porque fica mais bonita desse ângulo.
 Dialogue: 5,0:05:30.53,0:05:31.85,Default,,0,0,0,,{\i1}Essa pessoa...
-Dialogue: 5,0:05:33.23,0:05:36.07,Default,,0,0,0,,{\i1}não consegui viver sem um homem por perto?
+Dialogue: 5,0:05:33.23,0:05:36.07,Default,,0,0,0,,{\i1}não consegue viver sem um homem por perto?
 Dialogue: 5,0:05:37.40,0:05:40.80,Default,,0,0,0,,{\i1}Quando eu pensei sobre isso,
 Dialogue: 5,0:05:40.80,0:05:44.30,Default,,0,0,0,,{\i1}a Akane parecia ser uma pessoa frágil e gentil para mim.
 Dialogue: 5,0:05:45.97,0:05:47.47,Default,,0,0,0,,Mugi-chan.
@@ -405,7 +405,7 @@ Dialogue: 1,0:07:10.57,0:07:10.61,signs,,0,0,0,,{\pos(456.35,443.53)\fscx54.92\f
 Dialogue: 0,0:07:10.61,0:07:10.66,signs,,0,0,0,,{\pos(456.49,442.14)\fscx53.93\fscy45.72\frz6.38\fnDion\fsp1\bord1.47\1c&H9B9DA5&\3c&H9B9DA5&\alpha&HFA&\1a&HFF&\blur0.55}Fique longe\Nde mim!
 Dialogue: 1,0:07:10.61,0:07:10.66,signs,,0,0,0,,{\pos(456.49,442.14)\fscx53.93\fscy45.72\frz6.38\fnDion\fsp1\1c&H4C4349&\alpha&HFA&\blur0.55}Fique longe\Nde mim!
 Dialogue: 5,0:07:12.42,0:07:16.40,Default,,0,0,0,,{\i1}Mas eu não odeio essa honestidade dela.
-Dialogue: 5,0:07:19.67,0:07:21.13,Default,,0,0,0,,{\i1}Hoje é Sábado.
+Dialogue: 5,0:07:19.67,0:07:21.13,Default,,0,0,0,,{\i1}Hoje é sábado.
 Dialogue: 5,0:07:21.88,0:07:23.24,Default,,0,0,0,,{\i1}Não tenho nada para fazer.
 Dialogue: 5,0:07:26.00,0:07:26.88,Default,,0,0,0,,{\i1}Mas...
 Dialogue: 5,0:07:31.79,0:07:32.80,Default,,0,0,0,,{\i1}Por quê?
@@ -527,8 +527,8 @@ Dialogue: 5,0:15:30.34,0:15:32.82,Default,,0,0,0,,Você não vai mesmo beber?
 Dialogue: 5,0:15:32.82,0:15:34.48,Default,,0,0,0,,N-Não.
 Dialogue: 5,0:15:34.48,0:15:36.91,Default,,0,0,0,,Eu sou muito fraco com álcool.
 Dialogue: 5,0:15:40.90,0:15:43.83,Default,,0,0,0,,{\i1}Desde o início eu sabia que isso seria chato.
-Dialogue: 5,0:15:44.22,0:15:46.83,Default,,0,0,0,,{\i1}Mas ela é mais sem graça do que eu pensei.
-Dialogue: 5,0:15:46.83,0:15:50.76,Default,,0,0,0,,{\i1}Eu realmente odeio{a existência} pessoas chata.
+Dialogue: 5,0:15:44.22,0:15:46.83,Default,,0,0,0,,{\i1}Mas ele é mais sem graça do que eu pensei.
+Dialogue: 5,0:15:46.83,0:15:50.76,Default,,0,0,0,,{\i1}Eu realmente odeio pessoas chatas.
 Dialogue: 5,0:15:50.76,0:15:52.72,Default,,0,0,0,,E-Espere, por favor.
 Dialogue: 5,0:15:53.04,0:15:54.61,Default,,0,0,0,,Você ainda não respondeu.
 Dialogue: 5,0:15:54.61,0:15:56.68,Default,,0,0,0,,Responder?
@@ -633,5 +633,5 @@ Comment: 5,0:06:52.30,0:06:53.43,Default,,0,0,0,,Ow!
 Comment: 5,0:13:13.98,0:13:15.85,Default,,0,0,0,,Oh, yeah.
 Comment: 5,0:14:26.76,0:14:30.09,Default,,0,0,0,,{\an8}Bem, então...
 Comment: 5,0:18:15.02,0:18:15.64,Default,,0,0,0,,Huh?
-Comment: 5,0:19:05.94,0:19:07.08,Default,,0,0,0,,Ouch.
+Dialogue: 0,0:19:05.94,0:19:07.08,Default,,0,0,0,,Doeu.
 
