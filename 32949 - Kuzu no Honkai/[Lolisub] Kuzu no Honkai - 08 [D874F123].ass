@@ -33,7 +33,7 @@ Style: OP - Copy,Goudy Old Style,40,&H00C7A545,&H000019FF,&H00000000,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 5,0:00:08.19,0:00:11.28,Default,,0,0,0,,Essa não! Isso é demais.
-Dialogue: 5,0:00:11.91,0:00:14.91,Default,,0,0,0,,Não consigo me imaginar terminado sem ajuda.
+Dialogue: 5,0:00:11.91,0:00:14.91,Default,,0,0,0,,Não consigo me imaginar terminando sem ajuda.
 Dialogue: 5,0:00:14.91,0:00:17.74,Default,,0,0,0,,Parece que o dever de casa é tão ruim quanto eu ouvi dizer.
 Dialogue: 5,0:00:18.36,0:00:19.70,Default,,0,0,0,,Os da nossa escola.
 Dialogue: 5,0:00:19.70,0:00:24.92,Default,,0,0,0,,Eu quero acabar logo isso para poder estudar para o vestibular.
@@ -255,7 +255,7 @@ Dialogue: 5,0:05:42.56,0:05:43.89,Default,,0,0,0,,é uma garota.
 Dialogue: 5,0:05:46.14,0:05:47.71,Default,,0,0,0,,Entenda logo.
 Dialogue: 5,0:05:47.71,0:05:49.87,Default,,0,0,0,,Eu nunca vou amar você.
 Dialogue: 5,0:05:51.55,0:05:52.58,Default,,0,0,0,,Você...
-Dialogue: 5,0:05:53.66,0:05:55.91,Default,,0,0,0,,gosta dele porque ela é uma garota?
+Dialogue: 5,0:05:53.66,0:05:55.91,Default,,0,0,0,,gosta dela porque ela é uma garota?
 Dialogue: 5,0:05:57.19,0:05:59.85,Default,,0,0,0,,Não daria certo se ela não fosse uma garota?
 Dialogue: 5,0:06:02.09,0:06:03.71,Default,,0,0,0,,Oh, desculpa.
 Dialogue: 5,0:06:04.59,0:06:07.17,Default,,0,0,0,,Eu não sou bom com coisas complicadas.
@@ -270,7 +270,7 @@ Dialogue: 5,0:06:29.69,0:06:31.74,Default,,0,0,0,,Mas você não me odeia.
 Dialogue: 5,0:06:33.19,0:06:38.45,Default,,0,0,0,,O que quer dizer que você me como o indivíduo Kirishima Atsuya.{Which means that you're looking at me as the individual Kirishima Atsuya.}
 Dialogue: 5,0:06:39.50,0:06:43.13,Default,,0,0,0,,Por isso, o gênero não importa.
 Dialogue: 5,0:06:43.44,0:06:48.45,Default,,0,0,0,,Eu não quero categorizar você por gênero.{I don't want to put any gender labels on you.}
-Dialogue: 5,0:06:48.45,0:06:51.84,Default,,0,0,0,,Você gosta dele porque categorizou ela?{Do you like her because you've given her a label?}
+Dialogue: 5,0:06:48.45,0:06:51.84,Default,,0,0,0,,Você gosta dela porque categorizou ela?{Do you like her because you've given her a label?}
 Dialogue: 5,0:06:51.84,0:06:52.80,Default,,0,0,0,,Não é isso!
 Dialogue: 5,0:06:53.13,0:06:56.02,Default,,0,0,0,,Então eu ainda tenho uma chance. {As minha possibilidades não são nulas}
 Dialogue: 5,0:06:59.65,0:07:00.91,Default,,0,0,0,,Nossos olhos se encontraram.
@@ -308,7 +308,7 @@ Dialogue: 5,0:08:48.97,0:08:51.88,Default,,0,0,0,,{\i1}Na quele momento eu perce
 Dialogue: 5,0:08:53.02,0:09:01.08,Default,,0,0,0,,{\i1}que eu tinha parado de ver o Onii-chan no lugar do Mugi.
 Dialogue: 5,0:09:04.64,0:09:06.32,Default,,0,0,0,,Aqui já está bom.
 Dialogue: 5,0:09:06.32,0:09:08.72,Default,,0,0,0,,Obrigada por me acompanhar.
-Dialogue: 5,0:09:26.58,0:09:28.62,Default,,0,0,0,,{\i1}O Verão é curto.
+Dialogue: 5,0:09:26.58,0:09:28.62,Default,,0,0,0,,{\i1}O verão é curto.
 Dialogue: 5,0:09:44.15,0:09:46.10,Default,,0,0,0,,{\i1}O tempo não volta.
 Dialogue: 0,0:10:13.96,0:10:15.42,signs,,0,0,0,,{\pos(893,44)\fscx67\fscy67\frz353.6\fax-0.28\fnLato\c&H554623&\blur0.65}Ei, ei
 Dialogue: 0,0:10:13.96,0:10:15.42,signs,,0,0,0,,{\pos(679,189)\fscx67\fscy67\frz353.6\fax-0.3\fnLato\c&H464441&\blur0.65}O que foi?
@@ -333,7 +333,7 @@ Dialogue: 5,0:11:07.52,0:11:10.40,Default,,0,0,0,,Aquele dia em que você se per
 Dialogue: 5,0:11:10.40,0:11:12.81,Default,,0,0,0,,Estávamos voltando pra casa de mãos dadas.
 Dialogue: 5,0:11:13.27,0:11:16.10,Default,,0,0,0,,Poxa, já faz tanto tempo.
 Dialogue: 5,0:11:16.10,0:11:18.03,Default,,0,0,0,,Vamos, só hoje.
-Dialogue: 5,0:11:18.41,0:11:19.34,Default,,0,0,0,,Até me casa.
+Dialogue: 5,0:11:18.41,0:11:19.34,Default,,0,0,0,,Até em casa.
 Dialogue: 5,0:11:21.24,0:11:23.12,Default,,0,0,0,,É embaraçoso.
 Dialogue: 5,0:11:27.50,0:11:29.12,Default,,0,0,0,,{\i1}Brilhantes memórias.{Fond memories}
 Dialogue: 5,0:11:30.21,0:11:32.04,Default,,0,0,0,,{\i1}A maioria simples e trivial.
@@ -377,7 +377,7 @@ Dialogue: 5,0:13:35.21,0:13:35.96,Default,,0,0,0,,{\i1}Mas...
 Dialogue: 5,0:13:37.16,0:13:39.42,Default,,0,0,0,,{\i1}a excitação me fez ficar tremendo.
 Dialogue: 5,0:13:40.38,0:13:42.85,Default,,0,0,0,,{\i1}Ficar excitada pelo Mugi? Isso é estranho.
 Dialogue: 5,0:13:43.89,0:13:46.80,Default,,0,0,0,,{\i1}Mas eu não odeio isso.
-Dialogue: 5,0:13:49.55,0:13:53.97,Default,,0,0,0,,{\i1}Talvez... Eu posso seguir em frente.
+Dialogue: 5,0:13:49.55,0:13:53.97,Default,,0,0,0,,{\i1}Talvez... Eu possa seguir em frente.
 Dialogue: 0,0:13:51.93,0:13:53.97,ep title,,0,0,0,,{\pos(640,30)\fscx175\fscy175\alpha&HF0&\blur5\fad(193,0)}Eu possa {\alpha&HFF&\t(485,693,\alpha&HF0&)}seguir em frente
 Dialogue: 1,0:13:51.93,0:13:53.97,ep title,,0,0,0,,{\pos(640,30)\fscx175\fscy175\blur0.55\fad(193,0)}Eu possa {\alpha&HFF&\t(485,693,\alpha&H00&)}seguir em frente
 Dialogue: 5,0:14:05.82,0:14:08.70,Default,,0,0,0,,{\i1}Eu tive um sonho sobre dar as mãos. {L-LEWD!}
@@ -436,7 +436,7 @@ Dialogue: 5,0:16:39.44,0:16:40.97,Default,,0,0,0,,{\i1}Essa pessoa...
 Dialogue: 0,0:16:41.02,0:16:45.15,ep title,,0,0,0,,{\pos(645,40)\fscx200\fscy200\c&HFFFFFF&\blur0.55\fad(397,521)}Eu nunca vou poder ter
 Dialogue: 5,0:16:41.68,0:16:43.91,Default,,0,0,0,,{\i1}Eu nunca vou poder ter.
 Dialogue: 5,0:16:46.28,0:16:47.90,Default,,0,0,0,,{\i1}É por isso que eu gosto dela. {is like 2D}
-Dialogue: 5,0:16:49.00,0:16:51.81,Default,,0,0,0,,{\i1}Eu gosto dele porque nunca vou poder ter ela. {2D > 3D}
+Dialogue: 5,0:16:49.00,0:16:51.81,Default,,0,0,0,,{\i1}Eu gosto dela porque nunca vou poder ter ela. {2D > 3D}
 Dialogue: 5,0:16:52.76,0:16:54.27,Default,,0,0,0,,{\i1}Então, agora...
 Dialogue: 5,0:16:55.16,0:16:59.16,Default,,0,0,0,,Por isso você nunca vai me...
 Dialogue: 5,0:17:00.03,0:17:02.08,Default,,0,0,0,,{\i1}Mas essa pessoa está bem na minha frente,
