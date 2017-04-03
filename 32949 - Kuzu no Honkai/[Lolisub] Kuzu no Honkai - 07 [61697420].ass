@@ -269,7 +269,7 @@ Dialogue: 5,0:06:13.84,0:06:15.07,Default,,0,0,0,,Não tem ninguém.
 Dialogue: 5,0:06:15.07,0:06:17.31,Default,,0,0,0,,Huh? É mesmo...
 Dialogue: 5,0:06:17.67,0:06:18.88,Default,,0,0,0,,{\i1}O que eu faço?
 Dialogue: 5,0:06:18.88,0:06:22.77,Default,,0,0,0,,{\i1}Eu disse que queria assistir, mas não consigo prestar atenção.
-Dialogue: 5,0:06:23.28,0:06:27.80,Default,,0,0,0,,{\i1}Por que agora eu e o Mugi estamos realmente sozinhos.
+Dialogue: 5,0:06:23.28,0:06:27.80,Default,,0,0,0,,{\i1}Porque agora eu e o Mugi estamos realmente sozinhos.
 Dialogue: 5,0:06:27.80,0:06:30.86,Default,,0,0,0,,{\i1}Eu não sabia que um filme podia nos deixar tão perto.
 Dialogue: 5,0:06:30.86,0:06:34.02,Default,,0,500,0,,Eu amei você por toda a minha vida.
 Dialogue: 5,0:06:34.02,0:06:38.71,Default,,0,200,0,,{\q2}Eu nunca soube o quão maravilhoso era estar apaixonada.
@@ -303,7 +303,7 @@ Dialogue: 5,0:08:03.56,0:08:05.02,Default,,0,0,0,,{\i1}Ainda bem.
 Dialogue: 5,0:08:05.02,0:08:06.95,Default,,0,0,0,,{\i1}Eu ainda não acordei.
 Dialogue: 5,0:08:06.95,0:08:07.82,Default,,0,0,0,,Vamos.
 Dialogue: 0,0:08:13.97,0:08:15.43,signs,,0,0,0,,{\pos(764,405)\frz39.96\fax-0.05\fnLato\b1\c&H8B8B8B&\blur0.55\fscx40\fscy40}Mugi
-Dialogue: 5,0:08:19.80,0:08:24.15,Default,,0,0,0,,{\i1}Porque parei ele aquela hora?
+Dialogue: 5,0:08:19.80,0:08:24.15,Default,,0,0,0,,{\i1}Por que parei ele aquela hora?
 Dialogue: 5,0:08:25.51,0:08:27.56,Default,,0,0,0,,E-Espera um pouco!
 Dialogue: 5,0:08:29.32,0:08:30.55,Default,,0,0,0,,O quê?
 Dialogue: 5,0:08:30.55,0:08:31.97,Default,,0,0,0,,Vai me deixar fazer?
@@ -317,7 +317,7 @@ Dialogue: 5,0:08:49.07,0:08:50.38,Default,,0,0,0,,{\i1}Só isso.
 Dialogue: 5,0:08:51.37,0:08:53.88,Default,,0,0,0,,{\i1}Eu não consegui fazer ele se apaixonar por mim.
 Dialogue: 5,0:08:53.88,0:08:55.79,Default,,0,0,0,,{\i1}Apenas me desejar.
 Dialogue: 5,0:08:55.79,0:08:58.01,Default,,0,0,0,,{\i1}Mas eu estou bem com isso.
-Dialogue: 5,0:08:58.01,0:09:03.59,Default,,0,0,0,,{\i1}Por que agora eu já não sei mais dizer a diferença entre os dois.
+Dialogue: 5,0:08:58.01,0:09:03.59,Default,,0,0,0,,{\i1}Porque agora eu já não sei mais dizer a diferença entre os dois.
 Dialogue: 5,0:09:05.81,0:09:07.78,Default,,0,0,0,,{\i1}Eu quero ser obcecada. { I want to be obsessed over.}
 Dialogue: 5,0:09:07.78,0:09:09.23,Default,,0,0,0,,{\i1}Eu quero os desejos dele.{I want their desires.}
 Dialogue: 5,0:09:09.23,0:09:11.18,Default,,0,0,0,,{\i1}Eu não vou abrir mão de nada.{And I won't give them anything.}
@@ -393,9 +393,9 @@ Dialogue: 5,0:10:06.36,0:10:07.87,Default,,0,0,0,,{\i1}Não está satisfeita?
 Dialogue: 5,0:10:08.63,0:10:10.33,Default,,0,0,0,,{\i1}Você só tem que sorrir.
 Dialogue: 5,0:10:10.62,0:10:11.37,Default,,0,0,0,,{\i1}Vamos. {o brinco dela é uma uva, que bonitinho e-}
 Dialogue: 5,0:10:12.25,0:10:14.72,Default,,0,0,0,,Está bom, né?
-Dialogue: 5,0:10:16.07,0:10:21.26,Default,,0,0,0,,{\i1}Por que no momento em que você percebe que é um sonho, tudo acaba.
+Dialogue: 5,0:10:16.07,0:10:21.26,Default,,0,0,0,,{\i1}Porque no momento em que você percebe que é um sonho, tudo acaba.
 Dialogue: 5,0:10:22.91,0:10:24.72,Default,,0,0,0,,É bem abafado a noite.
-Dialogue: 5,0:10:26.04,0:10:28.19,Default,,0,0,0,,Obrigado ficar comigo até tarde.
+Dialogue: 5,0:10:26.04,0:10:28.19,Default,,0,0,0,,Obrigada por ficar comigo até tarde.
 Dialogue: 5,0:10:29.03,0:10:31.38,Default,,0,0,0,,Foi divertido, Mugi.
 Dialogue: 5,0:10:32.52,0:10:33.77,Default,,0,0,0,,Mesmo?
 Dialogue: 5,0:10:33.77,0:10:36.12,Default,,0,0,0,,{\i1}Estou feliz por ter percebido isso no meio do caminho.
@@ -411,7 +411,7 @@ Dialogue: 5,0:11:03.99,0:11:10.09,Default,,0,0,0,,{\i1}Se ele tivesse me rejeita
 Dialogue: 5,0:11:10.09,0:11:13.86,Default,,0,0,0,,{\i1}Eu posso continuar a minha vida\N sem um amor de verdade.
 Dialogue: 5,0:11:10.55,0:11:13.12,Default,,0,0,0,,{\an8}Ei, o que aconteceu, Moka?
 Dialogue: 5,0:11:14.17,0:11:15.00,Default,,0,0,0,,Ei.
-Dialogue: 5,0:11:15.00,0:11:17.53,Default,,0,0,0,,Mugi, Eu me diverti hoje.
+Dialogue: 5,0:11:15.00,0:11:17.53,Default,,0,0,0,,Mugi, eu me diverti hoje.
 Dialogue: 5,0:11:17.53,0:11:19.25,Default,,0,0,0,,Eu realmente agradeço.
 Dialogue: 5,0:11:19.74,0:11:23.71,Default,,0,0,0,,Eu vou lembrar disso com carinho para sempre.
 Dialogue: 5,0:11:26.83,0:11:30.45,Default,,0,0,0,,{\i1}Eu só preciso continuar \Nvivendo dentro desse sonho sem fim.
@@ -422,7 +422,7 @@ Dialogue: 5,0:11:38.97,0:11:40.34,Default,,0,0,0,,{\i1}Vou ser feliz.
 Dialogue: 5,0:11:42.67,0:11:43.63,Default,,0,0,0,,Mugi.
 Dialogue: 5,0:11:45.26,0:11:46.24,Default,,0,0,0,,Eu te amo.
 Dialogue: 5,0:11:51.40,0:11:55.94,Default,,0,0,0,,{\i1}E então, o beijo do príncipe despedaçou o sonho,
-Dialogue: 5,0:11:58.24,0:12:02.11,Default,,0,0,0,,{\i1}e a princesas que estava sozinha na escuridão despertou.
+Dialogue: 5,0:11:58.24,0:12:02.11,Default,,0,0,0,,{\i1}e a princesa que estava sozinha na escuridão despertou.
 Dialogue: 5,0:12:02.89,0:12:09.95,Default,,0,0,0,,{\i1}A razão dela não ter chorado é porque ainda não aprendeu sobre a tristeza e a felicidade.
 Dialogue: 5,0:12:09.95,0:12:09.95,Default,chapter,0,0,0,,{Part B}
 Dialogue: 5,0:12:11.40,0:12:12.69,Default,,0,0,0,,{\i1}Estou cansada.
@@ -441,14 +441,14 @@ Dialogue: 5,0:12:46.93,0:12:48.40,Default,,0,0,0,,Eu me diverti.
 Dialogue: 5,0:12:49.05,0:12:50.16,Default,,0,0,0,,É mentira.
 Dialogue: 5,0:12:50.16,0:12:52.09,Default,,0,0,0,,Não é mentira.
 Dialogue: 5,0:12:52.09,0:12:55.62,Default,,0,0,0,,Mas ao mesmo tempo faltava alguma coisa.{But it was lacking as much as it was fun.}
-Dialogue: 5,0:12:57.08,0:12:58.09,Default,,0,0,0,,Porque será?
+Dialogue: 5,0:12:57.08,0:12:58.09,Default,,0,0,0,,Por que será?
 Dialogue: 5,0:12:59.08,0:13:01.58,Default,,0,0,0,,{\i1}Eu sei o que é, mas estou fingindo.
 Dialogue: 5,0:13:02.33,0:13:03.05,Default,,0,0,0,,Quer saber?
 Dialogue: 5,0:13:03.52,0:13:04.89,Default,,0,0,0,,Não sei...
 Dialogue: 5,0:13:04.89,0:13:06.01,Default,,0,0,0,,Entendo.
 Dialogue: 5,0:13:06.01,0:13:07.83,Default,,0,0,0,,{\i1}Eu sei.
 Dialogue: 5,0:13:07.83,0:13:09.96,Default,,0,0,0,,{\i1}Eu sei já faz tempo.
-Dialogue: 5,0:13:14.44,0:13:17.13,Default,,0,0,0,,Bom noite, Noriko.
+Dialogue: 5,0:13:14.44,0:13:17.13,Default,,0,0,0,,Boa noite, Noriko.
 Dialogue: 5,0:13:17.13,0:13:19.40,Default,,0,0,0,,Certo. Boa noite, mamãe.
 Dialogue: 5,0:13:20.65,0:13:22.86,Default,,0,0,0,,{\i1}Deus, por favor,
 Dialogue: 5,0:13:23.41,0:13:25.35,Default,,0,0,0,,{\i1}que um dia eu e o Mugi
