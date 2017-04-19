@@ -134,8 +134,8 @@ Dialogue: 0,0:02:03.68,0:02:06.24,OP,,0,0,0,,{\c&H000000&\blur1.5\fad(0,200)\t(2
 Dialogue: 1,0:02:03.68,0:02:06.24,OP,,0,0,0,,{\c&HBEADA8&\blur0.6\fad(0,200)}Abraçando esses brilhantes sentimentos,
 Dialogue: 0,0:02:06.24,0:02:13.87,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,0)\t(4768,0,\alpha&HFF&)\t(155,200,\1a&H00&)\t(4768,4808,\1a&HFF&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
 Dialogue: 1,0:02:06.24,0:02:13.87,OP,,0,0,0,,{\c&HDAD1C4&\blur0.6\fad(200,0)\t(639,639,\c&H6D5756&)\t(4768,0,\c&H000000&\alpha&HFF&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
-Dialogue: 0,0:02:21.66,0:02:24.26,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
-Dialogue: 1,0:02:21.66,0:02:24.26,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
+Dialogue: 0,0:02:21.66,0:02:24.26,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
+Dialogue: 1,0:02:21.66,0:02:24.26,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
 Dialogue: 0,0:02:24.26,0:02:26.82,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2360,2405,\1a&HFF&)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 1,0:02:24.26,0:02:26.82,OP,,0,0,0,,{\c&HC397A4&\blur0.6\fad(200,200)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 0,0:02:26.82,0:02:29.33,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2310,2355,\1a&HFF&)}eu não sei por quanto tempo eu vou aguentar.
@@ -845,14 +845,14 @@ Dialogue: 1,0:21:06.16,0:21:09.62,signs,,0,0,0,,{\pos(351,681)\fscx50\fscy55\frz
 Dialogue: 5,0:21:10.12,0:21:15.08,Default,,0,0,0,,{\i1}Se eu deitar na minha cama, fechar meus olhos e contar carneirinhos
 Dialogue: 5,0:21:17.63,0:21:22.32,Default,,0,0,0,,{\i1}quando eu acordar as férias de verão já vão ter começado.
 Dialogue: 5,0:21:24.92,0:21:24.92,Default,chapter,0,0,0,,{ED}
-Dialogue: 0,0:21:25.25,0:21:31.28,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir para o sistema solar,
-Dialogue: 0,0:21:31.79,0:21:38.09,ED,,0,0,0,,{\blur0.5\fad(200,200)}e atravessá-lo em linhas paralelas.
+Dialogue: 0,0:21:25.25,0:21:31.28,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir do sistema solar,
+Dialogue: 0,0:21:31.79,0:21:38.09,ED,,0,0,0,,{\blur0.5\fad(200,200)}e nos unir em linhas paralelas.
 Dialogue: 0,0:21:38.09,0:21:46.59,ED,,0,0,0,,{\blur0.5\fad(200,200)}Esticando para além delas, {Stretching out in parallel lines}
 Dialogue: 0,0:21:47.19,0:21:53.44,ED,,0,0,0,,{\blur0.5\fad(200,200)}assim como as nossas sombras.
 Dialogue: 0,0:21:54.11,0:21:59.13,ED,,0,0,0,,{\blur0.5\fad(200,200)}Você pode culpar o tempo em que vivemos por sua falta de coragem.
 Dialogue: 0,0:21:59.13,0:22:03.50,ED,,0,0,0,,{\blur0.5\fad(200,200)}Procurando por um lugar onde há um desejo de não ir a lugar algum.
 Dialogue: 0,0:22:03.50,0:22:13.74,ED,,0,0,0,,{\blur0.5\fad(200,200)}Eu quero me tornar as palavras que saem dos seus lábios.
-Dialogue: 0,0:22:14.21,0:22:24.09,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir para o sistema solar, e atravessá-lo em linhas paralelas.
+Dialogue: 0,0:22:14.21,0:22:24.09,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir do sistema solar, e nos unir em linhas paralelas.
 Dialogue: 0,0:22:24.09,0:22:34.32,ED,,0,0,0,,{\blur0.5\fad(200,200)}Levando junto desejos impossíveis e as nossas tímidas vozes.
 Dialogue: 0,0:22:34.32,0:22:44.24,ED,,0,0,0,,{\blur0.5\fad(200,200)}Quando eu já estiver sem emoções, eu posso começar a imaginar.
 Dialogue: 0,0:22:44.24,0:22:51.18,ED,,0,0,0,,{\blur0.5\fad(200,200)}Eu vou alcançar as nossas sombras
