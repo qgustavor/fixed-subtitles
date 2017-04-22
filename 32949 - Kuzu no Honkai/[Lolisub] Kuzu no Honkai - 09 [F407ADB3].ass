@@ -143,8 +143,8 @@ Dialogue: 0,0:02:01.72,0:02:04.28,OP,,0,0,0,,{\c&H000000&\blur1.5\fad(0,200)\t(2
 Dialogue: 1,0:02:01.72,0:02:04.28,OP,,0,0,0,,{\c&HBEADA8&\blur0.6\fad(0,200)}Abraçando esses brilhantes sentimentos,
 Dialogue: 0,0:02:04.28,0:02:11.91,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,0)\t(4768,0,\alpha&HFF&)\t(155,200,\1a&H00&)\t(4768,4808,\1a&HFF&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
 Dialogue: 1,0:02:04.28,0:02:11.91,OP,,0,0,0,,{\c&HDAD1C4&\blur0.6\fad(200,0)\t(639,639,\c&H6D5756&)\t(4768,0,\c&H000000&\alpha&HFF&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
-Dialogue: 0,0:02:19.70,0:02:22.30,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
-Dialogue: 1,0:02:19.70,0:02:22.30,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
+Dialogue: 0,0:02:19.70,0:02:22.30,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
+Dialogue: 1,0:02:19.70,0:02:22.30,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
 Dialogue: 0,0:02:22.30,0:02:24.86,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2360,2405,\1a&HFF&)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 1,0:02:22.30,0:02:24.86,OP,,0,0,0,,{\c&HC397A4&\blur0.6\fad(200,200)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 0,0:02:24.86,0:02:27.37,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2310,2355,\1a&HFF&)}eu não sei por quanto tempo eu vou aguentar.
@@ -197,7 +197,7 @@ Dialogue: 0,0:02:39.51,0:02:41.13,OP - Copy,,0,0,0,,{\c&H000000&\blur1.5\fad(0,2
 Dialogue: 1,0:02:39.51,0:02:41.13,OP - Copy,,0,0,0,,{\c&H000000&\blur0.6\fad(0,200)\t(0,319,\c&HF5F5F4&)}kowai hodo anata ga suki
 Dialogue: 5,0:01:13.01,0:01:13.01,Default,chapter,0,0,0,,{OP}
 Dialogue: 5,0:02:43.01,0:02:43.01,Default,chapter,0,0,0,,{Part A}
-Dialogue: 5,0:02:52.15,0:02:55.07,Default,,0,0,0,,Mentria, é mesmo refrescante aqui.{Wow, it feels really nice up here.} {涼しい}
+Dialogue: 5,0:02:52.15,0:02:55.07,Default,,0,0,0,,Mentira, é mesmo refrescante aqui.{Wow, it feels really nice up here.} {涼しい}
 Dialogue: 5,0:02:56.15,0:02:57.74,Default,,0,0,0,,{\i1}Karuizawa.
 Dialogue: 5,0:02:58.69,0:03:02.20,Default,,0,0,0,,{\i1}É uma viagem de coração partido? Uma viagem sentimental? {this a heartbreak trip? A grieving trip?} {失恋旅行？ 傷心旅行}
 Dialogue: 5,0:03:02.53,0:03:04.85,Default,,0,0,0,,{\i1}E só nós duas.
@@ -211,7 +211,7 @@ Dialogue: 5,0:03:24.25,0:03:25.56,Default,,0,0,0,,Vamos, qual o problema?
 Dialogue: 5,0:03:26.26,0:03:29.13,Default,,0,0,0,,Ninguém aqui nos conhece.
 Dialogue: 5,0:03:29.13,0:03:30.70,Default,,0,0,0,,Estamos sozinhas.
 Dialogue: 5,0:03:31.44,0:03:35.53,Default,,0,0,0,,{\i1}A Ecchan é bem direta em situações desse tipo.
-Dialogue: 5,0:03:38.53,0:03:41.10,Default,,0,0,0,,{\i1}Não me olhe com essa casa. É injusto.
+Dialogue: 5,0:03:38.53,0:03:41.10,Default,,0,0,0,,{\i1}Não me olhe com essa cara. É injusto.
 Dialogue: 5,0:03:44.92,0:03:45.91,Default,,0,0,0,,{\i1}Honestamente,
 Dialogue: 5,0:03:46.71,0:03:49.37,Default,,0,0,0,,{\i1}é melhor quando eu consigo \Ndeixar a minha mente ocupada.
 Dialogue: 5,0:03:50.04,0:03:53.03,Default,,0,0,0,,{\i1}Eu acabei de ter o coração partido, não foi?{I just had my heart broken, didn't I?}
@@ -464,7 +464,7 @@ Dialogue: 5,0:11:17.93,0:11:21.45,Default,,0,0,0,,{\i1}Já faz tempo que eu não
 Dialogue: 5,0:11:23.02,0:11:24.99,Default,,0,0,0,,Aqui na sombra é ótimo.
 Dialogue: 5,0:11:24.99,0:11:26.41,Default,,0,0,0,,Não é?
 Dialogue: 5,0:11:26.41,0:11:27.16,Default,,0,0,0,,Pega!
-Dialogue: 5,0:11:29.63,0:11:32.50,Default,,0,0,0,,Poxa, cuidado onde joga.
+Dialogue: 5,0:11:29.63,0:11:32.50,Default,,0,0,0,,Poxa, cuidado aonde joga.
 Dialogue: 5,0:11:32.50,0:11:33.94,Default,,0,0,0,,Desculpa.
 Dialogue: 5,0:11:42.52,0:11:43.85,Default,,0,0,0,,{\i1}Eu sei.
 Dialogue: 5,0:11:44.35,0:11:47.97,Default,,0,0,0,,A Sanae não é alguém que você deva usar como substituta.
@@ -519,7 +519,7 @@ Dialogue: 5,0:14:10.89,0:14:12.55,Default,,0,0,0,,Você é muito gentil.
 Dialogue: 5,0:14:12.55,0:14:13.87,Default,,0,0,0,,{\i1}Não.
 Dialogue: 5,0:14:13.87,0:14:16.33,Default,,0,0,0,,Me desculpe por tudo.
 Dialogue: 5,0:14:16.33,0:14:17.85,Default,,0,0,0,,{\i1}Não.
-Dialogue: 5,0:14:17.85,0:14:19.53,Default,,0,0,0,,Obrigado por aceitar o meu egoismo.
+Dialogue: 5,0:14:17.85,0:14:19.53,Default,,0,0,0,,Obrigada por aceitar o meu egoismo.
 Dialogue: 5,0:14:19.53,0:14:20.83,Default,,0,0,0,,{\i1}Não, não!
 Dialogue: 5,0:14:21.42,0:14:25.47,Default,,0,0,0,,Foi divertido, eu estou feliz, por isso...
 Dialogue: 5,0:14:25.47,0:14:26.75,Default,,0,0,0,,{\i1}Não!
@@ -548,7 +548,7 @@ Dialogue: 5,0:15:27.53,0:15:29.70,Default,,0,0,0,,Continue sendo minha amiga!
 Dialogue: 5,0:15:30.84,0:15:32.27,Default,,0,0,0,,Não brinca comigo!
 Dialogue: 5,0:15:32.27,0:15:33.49,Default,,0,0,0,,Para com isso!
 Dialogue: 5,0:15:34.05,0:15:37.00,Default,,0,0,0,,Você tem ideia de o quão cruel é o que você está dizendo?!
-Dialogue: 5,0:15:37.00,0:15:40.41,Default,,0,0,0,,Como podemos voltar a sermos amigos depois de chegar a esse ponto?!
+Dialogue: 5,0:15:37.00,0:15:40.41,Default,,0,0,0,,Como podemos voltar a sermos amigas depois de chegar a esse ponto?!
 Dialogue: 5,0:15:41.02,0:15:42.37,Default,,0,0,0,,Você não sabe como eu...
 Dialogue: 5,0:15:43.05,0:15:45.18,Default,,0,0,0,,Não sabe como
 Dialogue: 5,0:15:45.18,0:15:46.80,Default,,0,0,0,,eu amo muito você!
@@ -805,28 +805,28 @@ Dialogue: 5,0:20:37.63,0:20:40.88,Default,,0,0,0,,Encontrar os pais, tomar chá.
 Dialogue: 5,0:20:43.17,0:20:44.13,Default,,0,0,0,,Pare
 Dialogue: 5,0:20:44.61,0:20:45.86,Default,,0,0,0,,de agir como uma professora.
 Dialogue: 5,0:20:48.54,0:20:49.93,Default,,0,0,0,,Não vou.
-Dialogue: 5,0:20:49.93,0:20:53.30,Default,,0,0,0,,Por que sou mesmo uma professora.
+Dialogue: 5,0:20:49.93,0:20:53.30,Default,,0,0,0,,Porque sou mesmo uma professora.
 Dialogue: 5,0:20:53.30,0:20:55.13,Default,,0,0,0,,M-Mas...
 Dialogue: 5,0:20:55.13,0:20:56.20,Default,,0,0,0,,Mas?
 Dialogue: 5,0:20:57.89,0:20:59.27,Default,,0,0,0,,{\i1}Não é mentira.
 Dialogue: 5,0:20:59.57,0:21:01.57,Default,,0,0,0,,Vamos, diga.
 Dialogue: 5,0:21:01.57,0:21:02.49,Default,,0,0,0,,"Sensei"
 Dialogue: 5,0:21:02.98,0:21:04.17,Default,,0,0,0,,{\i1}É verdade.
-Dialogue: 5,0:21:04.17,0:21:07.20,Default,,0,0,0,,{\i1}Hoje eu só vim aqui para uma visita série de estudos.
+Dialogue: 5,0:21:04.17,0:21:07.20,Default,,0,0,0,,{\i1}Hoje eu só vim aqui para uma visita séria de estudos.
 Dialogue: 5,0:21:08.05,0:21:10.44,Default,,0,0,0,,S-Sensei.
 Dialogue: 5,0:21:13.08,0:21:16.43,Default,,0,0,0,,{\i1}Mas então os pais não estavam em casa.
 Dialogue: 5,0:21:16.43,0:21:19.88,Default,,0,0,0,,{\i1}Eu estava sozinha com esse garoto.
 Dialogue: 5,0:21:20.53,0:21:21.59,Default,,0,0,0,,{\i1}Por isso
 Dialogue: 5,0:21:22.46,0:21:24.15,Default,,0,0,0,,{\i1}não tinha o que fazer, né?
 Dialogue: 5,0:21:24.88,0:21:24.88,Default,chapter,0,0,0,,{ED}
-Dialogue: 0,0:21:25.23,0:21:31.26,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir para o sistema solar,
-Dialogue: 0,0:21:31.77,0:21:38.07,ED,,0,0,0,,{\blur0.5\fad(200,200)}e atravessá-lo em linhas paralelas.
+Dialogue: 0,0:21:25.23,0:21:31.26,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir do sistema solar,
+Dialogue: 0,0:21:31.77,0:21:38.07,ED,,0,0,0,,{\blur0.5\fad(200,200)}e nos unir em linhas paralelas.
 Dialogue: 0,0:21:38.07,0:21:46.57,ED,,0,0,0,,{\blur0.5\fad(200,200)}Esticando para além delas, {Stretching out in parallel lines}
 Dialogue: 0,0:21:47.17,0:21:53.42,ED,,0,0,0,,{\blur0.5\fad(200,200)}assim como as nossas sombras.
 Dialogue: 0,0:21:54.09,0:21:59.11,ED,,0,0,0,,{\blur0.5\fad(200,200)}Você pode culpar o tempo em que vivemos por sua falta de coragem.
 Dialogue: 0,0:21:59.11,0:22:03.48,ED,,0,0,0,,{\blur0.5\fad(200,200)}Procurando por um lugar onde há um desejo de não ir a lugar algum.
 Dialogue: 0,0:22:03.48,0:22:13.72,ED,,0,0,0,,{\blur0.5\fad(200,200)}Eu quero me tornar as palavras que saem dos seus lábios.
-Dialogue: 0,0:22:14.19,0:22:24.07,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir para o sistema solar, e atravessá-lo em linhas paralelas.
+Dialogue: 0,0:22:14.19,0:22:24.07,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir do sistema solar, e nos unir em linhas paralelas.
 Dialogue: 0,0:22:24.07,0:22:34.30,ED,,0,0,0,,{\blur0.5\fad(200,200)}Levando junto desejos impossíveis e as nossas tímidas vozes.
 Dialogue: 0,0:22:34.30,0:22:44.22,ED,,0,0,0,,{\blur0.5\fad(200,200)}Quando eu já estiver sem emoções, eu posso começar a imaginar.
 Dialogue: 0,0:22:44.22,0:22:51.16,ED,,0,0,0,,{\blur0.5\fad(200,200)}Eu vou alcançar as nossas sombras
