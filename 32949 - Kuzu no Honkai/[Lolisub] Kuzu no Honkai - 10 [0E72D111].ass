@@ -139,8 +139,8 @@ Dialogue: 0,0:01:51.75,0:01:54.31,OP,,0,0,0,,{\c&H000000&\blur1.5\fad(0,200)\t(2
 Dialogue: 1,0:01:51.75,0:01:54.31,OP,,0,0,0,,{\c&HBEADA8&\blur0.6\fad(0,200)}Abraçando esses brilhantes sentimentos,
 Dialogue: 0,0:01:54.31,0:02:01.94,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,0)\t(4768,0,\alpha&HFF&)\t(155,200,\1a&H00&)\t(4768,4808,\1a&HFF&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
 Dialogue: 1,0:01:54.31,0:02:01.94,OP,,0,0,0,,{\c&HDAD1C4&\blur0.6\fad(200,0)\t(639,639,\c&H6D5756&)\t(4768,0,\c&H000000&\alpha&HFF&)}e escondendo esses fracos fragmentos sem cor dos meus suspiros.
-Dialogue: 0,0:02:09.73,0:02:12.33,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
-Dialogue: 1,0:02:09.73,0:02:12.33,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie olhar.
+Dialogue: 0,0:02:09.73,0:02:12.33,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2400,2445,\1a&HFF&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
+Dialogue: 1,0:02:09.73,0:02:12.33,OP,,0,0,0,,{\c&HAA3A1A&\blur0.6\fad(200,200)\t(651,984,\c&HC397A4&)}Se nossos olhos se encontrarem, por favor não desvie o olhar.
 Dialogue: 0,0:02:12.33,0:02:14.89,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2360,2405,\1a&HFF&)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 1,0:02:12.33,0:02:14.89,OP,,0,0,0,,{\c&HC397A4&\blur0.6\fad(200,200)}Vendo através dessas mentiras que eu aprisionei,
 Dialogue: 0,0:02:14.89,0:02:17.40,OP,,0,0,0,,{\c&H000000&\1a&HFF&\blur1.5\fad(200,200)\t(155,200,\1a&H00&)\t(2310,2355,\1a&HFF&)}eu não sei por quanto tempo eu vou aguentar.
@@ -203,7 +203,7 @@ Dialogue: 5,0:03:05.85,0:03:11.06,Default,,0,0,0,,{\i1}Quando mais eu fazia, mai
 Dialogue: 5,0:03:12.01,0:03:14.94,Default,,0,0,0,,{\i1}Enquanto eu aproveitava do sabor da minha vitória.{All while enjoying my own worth.}
 Dialogue: 5,0:03:18.04,0:03:21.09,Default,,0,0,0,,{\i1}Algo que qualquer garota desejaria.
 Dialogue: 5,0:03:21.74,0:03:24.22,Default,,0,0,0,,{\i1}Algo que elas nunca conseguiriam obter.
-Dialogue: 5,0:03:25.27,0:03:31.77,Default,,0,0,0,,{\i1}Eu queria tomar todo aquele ciume e empilha-los e colocar em uma filha, de forma que eu pudesse ver,
+Dialogue: 5,0:03:25.27,0:03:31.77,Default,,0,0,0,,{\i1}Eu queria tomar todo aquele ciume e empilha-los e colocar em uma fila, de forma que eu pudesse ver,
 Dialogue: 5,0:03:31.77,0:03:36.19,Default,,0,0,0,,{\i1}brincar com eles, pisar em cima e usá-los como um capricho.
 Dialogue: 0,0:03:36.23,0:03:38.65,ep title,,0,0,0,,{\pos(640,175)\fscx350\fscy350\c&HFFFFFF&\blur0.6\fad(737,0)}Por quê?
 Dialogue: 5,0:03:41.96,0:03:46.63,Default,,0,0,0,,{\i1}Afinal é só isso que eu sei sobre mim.
@@ -381,727 +381,727 @@ Dialogue: 0,0:05:56.58,0:05:56.62,signs,,0,0,0,,{=18}{\pos(644.15,339.37)\fscx36
 Dialogue: 0,0:05:56.58,0:05:56.62,signs,,0,0,0,,{=17}{\pos(666.15,400.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.58,0:05:56.62,signs,,0,0,0,,{=16}{\pos(689.15,503.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65\clip(m 786 539 l 775 530 769 523 762 513 758 508 755 501 752 495 752 491 747 485 744 477 744 468 506 401 458 624 648 651)}Adoraria sair de novo.
 Dialogue: 0,0:05:56.58,0:05:56.62,signs,,0,0,0,,{=20}{\pos(692.15,617.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.58,0:05:56.62,signs,,0,0,0,,{=21}{\pos(716.87,722.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.58,0:05:56.62,signs,,0,0,0,,{=21}{\pos(716.87,722.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.62,0:05:56.66,signs,,0,0,0,,{=18}{\pos(641.1,322.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.62,0:05:56.66,signs,,0,0,0,,{=17}{\pos(663.1,383.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.62,0:05:56.66,signs,,0,0,0,,{=16}{\pos(686.1,486.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.62,0:05:56.66,signs,,0,0,0,,{=20}{\pos(689.1,600.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.62,0:05:56.66,signs,,0,0,0,,{=21}{\pos(713.82,705.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.62,0:05:56.66,signs,,0,0,0,,{=21}{\pos(713.82,705.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.66,0:05:56.71,signs,,0,0,0,,{=18}{\pos(638.25,305.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.66,0:05:56.71,signs,,0,0,0,,{=17}{\pos(660.25,366.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.66,0:05:56.71,signs,,0,0,0,,{=16}{\pos(683.25,469.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.66,0:05:56.71,signs,,0,0,0,,{=20}{\pos(686.25,583.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.66,0:05:56.71,signs,,0,0,0,,{=21}{\pos(710.96,688.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.66,0:05:56.71,signs,,0,0,0,,{=21}{\pos(710.96,688.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.71,0:05:56.75,signs,,0,0,0,,{=18}{\pos(635.58,290.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.71,0:05:56.75,signs,,0,0,0,,{=17}{\pos(657.58,351.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.71,0:05:56.75,signs,,0,0,0,,{=16}{\pos(680.58,454.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.71,0:05:56.75,signs,,0,0,0,,{=20}{\pos(683.58,568.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.71,0:05:56.75,signs,,0,0,0,,{=21}{\pos(708.3,673.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.71,0:05:56.75,signs,,0,0,0,,{=21}{\pos(708.3,673.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.75,0:05:56.79,signs,,0,0,0,,{=18}{\pos(633.23,277.12)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.75,0:05:56.79,signs,,0,0,0,,{=17}{\pos(655.23,338.12)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.75,0:05:56.79,signs,,0,0,0,,{=16}{\pos(678.23,441.12)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.75,0:05:56.79,signs,,0,0,0,,{=20}{\pos(681.23,555.12)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.75,0:05:56.79,signs,,0,0,0,,{=21}{\pos(705.95,660.12)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.75,0:05:56.79,signs,,0,0,0,,{=21}{\pos(705.95,660.12)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.79,0:05:56.83,signs,,0,0,0,,{=18}{\pos(631.34,266.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.79,0:05:56.83,signs,,0,0,0,,{=17}{\pos(653.34,327.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.79,0:05:56.83,signs,,0,0,0,,{=16}{\pos(676.34,430.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.79,0:05:56.83,signs,,0,0,0,,{=20}{\pos(679.34,544.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.79,0:05:56.83,signs,,0,0,0,,{=21}{\pos(704.06,649.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.79,0:05:56.83,signs,,0,0,0,,{=21}{\pos(704.06,649.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.83,0:05:56.87,signs,,0,0,0,,{=18}{\pos(630.01,258.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.83,0:05:56.87,signs,,0,0,0,,{=17}{\pos(652.01,319.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.83,0:05:56.87,signs,,0,0,0,,{=16}{\pos(675.01,422.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.83,0:05:56.87,signs,,0,0,0,,{=20}{\pos(678.01,536.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.83,0:05:56.87,signs,,0,0,0,,{=21}{\pos(702.72,641.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.83,0:05:56.87,signs,,0,0,0,,{=21}{\pos(702.72,641.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.87,0:05:56.91,signs,,0,0,0,,{=18}{\pos(629.44,254.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.87,0:05:56.91,signs,,0,0,0,,{=17}{\pos(651.44,315.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.87,0:05:56.91,signs,,0,0,0,,{=16}{\pos(674.44,418.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.87,0:05:56.91,signs,,0,0,0,,{=20}{\pos(677.44,532.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.87,0:05:56.91,signs,,0,0,0,,{=21}{\pos(702.16,637.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.87,0:05:56.91,signs,,0,0,0,,{=21}{\pos(702.16,637.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.91,0:05:56.96,signs,,0,0,0,,{=18}{\pos(629.44,254.66)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.91,0:05:56.96,signs,,0,0,0,,{=17}{\pos(651.44,315.66)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.91,0:05:56.96,signs,,0,0,0,,{=16}{\pos(674.44,418.66)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.91,0:05:56.96,signs,,0,0,0,,{=20}{\pos(677.44,532.66)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.91,0:05:56.96,signs,,0,0,0,,{=21}{\pos(702.16,637.65)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.91,0:05:56.96,signs,,0,0,0,,{=21}{\pos(702.16,637.65)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:56.96,0:05:57.00,signs,,0,0,0,,{=18}{\pos(629.43,254.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:56.96,0:05:57.00,signs,,0,0,0,,{=17}{\pos(651.43,315.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:56.96,0:05:57.00,signs,,0,0,0,,{=16}{\pos(674.43,418.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:56.96,0:05:57.00,signs,,0,0,0,,{=20}{\pos(677.43,532.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:56.96,0:05:57.00,signs,,0,0,0,,{=21}{\pos(702.15,637.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:56.96,0:05:57.00,signs,,0,0,0,,{=21}{\pos(702.15,637.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.00,0:05:57.04,signs,,0,0,0,,{=18}{\pos(629.43,254.19)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.00,0:05:57.04,signs,,0,0,0,,{=17}{\pos(651.43,315.19)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.00,0:05:57.04,signs,,0,0,0,,{=16}{\pos(674.43,418.19)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.00,0:05:57.04,signs,,0,0,0,,{=20}{\pos(677.43,532.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.00,0:05:57.04,signs,,0,0,0,,{=21}{\pos(702.15,637.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.00,0:05:57.04,signs,,0,0,0,,{=21}{\pos(702.15,637.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.04,0:05:57.08,signs,,0,0,0,,{=18}{\pos(629.43,253.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.04,0:05:57.08,signs,,0,0,0,,{=17}{\pos(651.43,314.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.04,0:05:57.08,signs,,0,0,0,,{=16}{\pos(674.43,417.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.04,0:05:57.08,signs,,0,0,0,,{=20}{\pos(677.43,531.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.04,0:05:57.08,signs,,0,0,0,,{=21}{\pos(702.14,636.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.04,0:05:57.08,signs,,0,0,0,,{=21}{\pos(702.14,636.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.08,0:05:57.12,signs,,0,0,0,,{=18}{\pos(629.42,253.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.08,0:05:57.12,signs,,0,0,0,,{=17}{\pos(651.42,314.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.08,0:05:57.12,signs,,0,0,0,,{=16}{\pos(674.42,417.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.08,0:05:57.12,signs,,0,0,0,,{=20}{\pos(677.42,531.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.08,0:05:57.12,signs,,0,0,0,,{=21}{\pos(702.14,636.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.08,0:05:57.12,signs,,0,0,0,,{=21}{\pos(702.14,636.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.12,0:05:57.16,signs,,0,0,0,,{=18}{\pos(629.42,253.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.12,0:05:57.16,signs,,0,0,0,,{=17}{\pos(651.42,314.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.12,0:05:57.16,signs,,0,0,0,,{=16}{\pos(674.42,417.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.12,0:05:57.16,signs,,0,0,0,,{=20}{\pos(677.42,531.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.12,0:05:57.16,signs,,0,0,0,,{=21}{\pos(702.14,636.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.12,0:05:57.16,signs,,0,0,0,,{=21}{\pos(702.14,636.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.16,0:05:57.21,signs,,0,0,0,,{=18}{\pos(629.42,253.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.16,0:05:57.21,signs,,0,0,0,,{=17}{\pos(651.42,314.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.16,0:05:57.21,signs,,0,0,0,,{=16}{\pos(674.42,417.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.16,0:05:57.21,signs,,0,0,0,,{=20}{\pos(677.42,531.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.16,0:05:57.21,signs,,0,0,0,,{=21}{\pos(702.13,636.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.16,0:05:57.21,signs,,0,0,0,,{=21}{\pos(702.13,636.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.21,0:05:57.25,signs,,0,0,0,,{=18}{\pos(629.41,253.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.21,0:05:57.25,signs,,0,0,0,,{=17}{\pos(651.41,314.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.21,0:05:57.25,signs,,0,0,0,,{=16}{\pos(674.41,417.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.21,0:05:57.25,signs,,0,0,0,,{=20}{\pos(677.41,531.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.21,0:05:57.25,signs,,0,0,0,,{=21}{\pos(702.13,636.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.21,0:05:57.25,signs,,0,0,0,,{=21}{\pos(702.13,636.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.25,0:05:57.29,signs,,0,0,0,,{=18}{\pos(629.41,252.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.25,0:05:57.29,signs,,0,0,0,,{=17}{\pos(651.41,313.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.25,0:05:57.29,signs,,0,0,0,,{=16}{\pos(674.41,416.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.25,0:05:57.29,signs,,0,0,0,,{=20}{\pos(677.41,530.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.25,0:05:57.29,signs,,0,0,0,,{=21}{\pos(702.12,635.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.25,0:05:57.29,signs,,0,0,0,,{=21}{\pos(702.12,635.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.29,0:05:57.33,signs,,0,0,0,,{=18}{\pos(629.4,252.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.29,0:05:57.33,signs,,0,0,0,,{=17}{\pos(651.4,313.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.29,0:05:57.33,signs,,0,0,0,,{=16}{\pos(674.4,416.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.29,0:05:57.33,signs,,0,0,0,,{=20}{\pos(677.4,530.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.29,0:05:57.33,signs,,0,0,0,,{=21}{\pos(702.12,635.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.29,0:05:57.33,signs,,0,0,0,,{=21}{\pos(702.12,635.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.33,0:05:57.37,signs,,0,0,0,,{=18}{\pos(629.4,252.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.33,0:05:57.37,signs,,0,0,0,,{=17}{\pos(651.4,313.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.33,0:05:57.37,signs,,0,0,0,,{=16}{\pos(674.4,416.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.33,0:05:57.37,signs,,0,0,0,,{=20}{\pos(677.4,530.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.33,0:05:57.37,signs,,0,0,0,,{=21}{\pos(702.12,635.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.33,0:05:57.37,signs,,0,0,0,,{=21}{\pos(702.12,635.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.37,0:05:57.42,signs,,0,0,0,,{=18}{\pos(629.4,252.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.37,0:05:57.42,signs,,0,0,0,,{=17}{\pos(651.4,313.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.37,0:05:57.42,signs,,0,0,0,,{=16}{\pos(674.4,416.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.37,0:05:57.42,signs,,0,0,0,,{=20}{\pos(677.4,530.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.37,0:05:57.42,signs,,0,0,0,,{=21}{\pos(702.12,635.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.37,0:05:57.42,signs,,0,0,0,,{=21}{\pos(702.12,635.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.42,0:05:57.46,signs,,0,0,0,,{=18}{\pos(629.4,251.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.42,0:05:57.46,signs,,0,0,0,,{=17}{\pos(651.4,312.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.42,0:05:57.46,signs,,0,0,0,,{=16}{\pos(674.4,415.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.42,0:05:57.46,signs,,0,0,0,,{=20}{\pos(677.4,529.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.42,0:05:57.46,signs,,0,0,0,,{=21}{\pos(702.12,634.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.42,0:05:57.46,signs,,0,0,0,,{=21}{\pos(702.12,634.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.46,0:05:57.50,signs,,0,0,0,,{=18}{\pos(629.4,251.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.46,0:05:57.50,signs,,0,0,0,,{=17}{\pos(651.4,312.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.46,0:05:57.50,signs,,0,0,0,,{=16}{\pos(674.4,415.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.46,0:05:57.50,signs,,0,0,0,,{=20}{\pos(677.4,529.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.46,0:05:57.50,signs,,0,0,0,,{=21}{\pos(702.12,634.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.46,0:05:57.50,signs,,0,0,0,,{=21}{\pos(702.12,634.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.50,0:05:57.54,signs,,0,0,0,,{=18}{\pos(629.4,251.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.50,0:05:57.54,signs,,0,0,0,,{=17}{\pos(651.4,312.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.50,0:05:57.54,signs,,0,0,0,,{=16}{\pos(674.4,415.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.50,0:05:57.54,signs,,0,0,0,,{=20}{\pos(677.4,529.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.50,0:05:57.54,signs,,0,0,0,,{=21}{\pos(702.12,634.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.50,0:05:57.54,signs,,0,0,0,,{=21}{\pos(702.12,634.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.54,0:05:57.58,signs,,0,0,0,,{=18}{\pos(629.4,251.29)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.54,0:05:57.58,signs,,0,0,0,,{=17}{\pos(651.4,312.29)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.54,0:05:57.58,signs,,0,0,0,,{=16}{\pos(674.4,415.29)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.54,0:05:57.58,signs,,0,0,0,,{=20}{\pos(677.4,529.29)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.54,0:05:57.58,signs,,0,0,0,,{=21}{\pos(702.12,634.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.54,0:05:57.58,signs,,0,0,0,,{=21}{\pos(702.12,634.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.58,0:05:57.62,signs,,0,0,0,,{=18}{\pos(629.4,251.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.58,0:05:57.62,signs,,0,0,0,,{=17}{\pos(651.4,312.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.58,0:05:57.62,signs,,0,0,0,,{=16}{\pos(674.4,415.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.58,0:05:57.62,signs,,0,0,0,,{=20}{\pos(677.4,529.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.58,0:05:57.62,signs,,0,0,0,,{=21}{\pos(702.11,634.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.58,0:05:57.62,signs,,0,0,0,,{=21}{\pos(702.11,634.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.62,0:05:57.67,signs,,0,0,0,,{=18}{\pos(629.4,250.84)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.62,0:05:57.67,signs,,0,0,0,,{=17}{\pos(651.4,311.84)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.62,0:05:57.67,signs,,0,0,0,,{=16}{\pos(674.4,414.84)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.62,0:05:57.67,signs,,0,0,0,,{=20}{\pos(677.4,528.84)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.62,0:05:57.67,signs,,0,0,0,,{=21}{\pos(702.11,633.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.62,0:05:57.67,signs,,0,0,0,,{=21}{\pos(702.11,633.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.67,0:05:57.71,signs,,0,0,0,,{=18}{\pos(629.39,250.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.67,0:05:57.71,signs,,0,0,0,,{=17}{\pos(651.39,311.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.67,0:05:57.71,signs,,0,0,0,,{=16}{\pos(674.39,414.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.67,0:05:57.71,signs,,0,0,0,,{=20}{\pos(677.39,528.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.67,0:05:57.71,signs,,0,0,0,,{=21}{\pos(702.11,633.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.67,0:05:57.71,signs,,0,0,0,,{=21}{\pos(702.11,633.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.71,0:05:57.75,signs,,0,0,0,,{=18}{\pos(629.39,250.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.71,0:05:57.75,signs,,0,0,0,,{=17}{\pos(651.39,311.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.71,0:05:57.75,signs,,0,0,0,,{=16}{\pos(674.39,414.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.71,0:05:57.75,signs,,0,0,0,,{=20}{\pos(677.39,528.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.71,0:05:57.75,signs,,0,0,0,,{=21}{\pos(702.1,633.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.71,0:05:57.75,signs,,0,0,0,,{=21}{\pos(702.1,633.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.75,0:05:57.79,signs,,0,0,0,,{=18}{\pos(629.38,250.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.75,0:05:57.79,signs,,0,0,0,,{=17}{\pos(651.38,311.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.75,0:05:57.79,signs,,0,0,0,,{=16}{\pos(674.38,414.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.75,0:05:57.79,signs,,0,0,0,,{=20}{\pos(677.38,528.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.75,0:05:57.79,signs,,0,0,0,,{=21}{\pos(702.1,633.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.75,0:05:57.79,signs,,0,0,0,,{=21}{\pos(702.1,633.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.79,0:05:57.83,signs,,0,0,0,,{=18}{\pos(629.38,249.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.79,0:05:57.83,signs,,0,0,0,,{=17}{\pos(651.38,310.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.79,0:05:57.83,signs,,0,0,0,,{=16}{\pos(674.38,413.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.79,0:05:57.83,signs,,0,0,0,,{=20}{\pos(677.38,527.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.79,0:05:57.83,signs,,0,0,0,,{=21}{\pos(702.1,632.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.79,0:05:57.83,signs,,0,0,0,,{=21}{\pos(702.1,632.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.83,0:05:57.87,signs,,0,0,0,,{=18}{\pos(629.38,249.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.83,0:05:57.87,signs,,0,0,0,,{=17}{\pos(651.38,310.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.83,0:05:57.87,signs,,0,0,0,,{=16}{\pos(674.38,413.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.83,0:05:57.87,signs,,0,0,0,,{=20}{\pos(677.38,527.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.83,0:05:57.87,signs,,0,0,0,,{=21}{\pos(702.1,632.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.83,0:05:57.87,signs,,0,0,0,,{=21}{\pos(702.1,632.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.87,0:05:57.92,signs,,0,0,0,,{=18}{\pos(629.38,249.48)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.87,0:05:57.92,signs,,0,0,0,,{=17}{\pos(651.38,310.48)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.87,0:05:57.92,signs,,0,0,0,,{=16}{\pos(674.38,413.48)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.87,0:05:57.92,signs,,0,0,0,,{=20}{\pos(677.38,527.48)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.87,0:05:57.92,signs,,0,0,0,,{=21}{\pos(702.09,632.48)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.87,0:05:57.92,signs,,0,0,0,,{=21}{\pos(702.09,632.48)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.92,0:05:57.96,signs,,0,0,0,,{=18}{\pos(629.37,249.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.92,0:05:57.96,signs,,0,0,0,,{=17}{\pos(651.37,310.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.92,0:05:57.96,signs,,0,0,0,,{=16}{\pos(674.37,413.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.92,0:05:57.96,signs,,0,0,0,,{=20}{\pos(677.37,527.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.92,0:05:57.96,signs,,0,0,0,,{=21}{\pos(702.09,632.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.92,0:05:57.96,signs,,0,0,0,,{=21}{\pos(702.09,632.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:57.96,0:05:58.00,signs,,0,0,0,,{=18}{\pos(629.37,249.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:57.96,0:05:58.00,signs,,0,0,0,,{=17}{\pos(651.37,310.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:57.96,0:05:58.00,signs,,0,0,0,,{=16}{\pos(674.37,413.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:57.96,0:05:58.00,signs,,0,0,0,,{=20}{\pos(677.37,527.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:57.96,0:05:58.00,signs,,0,0,0,,{=21}{\pos(702.09,632.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:57.96,0:05:58.00,signs,,0,0,0,,{=21}{\pos(702.09,632.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.00,0:05:58.04,signs,,0,0,0,,{=18}{\pos(629.37,248.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.00,0:05:58.04,signs,,0,0,0,,{=17}{\pos(651.37,309.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.00,0:05:58.04,signs,,0,0,0,,{=16}{\pos(674.37,412.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.00,0:05:58.04,signs,,0,0,0,,{=20}{\pos(677.37,526.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.00,0:05:58.04,signs,,0,0,0,,{=21}{\pos(702.08,631.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.00,0:05:58.04,signs,,0,0,0,,{=21}{\pos(702.08,631.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.04,0:05:58.08,signs,,0,0,0,,{=18}{\pos(629.36,248.61)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.04,0:05:58.08,signs,,0,0,0,,{=17}{\pos(651.36,309.61)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.04,0:05:58.08,signs,,0,0,0,,{=16}{\pos(674.36,412.61)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.04,0:05:58.08,signs,,0,0,0,,{=20}{\pos(677.36,526.61)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.04,0:05:58.08,signs,,0,0,0,,{=21}{\pos(702.08,631.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.04,0:05:58.08,signs,,0,0,0,,{=21}{\pos(702.08,631.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.08,0:05:58.12,signs,,0,0,0,,{=18}{\pos(629.36,248.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.08,0:05:58.12,signs,,0,0,0,,{=17}{\pos(651.36,309.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.08,0:05:58.12,signs,,0,0,0,,{=16}{\pos(674.36,412.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.08,0:05:58.12,signs,,0,0,0,,{=20}{\pos(677.36,526.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.08,0:05:58.12,signs,,0,0,0,,{=21}{\pos(702.07,631.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.08,0:05:58.12,signs,,0,0,0,,{=21}{\pos(702.07,631.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.12,0:05:58.17,signs,,0,0,0,,{=18}{\pos(629.35,248.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.12,0:05:58.17,signs,,0,0,0,,{=17}{\pos(651.35,309.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.12,0:05:58.17,signs,,0,0,0,,{=16}{\pos(674.35,412.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.12,0:05:58.17,signs,,0,0,0,,{=20}{\pos(677.35,526.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.12,0:05:58.17,signs,,0,0,0,,{=21}{\pos(702.07,631.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.12,0:05:58.17,signs,,0,0,0,,{=21}{\pos(702.07,631.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.17,0:05:58.21,signs,,0,0,0,,{=18}{\pos(629.35,247.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.17,0:05:58.21,signs,,0,0,0,,{=17}{\pos(651.35,308.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.17,0:05:58.21,signs,,0,0,0,,{=16}{\pos(674.35,411.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.17,0:05:58.21,signs,,0,0,0,,{=20}{\pos(677.35,525.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.17,0:05:58.21,signs,,0,0,0,,{=21}{\pos(702.06,630.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.17,0:05:58.21,signs,,0,0,0,,{=21}{\pos(702.06,630.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.21,0:05:58.25,signs,,0,0,0,,{=18}{\pos(629.35,247.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.21,0:05:58.25,signs,,0,0,0,,{=17}{\pos(651.35,308.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.21,0:05:58.25,signs,,0,0,0,,{=16}{\pos(674.35,411.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.21,0:05:58.25,signs,,0,0,0,,{=20}{\pos(677.35,525.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.21,0:05:58.25,signs,,0,0,0,,{=21}{\pos(702.07,630.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.21,0:05:58.25,signs,,0,0,0,,{=21}{\pos(702.07,630.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.25,0:05:58.29,signs,,0,0,0,,{=18}{\pos(629.35,247.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.25,0:05:58.29,signs,,0,0,0,,{=17}{\pos(651.35,308.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.25,0:05:58.29,signs,,0,0,0,,{=16}{\pos(674.35,411.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.25,0:05:58.29,signs,,0,0,0,,{=20}{\pos(677.35,525.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.25,0:05:58.29,signs,,0,0,0,,{=21}{\pos(702.06,630.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.25,0:05:58.29,signs,,0,0,0,,{=21}{\pos(702.06,630.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.29,0:05:58.33,signs,,0,0,0,,{=18}{\pos(629.34,247.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.29,0:05:58.33,signs,,0,0,0,,{=17}{\pos(651.34,308.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.29,0:05:58.33,signs,,0,0,0,,{=16}{\pos(674.34,411.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.29,0:05:58.33,signs,,0,0,0,,{=20}{\pos(677.34,525.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.29,0:05:58.33,signs,,0,0,0,,{=21}{\pos(702.06,630.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.29,0:05:58.33,signs,,0,0,0,,{=21}{\pos(702.06,630.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.33,0:05:58.37,signs,,0,0,0,,{=18}{\pos(629.34,247.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.33,0:05:58.37,signs,,0,0,0,,{=17}{\pos(651.34,308.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.33,0:05:58.37,signs,,0,0,0,,{=16}{\pos(674.34,411.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.33,0:05:58.37,signs,,0,0,0,,{=20}{\pos(677.34,525.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.33,0:05:58.37,signs,,0,0,0,,{=21}{\pos(702.06,630.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.33,0:05:58.37,signs,,0,0,0,,{=21}{\pos(702.06,630.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.37,0:05:58.42,signs,,0,0,0,,{=18}{\pos(629.34,246.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.37,0:05:58.42,signs,,0,0,0,,{=17}{\pos(651.34,307.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.37,0:05:58.42,signs,,0,0,0,,{=16}{\pos(674.34,410.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.37,0:05:58.42,signs,,0,0,0,,{=20}{\pos(677.34,524.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.37,0:05:58.42,signs,,0,0,0,,{=21}{\pos(702.05,629.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.37,0:05:58.42,signs,,0,0,0,,{=21}{\pos(702.05,629.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.42,0:05:58.46,signs,,0,0,0,,{=18}{\pos(629.34,246.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.42,0:05:58.46,signs,,0,0,0,,{=17}{\pos(651.34,307.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.42,0:05:58.46,signs,,0,0,0,,{=16}{\pos(674.34,410.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.42,0:05:58.46,signs,,0,0,0,,{=20}{\pos(677.34,524.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.42,0:05:58.46,signs,,0,0,0,,{=21}{\pos(702.05,629.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.42,0:05:58.46,signs,,0,0,0,,{=21}{\pos(702.05,629.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.46,0:05:58.50,signs,,0,0,0,,{=18}{\pos(629.33,246.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.46,0:05:58.50,signs,,0,0,0,,{=17}{\pos(651.33,307.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.46,0:05:58.50,signs,,0,0,0,,{=16}{\pos(674.33,410.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.46,0:05:58.50,signs,,0,0,0,,{=20}{\pos(677.33,524.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.46,0:05:58.50,signs,,0,0,0,,{=21}{\pos(702.05,629.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.46,0:05:58.50,signs,,0,0,0,,{=21}{\pos(702.05,629.36)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.50,0:05:58.54,signs,,0,0,0,,{=18}{\pos(629.33,246.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.50,0:05:58.54,signs,,0,0,0,,{=17}{\pos(651.33,307.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.50,0:05:58.54,signs,,0,0,0,,{=16}{\pos(674.33,410.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.50,0:05:58.54,signs,,0,0,0,,{=20}{\pos(677.33,524.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.50,0:05:58.54,signs,,0,0,0,,{=21}{\pos(702.04,629.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.50,0:05:58.54,signs,,0,0,0,,{=21}{\pos(702.04,629.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.54,0:05:58.58,signs,,0,0,0,,{=18}{\pos(629.33,245.91)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.54,0:05:58.58,signs,,0,0,0,,{=17}{\pos(651.33,306.91)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.54,0:05:58.58,signs,,0,0,0,,{=16}{\pos(674.33,409.91)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.54,0:05:58.58,signs,,0,0,0,,{=20}{\pos(677.33,523.91)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.54,0:05:58.58,signs,,0,0,0,,{=21}{\pos(702.04,628.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.54,0:05:58.58,signs,,0,0,0,,{=21}{\pos(702.04,628.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.58,0:05:58.62,signs,,0,0,0,,{=18}{\pos(629.33,245.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.58,0:05:58.62,signs,,0,0,0,,{=17}{\pos(651.33,306.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.58,0:05:58.62,signs,,0,0,0,,{=16}{\pos(674.33,409.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.58,0:05:58.62,signs,,0,0,0,,{=20}{\pos(677.33,523.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.58,0:05:58.62,signs,,0,0,0,,{=21}{\pos(702.04,628.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.58,0:05:58.62,signs,,0,0,0,,{=21}{\pos(702.04,628.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.62,0:05:58.67,signs,,0,0,0,,{=18}{\pos(629.32,245.46)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.62,0:05:58.67,signs,,0,0,0,,{=17}{\pos(651.32,306.46)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.62,0:05:58.67,signs,,0,0,0,,{=16}{\pos(674.32,409.47)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.62,0:05:58.67,signs,,0,0,0,,{=20}{\pos(677.32,523.46)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.62,0:05:58.67,signs,,0,0,0,,{=21}{\pos(702.04,628.46)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.62,0:05:58.67,signs,,0,0,0,,{=21}{\pos(702.04,628.46)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.67,0:05:58.71,signs,,0,0,0,,{=18}{\pos(629.32,245.24)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.67,0:05:58.71,signs,,0,0,0,,{=17}{\pos(651.32,306.24)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.67,0:05:58.71,signs,,0,0,0,,{=16}{\pos(674.32,409.24)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.67,0:05:58.71,signs,,0,0,0,,{=20}{\pos(677.32,523.24)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.67,0:05:58.71,signs,,0,0,0,,{=21}{\pos(702.03,628.24)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.67,0:05:58.71,signs,,0,0,0,,{=21}{\pos(702.03,628.24)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.71,0:05:58.75,signs,,0,0,0,,{=18}{\pos(629.31,245.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.71,0:05:58.75,signs,,0,0,0,,{=17}{\pos(651.31,306.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.71,0:05:58.75,signs,,0,0,0,,{=16}{\pos(674.31,409.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.71,0:05:58.75,signs,,0,0,0,,{=20}{\pos(677.31,523.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.71,0:05:58.75,signs,,0,0,0,,{=21}{\pos(702.03,628.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.71,0:05:58.75,signs,,0,0,0,,{=21}{\pos(702.03,628.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.75,0:05:58.79,signs,,0,0,0,,{=18}{\pos(629.32,244.78)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.75,0:05:58.79,signs,,0,0,0,,{=17}{\pos(651.32,305.78)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.75,0:05:58.79,signs,,0,0,0,,{=16}{\pos(674.32,408.78)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.75,0:05:58.79,signs,,0,0,0,,{=20}{\pos(677.32,522.78)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.75,0:05:58.79,signs,,0,0,0,,{=21}{\pos(702.03,627.78)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.75,0:05:58.79,signs,,0,0,0,,{=21}{\pos(702.03,627.78)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.79,0:05:58.83,signs,,0,0,0,,{=18}{\pos(629.31,244.58)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.79,0:05:58.83,signs,,0,0,0,,{=17}{\pos(651.31,305.58)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.79,0:05:58.83,signs,,0,0,0,,{=16}{\pos(674.31,408.58)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.79,0:05:58.83,signs,,0,0,0,,{=20}{\pos(677.31,522.58)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.79,0:05:58.83,signs,,0,0,0,,{=21}{\pos(702.02,627.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.79,0:05:58.83,signs,,0,0,0,,{=21}{\pos(702.02,627.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.83,0:05:58.88,signs,,0,0,0,,{=18}{\pos(629.3,244.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.83,0:05:58.88,signs,,0,0,0,,{=17}{\pos(651.3,305.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.83,0:05:58.88,signs,,0,0,0,,{=16}{\pos(674.3,408.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.83,0:05:58.88,signs,,0,0,0,,{=20}{\pos(677.3,522.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.83,0:05:58.88,signs,,0,0,0,,{=21}{\pos(702.02,627.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.83,0:05:58.88,signs,,0,0,0,,{=21}{\pos(702.02,627.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.88,0:05:58.92,signs,,0,0,0,,{=18}{\pos(629.3,244.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.88,0:05:58.92,signs,,0,0,0,,{=17}{\pos(651.3,305.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.88,0:05:58.92,signs,,0,0,0,,{=16}{\pos(674.3,408.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.88,0:05:58.92,signs,,0,0,0,,{=20}{\pos(677.3,522.11)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.88,0:05:58.92,signs,,0,0,0,,{=21}{\pos(702.02,627.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.88,0:05:58.92,signs,,0,0,0,,{=21}{\pos(702.02,627.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.92,0:05:58.96,signs,,0,0,0,,{=18}{\pos(629.3,243.89)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.92,0:05:58.96,signs,,0,0,0,,{=17}{\pos(651.3,304.89)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.92,0:05:58.96,signs,,0,0,0,,{=16}{\pos(674.3,407.89)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.92,0:05:58.96,signs,,0,0,0,,{=20}{\pos(677.3,521.89)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.92,0:05:58.96,signs,,0,0,0,,{=21}{\pos(702.02,626.88)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.92,0:05:58.96,signs,,0,0,0,,{=21}{\pos(702.02,626.88)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:58.96,0:05:59.00,signs,,0,0,0,,{=18}{\pos(629.3,243.67)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:58.96,0:05:59.00,signs,,0,0,0,,{=17}{\pos(651.3,304.67)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:58.96,0:05:59.00,signs,,0,0,0,,{=16}{\pos(674.3,407.67)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:58.96,0:05:59.00,signs,,0,0,0,,{=20}{\pos(677.3,521.67)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:58.96,0:05:59.00,signs,,0,0,0,,{=21}{\pos(702.01,626.66)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:58.96,0:05:59.00,signs,,0,0,0,,{=21}{\pos(702.01,626.66)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.00,0:05:59.04,signs,,0,0,0,,{=18}{\pos(629.29,243.44)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.00,0:05:59.04,signs,,0,0,0,,{=17}{\pos(651.29,304.44)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.00,0:05:59.04,signs,,0,0,0,,{=16}{\pos(674.29,407.44)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.00,0:05:59.04,signs,,0,0,0,,{=20}{\pos(677.29,521.44)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.00,0:05:59.04,signs,,0,0,0,,{=21}{\pos(702.01,626.44)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.00,0:05:59.04,signs,,0,0,0,,{=21}{\pos(702.01,626.44)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.04,0:05:59.08,signs,,0,0,0,,{=18}{\pos(629.29,243.21)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.04,0:05:59.08,signs,,0,0,0,,{=17}{\pos(651.29,304.21)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.04,0:05:59.08,signs,,0,0,0,,{=16}{\pos(674.29,407.21)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.04,0:05:59.08,signs,,0,0,0,,{=20}{\pos(677.29,521.21)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.04,0:05:59.08,signs,,0,0,0,,{=21}{\pos(702,626.21)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.04,0:05:59.08,signs,,0,0,0,,{=21}{\pos(702,626.21)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.08,0:05:59.13,signs,,0,0,0,,{=18}{\pos(629.28,243)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.08,0:05:59.13,signs,,0,0,0,,{=17}{\pos(651.28,304)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.08,0:05:59.13,signs,,0,0,0,,{=16}{\pos(674.28,407)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.08,0:05:59.13,signs,,0,0,0,,{=20}{\pos(677.28,521)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.08,0:05:59.13,signs,,0,0,0,,{=21}{\pos(702,626)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.08,0:05:59.13,signs,,0,0,0,,{=21}{\pos(702,626)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.13,0:05:59.17,signs,,0,0,0,,{=18}{\pos(629.28,242.76)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.13,0:05:59.17,signs,,0,0,0,,{=17}{\pos(651.28,303.76)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.13,0:05:59.17,signs,,0,0,0,,{=16}{\pos(674.28,406.76)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.13,0:05:59.17,signs,,0,0,0,,{=20}{\pos(677.28,520.76)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.13,0:05:59.17,signs,,0,0,0,,{=21}{\pos(702,625.76)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.13,0:05:59.17,signs,,0,0,0,,{=21}{\pos(702,625.76)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.17,0:05:59.21,signs,,0,0,0,,{=18}{\pos(629.28,242.54)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.17,0:05:59.21,signs,,0,0,0,,{=17}{\pos(651.28,303.54)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.17,0:05:59.21,signs,,0,0,0,,{=16}{\pos(674.28,406.54)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.17,0:05:59.21,signs,,0,0,0,,{=20}{\pos(677.28,520.54)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.17,0:05:59.21,signs,,0,0,0,,{=21}{\pos(701.99,625.54)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.17,0:05:59.21,signs,,0,0,0,,{=21}{\pos(701.99,625.54)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.21,0:05:59.25,signs,,0,0,0,,{=18}{\pos(629.28,242.32)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.21,0:05:59.25,signs,,0,0,0,,{=17}{\pos(651.28,303.32)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.21,0:05:59.25,signs,,0,0,0,,{=16}{\pos(674.28,406.32)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.21,0:05:59.25,signs,,0,0,0,,{=20}{\pos(677.28,520.32)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.21,0:05:59.25,signs,,0,0,0,,{=21}{\pos(701.99,625.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.21,0:05:59.25,signs,,0,0,0,,{=21}{\pos(701.99,625.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.25,0:05:59.29,signs,,0,0,0,,{=18}{\pos(629.27,242.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.25,0:05:59.29,signs,,0,0,0,,{=17}{\pos(651.27,303.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.25,0:05:59.29,signs,,0,0,0,,{=16}{\pos(674.27,406.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.25,0:05:59.29,signs,,0,0,0,,{=20}{\pos(677.27,520.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.25,0:05:59.29,signs,,0,0,0,,{=21}{\pos(701.99,625.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.25,0:05:59.29,signs,,0,0,0,,{=21}{\pos(701.99,625.1)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.29,0:05:59.33,signs,,0,0,0,,{=18}{\pos(629.27,241.87)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.29,0:05:59.33,signs,,0,0,0,,{=17}{\pos(651.27,302.87)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.29,0:05:59.33,signs,,0,0,0,,{=16}{\pos(674.27,405.87)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.29,0:05:59.33,signs,,0,0,0,,{=20}{\pos(677.27,519.87)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.29,0:05:59.33,signs,,0,0,0,,{=21}{\pos(701.99,624.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.29,0:05:59.33,signs,,0,0,0,,{=21}{\pos(701.99,624.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.33,0:05:59.38,signs,,0,0,0,,{=18}{\pos(629.27,241.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.33,0:05:59.38,signs,,0,0,0,,{=17}{\pos(651.27,302.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.33,0:05:59.38,signs,,0,0,0,,{=16}{\pos(674.27,405.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.33,0:05:59.38,signs,,0,0,0,,{=20}{\pos(677.27,519.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.33,0:05:59.38,signs,,0,0,0,,{=21}{\pos(701.98,624.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.33,0:05:59.38,signs,,0,0,0,,{=21}{\pos(701.98,624.64)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.38,0:05:59.42,signs,,0,0,0,,{=18}{\pos(629.27,241.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.38,0:05:59.42,signs,,0,0,0,,{=17}{\pos(651.27,302.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.38,0:05:59.42,signs,,0,0,0,,{=16}{\pos(674.27,405.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.38,0:05:59.42,signs,,0,0,0,,{=20}{\pos(677.27,519.42)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.38,0:05:59.42,signs,,0,0,0,,{=21}{\pos(701.98,624.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.38,0:05:59.42,signs,,0,0,0,,{=21}{\pos(701.98,624.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.42,0:05:59.46,signs,,0,0,0,,{=18}{\pos(629.26,241.2)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.42,0:05:59.46,signs,,0,0,0,,{=17}{\pos(651.26,302.2)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.42,0:05:59.46,signs,,0,0,0,,{=16}{\pos(674.26,405.2)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.42,0:05:59.46,signs,,0,0,0,,{=20}{\pos(677.26,519.2)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.42,0:05:59.46,signs,,0,0,0,,{=21}{\pos(701.98,624.2)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.42,0:05:59.46,signs,,0,0,0,,{=21}{\pos(701.98,624.2)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.46,0:05:59.50,signs,,0,0,0,,{=18}{\pos(629.26,240.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.46,0:05:59.50,signs,,0,0,0,,{=17}{\pos(651.26,301.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.46,0:05:59.50,signs,,0,0,0,,{=16}{\pos(674.26,404.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.46,0:05:59.50,signs,,0,0,0,,{=20}{\pos(677.26,518.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.46,0:05:59.50,signs,,0,0,0,,{=21}{\pos(701.98,623.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.46,0:05:59.50,signs,,0,0,0,,{=21}{\pos(701.98,623.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.50,0:05:59.54,signs,,0,0,0,,{=18}{\pos(629.26,240.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.50,0:05:59.54,signs,,0,0,0,,{=17}{\pos(651.26,301.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.50,0:05:59.54,signs,,0,0,0,,{=16}{\pos(674.26,404.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.50,0:05:59.54,signs,,0,0,0,,{=20}{\pos(677.26,518.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.50,0:05:59.54,signs,,0,0,0,,{=21}{\pos(701.98,623.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.50,0:05:59.54,signs,,0,0,0,,{=21}{\pos(701.98,623.75)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.54,0:05:59.58,signs,,0,0,0,,{=18}{\pos(629.26,240.53)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.54,0:05:59.58,signs,,0,0,0,,{=17}{\pos(651.26,301.53)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.54,0:05:59.58,signs,,0,0,0,,{=16}{\pos(674.26,404.53)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.54,0:05:59.58,signs,,0,0,0,,{=20}{\pos(677.26,518.53)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.54,0:05:59.58,signs,,0,0,0,,{=21}{\pos(701.98,623.53)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.54,0:05:59.58,signs,,0,0,0,,{=21}{\pos(701.98,623.53)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.58,0:05:59.63,signs,,0,0,0,,{=18}{\pos(629.25,240.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.58,0:05:59.63,signs,,0,0,0,,{=17}{\pos(651.25,301.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.58,0:05:59.63,signs,,0,0,0,,{=16}{\pos(674.25,404.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.58,0:05:59.63,signs,,0,0,0,,{=20}{\pos(677.25,518.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.58,0:05:59.63,signs,,0,0,0,,{=21}{\pos(701.97,623.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.58,0:05:59.63,signs,,0,0,0,,{=21}{\pos(701.97,623.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.63,0:05:59.67,signs,,0,0,0,,{=18}{\pos(629.25,240.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.63,0:05:59.67,signs,,0,0,0,,{=17}{\pos(651.25,301.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.63,0:05:59.67,signs,,0,0,0,,{=16}{\pos(674.25,404.09)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.63,0:05:59.67,signs,,0,0,0,,{=20}{\pos(677.25,518.09)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.63,0:05:59.67,signs,,0,0,0,,{=21}{\pos(701.97,623.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.63,0:05:59.67,signs,,0,0,0,,{=21}{\pos(701.97,623.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.67,0:05:59.71,signs,,0,0,0,,{=18}{\pos(629.25,239.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.67,0:05:59.71,signs,,0,0,0,,{=17}{\pos(651.25,300.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.67,0:05:59.71,signs,,0,0,0,,{=16}{\pos(674.25,403.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.67,0:05:59.71,signs,,0,0,0,,{=20}{\pos(677.25,517.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.67,0:05:59.71,signs,,0,0,0,,{=21}{\pos(701.97,622.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.67,0:05:59.71,signs,,0,0,0,,{=21}{\pos(701.97,622.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.71,0:05:59.75,signs,,0,0,0,,{=18}{\pos(629.25,239.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.71,0:05:59.75,signs,,0,0,0,,{=17}{\pos(651.25,300.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.71,0:05:59.75,signs,,0,0,0,,{=16}{\pos(674.25,403.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.71,0:05:59.75,signs,,0,0,0,,{=20}{\pos(677.25,517.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.71,0:05:59.75,signs,,0,0,0,,{=21}{\pos(701.96,622.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.71,0:05:59.75,signs,,0,0,0,,{=21}{\pos(701.96,622.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.75,0:05:59.79,signs,,0,0,0,,{=18}{\pos(629.24,239.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.75,0:05:59.79,signs,,0,0,0,,{=17}{\pos(651.24,300.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.75,0:05:59.79,signs,,0,0,0,,{=16}{\pos(674.24,403.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.75,0:05:59.79,signs,,0,0,0,,{=20}{\pos(677.24,517.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.75,0:05:59.79,signs,,0,0,0,,{=21}{\pos(701.96,622.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.75,0:05:59.79,signs,,0,0,0,,{=21}{\pos(701.96,622.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.79,0:05:59.83,signs,,0,0,0,,{=18}{\pos(629.24,239.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.79,0:05:59.83,signs,,0,0,0,,{=17}{\pos(651.24,300.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.79,0:05:59.83,signs,,0,0,0,,{=16}{\pos(674.24,403.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.79,0:05:59.83,signs,,0,0,0,,{=20}{\pos(677.24,517.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.79,0:05:59.83,signs,,0,0,0,,{=21}{\pos(701.95,622.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.79,0:05:59.83,signs,,0,0,0,,{=21}{\pos(701.95,622.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.83,0:05:59.88,signs,,0,0,0,,{=18}{\pos(629.23,238.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.83,0:05:59.88,signs,,0,0,0,,{=17}{\pos(651.23,299.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.83,0:05:59.88,signs,,0,0,0,,{=16}{\pos(674.23,402.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.83,0:05:59.88,signs,,0,0,0,,{=20}{\pos(677.23,516.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.83,0:05:59.88,signs,,0,0,0,,{=21}{\pos(701.95,621.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.83,0:05:59.88,signs,,0,0,0,,{=21}{\pos(701.95,621.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.88,0:05:59.92,signs,,0,0,0,,{=18}{\pos(629.23,238.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.88,0:05:59.92,signs,,0,0,0,,{=17}{\pos(651.23,299.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.88,0:05:59.92,signs,,0,0,0,,{=16}{\pos(674.23,402.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.88,0:05:59.92,signs,,0,0,0,,{=20}{\pos(677.23,516.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.88,0:05:59.92,signs,,0,0,0,,{=21}{\pos(701.95,621.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.88,0:05:59.92,signs,,0,0,0,,{=21}{\pos(701.95,621.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.92,0:05:59.96,signs,,0,0,0,,{=18}{\pos(629.23,238.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.92,0:05:59.96,signs,,0,0,0,,{=17}{\pos(651.23,299.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.92,0:05:59.96,signs,,0,0,0,,{=16}{\pos(674.23,402.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.92,0:05:59.96,signs,,0,0,0,,{=20}{\pos(677.23,516.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.92,0:05:59.96,signs,,0,0,0,,{=21}{\pos(701.95,621.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.92,0:05:59.96,signs,,0,0,0,,{=21}{\pos(701.95,621.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:05:59.96,0:06:00.00,signs,,0,0,0,,{=18}{\pos(629.23,238.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:05:59.96,0:06:00.00,signs,,0,0,0,,{=17}{\pos(651.23,299.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:05:59.96,0:06:00.00,signs,,0,0,0,,{=16}{\pos(674.23,402.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:05:59.96,0:06:00.00,signs,,0,0,0,,{=20}{\pos(677.23,516.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:05:59.96,0:06:00.00,signs,,0,0,0,,{=21}{\pos(701.94,621.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:05:59.96,0:06:00.00,signs,,0,0,0,,{=21}{\pos(701.94,621.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.00,0:06:00.04,signs,,0,0,0,,{=18}{\pos(629.22,238.09)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.00,0:06:00.04,signs,,0,0,0,,{=17}{\pos(651.22,299.09)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.00,0:06:00.04,signs,,0,0,0,,{=16}{\pos(674.22,402.09)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.00,0:06:00.04,signs,,0,0,0,,{=20}{\pos(677.22,516.09)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.00,0:06:00.04,signs,,0,0,0,,{=21}{\pos(701.94,621.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.00,0:06:00.04,signs,,0,0,0,,{=21}{\pos(701.94,621.08)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.04,0:06:00.08,signs,,0,0,0,,{=18}{\pos(629.22,237.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.04,0:06:00.08,signs,,0,0,0,,{=17}{\pos(651.22,298.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.04,0:06:00.08,signs,,0,0,0,,{=16}{\pos(674.22,401.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.04,0:06:00.08,signs,,0,0,0,,{=20}{\pos(677.22,515.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.04,0:06:00.08,signs,,0,0,0,,{=21}{\pos(701.94,620.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.04,0:06:00.08,signs,,0,0,0,,{=21}{\pos(701.94,620.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.08,0:06:00.13,signs,,0,0,0,,{=18}{\pos(629.22,237.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.08,0:06:00.13,signs,,0,0,0,,{=17}{\pos(651.22,298.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.08,0:06:00.13,signs,,0,0,0,,{=16}{\pos(674.22,401.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.08,0:06:00.13,signs,,0,0,0,,{=20}{\pos(677.22,515.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.08,0:06:00.13,signs,,0,0,0,,{=21}{\pos(701.94,620.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.08,0:06:00.13,signs,,0,0,0,,{=21}{\pos(701.94,620.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.13,0:06:00.17,signs,,0,0,0,,{=18}{\pos(629.22,237.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.13,0:06:00.17,signs,,0,0,0,,{=17}{\pos(651.22,298.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.13,0:06:00.17,signs,,0,0,0,,{=16}{\pos(674.22,401.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.13,0:06:00.17,signs,,0,0,0,,{=20}{\pos(677.22,515.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.13,0:06:00.17,signs,,0,0,0,,{=21}{\pos(701.93,620.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.13,0:06:00.17,signs,,0,0,0,,{=21}{\pos(701.93,620.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.17,0:06:00.21,signs,,0,0,0,,{=18}{\pos(629.21,237.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.17,0:06:00.21,signs,,0,0,0,,{=17}{\pos(651.21,298.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.17,0:06:00.21,signs,,0,0,0,,{=16}{\pos(674.21,401.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.17,0:06:00.21,signs,,0,0,0,,{=20}{\pos(677.21,515.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.17,0:06:00.21,signs,,0,0,0,,{=21}{\pos(701.93,620.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.17,0:06:00.21,signs,,0,0,0,,{=21}{\pos(701.93,620.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.21,0:06:00.25,signs,,0,0,0,,{=18}{\pos(629.21,236.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.21,0:06:00.25,signs,,0,0,0,,{=17}{\pos(651.21,297.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.21,0:06:00.25,signs,,0,0,0,,{=16}{\pos(674.21,400.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.21,0:06:00.25,signs,,0,0,0,,{=20}{\pos(677.21,514.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.21,0:06:00.25,signs,,0,0,0,,{=21}{\pos(701.93,619.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.21,0:06:00.25,signs,,0,0,0,,{=21}{\pos(701.93,619.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.25,0:06:00.29,signs,,0,0,0,,{=18}{\pos(629.21,236.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.25,0:06:00.29,signs,,0,0,0,,{=17}{\pos(651.21,297.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.25,0:06:00.29,signs,,0,0,0,,{=16}{\pos(674.21,400.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.25,0:06:00.29,signs,,0,0,0,,{=20}{\pos(677.21,514.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.25,0:06:00.29,signs,,0,0,0,,{=21}{\pos(701.93,619.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.25,0:06:00.29,signs,,0,0,0,,{=21}{\pos(701.93,619.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.29,0:06:00.33,signs,,0,0,0,,{=18}{\pos(629.21,236.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.29,0:06:00.33,signs,,0,0,0,,{=17}{\pos(651.21,297.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.29,0:06:00.33,signs,,0,0,0,,{=16}{\pos(674.21,400.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.29,0:06:00.33,signs,,0,0,0,,{=20}{\pos(677.21,514.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.29,0:06:00.33,signs,,0,0,0,,{=21}{\pos(701.93,619.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.29,0:06:00.33,signs,,0,0,0,,{=21}{\pos(701.93,619.52)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.33,0:06:00.38,signs,,0,0,0,,{=18}{\pos(629.2,236.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.33,0:06:00.38,signs,,0,0,0,,{=17}{\pos(651.2,297.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.33,0:06:00.38,signs,,0,0,0,,{=16}{\pos(674.2,400.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.33,0:06:00.38,signs,,0,0,0,,{=20}{\pos(677.2,514.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.33,0:06:00.38,signs,,0,0,0,,{=21}{\pos(701.92,619.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.33,0:06:00.38,signs,,0,0,0,,{=21}{\pos(701.92,619.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.38,0:06:00.42,signs,,0,0,0,,{=18}{\pos(629.21,236.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.38,0:06:00.42,signs,,0,0,0,,{=17}{\pos(651.21,297.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.38,0:06:00.42,signs,,0,0,0,,{=16}{\pos(674.21,400.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.38,0:06:00.42,signs,,0,0,0,,{=20}{\pos(677.21,514.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.38,0:06:00.42,signs,,0,0,0,,{=21}{\pos(701.92,619.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.38,0:06:00.42,signs,,0,0,0,,{=21}{\pos(701.92,619.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.42,0:06:00.46,signs,,0,0,0,,{=18}{\pos(629.2,235.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.42,0:06:00.46,signs,,0,0,0,,{=17}{\pos(651.2,296.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.42,0:06:00.46,signs,,0,0,0,,{=16}{\pos(674.2,399.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.42,0:06:00.46,signs,,0,0,0,,{=20}{\pos(677.2,513.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.42,0:06:00.46,signs,,0,0,0,,{=21}{\pos(701.92,618.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.42,0:06:00.46,signs,,0,0,0,,{=21}{\pos(701.92,618.85)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.46,0:06:00.50,signs,,0,0,0,,{=18}{\pos(629.2,235.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.46,0:06:00.50,signs,,0,0,0,,{=17}{\pos(651.2,296.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.46,0:06:00.50,signs,,0,0,0,,{=16}{\pos(674.2,399.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.46,0:06:00.50,signs,,0,0,0,,{=20}{\pos(677.2,513.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.46,0:06:00.50,signs,,0,0,0,,{=21}{\pos(701.91,618.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.46,0:06:00.50,signs,,0,0,0,,{=21}{\pos(701.91,618.62)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.50,0:06:00.54,signs,,0,0,0,,{=18}{\pos(629.19,235.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.50,0:06:00.54,signs,,0,0,0,,{=17}{\pos(651.19,296.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.50,0:06:00.54,signs,,0,0,0,,{=16}{\pos(674.19,399.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.50,0:06:00.54,signs,,0,0,0,,{=20}{\pos(677.19,513.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.50,0:06:00.54,signs,,0,0,0,,{=21}{\pos(701.91,618.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.50,0:06:00.54,signs,,0,0,0,,{=21}{\pos(701.91,618.41)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.54,0:06:00.59,signs,,0,0,0,,{=18}{\pos(629.19,235.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.54,0:06:00.59,signs,,0,0,0,,{=17}{\pos(651.19,296.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.54,0:06:00.59,signs,,0,0,0,,{=16}{\pos(674.19,399.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.54,0:06:00.59,signs,,0,0,0,,{=20}{\pos(677.19,513.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.54,0:06:00.59,signs,,0,0,0,,{=21}{\pos(701.9,618.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.54,0:06:00.59,signs,,0,0,0,,{=21}{\pos(701.9,618.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.59,0:06:00.63,signs,,0,0,0,,{=18}{\pos(629.19,234.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3D3C3B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.59,0:06:00.63,signs,,0,0,0,,{=17}{\pos(651.19,295.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.59,0:06:00.63,signs,,0,0,0,,{=16}{\pos(674.19,398.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H5A4F18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.59,0:06:00.63,signs,,0,0,0,,{=20}{\pos(677.19,512.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.59,0:06:00.63,signs,,0,0,0,,{=21}{\pos(701.9,617.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.59,0:06:00.63,signs,,0,0,0,,{=21}{\pos(701.9,617.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H464543&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.63,0:06:00.67,signs,,0,0,0,,{=18}{\pos(629.18,234.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3C3B3A&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.63,0:06:00.67,signs,,0,0,0,,{=17}{\pos(651.18,295.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H584D18&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.63,0:06:00.67,signs,,0,0,0,,{=16}{\pos(674.18,398.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H584D18&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.63,0:06:00.67,signs,,0,0,0,,{=20}{\pos(677.18,512.71)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H454442&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.63,0:06:00.67,signs,,0,0,0,,{=21}{\pos(701.89,617.7)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H454442&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.63,0:06:00.67,signs,,0,0,0,,{=21}{\pos(701.89,617.7)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H454442&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.67,0:06:00.71,signs,,0,0,0,,{=18}{\pos(629.19,234.47)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3B3A39&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.67,0:06:00.71,signs,,0,0,0,,{=17}{\pos(651.19,295.47)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H564C17&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.67,0:06:00.71,signs,,0,0,0,,{=16}{\pos(674.19,398.47)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H564C17&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.67,0:06:00.71,signs,,0,0,0,,{=20}{\pos(677.19,512.47)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H434240&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.67,0:06:00.71,signs,,0,0,0,,{=21}{\pos(701.9,617.47)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H434240&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.67,0:06:00.71,signs,,0,0,0,,{=21}{\pos(701.9,617.47)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H434240&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.71,0:06:00.75,signs,,0,0,0,,{=18}{\pos(629.18,234.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H393938&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.71,0:06:00.75,signs,,0,0,0,,{=17}{\pos(651.18,295.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H554A17&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.71,0:06:00.75,signs,,0,0,0,,{=16}{\pos(674.18,398.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H554A17&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.71,0:06:00.75,signs,,0,0,0,,{=20}{\pos(677.18,512.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H42413F&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.71,0:06:00.75,signs,,0,0,0,,{=21}{\pos(701.89,617.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H42413F&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.71,0:06:00.75,signs,,0,0,0,,{=21}{\pos(701.89,617.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H42413F&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.75,0:06:00.79,signs,,0,0,0,,{=18}{\pos(629.18,234.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H383736&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.75,0:06:00.79,signs,,0,0,0,,{=17}{\pos(651.18,295.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H534916&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.75,0:06:00.79,signs,,0,0,0,,{=16}{\pos(674.18,398.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H534916&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.75,0:06:00.79,signs,,0,0,0,,{=20}{\pos(677.18,512.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H41403E&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.75,0:06:00.79,signs,,0,0,0,,{=21}{\pos(701.89,617.02)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H41403E&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.75,0:06:00.79,signs,,0,0,0,,{=21}{\pos(701.89,617.02)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H41403E&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.79,0:06:00.84,signs,,0,0,0,,{=18}{\pos(629.17,233.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H373635&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.79,0:06:00.84,signs,,0,0,0,,{=17}{\pos(651.17,294.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H514716&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.79,0:06:00.84,signs,,0,0,0,,{=16}{\pos(674.17,397.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H514716&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.79,0:06:00.84,signs,,0,0,0,,{=20}{\pos(677.17,511.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3F3E3C&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.79,0:06:00.84,signs,,0,0,0,,{=21}{\pos(701.89,616.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3F3E3C&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.79,0:06:00.84,signs,,0,0,0,,{=21}{\pos(701.89,616.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3F3E3C&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.84,0:06:00.88,signs,,0,0,0,,{=18}{\pos(629.17,233.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H363534&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.84,0:06:00.88,signs,,0,0,0,,{=17}{\pos(651.17,294.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4F4616&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.84,0:06:00.88,signs,,0,0,0,,{=16}{\pos(674.17,397.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4F4616&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.84,0:06:00.88,signs,,0,0,0,,{=20}{\pos(677.17,511.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3E3D3B&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.84,0:06:00.88,signs,,0,0,0,,{=21}{\pos(701.88,616.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3E3D3B&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.84,0:06:00.88,signs,,0,0,0,,{=21}{\pos(701.88,616.57)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3E3D3B&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.88,0:06:00.92,signs,,0,0,0,,{=18}{\pos(629.17,233.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H353433&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.88,0:06:00.92,signs,,0,0,0,,{=17}{\pos(651.17,294.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4E4415&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.88,0:06:00.92,signs,,0,0,0,,{=16}{\pos(674.17,397.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4E4415&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.88,0:06:00.92,signs,,0,0,0,,{=20}{\pos(677.17,511.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3C3C3A&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.88,0:06:00.92,signs,,0,0,0,,{=21}{\pos(701.89,616.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3C3C3A&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.88,0:06:00.92,signs,,0,0,0,,{=21}{\pos(701.89,616.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3C3C3A&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.92,0:06:00.96,signs,,0,0,0,,{=18}{\pos(629.16,233.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H343332&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.92,0:06:00.96,signs,,0,0,0,,{=17}{\pos(651.16,294.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4C4315&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.92,0:06:00.96,signs,,0,0,0,,{=16}{\pos(674.16,397.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4C4315&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.92,0:06:00.96,signs,,0,0,0,,{=20}{\pos(677.16,511.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3B3A39&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.92,0:06:00.96,signs,,0,0,0,,{=21}{\pos(701.88,616.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3B3A39&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.92,0:06:00.96,signs,,0,0,0,,{=21}{\pos(701.88,616.14)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3B3A39&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:00.96,0:06:01.00,signs,,0,0,0,,{=18}{\pos(629.16,232.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H323231&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:00.96,0:06:01.00,signs,,0,0,0,,{=17}{\pos(651.16,293.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4A4114&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:00.96,0:06:01.00,signs,,0,0,0,,{=16}{\pos(674.16,396.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H4A4114&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:00.96,0:06:01.00,signs,,0,0,0,,{=20}{\pos(677.16,510.93)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3A3937&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:00.96,0:06:01.00,signs,,0,0,0,,{=21}{\pos(701.88,615.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3A3937&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:00.96,0:06:01.00,signs,,0,0,0,,{=21}{\pos(701.88,615.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3A3937&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.00,0:06:01.04,signs,,0,0,0,,{=18}{\pos(629.17,232.7)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H313030&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.00,0:06:01.04,signs,,0,0,0,,{=17}{\pos(651.17,293.7)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H484014&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.00,0:06:01.04,signs,,0,0,0,,{=16}{\pos(674.17,396.7)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H484014&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.00,0:06:01.04,signs,,0,0,0,,{=20}{\pos(677.17,510.7)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H383836&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.00,0:06:01.04,signs,,0,0,0,,{=21}{\pos(701.88,615.69)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H383836&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.00,0:06:01.04,signs,,0,0,0,,{=21}{\pos(701.88,615.69)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H383836&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.04,0:06:01.09,signs,,0,0,0,,{=18}{\pos(629.17,232.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H302F2F&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.04,0:06:01.09,signs,,0,0,0,,{=17}{\pos(651.17,293.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H463E13&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.04,0:06:01.09,signs,,0,0,0,,{=16}{\pos(674.17,396.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H463E13&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.04,0:06:01.09,signs,,0,0,0,,{=20}{\pos(677.17,510.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H373635&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.04,0:06:01.09,signs,,0,0,0,,{=21}{\pos(701.88,615.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H373635&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.04,0:06:01.09,signs,,0,0,0,,{=21}{\pos(701.88,615.49)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H373635&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.09,0:06:01.13,signs,,0,0,0,,{=18}{\pos(629.17,232.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2F2E2D&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.09,0:06:01.13,signs,,0,0,0,,{=17}{\pos(651.17,293.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H453C13&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.09,0:06:01.13,signs,,0,0,0,,{=16}{\pos(674.17,396.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H453C13&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.09,0:06:01.13,signs,,0,0,0,,{=20}{\pos(677.17,510.27)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H363533&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.09,0:06:01.13,signs,,0,0,0,,{=21}{\pos(701.88,615.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H363533&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.09,0:06:01.13,signs,,0,0,0,,{=21}{\pos(701.88,615.26)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H363533&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.13,0:06:01.17,signs,,0,0,0,,{=18}{\pos(629.17,232.05)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2E2D2C&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.13,0:06:01.17,signs,,0,0,0,,{=17}{\pos(651.17,293.05)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H433B13&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.13,0:06:01.17,signs,,0,0,0,,{=16}{\pos(674.17,396.05)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H433B13&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.13,0:06:01.17,signs,,0,0,0,,{=20}{\pos(677.17,510.05)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H343432&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.13,0:06:01.17,signs,,0,0,0,,{=21}{\pos(701.88,615.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H343432&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.13,0:06:01.17,signs,,0,0,0,,{=21}{\pos(701.88,615.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H343432&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.17,0:06:01.21,signs,,0,0,0,,{=18}{\pos(629.16,231.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2D2C2B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.17,0:06:01.21,signs,,0,0,0,,{=17}{\pos(651.16,292.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H413912&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.17,0:06:01.21,signs,,0,0,0,,{=16}{\pos(674.16,395.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H413912&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.17,0:06:01.21,signs,,0,0,0,,{=20}{\pos(677.16,509.81)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H333231&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.17,0:06:01.21,signs,,0,0,0,,{=21}{\pos(701.88,614.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H333231&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.17,0:06:01.21,signs,,0,0,0,,{=21}{\pos(701.88,614.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H333231&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.21,0:06:01.25,signs,,0,0,0,,{=18}{\pos(629.16,231.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2B2B2A&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.21,0:06:01.25,signs,,0,0,0,,{=17}{\pos(651.16,292.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3F3812&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.21,0:06:01.25,signs,,0,0,0,,{=16}{\pos(674.16,395.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3F3812&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.21,0:06:01.25,signs,,0,0,0,,{=20}{\pos(677.16,509.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H32312F&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.21,0:06:01.25,signs,,0,0,0,,{=21}{\pos(701.88,614.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H32312F&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.21,0:06:01.25,signs,,0,0,0,,{=21}{\pos(701.88,614.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H32312F&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.25,0:06:01.29,signs,,0,0,0,,{=18}{\pos(629.16,231.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2A2929&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.25,0:06:01.29,signs,,0,0,0,,{=17}{\pos(651.16,292.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3E3611&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.25,0:06:01.29,signs,,0,0,0,,{=16}{\pos(674.16,395.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3E3611&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.25,0:06:01.29,signs,,0,0,0,,{=20}{\pos(677.16,509.38)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H30302E&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.25,0:06:01.29,signs,,0,0,0,,{=21}{\pos(701.88,614.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H30302E&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.25,0:06:01.29,signs,,0,0,0,,{=21}{\pos(701.88,614.37)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H30302E&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.29,0:06:01.34,signs,,0,0,0,,{=18}{\pos(629.17,231.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H292828&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.29,0:06:01.34,signs,,0,0,0,,{=17}{\pos(651.17,292.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3C3511&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.29,0:06:01.34,signs,,0,0,0,,{=16}{\pos(674.17,395.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3C3511&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.29,0:06:01.34,signs,,0,0,0,,{=20}{\pos(677.17,509.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2F2E2D&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.29,0:06:01.34,signs,,0,0,0,,{=21}{\pos(701.88,614.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2F2E2D&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.29,0:06:01.34,signs,,0,0,0,,{=21}{\pos(701.88,614.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2F2E2D&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.34,0:06:01.38,signs,,0,0,0,,{=18}{\pos(629.16,230.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H282727&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.34,0:06:01.38,signs,,0,0,0,,{=17}{\pos(651.16,291.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3A3311&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.34,0:06:01.38,signs,,0,0,0,,{=16}{\pos(674.16,394.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H3A3311&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.34,0:06:01.38,signs,,0,0,0,,{=20}{\pos(677.16,508.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2D2D2C&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.34,0:06:01.38,signs,,0,0,0,,{=21}{\pos(701.88,613.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2D2D2C&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.34,0:06:01.38,signs,,0,0,0,,{=21}{\pos(701.88,613.92)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2D2D2C&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.38,0:06:01.42,signs,,0,0,0,,{=18}{\pos(629.16,230.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H272625&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.38,0:06:01.42,signs,,0,0,0,,{=17}{\pos(651.16,291.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H383210&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.38,0:06:01.42,signs,,0,0,0,,{=16}{\pos(674.16,394.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H383210&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.38,0:06:01.42,signs,,0,0,0,,{=20}{\pos(677.16,508.73)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2C2B2A&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.38,0:06:01.42,signs,,0,0,0,,{=21}{\pos(701.87,613.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2C2B2A&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.38,0:06:01.42,signs,,0,0,0,,{=21}{\pos(701.87,613.72)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2C2B2A&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.42,0:06:01.46,signs,,0,0,0,,{=18}{\pos(629.15,230.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H252524&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.42,0:06:01.46,signs,,0,0,0,,{=17}{\pos(651.15,291.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H363010&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.42,0:06:01.46,signs,,0,0,0,,{=16}{\pos(674.15,394.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H363010&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.42,0:06:01.46,signs,,0,0,0,,{=20}{\pos(677.15,508.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2B2A29&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.42,0:06:01.46,signs,,0,0,0,,{=21}{\pos(701.87,613.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2B2A29&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.42,0:06:01.46,signs,,0,0,0,,{=21}{\pos(701.87,613.5)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2B2A29&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.46,0:06:01.50,signs,,0,0,0,,{=18}{\pos(629.16,230.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H242423&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.46,0:06:01.50,signs,,0,0,0,,{=17}{\pos(651.16,291.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H352E0F&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.46,0:06:01.50,signs,,0,0,0,,{=16}{\pos(674.16,394.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H352E0F&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.46,0:06:01.50,signs,,0,0,0,,{=20}{\pos(677.16,508.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H292928&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.46,0:06:01.50,signs,,0,0,0,,{=21}{\pos(701.87,613.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H292928&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.46,0:06:01.50,signs,,0,0,0,,{=21}{\pos(701.87,613.28)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H292928&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.50,0:06:01.54,signs,,0,0,0,,{=18}{\pos(629.16,230.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H232322&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.50,0:06:01.54,signs,,0,0,0,,{=17}{\pos(651.16,291.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H332D0F&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.50,0:06:01.54,signs,,0,0,0,,{=16}{\pos(674.16,394.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H332D0F&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.50,0:06:01.54,signs,,0,0,0,,{=20}{\pos(677.16,508.04)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H282726&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.50,0:06:01.54,signs,,0,0,0,,{=21}{\pos(701.88,613.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H282726&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.50,0:06:01.54,signs,,0,0,0,,{=21}{\pos(701.88,613.03)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H282726&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.54,0:06:01.59,signs,,0,0,0,,{=18}{\pos(629.16,229.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H222121&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.54,0:06:01.59,signs,,0,0,0,,{=17}{\pos(651.16,290.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H312B0E&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.54,0:06:01.59,signs,,0,0,0,,{=16}{\pos(674.16,393.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H312B0E&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.54,0:06:01.59,signs,,0,0,0,,{=20}{\pos(677.16,507.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H272625&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.54,0:06:01.59,signs,,0,0,0,,{=21}{\pos(701.87,612.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H272625&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.54,0:06:01.59,signs,,0,0,0,,{=21}{\pos(701.87,612.83)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H272625&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.59,0:06:01.63,signs,,0,0,0,,{=18}{\pos(629.17,229.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H212020&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.59,0:06:01.63,signs,,0,0,0,,{=17}{\pos(651.17,290.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2F2A0E&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.59,0:06:01.63,signs,,0,0,0,,{=16}{\pos(674.17,393.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2F2A0E&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.59,0:06:01.63,signs,,0,0,0,,{=20}{\pos(677.17,507.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H252524&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.59,0:06:01.63,signs,,0,0,0,,{=21}{\pos(701.88,612.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H252524&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.59,0:06:01.63,signs,,0,0,0,,{=21}{\pos(701.88,612.6)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H252524&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.63,0:06:01.67,signs,,0,0,0,,{=18}{\pos(629.17,229.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H201F1F&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.63,0:06:01.67,signs,,0,0,0,,{=17}{\pos(651.17,290.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2E280E&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.63,0:06:01.67,signs,,0,0,0,,{=16}{\pos(674.17,393.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2E280E&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.63,0:06:01.67,signs,,0,0,0,,{=20}{\pos(677.17,507.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H242322&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.63,0:06:01.67,signs,,0,0,0,,{=21}{\pos(701.89,612.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H242322&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.63,0:06:01.67,signs,,0,0,0,,{=21}{\pos(701.89,612.39)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H242322&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.67,0:06:01.71,signs,,0,0,0,,{=18}{\pos(629.17,229.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1E1E1D&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.67,0:06:01.71,signs,,0,0,0,,{=17}{\pos(651.17,290.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2C270D&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.67,0:06:01.71,signs,,0,0,0,,{=16}{\pos(674.17,393.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2C270D&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.67,0:06:01.71,signs,,0,0,0,,{=20}{\pos(677.17,507.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H232221&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.67,0:06:01.71,signs,,0,0,0,,{=21}{\pos(701.89,612.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H232221&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.67,0:06:01.71,signs,,0,0,0,,{=21}{\pos(701.89,612.16)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H232221&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.71,0:06:01.75,signs,,0,0,0,,{=18}{\pos(629.17,228.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1D1D1C&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.71,0:06:01.75,signs,,0,0,0,,{=17}{\pos(651.17,289.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2A250D&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.71,0:06:01.75,signs,,0,0,0,,{=16}{\pos(674.17,392.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H2A250D&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.71,0:06:01.75,signs,,0,0,0,,{=20}{\pos(677.17,506.97)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H212120&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.71,0:06:01.75,signs,,0,0,0,,{=21}{\pos(701.88,611.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H212120&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.71,0:06:01.75,signs,,0,0,0,,{=21}{\pos(701.88,611.96)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H212120&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.75,0:06:01.79,signs,,0,0,0,,{=18}{\pos(629.16,228.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1C1C1B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.75,0:06:01.79,signs,,0,0,0,,{=17}{\pos(651.16,289.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H28240C&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.75,0:06:01.79,signs,,0,0,0,,{=16}{\pos(674.16,392.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H28240C&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.75,0:06:01.79,signs,,0,0,0,,{=20}{\pos(677.16,506.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H201F1F&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.75,0:06:01.79,signs,,0,0,0,,{=21}{\pos(701.88,611.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H201F1F&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.75,0:06:01.79,signs,,0,0,0,,{=21}{\pos(701.88,611.74)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H201F1F&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.79,0:06:01.84,signs,,0,0,0,,{=18}{\pos(629.16,228.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1B1A1A&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.79,0:06:01.84,signs,,0,0,0,,{=17}{\pos(651.16,289.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H26220C&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.79,0:06:01.84,signs,,0,0,0,,{=16}{\pos(674.16,392.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H26220C&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.79,0:06:01.84,signs,,0,0,0,,{=20}{\pos(677.16,506.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1E1E1D&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.79,0:06:01.84,signs,,0,0,0,,{=21}{\pos(701.88,611.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1E1E1D&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.79,0:06:01.84,signs,,0,0,0,,{=21}{\pos(701.88,611.51)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1E1E1D&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.84,0:06:01.88,signs,,0,0,0,,{=18}{\pos(629.16,228.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1A1919&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.84,0:06:01.88,signs,,0,0,0,,{=17}{\pos(651.16,289.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H25210C&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.84,0:06:01.88,signs,,0,0,0,,{=16}{\pos(674.16,392.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H25210C&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.84,0:06:01.88,signs,,0,0,0,,{=20}{\pos(677.16,506.31)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1D1D1C&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.84,0:06:01.88,signs,,0,0,0,,{=21}{\pos(701.88,611.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1D1D1C&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.84,0:06:01.88,signs,,0,0,0,,{=21}{\pos(701.88,611.3)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1D1D1C&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.88,0:06:01.92,signs,,0,0,0,,{=18}{\pos(629.16,228.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H191818&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.88,0:06:01.92,signs,,0,0,0,,{=17}{\pos(651.16,289.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H231F0B&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.88,0:06:01.92,signs,,0,0,0,,{=16}{\pos(674.16,392.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H231F0B&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.88,0:06:01.92,signs,,0,0,0,,{=20}{\pos(677.16,506.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1C1B1B&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.88,0:06:01.92,signs,,0,0,0,,{=21}{\pos(701.88,611.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1C1B1B&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.88,0:06:01.92,signs,,0,0,0,,{=21}{\pos(701.88,611.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1C1B1B&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.92,0:06:01.96,signs,,0,0,0,,{=18}{\pos(629.16,227.82)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H171717&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.92,0:06:01.96,signs,,0,0,0,,{=17}{\pos(651.16,288.82)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H211D0B&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.92,0:06:01.96,signs,,0,0,0,,{=16}{\pos(674.16,391.82)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H211D0B&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.92,0:06:01.96,signs,,0,0,0,,{=20}{\pos(677.16,505.82)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1A1A19&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.92,0:06:01.96,signs,,0,0,0,,{=21}{\pos(701.87,610.82)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1A1A19&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.92,0:06:01.96,signs,,0,0,0,,{=21}{\pos(701.87,610.82)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1A1A19&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:01.96,0:06:02.00,signs,,0,0,0,,{=18}{\pos(629.17,227.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H161616&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:01.96,0:06:02.00,signs,,0,0,0,,{=17}{\pos(651.17,288.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1F1C0A&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:01.96,0:06:02.00,signs,,0,0,0,,{=16}{\pos(674.17,391.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1F1C0A&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:01.96,0:06:02.00,signs,,0,0,0,,{=20}{\pos(677.17,505.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H191918&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:01.96,0:06:02.00,signs,,0,0,0,,{=21}{\pos(701.88,610.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H191918&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:01.96,0:06:02.00,signs,,0,0,0,,{=21}{\pos(701.88,610.63)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H191918&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.00,0:06:02.04,signs,,0,0,0,,{=18}{\pos(629.17,227.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H151514&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.00,0:06:02.04,signs,,0,0,0,,{=17}{\pos(651.17,288.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1E1A0A&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.00,0:06:02.04,signs,,0,0,0,,{=16}{\pos(674.17,391.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1E1A0A&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.00,0:06:02.04,signs,,0,0,0,,{=20}{\pos(677.17,505.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H181717&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.00,0:06:02.04,signs,,0,0,0,,{=21}{\pos(701.88,610.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H181717&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.00,0:06:02.04,signs,,0,0,0,,{=21}{\pos(701.88,610.4)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H181717&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.04,0:06:02.09,signs,,0,0,0,,{=18}{\pos(629.18,227.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H141413&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.04,0:06:02.09,signs,,0,0,0,,{=17}{\pos(651.18,288.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1C190A&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.04,0:06:02.09,signs,,0,0,0,,{=16}{\pos(674.18,391.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1C190A&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.04,0:06:02.09,signs,,0,0,0,,{=20}{\pos(677.18,505.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H161615&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.04,0:06:02.09,signs,,0,0,0,,{=21}{\pos(701.9,610.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H161615&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.04,0:06:02.09,signs,,0,0,0,,{=21}{\pos(701.9,610.18)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H161615&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.09,0:06:02.13,signs,,0,0,0,,{=18}{\pos(629.17,226.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H131212&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.09,0:06:02.13,signs,,0,0,0,,{=17}{\pos(651.17,287.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1A1709&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.09,0:06:02.13,signs,,0,0,0,,{=16}{\pos(674.17,390.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H1A1709&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.09,0:06:02.13,signs,,0,0,0,,{=20}{\pos(677.17,504.95)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H151514&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.09,0:06:02.13,signs,,0,0,0,,{=21}{\pos(701.88,609.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H151514&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.09,0:06:02.13,signs,,0,0,0,,{=21}{\pos(701.88,609.94)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H151514&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.13,0:06:02.17,signs,,0,0,0,,{=18}{\pos(629.15,226.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H111111&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.13,0:06:02.17,signs,,0,0,0,,{=17}{\pos(651.15,287.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H181609&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.13,0:06:02.17,signs,,0,0,0,,{=16}{\pos(674.15,390.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H181609&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.13,0:06:02.17,signs,,0,0,0,,{=20}{\pos(677.15,504.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H141313&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.13,0:06:02.17,signs,,0,0,0,,{=21}{\pos(701.86,609.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H141313&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.13,0:06:02.17,signs,,0,0,0,,{=21}{\pos(701.86,609.8)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H141313&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.17,0:06:02.21,signs,,0,0,0,,{=18}{\pos(629.13,226.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H101010&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.17,0:06:02.21,signs,,0,0,0,,{=17}{\pos(651.13,287.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H171408&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.17,0:06:02.21,signs,,0,0,0,,{=16}{\pos(674.13,390.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H171408&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.17,0:06:02.21,signs,,0,0,0,,{=20}{\pos(677.13,504.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H121212&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.17,0:06:02.21,signs,,0,0,0,,{=21}{\pos(701.84,609.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H121212&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.17,0:06:02.21,signs,,0,0,0,,{=21}{\pos(701.84,609.59)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H121212&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.21,0:06:02.25,signs,,0,0,0,,{=18}{\pos(629.12,226.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0F0F0F&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.21,0:06:02.25,signs,,0,0,0,,{=17}{\pos(651.12,287.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H151308&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.21,0:06:02.25,signs,,0,0,0,,{=16}{\pos(674.12,390.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H151308&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.21,0:06:02.25,signs,,0,0,0,,{=20}{\pos(677.12,504.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H111110&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.21,0:06:02.25,signs,,0,0,0,,{=21}{\pos(701.84,609.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H111110&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.21,0:06:02.25,signs,,0,0,0,,{=21}{\pos(701.84,609.34)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H111110&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.25,0:06:02.30,signs,,0,0,0,,{=18}{\pos(629.12,226.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0E0E0E&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.25,0:06:02.30,signs,,0,0,0,,{=17}{\pos(651.12,287.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H131107&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.25,0:06:02.30,signs,,0,0,0,,{=16}{\pos(674.12,390.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H131107&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.25,0:06:02.30,signs,,0,0,0,,{=20}{\pos(677.12,504.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0F0F0F&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.25,0:06:02.30,signs,,0,0,0,,{=21}{\pos(701.83,609.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0F0F0F&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.25,0:06:02.30,signs,,0,0,0,,{=21}{\pos(701.83,609.06)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0F0F0F&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.30,0:06:02.34,signs,,0,0,0,,{=18}{\pos(629.11,225.99)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0D0D0C&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.30,0:06:02.34,signs,,0,0,0,,{=17}{\pos(651.11,286.99)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H111007&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.30,0:06:02.34,signs,,0,0,0,,{=16}{\pos(674.11,389.99)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H111007&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.30,0:06:02.34,signs,,0,0,0,,{=20}{\pos(677.11,503.99)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0E0E0E&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.30,0:06:02.34,signs,,0,0,0,,{=21}{\pos(701.83,608.99)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0E0E0E&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.30,0:06:02.34,signs,,0,0,0,,{=21}{\pos(701.83,608.99)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0E0E0E&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.34,0:06:02.38,signs,,0,0,0,,{=18}{\pos(629.13,225.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0C0B0B&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.34,0:06:02.38,signs,,0,0,0,,{=17}{\pos(651.13,286.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0F0E07&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.34,0:06:02.38,signs,,0,0,0,,{=16}{\pos(674.13,389.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0F0E07&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.34,0:06:02.38,signs,,0,0,0,,{=20}{\pos(677.13,503.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0D0D0C&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.34,0:06:02.38,signs,,0,0,0,,{=21}{\pos(701.85,608.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0D0D0C&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.34,0:06:02.38,signs,,0,0,0,,{=21}{\pos(701.85,608.86)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0D0D0C&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.38,0:06:02.42,signs,,0,0,0,,{=18}{\pos(629.11,225.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0A0A0A&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.38,0:06:02.42,signs,,0,0,0,,{=17}{\pos(651.11,286.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0E0C06&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.38,0:06:02.42,signs,,0,0,0,,{=16}{\pos(674.11,389.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0E0C06&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.38,0:06:02.42,signs,,0,0,0,,{=20}{\pos(677.11,503.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0B0B0B&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.38,0:06:02.42,signs,,0,0,0,,{=21}{\pos(701.83,608.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0B0B0B&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.38,0:06:02.42,signs,,0,0,0,,{=21}{\pos(701.83,608.68)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0B0B0B&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.42,0:06:02.46,signs,,0,0,0,,{=18}{\pos(629.14,225.35)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H090909&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.42,0:06:02.46,signs,,0,0,0,,{=17}{\pos(651.14,286.35)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0C0B06&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.42,0:06:02.46,signs,,0,0,0,,{=16}{\pos(674.14,389.35)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0C0B06&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.42,0:06:02.46,signs,,0,0,0,,{=20}{\pos(677.14,503.35)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0A0A0A&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.42,0:06:02.46,signs,,0,0,0,,{=21}{\pos(701.86,608.35)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0A0A0A&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.42,0:06:02.46,signs,,0,0,0,,{=21}{\pos(701.86,608.35)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0A0A0A&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.46,0:06:02.50,signs,,0,0,0,,{=18}{\pos(629.08,225.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H080808&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.46,0:06:02.50,signs,,0,0,0,,{=17}{\pos(651.08,286.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0A0905&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.46,0:06:02.50,signs,,0,0,0,,{=16}{\pos(674.08,389.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H0A0905&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.46,0:06:02.50,signs,,0,0,0,,{=20}{\pos(677.08,503.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H090908&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.46,0:06:02.50,signs,,0,0,0,,{=21}{\pos(701.8,608.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H090908&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.46,0:06:02.50,signs,,0,0,0,,{=21}{\pos(701.8,608.01)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H090908&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.50,0:06:02.55,signs,,0,0,0,,{=18}{\pos(629.11,225)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H070707&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.50,0:06:02.55,signs,,0,0,0,,{=17}{\pos(651.11,286)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H080805&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.50,0:06:02.55,signs,,0,0,0,,{=16}{\pos(674.11,389)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H080805&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.50,0:06:02.55,signs,,0,0,0,,{=20}{\pos(677.11,503)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H070707&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.50,0:06:02.55,signs,,0,0,0,,{=21}{\pos(701.83,608)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H070707&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.50,0:06:02.55,signs,,0,0,0,,{=21}{\pos(701.83,608)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H070707&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.55,0:06:02.59,signs,,0,0,0,,{=18}{\pos(629.02,224.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H060606&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.55,0:06:02.59,signs,,0,0,0,,{=17}{\pos(651.02,285.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H070605&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.55,0:06:02.59,signs,,0,0,0,,{=16}{\pos(674.02,388.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H070605&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.55,0:06:02.59,signs,,0,0,0,,{=20}{\pos(677.02,502.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H060606&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.55,0:06:02.59,signs,,0,0,0,,{=21}{\pos(701.74,607.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H060606&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.55,0:06:02.59,signs,,0,0,0,,{=21}{\pos(701.74,607.9)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H060606&\blur0.65}Que tal sábado?
 Dialogue: 0,0:06:02.59,0:06:02.63,signs,,0,0,0,,{=18}{\pos(629.2,225.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H050404&\blur0.65}Vamos sair para comer mais vezes.
 Dialogue: 0,0:06:02.59,0:06:02.63,signs,,0,0,0,,{=17}{\pos(651.2,286.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H050504&\blur0.65}Não, eu que agradeço.
 Dialogue: 0,0:06:02.59,0:06:02.63,signs,,0,0,0,,{=16}{\pos(674.2,389.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H050504&\blur0.65}Adoraria sair de novo.
 Dialogue: 0,0:06:02.59,0:06:02.63,signs,,0,0,0,,{=20}{\pos(677.2,503.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H050505&\blur0.65}Será um prazer!
-Dialogue: 0,0:06:02.59,0:06:02.63,signs,,0,0,0,,{=21}{\pos(701.91,608.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H050505&\blur0.65}Que tal Sábado?
+Dialogue: 0,0:06:02.59,0:06:02.63,signs,,0,0,0,,{=21}{\pos(701.91,608.07)\fscx36\fscy36\frz6.484\fax0.05\fnLato\1c&H050505&\blur0.65}Que tal sábado?
 Dialogue: 5,0:06:04.58,0:06:06.56,Default,,0,0,0,,{\i1}Acho que estou ficando maluco.{I think I'm going to lose it.}
 Dialogue: 5,0:06:12.64,0:06:15.22,Default,,0,0,0,,{\i1}Foi a primeira vez que a Akane-san tomou a iniciativa.
 Dialogue: 5,0:06:16.35,0:06:18.65,Default,,0,0,0,,{\i1}Pensando no significado de um beijo?
@@ -1182,7 +1182,7 @@ Dialogue: 5,0:10:21.64,0:10:22.94,Default,,0,0,0,,Me desculpa.
 Dialogue: 5,0:10:25.60,0:10:28.06,Default,,0,0,0,,{\i1}Nós continuamos tendo encontros.
 Dialogue: 5,0:10:28.82,0:10:30.57,Default,,0,0,0,,{\i1}Com hoje, quantas vezes já foram?
 Dialogue: 5,0:10:31.43,0:10:33.40,Default,,0,0,0,,{\i1}Não que eu me importe em lembrar.
-Dialogue: 5,0:10:34.06,0:10:38.09,Default,,0,0,0,,Hoje é Sábado, certo?
+Dialogue: 5,0:10:34.06,0:10:38.09,Default,,0,0,0,,Hoje é sábado, certo?
 Dialogue: 5,0:10:39.41,0:10:41.87,Default,,0,0,0,,Sim, é sim...
 Dialogue: 5,0:10:44.33,0:10:45.98,Default,,0,0,0,,Vou ver os pinguins! {WO MIMASU!}
 Dialogue: 5,0:10:45.98,0:10:46.86,Default,,0,0,0,,Tá.
@@ -1199,7 +1199,7 @@ Dialogue: 5,0:11:18.90,0:11:20.25,Default,,0,0,0,,{\i1}Espera um pouco.
 Dialogue: 5,0:11:20.25,0:11:21.52,Default,,0,0,0,,{\i1}Não é estranho?
 Dialogue: 5,0:11:22.33,0:11:24.59,Default,,0,0,0,,{\i1}Motivo estranho número um:
 Dialogue: 5,0:11:24.59,0:11:29.08,Default,,0,0,0,,{\i1}Nós já dormimos uma vez mas ele não quer de novo. É estranho.
-Dialogue: 5,0:11:29.42,0:11:31.54,Default,,0,0,0,,Porque pinguins são tão fofos?
+Dialogue: 5,0:11:29.42,0:11:31.54,Default,,0,0,0,,Por que pinguins são tão fofos?
 Dialogue: 5,0:11:32.20,0:11:33.95,Default,,0,0,0,,{\i1}Motivo estranho número dois:
 Dialogue: 5,0:11:34.67,0:11:41.62,Default,,0,0,0,,{\i1}Além de tudo, é estranho que nós ainda continuemos indo em encontros como se fosse normal.
 Dialogue: 5,0:11:42.45,0:11:43.99,Default,,0,0,0,,{\i1}Estranho.
@@ -1252,7 +1252,7 @@ Dialogue: 5,0:14:12.55,0:14:13.75,Default,,0,0,0,,Kanai-Sensei.
 Dialogue: 5,0:14:16.13,0:14:17.55,Default,,0,0,0,,É verdade.
 Dialogue: 5,0:14:18.32,0:14:20.86,Default,,0,0,0,,Eu sou uma puta de merda.
 Dialogue: 5,0:14:22.41,0:14:26.68,Default,,0,0,0,,Eu basicamente durmo com qualquer um.
-Dialogue: 5,0:14:26.68,0:14:29.87,Default,,0,0,0,,Eu não sou nem um pouco pura o inocente.
+Dialogue: 5,0:14:26.68,0:14:29.87,Default,,0,0,0,,Eu não sou nem um pouco pura ou inocente.
 Dialogue: 5,0:14:30.58,0:14:34.89,Default,,0,0,0,,Eu não acho que posso corresponder as suas expectativas.
 Dialogue: 5,0:14:35.27,0:14:36.71,Default,,0,0,0,,Então por favor,
 Dialogue: 5,0:14:37.87,0:14:39.98,Default,,0,0,0,,vamos acabar esse encontro aqui.
@@ -1268,7 +1268,7 @@ Dialogue: 5,0:15:08.25,0:15:12.18,Default,,0,0,0,,{\i1}Com o que eu disse até a
 Dialogue: 5,0:15:12.53,0:15:15.50,Default,,0,0,0,,Honestamente acho melhor parar por aqui.
 Dialogue: 5,0:15:15.50,0:15:18.03,Default,,0,0,0,,Bem, é mesmo um adeus.
 Dialogue: 5,0:15:19.28,0:15:22.01,Default,,0,0,0,,{\i1}Pronto, com isso está tudo acabado.
-Dialogue: 5,0:15:22.70,0:15:25.86,Default,,0,0,0,,{\i1}Vou ir pra casa ver TV e mandar uma mensagem para o próxima cara.
+Dialogue: 5,0:15:22.70,0:15:25.86,Default,,0,0,0,,{\i1}Vou ir pra casa, ver TV e mandar uma mensagem para o próximo cara.
 Dialogue: 5,0:15:26.42,0:15:29.82,Default,,0,0,0,,{\i1}Eu vou aproveitar a companhia de um estudante que está apaixonado por mim.
 Dialogue: 5,0:15:30.43,0:15:32.45,Default,,0,0,0,,{\i1}É hora de voltar para essa vida.
 Dialogue: 5,0:15:32.45,0:15:34.28,Default,,0,0,0,,{\i1}Quanto mais cedo melhor.
@@ -1310,7 +1310,7 @@ Dialogue: 5,0:17:37.97,0:17:43.41,Default,,0,0,0,,Acho que eu fico um pouco irri
 Dialogue: 5,0:17:43.89,0:17:45.87,Default,,0,0,0,,{\i1}Poderia ser que essa pessoa...
 Dialogue: 5,0:17:46.19,0:17:48.93,Default,,0,0,0,,Bem, isso nunca aconteceu antes.
 Dialogue: 5,0:17:48.93,0:17:52.60,Default,,0,0,0,,{\i1}...seja muito mais infantil do que eu pensei?
-Dialogue: 5,0:17:57.63,0:18:05.27,Default,,0,0,0,,{\i1}Você nunca vai ouvir as palavras que você quer ouvi dar da pessoa que você mais quer que as diga.
+Dialogue: 5,0:17:57.63,0:18:05.27,Default,,0,0,0,,{\i1}Você nunca vai ouvir as palavras que você quer ouvir dar da pessoa que você mais quer que as diga.
 Dialogue: 5,0:18:05.27,0:18:07.48,Default,,0,0,0,,{\i1}É o que eu penso.
 Dialogue: 5,0:18:08.52,0:18:11.04,Default,,0,0,0,,Eu também penso assim.
 Dialogue: 5,0:18:11.04,0:18:11.88,Default,,0,0,0,,{\i1}Sim.
@@ -1340,7 +1340,7 @@ Dialogue: 5,0:19:30.95,0:19:35.27,Default,,0,0,0,,{\i1}É algo que eu preciso me
 Dialogue: 5,0:19:35.69,0:19:38.48,Default,,0,0,0,,{\i1}Uma voz familiar, um cheiro...
 Dialogue: 5,0:19:38.48,0:19:44.33,Default,,0,0,0,,{\i1}Mesmo nos meus sonhos, ainda tem algo que eu estou escondendo e não consigo deixar ir.{Even in my fantasy, I hid that I couldn't let that go yet.}
 Dialogue: 5,0:19:45.07,0:19:47.21,Default,,0,0,0,,{\i1}Até quando eu vou ter que depender dela?
-Dialogue: 5,0:19:47.84,0:19:48.86,Default,,0,0,0,,{\i1}É a meu última...
+Dialogue: 5,0:19:47.84,0:19:48.86,Default,,0,0,0,,{\i1}É a minha última...
 Dialogue: 5,0:19:50.71,0:19:51.81,Default,,0,0,0,,{\i1}obsessão. {執着 }
 Dialogue: 5,0:20:00.47,0:20:02.44,Default,,0,0,0,,Oh, acordou?
 Dialogue: 5,0:20:02.44,0:20:04.28,Default,,0,0,0,,Você dorme bastante.
@@ -1356,7 +1356,7 @@ Dialogue: 5,0:20:27.34,0:20:28.99,Default,,0,0,0,,Podemos ver isso depois?
 Dialogue: 0,0:20:29.04,0:20:31.46,ep title,,0,0,0,,{\pos(640,80)\fscx250\fscy250\c&HFFFFFF&\blur0.55\fad(730,0)}Mas não vou recuar.
 Dialogue: 5,0:20:30.17,0:20:31.46,Default,,0,0,0,,{\i1}Mas não vou recuar.
 Dialogue: 5,0:20:32.41,0:20:36.39,Default,,0,0,0,,{\i1}Não tenho tempo para ficar lendo o clima e esses sinais.
-Dialogue: 5,0:20:36.39,0:20:38.42,Default,,0,0,0,,{\i1}Por que eu...
+Dialogue: 5,0:20:36.39,0:20:38.42,Default,,0,0,0,,{\i1}Porque eu...
 Dialogue: 5,0:20:40.20,0:20:41.99,Default,,0,0,0,,Sim, eu sou jovem!
 Dialogue: 5,0:20:41.99,0:20:44.09,Default,,0,0,0,,Mesmo que eu tente agir de forma igual,
 Dialogue: 5,0:20:44.71,0:20:46.30,Default,,0,0,0,,eu continuo sendo inexperiente.
@@ -1372,14 +1372,14 @@ Dialogue: 5,0:21:08.48,0:21:14.83,Default,,0,0,0,,{\i1}Eu ainda sou jovem, um id
 Dialogue: 5,0:21:15.64,0:21:20.78,Default,,0,0,0,,{\i1}Por isso que eu ainda não percebi que ela se apega facilmente.{That's why I still didn't realize that she gets caught up easily.}
 Dialogue: 5,0:21:21.65,0:21:24.62,Default,,0,0,0,,{\i1}Ao menos, ainda não tinha percebido naquele momento.
 Dialogue: 5,0:21:24.80,0:21:24.80,Default,chapter,0,0,0,,{ED}
-Dialogue: 0,0:21:25.13,0:21:31.16,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir para o sistema solar,
-Dialogue: 0,0:21:31.67,0:21:37.97,ED,,0,0,0,,{\blur0.5\fad(200,200)}e atravessá-lo em linhas paralelas.
+Dialogue: 0,0:21:25.13,0:21:31.16,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir do sistema solar,
+Dialogue: 0,0:21:31.67,0:21:37.97,ED,,0,0,0,,{\blur0.5\fad(200,200)}e nos unir em linhas paralelas.
 Dialogue: 0,0:21:37.97,0:21:46.47,ED,,0,0,0,,{\blur0.5\fad(200,200)}Esticando para além delas, {Stretching out in parallel lines}
 Dialogue: 0,0:21:47.07,0:21:53.32,ED,,0,0,0,,{\blur0.5\fad(200,200)}assim como as nossas sombras.
 Dialogue: 0,0:21:53.99,0:21:59.01,ED,,0,0,0,,{\blur0.5\fad(200,200)}Você pode culpar o tempo em que vivemos por sua falta de coragem.
 Dialogue: 0,0:21:59.01,0:22:03.38,ED,,0,0,0,,{\blur0.5\fad(200,200)}Procurando por um lugar onde há um desejo de não ir a lugar algum.
 Dialogue: 0,0:22:03.38,0:22:13.62,ED,,0,0,0,,{\blur0.5\fad(200,200)}Eu quero me tornar as palavras que saem dos seus lábios.
-Dialogue: 0,0:22:14.09,0:22:23.97,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir para o sistema solar, e atravessá-lo em linhas paralelas.
+Dialogue: 0,0:22:14.09,0:22:23.97,ED,,0,0,0,,{\blur0.5\fad(200,200)}Vamos fugir do sistema solar, e nos unir em linhas paralelas.
 Dialogue: 0,0:22:23.97,0:22:34.20,ED,,0,0,0,,{\blur0.5\fad(200,200)}Levando junto desejos impossíveis e as nossas tímidas vozes.
 Dialogue: 0,0:22:34.20,0:22:44.12,ED,,0,0,0,,{\blur0.5\fad(200,200)}Quando eu já estiver sem emoções, eu posso começar a imaginar.
 Dialogue: 0,0:22:44.12,0:22:51.06,ED,,0,0,0,,{\blur0.5\fad(200,200)}Eu vou alcançar as nossas sombras
