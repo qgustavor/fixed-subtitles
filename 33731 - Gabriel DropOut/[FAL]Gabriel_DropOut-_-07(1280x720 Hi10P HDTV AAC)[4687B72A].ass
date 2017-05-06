@@ -125,7 +125,7 @@ Dialogue: 0,0:06:25.69,0:06:28.78,Main,Master,0,0,0,,Se precisar de alguém para
 Dialogue: 0,0:06:28.78,0:06:29.41,Main,Vigne,0,0,0,,Hã?
 Dialogue: 0,0:06:29.41,0:06:30.61,Main,Vigne,0,0,0,,Sério?
 Dialogue: 0,0:06:30.88,0:06:34.45,Main,Master,0,0,0,,Apesar de que um velho como eu\Ntalvez não seja de muita ajuda.
-Dialogue: 0,0:06:34.75,0:06:37.57,Main,Vigne,0,0,0,,Não, isso não verdade.
+Dialogue: 0,0:06:34.75,0:06:37.57,Main,Vigne,0,0,0,,Não, isso não é verdade.
 Dialogue: 0,0:06:37.57,0:06:38.84,Main,Vigne,0,0,0,,Hã...
 Dialogue: 0,0:06:38.84,0:06:41.58,Main,Vigne,0,0,0,,Você se importa se eu te fizer uma pergunta?
 Dialogue: 0,0:06:41.86,0:06:42.90,Main,Master,0,0,0,,O que seria?
@@ -195,7 +195,7 @@ Dialogue: 0,0:09:46.72,0:09:47.52,Italics,Vigne narr,0,0,0,,Hã?!
 Dialogue: 0,0:09:47.52,0:09:49.64,Italics,Vigne narr,0,0,0,,Ela ignorou isso?!
 Dialogue: 0,0:09:49.64,0:09:51.77,Italics,Vigne narr,0,0,0,,Mas estou vestida tão mal!
 Dialogue: 0,0:09:52.14,0:09:53.55,Italics,Vigne narr,0,0,0,,Bom, tudo bem.
-Dialogue: 0,0:09:53.55,0:09:55.53,Italics,Vigne narr,0,0,0,,Vou tentar um dos ensinamento do Mestre-san:
+Dialogue: 0,0:09:53.55,0:09:55.53,Italics,Vigne narr,0,0,0,,Vou tentar um dos ensinamentos do Mestre-san:
 Dialogue: 0,0:09:55.88,0:09:57.53,Italics,Vigne narr,0,0,0,,{\i0}aquela{\i1} frase.
 Dialogue: 0,0:09:57.95,0:09:59.10,Main,Vigne,0,0,0,,G-Gab!
 Dialogue: 0,0:09:59.78,0:10:00.78,Main,Gab,0,0,0,,O quê?
