@@ -54,7 +54,7 @@ Dialogue: 0,0:02:54.95,0:02:56.66,Default,,0,0,0,,Tudo bem!
 Dialogue: 0,0:02:56.66,0:02:57.79,Default,,0,0,0,,Se divirta.
 Dialogue: 0,0:02:57.91,0:02:58.60,Default,,0,0,0,,Sim.
 Dialogue: 0,0:02:59.25,0:03:02.69,Italics,,0,0,0,,Conheço a Yumine desde o fundamental.
-Dialogue: 0,0:03:03.75,0:03:08.33,Italics,,0,0,0,,Nos separamos no ensino médio, mas viemos para a mesma escola agora.
+Dialogue: 0,0:03:03.75,0:03:08.33,Italics,,0,0,0,,Nos separamos no primário, mas viemos para a mesma escola agora.
 Dialogue: 0,0:03:08.33,0:03:11.74,Italics,,0,0,0,,Ela é uma amiga preciosa.
 Dialogue: 0,0:03:12.71,0:03:13.75,Default,,0,0,0,,Letras?
 Dialogue: 0,0:03:13.75,0:03:17.03,Default,,0,0,0,,Sim... Até agora, deixo os outros comporem as letras.
@@ -213,7 +213,7 @@ Dialogue: 0,0:11:38.81,0:11:39.93,Default,,0,0,0,,Então olhe para mim.
 Dialogue: 0,0:11:40.45,0:11:42.31,Default,,0,0,0,,Leve as lições, por favor.
 Dialogue: 0,0:11:42.31,0:11:43.89,Default,,0,0,0,,Aonde?
 Dialogue: 0,0:11:43.89,0:11:48.10,Default,,0,0,0,,Viu? Você não estava ouvindo.\N Estou falando da Fuda-san.
-Dialogue: 0,0:11:48.10,0:11:50.18,Default,,0,0,0,,Vocês moram na mesma área, não é?
+Dialogue: 0,0:11:48.10,0:11:50.18,Default,,0,0,0,,Você mora perto dela, não é?
 Dialogue: 0,0:11:50.99,0:11:53.35,Default,,0,0,0,,Fuda Yumine-san...
 Dialogue: 0,0:11:54.64,0:11:57.71,Default,,0,0,0,,Eu era do jardim de infância da Fuda-san...
 Dialogue: 0,0:11:57.92,0:12:02.15,Default,,0,0,0,,Mas ela sempre parecia doente e ia direto à enfermaria.
@@ -303,7 +303,7 @@ Dialogue: 0,0:16:45.97,0:16:49.16,Default,,0,0,0,,Embora seja só durante o recr
 Dialogue: 0,0:16:49.41,0:16:53.28,Default,,0,0,0,,Será que podemos jogar jogos de\N tabuleiro na casa da Yumine-chan?
 Dialogue: 0,0:16:54.93,0:16:57.79,Default,,0,0,0,,Seria um incômodo se todas fôssemos.
 Dialogue: 0,0:16:57.79,0:17:00.97,Default,,0,0,0,,E este jogo foi feito para se jogar com muitas pessoas.
-Dialogue: 0,0:17:00.97,0:17:03.55,Default,,0,0,0,,Não há jogos de tabuleiro para dois jogares?
+Dialogue: 0,0:17:00.97,0:17:03.55,Default,,0,0,0,,Não há jogos de tabuleiro para dois jogadores?
 Dialogue: 0,0:17:03.77,0:17:07.02,Default,,0,0,0,,Shougi? Xadrez?
 Dialogue: 0,0:17:07.02,0:17:09.46,Default,,0,0,0,,Não sei como jogar esses.
 Dialogue: 0,0:17:09.46,0:17:10.65,Default,,0,0,0,,Minha nossa...
@@ -316,7 +316,7 @@ Dialogue: 0,0:17:44.95,0:17:46.58,Default,,0,0,0,,Yumine-chan!
 Dialogue: 0,0:17:49.97,0:17:51.80,Default,,0,0,0,,Vamos jogar!
 Dialogue: 0,0:17:55.09,0:17:58.18,Default,,0,0,0,,Hum... Tenho que jogar o dado mais uma vez?
 Dialogue: 0,0:17:58.18,0:17:59.76,Default,,0,0,0,,E-Espera!
-Dialogue: 0,0:17:59.76,0:18:03.62,Default,,0,0,0,,Eu só perdi cinco rodadas porque fui atingida pela raio!
+Dialogue: 0,0:17:59.76,0:18:03.62,Default,,0,0,0,,Eu só perdi cinco rodadas porque fui atingida pelo raio!
 Dialogue: 0,0:18:03.94,0:18:06.14,Default,,0,0,0,,Agora tenho que voltar oito?!
 Dialogue: 0,0:18:06.14,0:18:08.19,Default,,0,0,0,,C-Como eu saberia?
 Dialogue: 0,0:18:08.19,0:18:12.11,Default,,0,0,0,,Além disso, você quem criou este jogo, não foi?
