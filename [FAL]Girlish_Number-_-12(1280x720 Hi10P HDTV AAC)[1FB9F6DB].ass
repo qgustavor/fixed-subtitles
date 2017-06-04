@@ -333,7 +333,7 @@ Dialogue: 0,0:15:55.32,0:15:56.26,Default,Yae,0,0,0,,Vou me esforçar!
 Dialogue: 0,0:15:56.55,0:15:59.56,Default,Gojo,0,0,0,,Chitose, o seu vai ser apertado, \Nquer mesmo fazer isso?
 Dialogue: 0,0:15:59.93,0:16:01.00,Default,Chit,0,0,0,,Com certeza!
 Dialogue: 0,0:16:26.42,0:16:44.40,Song_title(Ep 12),Sign,0,0,0,,"A Caminho do Amanhã"
-Dialogue: 0,0:16:33.65,0:16:37.45,Default,Chit,0,0,0,,Mercado furtivo, des-ma, marcha morta. {Stealth marketing, des-ma, death march. É o que ela diz, não faz sentido algum, ainda mais em português.}
+Dialogue: 0,0:16:33.65,0:16:37.45,Default,Chit,0,0,0,,Mercado furtivo, marcha mor-, marcha morta.
 Dialogue: 0,0:16:37.75,0:16:41.34,Default,Chit,0,0,0,,O trabalho vem primeiro lugar para uma novata,
 Dialogue: 0,0:16:41.34,0:16:43.89,Default,Chit,0,0,0,,e a atuação em segundo lugar!
 Dialogue: 0,0:16:44.40,0:16:47.39,Default,Gojo,0,0,0,,Chitose, essa não é a letra da nova música.
@@ -345,9 +345,9 @@ Dialogue: 0,0:16:57.10,0:16:58.06,Default,Gojo,0,0,0,,Você se esforçou.
 Dialogue: 0,0:16:59.01,0:16:59.70,Default,Chit,0,0,0,,{Sim.}
 Dialogue: 0,0:17:02.49,0:17:05.11,Default,Gojo,0,0,0,,Amanhã tenho que acordar cedo, então \Nte vejo no ponto de encontro.
 Dialogue: 0,0:17:05.11,0:17:06.04,Default,Chit,0,0,0,,{Certo.}
-Dialogue: 0,0:17:08.34,0:17:14.30,Performance_date(Ep 12),Sign,0,0,0,,[Data da Apresentação]\N12/2/2017 (Sol)\NPortas abrem às: 17:00/Apresentação: 18:00\NMembros do elenco, por favor compareçam às 13:00, incluindo o tempo para a maquiagem.\N{\c&H2F04EE&}*Estamos planejando um pequeno ensaio às 15:00 nesse dia.
+Dialogue: 0,0:17:08.34,0:17:14.30,Performance_date(Ep 12),Sign,0,0,0,,[Data da Apresentação]\N12/2/2017 (Dom)\NPortas abrem às: 17:00/Apresentação: 18:00\NMembros do elenco, por favor compareçam às 13:00, incluindo o tempo para a maquiagem.\N{\c&H2F04EE&}*Estamos planejando um pequeno ensaio às 15:00 nesse dia.
 Dialogue: 0,0:17:12.63,0:17:13.81,Default,Gojo,0,0,0,,Lá vamos nós.
-Dialogue: 0,0:17:16.80,0:17:19.31,Performance_date(Ep 12),Sign,0,0,0,,[Data da Apresentação]\N12/2/2017 (Sol)\NPortas abrem às: 17:00/Apresentação: 18:00\NMembros do elenco, por favor compareçam às 13:00, incluindo o tempo para a maquiagem.\N{\c&H2F04EE&}*Estamos planejando um pequeno ensaio às 15:00 nesse dia.
+Dialogue: 0,0:17:16.80,0:17:19.31,Performance_date(Ep 12),Sign,0,0,0,,[Data da Apresentação]\N12/2/2017 (Dom)\NPortas abrem às: 17:00/Apresentação: 18:00\NMembros do elenco, por favor compareçam às 13:00, incluindo o tempo para a maquiagem.\N{\c&H2F04EE&}*Estamos planejando um pequeno ensaio às 15:00 nesse dia.
 Dialogue: 0,0:17:27.62,0:17:28.52,Default,Chit,0,0,0,,Pyah!
 Dialogue: 0,0:17:31.24,0:17:31.86,Default,Goj,0,0,0,,Sim?
 Dialogue: 0,0:17:32.10,0:17:35.23,Default,Chit,0,0,0,,Gojo-kun, estou com problemas! \NTipo, muitos problemas! Sérios problemas!
@@ -398,7 +398,7 @@ Dialogue: 0,0:19:40.07,0:19:43.03,Default,Chit,0,0,0,,Certo! Acho que não faz d
 Dialogue: 0,0:19:43.80,0:19:44.89,Default,Fan,0,0,0,,Kuzu?
 Dialogue: 0,0:19:44.89,0:19:47.61,Default,Fan,0,0,0,,Ele é o Kuzu, aquele que ferrou tudo?
 Dialogue: 0,0:19:49.61,0:19:50.96,Default,Kuzu,0,0,0,,Pyah!
-Dialogue: 0,0:19:55.56,0:19:57.74,Default,Gojo,0,0,0,,Chitose, não há muito mais\Ntempo até a apresentação.
+Dialogue: 0,0:19:55.56,0:19:57.74,Default,Gojo,0,0,0,,Chitose, não temos muito\Ntempo até a apresentação.
 Dialogue: 0,0:19:57.74,0:19:59.44,Default,Gojo,0,0,0,,Vá fazer sua maquiagem, depois faremos a reunião.
 Dialogue: 0,0:19:59.44,0:20:00.22,Default,Gojo,0,0,0,,Pode fazer isso?
 Dialogue: 0,0:20:00.74,0:20:02.59,Default,Chit,0,0,0,,Quem você pensa que sou?
