@@ -38,7 +38,7 @@ Dialogue: 0,0:00:09.48,0:00:11.24,Default,Sign,0,0,0,,{\pos(406.687,386.445)\frz
 Dialogue: 0,0:00:09.48,0:00:11.24,Default,Sign,0,0,0,,{\frz30.46\frx0\fry4\pos(472.584,339.69)}{\blur1}~
 Dialogue: 0,0:00:14.15,0:00:16.24,Título_One-Room,Sign,0,0,190,,{\fade(400,0)}{\blur2\3c&H6B957D&\c&HCFF3DE&}Episódio 5
 Dialogue: 0,0:00:14.15,0:00:16.24,Título_One-Room,Sign,0,0,90,,{\fade(400,0)\frz359.2\pos(374.357,392.653)}{\blur2\3c&H6B957D&\c&HCFF3DE&},
-Dialogue: 0,0:00:14.15,0:00:16.24,Título_One-Room,Sign,0,0,90,,{\fade(400,0)}{\blur2\3c&H6B957D&\c&HCFF3DE&}A Intervencão Momohara Natsuki
+Dialogue: 0,0:00:14.15,0:00:16.24,Título_One-Room,Sign,0,0,90,,{\fade(400,0)}{\blur2\3c&H6B957D&\c&HCFF3DE&}A Intervencão da Momohara Natsuki
 Dialogue: 0,0:00:24.75,0:00:26.50,Main_One-Room,Natsuki,0,0,0,,Você finalmente abriu a porta.
 Dialogue: 0,0:00:29.21,0:00:31.83,Main_One-Room,Natsuki,0,0,0,,Há quanto tempo, Onii-chan.
 Dialogue: 0,0:00:32.62,0:00:34.76,Main_One-Room,Natsuki,0,0,0,,Por que está com essa cara?
