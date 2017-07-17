@@ -87,7 +87,7 @@ Dialogue: 0,0:06:11.80,0:06:16.64,Falas,Dad,0,0,0,,Se eu usar tudo dos meus sent
 Dialogue: 0,0:06:16.64,0:06:19.46,Falas,Dad,0,0,0,,acredito que eventualmente ele irá me responder.
 Dialogue: 0,0:06:20.76,0:06:22.28,Falas,R,0,0,0,,O que ele está dizendo?
 Dialogue: 0,0:06:22.28,0:06:23.26,Falas,Dad,0,0,0,,Sim.
-Dialogue: 0,0:06:23.91,0:06:29.30,Falas,Dad,0,0,0,,Se você quiser seguir carreira nessa negócio,\N é melhor se lembrar disso.
+Dialogue: 0,0:06:23.91,0:06:29.30,Falas,Dad,0,0,0,,Se você quiser seguir carreira nesse negócio,\N é melhor se lembrar disso.
 Dialogue: 0,0:06:40.20,0:06:42.94,Falas,R,0,0,0,,Pai, eu finalmente o fiz!
 Dialogue: 0,0:06:51.74,0:06:53.95,Falas,R,0,0,0,,Que delícia!
 Dialogue: 0,0:07:07.23,0:07:09.63,Falas,R,0,0,0,,Por alguma razão, estou cambaleando.
@@ -178,7 +178,7 @@ Dialogue: 0,0:12:02.62,0:12:05.02,Falas,I,0,0,0,,Apenas escolhemos o local.
 Dialogue: 0,0:12:06.09,0:12:09.77,Falas,G,0,0,0,,Outra vez ficou mais difícil encontrar o "nó" do Veio de Luz?
 Dialogue: 0,0:12:11.00,0:12:15.49,Falas,I,0,0,0,,Bem, esse Veio de Luz é bem antigo.
 Dialogue: 0,0:12:16.07,0:12:17.22,Falas,I,0,0,0,,Pode ser melhor
-Dialogue: 0,0:12:17.22,0:12:20.78,Falas,I,0,0,0,,pegar a nossa pare de um Veio de Luz diferente na próxima vez.
+Dialogue: 0,0:12:17.22,0:12:20.78,Falas,I,0,0,0,,pegar a nossa parte de um Veio de Luz diferente na próxima vez.
 Dialogue: 0,0:12:22.03,0:12:23.68,Falas,G,0,0,0,,Este está chegando perto do seu fim?
 Dialogue: 0,0:12:24.62,0:12:27.68,Falas,I,0,0,0,,Ele apenas vai se imergir fundo no subsolo.
 Dialogue: 0,0:12:30.03,0:12:34.07,Falas,I,0,0,0,,Tenho certeza que ele retornará \Nassim que recuperar suas forças.
@@ -227,13 +227,13 @@ Dialogue: 0,0:16:11.72,0:16:15.17,Falas,R,0,0,0,,Eu me perguntei o que acontecer
 Dialogue: 0,0:16:16.77,0:16:20.04,Falas,R,0,0,0,,Nossa fábrica tem usado a mesma levedura de sempre,
 Dialogue: 0,0:16:20.04,0:16:23.23,Falas,R,0,0,0,,então eu decidi usar uma levedura selvagem.
 Dialogue: 0,0:16:24.38,0:16:26.57,Falas,R,0,0,0,,Como levedura gostam de açucares,
-Dialogue: 0,0:16:26.57,0:16:29.54,Falas,R,0,0,0,,eu saí por aí coletando leveduras de diferentes néctars.
+Dialogue: 0,0:16:26.57,0:16:29.54,Falas,R,0,0,0,,eu saí por aí coletando leveduras de diferentes néctares.
 Dialogue: 0,0:16:30.83,0:16:33.44,Falas,R,0,0,0,,Cresci elas e então as usei,
 Dialogue: 0,0:16:33.44,0:16:36.42,Falas,R,0,0,0,,mas a maioria não teve nenhum efeito significativo.
 Dialogue: 0,0:16:37.21,0:16:40.92,Falas,R,0,0,0,,Mas... apenas um dos barris...
 Dialogue: 0,0:16:42.81,0:16:46.19,Falas,R,0,0,0,,...produziu um belo saquê com um brilho dourado.
 Dialogue: 0,0:16:49.71,0:16:51.43,Falas,G,0,0,0,,A partir do néctar...
-Dialogue: 0,0:16:52.17,0:16:55.38,Falas,G,0,0,0,,Beber desse saquê \Ncasou algum efeito estranho?
+Dialogue: 0,0:16:52.17,0:16:55.38,Falas,G,0,0,0,,Beber desse saquê \Ncausou algum efeito estranho?
 Dialogue: 0,0:16:55.74,0:16:58.44,Falas,R,0,0,0,,Eu realmente não posso lhe dizer porque \Neu bebi somente um pouquinho dele,
 Dialogue: 0,0:16:58.60,0:17:00.94,Falas,R,0,0,0,,mas acho que eu realmente fiquei um pouco estranho.
 Dialogue: 0,0:17:00.94,0:17:03.95,Falas,R,0,0,0,,Tive alucinações estranhas \Nonde vi cabelos pretos avermelhados...
@@ -262,7 +262,7 @@ Dialogue: 0,0:18:15.70,0:18:19.18,Falas,G,0,0,0,,Isso significa que suas habilid
 Dialogue: 0,0:18:22.26,0:18:23.74,Falas,R,0,0,0,,Posso lhe perguntar uma coisa?
 Dialogue: 0,0:18:23.74,0:18:27.28,Falas,R,0,0,0,,Esse "saquê de luz"... o que é ele?
 Dialogue: 0,0:18:28.53,0:18:30.74,Falas,G,0,0,0,,É a própria forma da vida.
-Dialogue: 0,0:18:31.42,0:18:34.29,Falas,G,0,0,0,,É uma panacéia para aqueles que sofrem \Nde dores causadas por mushis.
+Dialogue: 0,0:18:31.42,0:18:34.29,Falas,G,0,0,0,,É uma panaceia para aqueles que sofrem \Nde dores causadas por mushis.
 Dialogue: 0,0:18:34.99,0:18:36.74,Falas,R,0,0,0,,O que são os "mushis"?
 Dialogue: 0,0:18:36.74,0:18:38.02,Falas,G,0,0,0,,Bom...
 Dialogue: 0,0:18:38.02,0:18:40.54,Falas,G,0,0,0,,Eles são parte do que forma esse mundo.
@@ -289,7 +289,7 @@ Dialogue: 0,0:19:55.24,0:19:57.87,Pensamentos,G,0,0,0,,Se vocês apenas vendê-l
 Dialogue: 0,0:19:58.55,0:20:02.25,Pensamentos,G,0,0,0,,O problema aquela hora é que vocês estavam \Nnegociando ele como saquê da luz.
 Dialogue: 0,0:20:02.25,0:20:04.38,Pensamentos,G,0,0,0,,Depende de como você usa ele.
 Dialogue: 0,0:20:04.88,0:20:06.61,Pensamentos,R,0,0,0,,E como você vai usar ele?
-Dialogue: 0,0:20:06.87,0:20:08.88,Pensamentos,G,0,0,0,,Bem, de várias maneiras diferente.
+Dialogue: 0,0:20:06.87,0:20:08.88,Pensamentos,G,0,0,0,,Bem, de várias maneiras diferentes.
 Dialogue: 0,0:20:09.46,0:20:11.39,Pensamentos,G,0,0,0,,Existem casos que podem ser resolvidos
 Dialogue: 0,0:20:11.39,0:20:13.66,Pensamentos,G,0,0,0,,tornando o invisível visível.
 Dialogue: 0,0:20:18.07,0:20:19.53,Falas,Dad,0,0,0,,Entendo.
