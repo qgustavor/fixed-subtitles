@@ -1,7 +1,8 @@
-
 # Contributing
 
 I recommend proposing changes via pull requests so your name will be stored in the contributors page, also creating a GitHub account is quite easy. Finally, please use a spell checker before submitting it.
+
+Any fix is accepted, even the smallest ones: not fixing small errors will make those accumulate.  But, if possible, try to merge small errors in a single commit to make the contribution review easier.
 
 When submitting a new anime commit first the original file, then the fix in other commit, so it's possible to check changes. In the first commit use the the MyAnimeList ID and episode number as the title, and in the description put the the anime and translation details. Check [this example commit](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). For other commits put "Fixed [Anime ID][Episodes]: [Anime Title]" in title, then describe what was changed, using the same language from the translation.
 
@@ -28,6 +29,8 @@ We used to accept fixed for videos without published scripts because we now thin
 # Como contribuir
 
 Recomendo que enviem mudanças via *pull requests* por que assim seu nome aparecerá na página de contribuidores, além disso criar uma conta no GitHub é bem fácil. Finalmente, por favor use um corretor ortográfico antes de enviar.
+
+Qualquer correção é aceita, por mais pequena que seja: deixar de corrigir pequenos erros só contribui para que eles se acumulem. Porém, se possível, una erros pequenos em um único commit para facilitar a revisão das contribuições.
 
 Ao enviar um novo anime primeiro faça um *commit* do arquivo original, então outro com a correção, de modo que seja possível verificar as mudanças. No primeiro *commit* use o ID do MyAnimeList e o número do episódio como título, e coloque informações do anime e da tradução na descrição. Olhe [esse *commit* de exemplo](https://github.com/qgustavor/fixed-subtitles/commit/3ea112e5232da0f8dbbc664d6fc2b20bd539ca0a). Para os outros commits coloque "Fixed [ID do Anime][Episódios]: [Nome do Anime]" no título e depois descreva o que foi alterado na língua que foi usada na tradução.
 
