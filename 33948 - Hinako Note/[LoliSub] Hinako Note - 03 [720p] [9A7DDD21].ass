@@ -100,7 +100,7 @@ Dialogue: 0,0:03:40.41,0:03:41.53,Main Dialogue,Girl,0,0,0,,Chiaki-chan!
 Dialogue: 0,0:03:42.48,0:03:43.91,Main Dialogue,Girl,0,0,0,,Olhe isso.
 Dialogue: 0,0:03:46.48,0:03:48.26,Main Dialogue,Chiaki,0,0,0,,O que tem isso?
 Dialogue: 0,0:03:48.26,0:03:52.80,Main Dialogue,Girl,0,0,0,,Certo, todos os seus fãs do clube de teatro estão ansiosos para ver você,, {## english}
-Dialogue: 0,0:03:52.80,0:03:55.02,Main Dialogue,Girl,0,0,0,,então eu passei as férias inteira preparando isso! {## english}
+Dialogue: 0,0:03:52.80,0:03:55.02,Main Dialogue,Girl,0,0,0,,então eu passei as férias inteiras preparando isso! {## english}
 Dialogue: 0,0:03:56.10,0:03:58.41,Main Dialogue,Girl,0,0,0,,Sabe, como as atividades estão suspensas,
 Dialogue: 0,0:03:58.41,0:04:01.58,Main Dialogue,,0,0,0,,nós não podemos ver você no palco, não é?
 Dialogue: 0,0:04:01.58,0:04:02.34,Main Dialogue,Chiaki,0,0,0,,Sim...
@@ -185,7 +185,7 @@ Dialogue: 0,0:07:52.61,0:07:54.70,Main Dialogue,Yua,0,0,0,,Conto com você!
 Dialogue: 0,0:07:55.20,0:07:57.45,Main Dialogue,Yua,0,0,0,,Bem, com licença!
 Dialogue: 0,0:08:00.35,0:08:03.78,Main Dialogue,Chiaki,0,0,0,,Hã? Eu fiz algo de errado?
 Dialogue: 0,0:08:03.78,0:08:06.64,Main Dialogue,Kuina,0,0,0,,Melhor que isso, você salvou a Hina-chan.
-Dialogue: 0,0:08:19.77,0:08:23.30,Main Dialogue,Hinako,0,0,0,,O café que você faz é delicioso, Mayu-chan.
+Dialogue: 0,0:08:19.77,0:08:23.30,Main Dialogue,Hinako,0,0,0,,O café que você fez é delicioso, Mayu-chan.
 Dialogue: 0,0:08:23.30,0:08:24.23,Main Dialogue,Mayuki,0,0,0,,Obrigada.
 Dialogue: 0,0:08:24.76,0:08:28.88,Main Dialogue,Mayuki,0,0,0,,A propósito, eu ouvi que vocês\N duas se juntaram ao clube de teatro.
 Dialogue: 0,0:08:28.88,0:08:29.72,Main Dialogue,Both,0,0,0,,Sim!
@@ -204,10 +204,10 @@ Dialogue: 0,0:09:03.52,0:09:08.57,Main Dialogue,Kuina,0,0,0,,Tem outro obstácul
 Dialogue: 0,0:09:09.34,0:09:10.44,Main Dialogue,Hinako,0,0,0,,Obstáculo?
 Dialogue: 0,0:09:11.01,0:09:14.17,Main Dialogue,Kuina,0,0,0,,Resumindo, se acostumar a ficar \Nfrente a frente com as pessoas!
 Dialogue: 0,0:09:14.75,0:09:16.32,Main Dialogue,Hinako,0,0,0,,Frente a frente...
-Dialogue: 0,0:09:17.35,0:09:21.12,Main Dialogue,Mayuki,0,0,0,,Então porque não trabalha \Nmeio período aqui na cafeteria?
+Dialogue: 0,0:09:17.35,0:09:21.12,Main Dialogue,Mayuki,0,0,0,,Então por que não trabalha \Nmeio período aqui na cafeteria?
 Dialogue: 0,0:09:21.12,0:09:23.96,Main Dialogue,Chiaki,0,0,0,,Parece uma boa ideia.\NAfinal, tem contato com as pessoas.{That sounds good. It's a \Nservice industry, after all.}
 Dialogue: 0,0:09:23.96,0:09:25.21,Main Dialogue,Mayuki,0,0,0,,Certo, decidido!
-Dialogue: 0,0:09:25.57,0:09:29.49,Main Dialogue,Mayuki,0,0,0,,Hina-chan, por que não experimenta \Ntrabalhar aqui no próximo dia sem aula.?{oyasumi no hi ni} {dia de descaçao}{sábado?}
+Dialogue: 0,0:09:25.57,0:09:29.49,Main Dialogue,Mayuki,0,0,0,,Hina-chan, por que não experimenta \Ntrabalhar aqui no próximo dia sem aula?{oyasumi no hi ni} {dia de descaçao}{sábado?}
 Dialogue: 0,0:09:29.49,0:09:31.34,Main Dialogue,Hinako,0,0,0,,Ah... ah, bem...
 Dialogue: 0,0:09:31.34,0:09:34.09,Main Dialogue,Mayuki,0,0,0,,Tudo bem! Deixe tudo comigo!
 Dialogue: 0,0:09:35.09,0:09:37.30,Main Dialogue,Hinako,0,0,0,,E-Ei...
@@ -232,14 +232,14 @@ Dialogue: 0,0:10:56.35,0:10:58.40,Main Dialogue,Teacher,0,0,0,,Sakuragi-san, sen
 Dialogue: 0,0:10:58.40,0:11:00.05,Main Dialogue,Hinako,0,0,0,,T-Tá...
 Dialogue: 0,0:11:00.05,0:11:03.46,Main Dialogue,Yua,0,0,0,,"Isso cura dor de estômago, \Ne faz as feridas desaparecerem.
 Dialogue: 0,0:11:03.46,0:11:05.30,Main Dialogue,Yua,0,0,0,,Na entrada de Namari no Yu,
-Dialogue: 0,0:11:05.30,0:11:10.31,Main Dialogue,,0,0,0,,tem uma placa que diz: \N"Ursos Namekoto vivem aqui.'"
+Dialogue: 0,0:11:05.30,0:11:10.31,Main Dialogue,,0,0,0,,tem uma placa que diz: \N'Ursos Namekoto vivem aqui.'"
 Dialogue: 0,0:11:05.30,0:11:10.31,Italics Dialogue Top,Hinako,0,0,0,,Aquela garota... é aquela assustadora?
 Dialogue: 0,0:11:14.21,0:11:15.70,Main Dialogue,Teacher,0,0,0,,Essa não...
 Dialogue: 0,0:11:18.11,0:11:19.12,Main Dialogue,Teacher,0,0,0,,Sakuragi-san.
 Dialogue: 0,0:11:19.12,0:11:20.37,Main Dialogue,Hinako,0,0,0,,S-Sim?!
 Dialogue: 0,0:11:20.37,0:11:24.07,Main Dialogue,Teacher,0,0,0,,Pode me ajudar a carregar essas cópias?{## english}
 Dialogue: 0,0:11:28.00,0:11:29.33,Main Dialogue,Yua,0,0,0,,A Yua carrega!
-Dialogue: 0,0:11:42.33,0:11:44.77,Main Dialogue,Teacher,0,0,0,,Então.. Sakuragi-san.
+Dialogue: 0,0:11:42.33,0:11:44.77,Main Dialogue,Teacher,0,0,0,,Então... Sakuragi-san.
 Dialogue: 0,0:11:44.77,0:11:46.61,Main Dialogue,Hinako,0,0,0,,S-Sim! Bem...
 Dialogue: 0,0:11:46.61,0:11:48.21,Main Dialogue,Yua,0,0,0,,A Yua responde!
 Dialogue: 0,0:11:49.13,0:11:49.98,Main Dialogue,Girl,0,0,0,,Sakuragi-san.
