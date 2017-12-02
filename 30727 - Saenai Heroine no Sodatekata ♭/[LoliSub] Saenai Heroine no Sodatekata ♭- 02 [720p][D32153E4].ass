@@ -27,11 +27,12 @@ Style: DefaultAlt Saeina,LTFinnegan Medium,50,&H00FFFFFF,&H000000FF,&H00020367,&
 Style: OP,Chinacat,45,&H00A8A6A4,&H000000FF,&H00FFFFFF,&H85000000,0,0,0,0,100,100,0,0,1,2.5,0,3,30,30,20,1
 Style: signs,KBPlanetEarth,30,&H00FFFFFF,&H000000FF,&H00200500,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,120,120,38,1
 Style: ED,Chocolate Covered Raindrops Bol,55,&H00FFFFFF,&H000000FF,&H00320E41,&H00000000,0,0,0,0,100,100,0,0,1,4,0,9,10,30,25,1
+Style: ED - Romaji,Chocolate Covered Raindrops Bol,55,&H00FFFFFF,&H000000FF,&H00320E41,&H00000000,0,0,0,0,100,100,0,0,1,4,0,1,10,30,25,1
 Style: Titulo,DK Crayon Crumble,24,&H00FFFFFF,&H000000FF,&H00200500,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,120,120,38,1
 Style: OP - romaji,Chinacat,45,&H00A8A6A4,&H000000FF,&H00FFFFFF,&H85000000,0,0,0,0,100,100,0,0,1,2.5,0,9,30,30,20,1
 Style: Loli_Gothic_style,DK Crayon Crumble,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Bus Boarad,Aozora Mincho Regular,60,&H00FFFEFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Eien stinx,KBPlanetEarth,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Eien Stinx,KBPlanetEarth,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: Title,FOT-Humming Std D EN,42,&H007675FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2.8,0,4,0,0,0,1
 
 [Events]
@@ -140,7 +141,7 @@ Dialogue: 10,0:02:59.82,0:03:01.53,Default Saenai,,0,0,0,,e isso vai além do ra
 Dialogue: 10,0:03:02.17,0:03:06.30,Default Saenai,,0,0,0,,Ao menos se comporte até \Neu terminar de ler este volume.
 Dialogue: 10,0:03:06.30,0:03:08.79,Default Saenai,,0,0,0,,Eu não quero atrapalhar os outros que estão aqui.
 Dialogue: 10,0:03:08.79,0:03:11.50,Default Saenai,,0,0,0,,É mesmo. Aqui é uma livraria, não é?
-Dialogue: 10,0:03:11.50,0:03:15.34,Default Saenai,,0,0,0,,Não é um lugar para as pessoas virem ler livros de graças, mas para comprá-los, não é?
+Dialogue: 10,0:03:11.50,0:03:15.34,Default Saenai,,0,0,0,,Não é um lugar para as pessoas virem ler livros de graça, mas para comprá-los, não é?
 Dialogue: 10,0:03:18.05,0:03:19.74,Default Saenai,,0,0,0,,Fazer o quê...
 Dialogue: 10,0:03:20.38,0:03:23.61,Default Saenai,,0,0,0,,Então, espere aqui até eu ir comprar estes livros.
 Dialogue: 10,0:03:23.61,0:03:27.01,Default Saenai,,0,0,0,,Não vou mencionar que você \Ndeveria ter feito isso desde o início.{>>>>>>>>}{except he did}{<<<<<<<<}
@@ -173,7 +174,7 @@ Dialogue: 10,0:04:39.83,0:04:42.97,Default Saenai,,0,0,0,,Por favor, não tente 
 Dialogue: 10,0:04:43.56,0:04:45.76,Default Saenai,,0,0,0,,Só mais um pouco e eu termino de ler.
 Dialogue: 10,0:04:45.76,0:04:48.71,Default Saenai,,0,0,0,,Sinta-se a vontade para comer \No que quiser enquanto isso, Rinri-kun.
 Dialogue: 10,0:04:48.71,0:04:49.52,Default Saenai,,0,0,0,,Sim.
-Dialogue: 0,0:05:00.48,0:05:03.11,Loli_Gothic_style,,0,0,0,,{\blur0.6\fs20\c&H0F0C0F&\frz-11.58\fax0.1\b1\fnKozuka Gothic Mikakunin\pos(498.525,507.517)}N{*\frz348.219\fax0.094}i{*\frz348.018\fax0.087}s{*\frz347.817\fax0.081}e{*\frz347.616\fax0.075}m{*\frz347.415\fax0.068}o{*\frz347.215\fax0.062}n{*\frz347.014\fax0.055}o{*\frz346.813\fax0.049}g{*\frz346.612\fax0.043}a{*\frz346.411\fax0.036}t{*\frz346.21\fax0.03}a{*\frz346.009\fax0.024}r{*\frz345.808\fax0.017}i {*\frz345.406\fax0.005}({*\frz345.205\fax-0.002}P{*\frz345.005\fax-0.008}a{*\frz344.804\fax-0.015}r{*\frz344.603\fax-0.021}t {*\frz344.201\fax-0.034}2{\frz-16\fax-0.04})
+Dialogue: 0,0:05:00.48,0:05:03.11,Loli_Gothic_style,,0,0,0,,{\blur0.6\fs20\c&H0F0C0F&\frz-11.58\fax0.1\b1\fnKozuka Gothic Mikakunin\pos(498.525,507.517)}N{*\frz348.219\fax0.094}i{*\frz348.018\fax0.087}s{*\frz347.817\fax0.081}e{*\frz347.616\fax0.075}m{*\frz347.415\fax0.068}o{*\frz347.215\fax0.062}n{*\frz347.014\fax0.055}o{*\frz346.813\fax0.049}g{*\frz346.612\fax0.043}a{*\frz346.411\fax0.036}t{*\frz346.21\fax0.03}a{*\frz346.009\fax0.024}r{*\frz345.808\fax0.017}i {*\frz345.406\fax0.005}({*\frz345.205\fax-0.002}P{*\frz345.005\fax-0.008}a{*\frz344.804\fax-0.015}r{*\frz344.603\fax-0.021}te {*\frz344.201\fax-0.034}2{\frz-16\fax-0.04})
 Dialogue: 0,0:05:00.48,0:05:03.11,Loli_Gothic_style,,0,0,0,,{\blur0.8\fs20\c&H0F0C0F&\b1\fnKozuka Gothic Mikakunin\fax-0.01\frz339.8\pos(642.618,554.546)}Po{*\frz339.4\fax-0.013}r {*\frz338.6\fax-0.02}N{*\frz338.2\fax-0.023}i{*\frz337.8\fax-0.027}s{*\frz337.4\fax-0.03}i{*\frz337\fax-0.033}o {*\frz336.2\fax-0.04}I{*\frz335.8\fax-0.043}s{*\frz335.4\fax-0.047}i{\frz-25\fax-0.05}n
 Dialogue: 10,0:05:05.74,0:05:07.37,Default Saenai,,0,0,0,,Ei, Utaha-senpai.
 Dialogue: 10,0:05:07.37,0:05:08.60,Default Saenai,,0,0,0,,O quê?
@@ -296,7 +297,7 @@ Dialogue: 10,0:10:17.09,0:10:21.22,Default Saenai,,0,0,0,,A que eu gostaria de i
 Dialogue: 10,0:10:21.22,0:10:25.42,Default Saenai,,0,0,0,,mas eu vou ter que me separar da minha família e viver sozinha parece um saco.
 Dialogue: 10,0:10:25.42,0:10:30.22,Default Saenai,,0,0,0,,Embora eu não diga que não tenho \Ninteresse na libertada que isso implica.
 Dialogue: 10,0:10:32.41,0:10:34.24,Default Saenai,,0,0,0,,Então, Rinri-kun?
-Dialogue: 10,0:10:40.66,0:10:43.03,Default Saenai,,0,0,0,,Porque parece tão frustrado? {Why do you seem so flustered?}{"worried" -> "flustered"}
+Dialogue: 10,0:10:40.66,0:10:43.03,Default Saenai,,0,0,0,,Por que parece tão frustrado? {Why do you seem so flustered?}{"worried" -> "flustered"}
 Dialogue: 10,0:10:44.53,0:10:46.23,Default Saenai,,0,0,0,,Não ria de mim assim.{this sounds a bit weird... maybe "Don't tease me", or... well, maybe I'll revisit it after I see your opinion}
 Dialogue: 10,0:10:50.31,0:10:51.29,Default Saenai,,0,0,0,,Sim.
 Dialogue: 10,0:10:51.29,0:10:52.52,Default Saenai,,0,0,0,,Ei.
@@ -322,9 +323,9 @@ Dialogue: 10,0:11:34.81,0:11:37.74,Default Saenai,,0,0,0,,Acho que já terminamo
 Dialogue: 10,0:11:37.74,0:11:42.59,Default Saenai,,0,0,0,,Fora isso, é certo ficarmos fazendo algo que poderia ser considerado "perseguição"...
 Dialogue: 10,0:11:42.59,0:11:43.84,Default Saenai,,0,0,0,,Do que está falando?!
 Dialogue: 10,0:11:43.84,0:11:47.29,Default Saenai,,0,0,0,,Ainda não sabemos o que\N ela pode tentar fazer com ele!
-Dialogue: 10,0:11:47.29,0:11:49.81,Default Saenai,,0,0,0,,Isso pode acabar com o nisso{\i1} circle{\i0}!{ This could tear our whole circle apart!}{THE WHOLE CICLE}{:^)}
+Dialogue: 10,0:11:47.29,0:11:49.81,Default Saenai,,0,0,0,,Isso pode acabar com o nosso {\i1}circle{\i0}!{ This could tear our whole circle apart!}{THE WHOLE CICLE}{:^)}
 Dialogue: 10,0:11:49.81,0:11:53.02,Default Saenai,,0,0,0,,A Kasumigaoka-senpai me \Nmandou uma mensagem a pouco dizendo
-Dialogue: 0,0:11:53.02,0:11:55.65,Default Saenai,,0,0,0,,para nãos nos preocuparmos\N porque ela não vai fazer nada hoje.
+Dialogue: 0,0:11:53.02,0:11:55.65,Default Saenai,,0,0,0,,para não nos preocuparmos\N porque ela não vai fazer nada hoje.
 Dialogue: 10,0:11:58.37,0:12:00.69,Default Saenai,,0,0,0,,Bem, o meu trem é por aqui.
 Dialogue: 10,0:12:02.40,0:12:03.68,Default Saenai,,0,0,0,,Utaha-senpai!
 Dialogue: 10,0:12:06.83,0:12:10.62,Default Saenai,,0,0,0,,Eu acho que é melhor você \Nficar aqui do que ir para Kansai.
@@ -346,7 +347,7 @@ Dialogue: 10,0:13:25.14,0:13:26.64,Default Saenai,,0,0,0,,S-Senpai...
 Dialogue: 10,0:13:26.64,0:13:28.75,Default Saenai,,0,0,0,,Eu quero que você decida.
 Dialogue: 10,0:13:28.75,0:13:31.95,Default Saenai,,0,0,0,,O roteiro de antes, ou este revisado.
 Dialogue: 10,0:13:32.36,0:13:33.99,Default Saenai,,0,0,0,,Qual você vai escolher?
-Dialogue: 10,0:13:35.75,0:13:39.33,Default Saenai,,0,0,0,,E qual universidade e devo escolher?
+Dialogue: 10,0:13:35.75,0:13:39.33,Default Saenai,,0,0,0,,E qual universidade eu devo escolher?
 Dialogue: 10,0:13:41.43,0:13:43.71,Default Saenai,,0,0,0,,Você precisa ler.
 Dialogue: 10,0:13:44.22,0:13:46.31,Default Saenai,,0,0,0,,E tem que decidir.
 Dialogue: 10,0:13:47.10,0:13:49.47,Default Saenai,,0,0,0,,Você não é apenas um fã agora.
@@ -354,7 +355,7 @@ Dialogue: 10,0:13:50.46,0:13:52.02,Default Saenai,,0,0,0,,Você é nosso diretor
 Dialogue: 10,0:14:07.04,0:14:09.17,Default Saenai,,0,0,0,,Será que ele não está?
 Dialogue: 10,0:14:09.17,0:14:12.14,Default Saenai,,0,0,0,,Nós deveríamos {\i1}estar{\i0} aqui às 10h, certo?
 Dialogue: 10,0:14:12.14,0:14:15.13,Default Saenai,,0,0,0,,N-Não e diga que ele não \Nvoltou pra casa desde ontem a noite!
-Dialogue: 10,0:14:15.13,0:14:18.33,Default Saenai,,0,0,0,,Eles deve estar tomando café em um quarto depois de observar o nascer do sol?!
+Dialogue: 10,0:14:15.13,0:14:18.33,Default Saenai,,0,0,0,,Eles devem estar tomando café em um quarto depois de observar o nascer do sol?!
 Dialogue: 10,0:14:18.59,0:14:19.88,Default Saenai,,0,0,0,,Bem, Eriri,
 Dialogue: 10,0:14:19.88,0:14:23.81,Default Saenai,,0,0,0,,ter uma imaginação fértil pode ser bom para um autor,
 Dialogue: 10,0:14:23.81,0:14:29.34,Default Saenai,,0,0,0,,mas é um pouco problemático e problemático aguentar todas essas suas desilusões.
@@ -370,7 +371,7 @@ Dialogue: 10,0:14:53.26,0:14:55.70,Default Saenai,,0,0,0,,Megumi, você...{I thi
 Dialogue: 10,0:15:05.39,0:15:07.32,Default Saenai,,0,0,0,,Bem...
 Dialogue: 10,0:15:07.32,0:15:08.38,Default Saenai,,0,0,0,,Ei, oi...
 Dialogue: 10,0:15:08.82,0:15:10.66,Default Saenai,,0,0,0,,Vocês vieram,
-Dialogue: 10,0:15:10.66,0:15:13.64,Default Saenai,,0,0,0,,Você está chorando ou \Nnos cumprimentando! Se decida!
+Dialogue: 10,0:15:10.66,0:15:13.64,Default Saenai,,0,0,0,,Você está chorando ou \Nnos cumprimentando? Se decida!
 Dialogue: 1,0:15:13.64,0:15:16.64,Loli_Gothic_style,,0,0,500,,{\fs80\blur0.6\c&H4F4D50&\fnKozuka Gothic Pro M - ENG\pos()\b0}Rota da Meguri (Ruri), Segundo Versão
 Dialogue: 1,0:15:13.64,0:15:16.64,Loli_Gothic_style,,0,0,200,,{\fs80\blur0.6\c&H4F4D50&\fnKozuka Gothic Pro M - ENG\pos()\b0} Kasumi Utako
 Dialogue: 10,0:15:17.02,0:15:18.52,Default Saenai,,0,0,0,,O que é isso?
@@ -401,10 +402,10 @@ Dialogue: 10,0:16:15.91,0:16:17.70,Default Saenai,,0,0,0,,Sim! Sim! Sim! Sim! Si
 Dialogue: 10,0:16:16.37,0:16:18.20,DefaultAlt Saeina,,0,0,0,,Você está empolgado demais.
 Dialogue: 10,0:16:18.43,0:16:22.00,Default Saenai,,0,0,0,,Mas a felicidade deles não \Ncontinuou por muito tempo.
 Dialogue: 10,0:16:22.00,0:16:24.33,Default Saenai,,0,0,0,,Para poder salvar este mundo\N que está se desintegrando,
-Dialogue: 10,0:16:24.33,0:16:27.30,Default Saenai,,0,0,0,,eles precisam do poder adormecido dentro da Ruri para destruir os demônio.{they needed the power within Ruri to destroy the demons.}{adormecido é cool}
+Dialogue: 10,0:16:24.33,0:16:27.30,Default Saenai,,0,0,0,,eles precisam do poder adormecido dentro da Ruri para destruir os demônios.{they needed the power within Ruri to destroy the demons.}{adormecido é cool}
 Dialogue: 10,0:16:27.30,0:16:31.66,Default Saenai,,0,0,0,,Mas ativando esse poder as\N memórias de Ruri vão ser apagadas! {##sobre a Ruri?}
 Dialogue: 10,0:16:31.66,0:16:36.02,Default Saenai,,0,0,0,,Resumindo, ele tem que escolher \Nentre o mundo e a irmãzinha dele.
-Dialogue: 10,0:16:36.02,0:16:40.90,Default Saenai,,0,0,0,,Bem, qual o sentido de ter uma\N irmã se o mundo vai ser destruído
+Dialogue: 10,0:16:36.02,0:16:40.90,Default Saenai,,0,0,0,,Bem, qual o sentido de ter uma\N irmã se o mundo vai ser destruído?
 Dialogue: 10,0:16:40.90,0:16:44.13,Default Saenai,,0,0,0,,Katou, você não está qualificada para comentar o gênero Tipos de Mundo!{you are not qualified to\N comment on the World-type genre!}{"you have no right" -> "you're not qualified"} {##repensar}{fala rápido d+ esse viado}
 Dialogue: 10,0:16:44.13,0:16:47.86,Default Saenai,,0,0,0,,Ah, tá... eu nunca ouvi falar nisso, então tanto faz.
 Dialogue: 10,0:16:48.30,0:16:50.63,Default Saenai,,0,0,0,,E finalmente, durante a batalha final,
@@ -427,7 +428,7 @@ Dialogue: 10,0:17:36.81,0:17:38.38,Default Saenai,,0,0,0,,Eu gostei do primeiro 
 Dialogue: 10,0:17:38.38,0:17:40.04,Default Saenai,,0,0,0,,mas esse é bem interessante.
 Dialogue: 10,0:17:40.04,0:17:40.62,Default Saenai,,0,0,0,,Não é?!
 Dialogue: 10,0:17:40.96,0:17:42.74,Default Saenai,,0,0,0,,Sim, realmente me comoveu.
-Dialogue: 10,0:17:43.24,0:17:47.92,Default Saenai,,0,0,0,,Eu poderia ter chorado seu eu estivesse lendo sozinha sem comentário e gritos.
+Dialogue: 10,0:17:43.24,0:17:47.92,Default Saenai,,0,0,0,,Eu poderia ter chorado se eu estivesse lendo sozinha sem comentário e gritos.
 Dialogue: 10,0:17:47.92,0:17:49.50,Default Saenai,,0,0,0,,Você também chorou, não foi, Eriri?
 Dialogue: 10,0:17:49.50,0:17:52.70,Default Saenai,,0,0,0,,Este é um verdadeiro representante\N do apóstolo do amor trágico, {truly representative of the apostle of tragic love,}
 Dialogue: 10,0:17:52.70,0:17:56.22,Default Saenai,,0,0,0,,O mestre das histórias de partir o coração, \NKasumi Utako—Kasumigaoka Utaha-senpai!{together with the  above line: "A work truly representing that apostle of tragic love, that  master of the heartrending story, the novelist Kasumi Utako,  Kasumigaoka Utaha-senpai—"}
@@ -492,7 +493,7 @@ Dialogue: 10,0:20:08.01,0:20:10.08,Default Saenai,,0,0,0,,Por que você estava e
 Dialogue: 10,0:20:10.08,0:20:11.60,Default Saenai,,0,0,0,,I-Isso...
 Dialogue: 10,0:20:12.35,0:20:13.59,Default Saenai,,0,0,0,,Bem...
 Dialogue: 10,0:20:13.59,0:20:16.82,Default Saenai,,0,0,0,,Isso! Eu estava passeando com a Megumi, não é óbvio!
-Dialogue: 10,0:20:16.82,0:20:19.61,Default Saenai,,0,0,0,,O que é isso e porque parece\N que você acabou de inventar?!
+Dialogue: 10,0:20:16.82,0:20:19.61,Default Saenai,,0,0,0,,O que é isso e por que parece\N que você acabou de inventar?!
 Dialogue: 10,0:20:19.61,0:20:21.40,Default Saenai,,0,0,0,,Não foi isso, Megumi!
 Dialogue: 10,0:20:21.40,0:20:25.32,Default Saenai,,0,0,0,,Você só precisa dizer \N"Ah, isso mesmo," como sempre diz!
 Dialogue: 10,0:20:25.32,0:20:30.87,Default Saenai,,0,0,0,,Ah, se importam de fazer menos barulho\NEu estou tentando jogar um jogo agora.
@@ -515,38 +516,38 @@ Dialogue: 10,0:21:11.62,0:21:12.54,Default Saenai,,0,0,0,,O que foi,
 Dialogue: 10,0:21:13.14,0:21:14.46,Default Saenai,,0,0,0,,Izumi?
 Dialogue: 10,0:21:15.96,0:21:16.99,Default Saenai,,0,0,0,,Frio.
 Dialogue: 10,0:21:17.72,0:21:20.09,Default Saenai,,0,0,0,,Quer que e vá comprar soba de feijão vermelho?{Should I go buy us some hot red bean soup?}{it's actually "hot red bean soup" [https://en.wikipedia.org/wiki/Red_bean_soup#Japan] They seem to have it canned and kept warm in the japanese ubiquitous drink vending machines.}{yeah I'm familiar with them lol}
-Dialogue: 0,0:21:29.61,0:21:35.53,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}O milagre que aconteceu na colina fez o meu coração acelerar.
-Dialogue: 0,0:21:35.53,0:21:42.20,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Essa é a história de como aquele dia começou.
-Dialogue: 0,0:21:42.20,0:21:48.09,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Eu era uma personagem secundária, sem nada de especial.
-Dialogue: 0,0:21:48.09,0:21:52.87,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Mas de alguma forma eu ganhei coragem.
-Dialogue: 0,0:21:53.96,0:22:00.23,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}O sucesso não significa nada
-Dialogue: 0,0:22:00.23,0:22:03.20,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}se for apenas um jogo.
-Dialogue: 0,0:22:03.20,0:22:06.67,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Vamos voltar para aqueles velhos dias.
-Dialogue: 0,0:22:06.67,0:22:09.81,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Não se preocupe com talento ou atributos.
-Dialogue: 0,0:22:09.81,0:22:12.98,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Mesmo os dias mais chatos são realidade.
-Dialogue: 0,0:22:12.98,0:22:19.20,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Por favor! Por favor! Não para a rapsódia que torce por mim!
-Dialogue: 0,0:22:19.20,0:22:21.98,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Já que você puxou a minha mão,
-Dialogue: 0,0:22:21.98,0:22:25.51,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}vamos juntos para esse mundo desconhecido.
-Dialogue: 0,0:22:25.51,0:22:31.83,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Mesmo os dias mais frios começam iluminados.
-Dialogue: 0,0:22:31.83,0:22:34.56,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Eu quero, eu quero, virar a heroína.
-Dialogue: 0,0:22:34.56,0:22:37.68,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Esse é o meu verdadeiro sonho agora.
-Dialogue: 0,0:22:37.68,0:22:41.86,Saekana Flat ED,,0,0,0,,{\fade(180,180)\blur3}Meu colorido diário de cerejeira.
-Dialogue: 0,0:21:29.61,0:21:35.53,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kiseki ga futta sakamichi hitsuzen ni mune ga natte
-Dialogue: 0,0:21:35.53,0:21:42.20,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}ano hi kara hajimatta watashi no sutoori
-Dialogue: 0,0:21:42.20,0:21:48.09,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kanzen ni wakiyaku de nan no torie mo nakute
-Dialogue: 0,0:21:48.09,0:21:52.87,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}demo nanka yuuki deta no
-Dialogue: 0,0:21:53.96,0:22:00.23,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}geemu no naka de umaku yarete mo
-Dialogue: 0,0:22:00.23,0:22:03.20,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}imi ga nai
-Dialogue: 0,0:22:03.20,0:22:06.67,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}imaichi na days torimodoshite
-Dialogue: 0,0:22:06.67,0:22:09.81,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}sainou zokusei ki ni shinai
-Dialogue: 0,0:22:09.81,0:22:12.98,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}saenai hibi mo riaritii
-Dialogue: 0,0:22:12.98,0:22:19.20,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}onegai onegai tomenaide senaka osu you na rhapsody
-Dialogue: 0,0:22:19.20,0:22:21.98,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}shiranai shiranai sekai e to
-Dialogue: 0,0:22:21.98,0:22:25.51,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kimi ga te wo hiite kureru kara
-Dialogue: 0,0:22:25.51,0:22:31.83,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}tsurenai tsurenai mainichi mo sukoshi zutsu irozuiteku
-Dialogue: 0,0:22:31.83,0:22:34.56,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}naritai naritai hiroin ni
-Dialogue: 0,0:22:34.56,0:22:37.68,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}honki de yume miterun da yo
-Dialogue: 0,0:22:37.68,0:22:41.86,Saekana Flat ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kimi to sakura iro daiarii
+Dialogue: 0,0:21:29.61,0:21:35.53,ED,,0,0,0,,{\fade(180,180)\blur3}O milagre que aconteceu na colina fez o meu coração acelerar.
+Dialogue: 0,0:21:35.53,0:21:42.20,ED,,0,0,0,,{\fade(180,180)\blur3}Essa é a história de como aquele dia começou.
+Dialogue: 0,0:21:42.20,0:21:48.09,ED,,0,0,0,,{\fade(180,180)\blur3}Eu era uma personagem secundária, sem nada de especial.
+Dialogue: 0,0:21:48.09,0:21:52.87,ED,,0,0,0,,{\fade(180,180)\blur3}Mas de alguma forma eu ganhei coragem.
+Dialogue: 0,0:21:53.96,0:22:00.23,ED,,0,0,0,,{\fade(180,180)\blur3}O sucesso não significa nada
+Dialogue: 0,0:22:00.23,0:22:03.20,ED,,0,0,0,,{\fade(180,180)\blur3}se for apenas um jogo.
+Dialogue: 0,0:22:03.20,0:22:06.67,ED,,0,0,0,,{\fade(180,180)\blur3}Vamos voltar para aqueles velhos dias.
+Dialogue: 0,0:22:06.67,0:22:09.81,ED,,0,0,0,,{\fade(180,180)\blur3}Não se preocupe com talento ou atributos.
+Dialogue: 0,0:22:09.81,0:22:12.98,ED,,0,0,0,,{\fade(180,180)\blur3}Mesmo os dias mais chatos são realidade.
+Dialogue: 0,0:22:12.98,0:22:19.20,ED,,0,0,0,,{\fade(180,180)\blur3}Por favor! Por favor! Não para a rapsódia que torce por mim!
+Dialogue: 0,0:22:19.20,0:22:21.98,ED,,0,0,0,,{\fade(180,180)\blur3}Já que você puxou a minha mão,
+Dialogue: 0,0:22:21.98,0:22:25.51,ED,,0,0,0,,{\fade(180,180)\blur3}vamos juntos para esse mundo desconhecido.
+Dialogue: 0,0:22:25.51,0:22:31.83,ED,,0,0,0,,{\fade(180,180)\blur3}Mesmo os dias mais frios começam iluminados.
+Dialogue: 0,0:22:31.83,0:22:34.56,ED,,0,0,0,,{\fade(180,180)\blur3}Eu quero, eu quero, virar a heroína.
+Dialogue: 0,0:22:34.56,0:22:37.68,ED,,0,0,0,,{\fade(180,180)\blur3}Esse é o meu verdadeiro sonho agora.
+Dialogue: 0,0:22:37.68,0:22:41.86,ED,,0,0,0,,{\fade(180,180)\blur3}Meu colorido diário de cerejeira.
+Dialogue: 0,0:21:29.61,0:21:35.53,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kiseki ga futta sakamichi hitsuzen ni mune ga natte
+Dialogue: 0,0:21:35.53,0:21:42.20,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}ano hi kara hajimatta watashi no sutoori
+Dialogue: 0,0:21:42.20,0:21:48.09,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kanzen ni wakiyaku de nan no torie mo nakute
+Dialogue: 0,0:21:48.09,0:21:52.87,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}demo nanka yuuki deta no
+Dialogue: 0,0:21:53.96,0:22:00.23,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}geemu no naka de umaku yarete mo
+Dialogue: 0,0:22:00.23,0:22:03.20,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}imi ga nai
+Dialogue: 0,0:22:03.20,0:22:06.67,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}imaichi na days torimodoshite
+Dialogue: 0,0:22:06.67,0:22:09.81,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}sainou zokusei ki ni shinai
+Dialogue: 0,0:22:09.81,0:22:12.98,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}saenai hibi mo riaritii
+Dialogue: 0,0:22:12.98,0:22:19.20,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}onegai onegai tomenaide senaka osu you na rhapsody
+Dialogue: 0,0:22:19.20,0:22:21.98,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}shiranai shiranai sekai e to
+Dialogue: 0,0:22:21.98,0:22:25.51,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kimi ga te wo hiite kureru kara
+Dialogue: 0,0:22:25.51,0:22:31.83,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}tsurenai tsurenai mainichi mo sukoshi zutsu irozuiteku
+Dialogue: 0,0:22:31.83,0:22:34.56,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}naritai naritai hiroin ni
+Dialogue: 0,0:22:34.56,0:22:37.68,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}honki de yume miterun da yo
+Dialogue: 0,0:22:37.68,0:22:41.86,ED - Romaji,,0,0,0,,{\fade(180,180)\blur3}kimi to sakura iro daiarii
 Comment: 0,0:00:02.31,0:00:05.56,Loli_Gothic_style,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(-1,-0.5)\p1\c&HFAF8FA&}m -3 0 l 1301 0 1301 188 -3 188
 Comment: 1,0:00:02.31,0:00:05.56,Loli_Gothic_style,,0,0,0,,{\q2\fs80\an7\blur0.8\fnKozuka Gothic Pro M - ENG\c&H181719&\pos(4,-0.5)}Eu não conseguia olhar para a Ruri.\N  Ver ela agindo de maneira brava e levantando a cabeça enquanto enxuga as lágrias.
 Comment: 0,0:00:02.31,0:00:05.56,Loli_Gothic_style,,0,0,0,,{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(22,310)\p1\c&HFAF8FA&}m -11 107 l 31 107 31 231 -11 231
