@@ -1,0 +1,767 @@
+﻿[Script Info]
+Title: Português (Brasil)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 624
+PlayResY: 366
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Chapter,Arial,20,&H001F2E2E,&H000000FF,&H00A8CFEB,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0090,1
+Style: Flashback,Trebuchet MS,22,&H00FBFBFE,&H000000FF,&H005C0718,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,0
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Names,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Red Names,Times New Roman,22,&H00211781,&H000000FF,&H0098ADC5,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: Wall of prova,Arial,22,&H00000000,&H000000FF,&H00FAFAFA,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0060,0105,0020,1
+Style: White Frame,Arial,16,&H00BEBEBE,&H000000FF,&H00FFFFFF,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0200,1
+Style: sign_13837_27_O_qu___,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0210,0300,0129,1
+Style: sign_14502_30_HACHIKUJI_BUS,Arial,24,&H0082D5AE,&H000000FF,&H00FFFFFF,&H009872E0,1,0,0,0,100,100,0,0,1,2,2,8,0232,0232,0020,1
+Style: sign_15049_32_Sanjiva___Kalasu,Arial,20,&H00000612,&H000000FF,&H0079B6C8,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,1
+Style: sign_15302_33_Nhung__,Arial,22,&H004D5681,&H000000FF,&H00FBFDFD,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,0518,0020,0020,1
+Style: sign_15539_34_Tour_pelo_Infern,Arial,20,&H00000000,&H000000FF,&H004230C4,&H00000000,1,0,0,0,100,100,0,344.8,1,2,0,8,0215,0241,0082,1
+Style: sign_16923_35____aquela_coisa_,Arial,20,&H000D01C7,&H000000FF,&H00E9E9E9,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0120,1
+Style: sign_23280_38_Nessa___poca__a_,Arial,18,&H00A90051,&H000000FF,&H00E589CC,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0060,1
+Style: sign_2446_2_Araragi_Koyomi,Arial,24,&H005A400B,&H000000FF,&H00ECECEC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0110,1
+Style: sign_27077_40_Sancionado,Arial,20,&H00B24201,&H000000FF,&H00BB9BE7,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0120,1
+Style: sign_27089_41_Sucessor,Arial,20,&H0099E7C4,&H000000FF,&H00200956,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0120,1
+Style: sign_2739_3_Owarimonogatari,Arial,24,&H00FCF8F7,&H000000FF,&H0090408A,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0060,1
+Style: sign_27428_42_Encerra_,Arial,20,&H00000000,&H000000FF,&H00F4EDF1,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,0282,0267,0190,1
+Style: sign_2766_4_Mayoi_Hell,Arial,20,&H00FCF8F7,&H000000FF,&H00EDDD9A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0100,1
+Style: sign_28755_43_Ent__o__eu_queri,Arial,20,&H00D8C8C7,&H000000FF,&H00703737,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0076,0076,0120,1
+Style: sign_29311_44_O_ato_de__corrig,Arial,20,&H00EDECEC,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: sign_29330_45_faz_as_pessoas_s,Arial,20,&H00EDECEC,&H000000FF,&H000700BB,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0153,0153,0130,1
+Style: sign_29354_46_estivessem_fazen,Arial,20,&H00EDECEC,&H000000FF,&H00231D53,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0130,1
+Style: sign_30397_47_Errar_muito,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0026,0010,0090,1
+Style: sign_30414_48_Falhar_muito,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,2,9,0010,0030,0190,1
+Style: sign_30427_49_Refazer_e_repeti,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,0010,0036,0170,1
+Style: sign_30442_50_Hesitar_Bater_o_,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0030,0010,0150,1
+Style: sign_30461_51_Repetir_por_tent,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0130,1
+Style: sign_30479_52_E_ao_fim_das_mai,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: sign_35119_56_Cinco_minutos_de,Arial,22,&H00A0DBEA,&H000000FF,&H00437643,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0203,0203,0120,1
+Style: sign_38688_58_Justamente_por_e,Arial,22,&H006582F7,&H000000FF,&H004D231E,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0070,1
+Style: sign_39885_60_Quadro_Preto,Arial,16,&H00BEBEBE,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,0262,0262,0200,1
+Style: sign_40745_61_Intermedi__rio,Arial,22,&H001A1A1A,&H000000FF,&H00ABD5AC,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0242,0242,0120,1
+Style: sign_40967_62_Oshino,Arial,22,&H00E2E5DC,&H000000FF,&H001C2526,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0265,0289,0119,1
+Style: sign_42404_64_E_pensar_que_ele,Arial,20,&H006511A6,&H000000FF,&H00E899E3,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: sign_44945_65_E_assim__erguera,Arial,20,&H00F0BD7E,&H000000FF,&H001A1A1A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0120,1
+Style: sign_47133_69_Se____isso_mesmo,Arial,20,&H00FFFFFF,&H000000FF,&H00090060,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0050,0010,0060,1
+Style: sign_47133_70_se_tivessem_me_a,Arial,20,&H00FFFFFF,&H000000FF,&H00090060,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0116,0010,0120,1
+Style: sign_47133_71_Mas_se_n__o_diss,Arial,20,&H00FFFFFF,&H000000FF,&H00090060,&H00000000,1,0,0,0,100,100,0,0,1,2,0,1,0184,0010,0120,1
+Style: sign_47181_72_Deveria_haver_al,Arial,20,&H00F7FDFF,&H000000FF,&H00070355,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0090,1
+Style: sign_47205_73_Essa_parte_pode_,Arial,20,&H00F7FDFF,&H000000FF,&H00070355,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0110,1
+Style: sign_47230_74_Do_meu_ponto_de_,Arial,20,&H00F7FDFF,&H000000FF,&H00070355,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0130,1
+Style: sign_4749_5_Parte_um,Arial,20,&H004B6E24,&H000000FF,&H00A6CBE7,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0080,1
+Style: sign_49053_75_N__o_,Arial,20,&H00FFFFFF,&H000000FF,&H0026272A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0136,1
+Style: sign_49066_76_Eu_sei___Eu_esto,Arial,20,&H00FFFFFF,&H000000FF,&H0026272A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0136,0010,0100,1
+Style: sign_49096_77_Escalar_essa_cob,Arial,20,&H00FFFFFF,&H000000FF,&H0026272A,&H00000000,1,0,0,0,100,100,0,0,1,2,0,9,0010,0130,0100,1
+Style: sign_49149_79_Parque,Arial,28,&H00233F4C,&H000000FF,&H004E9BB7,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0389,0144,0079,1
+Style: sign_49236_80_Namishiro,Arial,28,&H00233F4C,&H000000FF,&H004E9BB7,&H00000000,1,0,0,0,100,100,0,0,1,2,0,7,0114,0372,0090,1
+Style: sign_49584_81_Cobra,Arial,20,&H00E6EBE2,&H000000FF,&H00111215,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0120,1
+Style: sign_49668_82_Cobra,Arial,20,&H000E04CD,&H000000FF,&H00EEEEEE,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0287,0287,0120,1
+Style: sign_49710_83_Shirohebi,Arial,20,&H00C47A54,&H000000FF,&H00EEEEEE,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0268,0268,0120,1
+Style: sign_49869_84_Hebi,Arial,20,&H000E04CD,&H000000FF,&H00282316,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0295,0295,0120,1
+Style: sign_50013_86_Templo_Kitashira,Arial,20,&H0086B5C2,&H000000FF,&H00F8E5E6,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0206,0206,0020,1
+Style: sign_52477_88_Boa_Sorte,Arial,20,&H00E9E9E9,&H000000FF,&H000E04CD,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0267,0267,0120,1
+Style: sign_5359_7_A,Arial,24,&H00FEFDFB,&H000000FF,&H002C474A,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: sign_5371_8_ra,Arial,24,&H00000003,&H000000FF,&H00B9BAB8,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: sign_5383_9_ra,Arial,24,&H00000000,&H000000FF,&H00648E97,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: sign_5395_10_gi,Arial,24,&H00776D67,&H000000FF,&H0037312A,&H0037312A,1,0,0,0,100,100,0,0,1,2,3,8,0010,0010,0020,1
+Style: sign_5407_11_Koyomi,Arial,24,&H00FEFDFB,&H000000FF,&H002D3D2F,&H00000000,1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0020,1
+Style: sign_54652_89_Era_t__o___bvio_,Arial,20,&H00BA4541,&H000000FF,&H00ECECEC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0130,1
+Style: sign_54683_90_Eu_cheguei_perto,Arial,20,&H00BA4541,&H000000FF,&H00ECECEC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+Style: sign_54749_91_Por_causa_disso_,Arial,20,&H00BA4541,&H000000FF,&H00ECECEC,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0130,1
+Style: sign_5527_13_Data_da_Prova__1,Times New Roman,22,&H00000000,&H000000FF,&H00FAFAFA,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0160,0160,0065,1
+Style: sign_5527_14_Prova_de_Entrada,Times New Roman,26,&H00000000,&H000000FF,&H00FAFAFA,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,0040,0010,0170,1
+Style: sign_7808_15_Benevol__ncia__J,Arial,20,&H00000000,&H000000FF,&H00F7C8D9,&H00000000,1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0130,1
+Style: sign_7808_16_Confian__a__Leal,Arial,20,&H00000000,&H000000FF,&H00F7C8D9,&H00000000,1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0130,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.39,Chapter,SCREEN,0000,0000,0000,,{\fad(1,300)}Capítulo
+Dialogue: 0,0:00:04.73,0:00:08.40,Main,Koyomi,0000,0000,0000,,{\i1}Eu não me importaria em morrer, desde que\Npudesse ver a Hachikuji Mayoi mais uma vez.
+Dialogue: 0,0:00:08.40,0:00:11.86,Main,Koyomi,0000,0000,0000,,{\i1}Por um tempo,\Nrealmente acreditei nisso.
+Dialogue: 0,0:00:11.86,0:00:14.53,Main,Koyomi,0000,0000,0000,,{\i1}Então por que eu não o fiz?
+Dialogue: 0,0:00:14.53,0:00:17.49,Main,Koyomi,0000,0000,0000,,{\i1}Ao mesmo tempo que não me importava\Nem morrer, acho que eu queria ainda mais
+Dialogue: 0,0:00:17.49,0:00:21.52,Main,Koyomi,0000,0000,0000,,{\i1}viver, ao contrário\Ndas expectativas.
+Dialogue: 0,0:00:21.52,0:00:26.03,Main,Koyomi,0000,0000,0000,,{\i1}Talvez senti que tivesse algo\Na fazer, enquanto vivo.
+Dialogue: 0,0:00:26.79,0:00:29.10,Main,Koyomi,0000,0000,0000,,{\i1}Quando se há família, namorados,
+Dialogue: 0,0:00:29.10,0:00:32.15,Main,Koyomi,0000,0000,0000,,{\i1}um benfeitor ou amigos, esses\Nfatores entram em consideração.
+Dialogue: 0,0:00:33.59,0:00:36.64,Main,Koyomi,0000,0000,0000,,{\i1}Contudo, nós, os humanos,
+Dialogue: 0,0:00:36.62,0:00:41.22,Main,Koyomi,0000,0000,0000,,{\i1}não somos criaturas com um autocontrole tão\Nforte a ponto de morrer por uma única emoção.
+Dialogue: 0,0:00:42.22,0:00:43.52,Main,Koyomi,0000,0000,0000,,{\i1}Eu não faço amigos.
+Dialogue: 0,0:00:47.15,0:00:48.90,Main,Koyomi,0000,0000,0000,,{\i1}Amigos fazem minha força\Ncomo humano diminuir.
+Dialogue: 0,0:00:50.11,0:00:54.49,Main,Koyomi,0000,0000,0000,,{\i1}Eu me tornei fraco, pois tenho\Napreço por essas frases de efeito.
+Dialogue: 0,0:00:54.49,0:00:56.16,Main,Koyomi,0000,0000,0000,,{\i1}Sou fraco como humano.
+Dialogue: 0,0:00:56.16,0:00:58.03,Main,Koyomi,0000,0000,0000,,{\i1}Fraco, tão fraco...
+Dialogue: 0,0:00:58.91,0:01:05.94,Main,Koyomi,0000,0000,0000,,{\i1}A parte mais fraca de todas é que\Neu não odeio o quão fraco fiquei.
+Dialogue: 0,0:01:06.37,0:01:09.17,Main,Koyomi,0000,0000,0000,,{\i1}Eu não guardo ressentimentos.
+Dialogue: 0,0:01:11.80,0:01:16.68,Main,Koyomi,0000,0000,0000,,{\i1}No entanto, pode haver pessoas que\Nnão me perdoaram por ter ficado fraco.
+Dialogue: 0,0:01:19.22,0:01:23.22,Main,Koyomi,0000,0000,0000,,{\i1}Depois de passar pelo inferno das\Nférias de verão, continuei vivo,
+Dialogue: 0,0:01:23.22,0:01:27.31,Main,Koyomi,0000,0000,0000,,{\i1}e consigo ver quando alguém me encara\Ncom desprezo, querendo que eu morra.
+Dialogue: 0,0:01:28.81,0:01:32.90,Main,Ougi,0000,0000,0000,,Você é mesmo um tolo,\NAraragi-senpai.
+Dialogue: 0,0:01:34.11,0:01:35.90,Main,Koyomi,0000,0000,0000,,{\i1}É, sou mesmo.
+Dialogue: 0,0:01:36.45,0:01:38.99,Main,Koyomi,0000,0000,0000,,{\i1}"Tolice só é curada com a morte."
+Dialogue: 0,0:01:38.99,0:01:41.98,Main,Koyomi,0000,0000,0000,,{\i1}Por outro lado, se é algo que\Na morte é capaz de curar,
+Dialogue: 0,0:01:41.99,0:01:46.12,sign_2446_2_Araragi_Koyomi,SCREEN,0000,0000,0000,,Araragi Koyomi
+Dialogue: 0,0:01:42.20,0:01:45.45,Main,Koyomi,0000,0000,0000,,{\i1}ser um tolo talvez não tenha\Nsido uma doença tão terrível.
+Dialogue: 0,0:01:54.21,0:01:57.63,sign_2739_3_Owarimonogatari,SCREEN,0000,0000,0000,,Owarimonogatari
+Dialogue: 0,0:01:55.36,0:01:57.63,sign_2766_4_Mayoi_Hell,SCREEN,0000,0000,0000,,{\blur2}Mayoi Hell
+Dialogue: 0,0:03:18.05,0:03:21.05,sign_4749_5_Parte_um,SCREEN,0000,0000,0000,,Parte um
+Dialogue: 0,0:03:21.05,0:03:22.05,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:03:26.43,0:03:28.68,Main,Koyomi,0000,0000,0000,,H-Hachikuji?
+Dialogue: 0,0:03:28.68,0:03:29.81,Main,Mayoi,0000,0000,0000,,Sim!
+Dialogue: 0,0:03:30.39,0:03:31.56,Main,Koyomi,0000,0000,0000,,Hachikuji?
+Dialogue: 0,0:03:31.56,0:03:32.98,Main,Mayoi,0000,0000,0000,,Sim, isso mesmo.
+Dialogue: 0,0:03:34.10,0:03:35.48,Main,Koyomi,0000,0000,0000,,Hachikuji Mayoi?
+Dialogue: 0,0:03:36.98,0:03:39.24,Main,Mayoi,0000,0000,0000,,Sim, eu sou a Hachikuji Mayoi.
+Dialogue: 0,0:03:41.15,0:03:42.70,Main,Koyomi,0000,0000,0000,,{\i1}Não, espere aí.
+Dialogue: 0,0:03:42.70,0:03:43.49,Main,Koyomi,0000,0000,0000,,{\i1}Não entre em pânico.
+Dialogue: 0,0:03:43.49,0:03:43.99,sign_5359_7_A,SCREEN,0000,0000,0000,,A
+Dialogue: 0,0:03:43.99,0:03:44.49,sign_5371_8_ra,SCREEN,0000,0000,0000,,ra
+Dialogue: 0,0:03:44.03,0:03:45.57,Main,Koyomi,0000,0000,0000,,{\i1}Sim, lembre-se...
+Dialogue: 0,0:03:44.49,0:03:44.99,sign_5383_9_ra,SCREEN,0000,0000,0000,,ra
+Dialogue: 0,0:03:44.99,0:03:45.49,sign_5395_10_gi,SCREEN,0000,0000,0000,,gi
+Dialogue: 0,0:03:45.49,0:03:45.99,sign_5407_11_Koyomi,SCREEN,0000,0000,0000,,Koyomi
+Dialogue: 0,0:03:45.57,0:03:48.48,Main,Koyomi,0000,0000,0000,,{\i1}Que situação era essa?
+Dialogue: 0,0:03:45.99,0:03:47.99,Wall of prova,SCREEN,0000,0000,0000,,Número do candidato: {\c&H2A13D4&}0049\N{\c&H000000&}Nome: Araragi Koyomi\N\N{\fs18}Idiomas estrangeiros prestados:\NInglês, alemão, mandarim, russo, japonês\N(Circule os dois que se aplicam)
+Dialogue: 0,0:03:48.99,0:03:52.00,Main,Koyomi,0000,0000,0000,,{\i1}Sim. Hoje, 13 de março,\Nera o dia do vestibular.
+Dialogue: 0,0:03:50.50,0:03:52.00,sign_5527_13_Data_da_Prova__1,SCREEN,0000,0000,0000,,Data da prova: 13/3/xxxx (Ter)
+Dialogue: 0,0:03:50.50,0:03:52.00,sign_5527_14_Prova_de_Entrada,SCREEN,0000,0000,0000,,Prova de entrada geral
+Dialogue: 0,0:03:53.00,0:03:57.96,Main,Koyomi,0000,0000,0000,,{\i1}Antes de ir fazer o vestibular,\Nme desviei do caminho.
+Dialogue: 0,0:03:57.96,0:04:00.74,Main,Koyomi,0000,0000,0000,,{\i1}Lá, eu vi a líder dos especialistas,
+Dialogue: 0,0:04:00.74,0:04:04.89,Main,Koyomi,0000,0000,0000,,{\i1}a Gaen Izuko-san, esperando por mim\Ndentro do templo, e tive que encará-la.
+Dialogue: 0,0:04:10.22,0:04:10.89,Main,Koyomi,0000,0000,0000,,{\i1}E?
+Dialogue: 0,0:04:11.27,0:04:12.89,Main,Koyomi,0000,0000,0000,,{\i1}E por que, Hachikuji?
+Dialogue: 0,0:04:13.39,0:04:14.65,Main,Koyomi,0000,0000,0000,,{\i1}Hachikuji Mayoi-san?
+Dialogue: 0,0:04:22.07,0:04:25.49,Main,Koyomi,0000,0000,0000,,{\i1}Ah, poxa. Acho que\Ntemos um problema.
+Dialogue: 0,0:04:25.49,0:04:26.98,Main,Koyomi,0000,0000,0000,,{\i1}Por causa dos acontecimentos,
+Dialogue: 0,0:04:26.98,0:04:30.85,Main,Koyomi,0000,0000,0000,,{\i1}tenho certeza de que todos estão pensando\Nnuma reunião surpreendente com alguém
+Dialogue: 0,0:04:30.85,0:04:34.69,Main,Koyomi,0000,0000,0000,,{\i1}que o Araragi Koyomi jamais veria de novo,\NHachikuji Mayoi, alguém próximo ao seu coração.
+Dialogue: 0,0:04:34.69,0:04:38.52,Main,Koyomi,0000,0000,0000,,{\i1}Com pulos de alegria, engasgado com lágrimas\Nde gratidão, tremendo nesse momento tocante,
+Dialogue: 0,0:04:38.52,0:04:44.30,Main,Koyomi,0000,0000,0000,,{\i1}regozijando e gritando bobagens, além de\Nque tentaria abraçá-la, antes de mais nada.
+Dialogue: 0,0:04:44.30,0:04:46.47,Main,Koyomi,0000,0000,0000,,{\i1}Deve ser isso o que esperam.
+Dialogue: 0,0:04:46.47,0:04:49.47,Main,Koyomi,0000,0000,0000,,{\i1}Tenho certeza de que\Né o que esperam de mim.
+Dialogue: 0,0:04:50.80,0:04:52.98,Main,Koyomi,0000,0000,0000,,{\i1}Essa expectativa tem\Num fardo gigante.
+Dialogue: 0,0:04:52.98,0:04:57.34,Main,Koyomi,0000,0000,0000,,{\i1}O meu "eu" adolescente, que sempre\Npulava na Hachikuji como um foguete
+Dialogue: 0,0:04:57.34,0:04:59.77,Main,Koyomi,0000,0000,0000,,{\i1}cada vez que a via andando\Npela cidade, já não existe mais.
+Dialogue: 0,0:04:59.77,0:05:03.78,Main,Koyomi,0000,0000,0000,,{\i1}Se aquele era o Araragi Koyomi,\Nentão ele já está morto.
+Dialogue: 0,0:05:03.78,0:05:05.74,Main,Koyomi,0000,0000,0000,,{\i1}Ele está {\i0}dead{\i1}.
+Dialogue: 0,0:05:05.74,0:05:10.08,Main,Koyomi,0000,0000,0000,,{\i1}Esse Araragi Koyomi que seria\Nmelhor morto, realmente está morto.
+Dialogue: 0,0:05:10.08,0:05:12.12,Main,Koyomi,0000,0000,0000,,{\i1}Ele teve uma morte adequada.
+Dialogue: 0,0:05:12.41,0:05:14.71,Main,Koyomi,0000,0000,0000,,{\i1}Mas bem, dito isso...
+Dialogue: 0,0:05:14.71,0:05:16.87,Main,Koyomi,0000,0000,0000,,{\i1}Dito isso...
+Dialogue: 0,0:05:16.87,0:05:22.50,Main,Koyomi,0000,0000,0000,,{\i1}Recobrando as linhas tênues da memória,\Neu, de fato, devo muito à Hachikuji.
+Dialogue: 0,0:05:22.50,0:05:25.63,Main,Koyomi,0000,0000,0000,,{\i1}Piedade, justiça, cortesia, sabedoria,\Nconfiança, honra, respeito aos pais e aos irmãos.
+Dialogue: 0,0:05:25.63,0:05:26.38,sign_7808_15_Benevol__ncia__J,SCREEN,0000,0000,0000,,{\i1}Piedade, justiça, cortesia, sabedoria,
+Dialogue: 0,0:05:25.63,0:05:26.38,sign_7808_16_Confian__a__Leal,SCREEN,0000,0000,0000,,confiança, honra, respeito aos pais e aos irmãos
+Dialogue: 0,0:05:26.88,0:05:28.64,Main,Koyomi,0000,0000,0000,,{\i1}Ser grato pelo que\Nse deve ser grato.
+Dialogue: 0,0:05:28.64,0:05:32.46,Main,Koyomi,0000,0000,0000,,{\i1}É natural se aproximar com gratidão\Nde alguém que tenha cuidado de você.
+Dialogue: 0,0:05:32.93,0:05:35.38,Main,Koyomi,0000,0000,0000,,{\i1}Se isso já está decidido,\Nentão tudo segue bem.
+Dialogue: 0,0:05:36.44,0:05:40.40,Main,Koyomi,0000,0000,0000,,{\i1}Em suas posições... Preparar...
+Dialogue: 0,0:06:03.96,0:06:06.82,Main,Koyomi,0000,0000,0000,,Hachikuji!
+Dialogue: 0,0:06:10.80,0:06:15.47,Main,Koyomi,0000,0000,0000,,Hachikuji! Hachikuji! Hachikuji!
+Dialogue: 0,0:06:16.81,0:06:20.27,Main,Koyomi,0000,0000,0000,,O que você está fazendo aqui?!\NPor que você está aqui por mim?
+Dialogue: 0,0:06:20.27,0:06:23.36,Main,Koyomi,0000,0000,0000,,Não, não me importa o motivo, eu só\Nestou feliz que esteja aqui por mim!
+Dialogue: 0,0:06:23.36,0:06:26.07,Main,Koyomi,0000,0000,0000,,Não consigo nem\Nexpressar tal emoção!
+Dialogue: 0,0:06:32.07,0:06:34.83,Main,Koyomi,0000,0000,0000,,Ah, essa sensação ao\Ntoque... Esse abraço...
+Dialogue: 0,0:06:34.87,0:06:37.66,Main,Koyomi,0000,0000,0000,,Esse tamanho... e como tudo cabe\Nperfeitamente nos meus braços!
+Dialogue: 0,0:06:37.66,0:06:39.92,Main,Koyomi,0000,0000,0000,,É mesmo a Hachikuji!
+Dialogue: 0,0:06:39.92,0:06:41.33,Main,Koyomi,0000,0000,0000,,Gratidão, gratidão!
+Dialogue: 0,0:06:41.38,0:06:43.86,Main,Koyomi,0000,0000,0000,,Quanto mais esfregamos as\Nbochechas, mais parece a Hachikuji!
+Dialogue: 0,0:06:44.13,0:06:46.61,Main,Koyomi,0000,0000,0000,,Quanto mais eu lambo,\Nmais parece a Hachikuji!
+Dialogue: 0,0:06:46.80,0:06:49.80,Main,Koyomi,0000,0000,0000,,Quanto mais madura ela fica,\Nmais eu posso lamber a Hachikuji!
+Dialogue: 0,0:06:50.22,0:06:52.39,Main,Koyomi,0000,0000,0000,,Vamos, deixe eu tocá-la mais!
+Dialogue: 0,0:06:52.39,0:06:53.60,Main,Koyomi,0000,0000,0000,,Deixe-me abraçar você ainda mais!
+Dialogue: 0,0:06:53.60,0:06:55.35,Main,Koyomi,0000,0000,0000,,Deixe-me lamber mais um pouco...
+Dialogue: 0,0:06:58.14,0:07:01.44,Main,Koyomi,0000,0000,0000,,Pare com isso! Vai ser difícil\Nficarmos pelados assim!
+Dialogue: 0,0:07:08.11,0:07:11.91,Main,Koyomi,0000,0000,0000,,Ai, ai, ai, ai! O que você\Nestá fazendo, sua pirralha?!
+Dialogue: 0,0:07:18.83,0:07:19.58,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:07:20.41,0:07:21.96,Main,Koyomi,0000,0000,0000,,Como posso dizer isso?
+Dialogue: 0,0:07:22.08,0:07:24.92,Main,Koyomi,0000,0000,0000,,Ah, é mesmo. Depois\Nda nossa separação.
+Dialogue: 0,0:07:24.46,0:07:26.34,Red Names,SCREEN,0000,0000,0000,,Shishirui Seishirou
+Dialogue: 0,0:07:24.92,0:07:27.42,Main,Koyomi,0000,0000,0000,,o primeiro comparsa\Ndo Shinobu apareceu,
+Dialogue: 0,0:07:27.42,0:07:29.05,Main,Koyomi,0000,0000,0000,,a Oikura voltou,
+Dialogue: 0,0:07:27.84,0:07:29.03,Red Names,SCREEN,0000,0000,0000,,Oikura Sodachi
+Dialogue: 0,0:07:29.09,0:07:32.18,Main,Koyomi,0000,0000,0000,,um monte de coisa aconteceu\Ncom a Sengoku neste templo,
+Dialogue: 0,0:07:29.65,0:07:31.36,Red Names,SCREEN,0000,0000,0000,,Sengoku Nadeko
+Dialogue: 0,0:07:31.36,0:07:33.39,Red Names,SCREEN,0000,0000,0000,,Kaiki Deishuu
+Dialogue: 0,0:07:32.18,0:07:34.05,Main,Koyomi,0000,0000,0000,,Acabei encontrando o Kaiki,
+Dialogue: 0,0:07:33.95,0:07:35.91,Red Names,SCREEN,0000,0000,0000,,Araragi Koyomi
+Dialogue: 0,0:07:34.05,0:07:36.68,Main,Koyomi,0000,0000,0000,,me transformei num\Nvampiro por conta...
+Dialogue: 0,0:07:36.68,0:07:40.93,Main,Koyomi,0000,0000,0000,,Além disso, fiz a Ononoki-chan matar\Num de seus próprios criadores,
+Dialogue: 0,0:07:37.08,0:07:39.38,Red Names,SCREEN,0000,0000,0000,,Ononoki Yotsugi
+Dialogue: 0,0:07:39.38,0:07:41.64,Red Names,SCREEN,0000,0000,0000,,Kanbaru Suruga
+Dialogue: 0,0:07:40.93,0:07:44.35,Main,Koyomi,0000,0000,0000,,e também tinha este templo.
+Dialogue: 0,0:07:41.64,0:07:43.19,Red Names,SCREEN,0000,0000,0000,,Araragi Karen\NAraragi Tsukihi
+Dialogue: 0,0:07:43.19,0:07:48.23,Red Names,SCREEN,0000,0000,0000,,Kagenui Yozuru
+Dialogue: 0,0:07:44.35,0:07:48.23,Main,Koyomi,0000,0000,0000,,Foi aqui que a\NKagenui-san desapareceu.
+Dialogue: 0,0:07:48.61,0:07:51.57,Main,Koyomi,0000,0000,0000,,Foi coisa ruim atrás de coisa ruim.
+Dialogue: 0,0:07:51.57,0:07:56.24,Main,Koyomi,0000,0000,0000,,Esse tempo todo, representei as duas semanas\Ndas férias de verão com a palavra "inferno".
+Dialogue: 0,0:07:56.70,0:07:59.91,Main,Koyomi,0000,0000,0000,,Mas talvez o verdadeiro inferno\Ntenham sido os últimos seis meses.
+Dialogue: 0,0:07:59.91,0:08:02.00,Main,Mayoi,0000,0000,0000,,Não é verdade, Araragi-san.
+Dialogue: 0,0:08:02.21,0:08:04.25,Main,Koyomi,0000,0000,0000,,Ué, como assim?
+Dialogue: 0,0:08:04.71,0:08:07.00,Main,Mayoi,0000,0000,0000,,Ara-{\i1}lucky{\i0}-san.
+Dialogue: 0,0:08:07.25,0:08:12.93,Main,Koyomi,0000,0000,0000,,Hachikuji, eu estava falando sobre o\Nquão infeliz eu fui nos últimos tempos.
+Dialogue: 0,0:08:12.93,0:08:17.89,Main,Koyomi,0000,0000,0000,,Não me importo que fique girando aí,\Nmas não seja {\i1}tão{\i0} feliz assim.
+Dialogue: 0,0:08:17.93,0:08:20.56,Main,Koyomi,0000,0000,0000,,Ao menos, que seja {\i1}Unlucky{\i0}-san.
+Dialogue: 0,0:08:20.56,0:08:22.94,Main,Koyomi,0000,0000,0000,,E meu nome é Araragi.
+Dialogue: 0,0:08:23.19,0:08:24.69,Main,Mayoi,0000,0000,0000,,Desculpe. Me embolei.
+Dialogue: 0,0:08:24.98,0:08:26.44,Main,Koyomi,0000,0000,0000,,Não. Foi de propósito.
+Dialogue: 0,0:08:26.77,0:08:27.94,Main,Mayoi,0000,0000,0000,,Me {\i1}emboiei{\i0}!
+Dialogue: 0,0:08:27.94,0:08:29.15,Main,Koyomi,0000,0000,0000,,Não foi de propósito?
+Dialogue: 0,0:08:29.15,0:08:33.03,Main,Mayoi,0000,0000,0000,,Embola-rebola-escola-viola-vitrola-rabiola.\N
+Dialogue: 0,0:08:33.36,0:08:35.45,Main,Koyomi,0000,0000,0000,,Como você consegue falar\Ntudo isso sem se enrolar?!
+Dialogue: 0,0:08:35.45,0:08:38.33,Main,Koyomi,0000,0000,0000,,Sou obrigado a ficar\Nmaravilhado com isso!
+Dialogue: 0,0:08:38.49,0:08:40.33,Main,Mayoi,0000,0000,0000,,Você está errado, Araragi-san.
+Dialogue: 0,0:08:46.04,0:08:50.96,Main,Mayoi,0000,0000,0000,,É um erro mais realista,\Nou um erro mais prático...
+Dialogue: 0,0:08:50.96,0:08:54.13,Main,Mayoi,0000,0000,0000,,Para ser sincera,\No local é diferente.
+Dialogue: 0,0:08:54.13,0:08:54.68,Main,Koyomi,0000,0000,0000,,Local?
+Dialogue: 0,0:08:57.05,0:08:59.22,Main,Mayoi,0000,0000,0000,,Araragi-san, você estava falando
+Dialogue: 0,0:09:00.89,0:09:04.43,Main,Mayoi,0000,0000,0000,,"esse templo isso" e\N"esse templo aquilo".
+Dialogue: 0,0:09:06.35,0:09:09.06,Main,Mayoi,0000,0000,0000,,Mas aqui não é o\Ntemplo Kitashirahebi.
+Dialogue: 0,0:09:11.61,0:09:13.82,Main,Mayoi,0000,0000,0000,,Hã? O quê?
+Dialogue: 0,0:09:14.19,0:09:18.45,Main,Mayoi,0000,0000,0000,,E nem é o parque em que nos\Nconhecemos, Araragi-san.
+Dialogue: 0,0:09:18.91,0:09:19.62,Main,Koyomi,0000,0000,0000,,O quê?
+Dialogue: 0,0:09:21.95,0:09:24.87,Main,Mayoi,0000,0000,0000,,Araragi-san, se acalme\Ne me ouça bem.
+Dialogue: 0,0:09:26.04,0:09:28.83,Main,Mayoi,0000,0000,0000,,Você deve estar pensando que eu,
+Dialogue: 0,0:09:28.83,0:09:33.63,Main,Mayoi,0000,0000,0000,,uma pessoa que descansou\Nem paz, voltou para você.
+Dialogue: 0,0:09:33.63,0:09:36.88,Main,Mayoi,0000,0000,0000,,Mas na verdade,\Na realidade não é essa.
+Dialogue: 0,0:09:37.05,0:09:37.76,Main,Koyomi,0000,0000,0000,,O quê?
+Dialogue: 0,0:09:37.09,0:09:37.76,sign_13837_27_O_qu___,SCREEN,0000,0000,0000,,O quê?
+Dialogue: 0,0:09:38.05,0:09:40.76,Main,Mayoi,0000,0000,0000,,Não é que eu apareci\Npara você, Araragi-san.
+Dialogue: 0,0:09:41.10,0:09:44.02,Main,Mayoi,0000,0000,0000,,Foi {\i1}você{\i0} que apareceu\Npara mim, viu?
+Dialogue: 0,0:09:44.18,0:09:44.64,sign_13837_27_O_qu___,SCREEN,0000,0000,0000,,O quê?
+Dialogue: 0,0:09:44.39,0:09:45.18,Main,Koyomi,0000,0000,0000,,O quê? O quê?
+Dialogue: 0,0:09:44.73,0:09:45.18,sign_13837_27_O_qu___,SCREEN,0000,0000,0000,,O quê?²
+Dialogue: 0,0:09:45.60,0:09:51.82,Main,Mayoi,0000,0000,0000,,Araragi-san, de manhã cedo, no dia 13 de\Nmarço, você visitou o tal templo Kitashirahebi,
+Dialogue: 0,0:09:51.82,0:09:56.28,Main,Mayoi,0000,0000,0000,,se encontrou com a Gaen\NIzuko-san, e foi morto.
+Dialogue: 0,0:09:58.03,0:10:00.87,Flashback,Izuko,0000,0000,0000,,E a solução é você morrer.
+Dialogue: 0,0:10:01.87,0:10:04.54,Flashback,Izuko,0000,0000,0000,,Não se preocupe.\NSó vai doer por um instante.
+Dialogue: 0,0:10:04.79,0:10:05.79,sign_14502_30_HACHIKUJI_BUS,SCREEN,0000,0000,0000,,Hachikuji BUS
+Dialogue: 0,0:10:06.00,0:10:07.87,Main,Mayoi,0000,0000,0000,,Este lugar, Araragi-san...
+Dialogue: 0,0:10:08.79,0:10:09.67,Main,Mayoi,0000,0000,0000,,...é o Inferno.
+Dialogue: 0,0:10:10.29,0:10:10.92,Main,Koyomi,0000,0000,0000,,Como?
+Dialogue: 0,0:10:11.13,0:10:13.67,Main,Mayoi,0000,0000,0000,,O Inferno mais baixo,\Nentre todos os infernos.
+Dialogue: 0,0:10:16.38,0:10:17.63,Main,Mayoi,0000,0000,0000,,O Inferno Avici.
+Dialogue: 0,0:10:18.68,0:10:19.01,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:10:23.14,0:10:26.22,Main,Koyomi,0000,0000,0000,,Inferno? Inferno?! Inferno Avici?
+Dialogue: 0,0:10:27.10,0:10:30.35,sign_15049_32_Sanjiva___Kalasu,SCREEN,0000,0000,0000,,Sanjiva / Kalasutra / Samghata\NRaurava / Maharaurava / Tapana
+Dialogue: 0,0:10:27.64,0:10:31.36,Main,Koyomi,0000,0000,0000,,Se aqui for mesmo o {\i1}Avici{\i0}, eu\Ntenho uma grande pergunta.
+Dialogue: 0,0:10:32.23,0:10:37.82,Main,Mayoi,0000,0000,0000,,Você deve estar se perguntando por\Nque caiu em uma parte tão profunda.
+Dialogue: 0,0:10:38.20,0:10:41.57,Main,Mayoi,0000,0000,0000,,Ora, você se transformou\Nnum vampiro, não?
+Dialogue: 0,0:10:38.20,0:10:41.57,sign_15302_33_Nhung__,SCREEN,0000,0000,0000,,Nhung?!
+Dialogue: 0,0:10:42.74,0:10:47.20,Main,Mayoi,0000,0000,0000,,O principal pecado que o rebaixou ao {\i1}Avici\N{\i0}é simplesmente esse. Salvar um demônio.
+Dialogue: 0,0:10:48.08,0:10:50.58,sign_15539_34_Tour_pelo_Infern,SCREEN,0000,0000,0000,,Tour pelo Inferno
+Dialogue: 0,0:10:48.46,0:10:50.58,Main,Mayoi,0000,0000,0000,,É lógico que você viria parar aqui.
+Dialogue: 0,0:11:00.80,0:11:01.72,Main,Koyomi,0000,0000,0000,,{\i1}Entendi.
+Dialogue: 0,0:11:02.59,0:11:07.97,Main,Koyomi,0000,0000,0000,,{\i1}Não, a grande pergunta não é\Nsobre o meu pecado grave.
+Dialogue: 0,0:11:08.43,0:11:10.89,Main,Koyomi,0000,0000,0000,,O que diabos {\i1}você{\i0}\Nestá fazendo aqui?!
+Dialogue: 0,0:11:11.14,0:11:12.94,Main,Mayoi,0000,0000,0000,,Não adianta me perguntar...
+Dialogue: 0,0:11:13.36,0:11:16.57,Main,Mayoi,0000,0000,0000,,Mas bem, veja, eu caí no Inferno.
+Dialogue: 0,0:11:21.95,0:11:25.70,Main,Koyomi,0000,0000,0000,,Só pode ser brincadeira! Depois\Ndaquele descanso em paz tão tocante?!
+Dialogue: 0,0:11:25.70,0:11:29.96,Main,Koyomi,0000,0000,0000,,Veio para cá depois daquilo? Foi?
+Dialogue: 0,0:11:29.96,0:11:32.42,Main,Koyomi,0000,0000,0000,,O que você tem na\Ncabeça?! Não pode ser!
+Dialogue: 0,0:11:34.08,0:11:37.67,Main,Mayoi,0000,0000,0000,,Ah, eu também não\Nsabia, até cair aqui.
+Dialogue: 0,0:11:39.13,0:11:44.30,Main,Mayoi,0000,0000,0000,,Aparentemente, quando uma criança morre\Nantes de seus pais, ela vai para o Inferno.
+Dialogue: 0,0:11:45.80,0:11:47.06,sign_16923_35____aquela_coisa_,SCREEN,0000,0000,0000,,Aquilo de empilhar pedras na beira do rio do Inferno.
+Dialogue: 0,0:11:48.60,0:11:50.06,Main,Koyomi,0000,0000,0000,,É brincadeira, não é?
+Dialogue: 0,0:11:52.44,0:11:55.06,Main,Mayoi,0000,0000,0000,,Hein? O que houve, Araragi-san?
+Dialogue: 0,0:11:55.52,0:11:56.31,Main,Koyomi,0000,0000,0000,,{\i1}Mesmo assim...
+Dialogue: 0,0:11:57.40,0:12:02.82,Main,Koyomi,0000,0000,0000,,Não é um pecado tão grave que faria você\Ncair até o {\i1}Avici{\i0}, diferente de mim, certo?
+Dialogue: 0,0:12:03.20,0:12:05.82,Main,Koyomi,0000,0000,0000,,Você não deveria estar empilhando\Npedras na beira do rio?
+Dialogue: 0,0:12:06.16,0:12:08.83,Main,Mayoi,0000,0000,0000,,Sim, exatamente, Araragi-san.
+Dialogue: 0,0:12:10.54,0:12:14.17,Main,Mayoi,0000,0000,0000,,Sabia que você cairia bem aqui.
+Dialogue: 0,0:12:14.17,0:12:20.09,Main,Mayoi,0000,0000,0000,,Por isso eu vim da beira do\Nrio do Inferno, para buscá-lo.
+Dialogue: 0,0:12:22.42,0:12:27.72,Main,Mayoi,0000,0000,0000,,"Acho que tem um amigo chegando aqui, então\Nvou tirar uma folguinha de empilhar pedras!"
+Dialogue: 0,0:12:27.80,0:12:29.35,Main,Mayoi,0000,0000,0000,,Foi assim que escapei.
+Dialogue: 0,0:12:29.64,0:12:32.60,Main,Koyomi,0000,0000,0000,,Então a beira do rio do\NInferno é um lugar calmo?
+Dialogue: 0,0:12:38.94,0:12:40.61,Main,Koyomi,0000,0000,0000,,Você já sabia?
+Dialogue: 0,0:12:40.86,0:12:45.86,Main,Mayoi,0000,0000,0000,,Não, não é que eu sabia. Quem\Nsabia era a pessoa que me contou.
+Dialogue: 0,0:12:47.41,0:12:48.87,Main,Mayoi,0000,0000,0000,,Aparentemente, essa pessoa...
+Dialogue: 0,0:12:50.33,0:12:53.25,Main,Mayoi,0000,0000,0000,,...sabe de tudo.
+Dialogue: 0,0:12:53.25,0:12:54.00,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:12:55.04,0:12:59.54,Main,Mayoi,0000,0000,0000,,Agora que explicações detalhadas\Nde todos os mistérios foram dadas,
+Dialogue: 0,0:12:59.54,0:13:01.25,Main,Mayoi,0000,0000,0000,,vamos começar a andar.
+Dialogue: 0,0:13:02.01,0:13:03.76,Main,Mayoi,0000,0000,0000,,Vamos, Araragi-san.
+Dialogue: 0,0:13:07.18,0:13:10.43,Main,Koyomi,0000,0000,0000,,Hachikuji, você não vacilou em\Nnenhum momento nos passos até aqui.
+Dialogue: 0,0:13:10.43,0:13:13.27,Main,Koyomi,0000,0000,0000,,Mas pelo menos pode me\Ndizer qual é o nosso destino?
+Dialogue: 0,0:13:13.48,0:13:18.86,Main,Mayoi,0000,0000,0000,,Para falar do nosso destino,\Npreciso falar do nosso objetivo.
+Dialogue: 0,0:13:18.86,0:13:22.28,Main,Mayoi,0000,0000,0000,,Araragi-san, meu trabalho\Né fazê-lo voltar à vida.
+Dialogue: 0,0:13:22.57,0:13:24.90,Main,Koyomi,0000,0000,0000,,Hã? Eu posso voltar à vida?
+Dialogue: 0,0:13:25.11,0:13:28.53,Main,Mayoi,0000,0000,0000,,Claro que pode.\NDo que adianta ficar morto?
+Dialogue: 0,0:13:28.53,0:13:30.41,Main,Koyomi,0000,0000,0000,,Mas a Gaen-san...
+Dialogue: 0,0:13:30.41,0:13:33.54,Main,Mayoi,0000,0000,0000,,Não, poxa! Coloque\Na cabeça no lugar.
+Dialogue: 0,0:13:34.08,0:13:37.37,Main,Mayoi,0000,0000,0000,,Quero dizer que "morrer\Ne reviver" estava incluso
+Dialogue: 0,0:13:37.37,0:13:40.59,Main,Mayoi,0000,0000,0000,,nos planos e cálculos\Nque ela havia feito.
+Dialogue: 0,0:13:40.75,0:13:42.84,Main,Koyomi,0000,0000,0000,,Qual é a desses cálculos inúteis?
+Dialogue: 0,0:13:42.84,0:13:46.84,Main,Koyomi,0000,0000,0000,,É um ato bem inútil. Como dividir por\Ndois depois de multiplicar por dois.
+Dialogue: 0,0:13:47.09,0:13:50.10,Main,Mayoi,0000,0000,0000,,Não é "dividir por dois depois\Nde multiplicar por dois".
+Dialogue: 0,0:13:50.10,0:13:51.60,Main,Mayoi,0000,0000,0000,,Também há uma subtração.
+Dialogue: 0,0:13:53.27,0:13:55.60,Main,Mayoi,0000,0000,0000,,Bem, você vai entender\Neventualmente.
+Dialogue: 0,0:13:58.48,0:14:00.31,Main,Mayoi,0000,0000,0000,,Ah, Araragi-san.
+Dialogue: 0,0:14:01.27,0:14:04.07,Main,Mayoi,0000,0000,0000,,Tem alguém afundado ali no chão.
+Dialogue: 0,0:14:08.07,0:14:08.82,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:14:09.07,0:14:10.87,Main,Koyomi,0000,0000,0000,,Sh-Shinobu!
+Dialogue: 0,0:14:19.17,0:14:22.96,Main,Mayoi,0000,0000,0000,,Foi como se seu corpo tivesse\Nandado sozinho, Araragi-san?
+Dialogue: 0,0:14:23.50,0:14:29.68,Main,Mayoi,0000,0000,0000,,Que esquisito. Você tinha se arrependido tanto\Nte ter salvo a Shinobu-san durante as férias...
+Dialogue: 0,0:14:29.68,0:14:34.22,Main,Mayoi,0000,0000,0000,,Mas aqui, na mesma situação,\Npor que tentou fazer o mesmo?
+Dialogue: 0,0:14:34.43,0:14:36.73,Main,Koyomi,0000,0000,0000,,Ah, bem, é que...
+Dialogue: 0,0:14:37.52,0:14:40.35,Main,Koyomi,0000,0000,0000,,Só posso dizer que meu\Ncorpo andou sozinho.
+Dialogue: 0,0:14:42.44,0:14:43.98,Main,Koyomi,0000,0000,0000,,Eu ainda me pergunto
+Dialogue: 0,0:14:43.98,0:14:47.28,Main,Koyomi,0000,0000,0000,,o que teria acontecido se eu tivesse\Nignorado a Shinobu naquele dia.
+Dialogue: 0,0:14:47.28,0:14:50.07,Main,Koyomi,0000,0000,0000,,Penso e sonho com isso.
+Dialogue: 0,0:14:51.82,0:14:54.49,Main,Mayoi,0000,0000,0000,,Aqui!
+Dialogue: 0,0:14:57.33,0:15:01.08,Main,Mayoi,0000,0000,0000,,Ah, Araragi-san, tem um tarado\Nchegando. Tenha cuidado.
+Dialogue: 0,0:15:01.08,0:15:04.04,Main,Koyomi,0000,0000,0000,,Um tarado? Mas que problemão.
+Dialogue: 0,0:15:04.04,0:15:07.92,Main,Koyomi,0000,0000,0000,,Hachikuji, esconda-se nas minhas\Nroupas— Digo, atrás de mim.
+Dialogue: 0,0:15:07.92,0:15:10.26,Main,Mayoi,0000,0000,0000,,Você já disse "nas minhas roupas".
+Dialogue: 0,0:15:12.34,0:15:15.46,Main,Mayoi,0000,0000,0000,,Pode-se dizer que a sua\Nvida se tornou problemática
+Dialogue: 0,0:15:15.46,0:15:17.77,Main,Mayoi,0000,0000,0000,,depois que você\Nsalvou a Shinobu-san.
+Dialogue: 0,0:15:18.14,0:15:21.19,Main,Mayoi,0000,0000,0000,,Mas dito isso, um grande\Naspecto foi você ter conhecido
+Dialogue: 0,0:15:21.19,0:15:23.77,Main,Mayoi,0000,0000,0000,,a Hanekawa-san logo antes\Nde ter salvo a Shinobu-san.
+Dialogue: 0,0:15:24.48,0:15:28.53,Main,Koyomi,0000,0000,0000,,Bem, eu não nego que foi culpa\Nda Hanekawa, de várias maneiras.
+Dialogue: 0,0:15:29.69,0:15:36.12,Main,Koyomi,0000,0000,0000,,Porque ela não sabe de tudo,\Ne expôs verdades desnecessárias,
+Dialogue: 0,0:15:36.12,0:15:39.16,Main,Koyomi,0000,0000,0000,,pois esqueceu verdades\Nque não tinha que esquecer,
+Dialogue: 0,0:15:39.16,0:15:43.63,Main,Koyomi,0000,0000,0000,,passamos por atalhos perigosos e\Ndesvios impossíveis esse tempo todo.
+Dialogue: 0,0:15:44.92,0:15:45.54,Main,Koyomi,0000,0000,0000,,Mas...
+Dialogue: 0,0:15:45.96,0:15:48.30,Main,Koyomi,0000,0000,0000,,Mesmo assim, eu sou grato\Nde ter ficado amigo dela.
+Dialogue: 0,0:15:49.84,0:15:51.97,Main,Koyomi,0000,0000,0000,,Do fundo do coração.
+Dialogue: 0,0:15:59.64,0:16:00.68,Main,Koyomi,0000,0000,0000,,Senjougahara!
+Dialogue: 0,0:16:05.23,0:16:10.94,Main,Mayoi,0000,0000,0000,,Acredito que aqui havia a opção de não pegar\Na Senjougahara-san quando ela escorregou.
+Dialogue: 0,0:16:10.94,0:16:11.99,sign_23280_38_Nessa___poca__a_,SCREEN,0000,0000,0000,,Nessa época, a {\b1}Senjougahara-san{\b0} quase não tinha {\b1}peso{\b0},
+Dialogue: 0,0:16:11.99,0:16:12.95,sign_23280_38_Nessa___poca__a_,SCREEN,0000,0000,0000,,então, imagino que ela não teria se {\b1}machucado{\b0}.
+Dialogue: 0,0:16:13.32,0:16:14.70,Main,Mayoi,0000,0000,0000,,Mas, Araragi-san...
+Dialogue: 0,0:16:15.07,0:16:17.62,Main,Koyomi,0000,0000,0000,,Vou pegá-la sempre\Nque for necessário.
+Dialogue: 0,0:16:17.62,0:16:19.83,Main,Koyomi,0000,0000,0000,,Mesmo que ela caia do céu.
+Dialogue: 0,0:16:20.12,0:16:25.88,Main,Mayoi,0000,0000,0000,,Se por acaso você não tivesse\Nsegurado a Senjougahara-san,
+Dialogue: 0,0:16:26.67,0:16:31.21,Main,Mayoi,0000,0000,0000,,aquele golpista apareceria\Nna cidade logo depois, não?
+Dialogue: 0,0:16:31.42,0:16:34.84,Main,Koyomi,0000,0000,0000,,O golpista... Kaiki Deishuu.
+Dialogue: 0,0:16:35.14,0:16:38.60,Main,Mayoi,0000,0000,0000,,Se, naquele dia, você\Nnão tivesse atrapalhado,
+Dialogue: 0,0:16:38.93,0:16:41.47,Main,Mayoi,0000,0000,0000,,talvez eles tivessem\Nficado juntos de novo?
+Dialogue: 0,0:16:45.60,0:16:47.77,Main,Mayoi,0000,0000,0000,,E então, Araragi-san?
+Dialogue: 0,0:16:47.77,0:16:53.24,Main,Mayoi,0000,0000,0000,,Se você imaginar que talvez tenha\Natrapalhado o romance daqueles dois...
+Dialogue: 0,0:16:53.49,0:16:54.99,Main,Koyomi,0000,0000,0000,,Se eu {\i1}imaginar{\i0}?
+Dialogue: 0,0:16:55.36,0:16:59.24,Main,Koyomi,0000,0000,0000,,Ao mesmo tempo, sou obrigado\Na pensar num "chupa essa".
+Dialogue: 0,0:17:01.29,0:17:05.46,Main,Koyomi,0000,0000,0000,,É verdade que ela devia ao\NKaiki, com respeito à Sengoku.
+Dialogue: 0,0:17:05.46,0:17:07.83,Main,Koyomi,0000,0000,0000,,Mas isso é algo\Ncompletamente diferente.
+Dialogue: 0,0:17:08.38,0:17:12.01,Main,Koyomi,0000,0000,0000,,Posso dizer do fundo do coração:\Nseria melhor não tê-lo conhecido.
+Dialogue: 0,0:17:12.17,0:17:16.18,Main,Mayoi,0000,0000,0000,,Por fim, vamos passar pela parte do Sengoku-san,\Ncujo nome você acabou de mencionar.
+Dialogue: 0,0:17:17.55,0:17:18.93,Main,Koyomi,0000,0000,0000,,Ué, mas e a Kanbaru?
+Dialogue: 0,0:17:20.60,0:17:22.43,Main,Mayoi,0000,0000,0000,,É uma parte diferente.
+Dialogue: 0,0:17:24.56,0:17:27.95,Main,Koyomi,0000,0000,0000,,Com respeito à Shinobu, com respeito à\NHanekawa, com respeito à Senjougahara,
+Dialogue: 0,0:17:27.95,0:17:29.94,Main,Koyomi,0000,0000,0000,,e, obviamente, com\Nrespeito à Hachikuji...
+Dialogue: 0,0:17:30.32,0:17:32.86,Main,Koyomi,0000,0000,0000,,Se eu passasse pelas\Nmesmas situações de novo,
+Dialogue: 0,0:17:32.86,0:17:35.74,Main,Koyomi,0000,0000,0000,,tenho certeza de que faria\Na mesma coisa sempre.
+Dialogue: 0,0:17:35.74,0:17:40.70,Main,Koyomi,0000,0000,0000,,Mas não importa o que eu faça, não consigo\Nparar de pensar que poderia fazer melhor.
+Dialogue: 0,0:17:40.95,0:17:44.48,Main,Mayoi,0000,0000,0000,,Acho que você está indo\Nmuito bem, Araragi-san.
+Dialogue: 0,0:17:44.48,0:17:47.29,Main,Mayoi,0000,0000,0000,,Pelo menos em tudo o\Nque me diz respeito.
+Dialogue: 0,0:17:47.29,0:17:50.96,Main,Koyomi,0000,0000,0000,,Quando diz isso, meio que sinto\Ncomo se estivesse sendo salvo.
+Dialogue: 0,0:17:52.25,0:17:56.59,Main,Koyomi,0000,0000,0000,,Mas quando se trata\Nda Sengoku, eu falhei.
+Dialogue: 0,0:18:05.23,0:18:09.19,Main,Koyomi,0000,0000,0000,,{\i1}Nos degraus da montanha real,\Nquando passei pela Sengoku Nadeko...{\i0}
+Dialogue: 0,0:18:09.90,0:18:14.61,Main,Koyomi,0000,0000,0000,,{\i1}Naquela época, não consegui\Nperceber que era ela.{\i0}
+Dialogue: 0,0:18:21.95,0:18:25.41,Main,Mayoi,0000,0000,0000,,Não sei, você não é\Nonipotente, afinal de contas.
+Dialogue: 0,0:18:25.41,0:18:28.87,Main,Mayoi,0000,0000,0000,,É melhor distinguir esse tipo de\Ncoisa, como a Hanekawa-san faz.
+Dialogue: 0,0:18:32.34,0:18:35.26,Main,Mayoi,0000,0000,0000,,Aliás, a Ononoki-san está bem?
+Dialogue: 0,0:18:36.05,0:18:37.63,Main,Koyomi,0000,0000,0000,,Bom, está sim.
+Dialogue: 0,0:18:37.72,0:18:42.14,Main,Mayoi,0000,0000,0000,,Sei. Então, como a pessoa que a\Nindicou para ser minha sucessora,
+Dialogue: 0,0:18:42.14,0:18:44.01,Main,Mayoi,0000,0000,0000,,quero suspirar de alívio.
+Dialogue: 0,0:18:44.31,0:18:46.68,Main,Koyomi,0000,0000,0000,,A Ononoki-chan... Sua sucessora?!
+Dialogue: 0,0:18:46.98,0:18:49.31,Main,Mayoi,0000,0000,0000,,Sim. A sucessora sancionada.
+Dialogue: 0,0:18:49.31,0:18:49.81,sign_27077_40_Sancionado,SCREEN,0000,0000,0000,,Sancionado
+Dialogue: 0,0:18:49.81,0:18:50.31,sign_27089_41_Sucessor,SCREEN,0000,0000,0000,,Sucessor
+Dialogue: 0,0:18:50.73,0:18:54.82,Main,Mayoi,0000,0000,0000,,Tenho certeza que ela tem boas\Nconversas com você, Araragi-san.
+Dialogue: 0,0:18:57.61,0:19:03.32,Main,Koyomi,0000,0000,0000,,Pensando bem, a Ononoki-chan não\Nestá nessa peregrinação de 89 pontos.
+Dialogue: 0,0:19:03.95,0:19:06.20,sign_27428_42_Encerra_,SCREEN,0000,0000,0000,,Encerra!
+Dialogue: 0,0:19:04.16,0:19:06.20,Main,Mayoi,0000,0000,0000,,Temos um limite de tempo...
+Dialogue: 0,0:19:06.45,0:19:07.83,Main,Koyomi,0000,0000,0000,,Limite de tempo?
+Dialogue: 0,0:19:08.12,0:19:11.50,Main,Mayoi,0000,0000,0000,,Sim. É uma decisão difícil\Nda Hachikuji-P.
+Dialogue: 0,0:19:11.50,0:19:15.46,Main,Mayoi,0000,0000,0000,,Bem, o anime já focou bastante na\NOnonoki-san, então sem problemas.
+Dialogue: 0,0:19:15.71,0:19:18.59,Main,Koyomi,0000,0000,0000,,Não precisamos equilibrar\Nas coisas assim...
+Dialogue: 0,0:19:19.97,0:19:21.30,Main,Koyomi,0000,0000,0000,,Equilíbrio...
+Dialogue: 0,0:19:22.64,0:19:24.85,Main,Koyomi,0000,0000,0000,,{\i1}Era isso o que estava\Nme incomodando.
+Dialogue: 0,0:19:25.60,0:19:27.31,Main,Koyomi,0000,0000,0000,,{\i1}Equilíbrio.
+Dialogue: 0,0:19:37.19,0:19:38.19,Main,Koyomi,0000,0000,0000,,A coisa certa.
+Dialogue: 0,0:19:38.40,0:19:41.03,Main,Mayoi,0000,0000,0000,,Sim? O que foi, Araragi-san?
+Dialogue: 0,0:19:41.03,0:19:44.90,Main,Koyomi,0000,0000,0000,,Bem, estava me lembrando de uma\Ndiscussão com as Fire Sisters,
+Dialogue: 0,0:19:44.90,0:19:47.74,Main,Koyomi,0000,0000,0000,,as defensoras da justiça,\Nsobre algo assim.
+Dialogue: 0,0:19:47.74,0:19:49.45,Main,Koyomi,0000,0000,0000,,Me lembrei do nada.
+Dialogue: 0,0:19:50.75,0:19:55.25,Main,Mayoi,0000,0000,0000,,Bem, estamos quase no topo. Se quer\Ndiscutir mais alguma coisa, seja rápido.
+Dialogue: 0,0:19:55.25,0:19:58.46,Main,Mayoi,0000,0000,0000,,Porque provavelmente\Nserá nossa última conversa.
+Dialogue: 0,0:19:58.67,0:19:59.30,Main,Koyomi,0000,0000,0000,,Hã?
+Dialogue: 0,0:19:59.30,0:20:00.84,sign_28755_43_Ent__o__eu_queri,SCREEN,0000,0000,0000,,Então, eu queria conversar sobre {\b1}outra coisa{\b0}.
+Dialogue: 0,0:20:04.68,0:20:08.68,Main,Koyomi,0000,0000,0000,,A conversa era sobre como\Né difícil fazer a coisa certa.
+Dialogue: 0,0:20:08.68,0:20:14.10,Main,Koyomi,0000,0000,0000,,A maioria das pessoas se esforça mais para\Ncorrigir o que está errado do que fazer o certo.
+Dialogue: 0,0:20:14.15,0:20:18.23,Main,Mayoi,0000,0000,0000,,Fazer a coisa certa e corrigir\Nos erros são coisas diferentes?
+Dialogue: 0,0:20:18.61,0:20:22.49,Main,Koyomi,0000,0000,0000,,É parecido, mas diferente.\NNão é exato, mas está próximo.
+Dialogue: 0,0:20:22.49,0:20:23.28,sign_29311_44_O_ato_de__corrig,SCREEN,0000,0000,0000,,O ato de {\b0\3c&H0700BB&}"corrigir um erro"{\b1}
+Dialogue: 0,0:20:23.28,0:20:24.28,sign_29330_45_faz_as_pessoas_s,SCREEN,0000,0000,0000,,faz com que as pessoas sintam como
+Dialogue: 0,0:20:24.28,0:20:24.99,sign_29354_46_estivessem_fazen,SCREEN,0000,0000,0000,,se estivessem {\b0}fazendo a coisa certa{\b1}.
+Dialogue: 0,0:20:25.24,0:20:27.58,Main,Koyomi,0000,0000,0000,,Se você ficar corrigindo erros...
+Dialogue: 0,0:20:27.58,0:20:33.58,Main,Koyomi,0000,0000,0000,,Se esmagar os erros um a um, um dia\Neles virarão um acerto branco e puro?
+Dialogue: 0,0:20:33.58,0:20:37.00,Main,Koyomi,0000,0000,0000,,Na minha opinião, diria que seria\Num "certo" de um preto profundo.
+Dialogue: 0,0:20:37.92,0:20:41.63,Main,Koyomi,0000,0000,0000,,Enfim, em suma, é isso\No que eu quero saber.
+Dialogue: 0,0:20:41.92,0:20:46.39,Main,Mayoi,0000,0000,0000,,Mas, se você seguir este caminho,\Nnão conseguirá o que realmente quer.
+Dialogue: 0,0:20:46.80,0:20:48.14,Main,Koyomi,0000,0000,0000,,Não vou conseguir...
+Dialogue: 0,0:20:49.18,0:20:50.89,Main,Koyomi,0000,0000,0000,,...o que realmente quero?
+Dialogue: 0,0:20:51.18,0:20:54.44,Main,Mayoi,0000,0000,0000,,Porque a premissa é de\Nque há alguém avaliando.
+Dialogue: 0,0:20:54.44,0:20:57.61,Main,Mayoi,0000,0000,0000,,Desse jeito, você só receberá\No que os outros vão lhe dar.
+Dialogue: 0,0:20:57.61,0:21:00.82,Main,Mayoi,0000,0000,0000,,Obviamente, não estou\Ndizendo que é ruim.
+Dialogue: 0,0:21:00.82,0:21:05.53,Main,Mayoi,0000,0000,0000,,Se alguém buscasse algo fora\Ndo alcance, como você faz,
+Dialogue: 0,0:21:05.86,0:21:07.78,Main,Mayoi,0000,0000,0000,,esse método tornaria\Na tarefa impossível.
+Dialogue: 0,0:21:07.78,0:21:08.45,sign_30397_47_Errar_muito,SCREEN,0000,0000,0000,,Errar muito
+Dialogue: 0,0:21:08.49,0:21:09.03,sign_30414_48_Falhar_muito,SCREEN,0000,0000,0000,,Falhar muito
+Dialogue: 0,0:21:09.03,0:21:09.66,sign_30427_49_Refazer_e_repeti,SCREEN,0000,0000,0000,,Refazer e repetir
+Dialogue: 0,0:21:09.66,0:21:10.45,sign_30442_50_Hesitar_Bater_o_,SCREEN,0000,0000,0000,,Hesitar\NBater o pé de frustração
+Dialogue: 0,0:21:10.45,0:21:11.20,sign_30461_51_Repetir_por_tent,SCREEN,0000,0000,0000,,Repetir por tentativa e erro
+Dialogue: 0,0:21:11.20,0:21:11.91,sign_30479_52_E_ao_fim_das_mai,SCREEN,0000,0000,0000,,E ao fim das mais altas reclamações...
+Dialogue: 0,0:21:12.08,0:21:14.91,Main,Mayoi,0000,0000,0000,,Só resta ter sucesso, não?
+Dialogue: 0,0:21:16.96,0:21:21.84,Main,Koyomi,0000,0000,0000,,Não é que eu não\Nquisesse falar de mim.
+Dialogue: 0,0:21:21.84,0:21:26.43,Main,Koyomi,0000,0000,0000,,Bom, talvez seja o caso.\NNão, é como deve ser.
+Dialogue: 0,0:21:26.97,0:21:30.97,Main,Mayoi,0000,0000,0000,,Você acabou de dizer que não\Nestava falando de si mesmo.
+Dialogue: 0,0:21:30.97,0:21:33.81,Main,Mayoi,0000,0000,0000,,Então de quem estava falando?
+Dialogue: 0,0:21:39.19,0:21:42.90,Main,Koyomi,0000,0000,0000,,{\i1}Das defensoras da\Njustiça, as Fire Sisters?
+Dialogue: 0,0:21:42.90,0:21:45.45,Main,Koyomi,0000,0000,0000,,{\i1}A história era sobre a Oshino?
+Dialogue: 0,0:21:46.24,0:21:47.66,Main,Koyomi,0000,0000,0000,,{\i1}Não, não era.
+Dialogue: 0,0:21:47.66,0:21:50.45,Main,Koyomi,0000,0000,0000,,{\i1}Provavelmente,\No que eu queria dizer...
+Dialogue: 0,0:21:50.45,0:21:52.95,Main,Koyomi,0000,0000,0000,,{\i1}Eu queria falar... sobre ela.
+Dialogue: 0,0:21:53.70,0:21:55.54,Main,Koyomi,0000,0000,0000,,{\i1}A nova aluna.
+Dialogue: 0,0:21:55.54,0:21:57.21,Main,Koyomi,0000,0000,0000,,{\i1}A sobrinha de Oshino Meme.
+Dialogue: 0,0:21:57.92,0:22:00.96,Main,Koyomi,0000,0000,0000,,{\i1}Oshino Ougi. Era sobre ela.
+Dialogue: 0,0:22:01.92,0:22:05.76,Main,Koyomi,0000,0000,0000,,{\i1}Por que o nome dela não passou\Npela minha mente até agora?
+Dialogue: 0,0:22:05.76,0:22:08.72,Main,Koyomi,0000,0000,0000,,{\i1}Por que não consegui lembrar dela?\NNão é um pouco estranho?
+Dialogue: 0,0:22:09.72,0:22:12.50,Main,Koyomi,0000,0000,0000,,{\i1}Foi ela que, nesse último ano,
+Dialogue: 0,0:22:12.50,0:22:15.10,Main,Koyomi,0000,0000,0000,,{\i1}foi a pessoa mais\Nimportante no segundo semestre.
+Dialogue: 0,0:22:23.11,0:22:27.11,Main,Tadatsuru,0000,0000,0000,,Olá, Araragi-kun.\NEstava à sua espera.
+Dialogue: 0,0:22:30.11,0:22:31.62,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:22:33.62,0:22:35.20,Main,Koyomi,0000,0000,0000,,O que está fazendo aqui?
+Dialogue: 0,0:22:41.29,0:22:46.59,Main,Mayoi,0000,0000,0000,,Quem me notificou sobre o desejo\N"dela" foi o Teori-san, que está ali.
+Dialogue: 0,0:22:47.26,0:22:48.72,Main,Koyomi,0000,0000,0000,,N-Notificou?
+Dialogue: 0,0:22:48.80,0:22:51.97,Main,Tadatsuru,0000,0000,0000,,Não me olhe assim, Araragi-kun.
+Dialogue: 0,0:22:51.97,0:22:55.47,Main,Tadatsuru,0000,0000,0000,,Darei explicações.
+Dialogue: 0,0:22:55.77,0:22:57.60,Main,Koyomi,0000,0000,0000,,Você é...
+Dialogue: 0,0:22:57.64,0:23:01.60,Main,Koyomi,0000,0000,0000,,Um especialista no extermínio\Nde aparições imortais, não é?
+Dialogue: 0,0:23:02.81,0:23:05.11,Main,Tadatsuru,0000,0000,0000,,Por ora, não há com\No que se preocupar.
+Dialogue: 0,0:23:05.44,0:23:06.11,Main,Koyomi,0000,0000,0000,,O quê?
+Dialogue: 0,0:23:07.78,0:23:09.82,Main,Tadatsuru,0000,0000,0000,,Pois a sua natureza vampiresca...
+Dialogue: 0,0:23:09.82,0:23:11.11,Main,Tadatsuru,0000,0000,0000,,...foi tirada de você.
+Dialogue: 0,0:23:16.24,0:23:18.04,Main,Koyomi,0000,0000,0000,,{\i1}Ah, saquei.{\i0}
+Dialogue: 0,0:23:18.04,0:23:21.29,Main,Koyomi,0000,0000,0000,,{\i1}Então era disso que a\NHachikuji estava falando.{\i0}
+Dialogue: 0,0:23:22.04,0:23:26.05,Main,Koyomi,0000,0000,0000,,{\i1}Não era só uma multiplicação e uma\Ndivisão. Havia também uma subtração.{\i0}
+Dialogue: 0,0:23:26.05,0:23:29.01,Main,Koyomi,0000,0000,0000,,{\i1}O número subtraído era\Nminha natureza vampiresca.{\i0}
+Dialogue: 0,0:23:31.43,0:23:34.02,Main,Tadatsuru,0000,0000,0000,,A Yotsugi está bem?
+Dialogue: 0,0:23:34.02,0:23:38.14,Main,Tadatsuru,0000,0000,0000,,Espero que ela não esteja se\Npreocupando por ter me matado.
+Dialogue: 0,0:23:38.93,0:23:42.56,Main,Tadatsuru,0000,0000,0000,,Afinal, ela não estava ciente de\Ntodas as nossas circunstâncias.
+Dialogue: 0,0:23:42.73,0:23:44.31,Main,Koyomi,0000,0000,0000,,E quais eram?
+Dialogue: 0,0:23:46.27,0:23:48.23,Main,Tadatsuru,0000,0000,0000,,Falando de forma sucinta...
+Dialogue: 0,0:23:48.44,0:23:55.91,Main,Tadatsuru,0000,0000,0000,,Ser morto pela Yotsugi daquela\Nforma é o papel que foi dado a mim.
+Dialogue: 0,0:23:57.56,0:24:04.14,Main,Tadatsuru,0000,0000,0000,,Para que eu caísse ao Inferno adiantado\Ne preparasse tudo para sua ressurreição.
+Dialogue: 0,0:24:04.14,0:24:07.63,Main,Tadatsuru,0000,0000,0000,,Era o meu trabalho como\Nespecialista profissional.
+Dialogue: 0,0:24:10.13,0:24:13.13,sign_4749_5_Parte_um,SCREEN,0000,0000,0000,,Parte dois
+Dialogue: 0,0:24:13.13,0:24:14.26,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:24:15.55,0:24:16.26,Main,Koyomi,0000,0000,0000,,Hã?
+Dialogue: 0,0:24:24.73,0:24:25.73,sign_35119_56_Cinco_minutos_de,SCREEN,0000,0000,0000,,Cinco minutos depois
+Dialogue: 0,0:24:26.15,0:24:28.57,Main,Koyomi,0000,0000,0000,,E-Então você se fingiu de morto?
+Dialogue: 0,0:24:30.15,0:24:35.95,Main,Tadatsuru,0000,0000,0000,,O indivíduo conhecido como "eu" já havia\Nfalecido num ponto distante do passado.
+Dialogue: 0,0:24:36.24,0:24:41.45,Main,Tadatsuru,0000,0000,0000,,Naquele dia, o "eu" que a Yotsugi\Nmatou era um mero fantoche.
+Dialogue: 0,0:24:46.29,0:24:50.46,Main,Koyomi,0000,0000,0000,,Disse que a Ononoki-chan\Nnão sabia sobre isso?
+Dialogue: 0,0:24:50.59,0:24:55.97,Main,Tadatsuru,0000,0000,0000,,Exatamente. Não só a Yotsugi,\Nmas a Yozuru também não.
+Dialogue: 0,0:24:56.18,0:24:58.72,Main,Tadatsuru,0000,0000,0000,,As únicas pessoas que\Nsabiam de tal técnica
+Dialogue: 0,0:24:58.80,0:25:03.23,Main,Tadatsuru,0000,0000,0000,,eram a Gaen-senpai\Ne o Oshino Meme.
+Dialogue: 0,0:25:05.77,0:25:09.52,Main,Koyomi,0000,0000,0000,,Então o que foi aquela farsa toda?
+Dialogue: 0,0:25:09.52,0:25:13.99,Main,Tadatsuru,0000,0000,0000,,Farsa? Foi o melhor ato do meu livro.
+Dialogue: 0,0:25:15.82,0:25:18.53,Main,Tadatsuru,0000,0000,0000,,Morrer, reviver e tudo mais.
+Dialogue: 0,0:25:18.53,0:25:21.87,Main,Tadatsuru,0000,0000,0000,,Pode-se dizer que é a minha especialidade,\Nmelhor do que a de vampiros.
+Dialogue: 0,0:25:22.50,0:25:27.00,Main,Tadatsuru,0000,0000,0000,,Bem, a rigor, eu não estou\Nvoltando à vida de verdade.
+Dialogue: 0,0:25:27.46,0:25:29.71,Main,Tadatsuru,0000,0000,0000,,Estou apenas possuindo uma boneca
+Dialogue: 0,0:25:29.71,0:25:32.84,Main,Tadatsuru,0000,0000,0000,,e usando-a como meio de\Nregressar ao mundo material.
+Dialogue: 0,0:25:32.84,0:25:33.84,Main,Koyomi,0000,0000,0000,,Desde quando?
+Dialogue: 0,0:25:33.84,0:25:36.22,Main,Tadatsuru,0000,0000,0000,,Me tornei um titereiro
+Dialogue: 0,0:25:36.22,0:25:40.76,Main,Tadatsuru,0000,0000,0000,,depois de criar a boneca conhecida\Npor Yotsugi e me separar dela.
+Dialogue: 0,0:25:42.89,0:25:43.52,Main,Tadatsuru,0000,0000,0000,,Ora.
+Dialogue: 0,0:25:48.02,0:25:50.27,White Frame,SCREEN,0000,0000,0000,,Quadro Branco
+Dialogue: 0,0:25:48.23,0:25:50.27,Main,Tadatsuru,0000,0000,0000,,Parece que estou sendo apressado.
+Dialogue: 0,0:25:50.90,0:25:52.90,Main,Tadatsuru,0000,0000,0000,,Explicarei em termos simples:
+Dialogue: 0,0:25:54.28,0:25:57.57,Main,Tadatsuru,0000,0000,0000,,desisti da faculdade e entrei nesse ramo.
+Dialogue: 0,0:25:58.28,0:26:03.66,Main,Tadatsuru,0000,0000,0000,,Mas com a Gaen-senpai me encarando, eu\Nnão conseguia fazer as coisas como queria.
+Dialogue: 0,0:26:04.20,0:26:10.13,Main,Tadatsuru,0000,0000,0000,,Então tomei uma decisão às pressas:\Nutilizar a técnica proibida.
+Dialogue: 0,0:26:10.13,0:26:14.67,Main,Tadatsuru,0000,0000,0000,,Como especialista, era um feitiço\Npoderoso demais, além de ser proibido.
+Dialogue: 0,0:26:15.13,0:26:19.30,Main,Tadatsuru,0000,0000,0000,,Tentei criar um boneco\Nchamado Teori Tadatsuru.
+Dialogue: 0,0:26:20.05,0:26:22.56,Main,Koyomi,0000,0000,0000,,Isso deu certo?
+Dialogue: 0,0:26:23.26,0:26:27.56,Main,Tadatsuru,0000,0000,0000,,Não. Esse foi o resultado.
+Dialogue: 0,0:26:27.56,0:26:30.56,Main,Tadatsuru,0000,0000,0000,,Me tornei meio-humano\Ne meio-monstro,
+Dialogue: 0,0:26:30.56,0:26:33.69,Main,Tadatsuru,0000,0000,0000,,vagando pela fronteira do\Nmundo material e espiritual.
+Dialogue: 0,0:26:34.32,0:26:39.74,Main,Tadatsuru,0000,0000,0000,,Bem, eu digo que foi um fracasso, mas\Ncontinuo vivendo por meio dos meus bonecos.
+Dialogue: 0,0:26:40.22,0:26:44.08,Main,Tadatsuru,0000,0000,0000,,E desde então, tive sucesso em\Nproduzir bonecos em massa.
+Dialogue: 0,0:26:44.08,0:26:46.91,Main,Tadatsuru,0000,0000,0000,,Então, se me chamam de\Nimortal, eu sou imortal.
+Dialogue: 0,0:26:46.91,0:26:49.04,Main,Tadatsuru,0000,0000,0000,,Se me chamam de aparição,\Neu sou uma aparição.
+Dialogue: 0,0:26:49.46,0:26:53.59,Main,Tadatsuru,0000,0000,0000,,Acima de tudo, faço bom uso da minha constituição\Nespecial para me dedicar aos negócios.
+Dialogue: 0,0:26:53.59,0:26:54.63,sign_38688_58_Justamente_por_e,SCREEN,0000,0000,0000,,Justamente por ele ter {\b0}uma constituição especial{\b1}
+Dialogue: 0,0:26:54.63,0:26:56.59,sign_38688_58_Justamente_por_e,SCREEN,0000,0000,0000,,que foi capaz de chegar tão longe,\Nfora da rede da Gaen-san...
+Dialogue: 0,0:26:56.76,0:26:59.34,Main,Koyomi,0000,0000,0000,,Então por que você fingiu morrer?
+Dialogue: 0,0:26:59.47,0:27:01.84,Main,Tadatsuru,0000,0000,0000,,Foi no mês passado.
+Dialogue: 0,0:27:01.93,0:27:05.47,Main,Tadatsuru,0000,0000,0000,,Um pedido chegou para mim...
+Dialogue: 0,0:27:06.10,0:27:11.85,Main,Tadatsuru,0000,0000,0000,,Era um pedido para resolver as anomalias\Nque estavam acontecendo na sua cidade.
+Dialogue: 0,0:27:12.27,0:27:17.86,Main,Tadatsuru,0000,0000,0000,,O conteúdo do pedido\Nenvolvia você e a ex-Kiss-shot.
+Dialogue: 0,0:27:18.11,0:27:24.03,Main,Tadatsuru,0000,0000,0000,,Dentro da rede da Gaen-senpai,\Nvocês eram considerados inofensivos,
+Dialogue: 0,0:27:24.03,0:27:30.00,Main,Tadatsuru,0000,0000,0000,,mas uma aparição protegida pela rede seria\Num alvo de prioridade máxima para mim.
+Dialogue: 0,0:27:30.71,0:27:33.75,Main,Tadatsuru,0000,0000,0000,,Pedido ou não, você era um alvo\Nque requisitava a minha atenção.
+Dialogue: 0,0:27:34.67,0:27:39.38,Main,Koyomi,0000,0000,0000,,{\i1}Esse cara pegou minhas duas irmãs\Ne uma colega de classe como reféns.{\i0}
+Dialogue: 0,0:27:39.38,0:27:41.51,Main,Koyomi,0000,0000,0000,,{\i1}Um ato cruel e altamente maldoso.{\i0}
+Dialogue: 0,0:27:43.51,0:27:44.01,sign_39885_60_Quadro_Preto,SCREEN,0000,0000,0000,,Quadro Preto
+Dialogue: 0,0:27:44.05,0:27:47.22,Main,Tadatsuru,0000,0000,0000,,Se algo não tivesse sido\Nfeito antecipadamente,
+Dialogue: 0,0:27:47.22,0:27:50.02,Main,Tadatsuru,0000,0000,0000,,imagino se teria saído ileso...
+Dialogue: 0,0:27:50.43,0:27:52.10,Main,Koyomi,0000,0000,0000,,Não me assuste assim...
+Dialogue: 0,0:27:52.10,0:27:55.02,Main,Tadatsuru,0000,0000,0000,,Quem tem medo depois\Nde dizer isso sou eu.
+Dialogue: 0,0:27:55.27,0:27:59.03,Main,Tadatsuru,0000,0000,0000,,E pensar que a Kanbaru Suruga\Nseria filha do clã Gaen...
+Dialogue: 0,0:27:59.32,0:28:02.61,Main,Tadatsuru,0000,0000,0000,,Quando penso no que poderia ter\Nacontecido, se eu tivesse machucado ela
+Dialogue: 0,0:28:02.61,0:28:04.32,Main,Tadatsuru,0000,0000,0000,,sem saber de nada,\Njá começo a tremer.
+Dialogue: 0,0:28:04.32,0:28:07.03,Main,Tadatsuru,0000,0000,0000,,Ainda bem que ouvi tudo de antemão.
+Dialogue: 0,0:28:08.49,0:28:14.25,Main,Koyomi,0000,0000,0000,,Tadatsuru, você ouviu algo da\NGaen-san antes de receber o pedido?
+Dialogue: 0,0:28:14.25,0:28:19.38,Main,Tadatsuru,0000,0000,0000,,Não, eu falei com a Gaen-senpai\Npor intermédio de outra pessoa.
+Dialogue: 0,0:28:19.38,0:28:19.76,sign_40745_61_Intermedi__rio,SCREEN,0000,0000,0000,,Intermédio
+Dialogue: 0,0:28:22.55,0:28:26.39,Main,Koyomi,0000,0000,0000,,{\i1}A palavra "intermédio"\Nme deixou inspirado.{\i0}
+Dialogue: 0,0:28:27.64,0:28:28.39,Main,Koyomi,0000,0000,0000,,Oshino?
+Dialogue: 0,0:28:28.64,0:28:29.39,sign_40967_62_Oshino,SCREEN,0000,0000,0000,,Oshino
+Dialogue: 0,0:28:30.14,0:28:31.64,Main,Koyomi,0000,0000,0000,,Oshino Meme?
+Dialogue: 0,0:28:31.64,0:28:32.14,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:28:32.39,0:28:33.85,Main,Tadatsuru,0000,0000,0000,,Correto.
+Dialogue: 0,0:28:33.85,0:28:37.15,Main,Tadatsuru,0000,0000,0000,,Sim, o homem que age\Ncomo se visse tudo.
+Dialogue: 0,0:28:37.48,0:28:40.94,Main,Tadatsuru,0000,0000,0000,,Apesar de ser um dos líderes\Nda rede da Gaen-senpai,
+Dialogue: 0,0:28:40.94,0:28:43.88,Main,Tadatsuru,0000,0000,0000,,foi ele que se aproximou de mim.
+Dialogue: 0,0:28:43.88,0:28:47.16,Main,Tadatsuru,0000,0000,0000,,Isso fez com que eu me\Nsentisse um homem livre.
+Dialogue: 0,0:28:47.70,0:28:51.52,Main,Tadatsuru,0000,0000,0000,,Ele disse que como eu estava\Nfora da rede da Gaen-senpai,
+Dialogue: 0,0:28:51.52,0:28:54.67,Main,Tadatsuru,0000,0000,0000,,havia algo que eu poderia fazer.
+Dialogue: 0,0:28:54.92,0:28:59.67,Main,Koyomi,0000,0000,0000,,E foi aí que você ouviu o\Nhistórico da Kanbaru?
+Dialogue: 0,0:28:59.80,0:29:05.68,Main,Tadatsuru,0000,0000,0000,,Sim. E foi quando ouvi sobre você.\NOu melhor, sobre {\i1}vocês{\i0}.
+Dialogue: 0,0:29:05.89,0:29:11.18,Main,Tadatsuru,0000,0000,0000,,Parando para pensar, ele reforçou\Nmuito o quanto vocês eram seguros.
+Dialogue: 0,0:29:11.52,0:29:14.02,Main,Tadatsuru,0000,0000,0000,,Aliás, eu percebi que ele havia visto
+Dialogue: 0,0:29:14.02,0:29:18.15,Main,Tadatsuru,0000,0000,0000,,minha verdadeira identidade como\Nboneco também naquele momento.
+Dialogue: 0,0:29:18.31,0:29:22.19,Main,Tadatsuru,0000,0000,0000,,Não, pensando bem, talvez\Nele estivesse me ameaçando?
+Dialogue: 0,0:29:22.53,0:29:27.20,Main,Tadatsuru,0000,0000,0000,,Algo do tipo... "Se encostar em meus amigos, revelarei sua identidade."
+Dialogue: 0,0:29:28.57,0:29:30.08,sign_42404_64_E_pensar_que_ele,SCREEN,0000,0000,0000,,E pensar que ele tomou medidas em preparação\Na uma {\b0}situação{\b1} que estaria por vir.
+Dialogue: 0,0:29:34.46,0:29:36.83,Main,Tadatsuru,0000,0000,0000,,Este foi o argumento que ele usou.
+Dialogue: 0,0:29:37.12,0:29:39.34,Main,Tadatsuru,0000,0000,0000,,"Araragi Koyomi e Oshino Shinobu".
+Dialogue: 0,0:29:39.75,0:29:42.00,Main,Tadatsuru,0000,0000,0000,,"No momento, eles são\Nessencialmente inofensivos."
+Dialogue: 0,0:29:42.34,0:29:45.22,Main,Tadatsuru,0000,0000,0000,,"Enquanto você deixá-los\Nilesos, não haverá problema."
+Dialogue: 0,0:29:45.55,0:29:49.89,Main,Tadatsuru,0000,0000,0000,,"Porém, se desviarem da\Nnorma, não posso garantir nada."
+Dialogue: 0,0:29:49.89,0:29:55.73,Main,Tadatsuru,0000,0000,0000,,"O caso é se o Araragi-kun se unir à Shinobu-chan,\Ne continuar o processo de vampirificação."
+Dialogue: 0,0:29:55.98,0:30:01.11,Main,Tadatsuru,0000,0000,0000,,Ou seja, ele estava profundamente\Npreocupado com uma situação
+Dialogue: 0,0:30:01.11,0:30:03.44,Main,Tadatsuru,0000,0000,0000,,em que você tivesse que\Nfazer isso, Araragi-kun.
+Dialogue: 0,0:30:03.44,0:30:09.99,Main,Tadatsuru,0000,0000,0000,,Ele parecia saber que você seria descuidado\Npor vontade própria, caso ocorresse algo assim.
+Dialogue: 0,0:30:10.45,0:30:11.99,Main,Koyomi,0000,0000,0000,,Até ele sabia...
+Dialogue: 0,0:30:12.12,0:30:17.25,Main,Tadatsuru,0000,0000,0000,,Se algo do gênero acontecesse,\Ntalvez eu recebesse algum pedido.
+Dialogue: 0,0:30:17.75,0:30:21.17,Main,Tadatsuru,0000,0000,0000,,Um pedido para caçar vampiros.
+Dialogue: 0,0:30:21.71,0:30:26.13,Main,Tadatsuru,0000,0000,0000,,Ele queria que eu "esquecesse o rancor do\Npassado e procurasse contatar a Gaen-senpai".
+Dialogue: 0,0:30:26.26,0:30:31.26,Main,Tadatsuru,0000,0000,0000,,"E a partir daí, ela estaria\Nesperando ouvir de você."
+Dialogue: 0,0:30:31.47,0:30:34.64,Main,Tadatsuru,0000,0000,0000,,"Já que ela tem uma posição a\Nzelar e não pode se mobilizar."
+Dialogue: 0,0:30:35.81,0:30:40.15,Main,Tadatsuru,0000,0000,0000,,Na época, eu não entendi\Nbem o que ele quis dizer.
+Dialogue: 0,0:30:40.15,0:30:43.65,Main,Tadatsuru,0000,0000,0000,,Mas na verdade, as coisas aconteceram\Njustamente como ele imaginava.
+Dialogue: 0,0:30:44.07,0:30:50.99,Main,Tadatsuru,0000,0000,0000,,Por isso que quando o pedido\Npara exterminá-los de fato chegou,
+Dialogue: 0,0:30:50.99,0:30:53.16,Main,Tadatsuru,0000,0000,0000,,senti um calafrio.
+Dialogue: 0,0:30:53.16,0:30:56.04,Main,Tadatsuru,0000,0000,0000,,Ao mesmo tempo,\Nachei um tanto estranho.
+Dialogue: 0,0:30:56.29,0:30:59.16,Main,Tadatsuru,0000,0000,0000,,Se ele estava tão preocupado\Ncom esses acontecimentos,
+Dialogue: 0,0:30:59.16,0:31:03.04,Main,Tadatsuru,0000,0000,0000,,por que o Oshino não quis fazer algo\Na respeito com as próprias mãos?
+Dialogue: 0,0:31:03.04,0:31:05.05,Main,Tadatsuru,0000,0000,0000,,Isso me intrigou.
+Dialogue: 0,0:31:05.59,0:31:09.30,Main,Tadatsuru,0000,0000,0000,,Por isso, decidi\Nacompanhar o esquema dele.
+Dialogue: 0,0:31:10.89,0:31:14.56,Main,Tadatsuru,0000,0000,0000,,Entrei em contato com a Gaen-senpai.
+Dialogue: 0,0:31:14.56,0:31:17.10,sign_44945_65_E_assim__erguera,SCREEN,0000,0000,0000,,E assim, ergueram-se as cortinas de uma farsa.
+Dialogue: 0,0:31:17.10,0:31:18.10,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:31:24.77,0:31:28.15,Main,Mayoi,0000,0000,0000,,Araragi-san, esse é o seu\Ntransporte para o mundo material.
+Dialogue: 0,0:31:28.53,0:31:31.11,Main,Mayoi,0000,0000,0000,,Você está {\i1}mesmo{\i0} quase sem tempo.
+Dialogue: 0,0:31:31.11,0:31:36.58,Main,Mayoi,0000,0000,0000,,Se perder aquele fio, você realmente\Nvai queimar eternamente aqui no {\i1}Avici{\i0}.
+Dialogue: 0,0:31:38.12,0:31:44.92,Main,Mayoi,0000,0000,0000,,Então, Teori-san, me desculpe,\Nmas poderia cortar essa história agora?
+Dialogue: 0,0:31:44.92,0:31:45.96,Main,Koyomi,0000,0000,0000,,Não, espere, Hachikuji.
+Dialogue: 0,0:31:47.88,0:31:50.76,Main,Koyomi,0000,0000,0000,,Não podia simplesmente\Nrecusar o pedido?
+Dialogue: 0,0:31:52.72,0:31:55.51,Main,Tadatsuru,0000,0000,0000,,"É melhor acompanhar o\Nque o inimigo quer, por ora."
+Dialogue: 0,0:31:56.97,0:32:01.02,Main,Tadatsuru,0000,0000,0000,,Foi a conclusão que a\NGaen-senpai e eu chegamos.
+Dialogue: 0,0:32:01.39,0:32:04.31,Main,Tadatsuru,0000,0000,0000,,Digo que foi melhor ter\Nacompanhado o plano deles,
+Dialogue: 0,0:32:04.31,0:32:08.73,Main,Tadatsuru,0000,0000,0000,,mas sua intenção não é algo\Nque compreendo claramente.
+Dialogue: 0,0:32:08.98,0:32:11.36,Main,Tadatsuru,0000,0000,0000,,Estou fazendo isso porque\Nquero descobrir o que é.
+Dialogue: 0,0:32:11.86,0:32:14.10,Main,Tadatsuru,0000,0000,0000,,E, ao mesmo tempo,
+Dialogue: 0,0:32:14.10,0:32:18.74,Main,Tadatsuru,0000,0000,0000,,foi uma medida necessária para impedir\Na progressão do seu vampirismo.
+Dialogue: 0,0:32:19.12,0:32:23.58,Main,Tadatsuru,0000,0000,0000,,Para poder vir até aqui e guiar você...
+Dialogue: 0,0:32:23.58,0:32:26.92,Main,Tadatsuru,0000,0000,0000,,Como foi logo depois de eu interpretar\Num personagem deplorável,
+Dialogue: 0,0:32:26.92,0:32:31.13,Main,Tadatsuru,0000,0000,0000,,também tive que pedir a assistência\Nda Hachikuji-chan para ter sucesso.
+Dialogue: 0,0:32:31.67,0:32:33.63,Main,Mayoi,0000,0000,0000,,E eu quis ajudar!
+Dialogue: 0,0:32:33.63,0:32:36.60,Names,SCREEN,0000,0000,0000,,Araragi Koyomi\NTeori Tadatsuru
+Dialogue: 0,0:32:33.84,0:32:35.89,Main,Mayoi,0000,0000,0000,,Está em parênteses, "aparição especial".
+Dialogue: 0,0:32:35.89,0:32:38.14,Main,Mayoi,0000,0000,0000,,Aparece no fim dos créditos.
+Dialogue: 0,0:32:36.60,0:32:38.14,Names,SCREEN,0000,0000,0000,,Hachikuji Mayoi\N(Participação especial)
+Dialogue: 0,0:32:39.22,0:32:45.81,Main,Koyomi,0000,0000,0000,,{\i1}Então me mataram para me resetar, e só\Nreviver a parte humana do meu corpo físico?
+Dialogue: 0,0:32:45.81,0:32:47.82,sign_47133_69_Se____isso_mesmo,SCREEN,0000,0000,0000,,Se é isso mesmo, teria sido bom
+Dialogue: 0,0:32:45.81,0:32:47.82,sign_47133_70_se_tivessem_me_a,SCREEN,0000,0000,0000,,se tivessem me avisado antecipadamente.
+Dialogue: 0,0:32:45.81,0:32:47.82,sign_47133_71_Mas_se_n__o_diss,SCREEN,0000,0000,0000,,Mas se não disseram, quer dizer que...
+Dialogue: 0,0:32:47.82,0:32:48.82,sign_47181_72_Deveria_haver_al,SCREEN,0000,0000,0000,,deveria haver alguma razão que os\Nimpedisse de me contarem antecipadamente.
+Dialogue: 0,0:32:48.82,0:32:49.86,sign_47205_73_Essa_parte_pode_,SCREEN,0000,0000,0000,,Essa parte pode ser a estratégia\Nque estão usando contra o inimigo.
+Dialogue: 0,0:32:49.86,0:32:50.82,sign_47230_74_Do_meu_ponto_de_,SCREEN,0000,0000,0000,,Do meu ponto de vista, acho que não há como saber.
+Dialogue: 0,0:32:55.91,0:32:59.95,Main,Tadatsuru,0000,0000,0000,,Obviamente, se usássemos a espada\Ndemoníaca Yumewatari para revivê-lo,
+Dialogue: 0,0:32:59.95,0:33:02.45,Main,Tadatsuru,0000,0000,0000,,depois de matá-lo com a\Nespada demoníaca Kokorowatari,
+Dialogue: 0,0:33:02.66,0:33:06.21,Main,Tadatsuru,0000,0000,0000,,poderíamos tê-lo revivido\Ndo mesmo jeito, como vampiro.
+Dialogue: 0,0:33:06.54,0:33:08.84,Main,Tadatsuru,0000,0000,0000,,E voltaríamos ao mesmo problema.
+Dialogue: 0,0:33:10.21,0:33:12.58,Main,Tadatsuru,0000,0000,0000,,Para evitar isso, precisávamos
+Dialogue: 0,0:33:12.58,0:33:16.59,Main,Tadatsuru,0000,0000,0000,,que eu interferisse como\Nespecialista, agindo do Inferno.
+Dialogue: 0,0:33:17.97,0:33:23.93,Main,Tadatsuru,0000,0000,0000,,Sem essa correção, não teríamos\No que fazer contra o inimigo.
+Dialogue: 0,0:33:25.14,0:33:28.61,Main,Tadatsuru,0000,0000,0000,,Foi a conclusão mútua a que a\NGaen-senpai e eu chegamos.
+Dialogue: 0,0:33:31.15,0:33:32.94,Main,Mayoi,0000,0000,0000,,Vamos lá, Araragi-san!
+Dialogue: 0,0:33:41.70,0:33:43.25,Main,Koyomi,0000,0000,0000,,{\i1}Ela está viva.{\i0}
+Dialogue: 0,0:33:50.13,0:33:52.92,Main,Koyomi,0000,0000,0000,,A propósito, ainda não perguntei.
+Dialogue: 0,0:33:52.92,0:33:53.88,Main,Mayoi,0000,0000,0000,,O quê?
+Dialogue: 0,0:33:53.88,0:33:57.59,Main,Koyomi,0000,0000,0000,,Eu supostamente fui morto no templo\NKitashirahebi, no mundo físico.
+Dialogue: 0,0:33:57.59,0:33:59.64,Main,Koyomi,0000,0000,0000,,Por que eu acordei no\Nparque aqui no Inferno?
+Dialogue: 0,0:34:00.01,0:34:02.14,Main,Mayoi,0000,0000,0000,,Isso o incomoda tanto assim?
+Dialogue: 0,0:34:02.97,0:34:04.89,Main,Koyomi,0000,0000,0000,,Não é o bastante para\Nme incomodar, mas...
+Dialogue: 0,0:34:05.89,0:34:06.44,sign_49053_75_N__o_,SCREEN,0000,0000,0000,,Não.
+Dialogue: 0,0:34:06.44,0:34:07.69,sign_49066_76_Eu_sei___Eu_esto,SCREEN,0000,0000,0000,,Eu sei.\NEu estou só adiando.
+Dialogue: 0,0:34:07.69,0:34:08.94,sign_49096_77_Escalar_essa_cob,SCREEN,0000,0000,0000,,Escalar essa cobra branca.\NVoltar à vida.
+Dialogue: 0,0:34:08.94,0:34:09.90,sign_49053_75_N__o_,SCREEN,0000,0000,0000,,Estou adiando mais e mais.
+Dialogue: 0,0:34:09.90,0:34:13.53,sign_49149_79_Parque,SCREEN,0000,0000,0000,,Parque
+Dialogue: 0,0:34:10.48,0:34:12.98,Main,Koyomi,0000,0000,0000,,A distorção, bem, não me interessa.
+Dialogue: 0,0:34:12.98,0:34:18.16,Main,Koyomi,0000,0000,0000,,Mas se você souber o nome do\Nparque, eu gostaria de saber.
+Dialogue: 0,0:34:13.53,0:34:15.90,sign_49236_80_Namishiro,SCREEN,0000,0000,0000,,Namishiro
+Dialogue: 0,0:34:18.16,0:34:20.16,Main,Koyomi,0000,0000,0000,,É "Namishiro" ou "Rouhaku"?
+Dialogue: 0,0:34:20.16,0:34:21.58,Main,Tadatsuru,0000,0000,0000,,Parque Shirohebi.
+Dialogue: 0,0:34:22.66,0:34:26.58,Main,Tadatsuru,0000,0000,0000,,A forma correta de ler o nome é parque\NShirohebi, se for traçar sua origem.
+Dialogue: 0,0:34:26.58,0:34:28.04,Main,Koyomi,0000,0000,0000,,Hã? Shirohebi?
+Dialogue: 0,0:34:28.04,0:34:28.92,sign_49584_81_Cobra,SCREEN,0000,0000,0000,,Cobra
+Dialogue: 0,0:34:29.08,0:34:31.54,Main,Tadatsuru,0000,0000,0000,,Não é o radical de "inseto",\Nmas sim o de "água".
+Dialogue: 0,0:34:31.54,0:34:32.17,sign_49668_82_Cobra,SCREEN,0000,0000,0000,,Co{\c&HBDBA4D&}bra
+Dialogue: 0,0:34:32.34,0:34:33.30,Main,Tadatsuru,0000,0000,0000,,Shirohebi.
+Dialogue: 0,0:34:33.30,0:34:34.30,sign_49710_83_Shirohebi,SCREEN,0000,0000,0000,,Shiro{\c&H0E04CD&}he{\c&HC47A54&}bi
+Dialogue: 0,0:34:34.51,0:34:38.18,Main,Tadatsuru,0000,0000,0000,,Em algum momento, alguém escreveu\N"hebi" errado, então virou "nami".
+Dialogue: 0,0:34:38.18,0:34:39.93,Main,Tadatsuru,0000,0000,0000,,Por ficou difícil de se ler o nome.
+Dialogue: 0,0:34:39.93,0:34:40.47,sign_49869_84_Hebi,SCREEN,0000,0000,0000,,He{\c&HFFFFFF&}bi
+Dialogue: 0,0:34:40.47,0:34:41.43,sign_49869_84_Hebi,SCREEN,0000,0000,0000,,Na{\c&HFFFFFF&}mi
+Dialogue: 0,0:34:41.55,0:34:43.18,Main,Koyomi,0000,0000,0000,,Espere, "shirohebi"...
+Dialogue: 0,0:34:43.43,0:34:45.93,Main,Koyomi,0000,0000,0000,,Templo Kitashirahebi...
+Dialogue: 0,0:34:45.93,0:34:53.32,sign_50013_86_Templo_Kitashira,SCREEN,0000,0000,0000,,Templo Kitashirahebi
+Dialogue: 0,0:34:46.06,0:34:48.14,Main,Tadatsuru,0000,0000,0000,,Sim. É o que significa.
+Dialogue: 0,0:34:48.14,0:34:51.52,Main,Tadatsuru,0000,0000,0000,,Originalmente, o templo\NKitashirahebi era neste local.
+Dialogue: 0,0:34:51.52,0:34:53.32,Main,Tadatsuru,0000,0000,0000,,Por isso a distorção.
+Dialogue: 0,0:34:53.44,0:34:58.82,Main,Tadatsuru,0000,0000,0000,,Você sabe a história de\Nrealocação deste templo, suponho.
+Dialogue: 0,0:34:58.99,0:35:00.32,Main,Koyomi,0000,0000,0000,,Sim, eu...
+Dialogue: 0,0:35:01.91,0:35:03.78,Main,Koyomi,0000,0000,0000,,Se me lembro bem,\Nfoi um erro de conexão.
+Dialogue: 0,0:35:03.78,0:35:06.12,Main,Koyomi,0000,0000,0000,,E virou a origem da\Ndistorção, ou algo assim.
+Dialogue: 0,0:35:06.12,0:35:11.25,Main,Tadatsuru,0000,0000,0000,,Sim. Foi como levar um deus dos\Nmares para o topo de uma montanha.
+Dialogue: 0,0:35:11.25,0:35:14.67,Main,Tadatsuru,0000,0000,0000,,Mas para ser mais preciso, não\Nfoi para o mar, e sim um lago.
+Dialogue: 0,0:35:15.09,0:35:18.92,Main,Koyomi,0000,0000,0000,,{\i1}Lago? Já ouvi algo assim...
+Dialogue: 0,0:35:21.80,0:35:24.93,Main,Tadatsuru,0000,0000,0000,,Bem, é melhor você ir logo, Araragi-kun.
+Dialogue: 0,0:35:25.31,0:35:29.60,Main,Tadatsuru,0000,0000,0000,,Por favor, dê meus cumprimentos\Nà Gaen-senpai e à Yotsugi.
+Dialogue: 0,0:35:29.60,0:35:32.44,Main,Tadatsuru,0000,0000,0000,,Por favor, cuide bem\Nda Yotsugi por mim.
+Dialogue: 0,0:35:32.77,0:35:34.44,Main,Koyomi,0000,0000,0000,,Certo, entendido.
+Dialogue: 0,0:35:35.27,0:35:38.19,Main,Koyomi,0000,0000,0000,,Mas está certo reviver\Nalguém como eu?
+Dialogue: 0,0:35:38.19,0:35:38.44,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:35:44.78,0:35:45.58,Main,Koyomi,0000,0000,0000,,Hachikuji!
+Dialogue: 0,0:35:47.62,0:35:50.08,Main,Mayoi,0000,0000,0000,,"Tudo bem reviver\Nalguém como eu"?!
+Dialogue: 0,0:35:50.08,0:35:51.96,Main,Mayoi,0000,0000,0000,,Que comentário absurdo foi esse?
+Dialogue: 0,0:35:56.00,0:35:59.42,Main,Mayoi,0000,0000,0000,,O que foi, Araragi-san?\NFicou com medo?
+Dialogue: 0,0:35:59.63,0:36:02.18,Main,Mayoi,0000,0000,0000,,Não quer passar por\Nnenhuma dificuldade?
+Dialogue: 0,0:36:03.43,0:36:05.05,Main,Mayoi,0000,0000,0000,,Está cansado de tudo?
+Dialogue: 0,0:36:09.52,0:36:10.56,Main,Koyomi,0000,0000,0000,,Não.
+Dialogue: 0,0:36:11.06,0:36:14.77,Main,Koyomi,0000,0000,0000,,Apenas uma sensação de um\Nfio esticado se arrebentando.
+Dialogue: 0,0:36:16.44,0:36:19.57,Main,Koyomi,0000,0000,0000,,Não tive a sensação de\N"finalmente morrer".
+Dialogue: 0,0:36:21.15,0:36:24.57,Main,Mayoi,0000,0000,0000,,Só diz isso porque não sabe\Ncomo é difícil estar no Inferno.
+Dialogue: 0,0:36:24.82,0:36:28.70,Main,Mayoi,0000,0000,0000,,Só o fato de poder reviver\Njá é uma sorte enorme.
+Dialogue: 0,0:36:28.70,0:36:29.70,sign_52477_88_Boa_Sorte,SCREEN,0000,0000,0000,,Boa sorte
+Dialogue: 0,0:36:31.91,0:36:37.70,Main,Koyomi,0000,0000,0000,,Mas sinto como se houvesse várias outras\Npessoas que merecem isso mais do que eu.
+Dialogue: 0,0:36:37.88,0:36:40.46,Main,Koyomi,0000,0000,0000,,Tudo bem ser logo {\i1}eu{\i0}?
+Dialogue: 0,0:36:40.88,0:36:46.22,Main,Koyomi,0000,0000,0000,,Não é que eu não queira, mas\Nsinto que estou furando a fila.
+Dialogue: 0,0:36:46.43,0:36:47.47,Main,Mayoi,0000,0000,0000,,Sim!
+Dialogue: 0,0:36:47.60,0:36:49.47,Main,Mayoi,0000,0000,0000,,Você tem o {\i1}direito{\i0} de reviver.
+Dialogue: 0,0:36:49.47,0:36:52.35,Main,Mayoi,0000,0000,0000,,Araragi-san, pelo menos\Nessa qualificação você tem.
+Dialogue: 0,0:36:52.52,0:36:55.35,Main,Mayoi,0000,0000,0000,,Porque você fez por merecer!
+Dialogue: 0,0:36:55.44,0:36:59.15,Main,Mayoi,0000,0000,0000,,Sim! Eu sei muito bem disso!
+Dialogue: 0,0:37:02.49,0:37:05.99,Main,Mayoi,0000,0000,0000,,Se você não reviver,\Nentão quem é que vai?
+Dialogue: 0,0:37:05.99,0:37:08.53,Main,Mayoi,0000,0000,0000,,Você é o primeiro da fila, sem dúvidas!
+Dialogue: 0,0:37:10.08,0:37:14.54,Main,Mayoi,0000,0000,0000,,Se continuar agindo como um molenga,\Nvou acabar odiando você.
+Dialogue: 0,0:37:21.63,0:37:23.55,Main,Mayoi,0000,0000,0000,,Ouça bem, Araragi-san.
+Dialogue: 0,0:37:23.80,0:37:26.05,Main,Mayoi,0000,0000,0000,,O Araragi-san que eu conheço...
+Dialogue: 0,0:37:26.22,0:37:31.22,Main,Mayoi,0000,0000,0000,,Ama garotas, ama meninas, ama meninas novas,\Nama bordas de saias, ama quadris de meninas,
+Dialogue: 0,0:37:31.22,0:37:35.39,Main,Mayoi,0000,0000,0000,,ama peitões, ama ser tratado com brutalidade,\Nama sua irmã mais nova mais velha, {Skarz: Ele tem duas irmãs mais novas?}
+Dialogue: 0,0:37:35.39,0:37:36.82,Main,Mayoi,0000,0000,0000,,ama sua irmã mais nova mais nova,
+Dialogue: 0,0:37:36.82,0:37:40.27,Main,Mayoi,0000,0000,0000,,ama mulheres mais velhas, ama mulheres sem\Ncamisa, ama uniformes de educação física,
+Dialogue: 0,0:37:40.27,0:37:42.36,Main,Mayoi,0000,0000,0000,,ama maiôs, ama\Nrepresentantes de classe,
+Dialogue: 0,0:37:42.36,0:37:46.09,Main,Mayoi,0000,0000,0000,,ama meninas que usam "boku", ama orelhas de\Ngato, ama meninas que praticam esportes...
+Dialogue: 0,0:37:46.28,0:37:47.16,Main,Koyomi,0000,0000,0000,,Espere aí!
+Dialogue: 0,0:37:47.16,0:37:49.12,Main,Koyomi,0000,0000,0000,,Espere, espere, espere!
+Dialogue: 0,0:37:49.12,0:37:51.62,Main,Koyomi,0000,0000,0000,,Meu coração está quase\Npartindo completamente.
+Dialogue: 0,0:37:54.00,0:37:57.62,Main,Mayoi,0000,0000,0000,,Você era uma pessoa que amava estar vivo.
+Dialogue: 0,0:37:59.42,0:38:00.71,sign_54652_89_Era_t__o___bvio_,SCREEN,0000,0000,0000,,Era tão óbvio, eu havia esquecido.
+Dialogue: 0,0:38:00.71,0:38:03.46,sign_54683_90_Eu_cheguei_perto,SCREEN,0000,0000,0000,,Eu cheguei perto de morrer várias vezes,\Ne toda vez, escapei da morte por pouco.
+Dialogue: 0,0:38:03.46,0:38:04.42,sign_54749_91_Por_causa_disso_,SCREEN,0000,0000,0000,,Por causa disso, tinha esquecido completamente.
+Dialogue: 0,0:38:04.63,0:38:06.47,Main,Koyomi,0000,0000,0000,,Tem razão.
+Dialogue: 0,0:38:06.47,0:38:09.93,Main,Koyomi,0000,0000,0000,,Se eu não estiver vivo,\Nnão posso celebrar meninas.
+Dialogue: 0,0:38:10.14,0:38:14.43,Main,Mayoi,0000,0000,0000,,Ah, não. Não era isso\Nque eu queria dizer...
+Dialogue: 0,0:38:16.44,0:38:20.06,Main,Koyomi,0000,0000,0000,,Dizem mesmo que o sentido\Nda vida é algo confuso....
+Dialogue: 0,0:38:20.06,0:38:23.23,Main,Koyomi,0000,0000,0000,,Há muito sentido só de se estar vivo.
+Dialogue: 0,0:38:31.74,0:38:34.62,Main,Koyomi,0000,0000,0000,,Se você ama estar vivo,\Nsó precisa disso.
+Dialogue: 0,0:38:36.54,0:38:40.38,Main,Koyomi,0000,0000,0000,,Eu pude amar tantas coisas e\Ntantas pessoas, afinal de contas.
+Dialogue: 0,0:38:40.54,0:38:44.38,Main,Mayoi,0000,0000,0000,,Quando você fala nesse contexto,\Npode causar alguns mal-entendidos.
+Dialogue: 0,0:38:46.80,0:38:53.39,Main,Tadatsuru,0000,0000,0000,,Quando eu der o sinal, a Gaen-senpai\Npuxará você para o outro lado. É o plano.
+Dialogue: 0,0:38:53.39,0:38:54.31,Main,Koyomi,0000,0000,0000,,Entendido.
+Dialogue: 0,0:38:54.81,0:38:58.19,Main,Koyomi,0000,0000,0000,,Muito obrigado, Tadatsuru.
+Dialogue: 0,0:38:58.19,0:38:59.06,Main,Koyomi,0000,0000,0000,,Tadatsuru-san.
+Dialogue: 0,0:38:59.48,0:39:02.06,Main,Tadatsuru,0000,0000,0000,,Dispense a formalidade.
+Dialogue: 0,0:39:02.06,0:39:07.57,Main,Tadatsuru,0000,0000,0000,,Enquanto você continuar tentando proteger\NKiss-shot Acerola-orion Heart-under-blade,
+Dialogue: 0,0:39:07.74,0:39:09.82,Main,Tadatsuru,0000,0000,0000,,será meu inimigo.
+Dialogue: 0,0:39:11.99,0:39:14.74,Main,Koyomi,0000,0000,0000,,Mesmo assim, nesse caso\Nespecífico, sou grato a você.
+Dialogue: 0,0:39:15.83,0:39:19.25,Main,Koyomi,0000,0000,0000,,Nunca pensei que poderia\Nconversar com você assim.
+Dialogue: 0,0:39:19.62,0:39:24.00,Main,Koyomi,0000,0000,0000,,Algum dia, quando tivermos tempo,\Ngostaria de bater outro papo.
+Dialogue: 0,0:39:25.00,0:39:27.76,Main,Tadatsuru,0000,0000,0000,,Se não se importar em estarmos\Nnos matando durante...
+Dialogue: 0,0:39:31.68,0:39:34.39,Main,Koyomi,0000,0000,0000,,Hachikuji. O que você vai\Nfazer daqui em diante?
+Dialogue: 0,0:39:34.85,0:39:35.51,Main,Mayoi,0000,0000,0000,,Oi?
+Dialogue: 0,0:39:35.64,0:39:39.06,Main,Mayoi,0000,0000,0000,,Eu? Depois da nossa despedida,
+Dialogue: 0,0:39:39.06,0:39:42.27,Main,Mayoi,0000,0000,0000,,voltarei à beira do rio do Inferno\Npara empilhar pedras todo dia.
+Dialogue: 0,0:39:42.48,0:39:48.24,Main,Mayoi,0000,0000,0000,,Talvez eu possa reencarnar como\Nfilha da Senjougahara-san e sua.
+Dialogue: 0,0:39:48.44,0:39:49.99,Main,Koyomi,0000,0000,0000,,Que pesado.
+Dialogue: 0,0:39:50.53,0:39:51.49,Main,Mayoi,0000,0000,0000,,Bem...
+Dialogue: 0,0:39:55.45,0:39:58.25,Main,Koyomi,0000,0000,0000,,Tudo bem. Me mande quando quiser.
+Dialogue: 0,0:39:58.45,0:40:01.25,Main,Tadatsuru,0000,0000,0000,,Então, contagem regressiva.
+Dialogue: 0,0:40:01.71,0:40:03.25,Main,Tadatsuru,0000,0000,0000,,10... 9...
+Dialogue: 0,0:40:03.75,0:40:04.25,Main,Tadatsuru,0000,0000,0000,,8...
+Dialogue: 0,0:40:04.67,0:40:05.25,Main,Tadatsuru,0000,0000,0000,,7...
+Dialogue: 0,0:40:05.67,0:40:06.25,Main,Tadatsuru,0000,0000,0000,,6...
+Dialogue: 0,0:40:06.67,0:40:07.25,Main,Tadatsuru,0000,0000,0000,,5...
+Dialogue: 0,0:40:07.63,0:40:09.26,Main,Tadatsuru,0000,0000,0000,,4... 3...
+Dialogue: 0,0:40:09.71,0:40:10.26,Main,Tadatsuru,0000,0000,0000,,2...
+Dialogue: 0,0:40:10.67,0:40:11.26,Main,Tadatsuru,0000,0000,0000,,1...
+Dialogue: 0,0:40:11.55,0:40:12.26,Main,Tadatsuru,0000,0000,0000,,Ignição.
+Dialogue: 0,0:40:18.64,0:40:23.44,Main,Koyomi,0000,0000,0000,,{\i1}É verdade. A Hachikuji disse que eu era\Na primeira pessoa que deveria reviver.
+Dialogue: 0,0:40:23.44,0:40:27.77,Main,Koyomi,0000,0000,0000,,{\i1}Mas, no mínimo, estou\Nrevivendo colocando-a de lado.
+Dialogue: 0,0:40:29.99,0:40:32.07,Main,Koyomi,0000,0000,0000,,{\i1}Quantas vezes
+Dialogue: 0,0:40:32.07,0:40:34.66,Main,Koyomi,0000,0000,0000,,{\i1}eu já me despedi da Hachikuji Mayoi?
+Dialogue: 0,0:40:35.03,0:40:39.20,Main,Koyomi,0000,0000,0000,,{\i1}H-Hachikuji!
+Dialogue: 0,0:40:46.67,0:40:49.59,Main,Tadatsuru,0000,0000,0000,,Ah, Araragi-kun, só uma coisa.
+Dialogue: 0,0:40:50.76,0:40:54.47,Main,Tadatsuru,0000,0000,0000,,Vou dizer a você o nome do inimigo\Nque pediu para que eu o exterminasse.
+Dialogue: 0,0:40:57.60,0:40:59.35,Main,Tadatsuru,0000,0000,0000,,Ougi.
+Dialogue: 0,0:40:59.35,0:41:00.85,Main,Tadatsuru,0000,0000,0000,,Oshino Ougi.
+Dialogue: 0,0:41:04.10,0:41:04.81,Chapter,SCREEN,0000,0000,0000,,Capítulo
+Dialogue: 0,0:41:05.73,0:41:08.52,Main,Koyomi,0000,0000,0000,,{\i1}Este é o epílogo. Ou talvez\Nseja a punchline do episódio.
+Dialogue: 0,0:41:16.07,0:41:17.03,Main,Izuko,0000,0000,0000,,Francamente...
+Dialogue: 0,0:41:17.57,0:41:20.29,Main,Izuko,0000,0000,0000,,Não imaginei que você traria a\NHachikuji-chan com você, Koyomin.
+Dialogue: 0,0:41:20.41,0:41:25.17,Main,Izuko,0000,0000,0000,,Você sempre vai muito além\Ndas minhas expectativas.
+Dialogue: 0,0:41:25.54,0:41:27.21,Main,Izuko,0000,0000,0000,,Mas por ora, Koyomin,
+Dialogue: 0,0:41:27.21,0:41:31.17,Main,Izuko,0000,0000,0000,,poderia pedir a essa senhorita assustadora\Ne linda retirar suas garras de mim?
+Dialogue: 0,0:41:32.42,0:41:34.42,Main,Kiss-shot,0000,0000,0000,,Olá, querido.
+Dialogue: 0,0:41:37.39,0:41:42.60,Main,Kiss-shot,0000,0000,0000,,Bem, parece que evitamos mortes\Ndesnecessárias e retalhos inúteis.
+Dialogue: 0,0:41:42.60,0:41:45.94,Main,Kiss-shot,0000,0000,0000,,Apesar de ser a primeira vez que\Nvejo a "Yumewatari" sendo ativada.
+Dialogue: 0,0:42:08.50,0:42:11.59,Main,Kiss-shot,0000,0000,0000,,Seu idiota. Você me preocupou.
+Dialogue: 0,0:42:11.75,0:42:17.22,Main,Kiss-shot,0000,0000,0000,,E ainda sequestrou uma menina\Ndo Inferno. Você não tem limites.
+Dialogue: 0,0:42:20.47,0:42:24.22,Main,Koyomi,0000,0000,0000,,Ei, Shinobu. A situação é ruim\Nde qualquer forma, não é?
+Dialogue: 0,0:42:24.22,0:42:28.35,Main,Koyomi,0000,0000,0000,,A Hachikuji chegou de novo nas\Ncondições para ativar a escuridão?
+Dialogue: 0,0:42:28.48,0:42:31.48,Main,Izuko,0000,0000,0000,,E por isso que estou dizendo que\Nsua jogada foi ótima, Koyomin.
+Dialogue: 0,0:42:32.73,0:42:35.07,Main,Izuko,0000,0000,0000,,Graças ao seu milagre,
+Dialogue: 0,0:42:35.07,0:42:38.99,Main,Izuko,0000,0000,0000,,parece que poderei ter uma leve\Nvantagem na batalha que está por vir.
+Dialogue: 0,0:42:38.99,0:42:42.20,Main,Izuko,0000,0000,0000,,A garota perdida é uma\Npeça que eu estava querendo.
+Dialogue: 0,0:42:43.16,0:42:44.79,Main,Izuko,0000,0000,0000,,Mas já que isso tudo aconteceu,
+Dialogue: 0,0:42:44.79,0:42:48.75,Main,Izuko,0000,0000,0000,,acho que terei que pedir\Najuda por mais um tempinho.
+Dialogue: 0,0:42:53.84,0:42:57.59,Main,Izuko,0000,0000,0000,,Por enquanto, Koyomin, quero\Nque você vá fazer seu vestibular.
+Dialogue: 0,0:42:57.59,0:42:59.68,Main,Izuko,0000,0000,0000,,Se você for agora,\Nainda chegará em tempo.
+Dialogue: 0,0:42:59.68,0:43:00.59,Main,Izuko,0000,0000,0000,,Boa sorte.
+Dialogue: 0,0:43:00.76,0:43:03.85,Main,Koyomi,0000,0000,0000,,B-Bom, obrigado.
+Dialogue: 0,0:43:06.18,0:43:09.35,Main,Izuko,0000,0000,0000,,Koyomin, você pode começar\Na trabalhar para mim amanhã.
+Dialogue: 0,0:43:09.48,0:43:12.36,Main,Izuko,0000,0000,0000,,Tudo acabará antes da\Ncerimônia de formatura.
+Dialogue: 0,0:43:12.69,0:43:14.48,Main,Izuko,0000,0000,0000,,Já tenho minhas armas.
+Dialogue: 0,0:43:14.48,0:43:16.61,Main,Izuko,0000,0000,0000,,Vamos dar um fim a isso, Koyomin.
+Dialogue: 0,0:43:17.15,0:43:19.86,Main,Izuko,0000,0000,0000,,E o mais estranho é que\Namanhã é o {\i1}White Day{\i0}, não é?
+Dialogue: 0,0:43:20.11,0:43:25.12,Main,Izuko,0000,0000,0000,,Momento perfeito para encerrar a história\Ndesta cidade, em que a cobra branca já reinou.
+Dialogue: 0,0:43:27.66,0:43:30.12,Main,Izuko,0000,0000,0000,,Vamos começar nosso contra-ataque!
