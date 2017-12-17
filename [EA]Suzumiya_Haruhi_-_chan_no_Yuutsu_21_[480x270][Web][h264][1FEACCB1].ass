@@ -53,18 +53,18 @@ Dialogue: 0,0:01:01.71,0:01:02.58,Default,,0000,0000,0000,,{\be1}Pessoal!
 Dialogue: 0,0:01:02.58,0:01:04.92,Default,,0000,0000,0000,,{\be1}Eles precisam de ajuda para derrotar o vilão!
 Dialogue: 0,0:01:05.11,0:01:07.86,Default,,0000,0000,0000,,{\be1}Por favor, me ajudem a chamar por ele.
 Dialogue: 0,0:01:08.11,0:01:09.34,Default,,0000,0000,0000,,{\be1}Prontos?
-Dialogue: 0,0:01:09.43,0:01:10.54,Default,,0000,0000,0000,,{\be1}Hide Kamen!
-Dialogue: 0,0:01:10.76,0:01:12.57,Default_Alt,,0000,0000,0000,,{\be1}Hide Kamen!
+Dialogue: 0,0:01:09.43,0:01:10.54,Default,,0000,0000,0000,,{\be1}Hige Kamen!
+Dialogue: 0,0:01:10.76,0:01:12.57,Default_Alt,,0000,0000,0000,,{\be1}Hige Kamen!
 Dialogue: 0,0:01:11.51,0:01:14.02,Default,,0000,0000,0000,,{\be1}Por que eles não estão chamando o herói?
 Dialogue: 0,0:01:14.31,0:01:16.60,Default_Alt,,0000,0000,0000,,{\be1\an8}Pessoal, mais forte!
-Dialogue: 0,0:01:16.69,0:01:18.50,Default_Alt,,0000,0000,0000,,{\be1\an8}Hide Kamen!
+Dialogue: 0,0:01:16.69,0:01:18.50,Default_Alt,,0000,0000,0000,,{\be1\an8}Hige Kamen!
 Dialogue: 0,0:01:18.96,0:01:20.10,Default_Alt,,0000,0000,0000,,{\be1\an8}Lute!
-Dialogue: 0,0:01:20.31,0:01:22.22,Default_Alt,,0000,0000,0000,,{\be1\an8}Hide Kamen!
+Dialogue: 0,0:01:20.31,0:01:22.22,Default_Alt,,0000,0000,0000,,{\be1\an8}Hige Kamen!
 Dialogue: 0,0:01:22.77,0:01:23.98,Default_Alt,,0000,0000,0000,,{\be1\an8}Lute!
-Dialogue: 0,0:01:24.46,0:01:27.07,Default_Alt,,0000,0000,0000,,{\be1\an8}Hide Kamen!
-Dialogue: 0,0:01:27.58,0:01:29.43,Default_Alt,,0000,0000,0000,,{\be1\an8}Hide Kamen!
-Dialogue: 0,0:01:29.58,0:01:30.98,Default_Alt,,0000,0000,0000,,{\be1\an8}Hide Kamen!
-Dialogue: 0,0:01:31.75,0:01:32.86,Default_Alt,,0000,0000,0000,,{\be1\an8}Hide Kamen!
+Dialogue: 0,0:01:24.46,0:01:27.07,Default_Alt,,0000,0000,0000,,{\be1\an8}Hige Kamen!
+Dialogue: 0,0:01:27.58,0:01:29.43,Default_Alt,,0000,0000,0000,,{\be1\an8}Hige Kamen!
+Dialogue: 0,0:01:29.58,0:01:30.98,Default_Alt,,0000,0000,0000,,{\be1\an8}Hige Kamen!
+Dialogue: 0,0:01:31.75,0:01:32.86,Default_Alt,,0000,0000,0000,,{\be1\an8}Hige Kamen!
 Dialogue: 0,0:01:17.23,0:01:20.99,Default,,0000,0000,0000,,{\be1}Por que você está montando essa montanha de peças de quebra-cabeça?
 Dialogue: 0,0:01:22.22,0:01:25.09,Default,,0000,0000,0000,,{\be1}Eu comprei ele, prevendo essa situação.
 Dialogue: 0,0:01:26.10,0:01:29.36,Default_Alt,,0000,0000,0000,,{\be1}Que triste. Uma montanha de peças de quebra-cabeça em pleno domingo ensolarado.
@@ -99,11 +99,11 @@ Dialogue: 0,0:02:33.30,0:02:35.69,Default,,0000,0000,0000,,{\be1}Ei, me deixe pe
 Dialogue: 0,0:02:35.69,0:02:37.11,Default,,0000,0000,0000,,{\be1}Você está gostando disso.
 Dialogue: 0,0:02:37.23,0:02:39.55,Default,,0000,0000,0000,,{\be1}Por favor, espere por nós um pouco.
 Dialogue: 0,0:02:39.50,0:02:40.22,Default_Alt,,0000,0000,0000,,{\be1}Eh?
-Dialogue: 0,0:02:40.68,0:02:42.26,Textos,,0000,0000,0000,,{\an9}Na folha: Hide Kamen
+Dialogue: 0,0:02:40.68,0:02:42.26,Textos,,0000,0000,0000,,{\an9}Na folha: Hige Kamen
 Dialogue: 0,0:02:41.19,0:02:42.30,Default,,0000,0000,0000,,{\be1}Aqui está.
 Dialogue: 0,0:02:42.44,0:02:43.94,Default,,0000,0000,0000,,{\be1}Muito obrigado.
 Dialogue: 0,0:02:44.32,0:02:46.37,Default,,0000,0000,0000,,{\be1}Nós chegamos atrasadas.
-Dialogue: 0,0:02:46.47,0:02:48.79,Default,,0000,0000,0000,,{\be1}Esse Hide Kamen é popular.
+Dialogue: 0,0:02:46.47,0:02:48.79,Default,,0000,0000,0000,,{\be1}Esse Hige Kamen é popular.
 Dialogue: 0,0:02:49.85,0:02:51.39,Textos,,0000,0000,0000,,{\frx14\fry22\fs15\pos(125,83)\frz341.419}Saída dos fundos
 Dialogue: 0,0:02:51.92,0:02:52.89,Default,,0000,0000,0000,,{\be1}Mikuru.
 Dialogue: 0,0:02:52.96,0:02:54.89,Default,,0000,0000,0000,,{\be1}Estou indo para o banheiro.
@@ -156,6 +156,6 @@ Dialogue: 0,0:05:09.69,0:05:11.06,Default,,0000,0000,0000,,{\be1}Ah, alô?
 Dialogue: 0,0:05:11.21,0:05:12.70,Default,,0000,0000,0000,,{\be1}Já estou indo embora.
 Dialogue: 0,0:05:13.12,0:05:16.85,Default,,0000,0000,0000,,{\be1}Por favor, não coma meu bentou.
 Dialogue: 0,0:05:16.29,0:05:18.39,Textos,,0000,0000,0000,,{\pos(200,33)\bord1.5\fad(40,0)}O bentou de hoje é comida chinesa.
-Dialogue: 0,0:05:18.38,0:05:22.13,Staff,,0000,0000,0000,,{\be1\fad(300,450)\an8}Hide Kamen: trocadilho do inglês 'hiden' (escondido) com o japonês 'Kamen' (mascarado). Preferimos manter o termo original.
+Dialogue: 0,0:05:18.38,0:05:22.13,Staff,,0000,0000,0000,,{\be1\fad(300,450)\an8}Hige Kamen: 'mascarado bigodudo'. Preferimos manter o termo original.
 Dialogue: 0,0:05:18.33,0:05:20.33,Default,,0000,0000,0000,,
 
