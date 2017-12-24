@@ -769,7 +769,7 @@ Dialogue: 0,0:11:42.43,0:11:46.45,Main Dialogue,Hinako,0,0,0,,Sim! É o cachorro
 Dialogue: 0,0:11:46.45,0:11:48.06,Main Dialogue,Kuina,0,0,0,,Isso {\i1}é{\i0} assustador!
 Dialogue: 0,0:11:48.44,0:11:49.56,Main Dialogue,Hinako,0,0,0,,Pronto.
 Dialogue: 0,0:11:50.29,0:11:52.99,Main Dialogue,Hinako,0,0,0,,Vocês não tem nenhum animal aqui na loja?
-Dialogue: 0,0:11:52.99,0:11:55.27,Main Dialogue,Hinako,0,0,0,,Lojas com animas são populares hoje em dia.
+Dialogue: 0,0:11:52.99,0:11:55.27,Main Dialogue,Hinako,0,0,0,,Lojas com animais são populares hoje em dia.
 Dialogue: 0,0:11:55.27,0:11:58.61,Main Dialogue,Mayuki,0,0,0,,Que tipo de animais tinham na sua cidade?
 Dialogue: 0,0:11:58.61,0:12:00.32,Main Dialogue,Hinako,0,0,0,,Vamos ver...
 Dialogue: 0,0:12:00.81,0:12:04.90,Main Dialogue,Hinako,0,0,0,,Cachorros, coelhos, macacos, tanukis, cervos...
@@ -802,7 +802,7 @@ Dialogue: 0,0:13:27.41,0:13:27.53,Signs,Text,0,0,0,,{\fnBirds of paradise\fax-0.
 Dialogue: 0,0:13:27.53,0:13:27.66,Signs,Text,0,0,0,,{\fnBirds of paradise\fax-0.3\blur.5\fsp-12\bordo\pos(698,454)\c&HFEFEFE&\frz11.31\frx14\fry336\iclip(m 656 462 l 658 501 675 503 677 455 644 440 642 472 643 504 604 498 619 417 738 370)}H{\fsp0}itotose
 Dialogue: 0,0:13:27.66,0:13:27.78,Signs,Text,0,0,0,,{\fnBirds of paradise\fax-0.3\blur.5\fsp-12\bordo\pos(698,454)\c&HFEFEFE&\frz11.31\frx14\fry336\iclip(m 652 462 l 655 501 671 503 677 455 644 440 642 472 640 504 604 498 619 417 738 370)}H{\fsp0}itotose
 Dialogue: 0,0:13:29.38,0:13:31.79,Main Dialogue,Yua,0,0,0,,Livros Antigos Hitotose?
-Dialogue: 0,0:13:32.29,0:13:36.29,Main Dialogue,Yua,0,0,0,,Pensando nisso, eu ouvi que\N ela vive em uma loja de livro antigos.
+Dialogue: 0,0:13:32.29,0:13:36.29,Main Dialogue,Yua,0,0,0,,Pensando nisso, eu ouvi que\N ela vive em uma loja de livros antigos.
 Dialogue: 0,0:13:36.29,0:13:38.29,Main Dialogue,Yua,0,0,0,,Será que é aqui?
 Dialogue: 0,0:13:41.99,0:13:43.73,Main Dialogue,Hinako,0,0,0,,Agora um pinguim!
 Dialogue: 0,0:13:43.73,0:13:44.92,Main Dialogue,Kuina,0,0,0,,Ficou perfeito!
@@ -880,7 +880,7 @@ Dialogue: 0,0:17:41.86,0:17:43.33,Main Dialogue,Chiaki,0,0,0,,Intuição?
 Dialogue: 0,0:17:45.83,0:17:47.58,Main Dialogue,Text,0,0,0,,{\fad(300,1)\c&H5F8D1D&\fnMontara Gothic\blur0.5\pos(1068,466)}{\bord0}{\fs30}Talento Natural {天才}
 Dialogue: 0,0:17:47.99,0:17:51.59,Main Dialogue,Mayuki,0,0,0,,P-Por que não começamos com as suas falas?
 Dialogue: 0,0:17:51.59,0:17:53.71,Main Dialogue,Kuina,0,0,0,,Ah, essa é uma boa ideia
-Dialogue: 0,0:17:53.71,0:17:57.59,Main Dialogue,Kuina,0,0,0,,Você não vai conseguir atuar se não memorizar as falar.
+Dialogue: 0,0:17:53.71,0:17:57.59,Main Dialogue,Kuina,0,0,0,,Você não vai conseguir atuar se não memorizar as falas.
 Dialogue: 0,0:17:57.59,0:18:00.36,Main Dialogue,Hinako,0,0,0,,Eu estou um pouco confiante sobre as minhas falas!
 Dialogue: 0,0:18:00.36,0:18:03.80,Main Dialogue,Hinako,0,0,0,,Eu tenho lido o roteiro\N todos os dias com o Toritarou!
 Dialogue: 0,0:18:04.67,0:18:09.67,Main Dialogue,Chiaki,0,0,0,,Certo, podemos começar a citar as falas da heroína no começo da primeira cena?
