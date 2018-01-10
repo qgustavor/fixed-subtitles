@@ -46,7 +46,7 @@ Style: sign_4149_24_Fujimiya__Girls_,Arno Pro SmText,24,&H005A9CAB,&H000000FF,&H
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:36.58,0:01:38.47,Main Dialogue,Hinako,0,0,0,,Kuu-chan, você está bem?
 Dialogue: 0,0:01:38.47,0:01:41.43,Main Dialogue,Kuina,0,0,0,,Por que todo dia está tão quente?
-Dialogue: 0,0:01:41.43,0:01:43.65,Main Dialogue,Hinako,0,0,0,,Hmm... por que é verão?
+Dialogue: 0,0:01:41.43,0:01:43.65,Main Dialogue,Hinako,0,0,0,,Hmm... porque é verão?
 Dialogue: 0,0:01:43.65,0:01:45.43,Main Dialogue,Kuina,0,0,0,,É mesmo.
 Dialogue: 0,0:01:47.30,0:01:51.69,Main Dialogue,Kuina,0,0,0,,Já sei! Quando faz tanto calor no verão, eu sinto vontade de ir à praia!
 Dialogue: 0,0:01:51.69,0:01:52.71,Main Dialogue,Kuina,0,0,0,,Não acha, Hina-chan?
@@ -95,7 +95,7 @@ Dialogue: 0,0:04:13.48,0:04:15.05,Main Dialogue,Hinako,0,0,0,,Incrível!{Wow, th
 Dialogue: 0,0:04:15.48,0:04:17.98,Main Dialogue,Hinako,0,0,0,,Então isso é uma loja de departamentos! {百貨店}
 Dialogue: 0,0:04:17.98,0:04:21.51,Main Dialogue,Hinako,0,0,0,,Essa é a minha primeira vez \Nfazendo compras com amigas,
 Dialogue: 0,0:04:21.51,0:04:23.38,Main Dialogue,Hinako,0,0,0,,então estou muito empolgada!
-Dialogue: 0,0:04:23.38,0:04:26.72,Main Dialogue,Kuina,0,0,0,,Também é a minha primeira vez comprando uma roupa de banho , então estou muito ansiosa! {水着 売り場 }{primeira vez comprando em uma loja... place where things are sold; point of sale; POS; sales floor; counter (in shop)​\NNoun\N2. favorable time to sell; good time to sell​} {fuck runas}
+Dialogue: 0,0:04:23.38,0:04:26.72,Main Dialogue,Kuina,0,0,0,,Também é a minha primeira vez comprando uma roupa de banho, então estou muito ansiosa! {水着 売り場 }{primeira vez comprando em uma loja... place where things are sold; point of sale; POS; sales floor; counter (in shop)​\NNoun\N2. favorable time to sell; good time to sell​} {fuck runas}
 Dialogue: 0,0:04:30.62,0:04:32.52,Main Dialogue,Hinako,0,0,0,,Tem um monte!
 Dialogue: 0,0:04:32.52,0:04:33.87,Main Dialogue,Hinako,0,0,0,,Oh, olha, olha!
 Dialogue: 0,0:04:33.87,0:04:36.03,Main Dialogue,Hinako,0,0,0,,Aquele é muito fofo!
