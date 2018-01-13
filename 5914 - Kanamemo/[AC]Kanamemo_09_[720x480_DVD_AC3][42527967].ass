@@ -186,7 +186,7 @@ Dialogue: 0,0:10:03.42,0:10:07.26,Default,kan,0,0,0,,Oh, Miura-san... esta é su
 Dialogue: 0,0:10:07.26,0:10:12.55,Default,sac,0,0,0,,Sim. Então vocês que entregam nossos jornais.
 Dialogue: 0,0:10:12.55,0:10:15.78,Default,mik,0,0,0,,Aconteceu de eu estar passando.
 Dialogue: 0,0:10:15.78,0:10:17.17,Default,sac,0,0,0,,Entendi.
-Dialogue: 0,0:10:17.17,0:10:21.52,Default,sac,0,0,0,,Oh! desculpa por pedir isso para vocês,
+Dialogue: 0,0:10:17.17,0:10:21.52,Default,sac,0,0,0,,Oh! Desculpa por pedir isso para vocês,
 Dialogue: 0,0:10:22.15,0:10:24.51,Default,,0,0,0,,mas você pode me fazer um favor?
 Dialogue: 0,0:10:37.08,0:10:39.64,Default,yum,0,0,0,,Kana-chan, vou abrir!
 Dialogue: 0,0:10:39.64,0:10:40.79,Default,kan,0,0,0,,Certo!
@@ -203,14 +203,14 @@ Dialogue: 0,0:11:24.25,0:11:26.32,Default,hin,0,0,0,,Uha, isso é maravilhoso!
 Dialogue: 0,0:11:26.32,0:11:28.44,Default,yum,0,0,0,,Eu também, eu também!
 Dialogue: 0,0:11:30.03,0:11:33.40,Default,hin,0,0,0,,cinco, quatro, três, dois, um.
 Dialogue: 0,0:11:30.86,0:11:34.74,Alternative,kan,0,0,0,,Barreira, barreira, barreiraaaaaaaa!
-Dialogue: 0,0:11:35.31,0:11:39.16,Default,hin,0,0,0,,Ai, ataque revelador da rouba de baixo!
+Dialogue: 0,0:11:35.31,0:11:39.16,Default,hin,0,0,0,,Ai, ataque revelador da roupa de baixo!
 Dialogue: 0,0:11:40.91,0:11:42.31,Default,hin,0,0,0,,Qual o problema?
 Dialogue: 0,0:11:42.31,0:11:45.39,Default,kan,0,0,0,,Normalmente é aqui que a Haruka-san...
 Dialogue: 0,0:11:45.39,0:11:48.13,Default,hin,0,0,0,,Oh, não se preocupe com isso.
 Dialogue: 0,0:11:55.09,0:11:56.67,Default,kan,0,0,0,,Hinata-san, você é o máximo!
 Dialogue: 0,0:11:57.62,0:12:01.70,Default,hin,0,0,0,,A propósito, essa fantasia foi muito boa, não é?
 Dialogue: 0,0:12:01.93,0:12:05.41,Default,kan,0,0,0,,Sim! Sinto que emagreci um pouco!
-Dialogue: 0,0:12:05.41,0:12:08.08,Default,kan,0,0,0,,principalemente nessa região!
+Dialogue: 0,0:12:05.41,0:12:08.08,Default,kan,0,0,0,,principalmente nessa região!
 Dialogue: 0,0:12:08.08,0:12:09.86,Default,hin,0,0,0,,Isso é ótimo.
 Dialogue: 0,0:12:09.86,0:12:13.74,Default,,0,0,0,,Mas porque a fantasia ficou tão suja?
 Dialogue: 0,0:12:13.74,0:12:17.57,Default,kan,0,0,0,,Huh? Oh, fui atacada pelo Jon.
@@ -221,7 +221,7 @@ Dialogue: 0,0:12:24.36,0:12:26.02,Default,kan,0,0,0,,Sério?
 Dialogue: 0,0:12:26.02,0:12:27.10,Default,yum,0,0,0,,Sim!
 Dialogue: 0,0:12:27.10,0:12:28.89,Default,yum,0,0,0,,Na verdade,
 Dialogue: 0,0:12:28.89,0:12:34.54,Default,,0,0,0,,essa amiga tem que ir para a casa de uns parentes de repente,
-Dialogue: 0,0:12:34.54,0:12:36.60,Default,yum,0,0,0,,então perguntou para mim se eu posso leva-lo para caminhar, alimentar,
+Dialogue: 0,0:12:34.54,0:12:36.60,Default,yum,0,0,0,,então perguntou para mim se eu posso levá-lo para caminhar, alimentar,
 Dialogue: 0,0:12:36.60,0:12:39.61,Default,yum,0,0,0,,e todas as outra coisas de cachorro até à noite.
 Dialogue: 0,0:12:39.61,0:12:40.45,Default,hin,0,0,0,,O quê?
 Dialogue: 0,0:12:40.80,0:12:42.99,Default,,0,0,0,,Apenas alimentar não está bom?
@@ -237,7 +237,7 @@ Dialogue: 0,0:13:08.00,0:13:09.79,Default,,0,0,0,,É claro, a Yuuki vai também!
 Dialogue: 0,0:13:09.79,0:13:10.82,Default,yuu,0,0,0,,Sim.
 Dialogue: 0,0:13:10.82,0:13:15.39,Default,,0,0,0,,Oh é, que tal leva-lo para o Parque Kitanomaru?
 Dialogue: 0,0:13:15.85,0:13:20.53,Default,yuu,0,0,0,,Brincar com o filhote vai ser bom para sua dieta.
-Dialogue: 0,0:13:20.90,0:13:23.58,Default,kan,0,0,0,,Oh! Essa é uma ótima idéia!
+Dialogue: 0,0:13:20.90,0:13:23.58,Default,kan,0,0,0,,Oh! Essa é uma ótima ideia!
 Dialogue: 0,0:13:23.58,0:13:25.36,Alternative,robo,0,0,0,,Esqueci meu horário com o dentista.
 Dialogue: 0,0:13:28.36,0:13:30.28,Default,kan,0,0,0,,Mika-chan!
 Dialogue: 0,0:13:30.28,0:13:31.59,Default,mik,0,0,0,,Você está atrasada!
@@ -277,7 +277,7 @@ Dialogue: 0,0:15:49.91,0:15:52.17,Default,mik,0,0,0,,Cai fora!
 Dialogue: 0,0:15:52.17,0:15:54.34,Default,yum,0,0,0,,Jon quer que você brinque com ele.
 Dialogue: 0,0:15:54.34,0:15:57.71,Default,mik,0,0,0,,Idiota, como vou fazer isso?
 Dialogue: 0,0:16:01.69,0:16:03.25,Default,yum,0,0,0,,Assim.
-Dialogue: 0,0:16:13.42,0:16:17.63,Default,yum,0,0,0,,O Jon só quer brincar e que façam carrinho nele.
+Dialogue: 0,0:16:13.42,0:16:17.63,Default,yum,0,0,0,,O Jon só quer brincar e que façam carinho nele.
 Dialogue: 0,0:16:17.63,0:16:20.08,Default,mik,0,0,0,,Eu sei disso.
 Dialogue: 0,0:16:20.76,0:16:24.19,Default,kan,0,0,0,,Entendi, ele quer que façam carrinho nele.
 Dialogue: 0,0:16:24.19,0:16:26.47,Default,kan,0,0,0,,Então vou também...
@@ -342,7 +342,7 @@ Dialogue: 0,0:21:47.35,0:21:49.80,Default,,0,0,0,,Nãoooooo!
 Dialogue: 0,0:21:51.37,0:21:56.44,Default,har,0,0,0,,Eu já disse para você, não sou suspeita!
 Dialogue: 0,0:23:30.32,0:23:32.89,Default,mik,0,0,0,,Próximo episódio, "Meus Primeiros Sentimentos".
 Dialogue: 0,0:23:32.89,0:23:34.34,Default,sak,0,0,0,,Estúpida flor impertinente!
-Dialogue: 0,0:23:34.34,0:23:36.68,Default,mik,0,0,0,,Esses Fuushiners são realmente uns instos!
+Dialogue: 0,0:23:34.34,0:23:36.68,Default,mik,0,0,0,,Esses Fuushiners são realmente irritantes!
 Dialogue: 0,0:23:36.68,0:23:38.57,Default,sak,0,0,0,,Lembre-se, sou a Chefe!
 Dialogue: 0,0:23:38.57,0:23:42.10,Default,mik,0,0,0,,Esqueça isso, não sou qualquer um!
 Dialogue: 0,0:23:42.10,0:23:44.35,Default,sak,0,0,0,,Você é tão irritante!
