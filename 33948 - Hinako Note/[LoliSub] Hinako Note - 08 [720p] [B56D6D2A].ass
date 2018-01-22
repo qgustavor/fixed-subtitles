@@ -49,7 +49,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.35,0:00:03.35,Signs,Text,0,0,0,,{\fnBirds of paradise\fax-0.3\blur.5\fsp-12\bordo\c&H090909&\frz11.31\pos(555.2,251.2)\t(0,960,\c&HDCDCDE&)\frx10\fry358}H{\fsp0}itotose
 Dialogue: 0,0:00:07.54,0:00:09.16,Main Dialogue,Hinako,0,0,0,,Tudo pronto!
 Dialogue: 0,0:00:09.16,0:00:14.04,Main Dialogue,Kuina,0,0,0,,Hina-chan, obrigada por\N me ajudar durante as férias de verão.
-Dialogue: 0,0:00:14.04,0:00:17.12,Main Dialogue,Hinako,0,0,0,,Não, estou fazendo isso {\i1}porque {\i0}é as férias de verão.
+Dialogue: 0,0:00:14.04,0:00:17.12,Main Dialogue,Hinako,0,0,0,,Não, estou fazendo isso {\i1}porque{\i0} são as férias de verão.
 Dialogue: 0,0:00:17.68,0:00:21.12,Italics Dialogue,Hinako,0,0,0,,Eu também fui capaz de falar na frente das pessoas durante o festival escolar.
 Dialogue: 0,0:00:21.12,0:00:23.71,Italics Dialogue,Hinako,0,0,0,,Com certeza eu vou conseguir com os clientes!
 Dialogue: 0,0:00:24.18,0:00:26.78,Main Dialogue,Hinako,0,0,0,,Então, o que eu tenho que fazer?
@@ -321,7 +321,7 @@ Dialogue: 0,0:12:01.43,0:12:03.11,Main Dialogue,Hinako,0,0,0,,Isso me surpreende
 Dialogue: 0,0:12:03.11,0:12:04.54,Main Dialogue,Mayuki,0,0,0,,Qual o seu pedido?
 Dialogue: 0,0:12:04.54,0:12:05.91,Main Dialogue,Mayuki,0,0,0,,Eu vou limpar imediatamente!
 Dialogue: 0,0:12:08.87,0:12:09.89,Main Dialogue,Yua,0,0,0,,A Hinako está?
-Dialogue: 0,0:12:09.89,0:12:12.87,Main Dialogue,Yua,0,0,0,,A Yua-sama trouxe mais alguns DVD para você...
+Dialogue: 0,0:12:09.89,0:12:12.87,Main Dialogue,Yua,0,0,0,,A Yua-sama trouxe mais alguns DVDs para você...
 Dialogue: 0,0:12:14.12,0:12:15.63,Main Dialogue,Kuina,0,0,0,,Oh, Yua-chan.
 Dialogue: 0,0:12:15.98,0:12:18.50,Main Dialogue,Yua,0,0,0,,Hã? A Hinako pegou um resfriado e desmaiou?
 Dialogue: 0,0:12:18.50,0:12:22.68,Main Dialogue,Kuina,0,0,0,,Sim, por isso eu estou \Npesquisando sobre resfriados.
@@ -409,13 +409,14 @@ Dialogue: 0,0:17:28.15,0:17:31.28,Main Dialogue,Hinako,0,0,0,,Quando eu estava n
 Dialogue: 0,0:17:31.28,0:17:35.09,Main Dialogue,Hinako,0,0,0,,A minha mãe passou o dia todo cuidando de mim,
 Dialogue: 0,0:17:35.09,0:17:37.66,Main Dialogue,Hinako,0,0,0,,e fazia mingau de arroz pra mim... {お粥}
 Dialogue: 0,0:17:50.42,0:17:52.92,Celular,Text,0,0,0,,{\pos(636.8,318.6)\blur0.5\frz0.6\frx5\bord0\fs20\shad0\c&H444947&\t(1193,2486,\frz3)}Mãe
+Dialogue: 0,0:17:46.17,0:17:50.14,Main Dialogue,Hinako,0,0,0,,Será que ela está em casa agora?
 Dialogue: 0,0:17:50.14,0:17:52.37,Main Dialogue,Hinako,0,0,0,,Será que ela vai atender...?
 Dialogue: 0,0:17:53.40,0:17:57.01,Main Dialogue,Hinako,0,0,0,,Eu sinto sua falta...
 Dialogue: 0,0:17:57.43,0:18:01.51,Main Dialogue,Hinako,0,0,0,,Eu quero comer o seu mingau de arroz...
 Dialogue: 0,0:18:01.99,0:18:04.00,Main Dialogue,Hinako,0,0,0,,Não, Hinako!
 Dialogue: 0,0:18:04.00,0:18:05.66,Main Dialogue,Hinako,0,0,0,,Se eu mostrar qualquer fraqueza,
-Dialogue: 0,0:18:05.66,0:18:08.51,Main Dialogue,,0,0,0,,ela vai dizer pra mim voltar pra casa!
-Dialogue: 0,0:18:08.86,0:18:13.77,Main Dialogue,Hinako,0,0,0,,Eu decidir não voltar para casa \Naté começar a atuar em Tóquio,
+Dialogue: 0,0:18:05.66,0:18:08.51,Main Dialogue,,0,0,0,,ela vai dizer pra eu voltar pra casa!
+Dialogue: 0,0:18:08.86,0:18:13.77,Main Dialogue,Hinako,0,0,0,,Eu decidi não voltar para casa \Naté começar a atuar em Tóquio,
 Dialogue: 0,0:18:13.77,0:18:15.94,Main Dialogue,Hinako,0,0,0,,e superar meu problema de espantalho.
 Dialogue: 0,0:18:19.44,0:18:21.50,Main Dialogue,Hinako,0,0,0,,Mas hoje...
 Dialogue: 0,0:18:21.50,0:18:23.53,Main Dialogue,Hinako,0,0,0,,Apenas hoje...
@@ -447,7 +448,7 @@ Dialogue: 0,0:19:52.72,0:19:54.25,Main Dialogue,Hinako,0,0,0,,Obrigada!
 Dialogue: 0,0:19:54.92,0:19:56.65,Main Dialogue,Mayuki,0,0,0,,Ainda consegue comer mais?
 Dialogue: 0,0:19:56.65,0:19:58.46,Main Dialogue,Hinako,0,0,0,,Sim! Consigo!
 Dialogue: 0,0:19:58.46,0:20:00.27,Main Dialogue,Hinako,0,0,0,,Consigo comer tudo!
-Dialogue: 0,0:20:00.27,0:20:02.57,Main Dialogue,Chiaki,0,0,0,,Desde que você não fica com dor de barriga.
+Dialogue: 0,0:20:00.27,0:20:02.57,Main Dialogue,Chiaki,0,0,0,,Desde que você não fique com dor de barriga.
 Dialogue: 0,0:20:02.57,0:20:04.68,Main Dialogue,Kuina,0,0,0,,Ah, agora é a minha vez.
 Dialogue: 0,0:20:04.97,0:20:06.80,Main Dialogue,Kuina,0,0,0,,Diga "Ahh".
 Dialogue: 0,0:20:08.66,0:20:10.93,Main Dialogue,Yua,0,0,0,,Agora é a vez da Yua!
@@ -721,7 +722,6 @@ Comment: 0,0:08:48.91,0:08:49.59,Main Dialogue,Hinako,0,0,0,,Huh...
 Comment: 0,0:12:36.62,0:12:38.23,Main Dialogue,Kuina,0,0,0,,Here we go...
 Comment: 0,0:15:20.87,0:15:22.85,Main Dialogue,Kuina,0,0,0,,Hiss!
 Comment: 0,0:16:03.44,0:16:05.20,Main Dialogue,Kuina,0,0,0,,Rawr!
-Comment: 20,0:17:46.17,0:17:50.14,Main Dialogue,Hinako,0,0,0,,Será que ela está em casa agora?
 Comment: 0,0:18:38.44,0:18:38.93,Main Dialogue,Hinako,0,0,0,,Huh?
 Comment: 0,0:21:45.78,0:21:47.78,sign_31260_368_Oral_Medicine__N,,0,0,0,,cr não traduziu a última linha do type, coloquei a tl na respectiva ordem, mas não consigo ver o último é "comer alguma coisa..." então coloca bem desfocado só pra ficar bonito mesmo.
 Comment: 2,0:00:46.13,0:00:47.53,OP-PT,,0,0,0,,{\fad(125,125)\blur1.5}nyamakuri, nyamago ni, nyamanyamago
