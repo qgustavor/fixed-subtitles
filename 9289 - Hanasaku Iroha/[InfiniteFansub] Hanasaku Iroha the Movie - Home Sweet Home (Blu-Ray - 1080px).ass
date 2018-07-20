@@ -132,7 +132,7 @@ Dialogue: 10,0:08:18.70,0:08:19.79,Iroha main,Ohana,0,0,0,,Yuina-san!
 Dialogue: 10,0:08:19.79,0:08:22.56,Iroha main,Yuino,0,0,0,,É Tohru-san e Tsurugi-san!
 Dialogue: 10,0:08:22.56,0:08:24.02,Iroha main,Ohana,0,0,0,,Ei, não os interrompa!
 Dialogue: 10,0:08:25.89,0:08:29.60,Iroha main,Yuino,0,0,0,,Ei, qual o nome desse escovinha?
-Dialogue: 10,0:08:31.05,0:08:33.28,Iroha main,Minko,0,0,0,,Ei! Não se refira ao Ren-san tão desrespeitosamente{\fscx300}-{\fscx100}
+Dialogue: 10,0:08:31.05,0:08:33.28,Iroha main,Minko,0,0,0,,Ei! Não se refira ao Ren-san com tão pouco respeito{\fscx300}-{\fscx100}
 Dialogue: 10,0:08:32.18,0:08:33.28,Overlaps,Yuino,0,0,0,,Caramba!
 Dialogue: 10,0:08:33.28,0:08:35.60,Iroha main,Yuino,0,0,0,,Você está preparando enquanto ele ainda está vivo? Isso é tão nojento!
 Dialogue: 10,0:08:35.60,0:08:36.76,Iroha main,Yuino,0,0,0,,Oh, espere.
@@ -221,7 +221,7 @@ Dialogue: 10,0:12:11.85,0:12:14.76,Iroha main,Yuino,0,0,0,,Seu filho tem sorte d
 Dialogue: 10,0:12:16.41,0:12:17.20,Iroha main,Tomoe,0,0,0,,“Filho”?
 Dialogue: 10,0:12:18.05,0:12:23.47,Iroha main,Yuino,0,0,0,,Ah, de alguma forma você está sempre tão calma, então eu assumi que você já é uma mãe.
 Dialogue: 10,0:12:23.47,0:12:25.01,Iroha main,Yuino,0,0,0,,Estou errada?
-Dialogue: 10,0:12:25.44,0:12:27.71,Iroha main,Tomoe,0,0,0,,Mãe? Me dá um tempo.
+Dialogue: 10,0:12:25.44,0:12:27.71,Iroha main,Tomoe,0,0,0,,Mãe? Me dê um tempo.
 Dialogue: 10,0:12:28.26,0:12:32.52,Iroha main,Tomoe,0,0,0,,Eu nem sequer satisfiz os pré-requisitos para fazer os bebês ainda!
 Dialogue: 10,0:12:34.01,0:12:35.95,Iroha main,Ohana,0,0,0,,Você não deve fazer isso.
 Dialogue: 10,0:12:35.95,0:12:39.05,Iroha main,Ohana,0,0,0,,Tomoe-san é sensível sobre coisas desse tipo.
@@ -308,7 +308,7 @@ Dialogue: 10,0:17:38.19,0:17:40.80,Iroha main,Yuina,0,0,0,,Oh, está começando 
 Dialogue: 10,0:17:40.80,0:17:44.79,Iroha main,Yuina,0,0,0,,Corta, corta, corta!
 Dialogue: 10,0:17:45.39,0:17:48.25,Iroha main,Ohana,0,0,0,,Eu me pergunto se Yuina-san acabou colocando aquelas coisas pra fora.
 Dialogue: 10,0:17:52.27,0:17:54.26,Iroha main,Ohana,0,0,0,,Que confusão!
-Dialogue: 10,0:17:54.26,0:17:55.57,Iroha main,Ohana,0,0,0,,O quê é tudo isso!
+Dialogue: 10,0:17:54.26,0:17:55.57,Iroha main,Ohana,0,0,0,,O que é tudo isso?!
 Dialogue: 10,0:17:55.57,0:17:56.68,Iroha main,Ohana,0,0,0,,Caramba!
 Dialogue: 10,0:17:57.89,0:17:59.53,Iroha main,Ohana,0,0,0,,Realmente...
 Dialogue: 10,0:18:04.89,0:18:07.80,Iroha main,Ohana,0,0,0,,Este é o caderno do Homem dos Feijões...
@@ -318,7 +318,7 @@ Dialogue: 10,0:18:15.94,0:18:18.53,Iroha main,Ohana,0,0,0,,“Tenho sopa de miso
 Dialogue: 10,0:18:18.97,0:18:22.00,Iroha main,Ohana,0,0,0,,Oh? Até coisas assim estão escritas aqui.
 Dialogue: 10,0:18:24.33,0:18:26.45,Iroha main,Ohana,0,0,0,,“Eu quero brilhar”
 Dialogue: 10,0:18:26.83,0:18:29.60,Iroha main,Ohana,0,0,0,,“Satsuki-chan disse isso”?
-Dialogue: 10,0:18:32.27,0:18:37.47,Iroha main,Aki,0,0,0,,Senhora, os convidados que reservaram o Quarto da Camellia disse que vão se atrasar.
+Dialogue: 10,0:18:32.27,0:18:37.47,Iroha main,Aki,0,0,0,,Senhora, os convidados que reservaram o Quarto da Camellia disseram que vão se atrasar.
 Dialogue: 10,0:18:37.47,0:18:38.43,Iroha main,Sui,0,0,0,,Entendido.
 Dialogue: 10,0:18:38.85,0:18:41.16,Iroha main,Sui,0,0,0,,Aki-san, a limpeza do Quarto de Ondas está pronta?
 Dialogue: 10,0:18:41.16,0:18:41.72,Iroha main,Aki,0,0,0,,Sim.
@@ -326,7 +326,7 @@ Dialogue: 10,0:18:42.16,0:18:46.52,Iroha main,girl,0,0,0,,Senhora, os convidados
 Dialogue: 10,0:18:46.52,0:18:48.02,Iroha main,Sui,0,0,0,,Eu irei lá.
 Dialogue: 10,0:18:48.02,0:18:51.31,Iroha main,Enishi,0,0,0,,Mamãe, e quanto aos meus lanches?
 Dialogue: 10,0:18:51.31,0:18:53.01,Iroha main,Sui,0,0,0,,Peça para Satsuki para prepará-lo para você.
-Dialogue: 10,0:18:53.72,0:18:54.98,Iroha main,Enishi,0,0,0,,Mas..
+Dialogue: 10,0:18:53.72,0:18:54.98,Iroha main,Enishi,0,0,0,,Mas...
 Dialogue: 10,0:18:56.84,0:18:57.86,Iroha main,Sui,0,0,0,,Enishi?
 Dialogue: 10,0:19:00.49,0:19:01.97,Iroha main,Sui,0,0,0,,Onde você pensa que vai?
 Dialogue: 10,0:19:02.26,0:19:03.87,Iroha main,Satsuki,0,0,0,,Vou estudar com um amigo.
