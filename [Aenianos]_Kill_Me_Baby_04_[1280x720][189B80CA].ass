@@ -113,7 +113,7 @@ Dialogue: 10,0:07:20.86,0:07:24.44,Falas,Yasuna,0000,0000,0000,,{\be1}Vamos pens
 Dialogue: 10,0:07:24.93,0:07:26.36,Falas,Yasuna,0000,0000,0000,,{\be1}Um carrilhão de vento, por exemplo!
 Dialogue: 10,0:07:35.44,0:07:37.60,Falas,Yasuna,0000,0000,0000,,{\be1}Hã? Ele não se move...
 Dialogue: 10,0:07:37.60,0:07:39.13,Falas,Sonya,0000,0000,0000,,{\be1}Não há vento, há?
-Dialogue: 10,0:07:40.85,0:07:43.34,Falas,Yasuna,0000,0000,0000,,{\be1}É legal, lega, legal!
+Dialogue: 10,0:07:40.85,0:07:43.34,Falas,Yasuna,0000,0000,0000,,{\be1}É legal, legal, legal!
 Dialogue: 10,0:07:43.34,0:07:44.88,Falas,Sonya,0000,0000,0000,,{\be1}No fim, você está, simplesmente, ventilando de novo.
 Dialogue: 10,0:07:49.39,0:07:53.56,Falas,Yasuna,0000,0000,0000,,{\be1}Vamos plantar algumas plantas e fazer uma linda cortina verde!
 Dialogue: 10,0:07:53.56,0:07:54.85,Falas,Sonya,0000,0000,0000,,{\be1}O quê quer dizer?
@@ -161,13 +161,13 @@ Dialogue: 10,0:09:44.27,0:09:46.36,Falas,Yasuna,0000,0000,0000,,{\be1}A primeira
 Dialogue: 10,0:09:46.36,0:09:48.84,Falas,Sonya,0000,0000,0000,,{\be1}Na verdade, isso não é um pouco perigoso?
 Dialogue: 10,0:09:57.11,0:09:58.80,Falas,Sonya,0000,0000,0000,,{\be1}O quê eu estou fazendo?
 Dialogue: 10,0:09:58.80,0:09:59.77,Falas,Sonya,0000,0000,0000,,{\be1}Isso é patético.
-Dialogue: 10,0:10:12.08,0:10:13.58,Falas,Yasuna,0000,0000,0000,,{\be1}Olhos de touro!
+Dialogue: 10,0:10:12.08,0:10:13.58,Falas,Yasuna,0000,0000,0000,,{\be1}Na mosca!
 Dialogue: 10,0:10:13.58,0:10:15.11,Falas,Yasuna,0000,0000,0000,,{\be1}Droga...
 Dialogue: 10,0:10:15.11,0:10:17.74,Falas,Yasuna,0000,0000,0000,,{\be1}Isso é trapaça! Por quê você está comendo?!
 Dialogue: 10,0:10:18.50,0:10:19.59,Falas,Sonya,0000,0000,0000,,{\be1}Porque eu a rachei.
 Dialogue: 10,0:10:21.00,0:10:23.71,Falas,Sonya,0000,0000,0000,,{\be1}É porque eu a rachei antes de você.
 Dialogue: 10,0:10:26.50,0:10:29.68,Falas,Yasuna,0000,0000,0000,,{\be1}Entendo. Você a pegou antes de mim.
-Dialogue: 10,0:10:29.68,0:10:30.70,Falas,Yasuna,0000,0000,0000,,{\be1}Que vergonha.
+Dialogue: 10,0:10:29.68,0:10:30.70,Falas,Yasuna,0000,0000,0000,,{\be1}Que pena.
 Dialogue: 10,0:10:41.34,0:10:43.90,Falas,Yasuna,0000,0000,0000,,{\be1}Escureceu.
 Dialogue: 10,0:10:43.90,0:10:44.89,Falas,Sonya,0000,0000,0000,,{\be1}Sim.
 Dialogue: 10,0:10:44.89,0:10:47.38,Falas,Yasuna,0000,0000,0000,,{\be1}Estou faminta.
@@ -238,7 +238,7 @@ Dialogue: 10,0:14:30.19,0:14:32.70,Falas,Assassin1,0000,0000,0000,,{\be1}Eu poss
 Dialogue: 10,0:14:32.70,0:14:34.14,Falas,Sonya,0000,0000,0000,,{\be1}Então você é o assassino.
 Dialogue: 10,0:14:34.95,0:14:36.06,Falas,Assassin1,0000,0000,0000,,{\be1}De fato.
 Dialogue: 10,0:14:36.06,0:14:38.67,Falas,Assassin1,0000,0000,0000,,{\be1}Estou aqui pra acabar com você!
-Dialogue: 10,0:14:38.67,0:14:40.99,Falas,Assassin1,0000,0000,0000,,{\be1}Oh, não! A ninja que não está interpretando o humor, está atacando!
+Dialogue: 10,0:14:38.67,0:14:40.99,Falas,Assassin1,0000,0000,0000,,{\be1}Oh, não! A ninja que não está interpretando a situação, está atacando!
 Dialogue: 10,0:14:41.74,0:14:42.76,Falas,Assassin1,0000,0000,0000,,{\be1}Mas isso não é o suficiente!
 Dialogue: 10,0:14:43.45,0:14:46.14,Falas,Assassin1,0000,0000,0000,,{\be1}Muito bem, eu me livrarei de voc-
 Dialogue: 10,0:14:48.36,0:14:52.61,Falas,Agiri,0000,0000,0000,,{\be1}Eu posso te acertar com outras\N coisas, além de shurikens.
@@ -376,7 +376,7 @@ Dialogue: 10,0:21:35.33,0:21:37.91,Falas,Sonya,0000,0000,0000,,{\be1}Me pergunto
 Dialogue: 10,0:21:39.52,0:21:40.62,Falas,Sonya,0000,0000,0000,,{\be1}Tanto faz.
 Dialogue: 10,0:21:40.62,0:21:41.65,Falas,Yasuna,0000,0000,0000,,{\be1}Isso não é legal!
 Dialogue: 10,0:21:42.62,0:21:44.92,Falas,Sonya,0000,0000,0000,,{\be1}A verdadeira é persistente, afinal.
-Dialogue: 10,0:21:53.06,0:21:57.71,Falas,Yasuna,0000,0000,0000,,{\be1}Você deve ter notado que eu era a\N verdadeira no meio do caminho, certo?
+Dialogue: 10,0:21:53.06,0:21:57.71,Falas,Yasuna,0000,0000,0000,,{\be1}Você deve ter notado que eu era a\N verdadeira no meio da luta, certo?
 Dialogue: 10,0:21:57.71,0:21:58.59,Falas,Sonya,0000,0000,0000,,{\be1}Não me importo.
 Dialogue: 10,0:21:58.59,0:22:02.53,Falas,Yasuna,0000,0000,0000,,{\be1}Droga, Sonya-chan!
 Dialogue: 10,0:22:11.02,0:22:12.05,Falas,Assassin3,0000,0000,0000,,{\be1}E você é?
