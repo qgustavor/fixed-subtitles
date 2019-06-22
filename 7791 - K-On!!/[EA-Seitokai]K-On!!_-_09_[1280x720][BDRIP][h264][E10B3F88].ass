@@ -231,7 +231,7 @@ Dialogue: 0,0:10:37.49,0:10:38.65,KOnNormal,mio,0000,0000,0000,,E você também.
 Dialogue: 0,0:10:38.65,0:10:41.49,KOnNormal,mug,0000,0000,0000,,Você vai ficar bem sozinha?
 Dialogue: 0,0:10:41.49,0:10:43.66,KOnNormal,yui,0000,0000,0000,,Eu decidi fazer o meu melhor.
 Dialogue: 0,0:10:43.66,0:10:45.79,KOnNormal,rit,0000,0000,0000,,Por que você não recusou?
-Dialogue: 0,0:10:45.79,0:10:48.62,KOnNormal,yui,0000,0000,0000,,Eu quero fazer algo pela senhora da porta ao lado.
+Dialogue: 0,0:10:45.79,0:10:48.62,KOnNormal,yui,0000,0000,0000,,Eu quero fazer algo pela senhora que vizinha minha.
 Dialogue: 0,0:10:48.62,0:10:49.92,KOnNormal,mug,0000,0000,0000,,Senhora?
 Dialogue: 0,0:10:49.92,0:10:52.50,KOnNormal,yui,0000,0000,0000,,Ela tem tomado conta de nós desde que éramos pequenas,
 Dialogue: 0,0:10:52.50,0:10:54.17,KOnNormal,yui,0000,0000,0000,,então eu quero devolver o favor.
@@ -419,7 +419,7 @@ Dialogue: 0,0:19:40.57,0:19:41.82,KOnNormal,azu,0000,0000,0000,,Vamos fazer isso
 Dialogue: 0,0:19:43.03,0:19:44.91,KOnNormal,yui,0000,0000,0000,,Espere, o que vamos cantar?
 Dialogue: 0,0:19:44.91,0:19:46.87,KOnNormal,azu,0000,0000,0000,,Dê um tempo!
 Dialogue: 0,0:19:47.54,0:19:48.62,KOnNormal,man,0000,0000,0000,,Isso é tão bobo.
-Dialogue: 0,0:19:48.62,0:19:52.67,KOnNormal,yui,0000,0000,0000,,Iremos cantar "Fude Pen, Ball Pen: versão YuiAzu."
+Dialogue: 0,0:19:48.62,0:19:52.67,KOnNormal,yui,0000,0000,0000,,Iremos cantar "Fude Pen, Ball Pen: versão YuiAzu".
 Dialogue: 0,0:19:54.25,0:19:55.75,KOnNormal,yui,0000,0000,0000,,Um, dois, três...
 Dialogue: 0,0:20:01.01,0:20:02.26,KOnNormal,rit,0000,0000,0000,,Então esse era o truque de vocês.
 Dialogue: 0,0:20:11.26,0:20:15.44,Krk especial,yui,0000,0000,0000,,{\fad(200,200)}{\kf20}{\kf38}fu{\kf18}de{\kf55}pe{\kf27}n{\kf8} {\kf53}fu{\kf127}fu

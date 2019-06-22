@@ -162,7 +162,7 @@ Dialogue: 0,0:07:11.33,0:07:13.70,K1Norma,saw,0000,0000,0000,,Entregue ao vice-d
 Dialogue: 0,0:07:13.70,0:07:14.39,K1Norma,nod,0000,0000,0000,,Sim.
 Dialogue: 0,0:07:15.06,0:07:17.95,K1Norma,saw,0000,0000,0000,,Então, por que vocês estão aqui?
 Dialogue: 0,0:07:17.95,0:07:19.72,K1Norma,yui,0000,0000,0000,,Sem motivo algum.
-Dialogue: 0,0:07:19.72,0:07:22.14,K1Norma,saw,0000,0000,0000,,Você consegue tão facilmente.
+Dialogue: 0,0:07:19.72,0:07:22.14,K1Norma,saw,0000,0000,0000,,Você fala isso tão facilmente.
 Dialogue: 0,0:07:22.14,0:07:24.15,K1Norma,yui,0000,0000,0000,,Junte-se a nós para o chá.
 Dialogue: 0,0:07:24.49,0:07:28.41,K1Norma,saw,0000,0000,0000,,Eu tenho muitas coisas para fazer antes de amanhã.
 Dialogue: 0,0:07:28.41,0:07:33.23,K1Norma,saw,0000,0000,0000,,Estou liberando minha primeira turma, então essa formatura é importante para mim também.
@@ -189,14 +189,14 @@ Dialogue: 0,0:08:36.85,0:08:39.73,K1Norma,rit,0000,0000,0000,,Eu apenas quis diz
 Dialogue: 0,0:08:40.91,0:08:43.16,K1Norma,mio,0000,0000,0000,,Eu acho que conheço esse sentimento.
 Dialogue: 0,0:08:45.65,0:08:46.45,K1Norma,rit,0000,0000,0000,,O quê?
 Dialogue: 0,0:08:46.45,0:08:48.11,K1Norma,yui,0000,0000,0000,,O que é isso, Nodoka-chan?
-Dialogue: 0,0:08:48.98,0:08:50.36,K1Norma,rit,0000,0000,0000,,É a foto que você entrega para o matchmaker? {NT: matchmaker seria casamenteiro, mas n se aplica aqui, eu acho... verificar no japonês}
+Dialogue: 0,0:08:48.98,0:08:50.36,K1Norma,rit,0000,0000,0000,,É a foto que você entrega para arrumar casamento? {NT: matchmaker seria casamenteiro, mas n se aplica aqui, eu acho... verificar no japonês}
 Dialogue: 0,0:08:50.36,0:08:51.79,K1Norma,nod,0000,0000,0000,,Nada disso.
 Dialogue: 0,0:08:51.79,0:08:55.66,K1Norma,nod,0000,0000,0000,,É um padrão termos um álbum do conselho estudantil todo ano.
 Dialogue: 0,0:08:55.66,0:08:57.25,K3Thoug,mio,0000,0000,0000,,Isso é novo.
 Dialogue: 0,0:08:57.25,0:08:59.21,K3Thoug,mio,0000,0000,0000,,Nodoka está ficando vermelha.
 Dialogue: 0,0:08:59.21,0:09:01.30,K1Norma,yui,0000,0000,0000,,Isso é incrível, Nodoka-chan!
 Dialogue: 0,0:09:01.30,0:09:04.42,K1Norma,yui,0000,0000,0000,,Você será lembrada como parte da história da Escola Secundária Sakura.
-Dialogue: 0,0:09:04.42,0:09:06.72,K1Norma,rit,0000,0000,0000,,Ainda parece uma foto para matchmaking. {NT: de novo aqui}
+Dialogue: 0,0:09:04.42,0:09:06.72,K1Norma,rit,0000,0000,0000,,Ainda parece uma foto para arrumar casamento. {NT: de novo aqui}
 Dialogue: 0,0:09:10.22,0:09:11.30,K1Norma,nod,0000,0000,0000,,O quê?
 Dialogue: 0,0:09:13.21,0:09:15.64,K1Norma,yui,0000,0000,0000,,Nodoka-chan, eu posso pegar seus óculos?
 Dialogue: 0,0:09:15.64,0:09:16.43,K1Norma,nod,0000,0000,0000,,O quê?
@@ -220,7 +220,7 @@ Dialogue: 0,0:10:06.17,0:10:07.47,K1Norma,rit,0000,0000,0000,,Você vai, Yui.
 Dialogue: 0,0:10:09.53,0:10:12.02,K1Norma,jun,0000,0000,0000,,Ui está ocupada com outras coisas, então ela disse para ir sem ela.
 Dialogue: 0,0:10:12.02,0:10:12.56,K1Norma,azu,0000,0000,0000,,Certo.
 Dialogue: 0,0:10:12.56,0:10:13.61,K1Norma,yui,0000,0000,0000,,Azu-nyan!
-Dialogue: 0,0:10:15.12,0:10:18.15,K1Norma,yui,0000,0000,0000,,Tempo perfeito.
+Dialogue: 0,0:10:15.12,0:10:18.15,K1Norma,yui,0000,0000,0000,,Que bom te ver agora!
 Dialogue: 0,0:10:18.15,0:10:19.85,K1Norma,azu,0000,0000,0000,,Você ainda está por aqui?
 Dialogue: 0,0:10:20.70,0:10:22.85,K1Norma,yui,0000,0000,0000,,Azu-nyan é malvada.
 Dialogue: 0,0:10:22.85,0:10:25.26,K1Norma,rit,0000,0000,0000,,Ela não precisa mais de nós?
@@ -359,7 +359,7 @@ Dialogue: 0,0:17:01.59,0:17:03.74,K1Norma,azu,0000,0000,0000,,Então, começarem
 Dialogue: 0,0:17:05.00,0:17:06.81,K1Norma,azu,0000,0000,0000,,Vocês ainda não pensaram nisso?
 Dialogue: 0,0:17:09.86,0:17:12.07,K1Norma,yui,0000,0000,0000,,Devemos começar com "Fuwa Fuwa"?
 Dialogue: 0,0:17:12.07,0:17:13.95,K1Norma,mug,0000,0000,0000,,Eu acho que ela fica melhor no final.
-Dialogue: 0,0:17:13.95,0:17:15.36,K1Norma,rit,0000,0000,0000,,Vamos começar com "Curry."
+Dialogue: 0,0:17:13.95,0:17:15.36,K1Norma,rit,0000,0000,0000,,Vamos começar com "Curry".
 Dialogue: 0,0:17:15.36,0:17:18.38,K1Norma,mio,0000,0000,0000,,Sim, vamos começar com uma rápida.
 Dialogue: 0,0:17:18.38,0:17:22.25,K1Norma,yui,0000,0000,0000,,Não, considerando nosso gosto musical...
 Dialogue: 0,0:17:22.85,0:17:24.60,K1Norma,yui,0000,0000,0000,,O que foi, Azu-nyan?
@@ -385,7 +385,7 @@ Dialogue: 0,0:18:12.72,0:18:15.24,K1Norma,azu,0000,0000,0000,,Não, eu estava na
 Dialogue: 0,0:18:15.24,0:18:17.77,K1Norma,yui,0000,0000,0000,,Viu? Eu sabia.
 Dialogue: 0,0:18:17.77,0:18:20.73,K1Norma,yui,0000,0000,0000,,Nós já tomamos tanto chá.
 Dialogue: 0,0:18:20.73,0:18:22.85,K1Norma,mio,0000,0000,0000,,Isso não é motivo para se gabar.
-Dialogue: 0,0:18:25.28,0:18:27.66,K1Norma,mug,0000,0000,0000,,Você não quer esse recorde também?
+Dialogue: 0,0:18:25.28,0:18:27.66,K1Norma,mug,0000,0000,0000,,Você não quer essa lembrança também?
 Dialogue: 0,0:18:28.72,0:18:31.61,K1Norma,rit,0000,0000,0000,,Para vocês, Ho-Kago Tea Time
 Dialogue: 0,0:18:31.61,0:18:38.56,K1Norma,rit,0000,0000,0000,,é uma banda de rock que expressa o espírito de meninas espirituosas meninas do segundo grau.
 Dialogue: 0,0:18:38.56,0:18:40.71,K1Norma,mio,0000,0000,0000,,Você está querendo que pareça legal.

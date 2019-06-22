@@ -114,7 +114,7 @@ Dialogue: 0,0:04:41.63,0:04:43.22,K1Norma,mug,0000,0000,0000,,Toque algo.
 Dialogue: 0,0:04:46.66,0:04:48.22,K1Norma,azu,0000,0000,0000,,O que há de errado, tão de repente?
 Dialogue: 0,0:04:48.22,0:04:51.06,K1Norma,yui,0000,0000,0000,,Guita está me traindo!
 Dialogue: 0,0:04:51.06,0:04:54.35,K1Norma,azu,0000,0000,0000,,Foi você quem a entregou gentilmente.
-Dialogue: 0,0:04:55.34,0:04:58.39,K1Norma,yui,0000,0000,0000,,Obrigada. Vai ser divertido.
+Dialogue: 0,0:04:55.34,0:04:58.39,K1Norma,yui,0000,0000,0000,,Adeus! Foi divertido enquanto durou.
 Dialogue: 0,0:04:58.39,0:05:00.34,K1Norma,azu,0000,0000,0000,,Você dá trabalho.
 Dialogue: 0,0:05:00.34,0:05:02.61,K1Norma,rit,0000,0000,0000,,Yui-sensei, o que eu preciso fazer?
 Dialogue: 0,0:05:03.09,0:05:04.97,K1Norma,yui,0000,0000,0000,,"Sensei"?
@@ -125,7 +125,7 @@ Dialogue: 0,0:05:10.76,0:05:14.50,K1Norma,yui,0000,0000,0000,,Pressione as corda
 Dialogue: 0,0:05:14.50,0:05:16.90,K1Norma,rit,0000,0000,0000,,Desculpe-me, mas eu já sabia disso.
 Dialogue: 0,0:05:18.58,0:05:20.27,K1Norma,yui,0000,0000,0000,,Então o que eu devo te ensinar?
 Dialogue: 0,0:05:20.83,0:05:23.19,K1Norma,azu,0000,0000,0000,,Bem, acho que não tem jeito.
-Dialogue: 0,0:05:23.76,0:05:26.70,K1Norma,azu,0000,0000,0000,,Vamos começar com "Fuwa Fuwa Time."
+Dialogue: 0,0:05:23.76,0:05:26.70,K1Norma,azu,0000,0000,0000,,Vamos começar com "Fuwa Fuwa Time".
 Dialogue: 0,0:05:26.70,0:05:27.57,K1Norma,rit,0000,0000,0000,,Certo!
 Dialogue: 0,0:05:28.29,0:05:29.88,K1Norma,rit,0000,0000,0000,,Vejamos...
 Dialogue: 0,0:05:29.88,0:05:32.04,K1Norma,azu,0000,0000,0000,,Pode ser mais fácil se você ficar sentada.
@@ -148,7 +148,7 @@ Dialogue: 0,0:06:10.35,0:06:12.16,K1Norma,azu,0000,0000,0000,,Algumas das notas 
 Dialogue: 0,0:06:12.16,0:06:14.93,K1Norma,yui,0000,0000,0000,,Ricchan, segure a palheta gentilmente.
 Dialogue: 0,0:06:14.93,0:06:16.62,K1Norma,yui,0000,0000,0000,,Gentilmente.
 Dialogue: 0,0:06:17.20,0:06:20.24,K1Norma,azu,0000,0000,0000,,As notas estão soando mais regulares agora, Ritsu-senpai.
-Dialogue: 0,0:06:20.24,0:06:22.39,K1Norma,azu,0000,0000,0000,,Mantenha as costas reta.
+Dialogue: 0,0:06:20.24,0:06:22.39,K1Norma,azu,0000,0000,0000,,Mantenha as costas retas.
 Dialogue: 0,0:06:22.39,0:06:25.21,K1Norma,yui,0000,0000,0000,,Você deve firmar um pouco mais seu pulso esquerdo.
 Dialogue: 0,0:06:25.21,0:06:27.32,K1Norma,azu,0000,0000,0000,,Vamos para o próximo acorde.
 Dialogue: 0,0:06:27.32,0:06:29.51,K1Norma,yui,0000,0000,0000,,É um difícil.
@@ -351,7 +351,7 @@ Dialogue: 0,0:15:34.82,0:15:36.16,K1Norma,yui,0000,0000,0000,,Por quê?
 Dialogue: 0,0:15:36.16,0:15:38.31,K1Norma,azu,0000,0000,0000,,Você está pensando demais nisso.
 Dialogue: 0,0:15:40.73,0:15:43.23,K1Norma,sawa,0000,0000,0000,,Agora eu irei arrasar!
 Dialogue: 0,0:16:12.66,0:16:17.87,K1Norma,rit,0000,0000,0000,,Hum, eu não tenho tocado bateria ultimamente.
-Dialogue: 0,0:16:17.87,0:16:20.25,K1Norma,rit,0000,0000,0000,,Acho que eu comecei tudo.
+Dialogue: 0,0:16:17.87,0:16:20.25,K1Norma,rit,0000,0000,0000,,Embora sou eu a culpada disso.
 Dialogue: 0,0:16:22.52,0:16:26.98,K3Thoug,rit,0000,0000,0000,,Desde que eu resolvi pegar a bateria, eu toquei todos os dias.
 Dialogue: 0,0:16:33.11,0:16:34.74,K1Norma,rit,0000,0000,0000,,Vamos formar uma banda?!
 Dialogue: 0,0:16:34.74,0:16:36.55,K1Norma,rit,0000,0000,0000,,Comigo na bateria!
@@ -428,7 +428,7 @@ Dialogue: 0,0:21:02.62,0:21:04.33,K1Norma,mio,0000,0000,0000,,Sim, eu gostei.
 Dialogue: 0,0:21:04.33,0:21:06.53,K1Norma,rit,0000,0000,0000,,Mio, escreva a letra.
 Dialogue: 0,0:21:06.53,0:21:10.51,K1Norma,mug,0000,0000,0000,,E-Eu já tenho o título dela.
 Dialogue: 0,0:21:10.51,0:21:12.31,K1Norma,yui,0000,0000,0000,,Qual é?
-Dialogue: 0,0:21:12.68,0:21:15.06,K1Norma,mug,0000,0000,0000,,"Honey Sweet Tea Time."
+Dialogue: 0,0:21:12.68,0:21:15.06,K1Norma,mug,0000,0000,0000,,"Honey Sweet Tea Time".
 Dialogue: 0,0:21:15.51,0:21:17.04,K1Norma,rit,0000,0000,0000,,Então voltamos ao chá.
 Dialogue: 0,0:21:21.66,0:21:24.75,K1Norma,yui,0000,0000,0000,,Essa torrada é ótima, com mel!
 Dialogue: 0,0:21:24.75,0:21:28.50,K1Norma,rit,0000,0000,0000,,Combinação é a chave de tudo.
