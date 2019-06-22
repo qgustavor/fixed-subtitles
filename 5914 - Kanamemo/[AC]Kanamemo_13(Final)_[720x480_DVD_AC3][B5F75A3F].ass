@@ -81,7 +81,7 @@ Dialogue: 0,0:04:06.92,0:04:10.07,Default,kan,0,0,0,,Oh nada, apenas muitas cois
 Dialogue: 0,0:04:10.07,0:04:12.34,Default,nao,0,0,0,,O quê, você arranjou um namorado?
 Dialogue: 0,0:04:14.60,0:04:16.57,Default,kan,0,0,0,,Não, é claro que não.
 Dialogue: 0,0:04:16.57,0:04:20.11,Default,mik,0,0,0,,Isso mesmo! Pare de falar bobagens!
-Dialogue: 0,0:04:20.11,0:04:24.52,Default,nao,0,0,0,,É claro, aposto que você já combinou uma data para ir ao parque de diversões.
+Dialogue: 0,0:04:20.11,0:04:24.52,Default,nao,0,0,0,,É claro, aposto que você já combinou um encontro no parque de diversões.
 Dialogue: 0,0:04:24.52,0:04:26.22,Default,mik,0,0,0,,Parque de diversões!?
 Dialogue: 0,0:04:26.22,0:04:31.96,Default,mik,0,0,0,,Kana, você não deve ir a um lugar tão inapropriado e indecente como esse!
 Dialogue: 0,0:04:31.96,0:04:35.54,Default,kan,0,0,0,,Oh, Mika-chan, você não gosta de parques de diversão?
@@ -133,7 +133,7 @@ Dialogue: 0,0:07:51.24,0:07:55.02,Default,mik,0,0,0,,Sim! Agora posso ir a qualq
 Dialogue: 0,0:07:55.02,0:07:57.58,Default,kan,0,0,0,,Wow, isso é incrivel!
 Dialogue: 0,0:07:58.39,0:08:00.03,Default,mik,0,0,0,,No meu coração!
 Dialogue: 0,0:08:00.77,0:08:01.57,Default,kan,0,0,0,,Huh?
-Dialogue: 0,0:08:02.14,0:08:05.09,Default,mik,0,0,0,,Eu sou tão boa que você nunca será capaz de me alcança!
+Dialogue: 0,0:08:02.14,0:08:05.09,Default,mik,0,0,0,,Eu sou tão boa que você nunca será capaz de me alcançar!
 Dialogue: 0,0:08:05.09,0:08:10.64,Default,kan,0,0,0,,Em meu coração, também sou uma super ciclista!
 Dialogue: 0,0:08:10.64,0:08:11.86,Default,mik,0,0,0,,O quê?!
 Dialogue: 0,0:08:12.93,0:08:17.03,Default,mik,0,0,0,,Certo, então vamos ver quem anda melhor de bicicleta!
@@ -150,7 +150,7 @@ Dialogue: 0,0:08:40.55,0:08:44.33,Default,mik,0,0,0,,Entendi, acho que não tenh
 Dialogue: 0,0:08:44.82,0:08:49.91,Default,kan,0,0,0,,Se é assim tão divertido, você pode conseguir um para você mesma.
 Dialogue: 0,0:08:49.91,0:08:51.86,Default,mik,0,0,0,,Sua imbecil!
 Dialogue: 0,0:08:51.86,0:08:53.39,Alternative,rob,0,0,0,,Corte no pagamento, corte no pagamento!
-Dialogue: 0,0:08:54.27,0:08:58.79,Default,kan,0,0,0,,Então que tal fingirmos que estamos e uma bicicleta e fazer assim?
+Dialogue: 0,0:08:54.27,0:08:58.79,Default,kan,0,0,0,,Então que tal fingirmos que estamos em uma bicicleta e fazer assim?
 Dialogue: 0,0:08:58.79,0:09:00.78,Default,mik,0,0,0,,Certo, por mim está bom.
 Dialogue: 0,0:09:01.55,0:09:02.63,Default,kan,0,0,0,,Então,
 Dialogue: 0,0:09:04.38,0:09:06.74,Default,,0,0,0,,Gostaria de começar a disputa.
@@ -189,7 +189,7 @@ Dialogue: 0,0:11:09.49,0:11:11.88,Default,kan,0,0,0,,Oh, já está tão tarde.
 Dialogue: 0,0:11:11.88,0:11:15.08,Default,,0,0,0,,Mika-chan, estou indo para casa agora.
 Dialogue: 0,0:11:17.79,0:11:19.54,Default,mik,0,0,0,,Droga, Johnny!
 Dialogue: 0,0:11:32.56,0:11:37.12,Default,kan,0,0,0,,Vovó, hoje de alguma forma eu acabei
-Dialogue: 0,0:11:38.02,0:11:44.58,Default,kan,0,0,0,,"praticando em estar em uma bicicleta" no parque.
+Dialogue: 0,0:11:38.02,0:11:44.58,Default,kan,0,0,0,,"praticando em estar em uma bicicleta com a Mika-chan" no parque.
 Dialogue: 0,0:11:44.58,0:11:47.29,Default,,0,0,0,,Foi bem divertido.
 Dialogue: 0,0:11:47.29,0:11:49.03,Default,,0,0,0,,Certo.
 Dialogue: 0,0:11:54.13,0:11:56.35,Default,kan,0,0,0,,Já estou no final.
@@ -207,7 +207,7 @@ Dialogue: 0,0:13:37.88,0:13:40.87,Default,kan,0,0,0,,Acho que tenho que desistir
 Dialogue: 0,0:13:41.28,0:13:43.04,Default,yum,0,0,0,,Kana-chan!
 Dialogue: 0,0:13:43.94,0:13:47.49,Default,kan,0,0,0,,Yume-san, você está voltando da escola?
 Dialogue: 0,0:13:47.49,0:13:48.52,Default,yum,0,0,0,,É.
-Dialogue: 0,0:13:51.62,0:13:55.51,Default,yum,0,0,0,,Oh esse é bonito. Você vai compra-lo?
+Dialogue: 0,0:13:51.62,0:13:55.51,Default,yum,0,0,0,,Oh esse é bonito. Você vai comprá-lo?
 Dialogue: 0,0:13:55.51,0:14:00.63,Default,kan,0,0,0,,É claro que não! Não posso comprar algo tão extravagante!
 Dialogue: 0,0:14:00.99,0:14:04.36,Default,yum,0,0,0,,Bem como estou aqui, então porque não o compro para você?
 Dialogue: 0,0:14:05.72,0:14:07.35,Default,kan,0,0,0,,Não, você não deve!
@@ -244,15 +244,15 @@ Dialogue: 0,0:16:07.77,0:16:09.41,Alternative,rob,0,0,0,,Nosso coração nos con
 Dialogue: 0,0:16:09.41,0:16:13.31,Default,kan,0,0,0,,O jantar está quase pronto.
 Dialogue: 0,0:16:13.70,0:16:15.87,Default,yum,0,0,0,,É basicamente isso.
 Dialogue: 0,0:16:15.87,0:16:17.18,Default,yuu,0,0,0,,Entendi.
-Dialogue: 0,0:16:17.18,0:16:20.26,Default,hin,0,0,0,,Eu acetaria qualquer presente.
+Dialogue: 0,0:16:17.18,0:16:20.26,Default,hin,0,0,0,,Eu aceitaria qualquer presente.
 Dialogue: 0,0:16:20.26,0:16:22.71,Default,yum,0,0,0,,Ela não é como você!
-Dialogue: 0,0:16:22.71,0:16:26.21,Default,hin,0,0,0,,O quê? Chefe, você faria o mesmo , não é?
+Dialogue: 0,0:16:22.71,0:16:26.21,Default,hin,0,0,0,,O quê? Chefe, você faria o mesmo, não é?
 Dialogue: 0,0:16:26.21,0:16:29.62,Default,sak,0,0,0,,É claro! Quero dizer que é mesmo que dizer:
 Dialogue: 0,0:16:29.99,0:16:35.54,Default,sak,0,0,0,,"O que é seu é meu, o que é meu, é meu."
 Dialogue: 0,0:16:35.54,0:16:36.96,Default,hin,0,0,0,,Não, não é.
-Dialogue: 0,0:16:38.72,0:16:44.80,Default,yuu,0,0,0,,Então acho que precisamos um jeito de invalidar qualquer desculpa e forca-lá a aceitar.
+Dialogue: 0,0:16:38.72,0:16:44.80,Default,yuu,0,0,0,,Então acho que precisamos um jeito de invalidar qualquer desculpa e forçá-lá a aceitar.
 Dialogue: 0,0:16:44.80,0:16:45.61,Default,yum,0,0,0,,É.
-Dialogue: 0,0:16:45.61,0:16:48.87,Default,har,0,0,0,,Oh, tenho uma idéia!
+Dialogue: 0,0:16:45.61,0:16:48.87,Default,har,0,0,0,,Oh, tenho uma ideia!
 Dialogue: 0,0:16:48.87,0:16:52.32,Default,har,0,0,0,,Acho que isso vai funcionar.
 Dialogue: 0,0:16:52.32,0:16:53.68,Default,yum,0,0,0,,Vamos ouvir.
 Dialogue: 0,0:16:58.26,0:17:02.54,Default,sak,0,0,0,,Kana, você pode me passar o molho de soja?
@@ -411,7 +411,7 @@ Dialogue: 0,0:20:59.63,0:21:04.76,ED RO,,0,0,0,,{\k51}ya{\k52}wa{\k35}ra{\k51}ka
 Dialogue: 0,0:21:05.25,0:21:16.58,ED RO,,0,0,0,,{\k56}ma{\k49}bu{\k35}ta{\k34} to{\k30}ji{\K42} ki{\k20}mi{\K182} o{\k78}{\k36} o{\k51}mo{\k53}i{\k9}da{\k131}su{\k21}{\k66} shi{\k52}a{\k9}wa{\k180}se
 Dialogue: 0,0:21:17.79,0:21:22.90,ED RO,,0,0,0,,{\k41}ta{\k40}to{\k34}e{\k22}ba{\k49} to{\k33}o{\k33}ku{\k38} ha{\k36}na{\k25}re{\k11}{\k22}te{\k13}i{\k20}te{\k94} mo
 Dialogue: 0,0:21:23.47,0:21:28.45,ED RO,,0,0,0,,{\k36}e{\k36}ga{\k33}o{\k20} u{\k51}ta{\k37} ni{\k21} no{\k46}se{\k38} to{\k32}do{\k38}ke{\k16}ru{\k94} yo
-Dialogue: 0,0:21:29.04,0:21:34.10,ED RO,,0,0,0,,{\k10}k{\k32}yo{\k35}o{\k24} mo{\k16} a{\k62}shi{\k37}ta{\k38} mo{\k31} a{\k38}me{\k33} ga{\k24} fu{\k11}t{\k22}te{\k93} mo
+Dialogue: 0,0:21:29.04,0:21:34.10,ED RO,,0,0,0,,{\k10}k{\k32}yo{\k35}u{\k24} mo{\k16} a{\k62}shi{\k37}ta{\k38} mo{\k31} a{\k38}me{\k33} ga{\k24} fu{\k11}t{\k22}te{\k93} mo
 Dialogue: 0,0:21:34.70,0:21:39.18,ED RO,,0,0,0,,{\k39}ka{\k31}wa{\k36}ra{\k22}na{\k49}i{\k35} yo{\k32} ko{\k34}ko{\k44} ni{\k30}{\k17} i{\k16}ru{\k17} ka{\k46}ra
 Dialogue: 0,0:21:39.56,0:21:42.07,ED RO,,0,0,0,,{\k55}ya{\k22}h{\k71}ho{\k104}o
 Dialogue: 0,0:21:42.42,0:21:44.82,ED RO,,0,0,0,,{\k55}ya{\k13}h{\k75}ho{\k97}o
