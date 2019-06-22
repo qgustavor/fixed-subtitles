@@ -64,7 +64,7 @@ Dialogue: 0,0:05:50.19,0:05:53.57,Falas,G,0,0,0,,Ele vai andar por aí a procura
 Dialogue: 0,0:05:55.08,0:05:58.78,Falas,G,0,0,0,,Na sua forma verdadeira, \Nele não pode se mover por vontade própria.
 Dialogue: 0,0:06:00.09,0:06:03.90,Falas,G,0,0,0,,Por isso deseja um corpo que é livre para ir onde quiser.
 Dialogue: 0,0:06:04.33,0:06:05.63,Falas,MDad,0,0,0,,Bem, isso não vai acontecer!
-Dialogue: 0,0:06:05.63,0:06:06.92,Falas,MDad,0,0,0,,A que se possa fazer?
+Dialogue: 0,0:06:05.63,0:06:06.92,Falas,MDad,0,0,0,,Há o que se possa fazer?
 Dialogue: 0,0:06:07.85,0:06:10.73,Falas,G,0,0,0,,No momento que o Espelho de Água \Ntroca de lugar com o original,
 Dialogue: 0,0:06:10.73,0:06:12.91,Falas,G,0,0,0,,ele se torna visível para todos.
 Dialogue: 0,0:06:13.48,0:06:16.18,Falas,G,0,0,0,,Se nesse momento, \No original mostrar o reflexo dele em um espelho,
@@ -92,17 +92,17 @@ Dialogue: 0,0:08:28.28,0:08:29.40,Falas,Guy,0,0,0,,Quem sabe?
 Dialogue: 0,0:08:29.40,0:08:31.07,Falas,Guy,0,0,0,,Não sei quando voltarei.
 Dialogue: 0,0:08:31.61,0:08:33.64,Falas,M,0,0,0,,Não quero isso!
 Dialogue: 0,0:08:33.64,0:08:35.56,Falas,Guy,0,0,0,,Também não, mas...
-Dialogue: 0,0:08:36.55,0:08:39.47,Falas,Guy,0,0,0,,Tenho de por comida na mesa, você sabe né?
+Dialogue: 0,0:08:36.55,0:08:39.47,Falas,Guy,0,0,0,,Tenho de pôr comida na mesa, você sabe né?
 Dialogue: 0,0:08:40.02,0:08:41.08,Falas,Guy,0,0,0,,Por favor entenda.
 Dialogue: 0,0:08:42.95,0:08:43.83,Falas,M,0,0,0,,Então...
 Dialogue: 0,0:08:44.27,0:08:46.95,Falas,M,0,0,0,,Então eu vou esperar por você na sua vila!
 Dialogue: 0,0:08:46.95,0:08:48.34,Falas,M,0,0,0,,Vou ser sua noiva!
 Dialogue: 0,0:08:48.60,0:08:51.09,Falas,Guy,0,0,0,,Não quero me fixar ainda.
-Dialogue: 0,0:08:51.49,0:08:54.02,Falas,M,0,0,0,,Entao vou esperar até que queira!
+Dialogue: 0,0:08:51.49,0:08:54.02,Falas,M,0,0,0,,Então vou esperar até que queira!
 Dialogue: 0,0:08:54.02,0:08:54.97,Falas,M,0,0,0,,Então...
 Dialogue: 0,0:08:55.65,0:08:59.08,Falas,Guy,0,0,0,,Não quero uma garota masculina como você para esposa.
 Dialogue: 0,0:08:59.72,0:09:03.03,Falas,Guy,0,0,0,,Quero alguém que tenha um temperamento gentil.
-Dialogue: 0,0:09:07.59,0:09:09.91,Falas,Guy,0,0,0,,É assim que as coisa ficam.
+Dialogue: 0,0:09:07.59,0:09:09.91,Falas,Guy,0,0,0,,É assim que as coisas ficam.
 Dialogue: 0,0:09:09.91,0:09:12.71,Falas,Guy,0,0,0,,Não posso prometer quando irei te ver novamente.
 Dialogue: 0,0:09:15.13,0:09:17.19,Falas,Guy,0,0,0,,Quando o espelho embaçar novamente,
 Dialogue: 0,0:09:17.19,0:09:20.06,Falas,Guy,0,0,0,,me desculpe, mas você mesma vai ter que polir ele.
@@ -145,11 +145,11 @@ Dialogue: 0,0:14:12.70,0:14:15.97,Falas,G,0,0,0,,apenas por serem de carne e oss
 Dialogue: 0,0:14:17.90,0:14:22.25,Falas,G,0,0,0,,Porém, uma vez que a troca ocorra, \Nsuas posições serão trocadas.
 Dialogue: 0,0:14:25.58,0:14:28.57,Falas,G,0,0,0,,Se você quer retornar para um lugar menos solitário,
 Dialogue: 0,0:14:28.57,0:14:30.56,Falas,G,0,0,0,,você deve se proteger.
-Dialogue: 0,0:15:41.21,0:15:42.46,Pensamentos,G,0,0,0,,O Pulso dela está fraco.
+Dialogue: 0,0:15:41.21,0:15:42.46,Pensamentos,G,0,0,0,,O pulso dela está fraco.
 Dialogue: 0,0:15:43.06,0:15:44.28,Falas,G,0,0,0,,Você poliu o espelho?
 Dialogue: 0,0:15:45.08,0:15:45.72,Falas,M,0,0,0,,Sim.
 Dialogue: 0,0:15:48.71,0:15:49.74,Falas,G,0,0,0,,Muito bem.
-Dialogue: 0,0:15:49.74,0:15:51.59,Falas,G,0,0,0,,Matenha-o por perto.
+Dialogue: 0,0:15:49.74,0:15:51.59,Falas,G,0,0,0,,Mantenha-o por perto.
 Dialogue: 0,0:15:52.01,0:15:55.10,Falas,G,0,0,0,,Logo o Espelho de Água irá aparecer.
 Dialogue: 0,0:15:55.90,0:15:57.95,Falas,G,0,0,0,,Nesse momento, reflita-o no espelho.
 Dialogue: 0,0:15:58.63,0:15:59.60,Falas,G,0,0,0,,Não falhe.
