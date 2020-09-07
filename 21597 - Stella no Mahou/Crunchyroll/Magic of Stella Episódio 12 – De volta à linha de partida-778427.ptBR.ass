@@ -1,0 +1,377 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: title,Trebuchet MS,30,&H00FBFDFD,&H000000FF,&H00D6A5F8,&H00D4A7F7,0,0,0,0,100,100,0,0,1,2,0,8,0015,0015,0110,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H1062301E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: segundo semestre,Trebuchet MS,24,&H00CC80F7,&H000E00AB,&H10FFFFFF,&HC0141415,-1,0,0,0,100,100,0,0,1,2,2,2,0040,0040,0120,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.50,0:00:09.42,Black Signs,,0000,0000,0000,,Clube SNS
+Dialogue: 0,0:00:09.42,0:00:14.08,Black Signs,,0000,0000,0000,,Faltam 7 dias para o Comiket de Verão!
+Dialogue: 0,0:00:10.17,0:00:14.08,Italic,,0000,0000,0000,,Apesar de estarmos nas férias de verão,\No Clube SNS está a pleno vapor!
+Dialogue: 0,0:00:14.25,0:00:16.54,Italic,,0000,0000,0000,,Tem dias em que trabalhamos\Nna casa de alguém,
+Dialogue: 0,0:00:15.04,0:00:16.54,Top,,0000,0000,0000,,Não ficou bom, refaça!
+Dialogue: 0,0:00:16.54,0:00:18.88,Italic,,0000,0000,0000,,e tem dias em que nos juntamos\Nna sala do clube.
+Dialogue: 0,0:00:16.54,0:00:18.88,Top,,0000,0000,0000,,O que tem de errado?
+Dialogue: 0,0:00:18.88,0:00:21.13,Italic,,0000,0000,0000,,E às vezes há diferenças criativas...
+Dialogue: 0,0:00:18.88,0:00:21.13,Top,,0000,0000,0000,,Bem aqui, cadê a paixão?\NFaça de novo!
+Dialogue: 0,0:00:21.83,0:00:23.83,Top,,0000,0000,0000,,Quieta, quatro-olhos!
+Dialogue: 0,0:00:23.83,0:00:26.96,Italic,,0000,0000,0000,,A Ha-chan ainda não notou que\Na Seki-senpai é a grande Iris-sensei...
+Dialogue: 0,0:00:27.29,0:00:30.79,Italic,,0000,0000,0000,,Vez ou outra a Fujikawa-senpai\Nentra no seu próprio mundo...
+Dialogue: 0,0:00:31.25,0:00:32.96,Italic,,0000,0000,0000,,Tem muita coisa acontecendo,
+Dialogue: 0,0:00:32.96,0:00:37.46,Italic,,0000,0000,0000,,mas, graças ao controle da presidente\Nno cronograma, estamos progredindo.
+Dialogue: 0,0:00:41.33,0:00:49.29,Black Signs,,0000,0000,0000,,{\fs16}Iino-san: Arte da capa\NHonda-san: Personagens principais\NSeki: Debugging\NFujikawa: Falta uma música\N\NFaltam 2 dias para o Comiket de Verão!!
+Dialogue: 0,0:00:49.29,0:00:56.21,Black Signs,,0000,0000,0000,,Desejos de Poeira Estelar — Distância —\N\N{\fs16}Clube Só olho de peixe morto, Na falta de sol, Shuttle run
+Dialogue: 0,0:00:49.83,0:00:54.33,Main,,0000,0000,0000,,E finalmente o nosso novo jogo,\NDesejos de Poeira Estelar, estava pronto!
+Dialogue: 0,0:01:03.54,0:01:06.50,title,,0000,0000,0000,,De volta à linha de partida
+Dialogue: 0,0:01:12.79,0:01:15.38,Main,,0000,0000,0000,,Te amo, papai...
+Dialogue: 0,0:01:17.63,0:01:20.83,Main,,0000,0000,0000,,Ei! Por que está nesse sono tranquilo?!
+Dialogue: 0,0:01:20.83,0:01:22.71,Main,,0000,0000,0000,,Hoje é o dia do Comiket de verão!
+Dialogue: 0,0:01:22.88,0:01:24.88,Main,,0000,0000,0000,,Ah... Ha-chan...
+Dialogue: 0,0:01:25.25,0:01:29.08,Main,,0000,0000,0000,,Está sabendo que vamos ajudar o grupo\Nda Temawari-san de tarde, certo?
+Dialogue: 0,0:01:29.08,0:01:30.42,Main,,0000,0000,0000,,Rápido com isso!
+Dialogue: 0,0:01:32.29,0:01:35.58,Main,,0000,0000,0000,,Oh, acabou de chegar e já vão sair?
+Dialogue: 0,0:01:35.58,0:01:37.58,Main,,0000,0000,0000,,Sim, desculpe o incômodo!
+Dialogue: 0,0:01:37.58,0:01:39.00,Main,,0000,0000,0000,,Estou indo!
+Dialogue: 0,0:01:39.00,0:01:40.50,Main,,0000,0000,0000,,Vão com cuidado, tá?
+Dialogue: 0,0:01:44.08,0:01:47.38,Main,,0000,0000,0000,,Mas que pressa.\NÉ de novo coisa do clube?
+Dialogue: 0,0:01:47.38,0:01:50.79,Main,,0000,0000,0000,,Não importa o que faça,\Nbasta que ela esteja se divertindo.
+Dialogue: 0,0:01:50.79,0:01:52.42,Main,,0000,0000,0000,,É verdade.
+Dialogue: 0,0:01:53.88,0:01:57.29,Main,,0000,0000,0000,,Preciso enviar a Tamaki\Ndesta manhã ao papai dela.
+Dialogue: 0,0:02:03.75,0:02:05.63,Main,,0000,0000,0000,,Que gostoso!
+Dialogue: 0,0:02:05.63,0:02:08.83,Main,,0000,0000,0000,,Sempre quis ir até o centro\Nde convenções com o barco!
+Dialogue: 0,0:02:10.63,0:02:13.13,Main,,0000,0000,0000,,Pra que isso?
+Dialogue: 0,0:02:13.54,0:02:16.75,Main,,0000,0000,0000,,Não gosto de multidões,\Ntrouxe o aparato completo.
+Dialogue: 0,0:02:20.67,0:02:21.83,Main,,0000,0000,0000,,O que disseram?
+Dialogue: 0,0:02:21.83,0:02:23.25,Main,,0000,0000,0000,,É da Ha-chan-san.
+Dialogue: 0,0:02:23.25,0:02:26.92,Main,,0000,0000,0000,,Ela conseguiu pegar a Honda-san,\Nestão indo agora até o local.
+Dialogue: 0,0:02:27.21,0:02:30.25,Main,,0000,0000,0000,,Ótimo, desta vez estaremos\Ntodas reunidas.
+Dialogue: 0,0:02:31.75,0:02:35.13,Main,,0000,0000,0000,,E por que parece\Ntão acabada, Fujikawa-san?
+Dialogue: 0,0:02:35.13,0:02:38.29,Main,,0000,0000,0000,,Uma pessoa conhecida resolveu\Nde repente fazer um CD...
+Dialogue: 0,0:02:38.29,0:02:42.29,Main,,0000,0000,0000,,Estava ajudando até há pouco,\Nmixando, masterizando e tudo mais...
+Dialogue: 0,0:02:44.96,0:02:48.21,Main,,0000,0000,0000,,Então ainda teve outro trabalho\Ndepois deste nosso?
+Dialogue: 0,0:02:50.46,0:02:53.21,Main,,0000,0000,0000,,As senpais já estão\Na caminho do centro.
+Dialogue: 0,0:02:53.21,0:02:57.25,Main,,0000,0000,0000,,Eu fui te buscar porque liguei várias\Nvezes e você não atendia o celular.
+Dialogue: 0,0:02:57.67,0:03:01.00,Main,,0000,0000,0000,,Desculpa, esqueci de\Nligar o despertador.
+Dialogue: 0,0:03:01.54,0:03:06.50,Main,,0000,0000,0000,,Foi um trabalhão convencer\Nminha avó a deixar usar o carro.
+Dialogue: 0,0:03:06.79,0:03:09.92,Main,,0000,0000,0000,,Obrigada, Iino-san,\Npor ter esse trabalho...
+Dialogue: 0,0:03:09.92,0:03:14.71,Main,,0000,0000,0000,,Não tem problema, eu também queria\Nir a uma dessas convenções.
+Dialogue: 0,0:03:14.71,0:03:19.21,Main,,0000,0000,0000,,Quero ver o que é, para fazer\Na Minaha se empenhar tanto.
+Dialogue: 0,0:03:19.21,0:03:22.00,Main,,0000,0000,0000,,Hã? Vai conosco até lá?
+Dialogue: 0,0:03:22.00,0:03:26.29,Main,,0000,0000,0000,,Vamos pela via expressa,\Nserá mais rápido do que o metrô.
+Dialogue: 0,0:03:58.04,0:03:59.42,Main,,0000,0000,0000,,Vamos descer aqui?
+Dialogue: 0,0:03:59.42,0:04:03.38,Main,,0000,0000,0000,,Isso mesmo. Não podemos entrar\Nde carro no centro de convenções.
+Dialogue: 0,0:04:04.00,0:04:06.25,Main,,0000,0000,0000,,Muito obrigada! Vamos indo!
+Dialogue: 0,0:04:06.79,0:04:08.21,Main,,0000,0000,0000,,Trabalhem direitinho.
+Dialogue: 0,0:04:11.92,0:04:15.08,Main,,0000,0000,0000,,Toda essa gente veio\Npro Comiket de verão?!
+Dialogue: 0,0:04:15.08,0:04:18.54,Main,,0000,0000,0000,,Ainda é a ponta do iceberg.\NLá dentro vai ser bem pior.
+Dialogue: 0,0:04:18.92,0:04:24.08,Main,,0000,0000,0000,,Ah, a Murakami-senpai disse pra\Ntomar cuidado pra não nos separarmos.
+Dialogue: 0,0:04:24.67,0:04:27.58,Main,,0000,0000,0000,,Bom, não tem problema\Nse quiser ficar de mãos dadas.
+Dialogue: 0,0:04:32.50,0:04:36.71,Main,,0000,0000,0000,,Até aqui na Comiket, por que tenho\Nque ver a sua cara, Ha-san?
+Dialogue: 0,0:04:36.92,0:04:38.92,Main,,0000,0000,0000,,E você, por que veio aqui?
+Dialogue: 0,0:04:39.21,0:04:42.50,Italic,,0000,0000,0000,,Agora lembrei que\Nessas duas não se dão...
+Dialogue: 0,0:04:44.71,0:04:47.54,Main,,0000,0000,0000,,Hoje vamos ficar como\Natendentes nas vendas, né?
+Dialogue: 0,0:04:47.75,0:04:52.58,Main,,0000,0000,0000,,Isso mesmo. Vai ser uma boa experiência\Nficarmos com outro grupo.
+Dialogue: 0,0:04:52.58,0:04:56.13,Main,,0000,0000,0000,,Você é artista, aproveite e\Nbusque bastante inspiração.
+Dialogue: 0,0:04:56.50,0:04:59.88,Main,,0000,0000,0000,,Se bem que já consegui\Nbastante no último evento...
+Dialogue: 0,0:05:00.21,0:05:02.17,Main,,0000,0000,0000,,Tem mesmo muita gente, né?
+Dialogue: 0,0:05:02.17,0:05:05.79,Main,,0000,0000,0000,,Todos com cara de\Nbravos soldados da Comiket.
+Dialogue: 0,0:05:07.67,0:05:09.13,Main,,0000,0000,0000,,Sinto que vou me perder aqui...
+Dialogue: 0,0:05:09.54,0:05:13.38,Main,,0000,0000,0000,,Pode ir olhar outros\Nestandes, Tama-chan,
+Dialogue: 0,0:05:13.38,0:05:16.96,Main,,0000,0000,0000,,mas não se esqueça de que é uma\Nexpositora, não só visitante, tá?
+Dialogue: 0,0:05:18.08,0:05:21.75,Main,,0000,0000,0000,,Nem todos aqui são profissionais.
+Dialogue: 0,0:05:18.19,0:05:22.07,Black Signs,,0000,0000,0000,,{\fad(330,300)\fs16}Quero que leiam,\Nquero que joguem
+Dialogue: 0,0:05:18.19,0:05:22.07,Black Signs,,0000,0000,0000,,{\fad(330,300)\an9\fs16}Quero fazer\Nilustrações\Nou mangás
+Dialogue: 0,0:05:22.07,0:05:24.28,Black Signs,,0000,0000,0000,,{\fad(200,1)\an6}Comiket
+Dialogue: 0,0:05:22.17,0:05:26.50,Main,,0000,0000,0000,,O importante é aproveitar\Nesta festa junto de outras pessoas!
+Dialogue: 0,0:05:26.79,0:05:33.00,Main,,0000,0000,0000,,Como alguém que passa o tempo todo\Nfalando de BL no Clube de Ilustração?
+Dialogue: 0,0:05:33.38,0:05:39.63,Flashback,,0000,0000,0000,,A relação entre o protagonista e o\Nmelhor amigo já passou da amizade!
+Dialogue: 0,0:05:40.17,0:05:43.13,Main,,0000,0000,0000,,Estou dizendo que há gente com\Npensamento diferente do seu,
+Dialogue: 0,0:05:43.13,0:05:45.71,Main,,0000,0000,0000,,e que deve aceitar e respeitar!
+Dialogue: 0,0:05:53.96,0:05:56.83,Main,,0000,0000,0000,,Então isso é uma convenção de doujins, é?
+Dialogue: 0,0:05:57.21,0:06:00.00,Main,,0000,0000,0000,,Sem dúvida, é mais popular\Ndo que imaginei.
+Dialogue: 0,0:06:00.46,0:06:06.00,Main,,0000,0000,0000,,Aqui as pessoas compram e vendem mangás\Ne livros que elas mesmas publicam...
+Dialogue: 0,0:06:06.00,0:06:07.54,Main,,0000,0000,0000,,Foi algo assim que disseram.
+Dialogue: 0,0:06:07.96,0:06:13.13,Main,,0000,0000,0000,,Será mesmo algo para gastar semanas\Nda juventude, como faz a Minaha?
+Dialogue: 0,0:06:13.75,0:06:15.54,Main,,0000,0000,0000,,Mas é claro, senhorita irmã!
+Dialogue: 0,0:06:16.75,0:06:19.38,Main,,0000,0000,0000,,Se quiser, eu serei sua guia!
+Dialogue: 0,0:06:20.38,0:06:22.29,Main,,0000,0000,0000,,Quem será ela?
+Dialogue: 0,0:06:22.92,0:06:25.13,Main,,0000,0000,0000,,Mas aonde foram as senpais?
+Dialogue: 0,0:06:25.13,0:06:27.79,Main,,0000,0000,0000,,Não vá se perder, Honda Tamaki.
+Dialogue: 0,0:06:27.79,0:06:30.25,Main,,0000,0000,0000,,Que tal começarmos a olhar por aqui?
+Dialogue: 0,0:06:30.42,0:06:31.50,Black Signs,,0000,0000,0000,,Um Mundo Que\NNinguém Conhece
+Dialogue: 0,0:06:32.96,0:06:35.54,Main,,0000,0000,0000,,Mas aqui é a área de BL!
+Dialogue: 0,0:06:35.54,0:06:37.04,Main,,0000,0000,0000,,E dos pesados!
+Dialogue: 0,0:06:37.04,0:06:39.50,Main,,0000,0000,0000,,Ainda é cedo, então tudo bem, né?
+Dialogue: 0,0:06:39.67,0:06:42.04,Main,,0000,0000,0000,,Veja a reação daquela\Ncoisinha inocente!
+Dialogue: 0,0:06:42.04,0:06:44.04,Main,,0000,0000,0000,,Você não tem vergonha?
+Dialogue: 0,0:06:44.04,0:06:47.63,Main,,0000,0000,0000,,Eu ficaria feliz se a Tama-chan\Nse interessasse por BL...
+Dialogue: 0,0:06:47.63,0:06:48.71,Main,,0000,0000,0000,,Que demônio!
+Dialogue: 0,0:06:48.96,0:06:51.33,Italic,,0000,0000,0000,,Todo mundo desenha tão bem...
+Dialogue: 0,0:06:51.33,0:06:53.67,Italic,,0000,0000,0000,,Talvez eu possa\Naprender alguma coisa.
+Dialogue: 0,0:06:54.13,0:06:56.33,Italic,,0000,0000,0000,,Apesar de ficar envergonhada\Nsó de olhar...
+Dialogue: 0,0:06:56.33,0:06:58.00,Main,,0000,0000,0000,,Tama-chan!
+Dialogue: 0,0:06:58.58,0:06:59.67,Main,,0000,0000,0000,,Sim?
+Dialogue: 0,0:07:04.00,0:07:04.67,Black Signs,,0000,0000,0000,,Fique à vontade para folhear
+Dialogue: 0,0:07:04.67,0:07:06.67,Black Signs,,0000,0000,0000,,300 ienes\Ncada volume!
+Dialogue: 0,0:07:06.96,0:07:08.42,Main,,0000,0000,0000,,Posso ver?
+Dialogue: 0,0:07:08.42,0:07:09.88,Main,,0000,0000,0000,,Ah, sim!
+Dialogue: 0,0:07:09.88,0:07:11.38,Main,,0000,0000,0000,,Então, com licença.
+Dialogue: 0,0:07:12.00,0:07:14.46,Italic,,0000,0000,0000,,S-Será que está no ensino médio?
+Dialogue: 0,0:07:14.46,0:07:17.58,Italic,,0000,0000,0000,,Nosso novo volume talvez\Nesteja um pouco pesado...
+Dialogue: 0,0:07:17.92,0:07:20.00,Main,,0000,0000,0000,,Ficou curiosa, Tama-chan?
+Dialogue: 0,0:07:20.00,0:07:23.33,Main,,0000,0000,0000,,É que achei o senhor\Nna capa tão galante...
+Dialogue: 0,0:07:24.67,0:07:28.67,Main,,0000,0000,0000,,Pode dizer isso direto\Nàs pessoas dos grupos!
+Dialogue: 0,0:07:28.67,0:07:29.58,Main,,0000,0000,0000,,É mesmo!
+Dialogue: 0,0:07:29.83,0:07:31.79,Main,,0000,0000,0000,,Posso comprar um?
+Dialogue: 0,0:07:31.79,0:07:32.75,Main,,0000,0000,0000,,Claro!
+Dialogue: 0,0:07:33.04,0:07:35.13,Main,,0000,0000,0000,,São 2.500 ienes, por favor!
+Dialogue: 0,0:07:35.13,0:07:38.46,Main,,0000,0000,0000,,Eu amo o trabalho de vocês!\NTrouxe um lanchinho!
+Dialogue: 0,0:07:39.04,0:07:40.25,Main,,0000,0000,0000,,Muito obrigada!
+Dialogue: 0,0:07:40.54,0:07:43.58,Italic,,0000,0000,0000,,Aquela moça ficou muito feliz.
+Dialogue: 0,0:07:43.58,0:07:47.46,Italic,,0000,0000,0000,,Acho que também fiz uma\Ncara assim naquele outro evento...
+Dialogue: 0,0:07:45.45,0:07:47.45,Top,,0000,0000,0000,,Honda-chan!
+Dialogue: 0,0:07:48.21,0:07:49.42,Main,,0000,0000,0000,,Honda-chan!
+Dialogue: 0,0:07:49.42,0:07:50.92,Main,,0000,0000,0000,,É a voz da Fujikawa-senpai.
+Dialogue: 0,0:07:50.92,0:07:53.79,Main,,0000,0000,0000,,Mas que fila enorme é essa?!
+Dialogue: 0,0:07:50.92,0:07:53.79,Top,,0000,0000,0000,,Aqui, aqui! Venha!
+Dialogue: 0,0:07:54.17,0:07:56.33,Main,,0000,0000,0000,,Ah, apareceu, Honda-san!
+Dialogue: 0,0:07:56.33,0:07:59.42,Main,,0000,0000,0000,,Precisamos de ajuda! Venha!
+Dialogue: 0,0:07:59.88,0:08:02.00,Main,,0000,0000,0000,,Se importa de usar as orelhas de coelho?
+Dialogue: 0,0:08:02.21,0:08:05.50,Main,,0000,0000,0000,,Trouxe isto pra mim?!
+Dialogue: 0,0:08:05.50,0:08:07.67,Main,,0000,0000,0000,,Hã? Cadê a Murakami-senpai?
+Dialogue: 0,0:08:07.88,0:08:09.08,Main,,0000,0000,0000,,Aqui.
+Dialogue: 0,0:08:09.63,0:08:11.46,Main,,0000,0000,0000,,Tire logo isso!
+Dialogue: 0,0:08:11.75,0:08:14.04,Main,,0000,0000,0000,,Não, até me acostumar com este lugar.
+Dialogue: 0,0:08:21.58,0:08:23.67,Main,,0000,0000,0000,,É o nosso jogo...
+Dialogue: 0,0:08:27.50,0:08:29.71,Main,,0000,0000,0000,,Deixa pra ser sentimental depois!
+Dialogue: 0,0:08:29.71,0:08:33.33,Main,,0000,0000,0000,,Estes são os novos álbuns\Ne estes são os CDs de brinde!
+Dialogue: 0,0:08:33.33,0:08:37.04,Main,,0000,0000,0000,,Estas são as coisas que vendemos em\Nconjunto com outros grupos, entendeu?
+Dialogue: 0,0:08:39.08,0:08:40.33,Main,,0000,0000,0000,,Entendi!
+Dialogue: 0,0:08:40.96,0:08:42.92,Main,,0000,0000,0000,,Muito bem, vamos trabalhar!
+Dialogue: 0,0:08:42.92,0:08:44.25,Main,,0000,0000,0000,,Vamos lá!
+Dialogue: 0,0:08:50.33,0:08:52.21,Main,,0000,0000,0000,,Quero três cópias do álbum novo!
+Dialogue: 0,0:08:52.21,0:08:53.33,Main,,0000,0000,0000,,C-Certo!
+Dialogue: 0,0:08:53.33,0:08:56.88,Main,,0000,0000,0000,,São 2.100 ienes! E isto são brindes...
+Dialogue: 0,0:08:57.54,0:09:00.13,Main,,0000,0000,0000,,Quero o álbum novo e um do anterior.
+Dialogue: 0,0:09:00.13,0:09:02.54,Main,,0000,0000,0000,,Uma cópia do novo\Ne outra do antigo, certo?
+Dialogue: 0,0:09:02.54,0:09:04.25,Main,,0000,0000,0000,,E qual era mesmo?
+Dialogue: 0,0:09:06.00,0:09:07.83,Main,,0000,0000,0000,,Está tão corrido que até fico zonza!
+Dialogue: 0,0:09:08.21,0:09:10.67,Main,,0000,0000,0000,,Mas é mais fácil do que\Nfazer as vendas.
+Dialogue: 0,0:09:10.67,0:09:14.29,Main,,0000,0000,0000,,Mas vamos revezar no atendimento.
+Dialogue: 0,0:09:14.29,0:09:16.58,Main,,0000,0000,0000,,Depois você também precisa atender.
+Dialogue: 0,0:09:24.17,0:09:26.13,Black Signs,,0000,0000,0000,,Oeste-A 18\NTemawari Suisan\NFinal da fila
+Dialogue: 0,0:09:29.17,0:09:31.25,Black Signs,,0000,0000,0000,,Tewamari Suisan\N\NNovos volumes\N{\fs18}(3 tipos) 1.000 ienes cada\N\N{\fs20}Brinde: CD\N{\fs18}(na compra de 2 ou mais dos itens acima)
+Dialogue: 0,0:09:31.25,0:09:32.25,Black Signs,,0000,0000,0000,,Partituras Musicais 1 e 2\N(500 ienes cada)     Esgotado
+Dialogue: 0,0:09:36.29,0:09:38.83,Main,,0000,0000,0000,,Vou levar o volume novo\Ne também estes.
+Dialogue: 0,0:09:39.08,0:09:40.96,Main,,0000,0000,0000,,Quero dois de cada CD!
+Dialogue: 0,0:09:41.67,0:09:42.67,Main,,0000,0000,0000,,Com licença!
+Dialogue: 0,0:09:43.04,0:09:43.75,Main,,0000,0000,0000,,Olá!
+Dialogue: 0,0:09:43.75,0:09:46.08,Main,,0000,0000,0000,,A Temawari-san está aqui hoje?
+Dialogue: 0,0:09:46.08,0:09:48.92,Main,,0000,0000,0000,,Eu sou muito fã e trouxe isto para ela.
+Dialogue: 0,0:09:48.92,0:09:50.58,Main,,0000,0000,0000,,Muito obrigada!
+Dialogue: 0,0:09:51.04,0:09:53.88,Italic,,0000,0000,0000,,As pessoas até dão presentes a ela!
+Dialogue: 0,0:10:06.88,0:10:08.92,Main,,0000,0000,0000,,Finalmente diminuiu o movimento.
+Dialogue: 0,0:10:09.25,0:10:11.54,Main,,0000,0000,0000,,Tama-chan! Tem um minuto?
+Dialogue: 0,0:10:11.79,0:10:15.58,Main,,0000,0000,0000,,Ah, sim. Estamos fazendo uma pausa.
+Dialogue: 0,0:10:15.58,0:10:16.42,Main,,0000,0000,0000,,Hã?
+Dialogue: 0,0:10:16.42,0:10:17.54,Main,,0000,0000,0000,,Marika-san?
+Dialogue: 0,0:10:17.54,0:10:22.17,Main,,0000,0000,0000,,Também queria vir a esse tal\Nevento Comiket de verão!
+Dialogue: 0,0:10:22.17,0:10:24.79,Main,,0000,0000,0000,,Além de querer te ver!
+Dialogue: 0,0:10:24.79,0:10:27.13,Main,,0000,0000,0000,,Também fiquei surpresa.
+Dialogue: 0,0:10:27.42,0:10:30.00,Main,,0000,0000,0000,,Honda-san, eu comprei!
+Dialogue: 0,0:10:30.96,0:10:32.08,Main,,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:10:32.08,0:10:35.83,Main,,0000,0000,0000,,E também comprei\Num monte de bonequinhos!
+Dialogue: 0,0:10:35.83,0:10:38.58,Main,,0000,0000,0000,,Acho que vou visitar mais\Nessas tais Comiket!
+Dialogue: 0,0:10:39.17,0:10:40.88,Italic,,0000,0000,0000,,Eita, quantos...
+Dialogue: 0,0:10:41.21,0:10:44.29,Main,,0000,0000,0000,,Yumine, comprou os\Nvolumes novos desse círculo?
+Dialogue: 0,0:10:44.29,0:10:46.29,Main,,0000,0000,0000,,Sim! Também ganhei um autógrafo!
+Dialogue: 0,0:10:46.29,0:10:47.16,Main,,0000,0000,0000,,Que ótimo!
+Dialogue: 0,0:10:47.16,0:10:50.63,Main,,0000,0000,0000,,Quantas cópias do\Nnosso jogo vendemos?
+Dialogue: 0,0:10:50.63,0:10:52.54,Main,,0000,0000,0000,,Parece que foi um monte.
+Dialogue: 0,0:10:52.88,0:10:54.54,Main,,0000,0000,0000,,Talvez seja um novo recorde.
+Dialogue: 0,0:10:55.08,0:11:00.71,Main,,0000,0000,0000,,Um dia quero criar algo nosso que seja\Ncapaz de formar uma fila como aquela.
+Dialogue: 0,0:11:01.50,0:11:03.71,Main,,0000,0000,0000,,Algo nosso...
+Dialogue: 0,0:11:06.50,0:11:07.21,Main,,0000,0000,0000,,Ai!
+Dialogue: 0,0:11:07.21,0:11:09.04,Main,,0000,0000,0000,,Por que está tão distraída?
+Dialogue: 0,0:11:09.04,0:11:12.46,Main,,0000,0000,0000,,Estamos nisto desenhando juntas,\Nnão pode ficar assim.
+Dialogue: 0,0:11:12.46,0:11:15.33,Main,,0000,0000,0000,,Desculpa, só estava pensando.
+Dialogue: 0,0:11:15.33,0:11:16.21,Main,,0000,0000,0000,,Com licença.
+Dialogue: 0,0:11:16.21,0:11:17.17,Main,,0000,0000,0000,,Sim?
+Dialogue: 0,0:11:22.13,0:11:24.25,Main,,0000,0000,0000,,É a moça que veio ao evento de junho...
+Dialogue: 0,0:11:27.50,0:11:29.50,Main,,0000,0000,0000,,Lembrou de mim!
+Dialogue: 0,0:11:29.50,0:11:33.96,Main,,0000,0000,0000,,Entrei no site de vocês e\Nvi que estariam aqui hoje.
+Dialogue: 0,0:11:33.96,0:11:35.29,Main,,0000,0000,0000,,Por isso eu vim!
+Dialogue: 0,0:11:35.29,0:11:38.08,Main,,0000,0000,0000,,Então comprou nosso novo trabalho?
+Dialogue: 0,0:11:38.08,0:11:40.50,Main,,0000,0000,0000,,Ah, vou comprar agora...
+Dialogue: 0,0:11:40.50,0:11:43.50,Main,,0000,0000,0000,,Pode jogar a demonstração,\Nfique à vontade!
+Dialogue: 0,0:11:43.79,0:11:47.38,Black Signs,,0000,0000,0000,,Desejos de Poeira Estelar — Distância\N\N{\fs18}Novo jogo\NContinuar\NOpções
+Dialogue: 0,0:11:47.67,0:11:49.96,Main,,0000,0000,0000,,A arte está maravilhosa\Ndesta vez também!
+Dialogue: 0,0:11:49.96,0:11:51.46,Main,,0000,0000,0000,,Muito obrigada!
+Dialogue: 0,0:11:51.46,0:11:54.04,Main,,0000,0000,0000,,Desenhou tudo sozinha de novo?
+Dialogue: 0,0:11:54.04,0:11:56.38,Main,,0000,0000,0000,,Não, foi eu e a Ha-chan!
+Dialogue: 0,0:11:56.38,0:11:59.17,Main,,0000,0000,0000,,Ela decidiu o tipo de arte\Ne onde colocar,
+Dialogue: 0,0:11:59.17,0:12:01.13,Main,,0000,0000,0000,,e que tipo de jogo deveríamos fazer.
+Dialogue: 0,0:12:01.13,0:12:03.92,Main,,0000,0000,0000,,O tipo de música também\Nfoi ela que escolheu.
+Dialogue: 0,0:12:04.25,0:12:07.88,Main,,0000,0000,0000,,Ora, é uma verdadeira líder!
+Dialogue: 0,0:12:08.25,0:12:13.04,Main,,0000,0000,0000,,L-Líder? Não sou\Nnada importante assim...
+Dialogue: 0,0:12:13.50,0:12:17.25,Main,,0000,0000,0000,,Mas quem quis usar a história da Iris-sensei
+Dialogue: 0,0:12:17.25,0:12:21.46,Main,,0000,0000,0000,,e quem decidiu como ilustrar foi você.
+Dialogue: 0,0:12:21.46,0:12:24.13,Main,,0000,0000,0000,,Isso mesmo! Você se esforçou!
+Dialogue: 0,0:12:24.13,0:12:25.79,Main,,0000,0000,0000,,Bom, é verdade.
+Dialogue: 0,0:12:25.96,0:12:29.63,Main,,0000,0000,0000,,Tem razão, a líder desse projeto\Nfoi mesmo a Ha-chan-san.
+Dialogue: 0,0:12:29.63,0:12:30.88,Main,,0000,0000,0000,,Não é?
+Dialogue: 0,0:12:31.17,0:12:33.81,Main,,0000,0000,0000,,Aposto que vou\Nme divertir muito jogando!
+Dialogue: 0,0:12:33.83,0:12:36.46,Main,,0000,0000,0000,,Sim, muito obrigada!
+Dialogue: 0,0:12:45.13,0:12:46.67,Main,,0000,0000,0000,,Parecem estar se divertindo.
+Dialogue: 0,0:12:46.67,0:12:50.96,Main,,0000,0000,0000,,Seria melhor ir ver de perto,\Nem vez de um lugar tão distante.
+Dialogue: 0,0:12:50.96,0:12:55.08,Main,,0000,0000,0000,,Ah, não. Eu nunca serei\Ncomo aquelas pessoas.
+Dialogue: 0,0:12:55.50,0:12:59.21,Main,,0000,0000,0000,,E você... é a\NHyakutake Teru-senpai, certo?
+Dialogue: 0,0:12:59.21,0:13:04.13,Main,,0000,0000,0000,,Achei bem interessante alguém famosa\Nna escola convidá-las dessa forma.
+Dialogue: 0,0:13:04.58,0:13:06.64,Main,,0000,0000,0000,,E eu acho interessante sua família
+Dialogue: 0,0:13:06.64,0:13:10.04,Main,,0000,0000,0000,,ter tanta coisa de espionagem,\Nmoça dos olhos fechados...
+Dialogue: 0,0:13:10.04,0:13:12.50,Main,,0000,0000,0000,,Por favor, não ligue para isso.
+Dialogue: 0,0:13:13.46,0:13:15.60,Main,,0000,0000,0000,,Considerando como elas\Nestão animadas,
+Dialogue: 0,0:13:15.60,0:13:18.58,Main,,0000,0000,0000,,poderia tentar ser\Nmenos rígida com elas?
+Dialogue: 0,0:13:18.83,0:13:24.17,Main,,0000,0000,0000,,Soube que você já enfiou o nariz\Nno clube em vários momentos.
+Dialogue: 0,0:13:24.54,0:13:29.58,Main,,0000,0000,0000,,Para mim, o importante é levar\Na vida com os pés no chão, sabe...
+Dialogue: 0,0:13:30.63,0:13:34.92,Main,,0000,0000,0000,,M-Mas só foi um pouco! Sabe,\Nsó se é jovem uma vez!
+Dialogue: 0,0:13:34.92,0:13:39.04,Main,,0000,0000,0000,,Por isso, é agora que a gente precisa usar\Nessa força explosiva da juventude e...
+Dialogue: 0,0:13:39.25,0:13:40.79,Main,,0000,0000,0000,,Pois é.
+Dialogue: 0,0:13:40.79,0:13:43.92,Main,,0000,0000,0000,,Tudo bem, farei vista grossa.
+Dialogue: 0,0:13:46.83,0:13:50.75,Main,,0000,0000,0000,,Afinal, ela parece mesmo\Nestar se divertindo.
+Dialogue: 0,0:13:52.92,0:13:56.71,Italic,,0000,0000,0000,,E assim terminou nosso\NComiket de verão.
+Dialogue: 0,0:13:57.79,0:14:05.96,Italic,,0000,0000,0000,,Mas, por alguma razão, sentia algo\Ninquietante dentro de mim.
+Dialogue: 0,0:14:06.38,0:14:09.21,Italic,,0000,0000,0000,,E só fui descobrir o que era...
+Dialogue: 0,0:14:30.13,0:14:32.50,Italic,,0000,0000,0000,,Foi uns dias após o evento.
+Dialogue: 0,0:14:33.54,0:14:37.96,Italic,,0000,0000,0000,,Desta vez, decidimos\Nir à praia pra celebrar.
+Dialogue: 0,0:14:38.79,0:14:41.54,Main,,0000,0000,0000,,Vamos, saia daí também, Murakami-san!
+Dialogue: 0,0:14:41.54,0:14:43.79,Main,,0000,0000,0000,,Não dá! Quero ir pra casa!
+Dialogue: 0,0:14:47.33,0:14:49.42,Main,,0000,0000,0000,,Ficou ótimo, presidente!
+Dialogue: 0,0:14:49.67,0:14:53.21,Main,,0000,0000,0000,,Valeu a pena ir a\Ntantas lojas até encontrar!
+Dialogue: 0,0:14:53.21,0:14:57.46,Main,,0000,0000,0000,,Não deixaria de vestir algo que\Nsua kouhai escolheu, não é?
+Dialogue: 0,0:14:58.17,0:15:02.75,Main,,0000,0000,0000,,Não sou sociável nem ousada\Ncomo você, Fujikawa-san!
+Dialogue: 0,0:15:02.96,0:15:07.08,Main,,0000,0000,0000,,Eu sei que vez ou outra me forço\Na ser algo que não sou,
+Dialogue: 0,0:15:07.08,0:15:10.25,Main,,0000,0000,0000,,mas não tem problema\Nfingir de vez em quando.
+Dialogue: 0,0:15:10.46,0:15:14.83,Main,,0000,0000,0000,,Presidente, que tal imitar a\NFujikawa-san e sair conversando?
+Dialogue: 0,0:15:15.71,0:15:19.39,Main,,0000,0000,0000,,T-Tá, talvez eu... possa tentar.
+Dialogue: 0,0:15:19.54,0:15:22.13,Main,,0000,0000,0000,,Eu sabia, a Tama-chan é a dominante!
+Dialogue: 0,0:15:22.13,0:15:24.13,Main,,0000,0000,0000,,Desde quando está aqui, Fuda-san?
+Dialogue: 0,0:15:25.04,0:15:26.08,Main,,0000,0000,0000,,Lá vai!
+Dialogue: 0,0:15:27.17,0:15:27.92,Main,,0000,0000,0000,,Opa!
+Dialogue: 0,0:15:29.46,0:15:32.17,Main,,0000,0000,0000,,O sol está ótimo,\Nnão acha, Murakami-san?
+Dialogue: 0,0:15:33.71,0:15:36.21,Main,,0000,0000,0000,,Viva, consegui uma bela\Ndevolução nessa bola!
+Dialogue: 0,0:15:39.71,0:15:40.67,Main,,0000,0000,0000,,Presidente?!
+Dialogue: 0,0:15:41.33,0:15:42.92,Main,,0000,0000,0000,,V-Você está bem?!
+Dialogue: 0,0:15:43.29,0:15:46.50,Main,,0000,0000,0000,,Acho que usei minha força\Ncomunicativa pra vida inteira.
+Dialogue: 0,0:15:46.50,0:15:48.13,Main,,0000,0000,0000,,Nunca mais falarei.
+Dialogue: 0,0:15:48.13,0:15:48.96,Main,,0000,0000,0000,,Ah, não!
+Dialogue: 0,0:15:56.25,0:15:57.17,Flashback,,0000,0000,0000,,Comemorar?
+Dialogue: 0,0:15:57.17,0:15:59.21,Flashback,,0000,0000,0000,,Sim! Venha também, Ha-chan!
+Dialogue: 0,0:15:59.21,0:16:02.29,Flashback,,0000,0000,0000,,Somos companheiras na produção\Ndo jogo, e também amigas!
+Dialogue: 0,0:16:03.29,0:16:06.25,Flashback,,0000,0000,0000,,Não me lembro de ser sua amiga!
+Dialogue: 0,0:16:06.25,0:16:08.42,Flashback,,0000,0000,0000,,Nós somos rivais!
+Dialogue: 0,0:16:08.42,0:16:12.42,Flashback,,0000,0000,0000,,Além disso, nem faço parte\Noficialmente do Clube SNS.
+Dialogue: 0,0:16:12.75,0:16:14.92,Flashback,,0000,0000,0000,,Estou fora disso de ser amiguinha!
+Dialogue: 0,0:16:14.92,0:16:17.46,Flashback,,0000,0000,0000,,Hã? Então não vem até a praia?
+Dialogue: 0,0:16:17.63,0:16:19.00,Flashback,,0000,0000,0000,,Bom, não é que...
+Dialogue: 0,0:16:19.00,0:16:23.13,Flashback,,0000,0000,0000,,Entendi. Se você não quer,\Nnão tem jeito.
+Dialogue: 0,0:16:23.29,0:16:24.79,Flashback,,0000,0000,0000,,Espera!
+Dialogue: 0,0:16:25.38,0:16:28.58,Main,,0000,0000,0000,,Eu não disse que não iria!\NNão disse isso!
+Dialogue: 0,0:16:28.58,0:16:32.67,Main,,0000,0000,0000,,Senhorita Minaha, roupas\Nde banho foram feitas para nadar.
+Dialogue: 0,0:16:32.83,0:16:34.42,Main,,0000,0000,0000,,Isto são roupas íntimas!
+Dialogue: 0,0:16:37.08,0:16:38.29,Main,,0000,0000,0000,,Está indo bem!
+Dialogue: 0,0:16:38.54,0:16:39.54,Main,,0000,0000,0000,,É pra cá?
+Dialogue: 0,0:16:42.63,0:16:44.38,Main,,0000,0000,0000,,Já estava esquecendo de perguntar...
+Dialogue: 0,0:16:44.38,0:16:47.50,Main,,0000,0000,0000,,Por que esse maiô escolar,\Nse fomos todas comprar juntas ontem?
+Dialogue: 0,0:16:47.75,0:16:49.88,Main,,0000,0000,0000,,Faltou dinheiro...
+Dialogue: 0,0:16:50.29,0:16:54.04,Main,,0000,0000,0000,,Aliás, a Fuda Yumine\Nnem faz parte do Clube SNS!
+Dialogue: 0,0:16:54.04,0:16:57.92,Main,,0000,0000,0000,,Senhorita, se quer se juntar\Na elas, recomendo ir logo.
+Dialogue: 0,0:16:57.92,0:17:00.75,Main,,0000,0000,0000,,Sinceramente, está agindo\Ncomo stalker. Isso não é bom.
+Dialogue: 0,0:17:00.75,0:17:02.79,Main,,0000,0000,0000,,Olha só quem fala!
+Dialogue: 0,0:17:03.17,0:17:04.96,Main,,0000,0000,0000,,Quero descansar um pouco.
+Dialogue: 0,0:17:04.96,0:17:07.13,Main,,0000,0000,0000,,Me sinto um pouco quente.
+Dialogue: 0,0:17:07.13,0:17:09.04,Main,,0000,0000,0000,,Pode ser uma insolação leve.
+Dialogue: 0,0:17:09.04,0:17:11.04,Main,,0000,0000,0000,,Vamos até aquelas pedras ali?
+Dialogue: 0,0:17:11.04,0:17:13.38,Main,,0000,0000,0000,,Tem sombra, deve ser mais fresco.
+Dialogue: 0,0:17:13.50,0:17:16.21,Main,,0000,0000,0000,,Vou comprar alguma coisa\Npra beber, tá?
+Dialogue: 0,0:17:22.75,0:17:24.17,Main,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:17:24.46,0:17:26.96,Main,,0000,0000,0000,,Tive ideia pra uma brincadeira nova!
+Dialogue: 0,0:17:26.96,0:17:28.50,Main,,0000,0000,0000,,E como é?
+Dialogue: 0,0:17:28.50,0:17:29.96,Main,,0000,0000,0000,,Conta pra nós, mana!
+Dialogue: 0,0:17:29.96,0:17:32.88,Main,,0000,0000,0000,,Mistura pega-pega com amarelinha!
+Dialogue: 0,0:17:32.88,0:17:34.42,Main,,0000,0000,0000,,Só foge pulando amarelinha!
+Dialogue: 0,0:17:34.42,0:17:35.71,Main,,0000,0000,0000,,Parece legal!
+Dialogue: 0,0:17:35.71,0:17:36.92,Main,,0000,0000,0000,,Vamos tentar!
+Dialogue: 0,0:17:36.92,0:17:39.63,Main,,0000,0000,0000,,Certo, façam círculos na areia!
+Dialogue: 0,0:17:40.42,0:17:44.92,Main,,0000,0000,0000,,Um, dois, três! Um, dois, três!
+Dialogue: 0,0:17:44.92,0:17:46.50,Main,,0000,0000,0000,,Espera!
+Dialogue: 0,0:17:52.42,0:17:54.33,Main,,0000,0000,0000,,Este sentimento...
+Dialogue: 0,0:18:08.88,0:18:10.96,Main,,0000,0000,0000,,Honda-san! Aqui!
+Dialogue: 0,0:18:10.96,0:18:13.29,Main,,0000,0000,0000,,Bem-vinda de volta,\NTama-chan. Obrigada!
+Dialogue: 0,0:18:13.29,0:18:15.21,Main,,0000,0000,0000,,Você está bem, presidente?
+Dialogue: 0,0:18:15.63,0:18:17.96,Main,,0000,0000,0000,,Descansei um pouco, estou melhor.
+Dialogue: 0,0:18:17.96,0:18:20.13,Main,,0000,0000,0000,,Desculpe dar trabalho a vocês.
+Dialogue: 0,0:18:20.13,0:18:22.83,Main,,0000,0000,0000,,Já estava ficando preocupada,\Nvocê estava demorando.
+Dialogue: 0,0:18:23.17,0:18:24.33,Main,,0000,0000,0000,,Me desculpem...
+Dialogue: 0,0:18:25.38,0:18:27.75,Main,,0000,0000,0000,,Tudo bem com você, Honda-chan?
+Dialogue: 0,0:18:31.92,0:18:33.04,Main,,0000,0000,0000,,Eu...
+Dialogue: 0,0:18:33.71,0:18:35.54,Main,,0000,0000,0000,,Não estou bem, não!
+Dialogue: 0,0:18:36.58,0:18:39.50,Main,,0000,0000,0000,,Estava esquecendo\Nalgo muito importante!
+Dialogue: 0,0:18:39.71,0:18:41.88,Main,,0000,0000,0000,,A própria razão de entrar neste clube.
+Dialogue: 0,0:18:41.88,0:18:43.64,Main,,0000,0000,0000,,Não era só pra desenhar!
+Dialogue: 0,0:18:43.64,0:18:46.88,Main,,0000,0000,0000,,Era para criar um jogo\Ne fazer alguém sorrir!
+Dialogue: 0,0:18:50.17,0:18:52.52,Main,,0000,0000,0000,,Bom, se fosse só pra desenhar,
+Dialogue: 0,0:18:52.52,0:18:54.75,Main,,0000,0000,0000,,iria ao Clube de Ilustração\Nou de Artes.
+Dialogue: 0,0:18:56.13,0:18:59.88,Main,,0000,0000,0000,,O que quer fazer agora,\NHonda-chan?
+Dialogue: 0,0:19:00.25,0:19:06.08,Main,,0000,0000,0000,,Eu... Eu quero fazer o próximo\Njogo usando minhas ideias!
+Dialogue: 0,0:19:06.08,0:19:08.29,Main,,0000,0000,0000,,Como a Ha-chan fez!
+Dialogue: 0,0:19:08.67,0:19:11.67,Main,,0000,0000,0000,,M-Mas claro que\Nnão posso fazer sozinha...
+Dialogue: 0,0:19:11.67,0:19:14.63,Main,,0000,0000,0000,,Por isso, queria a ajuda\Nde vocês, senpais...
+Dialogue: 0,0:19:15.42,0:19:16.83,Main,,0000,0000,0000,,Era o que eu queria ouvir!
+Dialogue: 0,0:19:16.83,0:19:20.92,Main,,0000,0000,0000,,Também quero ver que tipo\Nde jogo você quer criar.
+Dialogue: 0,0:19:20.92,0:19:27.67,Main,,0000,0000,0000,,Só conseguimos fazer dois jogos novos\Nporque você entrou no Clube SNS.
+Dialogue: 0,0:19:28.08,0:19:32.08,Main,,0000,0000,0000,,Desta vez somos nós\Nque vamos te apoiar.
+Dialogue: 0,0:19:34.17,0:19:35.88,Main,,0000,0000,0000,,Presidente...
+Dialogue: 0,0:19:36.13,0:19:39.54,Main,,0000,0000,0000,,Então eu quero um jogo\Ncom muitos senhores galantes!
+Dialogue: 0,0:19:39.54,0:19:41.04,Main,,0000,0000,0000,,Já era de se esperar!
+Dialogue: 0,0:19:41.46,0:19:46.17,Main,,0000,0000,0000,,Aliás... O prazo de inscrição no Comiket\Nde inverno é até amanhã. Já fizeram?
+Dialogue: 0,0:19:46.17,0:19:48.17,Main,,0000,0000,0000,,Esqueci completamente!
+Dialogue: 0,0:19:48.17,0:19:51.38,Main,,0000,0000,0000,,Comiket de inverno?!\NEntão tem outro no inverno?!
+Dialogue: 0,0:19:51.63,0:19:53.58,Main,,0000,0000,0000,,Sim! No final do ano.
+Dialogue: 0,0:19:53.58,0:19:55.83,Main,,0000,0000,0000,,E tem o festival cultural no outono.
+Dialogue: 0,0:19:55.83,0:19:59.58,Main,,0000,0000,0000,,Mas o próximo grande evento\Né mesmo o Comiket de inverno.
+Dialogue: 0,0:19:59.58,0:20:02.00,Main,,0000,0000,0000,,Mas ainda não sei se\Nvamos poder participar.
+Dialogue: 0,0:20:02.17,0:20:05.38,Main,,0000,0000,0000,,Tá! Então, assim que começar\No próximo semestre...
+Dialogue: 0,0:20:05.38,0:20:07.25,Main,,0000,0000,0000,,Não, a partir de amanhã!
+Dialogue: 0,0:20:07.25,0:20:11.21,Main,,0000,0000,0000,,Não! Vamos começar a trabalhar\Nhoje mesmo no próximo jogo!
+Dialogue: 0,0:20:11.42,0:20:13.42,Main,,0000,0000,0000,,Oh, a garota está em chamas!
+Dialogue: 0,0:20:13.58,0:20:16.38,Main,,0000,0000,0000,,Muito bom! Hoje já teremos\Numa reunião de produção!
+Dialogue: 0,0:20:16.38,0:20:21.50,Main,,0000,0000,0000,,Precisamos de ideias e de um\Ncronograma, há muito a fazer.
+Dialogue: 0,0:20:22.00,0:20:24.29,Main,,0000,0000,0000,,Vamos ficar bem ocupadas, Honda-san.
+Dialogue: 0,0:20:24.63,0:20:25.63,Main,,0000,0000,0000,,Sim!
+Dialogue: 0,0:20:26.04,0:20:28.04,Main,,0000,0000,0000,,Eu vou me esforçar!
+Dialogue: 0,0:20:30.25,0:20:31.67,Main,,0000,0000,0000,,É minha!
+Dialogue: 0,0:22:16.79,0:22:18.75,Black Signs,,0000,0000,0000,,Próximo jogo\N\N1ª reunião
+Dialogue: 0,0:22:23.75,0:22:27.71,Black Signs,,0000,0000,0000,,Clube SNS\N\NNovo jogo para o Comiket de inverno
+Dialogue: 0,0:22:43.08,0:22:45.04,segundo semestre,,0000,0000,0000,,{\fad(615,1)}Segundo semestre

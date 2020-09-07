@@ -1,0 +1,439 @@
+[Script Info]
+Title: English (US)
+Original Script: Sentai  [http://www.crunchyroll.com/user/Sentai]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.25,0:00:08.52,Default,,0000,0000,0000,,Wow, that sure is a long line...
+Dialogue: 0,0:00:08.79,0:00:13.86,Default,,0000,0000,0000,,Kind of strange coming to a convention\Nwhen I don't know the first thing about them...
+Dialogue: 0,0:00:14.13,0:00:15.50,Default,,0000,0000,0000,,We're selling our game, aren't we?
+Dialogue: 0,0:00:15.50,0:00:16.83,Default,,0000,0000,0000,,We sure are.
+Dialogue: 0,0:00:16.83,0:00:20.64,Default,,0000,0000,0000,,We're selling the game we walked through\Nthe flames of Hades
+Dialogue: 0,0:00:20.64,0:00:22.73,Default,,0000,0000,0000,,to make to these fine people!
+Dialogue: 0,0:00:24.38,0:00:25.29,Default,,0000,0000,0000,,Captain?!
+Dialogue: 0,0:00:25.29,0:00:26.13,Default,,0000,0000,0000,,Shii?!
+Dialogue: 0,0:00:26.13,0:00:27.88,Default,,0000,0000,0000,,Are you okay, Captain?!
+Dialogue: 0,0:00:30.63,0:00:31.79,Default,,0000,0000,0000,,She's burning up!
+Dialogue: 0,0:00:31.79,0:00:34.00,Default,,0000,0000,0000,,I can't go on...
+Dialogue: 0,0:00:34.00,0:00:39.13,Default,,0000,0000,0000,,I hereby bequeath my treasure to you...
+Dialogue: 0,0:00:39.83,0:00:40.83,Default,,0000,0000,0000,,Captain...
+Dialogue: 0,0:00:41.25,0:00:43.25,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:00:46.77,0:00:48.48,Default,,0000,0000,0000,,This station doesn't provide connections for\Ndelayed final CC and Express Line trains.
+Dialogue: 0,0:00:51.71,0:00:53.65,Default,,0000,0000,0000,,Take care of yourself, Captain!
+Dialogue: 0,0:00:54.21,0:00:56.17,Default,,0000,0000,0000,,I know this trick...
+Dialogue: 0,0:00:56.17,0:01:00.46,Default,,0000,0000,0000,,She's got a real knack for \Nthe pre-event affliction.
+Dialogue: 0,0:01:00.63,0:01:02.95,On Top,,0000,0000,0000,,In Junior High...
+Dialogue: 0,0:01:00.88,0:01:02.95,Default,,0000,0000,0000,,You get your butt to this \Nsports meet right now!
+Dialogue: 0,0:01:02.95,0:01:04.71,Default,,0000,0000,0000,,I mean, I'm here!
+Dialogue: 0,0:01:02.95,0:01:04.71,On Top,,0000,0000,0000,,In Junior High...
+Dialogue: 0,0:01:05.00,0:01:07.08,Default,,0000,0000,0000,,What?! Another fever?!
+Dialogue: 0,0:01:07.71,0:01:10.25,Default,,0000,0000,0000,,You think she'll be okay?
+Dialogue: 0,0:01:10.25,0:01:13.25,Default,,0000,0000,0000,,Something tells me she'll \Nfind her way to bed.
+Dialogue: 0,0:01:13.25,0:01:15.50,Default,,0000,0000,0000,,How about we get back to the venue?
+Dialogue: 0,0:01:15.50,0:01:17.75,Default,,0000,0000,0000,,We've got a booth to set up!
+Dialogue: 0,0:01:17.75,0:01:18.96,Default,,0000,0000,0000,,S-sure!
+Dialogue: 0,0:01:20.42,0:01:23.29,Default,,0000,0000,0000,,Mitsukeyou make my day
+Dialogue: 0,0:01:23.29,0:01:26.75,Default,,0000,0000,0000,,Bukiyou de arigatou watashi
+Dialogue: 0,0:01:26.75,0:01:34.71,Default,,0000,0000,0000,,Daisuki dake ga tsureteku sekai ga aru no sa
+Dialogue: 0,0:01:46.88,0:01:49.75,Default,,0000,0000,0000,,Sonnan ja hottarakashi de
+Dialogue: 0,0:01:49.75,0:01:52.50,Default,,0000,0000,0000,,Sonnan ja hottokenakute
+Dialogue: 0,0:01:52.50,0:01:57.17,Default,,0000,0000,0000,,Iesu or noo ha itsumo kakureteru
+Dialogue: 0,0:01:58.29,0:02:01.00,Default,,0000,0000,0000,,Daijoubu sa tte ietara
+Dialogue: 0,0:02:01.00,0:02:03.83,Default,,0000,0000,0000,,Daijoubu tte omoeta
+Dialogue: 0,0:02:03.83,0:02:08.83,Default,,0000,0000,0000,,Akkenai kurai de okashikatta
+Dialogue: 0,0:02:08.83,0:02:14.79,Default,,0000,0000,0000,,Konna wakuwaku o oikaketeru kimochi ga
+Dialogue: 0,0:02:14.79,0:02:22.00,Default,,0000,0000,0000,,Kinou made no jibun no souzou o koete yuku
+Dialogue: 0,0:02:22.58,0:02:25.25,Default,,0000,0000,0000,,Konnichiwa make my day
+Dialogue: 0,0:02:25.25,0:02:28.96,Default,,0000,0000,0000,,Minna ga motteru mahou
+Dialogue: 0,0:02:28.96,0:02:33.63,Default,,0000,0000,0000,,Isshou de ichiban no nani ka ga mieru
+Dialogue: 0,0:02:33.63,0:02:36.67,Default,,0000,0000,0000,,Deaeru yo make my day
+Dialogue: 0,0:02:36.67,0:02:40.17,Default,,0000,0000,0000,,Bukiyou de arigatou watashi
+Dialogue: 0,0:02:40.17,0:02:48.67,Default,,0000,0000,0000,,Daisuki dake ga tsureteku sekai ga matteru
+Dialogue: 0,0:02:51.04,0:02:54.00,Default,,0000,0000,0000,,Direct Sales
+Dialogue: 0,0:03:03.17,0:03:07.25,Default,,0000,0000,0000,,Go ahead and unpack the bag.\NIt's got all our stuff in it.
+Dialogue: 0,0:03:07.25,0:03:08.54,Default,,0000,0000,0000,,Sure!
+Dialogue: 0,0:03:08.90,0:03:10.75,Default,,0000,0000,0000,,She said it was her treasure...
+Dialogue: 0,0:03:14.88,0:03:19.83,On Top,,0000,0000,0000,,It's my treasure. Hoppity-hoppity hop...
+Dialogue: 0,0:03:17.75,0:03:19.83,Default,,0000,0000,0000,,That's from our last \NCaptain's personal stash.
+Dialogue: 0,0:03:19.83,0:03:20.63,Default,,0000,0000,0000,,That's from our last \NCaptain's personal stash.
+Dialogue: 0,0:03:34.04,0:03:36.96,Default,,0000,0000,0000,,Hello! We're looking forward \Nto working with you.
+Dialogue: 0,0:03:36.96,0:03:39.49,Default,,0000,0000,0000,,Y-yeah! So are we!
+Dialogue: 0,0:03:39.67,0:03:44.00,Default,,0000,0000,0000,,Doujin Disc Only is now starting...
+Dialogue: 0,0:03:47.63,0:03:49.63,Default,,0000,0000,0000,,H-here we go!
+Dialogue: 0,0:03:50.46,0:03:53.33,Default,,0000,0000,0000,,Remember, no pushing and no running.
+Dialogue: 0,0:03:53.88,0:03:58.17,Default,,0000,0000,0000,,It's nerve-wracking thinking of people\Nlooking at my pictures...
+Dialogue: 0,0:03:58.17,0:04:01.42,Default,,0000,0000,0000,,Just take the 300 yen if people want a copy.
+Dialogue: 0,0:04:01.71,0:04:04.88,Default,,0000,0000,0000,,And I give them back 700 yen if they pay\Nwith a 1,000 yen bill, right?
+Dialogue: 0,0:04:05.04,0:04:06.25,Default,,0000,0000,0000,,Exactly!
+Dialogue: 0,0:04:14.29,0:04:16.92,Default,,0000,0000,0000,,I think we might be waiting a while...
+Dialogue: 0,0:04:16.92,0:04:18.23,Default,,0000,0000,0000,,Maybe you should put down the money?
+Dialogue: 0,0:04:18.96,0:04:24.46,Default,,0000,0000,0000,,All the people here either make games\Nor want to buy them, don't they?
+Dialogue: 0,0:04:24.46,0:04:25.63,Default,,0000,0000,0000,,That's about right.
+Dialogue: 0,0:04:25.63,0:04:27.99,Default,,0000,0000,0000,,It sure is a lot... Wait.
+Dialogue: 0,0:04:28.17,0:04:29.33,Default,,0000,0000,0000,,Yumine?!
+Dialogue: 0,0:04:30.08,0:04:33.33,Default,,0000,0000,0000,,Tama-chan! Is this the event \Nyou were talking about?
+Dialogue: 0,0:04:33.58,0:04:36.08,Default,,0000,0000,0000,,Sorry! I can't go over there yet!
+Dialogue: 0,0:04:36.58,0:04:41.88,Default,,0000,0000,0000,,I need to hurry and get myself lined up\Nfor Temawari's newest release!
+Dialogue: 0,0:04:42.58,0:04:44.55,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:04:47.55,0:04:49.29,Default,,0000,0000,0000,,Angelic Idols
+Dialogue: 0,0:04:49.29,0:04:52.56,Default,,0000,0000,0000,,Everyone else's art is so amazing...
+Dialogue: 0,0:04:52.96,0:04:56.33,Default,,0000,0000,0000,,I knew it. Nothing brings them in\Nlike a little razzle-dazzle.
+Dialogue: 0,0:04:56.33,0:04:58.75,Default,,0000,0000,0000,,No wonder no one's buying ours...
+Dialogue: 0,0:04:58.75,0:05:01.42,Default,,0000,0000,0000,,Maybe my art was just that...
+Dialogue: 0,0:05:01.42,0:05:03.08,Default,,0000,0000,0000,,That's not what I mean.
+Dialogue: 0,0:05:03.58,0:05:07.25,Default,,0000,0000,0000,,I'm talking about posters and stuff\Nthat makes your booth stick out.
+Dialogue: 0,0:05:07.25,0:05:10.83,Default,,0000,0000,0000,,Some people even let you play \Ntheir games right there.
+Dialogue: 0,0:05:11.08,0:05:13.04,Default,,0000,0000,0000,,But the most important thing...
+Dialogue: 0,0:05:13.04,0:05:15.54,Default,,0000,0000,0000,,Is the promotion that we didn't do!
+Dialogue: 0,0:05:15.54,0:05:17.75,Default,,0000,0000,0000,,We didn't even tweet it!
+Dialogue: 0,0:05:20.25,0:05:23.00,Default,,0000,0000,0000,,But conventions are like that.
+Dialogue: 0,0:05:23.00,0:05:25.79,Default,,0000,0000,0000,,Besides, this is our first event.
+Dialogue: 0,0:05:26.38,0:05:30.21,Default,,0000,0000,0000,,Unless you want to tell me \Nyou didn't give it 110%?
+Dialogue: 0,0:05:32.25,0:05:34.08,Default,,0000,0000,0000,,You're right, but...
+Dialogue: 0,0:05:37.04,0:05:39.81,Default,,0000,0000,0000,,How about you look at this picture\Nand cheer yourself up?
+Dialogue: 0,0:05:39.81,0:05:42.54,Default,,0000,0000,0000,,I'm going to get out there and sell!
+Dialogue: 0,0:05:42.54,0:05:44.71,Default,,0000,0000,0000,,I bet we've got a few friends out there!
+Dialogue: 0,0:05:44.71,0:05:46.79,Default,,0000,0000,0000,,Why don't you draw while you wait?
+Dialogue: 0,0:05:55.50,0:05:58.63,Default,,0000,0000,0000,,She sure is fussing a lot over me.
+Dialogue: 0,0:06:01.38,0:06:04.38,Default,,0000,0000,0000,,Long time no see! Made \Na visual novel, did you?
+Dialogue: 0,0:06:04.38,0:06:07.17,Default,,0000,0000,0000,,That we did! How about we trade?
+Dialogue: 0,0:06:07.58,0:06:11.00,Default,,0000,0000,0000,,They took care of me all day yesterday.
+Dialogue: 0,0:06:11.33,0:06:13.96,Default,,0000,0000,0000,,I really need to say thank you...
+Dialogue: 0,0:06:14.54,0:06:17.48,On Top,,0000,0000,0000,,A hearty\Nthank you\Nto you
+Dialogue: 0,0:06:20.00,0:06:21.06,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:06:27.04,0:06:30.38,Default,,0000,0000,0000,,Should I be drawing?
+Dialogue: 0,0:06:30.71,0:06:33.04,Default,,0000,0000,0000,,Should I really just be sitting here?
+Dialogue: 0,0:06:35.21,0:06:36.75,Default,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:06:37.96,0:06:39.21,Default,,0000,0000,0000,,Excuse me!
+Dialogue: 0,0:06:39.75,0:06:41.46,Default,,0000,0000,0000,,Um, hello...
+Dialogue: 0,0:06:41.46,0:06:42.63,Default,,0000,0000,0000,,O-oh!
+Dialogue: 0,0:06:42.63,0:06:43.71,Default,,0000,0000,0000,,Someone's here!
+Dialogue: 0,0:06:43.71,0:06:46.92,Default,,0000,0000,0000,,Are you the one who did \Nthe artwork for this game?
+Dialogue: 0,0:06:46.92,0:06:48.21,Default,,0000,0000,0000,,I am...
+Dialogue: 0,0:06:48.71,0:06:49.67,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:06:50.46,0:06:52.00,Default,,0000,0000,0000,,I feel so bad.
+Dialogue: 0,0:06:52.88,0:06:57.14,Default,,0000,0000,0000,,Everyone here's made such amazing stuff...
+Dialogue: 0,0:06:58.71,0:07:00.63,Default,,0000,0000,0000,,I don't even know why I'm here...
+Dialogue: 0,0:07:02.17,0:07:03.61,Default,,0000,0000,0000,,I'll take one.
+Dialogue: 0,0:07:03.88,0:07:07.82,Default,,0000,0000,0000,,This is exactly the kind of art I'm into!
+Dialogue: 0,0:07:08.58,0:07:11.04,Default,,0000,0000,0000,,And if you wouldn't mind...
+Dialogue: 0,0:07:11.96,0:07:14.42,Default,,0000,0000,0000,,I'm back! Made a nice trade or te-
+Dialogue: 0,0:07:14.42,0:07:16.37,Default,,0000,0000,0000,,Oh! Seki-senpai!
+Dialogue: 0,0:07:17.38,0:07:20.38,Default,,0000,0000,0000,,What does it mean when someone\Nwants you in their sketchbook?
+Dialogue: 0,0:07:20.38,0:07:22.75,Default,,0000,0000,0000,,It means they want you to draw something\Nhere at the convention.
+Dialogue: 0,0:07:22.75,0:07:25.54,Default,,0000,0000,0000,,You mean they want me to draw\Nin their sketchbook?!
+Dialogue: 0,0:07:25.54,0:07:26.42,Default,,0000,0000,0000,,Sounds like it.
+Dialogue: 0,0:07:26.42,0:07:29.80,Default,,0000,0000,0000,,I mean, if it's okay with you.
+Dialogue: 0,0:07:29.96,0:07:32.54,Default,,0000,0000,0000,,I-I mean of course it's okay with me!
+Dialogue: 0,0:07:32.83,0:07:35.29,Default,,0000,0000,0000,,You can take 10 copies if you want!
+Dialogue: 0,0:07:35.29,0:07:36.38,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:07:39.63,0:07:44.00,Default,,0000,0000,0000,,I don't need it right \Nnow. I'll stop by later!
+Dialogue: 0,0:07:44.00,0:07:45.69,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:07:45.71,0:07:48.65,Default,,0000,0000,0000,,Doujin\NDisc\NOnly
+Dialogue: 0,0:07:48.96,0:07:50.61,Default,,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:07:52.79,0:07:55.38,Default,,0000,0000,0000,,Another happy customer, Honda-san!
+Dialogue: 0,0:07:55.38,0:07:58.54,Default,,0000,0000,0000,,People really start swarming \Nin during the afternoon.
+Dialogue: 0,0:08:00.75,0:08:04.71,Default,,0000,0000,0000,,But that last guy was \Ndefinitely a businessman...
+Dialogue: 0,0:08:04.71,0:08:07.54,Default,,0000,0000,0000,,You really do get all sorts at a convention.
+Dialogue: 0,0:08:09.21,0:08:13.51,Default,,0000,0000,0000,,I know you're happy, but you think you could\Nat least pretend to pay attention?
+Dialogue: 0,0:08:14.21,0:08:15.63,Default,,0000,0000,0000,,I'll take one!
+Dialogue: 0,0:08:16.04,0:08:17.00,Default,,0000,0000,0000,,Yumine!
+Dialogue: 0,0:08:17.00,0:08:19.31,Default,,0000,0000,0000,,Oh! But before that...
+Dialogue: 0,0:08:19.83,0:08:20.88,Default,,0000,0000,0000,,Wh-what are you doing?!
+Dialogue: 0,0:08:20.88,0:08:22.60,Default,,0000,0000,0000,,Those ears are so cute! \NI have to take a shot!
+Dialogue: 0,0:08:25.04,0:08:26.33,Default,,0000,0000,0000,,And don't move!
+Dialogue: 0,0:08:30.92,0:08:33.42,Default,,0000,0000,0000,,Show me that face!
+Dialogue: 0,0:08:33.42,0:08:34.75,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:08:35.25,0:08:37.12,Default,,0000,0000,0000,,Could you please stop?
+Dialogue: 0,0:08:37.20,0:08:38.79,Default,,0000,0000,0000,,And done!
+Dialogue: 0,0:08:38.96,0:08:41.83,Default,,0000,0000,0000,,Do you think she'll like it?
+Dialogue: 0,0:08:42.33,0:08:44.13,Default,,0000,0000,0000,,That is a great picture!
+Dialogue: 0,0:08:46.33,0:08:48.58,Default,,0000,0000,0000,,I see you really put some effort into it!
+Dialogue: 0,0:08:48.58,0:08:49.63,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:08:49.63,0:08:52.21,Default,,0000,0000,0000,,Do you really like it?
+Dialogue: 0,0:08:52.21,0:08:54.38,Default,,0000,0000,0000,,Of course! I'll treasure it forever.
+Dialogue: 0,0:08:56.71,0:08:59.25,Default,,0000,0000,0000,,Oh, and could you sign it for me?
+Dialogue: 0,0:08:59.25,0:09:03.56,Default,,0000,0000,0000,,What?! I don't even have a signature!
+Dialogue: 0,0:09:03.92,0:09:07.52,Default,,0000,0000,0000,,Or maybe just how you feel right now...\NA little message.
+Dialogue: 0,0:09:07.71,0:09:08.71,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:09:10.00,0:09:13.46,Default,,0000,0000,0000,,Dear Daddy, I'm so happy right now!
+Dialogue: 0,0:09:13.75,0:09:14.86,Default,,0000,0000,0000,,DADDY?!
+Dialogue: 0,0:09:15.96,0:09:17.49,Default,,0000,0000,0000,,Thank you so much!
+Dialogue: 0,0:09:17.49,0:09:19.71,Default,,0000,0000,0000,,No, thank YOU!
+Dialogue: 0,0:09:20.08,0:09:21.95,Default,,0000,0000,0000,,Look over here, Honda-san!
+Dialogue: 0,0:09:21.95,0:09:23.04,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:09:24.50,0:09:26.21,Default,,0000,0000,0000,,What do you think you're doing?!
+Dialogue: 0,0:09:26.21,0:09:28.88,Default,,0000,0000,0000,,I couldn't help it. You looked so sweet.
+Dialogue: 0,0:09:28.88,0:09:30.88,Default,,0000,0000,0000,,I'm going to need you to send me that!
+Dialogue: 0,0:09:33.50,0:09:35.30,Default,,0000,0000,0000,,Come see our new release!
+Dialogue: 0,0:09:48.58,0:09:52.67,Default,,0000,0000,0000,,Doujin Disc Only is now over.
+Dialogue: 0,0:09:53.58,0:09:56.99,Default,,0000,0000,0000,,That's 13 copies today! \NI'd dare say they like us!
+Dialogue: 0,0:09:57.58,0:10:00.54,Default,,0000,0000,0000,,Of course, that's the nine \NI traded plus four sales.
+Dialogue: 0,0:10:00.54,0:10:02.67,Default,,0000,0000,0000,,And one of those was to Fuda-san...
+Dialogue: 0,0:10:03.71,0:10:06.17,Default,,0000,0000,0000,,Oh, it's a text from Fujikawa-senpai.
+Dialogue: 0,0:10:06.17,0:10:08.17,Default,,0000,0000,0000,,She says she's on her way.
+Dialogue: 0,0:10:08.17,0:10:09.38,Default,,0000,0000,0000,,Really, now?
+Dialogue: 0,0:10:09.38,0:10:12.21,Default,,0000,0000,0000,,Then maybe she can help us clean up.
+Dialogue: 0,0:10:13.04,0:10:17.54,Default,,0000,0000,0000,,Right. I should let Teru-senpai \Nknow about our day...
+Dialogue: 0,0:10:17.76,0:10:19.46,Default,,0000,0000,0000,,Teru-senpai,\NWe've had a heck of a day,\Nbut the SNS Club just keeps\Nrunning along!
+Dialogue: 0,0:10:19.92,0:10:23.22,Default,,0000,0000,0000,,Oho! Looks like they're having fun!
+Dialogue: 0,0:10:23.42,0:10:29.19,Default,,0000,0000,0000,,The businessman cosplay's heck on the hips,\Nbut I think I'm glad I came!
+Dialogue: 0,0:10:32.21,0:10:35.13,Default,,0000,0000,0000,,The club and the little \Nkitty are hard at work!
+Dialogue: 0,0:10:35.13,0:10:38.54,Default,,0000,0000,0000,,Maybe they deserve another \Nlittle treat soon...
+Dialogue: 0,0:10:47.08,0:10:48.79,Default,,0000,0000,0000,,Good job today, Honda-chan!
+Dialogue: 0,0:10:48.79,0:10:50.00,Default,,0000,0000,0000,,Fujikawa-senpai!
+Dialogue: 0,0:10:50.00,0:10:52.67,Default,,0000,0000,0000,,Hey, there! Did you make any sales?
+Dialogue: 0,0:10:52.67,0:10:55.00,Default,,0000,0000,0000,,We did, but just a few...
+Dialogue: 0,0:10:55.00,0:10:57.13,Default,,0000,0000,0000,,It's like that the first time.
+Dialogue: 0,0:10:57.13,0:10:58.88,Default,,0000,0000,0000,,Oh, and listen to this!
+Dialogue: 0,0:10:58.88,0:11:01.79,Default,,0000,0000,0000,,Someone asked me to draw\Nin their sketchbook today!
+Dialogue: 0,0:11:01.96,0:11:04.17,Default,,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:11:04.17,0:11:05.26,Default,,0000,0000,0000,,How'd it turn out?
+Dialogue: 0,0:11:05.26,0:11:09.23,Default,,0000,0000,0000,,I managed to draw her something,\Nthough the face was a little uneven
+Dialogue: 0,0:11:09.42,0:11:12.13,Default,,0000,0000,0000,,And where's our dear scenario writer?
+Dialogue: 0,0:11:12.13,0:11:13.54,Default,,0000,0000,0000,,She's...
+Dialogue: 0,0:11:14.21,0:11:15.75,Default,,0000,0000,0000,,Rock...!
+Dialogue: 0,0:11:15.90,0:11:17.54,Default,,0000,0000,0000,,Paper...!
+Dialogue: 0,0:11:19.42,0:11:21.83,Default,,0000,0000,0000,,And one more time!
+Dialogue: 0,0:11:23.25,0:11:27.54,Default,,0000,0000,0000,,...playing rock, paper, scissors\Nat the post-event giveaway.
+Dialogue: 0,0:11:27.54,0:11:31.12,Default,,0000,0000,0000,,I've never seen someone look so serious\Nin a game of rock, paper, scissors...
+Dialogue: 0,0:11:39.46,0:11:45.38,Default,,0000,0000,0000,,Just think, if I'd hit four rocks in a row, I could've gotten\Nthat limited edition I couldn't buy last year...
+Dialogue: 0,0:11:45.54,0:11:47.42,Default,,0000,0000,0000,,You're still talking about that?
+Dialogue: 0,0:11:47.42,0:11:51.39,Default,,0000,0000,0000,,Honestly, I never pegged you as\Na collector of anime stuff...
+Dialogue: 0,0:11:51.39,0:11:56.88,Default,,0000,0000,0000,,I try to keep it on the down low...\NI mean, I'm just another otaku.
+Dialogue: 0,0:11:57.40,0:12:00.94,Default,,0000,0000,0000,,My pin's from an anime, too!
+Dialogue: 0,0:12:01.13,0:12:02.88,Default,,0000,0000,0000,,What? Really?
+Dialogue: 0,0:12:02.88,0:12:06.16,Default,,0000,0000,0000,,Really. It's got the name \Non the back and everything!
+Dialogue: 0,0:12:06.16,0:12:09.13,Default,,0000,0000,0000,,But that was one heck of an event!
+Dialogue: 0,0:12:09.13,0:12:11.83,Default,,0000,0000,0000,,Got me in the mood to write a nice novel!
+Dialogue: 0,0:12:11.83,0:12:13.79,Default,,0000,0000,0000,,And there were so many good artists.
+Dialogue: 0,0:12:13.79,0:12:15.83,Default,,0000,0000,0000,,It was a little overwhelming...
+Dialogue: 0,0:12:15.83,0:12:18.21,Default,,0000,0000,0000,,You should've been there, Fujikawa-san.
+Dialogue: 0,0:12:18.75,0:12:25.79,Default,,0000,0000,0000,,Well, after I sent Murakami-san that music\Nlast night, I slept for 17 hours straight.
+Dialogue: 0,0:12:25.79,0:12:26.92,Default,,0000,0000,0000,,That's way too much...
+Dialogue: 0,0:12:27.17,0:12:28.71,Default,,0000,0000,0000,,I'm getting a call from Shii.
+Dialogue: 0,0:12:28.71,0:12:29.58,Default,,0000,0000,0000,,The Captain?
+Dialogue: 0,0:12:29.58,0:12:30.64,Default,,0000,0000,0000,,Hello?
+Dialogue: 0,0:12:30.64,0:12:33.46,Default,,0000,0000,0000,,Aya, tell me about the convention!
+Dialogue: 0,0:12:34.81,0:12:36.75,Default,,0000,0000,0000,,You okay, Shii?
+Dialogue: 0,0:12:36.75,0:12:38.38,Default,,0000,0000,0000,,I probably am...
+Dialogue: 0,0:12:40.29,0:12:43.08,Default,,0000,0000,0000,,I've got a fever of 98.9 degrees.
+Dialogue: 0,0:12:43.08,0:12:46.13,Default,,0000,0000,0000,,It must have been all of those people...
+Dialogue: 0,0:12:46.28,0:12:49.08,Default,,0000,0000,0000,,But suppose I'd fallen deathly ill...
+Dialogue: 0,0:12:49.08,0:12:53.63,Default,,0000,0000,0000,,Unable to go outside, a \Nburden on the rest of you...
+Dialogue: 0,0:12:53.63,0:12:56.29,Default,,0000,0000,0000,,I wanted to apologize in \Ncase anything happened!
+Dialogue: 0,0:12:56.29,0:12:59.88,Default,,0000,0000,0000,,I get it, I get it. You're \Nforgiven, so just rest up.
+Dialogue: 0,0:12:59.88,0:13:01.29,Default,,0000,0000,0000,,Take care, now.
+Dialogue: 0,0:13:01.71,0:13:03.88,Default,,0000,0000,0000,,That would explain the absence...
+Dialogue: 0,0:13:03.88,0:13:08.50,Default,,0000,0000,0000,,Yup. Ran off this morning saying there were\Ntoo many people at the station...
+Dialogue: 0,0:13:08.50,0:13:10.50,Default,,0000,0000,0000,,And 98.9's normal temperature!
+Dialogue: 0,0:13:10.75,0:13:13.13,Default,,0000,0000,0000,,But enough about that!\NWhat about the wrap up party?!
+Dialogue: 0,0:13:13.14,0:13:15.33,Default,,0000,0000,0000,,What? Without the Captain?
+Dialogue: 0,0:13:15.33,0:13:17.60,Default,,0000,0000,0000,,Give her two days and \Nshe'll be right as rain.
+Dialogue: 0,0:13:17.60,0:13:21.94,Default,,0000,0000,0000,,Sounds good! How about\Nthis weekend at your place?
+Dialogue: 0,0:13:22.17,0:13:23.83,Default,,0000,0000,0000,,Why my place?
+Dialogue: 0,0:13:23.83,0:13:26.46,Default,,0000,0000,0000,,I beseech thee, o Iris!
+Dialogue: 0,0:13:26.46,0:13:28.16,Default,,0000,0000,0000,,Who said you could use my handle?
+Dialogue: 0,0:13:29.21,0:13:31.67,Default,,0000,0000,0000,,And how long are you going \Nto wear the bunny ears?
+Dialogue: 0,0:13:33.12,0:13:35.71,Default,,0000,0000,0000,,Man, my muscles are killing me!
+Dialogue: 0,0:13:35.71,0:13:36.92,Default,,0000,0000,0000,,Which muscles?\NMy senpai worked hard,
+Dialogue: 0,0:13:36.92,0:13:37.92,Default,,0000,0000,0000,,My senpai worked hard,
+Dialogue: 0,0:13:37.92,0:13:39.83,Default,,0000,0000,0000,,I drew a lot of pictures,
+Dialogue: 0,0:13:39.83,0:13:42.96,Default,,0000,0000,0000,,and we somehow got a whole game out of it.
+Dialogue: 0,0:13:43.71,0:13:46.04,Default,,0000,0000,0000,,I know I'm not exactly a good artist,
+Dialogue: 0,0:13:46.04,0:13:52.50,Default,,0000,0000,0000,,but maybe someday there'll be\Npeople out there who know who we are?
+Dialogue: 0,0:13:53.50,0:13:56.83,Default,,0000,0000,0000,,Just the thought of it got \Nmy heart all fluttery...
+Dialogue: 0,0:14:02.08,0:14:06.83,Default,,0000,0000,0000,,So that weekend we had a party\Nat Seki-senpai's house.
+Dialogue: 0,0:14:07.50,0:14:09.71,Default,,0000,0000,0000,,Yumine came as our plus one.
+Dialogue: 0,0:14:10.38,0:14:11.88,Default,,0000,0000,0000,,And the king is...
+Dialogue: 0,0:14:11.88,0:14:13.70,Default,,0000,0000,0000,,Who?!
+Dialogue: 0,0:14:13.96,0:14:16.88,Default,,0000,0000,0000,,M-me? What should I...
+Dialogue: 0,0:14:16.88,0:14:19.17,Default,,0000,0000,0000,,You'll make a great king, Captain!
+Dialogue: 0,0:14:19.17,0:14:21.42,Default,,0000,0000,0000,,And we'd love to hear a kingly word!
+Dialogue: 0,0:14:21.63,0:14:24.08,Default,,0000,0000,0000,,I could start with a coronation speech...
+Dialogue: 0,0:14:24.08,0:14:27.50,Default,,0000,0000,0000,,Having dragged myself here today\Nto the SNS Club wrap up party-
+Dialogue: 0,0:14:27.50,0:14:28.63,Default,,0000,0000,0000,,A little less honesty, please!
+Dialogue: 0,0:14:28.96,0:14:33.21,Default,,0000,0000,0000,,When I first started as Captain\NI was a nervous wreck,
+Dialogue: 0,0:14:33.21,0:14:37.75,Default,,0000,0000,0000,,but we made a game, and it was all thanks to\NHonda-san and the rest of the club.
+Dialogue: 0,0:14:38.29,0:14:40.31,Default,,0000,0000,0000,,Pretty thoughtful...
+Dialogue: 0,0:14:40.58,0:14:47.29,Default,,0000,0000,0000,,Maybe one day we'll have\Npeople out there playing our games...
+Dialogue: 0,0:14:47.90,0:14:50.08,Default,,0000,0000,0000,,I'm going to do my best!
+Dialogue: 0,0:14:50.08,0:14:51.79,Default,,0000,0000,0000,,And I'll be helping from the shadows!
+Dialogue: 0,0:14:51.79,0:14:53.50,Default,,0000,0000,0000,,What happened to Fujikawa-san?
+Dialogue: 0,0:14:53.50,0:14:57.71,Default,,0000,0000,0000,,She said she just thought \Nof a good melody, so...
+Dialogue: 0,0:14:57.88,0:14:59.50,Default,,0000,0000,0000,,E, G sharp, A, G sharp, E, G, E...
+Dialogue: 0,0:14:59.50,0:15:00.67,Default,,0000,0000,0000,,You're a darn mess!\NE, G sharp, A, G sharp, E, G, E...
+Dialogue: 0,0:15:00.92,0:15:03.00,Default,,0000,0000,0000,,The king is who?!
+Dialogue: 0,0:15:03.29,0:15:05.25,Default,,0000,0000,0000,,Me, is it?
+Dialogue: 0,0:15:05.25,0:15:07.54,Default,,0000,0000,0000,,Well, as long as we're all here...
+Dialogue: 0,0:15:07.54,0:15:10.33,Default,,0000,0000,0000,,Why don't we play your game?
+Dialogue: 0,0:15:10.54,0:15:12.83,Default,,0000,0000,0000,,And I want to hear all about the journey!
+Dialogue: 0,0:15:12.83,0:15:14.63,Default,,0000,0000,0000,,Oh! That's a great idea!
+Dialogue: 0,0:15:14.63,0:15:18.42,Default,,0000,0000,0000,,I might notice all sorts of things are off\Nif I look at the artwork now...
+Dialogue: 0,0:15:18.63,0:15:23.04,Default,,0000,0000,0000,,I really don't know if I want everybody\Nreading through my scenario...
+Dialogue: 0,0:15:23.38,0:15:26.57,Default,,0000,0000,0000,,And the code I wrote during \Ncrunch time was all buggy...
+Dialogue: 0,0:15:26.57,0:15:28.46,Default,,0000,0000,0000,,That's a "nay" on all counts.
+Dialogue: 0,0:15:28.46,0:15:29.71,Default,,0000,0000,0000,,Oh, my...
+Dialogue: 0,0:15:29.95,0:15:32.29,Default,,0000,0000,0000,,I'm next, eh?
+Dialogue: 0,0:15:32.69,0:15:35.79,Default,,0000,0000,0000,,I've got something I need \Nto tell you, Honda-chan!
+Dialogue: 0,0:15:35.79,0:15:36.87,Default,,0000,0000,0000,,What? Me?
+Dialogue: 0,0:15:37.04,0:15:41.38,Default,,0000,0000,0000,,Sorry for throwing you in at hte deep end\Nwhen you're still a newbie.
+Dialogue: 0,0:15:41.92,0:15:44.83,Default,,0000,0000,0000,,Plus, I heard someone stuck up for me?
+Dialogue: 0,0:15:44.83,0:15:46.21,Default,,0000,0000,0000,,Oh, no!
+Dialogue: 0,0:15:46.38,0:15:53.42,Default,,0000,0000,0000,,We all were just really stressed,\Nplus I had a lot of fun working with everyone...
+Dialogue: 0,0:15:53.96,0:15:56.83,Default,,0000,0000,0000,,You are such a sweetie, Tama-chan!
+Dialogue: 0,0:15:56.97,0:15:59.92,Default,,0000,0000,0000,,You're abusing your power, King-kun!
+Dialogue: 0,0:15:59.92,0:16:01.31,Default,,0000,0000,0000,,What's wrong with that?
+Dialogue: 0,0:16:01.58,0:16:03.71,Default,,0000,0000,0000,,Nothing wrong with a little \Nskinship, is there?
+Dialogue: 0,0:16:03.71,0:16:05.94,Default,,0000,0000,0000,,She... she's not like that at all!
+Dialogue: 0,0:16:06.63,0:16:09.29,Default,,0000,0000,0000,,You don't know the first thing about her!
+Dialogue: 0,0:16:09.67,0:16:13.07,Default,,0000,0000,0000,,I should know, I've been watching her\Nsince elementary school!
+Dialogue: 0,0:16:13.33,0:16:15.33,Default,,0000,0000,0000,,Tama-chan's a top!
+Dialogue: 0,0:16:17.63,0:16:21.79,Default,,0000,0000,0000,,If she were a man, she'd DEFINITELY be a top!
+Dialogue: 0,0:16:21.79,0:16:24.60,Default,,0000,0000,0000,,And Fujikawa-senpai would be the bottom\Nwith the come hither stare...
+Dialogue: 0,0:16:24.60,0:16:26.25,Default,,0000,0000,0000,,Are you sure they need to be men?
+Dialogue: 0,0:16:26.75,0:16:29.00,Default,,0000,0000,0000,,You're with me, right Seki-senpai?!
+Dialogue: 0,0:16:29.00,0:16:31.22,Default,,0000,0000,0000,,Why d'you gotta... Why're you asking me?!
+Dialogue: 0,0:16:31.71,0:16:34.75,Default,,0000,0000,0000,,I know my instincts are right!\NYou fantasize about it too, don't you?!
+Dialogue: 0,0:16:34.75,0:16:36.83,Default,,0000,0000,0000,,Remember our little talk \Nabout multiplication?!
+Dialogue: 0,0:16:36.83,0:16:38.84,Default,,0000,0000,0000,,D-did we talk about that?!
+Dialogue: 0,0:16:38.84,0:16:41.42,Default,,0000,0000,0000,,Um, what's a "top"?
+Dialogue: 0,0:16:41.67,0:16:42.96,Default,,0000,0000,0000,,What, indeed?
+Dialogue: 0,0:16:42.96,0:16:46.13,Default,,0000,0000,0000,,Definitely not something to \Ncall a sweet girl like you.
+Dialogue: 0,0:16:46.13,0:16:47.90,Default,,0000,0000,0000,,No! I just...
+Dialogue: 0,0:16:47.90,0:16:52.00,Default,,0000,0000,0000,,The most angelic character can be\Nfull of unbridled passions...
+Dialogue: 0,0:16:52.26,0:16:55.54,Default,,0000,0000,0000,,Awaken those passions in a side story and,\Noh, how they'd bloom!
+Dialogue: 0,0:16:58.37,0:16:59.91,Default,,0000,0000,0000,,What the heck are you making me say?!
+Dialogue: 0,0:17:00.25,0:17:01.21,Default,,0000,0000,0000,,Welp...
+Dialogue: 0,0:17:01.96,0:17:03.87,Default,,0000,0000,0000,,Looks like I'm king!
+Dialogue: 0,0:17:03.87,0:17:05.67,Default,,0000,0000,0000,,I command you to forget what was just said!
+Dialogue: 0,0:17:06.04,0:17:09.17,Default,,0000,0000,0000,,You don't want to talk naughty \Nwith me, Seki-senpai?
+Dialogue: 0,0:17:09.17,0:17:10.92,Default,,0000,0000,0000,,I do not! Aaaaand forgotten!
+Dialogue: 0,0:17:11.21,0:17:13.25,Default,,0000,0000,0000,,You SURE you want to forget it?
+Dialogue: 0,0:17:13.54,0:17:15.22,Default,,0000,0000,0000,,What's with you, Shii?
+Dialogue: 0,0:17:15.84,0:17:20.42,Default,,0000,0000,0000,,Teru-senpai was a big fan of your writing\Nwhen you were in the Writing Club.
+Dialogue: 0,0:17:20.71,0:17:22.81,Default,,0000,0000,0000,,That's why she wanted \Nto make a game with you.
+Dialogue: 0,0:17:23.37,0:17:25.54,Default,,0000,0000,0000,,That set the very foundation of this club.
+Dialogue: 0,0:17:25.54,0:17:27.46,Default,,0000,0000,0000,,Do you really want to be so callous?
+Dialogue: 0,0:17:27.67,0:17:28.92,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:17:29.76,0:17:33.38,Default,,0000,0000,0000,,Which is why I think we should do\Na group reading of your old work.
+Dialogue: 0,0:17:30.79,0:17:37.36,On Top,,0000,0000,0000,,Anthology
+Dialogue: 0,0:17:33.38,0:17:35.21,Default,,0000,0000,0000,,I've got your junior high \Nanthology right here.
+Dialogue: 0,0:17:35.21,0:17:37.36,Default,,0000,0000,0000,,You cut that out!
+Dialogue: 0,0:17:37.67,0:17:40.50,Default,,0000,0000,0000,,I'd love to hear about the old days!
+Dialogue: 0,0:17:40.50,0:17:41.50,Default,,0000,0000,0000,,Sure thing.
+Dialogue: 0,0:17:41.50,0:17:43.50,Default,,0000,0000,0000,,Wait a minute...
+Dialogue: 0,0:17:43.88,0:17:47.79,Default,,0000,0000,0000,,Fujikawa always had this \Nangry look on her face.
+Dialogue: 0,0:17:48.04,0:17:51.42,Default,,0000,0000,0000,,And Aya talked like a boy \Nuntil her third year.
+Dialogue: 0,0:17:52.46,0:17:55.17,Default,,0000,0000,0000,,Well you were always shaking like a leaf.
+Dialogue: 0,0:17:55.17,0:17:57.66,Default,,0000,0000,0000,,Yeah! Remember home ec in \Nyear five? She totally-
+Dialogue: 0,0:17:57.66,0:18:00.08,Default,,0000,0000,0000,,Th-that's too far back!
+Dialogue: 0,0:18:01.21,0:18:03.29,Default,,0000,0000,0000,,You went and caused an insurrection...
+Dialogue: 0,0:18:03.29,0:18:05.17,Default,,0000,0000,0000,,I guess it's better not to talk about that!
+Dialogue: 0,0:18:05.17,0:18:07.02,Default,,0000,0000,0000,,We should pick something nicer...
+Dialogue: 0,0:18:07.65,0:18:08.98,Default,,0000,0000,0000,,I know!
+Dialogue: 0,0:18:09.63,0:18:12.44,Default,,0000,0000,0000,,Let's talk about love! I'll go first!
+Dialogue: 0,0:18:12.71,0:18:14.40,Default,,0000,0000,0000,,I love my daddy so much!
+Dialogue: 0,0:18:14.80,0:18:17.92,Default,,0000,0000,0000,,He had so many nice things \Nto say about our game!
+Dialogue: 0,0:18:21.79,0:18:22.63,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:22.63,0:18:25.29,Default,,0000,0000,0000,,I bet you just wanted to brag, Tama-chan!
+Dialogue: 0,0:18:25.29,0:18:28.37,Default,,0000,0000,0000,,It'd sound a little crude \Nif I said it myself...
+Dialogue: 0,0:18:28.60,0:18:30.58,Default,,0000,0000,0000,,I don't know if I'm ready for all that yet!
+Dialogue: 0,0:18:30.88,0:18:32.96,Default,,0000,0000,0000,,You've got something don't you, Fujikawa-san?
+Dialogue: 0,0:18:32.96,0:18:34.96,Default,,0000,0000,0000,,Like your stuff with DTM Research.
+Dialogue: 0,0:18:35.71,0:18:37.54,Default,,0000,0000,0000,,Not like what you're thinking!
+Dialogue: 0,0:18:37.83,0:18:41.17,Default,,0000,0000,0000,,You know I try my best to be a beauty,
+Dialogue: 0,0:18:41.17,0:18:45.02,Default,,0000,0000,0000,,but you get too beautiful,\Nand no one wants to approach you!
+Dialogue: 0,0:18:46.17,0:18:47.54,Default,,0000,0000,0000,,Cut around the 300Hz range...
+Dialogue: 0,0:18:47.54,0:18:48.58,Default,,0000,0000,0000,,Of course she's hard to approach...\NCut around the 300Hz range...
+Dialogue: 0,0:18:48.58,0:18:49.54,Default,,0000,0000,0000,,Of course she's hard to approach...\NAdd reverb to the pad to open up some space...
+Dialogue: 0,0:18:49.54,0:18:51.75,Default,,0000,0000,0000,,Making music with that weird face...\NAdd reverb to the pad to open up some space...
+Dialogue: 0,0:18:53.38,0:18:56.21,Default,,0000,0000,0000,,Well, I did get a love letter once,\Nif you want to hear about that...
+Dialogue: 0,0:18:56.21,0:18:58.33,Default,,0000,0000,0000,,Really? That's news to me.
+Dialogue: 0,0:18:58.75,0:19:00.71,Default,,0000,0000,0000,,It was around my second year in elementary.
+Dialogue: 0,0:19:00.71,0:19:03.12,Default,,0000,0000,0000,,A lot of things went through my head,
+Dialogue: 0,0:19:03.53,0:19:07.08,Default,,0000,0000,0000,,but I found it hard to believe\Nsomeone would be interested in me...
+Dialogue: 0,0:19:07.29,0:19:10.04,Default,,0000,0000,0000,,I thought maybe they had the wrong person.
+Dialogue: 0,0:19:10.04,0:19:11.92,Default,,0000,0000,0000,,Or that they lost a bet...
+Dialogue: 0,0:19:12.13,0:19:15.38,Default,,0000,0000,0000,,Luring me with sweet nothings \Njust to break my heart...
+Dialogue: 0,0:19:16.29,0:19:18.54,Default,,0000,0000,0000,,I didn't really have a reason to think that,
+Dialogue: 0,0:19:18.54,0:19:21.50,Default,,0000,0000,0000,,but maybe someone out there\Nwas tired of having me around...
+Dialogue: 0,0:19:21.88,0:19:24.21,Default,,0000,0000,0000,,So I gave it to my teacher.
+Dialogue: 0,0:19:24.52,0:19:26.75,Default,,0000,0000,0000,,What do I do, Miss...?
+Dialogue: 0,0:19:26.75,0:19:29.29,Default,,0000,0000,0000,,Are you okay?! Is someone bullying you?!
+Dialogue: 0,0:19:29.29,0:19:32.81,Default,,0000,0000,0000,,She's so negative! And super cringe-y!
+Dialogue: 0,0:19:33.67,0:19:36.61,Default,,0000,0000,0000,,And before I knew it, the party was over.
+Dialogue: 0,0:19:37.00,0:19:40.04,Default,,0000,0000,0000,,Maybe one day they'll tell \Nme about Teru-senpai.
+Dialogue: 0,0:19:40.04,0:19:42.38,Default,,0000,0000,0000,,She's the one who founded the club.
+Dialogue: 0,0:19:42.38,0:19:44.08,Default,,0000,0000,0000,,Shouldn't you ask them?
+Dialogue: 0,0:19:44.46,0:19:45.66,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:19:46.26,0:19:49.42,Default,,0000,0000,0000,,Seki-senpai told me we \Nhad something of hers...
+Dialogue: 0,0:19:56.33,0:19:57.86,Default,,0000,0000,0000,,What is it?!
+Dialogue: 0,0:19:58.66,0:20:00.58,Default,,0000,0000,0000,,I'm the king now!
+Dialogue: 0,0:20:01.71,0:20:04.42,Default,,0000,0000,0000,,Those look good on you no \Nmatter how you slice it!
+Dialogue: 0,0:20:04.42,0:20:05.71,Default,,0000,0000,0000,,I know that.
+Dialogue: 0,0:20:05.71,0:20:07.17,Default,,0000,0000,0000,,You're going to take them off?
+Dialogue: 0,0:20:07.58,0:20:10.88,Default,,0000,0000,0000,,Didn't you get those from the last Captain?
+Dialogue: 0,0:20:10.88,0:20:13.65,Default,,0000,0000,0000,,Even if you don't like them,\Nyou've kept them all this time.
+Dialogue: 0,0:20:13.96,0:20:17.38,Default,,0000,0000,0000,,Doesn't that mean they're important?
+Dialogue: 0,0:20:23.63,0:20:24.57,Default,,0000,0000,0000,,That's a secret.
+Dialogue: 0,0:20:24.79,0:20:28.29,Default,,0000,0000,0000,,I gotta say you wear it best, Honda-chan!
+Dialogue: 0,0:20:35.50,0:20:38.96,Default,,0000,0000,0000,,So you showed your dad the game?
+Dialogue: 0,0:20:38.96,0:20:42.17,Default,,0000,0000,0000,,Yeah. It's proof of how hard we worked!
+Dialogue: 0,0:20:43.00,0:20:44.75,Default,,0000,0000,0000,,The Magic of Stella...
+Dialogue: 0,0:20:44.75,0:20:46.25,Default,,0000,0000,0000,,Hm? Did you say something?
+Dialogue: 0,0:20:47.00,0:20:48.17,Default,,0000,0000,0000,,Nothing at all.
+Dialogue: 0,0:20:49.38,0:20:50.92,Default,,0000,0000,0000,,It sure is nice...
+Dialogue: 0,0:20:50.92,0:20:54.13,Default,,0000,0000,0000,,My family's not too open-minded\Nabout subculture stuff...
+Dialogue: 0,0:20:54.83,0:20:58.67,Default,,0000,0000,0000,,I remember we got into this big fight\Nwhen they told me to throw out my manga...
+Dialogue: 0,0:20:59.17,0:21:01.33,Default,,0000,0000,0000,,I told them it wasn't affecting \Nmy grades or anything.
+Dialogue: 0,0:21:01.33,0:21:03.08,Default,,0000,0000,0000,,I was so stubborn...
+Dialogue: 0,0:21:03.08,0:21:07.57,Default,,0000,0000,0000,,I ended up shouting them down\Nand now I guess they kind of tolerate it.
+Dialogue: 0,0:21:07.83,0:21:13.18,Default,,0000,0000,0000,,I guess I'll have to draw lots of pictures of old guys\Nto convince my dad if that happens!
+Dialogue: 0,0:21:13.18,0:21:15.54,Default,,0000,0000,0000,,Do you think that'll work, Tama-chan?
+Dialogue: 0,0:21:15.83,0:21:17.79,Default,,0000,0000,0000,,Sorry, Yumine.
+Dialogue: 0,0:21:17.79,0:21:19.92,Default,,0000,0000,0000,,I need to stop in the stationery store!
+Dialogue: 0,0:21:19.92,0:21:21.63,Default,,0000,0000,0000,,Then I'll come with you!
+Dialogue: 0,0:21:21.63,0:21:23.92,Default,,0000,0000,0000,,It might take some time...
+Dialogue: 0,0:21:23.92,0:21:25.88,Default,,0000,0000,0000,,Don't you have a curfew?
+Dialogue: 0,0:21:25.88,0:21:28.76,Default,,0000,0000,0000,,Well... I guess we'll have to split up here.
+Dialogue: 0,0:21:29.20,0:21:30.21,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:21:30.63,0:21:31.71,Default,,0000,0000,0000,,Later!
+Dialogue: 0,0:21:32.71,0:21:35.19,Default,,0000,0000,0000,,A club that makes doujin games.
+Dialogue: 0,0:21:35.54,0:21:38.46,Default,,0000,0000,0000,,A lot of work, and all that crunch time...
+Dialogue: 0,0:21:38.46,0:21:40.11,Default,,0000,0000,0000,,It must be hard,
+Dialogue: 0,0:21:40.92,0:21:46.03,Default,,0000,0000,0000,,but it has to be good if it makes\NTama-chan smile like that!
+Dialogue: 0,0:21:47.13,0:21:48.63,Default,,0000,0000,0000,,I'll take this!
+Dialogue: 0,0:22:04.54,0:22:06.33,Default,,0000,0000,0000,,To-do-i-te i-ma-su ka
+Dialogue: 0,0:22:06.33,0:22:09.63,Default,,0000,0000,0000,,Akogare shisen tsumasaki senobi
+Dialogue: 0,0:22:09.63,0:22:11.54,Default,,0000,0000,0000,,Fu-ra-ra na-ga-sa-re
+Dialogue: 0,0:22:11.54,0:22:17.17,Default,,0000,0000,0000,,Muchuu no umi o oyogu
+Dialogue: 0,0:22:45.71,0:22:50.54,Default,,0000,0000,0000,,Rurabii
+Dialogue: 0,0:22:55.83,0:23:00.83,Default,,0000,0000,0000,,Yurara
+Dialogue: 0,0:23:24.04,0:23:26.96,Default,,0000,0000,0000,,I've always felt this way...
+Dialogue: 0,0:23:26.96,0:23:27.83,Default,,0000,0000,0000,,I love you!
+Dialogue: 0,0:23:27.83,0:23:29.08,Default,,0000,0000,0000,,I need to fix this!
+Dialogue: 0,0:23:29.08,0:23:29.79,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:23:29.79,0:23:30.63,Default,,0000,0000,0000,,They're going to make a kid?!
+Dialogue: 0,0:23:30.63,0:23:33.04,Default,,0000,0000,0000,,Bet you felt real good \Nmaking a fool out of me!
+Dialogue: 0,0:23:33.04,0:23:35.42,Default,,0000,0000,0000,,First Memories

@@ -1,0 +1,459 @@
+[Script Info]
+Title: English (US)
+Original Script: Sentai  [http://www.crunchyroll.com/user/Sentai]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.63,0:00:05.67,Default,,0000,0000,0000,,It's early, but the rainy \Nseason is in full swing.
+Dialogue: 0,0:00:05.88,0:00:08.13,OS,,0000,0000,0000,,Oolong\NTea\NPlum and\NCherry Blossom\NHabanero
+Dialogue: 0,0:00:08.71,0:00:10.63,Default,,0000,0000,0000,,I pick a hot drink today.
+Dialogue: 0,0:00:13.25,0:00:15.54,Default,,0000,0000,0000,,The stray cat greets me on my way to school.
+Dialogue: 0,0:00:16.13,0:00:18.17,Default,,0000,0000,0000,,It's a day like any other.
+Dialogue: 0,0:00:18.96,0:00:24.21,Default,,0000,0000,0000,,But I guess I could say my kouhai Honda-san\Nand I are getting along a bit better.
+Dialogue: 0,0:00:25.67,0:00:28.92,Default,,0000,0000,0000,,It's been three months since\Nmy appointment as Captain...
+Dialogue: 0,0:00:28.92,0:00:31.13,Default,,0000,0000,0000,,I feel like I'm getting \Ninto the rhythm of it...
+Dialogue: 0,0:00:31.13,0:00:33.17,Default,,0000,0000,0000,,Captain!
+Dialogue: 0,0:00:36.13,0:00:37.96,Default,,0000,0000,0000,,Honda-san? What's wrong?
+Dialogue: 0,0:00:37.96,0:00:39.50,Default,,0000,0000,0000,,Captain...
+Dialogue: 0,0:00:41.29,0:00:46.83,Default,,0000,0000,0000,,If I couldn't draw anymore,\Nwould you guys hate me?
+Dialogue: 0,0:00:47.33,0:00:48.96,Default,,0000,0000,0000,,Would you say you don't need me?
+Dialogue: 0,0:00:48.96,0:00:50.25,Default,,0000,0000,0000,,W-well...
+Dialogue: 0,0:00:50.54,0:00:54.21,Default,,0000,0000,0000,,You wouldn't leave me, would you?
+Dialogue: 0,0:00:54.21,0:00:57.29,Default,,0000,0000,0000,,Would you still be my Captain?
+Dialogue: 0,0:00:57.29,0:01:00.17,Default,,0000,0000,0000,,Let's find it, make my day
+Dialogue: 0,0:01:00.17,0:01:03.67,Default,,0000,0000,0000,,Thank you me for being clumsy
+Dialogue: 0,0:01:00.67,0:01:01.96,Default,,0000,0000,0000,,Honda-san...
+Dialogue: 0,0:01:02.46,0:01:05.54,Default,,0000,0000,0000,,This isn't the place for all of that.\NLet's get you to school!
+Dialogue: 0,0:01:03.67,0:01:11.63,Default,,0000,0000,0000,,Because there's a world where \Nonly love will carry on
+Dialogue: 0,0:01:05.54,0:01:06.42,Default,,0000,0000,0000,,Did she make her cry?
+Dialogue: 0,0:01:06.42,0:01:07.63,Default,,0000,0000,0000,,And such an adorable girl, too...
+Dialogue: 0,0:01:07.63,0:01:09.13,Default,,0000,0000,0000,,Maybe it's a lover's spat...
+Dialogue: 0,0:01:23.75,0:01:26.63,Default,,0000,0000,0000,,Left all alone like that
+Dialogue: 0,0:01:26.63,0:01:29.38,Default,,0000,0000,0000,,But you still can't leave it be
+Dialogue: 0,0:01:29.38,0:01:34.04,Default,,0000,0000,0000,,Yes or no, it's always hiding
+Dialogue: 0,0:01:35.17,0:01:37.88,Default,,0000,0000,0000,,If you could say it was okay
+Dialogue: 0,0:01:37.88,0:01:40.71,Default,,0000,0000,0000,,You could think it was okay
+Dialogue: 0,0:01:40.71,0:01:45.75,Default,,0000,0000,0000,,Strange that it was just that quick
+Dialogue: 0,0:01:45.75,0:01:51.71,Default,,0000,0000,0000,,The feeling of chasing this kind of thrill
+Dialogue: 0,0:01:51.71,0:01:58.92,Default,,0000,0000,0000,,Will be more than you could \Nhave imagined yesterday
+Dialogue: 0,0:01:59.50,0:02:02.17,Default,,0000,0000,0000,,Hello, make my day
+Dialogue: 0,0:02:02.17,0:02:05.83,Default,,0000,0000,0000,,The magic that we all hold
+Dialogue: 0,0:02:05.83,0:02:10.50,Default,,0000,0000,0000,,You'll see the greatest \Nsomething of your life
+Dialogue: 0,0:02:10.50,0:02:13.54,Default,,0000,0000,0000,,We'll find it, make my day
+Dialogue: 0,0:02:13.54,0:02:17.04,Default,,0000,0000,0000,,Thank you me for being clumsy
+Dialogue: 0,0:02:17.04,0:02:25.54,Default,,0000,0000,0000,,There's a world waiting where \Nonly love will carry on
+Dialogue: 0,0:02:27.96,0:02:30.92,Default,,0000,0000,0000,,Skill Up, Part 2
+Dialogue: 0,0:02:34.08,0:02:35.33,Default,,0000,0000,0000,,A slump?
+Dialogue: 0,0:02:35.96,0:02:41.08,Default,,0000,0000,0000,,Yeah, I kept thinking of how much better\Nthat girl was at drawing than me...
+Dialogue: 0,0:02:41.08,0:02:43.00,Default,,0000,0000,0000,,Now I can't draw...
+Dialogue: 0,0:02:43.50,0:02:46.21,Default,,0000,0000,0000,,And I had a nightmare this morning...
+Dialogue: 0,0:02:49.25,0:02:51.29,Default,,0000,0000,0000,,You can't draw, Tamaki Honda!
+Dialogue: 0,0:02:51.29,0:02:53.50,Default,,0000,0000,0000,,The SNS Club is done with you!
+Dialogue: 0,0:02:53.50,0:02:55.21,Default,,0000,0000,0000,,Yaaay! Yaaay!
+Dialogue: 0,0:02:56.67,0:02:58.33,Default,,0000,0000,0000,,Sorry, Honda-san.
+Dialogue: 0,0:02:58.33,0:03:00.75,Default,,0000,0000,0000,,We choose to be with her.
+Dialogue: 0,0:03:01.21,0:03:02.63,Default,,0000,0000,0000,,Wait, Captain!
+Dialogue: 0,0:03:02.63,0:03:05.25,Default,,0000,0000,0000,,Wait! Please don't leave me!
+Dialogue: 0,0:03:06.67,0:03:08.92,Default,,0000,0000,0000,,C-Captain?! Is that blood?!
+Dialogue: 0,0:03:09.13,0:03:10.46,Default,,0000,0000,0000,,I-I'm okay.
+Dialogue: 0,0:03:10.63,0:03:12.58,Default,,0000,0000,0000,,Went down the wrong hole...
+Dialogue: 0,0:03:10.63,0:03:14.04,OS,,0000,0000,0000,,Plum and\NCherry Blossom\NHabanero
+Dialogue: 0,0:03:17.46,0:03:19.42,Default,,0000,0000,0000,,What should I tell her?
+Dialogue: 0,0:03:19.42,0:03:21.92,Default,,0000,0000,0000,,"You'll be out of that slump in no time?"
+Dialogue: 0,0:03:21.92,0:03:25.17,Default,,0000,0000,0000,,That'd be a bald-faced lie...\NI don't know that for sure.
+Dialogue: 0,0:03:25.63,0:03:29.83,Default,,0000,0000,0000,,Why don't you start by getting \Nher out of your head?
+Dialogue: 0,0:03:29.83,0:03:32.04,Default,,0000,0000,0000,,We've got those aptitude \Ntests coming up, after all.
+Dialogue: 0,0:03:32.04,0:03:34.08,Default,,0000,0000,0000,,Okay. I'll try...
+Dialogue: 0,0:03:34.29,0:03:37.04,Default,,0000,0000,0000,,I think I might've given her bad advice...
+Dialogue: 0,0:03:37.04,0:03:39.08,Default,,0000,0000,0000,,Programmers don't even have slumps...
+Dialogue: 0,0:03:39.08,0:03:41.08,Default,,0000,0000,0000,,Maybe Fujikawa-san or Aya \Ncould've done better...
+Dialogue: 0,0:03:44.33,0:03:46.04,Default,,0000,0000,0000,,Hey! Listen up, everybody!
+Dialogue: 0,0:03:46.04,0:03:49.83,Default,,0000,0000,0000,,Stardust Desires is such a work of art,\NI think future generations
+Dialogue: 0,0:03:49.83,0:03:51.75,Default,,0000,0000,0000,,should know about it!
+Dialogue: 0,0:03:52.83,0:03:55.46,Default,,0000,0000,0000,,Aya would drop dead if she saw this...
+Dialogue: 0,0:03:55.46,0:03:56.67,Default,,0000,0000,0000,,Minaha-chan?!
+Dialogue: 0,0:03:56.67,0:03:58.75,Default,,0000,0000,0000,,What are you doing in my classroom?
+Dialogue: 0,0:03:58.75,0:04:01.00,Default,,0000,0000,0000,,A mere coincidence, Tamaki Honda.
+Dialogue: 0,0:04:01.29,0:04:07.13,Default,,0000,0000,0000,,A battle demands not only \Nstrength, but good allies...
+Dialogue: 0,0:04:07.29,0:04:09.46,Default,,0000,0000,0000,,Which is why I've been singing \Nthe gospel of this book!
+Dialogue: 0,0:04:07.29,0:04:09.46,On Top,,0000,0000,0000,,The Cat's Pen Collective\N(Issue 28)
+Dialogue: 0,0:04:09.79,0:04:12.75,Default,,0000,0000,0000,,Don't tell me you're here to battle me again?
+Dialogue: 0,0:04:12.75,0:04:14.92,Default,,0000,0000,0000,,Oh, no... I've come for something big-
+Dialogue: 0,0:04:14.92,0:04:15.71,Default,,0000,0000,0000,,Hey!\NOh, no... I've come for something big-
+Dialogue: 0,0:04:15.71,0:04:16.29,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:04:16.58,0:04:18.58,Default,,0000,0000,0000,,What are you doing to Tama-chan?!
+Dialogue: 0,0:04:18.83,0:04:19.75,Default,,0000,0000,0000,,Yumine?!
+Dialogue: 0,0:04:19.92,0:04:21.39,Default,,0000,0000,0000,,Ha-san! Being little miss \Nself-important in the
+Dialogue: 0,0:04:21.39,0:04:23.49,Default,,0000,0000,0000,,Illustration Club wasn't \Nenough for you, was it?!
+Dialogue: 0,0:04:23.49,0:04:24.41,Default,,0000,0000,0000,,Now you have to come after Tama-chan!
+Dialogue: 0,0:04:24.54,0:04:26.46,Default,,0000,0000,0000,,What'd I do?!
+Dialogue: 0,0:04:26.71,0:04:28.63,Default,,0000,0000,0000,,And let me say this...
+Dialogue: 0,0:04:28.63,0:04:31.00,Default,,0000,0000,0000,,Hikono-kun gets passed around.
+Dialogue: 0,0:04:34.08,0:04:36.25,Default,,0000,0000,0000,,Okay, okay... How about \Nwe stop with the fighting?
+Dialogue: 0,0:04:36.25,0:04:37.92,Default,,0000,0000,0000,,You! I can't believe you!
+Dialogue: 0,0:04:37.92,0:04:40.46,Default,,0000,0000,0000,,Wha...? There is only the \Npure love of Oji x Hiko!
+Dialogue: 0,0:04:40.46,0:04:42.25,Default,,0000,0000,0000,,That's straight from the artist!
+Dialogue: 0,0:04:42.58,0:04:46.90,On Top,,0000,0000,0000,,You are so naïve, reading \Nall that extra stuff.
+Dialogue: 0,0:04:43.17,0:04:46.90,Default,,0000,0000,0000,,Oh, Yumine knows her since \Nthey're in the same club...
+Dialogue: 0,0:04:46.90,0:04:48.76,Default,,0000,0000,0000,,Why don't you stick to canon?!
+Dialogue: 0,0:04:49.79,0:04:52.75,Default,,0000,0000,0000,,And she calls her Ha-chan \Nsince her name is Minaha!
+Dialogue: 0,0:04:53.21,0:04:55.71,Default,,0000,0000,0000,,And why are you using "chan," Tamaki Honda?!
+Dialogue: 0,0:04:55.71,0:04:57.25,Default,,0000,0000,0000,,Don't you think you're being too-
+Dialogue: 0,0:04:57.25,0:04:59.92,Default,,0000,0000,0000,,Okay, okay. Let's get you \Nback to your classroom.
+Dialogue: 0,0:04:59.92,0:05:01.96,Default,,0000,0000,0000,,I'm really sorry for the ruckus, Captain...
+Dialogue: 0,0:05:02.42,0:05:03.42,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:03.42,0:05:05.83,Default,,0000,0000,0000,,Class is starting, Tama-chan!
+Dialogue: 0,0:05:06.79,0:05:09.63,Default,,0000,0000,0000,,Honda-san seems to have a lot of friends.
+Dialogue: 0,0:05:09.63,0:05:11.17,Default,,0000,0000,0000,,I'm sure she'll be fine.
+Dialogue: 0,0:05:11.17,0:05:14.00,Default,,0000,0000,0000,,She didn't even need to ask me for help...
+Dialogue: 0,0:05:14.00,0:05:15.58,Default,,0000,0000,0000,,Morning, Shii!
+Dialogue: 0,0:05:16.00,0:05:18.67,Default,,0000,0000,0000,,I couldn't give her good advice...
+Dialogue: 0,0:05:18.67,0:05:22.58,Default,,0000,0000,0000,,I think I might've even \Nmade the problem worse...
+Dialogue: 0,0:05:22.58,0:05:25.25,Default,,0000,0000,0000,,Maybe there was another way \Nto make her feel better...
+Dialogue: 0,0:05:25.25,0:05:27.83,Default,,0000,0000,0000,,We probably shouldn't have \Ninvited her into the club...
+Dialogue: 0,0:05:27.83,0:05:28.58,Default,,0000,0000,0000,,Wha?
+Dialogue: 0,0:05:31.33,0:05:33.63,Default,,0000,0000,0000,,Slumps happen to everybody...
+Dialogue: 0,0:05:33.88,0:05:36.29,Default,,0000,0000,0000,,Not that it's not a big \Ndeal when you're in one.
+Dialogue: 0,0:05:36.29,0:05:37.63,Default,,0000,0000,0000,,I hope she gets out of it...
+Dialogue: 0,0:05:37.63,0:05:41.79,Default,,0000,0000,0000,,Well, we can have a good talk\Nwhen she comes to the club room.
+Dialogue: 0,0:05:42.38,0:05:44.00,Default,,0000,0000,0000,,And if she doesn't?
+Dialogue: 0,0:05:44.38,0:05:48.00,Default,,0000,0000,0000,,I think that's about enough \Nof the negative forecasts.
+Dialogue: 0,0:05:48.75,0:05:50.04,Default,,0000,0000,0000,,Yo!
+Dialogue: 0,0:05:50.04,0:05:51.67,Default,,0000,0000,0000,,S..Seki-senpai!
+Dialogue: 0,0:05:52.04,0:05:54.08,Default,,0000,0000,0000,,You're not coming in, Honda-san?
+Dialogue: 0,0:05:54.08,0:05:58.88,Default,,0000,0000,0000,,Well, I don't think it's right for me\Nto come in right now...
+Dialogue: 0,0:05:58.88,0:06:01.38,Default,,0000,0000,0000,,I mean... I tried to draw...
+Dialogue: 0,0:06:02.38,0:06:05.46,Default,,0000,0000,0000,,But all of my drawings turned out like this!
+Dialogue: 0,0:06:05.46,0:06:07.58,Default,,0000,0000,0000,,Not really sure what's different...
+Dialogue: 0,0:06:09.54,0:06:11.21,Default,,0000,0000,0000,,Hey, Honda-san...
+Dialogue: 0,0:06:11.21,0:06:12.71,Default,,0000,0000,0000,,Do you like me?
+Dialogue: 0,0:06:16.29,0:06:17.88,Default,,0000,0000,0000,,I do like you.
+Dialogue: 0,0:06:17.88,0:06:22.42,Default,,0000,0000,0000,,I thought you looked really cool\Nworking so hard during crunch time...
+Dialogue: 0,0:06:23.04,0:06:26.54,Default,,0000,0000,0000,,Is it... is it okay if I like you?
+Dialogue: 0,0:06:26.54,0:06:30.17,Default,,0000,0000,0000,,If you like someone there's\Nnothing wrong with telling them.
+Dialogue: 0,0:06:30.17,0:06:32.75,Default,,0000,0000,0000,,You worked hard then, and \Nyou're working hard now.
+Dialogue: 0,0:06:32.75,0:06:35.58,Default,,0000,0000,0000,,That's what I like about you.
+Dialogue: 0,0:06:35.79,0:06:38.33,Default,,0000,0000,0000,,What happened to the \NHonda-san from back then?
+Dialogue: 0,0:06:38.33,0:06:40.38,Default,,0000,0000,0000,,She's still here, and her right hand\Nis still working, isn't it?
+Dialogue: 0,0:06:40.71,0:06:41.75,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:06:41.75,0:06:44.46,Default,,0000,0000,0000,,Then you'll be out of that slump in no time.
+Dialogue: 0,0:06:44.75,0:06:47.04,Default,,0000,0000,0000,,That's right! You haven't \Nhad lunch yet, have you?
+Dialogue: 0,0:06:47.04,0:06:49.42,Default,,0000,0000,0000,,I made a little too much.\NYou can have some if you want.
+Dialogue: 0,0:06:49.42,0:06:51.17,Default,,0000,0000,0000,,Wow, are you sure?
+Dialogue: 0,0:06:51.67,0:06:53.63,Default,,0000,0000,0000,,I'm no match for her...
+Dialogue: 0,0:06:58.75,0:07:00.38,Default,,0000,0000,0000,,That was so good!
+Dialogue: 0,0:07:00.38,0:07:02.25,Default,,0000,0000,0000,,I need to get back to class now...
+Dialogue: 0,0:07:02.25,0:07:04.04,Default,,0000,0000,0000,,Alright, see you after school!
+Dialogue: 0,0:07:04.04,0:07:05.17,Default,,0000,0000,0000,,See you later!
+Dialogue: 0,0:07:08.83,0:07:09.83,Default,,0000,0000,0000,,Captain...
+Dialogue: 0,0:07:09.83,0:07:10.46,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:07:10.46,0:07:14.13,Default,,0000,0000,0000,,I feel like you'd do a much \Nbetter job than I could.
+Dialogue: 0,0:07:14.13,0:07:15.67,Default,,0000,0000,0000,,Aw, no way...
+Dialogue: 0,0:07:15.67,0:07:19.21,Default,,0000,0000,0000,,I mean, you're the one who's good\Nwith the nitty-gritty, Shii.
+Dialogue: 0,0:07:19.21,0:07:21.92,Default,,0000,0000,0000,,That's why I respect you, \Neven with stuff like this.
+Dialogue: 0,0:07:22.29,0:07:25.38,Default,,0000,0000,0000,,You take care of the scheduling,\Nyou plan stuff for the whole year.
+Dialogue: 0,0:07:25.38,0:07:27.08,Default,,0000,0000,0000,,Oh, about that...
+Dialogue: 0,0:07:27.08,0:07:28.67,Default,,0000,0000,0000,,I need to tell you about Summer Comiket-
+Dialogue: 0,0:07:28.67,0:07:30.42,Default,,0000,0000,0000,,There's just one more thing.
+Dialogue: 0,0:07:30.42,0:07:32.75,Default,,0000,0000,0000,,Smile a little more and you'll be perfect!
+Dialogue: 0,0:07:32.92,0:07:36.04,Default,,0000,0000,0000,,Oh, dear me. I do believe \Nwe're behind schedule.
+Dialogue: 0,0:07:36.63,0:07:38.29,Default,,0000,0000,0000,,Who is THAT supposed to be?!
+Dialogue: 0,0:07:38.58,0:07:41.88,Default,,0000,0000,0000,,Don't say that. All you need's a smile!
+Dialogue: 0,0:07:41.88,0:07:42.88,Default,,0000,0000,0000,,You're creeping me out.
+Dialogue: 0,0:07:42.88,0:07:45.29,Default,,0000,0000,0000,,Lunch is almost over, Ha-chan!
+Dialogue: 0,0:07:45.29,0:07:48.79,Default,,0000,0000,0000,,Do not call me Ha-chan! I'm \Na first year, same as you!
+Dialogue: 0,0:07:48.79,0:07:50.00,Default,,0000,0000,0000,,What? You are?!
+Dialogue: 0,0:07:50.00,0:07:51.67,Default,,0000,0000,0000,,What did you think I was?!
+Dialogue: 0,0:07:51.67,0:07:53.63,Default,,0000,0000,0000,,Hm? Did you forget something, Honda-san?
+Dialogue: 0,0:07:53.63,0:07:55.46,Default,,0000,0000,0000,,Sorry for the ruckus.
+Dialogue: 0,0:07:55.46,0:07:57.92,Default,,0000,0000,0000,,Ha-chan said she wanted to\Ncome to the club room.
+Dialogue: 0,0:07:58.08,0:08:00.46,Default,,0000,0000,0000,,You're a sneaky one, aren't you?!
+Dialogue: 0,0:08:00.46,0:08:02.54,Default,,0000,0000,0000,,I wanted to meet the great Iris...
+Dialogue: 0,0:08:03.88,0:08:07.58,Default,,0000,0000,0000,,Is that the girl from before?\NKind of hard to tell without my glasses...
+Dialogue: 0,0:08:08.88,0:08:11.08,Default,,0000,0000,0000,,Don't tell me YOU'RE Iris?!
+Dialogue: 0,0:08:11.96,0:08:15.96,Default,,0000,0000,0000,,W-well... I am. Possibly...
+Dialogue: 0,0:08:15.96,0:08:17.29,Default,,0000,0000,0000,,Who is she supposed to be?
+Dialogue: 0,0:08:17.29,0:08:20.00,Default,,0000,0000,0000,,Your book is my bible, Ma'am!
+Dialogue: 0,0:08:20.00,0:08:21.08,Default,,0000,0000,0000,,Could you please sign it?!
+Dialogue: 0,0:08:21.08,0:08:23.50,Default,,0000,0000,0000,,Oh, but of course!
+Dialogue: 0,0:08:23.79,0:08:25.38,Default,,0000,0000,0000,,This is so great...
+Dialogue: 0,0:08:25.38,0:08:28.83,Default,,0000,0000,0000,,I've made up my mind. I'm \Njoining the SNS Club!
+Dialogue: 0,0:08:28.83,0:08:32.46,Default,,0000,0000,0000,,I want to make a game out of your story!
+Dialogue: 0,0:08:32.46,0:08:33.29,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:08:33.29,0:08:35.38,Default,,0000,0000,0000,,Y-you can't just decide for yourself!
+Dialogue: 0,0:08:35.38,0:08:37.08,Default,,0000,0000,0000,,Besides, I'm the artist!
+Dialogue: 0,0:08:37.08,0:08:38.96,Default,,0000,0000,0000,,Oh, listen to Honda-san!
+Dialogue: 0,0:08:38.96,0:08:41.96,Default,,0000,0000,0000,,No! I want to do the art! \NI want to make the game!
+Dialogue: 0,0:08:41.96,0:08:46.25,Default,,0000,0000,0000,,I've dreamed and dreamed of\Nmaking something with the great Iris!
+Dialogue: 0,0:08:46.46,0:08:50.13,Default,,0000,0000,0000,,Well, what if you did the art together?\NYou wouldn't need to fight then.
+Dialogue: 0,0:08:50.13,0:08:51.13,Default,,0000,0000,0000,,Wha-
+Dialogue: 0,0:08:51.13,0:08:53.29,Default,,0000,0000,0000,,Is it okay for us to do that?
+Dialogue: 0,0:08:53.29,0:08:56.17,Default,,0000,0000,0000,,Well, if you can do the same style of coloring,\Nmultiple artists shouldn't be a-
+Dialogue: 0,0:08:56.17,0:08:57.25,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:08:57.42,0:08:58.79,Default,,0000,0000,0000,,Wait, I say!
+Dialogue: 0,0:08:58.79,0:09:01.71,Default,,0000,0000,0000,,You wish to make a game \Nbased on such an old story?
+Dialogue: 0,0:09:01.71,0:09:05.75,Default,,0000,0000,0000,,You believe that Iris, the living storyteller,\Nwould permit such a thing?!
+Dialogue: 0,0:09:05.75,0:09:06.92,Default,,0000,0000,0000,,I say!
+Dialogue: 0,0:09:06.92,0:09:09.00,Default,,0000,0000,0000,,Is there anything I can do?!
+Dialogue: 0,0:09:09.71,0:09:12.83,Default,,0000,0000,0000,,I've always loved your work!
+Dialogue: 0,0:09:12.83,0:09:16.38,Default,,0000,0000,0000,,But my love, my efforts have \Nyet to reach their peak!
+Dialogue: 0,0:09:16.54,0:09:18.42,Default,,0000,0000,0000,,My heart hurts...
+Dialogue: 0,0:09:18.42,0:09:21.42,Default,,0000,0000,0000,,What was it you said, "If you like someone\Nthere's nothing wrong with telling them?"
+Dialogue: 0,0:09:21.42,0:09:23.13,Default,,0000,0000,0000,,Curse you...
+Dialogue: 0,0:09:23.67,0:09:25.42,Default,,0000,0000,0000,,That's right... I say!
+Dialogue: 0,0:09:25.42,0:09:27.19,Default,,0000,0000,0000,,We won't be able to show off
+Dialogue: 0,0:09:27.19,0:09:30.54,Default,,0000,0000,0000,,anything new we make because \Nwe're out of Summer Comiket!
+Dialogue: 0,0:09:30.54,0:09:32.79,Default,,0000,0000,0000,,There's no need for us to work \Nfaster than we have to...
+Dialogue: 0,0:09:32.79,0:09:34.29,Default,,0000,0000,0000,,About that...
+Dialogue: 0,0:09:34.29,0:09:37.27,Default,,0000,0000,0000,,we've been talking to a circle Fujikawa-san
+Dialogue: 0,0:09:37.27,0:09:40.47,Default,,0000,0000,0000,,is friendly with about \Nselling our games together.
+Dialogue: 0,0:09:40.63,0:09:43.67,Default,,0000,0000,0000,,That means that we might be able to\Nhave our game at Summer Comiket...
+Dialogue: 0,0:09:43.67,0:09:44.88,Default,,0000,0000,0000,,Is that true?!
+Dialogue: 0,0:09:44.88,0:09:46.25,Default,,0000,0000,0000,,That's such good news!
+Dialogue: 0,0:09:46.25,0:09:48.88,Default,,0000,0000,0000,,But it's in two months.
+Dialogue: 0,0:09:48.88,0:09:50.96,Default,,0000,0000,0000,,That's going to be a pretty tough schedule.
+Dialogue: 0,0:09:50.96,0:09:55.29,Default,,0000,0000,0000,,In which case I have no qualms\Nwith increasing our staff.
+Dialogue: 0,0:09:55.29,0:09:59.63,Default,,0000,0000,0000,,And two artists would cut\NHonda-san's workload in half.
+Dialogue: 0,0:10:00.21,0:10:03.30,Default,,0000,0000,0000,,Plus, since we already have a finished story,
+Dialogue: 0,0:10:03.30,0:10:07.04,Default,,0000,0000,0000,,we won't have a bottleneck \Ntrying to work out the plot.
+Dialogue: 0,0:10:08.96,0:10:12.04,Default,,0000,0000,0000,,Fine. Very well! You have my approval.
+Dialogue: 0,0:10:15.96,0:10:17.01,Default,,0000,0000,0000,,Then that's that.
+Dialogue: 0,0:10:16.46,0:10:20.46,OS,,0000,0000,0000,,Stardust Desires\Nby Iris
+Dialogue: 0,0:10:17.01,0:10:20.47,Default,,0000,0000,0000,,Our new game for Summer Comiket\Nwill be Stardust Desires.
+Dialogue: 0,0:10:20.75,0:10:24.92,Default,,0000,0000,0000,,However! Your entry into this club hinges on\Nyour meeting my expectations!
+Dialogue: 0,0:10:25.17,0:10:28.88,Default,,0000,0000,0000,,You work with Honda-san,\Neven after the game is finished!
+Dialogue: 0,0:10:29.13,0:10:30.58,Default,,0000,0000,0000,,Can you manage that?
+Dialogue: 0,0:10:30.58,0:10:32.88,Default,,0000,0000,0000,,Yes! I'll do my best!
+Dialogue: 0,0:10:44.96,0:10:46.17,Default,,0000,0000,0000,,Seki-senpai?!
+Dialogue: 0,0:10:46.38,0:10:48.17,Default,,0000,0000,0000,,That worked out well.
+Dialogue: 0,0:10:49.29,0:10:52.42,Default,,0000,0000,0000,,The SNS Club is going to Summer Comiket,
+Dialogue: 0,0:10:52.42,0:10:55.38,Default,,0000,0000,0000,,and it seems like things are going to be\Ndifferent from now on.
+Dialogue: 0,0:10:55.75,0:10:59.38,Default,,0000,0000,0000,,Actually, what is Summer Comiket all about?
+Dialogue: 0,0:11:04.50,0:11:06.25,Default,,0000,0000,0000,,Summer Comiket?
+Dialogue: 0,0:11:06.25,0:11:09.88,Default,,0000,0000,0000,,Well, it's a huge doujin convention\Nthey hold during the summer.
+Dialogue: 0,0:11:09.88,0:11:12.03,Default,,0000,0000,0000,,They've got all sorts of different \Nindustries there with
+Dialogue: 0,0:11:12.03,0:11:13.56,Default,,0000,0000,0000,,people coming from all over the world.
+Dialogue: 0,0:11:13.58,0:11:16.29,Default,,0000,0000,0000,,Wow, that sounds really amazing.
+Dialogue: 0,0:11:17.38,0:11:21.92,Default,,0000,0000,0000,,If I dilly-dally, Ha-chan might end up\Ndoing all of the artwork...
+Dialogue: 0,0:11:22.29,0:11:23.71,Default,,0000,0000,0000,,I need to work hard!
+Dialogue: 0,0:11:27.13,0:11:28.79,Default,,0000,0000,0000,,Good morning!
+Dialogue: 0,0:11:29.58,0:11:31.17,Default,,0000,0000,0000,,Good... huh?
+Dialogue: 0,0:11:33.67,0:11:34.92,Default,,0000,0000,0000,,Er... Yumine?
+Dialogue: 0,0:11:34.92,0:11:35.63,Default,,0000,0000,0000,,Hm?
+Dialogue: 0,0:11:35.63,0:11:38.50,Default,,0000,0000,0000,,Since when was a beautiful \Ngirl like that in our class?
+Dialogue: 0,0:11:39.13,0:11:41.46,Default,,0000,0000,0000,,Oh! That's Marika!
+Dialogue: 0,0:11:41.83,0:11:46.00,Default,,0000,0000,0000,,I read something that changed me...
+Dialogue: 0,0:11:45.58,0:11:51.92,OS,,0000,0000,0000,,Stardust Desires\N(Act 1)\Nby Iris
+Dialogue: 0,0:11:46.00,0:11:48.79,Default,,0000,0000,0000,,I'm going to live the stardust \Nlife from here on out!
+Dialogue: 0,0:11:48.79,0:11:51.92,Default,,0000,0000,0000,,You've changed another \Nperson's life, Seki-senpai!
+Dialogue: 0,0:11:52.25,0:11:58.13,OS,,0000,0000,0000,,Note: Yamato Nadeshiko is the feminine ideal of Japan.\NIt perfectly describes the Yamato Nadeshiko\Nthat every young girl should aspire to be, I say.
+Dialogue: 0,0:11:58.13,0:11:59.79,Default,,0000,0000,0000,,That's what it's about?!
+Dialogue: 0,0:12:00.08,0:12:03.08,Default,,0000,0000,0000,,Um... I think you might want \Nto keep that under wraps.
+Dialogue: 0,0:12:03.08,0:12:05.08,Default,,0000,0000,0000,,You know, make sure it's a secret...
+Dialogue: 0,0:12:05.08,0:12:07.38,Default,,0000,0000,0000,,But why?! It's such a good story!
+Dialogue: 0,0:12:08.17,0:12:09.83,Default,,0000,0000,0000,,Seki-senpai wouldn't be \Nhappy if people find out.
+Dialogue: 0,0:12:09.83,0:12:11.54,Default,,0000,0000,0000,,It's probably better not \Nto mention her by name.
+Dialogue: 0,0:12:11.92,0:12:15.29,Default,,0000,0000,0000,,W-well, it wouldn't be good for a\NYamato Nadeshiko to have too many rivals!
+Dialogue: 0,0:12:15.29,0:12:17.58,Default,,0000,0000,0000,,Oh, I get it! I'll be extra careful.
+Dialogue: 0,0:12:19.08,0:12:19.42,OS,,0000,0000,0000,,Inbox\NYou have a new message\NReceiving message...
+Dialogue: 0,0:12:19.42,0:12:27.50,OS,,0000,0000,0000,,Inbox\NYumine Fuda\NA girl in my class says that Seki-senpai\Ndescribed the Yamato Nadeshiko\Nevery girl should aspire to be\Nin one of her old stories!
+Dialogue: 0,0:12:20.08,0:12:23.54,Default,,0000,0000,0000,,A girl in my class says \Nthat Seki-senpai described
+Dialogue: 0,0:12:23.54,0:12:27.50,Default,,0000,0000,0000,,the Yamato Nadeshiko every girl should\Naspire to be in one of her old stories!
+Dialogue: 0,0:12:29.58,0:12:33.33,Default,,0000,0000,0000,,It looks really good, though! It's so silky!
+Dialogue: 0,0:12:33.46,0:12:35.17,Default,,0000,0000,0000,,Thank you kindly!
+Dialogue: 0,0:12:35.17,0:12:38.63,Default,,0000,0000,0000,,I had to get up at five \Nthis morning to do it!
+Dialogue: 0,0:12:38.83,0:12:40.58,Default,,0000,0000,0000,,So I'm super sleepy!
+Dialogue: 0,0:12:40.58,0:12:42.04,Default,,0000,0000,0000,,That's amazing!
+Dialogue: 0,0:12:42.04,0:12:45.04,Default,,0000,0000,0000,,Must be hard being a Nadeshiko...
+Dialogue: 0,0:12:45.42,0:12:47.58,Default,,0000,0000,0000,,As long as you're here, mind if I sketch you?
+Dialogue: 0,0:12:47.58,0:12:49.13,Default,,0000,0000,0000,,Hit me with it!
+Dialogue: 0,0:12:49.13,0:12:50.67,Default,,0000,0000,0000,,I guess I should, too...
+Dialogue: 0,0:12:50.67,0:12:52.46,Default,,0000,0000,0000,,What should I do with my face?
+Dialogue: 0,0:12:52.96,0:12:55.42,Default,,0000,0000,0000,,Should I make it like a shoujo manga?
+Dialogue: 0,0:12:55.42,0:12:57.67,Default,,0000,0000,0000,,No, you can just make a normal one.
+Dialogue: 0,0:12:57.67,0:12:59.83,Default,,0000,0000,0000,,She doesn't seem too \Ndifferent on the inside...
+Dialogue: 0,0:13:00.75,0:13:01.88,Default,,0000,0000,0000,,Beauties looking back!
+Dialogue: 0,0:13:01.88,0:13:02.58,Default,,0000,0000,0000,,Oh, are you sketching her?\NBeauties looking back!
+Dialogue: 0,0:13:02.58,0:13:03.67,Default,,0000,0000,0000,,Oh, are you sketching her?
+Dialogue: 0,0:13:03.67,0:13:04.54,Default,,0000,0000,0000,,Oh... Yeah...
+Dialogue: 0,0:13:04.83,0:13:07.46,Default,,0000,0000,0000,,Isn't her right arm kind of off?
+Dialogue: 0,0:13:07.46,0:13:11.21,Default,,0000,0000,0000,,Y-you're right. You know \Nhow to draw, Iino-san?
+Dialogue: 0,0:13:11.21,0:13:13.58,Default,,0000,0000,0000,,Well, my little sister \Nknows a thing or two...
+Dialogue: 0,0:13:13.58,0:13:14.83,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:13:14.83,0:13:18.00,Default,,0000,0000,0000,,Would you stop trying to peek?!\NYou know this is a sketch, right?!
+Dialogue: 0,0:13:18.00,0:13:21.00,Default,,0000,0000,0000,,I wasn't moving! Just \Nstretching my neck, is all!
+Dialogue: 0,0:13:21.29,0:13:23.25,Default,,0000,0000,0000,,A Yamato Nadeshiko? I don't know...
+Dialogue: 0,0:13:23.79,0:13:26.75,Default,,0000,0000,0000,,But her hair really is pretty.
+Dialogue: 0,0:13:26.75,0:13:28.79,Default,,0000,0000,0000,,Must be because she's a half...
+Dialogue: 0,0:13:28.79,0:13:30.71,Default,,0000,0000,0000,,Being half's got nothing to do with it!
+Dialogue: 0,0:13:30.71,0:13:32.50,Default,,0000,0000,0000,,You're beautiful, Honda-san!
+Dialogue: 0,0:13:32.50,0:13:34.04,Default,,0000,0000,0000,,You're a Yamato Nadeshiko!
+Dialogue: 0,0:13:34.04,0:13:35.63,Default,,0000,0000,0000,,I'm really not!
+Dialogue: 0,0:13:35.63,0:13:37.42,Default,,0000,0000,0000,,Plus I'm kind of having \Na bad hair day today...
+Dialogue: 0,0:13:37.42,0:13:40.17,Default,,0000,0000,0000,,Do you like to wear your \Nhair long, Honda-san?
+Dialogue: 0,0:13:40.46,0:13:43.67,Default,,0000,0000,0000,,Yup. I want to be a beautiful lady!
+Dialogue: 0,0:13:43.67,0:13:46.24,Default,,0000,0000,0000,,My mommy used to wear her hair long,
+Dialogue: 0,0:13:46.24,0:13:50.14,Default,,0000,0000,0000,,and I thought my daddy might \Nlike it if I did, too...
+Dialogue: 0,0:13:50.17,0:13:52.54,Default,,0000,0000,0000,,Alright, then! Let's switch!
+Dialogue: 0,0:14:05.13,0:14:07.63,Default,,0000,0000,0000,,You're embarrassing me!
+Dialogue: 0,0:14:07.63,0:14:09.08,Default,,0000,0000,0000,,Hold on, Tama-chan!
+Dialogue: 0,0:14:09.08,0:14:10.79,Default,,0000,0000,0000,,Do you think you could make a face like
+Dialogue: 0,0:14:10.79,0:14:14.71,Default,,0000,0000,0000,,the ecstasy of a boy just before he\Nplayfully teases another boy?
+Dialogue: 0,0:14:14.96,0:14:17.13,Default,,0000,0000,0000,,I've never done anything like that!
+Dialogue: 0,0:14:19.58,0:14:23.21,Default,,0000,0000,0000,,I-I'll never be a bride, Daddy...
+Dialogue: 0,0:14:23.21,0:14:25.79,Default,,0000,0000,0000,,Okay, okay. How about you settle down?
+Dialogue: 0,0:14:25.79,0:14:29.63,Default,,0000,0000,0000,,Fine, then. Could you \Nhelp her out, Marika-san?
+Dialogue: 0,0:14:29.63,0:14:30.96,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:14:33.58,0:14:35.42,Default,,0000,0000,0000,,Cheer up!
+Dialogue: 0,0:14:35.67,0:14:39.29,Default,,0000,0000,0000,,Try holding Marika-san's tie \Nall cool-like, Tama-chan!
+Dialogue: 0,0:14:39.29,0:14:40.71,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:14:41.75,0:14:43.92,Default,,0000,0000,0000,,L-like this?
+Dialogue: 0,0:14:43.92,0:14:46.79,Default,,0000,0000,0000,,We're like the prince and the princess!
+Dialogue: 0,0:14:48.29,0:14:50.00,Default,,0000,0000,0000,,Looking good, girls!
+Dialogue: 0,0:14:51.42,0:14:53.67,Default,,0000,0000,0000,,You don't think that's a little unrealistic?
+Dialogue: 0,0:14:54.46,0:14:56.33,Default,,0000,0000,0000,,Class is starting, people!
+Dialogue: 0,0:14:56.79,0:14:58.63,Default,,0000,0000,0000,,Thanks, Tama-chan!
+Dialogue: 0,0:14:59.00,0:15:02.00,Default,,0000,0000,0000,,Aw, I wish you could've \Nadded some more detail!
+Dialogue: 0,0:15:02.00,0:15:04.42,Default,,0000,0000,0000,,You're a pretty good artist, Shimizu-san!
+Dialogue: 0,0:15:04.63,0:15:06.71,Default,,0000,0000,0000,,Thank you kindly! There it is!
+Dialogue: 0,0:15:06.71,0:15:11.96,Default,,0000,0000,0000,,This is why they called me Alstroemeria des\NConcours D'arts in elementary school!
+Dialogue: 0,0:15:11.96,0:15:13.83,Default,,0000,0000,0000,,Not Yamato Nadeshiko?
+Dialogue: 0,0:15:14.50,0:15:17.42,Default,,0000,0000,0000,,Isn't she a better artist than you?
+Dialogue: 0,0:15:17.42,0:15:19.29,Default,,0000,0000,0000,,I mean, you can't even-
+Dialogue: 0,0:15:20.04,0:15:21.17,Default,,0000,0000,0000,,Honda-san?
+Dialogue: 0,0:15:21.50,0:15:22.63,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:15:24.71,0:15:28.42,Default,,0000,0000,0000,,Iino-san? How do I draw better?
+Dialogue: 0,0:15:28.75,0:15:30.50,Default,,0000,0000,0000,,You're asking ME?
+Dialogue: 0,0:15:30.50,0:15:32.88,Default,,0000,0000,0000,,You said something about your sister...
+Dialogue: 0,0:15:32.88,0:15:34.79,Default,,0000,0000,0000,,Oh, well my sister...
+Dialogue: 0,0:15:34.79,0:15:38.00,Default,,0000,0000,0000,,It's like whenever I look \Nat her, she's drawing.
+Dialogue: 0,0:15:38.79,0:15:40.17,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:15:40.42,0:15:42.04,Default,,0000,0000,0000,,It's like studying.
+Dialogue: 0,0:15:42.04,0:15:45.79,Default,,0000,0000,0000,,If you like it and you keep doing it,\Nyou'll probably get better.
+Dialogue: 0,0:15:46.38,0:15:48.75,Default,,0000,0000,0000,,Er... even in class?
+Dialogue: 0,0:15:49.08,0:15:52.33,Default,,0000,0000,0000,,Oh, this just makes my notes\Na little easier on the eyes.
+Dialogue: 0,0:15:52.33,0:15:55.02,Default,,0000,0000,0000,,Actually, I can kind of tell a sketch is off
+Dialogue: 0,0:15:55.02,0:15:57.75,Default,,0000,0000,0000,,even if I'm just looking \Nover someone's shoulder.
+Dialogue: 0,0:15:57.75,0:15:58.81,Default,,0000,0000,0000,,Really...
+Dialogue: 0,0:15:59.00,0:16:00.54,Default,,0000,0000,0000,,Tell me, Honda-san.
+Dialogue: 0,0:16:00.54,0:16:02.71,Default,,0000,0000,0000,,Have you just been copying manga up to now?
+Dialogue: 0,0:16:03.21,0:16:04.79,Default,,0000,0000,0000,,How did you know?
+Dialogue: 0,0:16:04.79,0:16:06.83,Default,,0000,0000,0000,,Oh, just a hunch.
+Dialogue: 0,0:16:07.04,0:16:09.58,Default,,0000,0000,0000,,It really is like studying, though.
+Dialogue: 0,0:16:09.58,0:16:13.79,Default,,0000,0000,0000,,Even if you're bad at it or \Ndon't like it, you gotta do it.
+Dialogue: 0,0:16:14.25,0:16:16.38,Default,,0000,0000,0000,,Right, for example...
+Dialogue: 0,0:16:18.38,0:16:21.50,Default,,0000,0000,0000,,Like when you tell yourself,\N"I'm gonna pay attention in class!"
+Dialogue: 0,0:16:27.46,0:16:30.17,On Top,,0000,0000,0000,,SNS\NClub
+Dialogue: 0,0:16:33.67,0:16:38.13,Default,,0000,0000,0000,,I can start getting better by drawing\None more picture than I usually do.
+Dialogue: 0,0:16:38.13,0:16:41.92,Default,,0000,0000,0000,,You see that? You and me have\Ncompletely different styles.
+Dialogue: 0,0:16:41.92,0:16:44.33,Default,,0000,0000,0000,,Wha...?! What are you doing here?
+Dialogue: 0,0:16:44.33,0:16:47.63,Default,,0000,0000,0000,,I'm here to return a book\NMurakami-senpai let me borrow.
+Dialogue: 0,0:16:47.83,0:16:54.79,Default,,0000,0000,0000,,It's like she said, "it's not going to look strange\Nor weird if our coloring matches."
+Dialogue: 0,0:16:55.08,0:16:57.13,Default,,0000,0000,0000,,What's matching coloring?
+Dialogue: 0,0:16:57.13,0:16:59.50,Default,,0000,0000,0000,,Coloring is coloring. \NLike, digitally coloring!
+Dialogue: 0,0:16:59.79,0:17:03.29,Default,,0000,0000,0000,,Don't tell me you don't even know that?
+Dialogue: 0,0:17:03.88,0:17:06.33,Default,,0000,0000,0000,,I think they told me about it at camp.
+Dialogue: 0,0:17:06.33,0:17:11.79,Default,,0000,0000,0000,,But with the game we made\Nthey just used my pictures as-is.
+Dialogue: 0,0:17:12.79,0:17:14.42,Default,,0000,0000,0000,,That makes sense, actually...
+Dialogue: 0,0:17:18.71,0:17:21.38,Default,,0000,0000,0000,,Ha-chan! I have something I want to ask you!
+Dialogue: 0,0:17:24.29,0:17:27.42,Default,,0000,0000,0000,,You're going to want to \Nkeep the shading simple.
+Dialogue: 0,0:17:27.42,0:17:31.33,Default,,0000,0000,0000,,Now you make a copy of the \Nsketch layer and put it on top.
+Dialogue: 0,0:17:31.33,0:17:32.33,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:17:32.88,0:17:37.75,Default,,0000,0000,0000,,Then you use a smudged brush to\Nadd some reddish-orange to the bangs...
+Dialogue: 0,0:17:37.75,0:17:40.29,Default,,0000,0000,0000,,It gives it a nice, fuzzy feel.
+Dialogue: 0,0:17:40.92,0:17:42.92,Default,,0000,0000,0000,,I didn't know you could do that!
+Dialogue: 0,0:17:43.13,0:17:46.29,Default,,0000,0000,0000,,And last, I guess they're kind of highlights,
+Dialogue: 0,0:17:46.29,0:17:51.67,Default,,0000,0000,0000,,but adding a white border around the hair\Ncan really change the whole look.
+Dialogue: 0,0:17:54.50,0:17:56.42,Default,,0000,0000,0000,,Thought you might be in here!
+Dialogue: 0,0:17:56.58,0:17:57.67,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:17:57.67,0:18:00.21,Default,,0000,0000,0000,,Looks like you two are doing \Nsome serious research.
+Dialogue: 0,0:18:00.67,0:18:02.38,Default,,0000,0000,0000,,Feeling more chummy?
+Dialogue: 0,0:18:02.96,0:18:04.38,Default,,0000,0000,0000,,Wh-why would we?!
+Dialogue: 0,0:18:04.38,0:18:06.92,Default,,0000,0000,0000,,Well we brought some good news!
+Dialogue: 0,0:18:06.92,0:18:11.50,Default,,0000,0000,0000,,Temawari-san's letting us \Nput our game in her booth.
+Dialogue: 0,0:18:11.50,0:18:14.46,Default,,0000,0000,0000,,Temawari-san, she's pretty famous, right?
+Dialogue: 0,0:18:14.96,0:18:17.04,Default,,0000,0000,0000,,That's the one Yumine really, really likes.
+Dialogue: 0,0:18:17.21,0:18:21.13,Default,,0000,0000,0000,,But we're going to have to help her sell.
+Dialogue: 0,0:18:21.13,0:18:25.96,Default,,0000,0000,0000,,Really?! Then the great Iris' new game\Nis going to be on the world stage!
+Dialogue: 0,0:18:26.42,0:18:27.92,Default,,0000,0000,0000,,I don't have time for this!
+Dialogue: 0,0:18:27.92,0:18:29.92,Default,,0000,0000,0000,,You'd better hurry and get those skills up!
+Dialogue: 0,0:18:29.92,0:18:33.17,Default,,0000,0000,0000,,Sorry to say, but this is it \Nfor our club meeting today.
+Dialogue: 0,0:18:33.17,0:18:35.46,Default,,0000,0000,0000,,The school's closing early today.
+Dialogue: 0,0:18:35.46,0:18:36.17,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:18:36.17,0:18:37.29,Default,,0000,0000,0000,,But why?
+Dialogue: 0,0:18:37.75,0:18:39.29,Default,,0000,0000,0000,,"Why?"
+Dialogue: 0,0:18:39.54,0:18:41.50,Default,,0000,0000,0000,,We've got tests tomorrow.
+Dialogue: 0,0:18:47.50,0:18:51.21,Default,,0000,0000,0000,,It completely slipped my mind.\NWe've got tests tomorrow, don't we?
+Dialogue: 0,0:18:51.58,0:18:55.42,Default,,0000,0000,0000,,They're just aptitude tests. \NI'll figure something out.
+Dialogue: 0,0:18:55.96,0:19:00.17,Default,,0000,0000,0000,,But now it feels like I'm not that bad\Nan artist compared to Ha-chan.
+Dialogue: 0,0:19:00.17,0:19:03.92,Default,,0000,0000,0000,,It's impossible for me to learn\Nhow to color on my own, though...
+Dialogue: 0,0:19:05.04,0:19:08.25,OS,,0000,0000,0000,,Character Pose Collection\NBasic Poses\NA Guide to Being\Na Better Artist
+Dialogue: 0,0:19:05.58,0:19:07.71,Default,,0000,0000,0000,,It's like Iino-san said...
+Dialogue: 0,0:19:08.50,0:19:14.75,Default,,0000,0000,0000,,I've just copied manga until now,\NI never paid much attention to sketching.
+Dialogue: 0,0:19:15.04,0:19:16.75,Default,,0000,0000,0000,,Sketching...
+Dialogue: 0,0:19:19.71,0:19:23.21,Default,,0000,0000,0000,,This screen might be a little \Ntoo small for sketching.
+Dialogue: 0,0:19:25.96,0:19:27.79,Default,,0000,0000,0000,,Let me transfer it.
+Dialogue: 0,0:19:27.79,0:19:30.21,Default,,0000,0000,0000,,There's the file...
+Dialogue: 0,0:19:30.50,0:19:31.58,Default,,0000,0000,0000,,Now print...
+Dialogue: 0,0:19:31.58,0:19:32.88,Default,,0000,0000,0000,,Tama-chan!
+Dialogue: 0,0:19:32.88,0:19:35.21,Default,,0000,0000,0000,,I've got loquats if you'd like some?
+Dialogue: 0,0:19:35.58,0:19:37.50,Default,,0000,0000,0000,,S-sorry granny!
+Dialogue: 0,0:19:37.50,0:19:39.50,Default,,0000,0000,0000,,I think I'm fine for now!
+Dialogue: 0,0:19:43.75,0:19:47.04,Default,,0000,0000,0000,,Drawing yourself is harder than I thought!
+Dialogue: 0,0:19:47.33,0:19:49.13,Default,,0000,0000,0000,,I'm not even pretty!
+Dialogue: 0,0:19:49.13,0:19:51.25,Default,,0000,0000,0000,,Plus I'm kind of stumpy...
+Dialogue: 0,0:19:51.25,0:19:53.67,Default,,0000,0000,0000,,Wish I was taller...
+Dialogue: 0,0:19:54.21,0:19:56.67,Default,,0000,0000,0000,,And why are my hands so rough?!
+Dialogue: 0,0:19:56.67,0:19:59.58,Default,,0000,0000,0000,,Is it from drawing all those old guys?!
+Dialogue: 0,0:19:59.92,0:20:03.29,Default,,0000,0000,0000,,O-okay, one more picture and \Nthen I'll hit the books!
+Dialogue: 0,0:20:03.29,0:20:05.88,Default,,0000,0000,0000,,I'll try a harder pose this time!
+Dialogue: 0,0:20:39.83,0:20:42.88,Default,,0000,0000,0000,,I ended up drawing until I fell asleep.
+Dialogue: 0,0:20:43.08,0:20:46.54,Default,,0000,0000,0000,,But it's fine. The tests aren't \Non any specific chapters!
+Dialogue: 0,0:20:46.75,0:20:49.17,Default,,0000,0000,0000,,How much did you study, Yumine?
+Dialogue: 0,0:20:49.54,0:20:52.33,Default,,0000,0000,0000,,Don't talk to me. I'm trying to keep\Nthese formulas in my head!
+Dialogue: 0,0:20:53.50,0:20:56.50,Default,,0000,0000,0000,,Maybe I should take another \Nlook at my notes...
+Dialogue: 0,0:20:58.00,0:20:59.13,Default,,0000,0000,0000,,Honda-san...
+Dialogue: 0,0:21:00.17,0:21:03.88,Default,,0000,0000,0000,,You didn't mean to send a photo\Nanywhere you shouldn't have, did you?
+Dialogue: 0,0:21:13.25,0:21:16.46,Default,,0000,0000,0000,,Good work! We've got classics next, don't we?
+Dialogue: 0,0:21:16.46,0:21:21.67,Default,,0000,0000,0000,,Those math questions we \Nhad, I reviewed those.
+Dialogue: 0,0:21:21.67,0:21:24.46,Default,,0000,0000,0000,,I really should've studied a little more.
+Dialogue: 0,0:21:24.46,0:21:26.83,Default,,0000,0000,0000,,Time to switch gears, Tama-chan!
+Dialogue: 0,0:21:26.83,0:21:29.25,Default,,0000,0000,0000,,Nothing more important than gear switching!
+Dialogue: 0,0:21:29.54,0:21:31.71,Default,,0000,0000,0000,,Humans have limits, you know?
+Dialogue: 0,0:21:31.71,0:21:34.33,Default,,0000,0000,0000,,A flower's beauty's in its evanescence!
+Dialogue: 0,0:21:34.79,0:21:37.33,Default,,0000,0000,0000,,Was it hard getting your hair to do that?
+Dialogue: 0,0:21:40.63,0:21:41.63,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:21:41.63,0:21:47.54,Default,,0000,0000,0000,,Too happy and embarrassed to study after getting\Nall those texts talking about your writing?
+Dialogue: 0,0:21:47.54,0:21:49.25,Default,,0000,0000,0000,,Oh, my...
+Dialogue: 0,0:22:04.38,0:22:06.17,Default,,0000,0000,0000,,Have they reached you?
+Dialogue: 0,0:22:06.17,0:22:09.46,Default,,0000,0000,0000,,Longing gazes, standing on tiptoes
+Dialogue: 0,0:22:09.46,0:22:11.38,Default,,0000,0000,0000,,Washed away, reeling
+Dialogue: 0,0:22:11.38,0:22:17.00,Default,,0000,0000,0000,,Swimming through a sea of dreams
+Dialogue: 0,0:22:45.54,0:22:50.38,Default,,0000,0000,0000,,A lullaby
+Dialogue: 0,0:22:55.67,0:23:00.67,Default,,0000,0000,0000,,Swaying
+Dialogue: 0,0:23:23.92,0:23:26.00,Default,,0000,0000,0000,,Oh, Iris!
+Dialogue: 0,0:23:26.00,0:23:27.00,Default,,0000,0000,0000,,Thanks for the text!
+Dialogue: 0,0:23:27.00,0:23:28.00,Default,,0000,0000,0000,,Promise!
+Dialogue: 0,0:23:28.00,0:23:29.21,Default,,0000,0000,0000,,You did what?
+Dialogue: 0,0:23:30.08,0:23:33.50,Default,,0000,0000,0000,,Whatever mother wishes me to do, I'll do.
+Dialogue: 0,0:23:32.92,0:23:35.38,On Top,,0000,0000,0000,,Precision Machines

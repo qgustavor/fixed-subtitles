@@ -1,0 +1,412 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H1062301E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: title - preview,Trebuchet MS,20,&H00FBFDFD,&H000000FF,&H00D6A5F8,&H00D4A7F7,0,0,0,0,100,100,0,0,1,2,0,8,0015,0015,0040,1
+Style: 9 ano,Trebuchet MS,22,&H00D8C6DB,&H00042FEE,&H10FFFFFF,&HC03F3204,0,0,0,0,96,100,0,0,1,2,0,8,0000,0385,0070,1
+Style: title,Trebuchet MS,30,&H00FBFDFD,&H000000FF,&H00D6A5F8,&H00D4A7F7,0,0,0,0,100,100,0,0,1,2,0,8,0015,0015,0110,1
+Style: S1,Trebuchet MS,18,&H00FFFFFF,&H000E00AB,&H105D49E0,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,1,0125,0040,0060,1
+Style: N,Trebuchet MS,18,&H00FFFFFF,&H000E00AB,&H105D49E0,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0127,0000,0060,1
+Style: S2,Trebuchet MS,18,&H00FFFFFF,&H000E00AB,&H105D49E0,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,3,0000,0013,0060,1
+Style: Clube,Trebuchet MS,18,&H00FFFFFF,&H000E00AB,&H105D49E0,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0000,0000,0015,1
+Style: 8 ano,Trebuchet MS,22,&H00D7C8F3,&H00042FEE,&H10FFFFFF,&HC03F3204,0,0,0,0,96,100,0,0,1,2,0,8,0000,0385,0070,1
+Style: 7 ano,Trebuchet MS,22,&H0098F1EA,&H00042FEE,&H10FFFFFF,&HC03F3204,0,0,0,0,96,100,0,0,1,2,0,8,0000,0385,0070,1
+Style: 5 ano,Trebuchet MS,22,&H00FBF6B6,&H00042FEE,&H10FFFFFF,&HC03F3204,0,0,0,0,96,100,0,0,1,2,0,8,0000,0385,0070,1
+Style: 3 ano,Trebuchet MS,22,&H00A8DEFC,&H00042FEE,&H10FFFFFF,&HC03F3204,0,0,0,0,96,100,0,0,1,2,0,8,0000,0385,0070,1
+Style: 1 ano,Trebuchet MS,22,&H007BF8D9,&H00042FEE,&H10FFFFFF,&HC03F3204,0,0,0,0,96,100,0,0,1,2,0,8,0000,0385,0070,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.77,0:00:06.90,Main,,0000,0000,0000,,Tama-chan!
+Dialogue: 0,0:00:07.20,0:00:10.30,Main,,0000,0000,0000,,A escola é bem longe,\Njá é hora de irmos!
+Dialogue: 0,0:00:11.80,0:00:13.37,Main,,0000,0000,0000,,Já vou!
+Dialogue: 0,0:00:13.82,0:00:16.46,Main,,0000,0000,0000,,Desculpa, acabei me atrasando.
+Dialogue: 0,0:00:24.60,0:00:26.48,Main,,0000,0000,0000,,Algo errado, Yumine?
+Dialogue: 0,0:00:26.48,0:00:28.34,Main,,0000,0000,0000,,Tudo errado! Arrume isso!
+Dialogue: 0,0:00:28.34,0:00:28.92,Main,,0000,0000,0000,,Hein?!
+Dialogue: 0,0:00:29.94,0:00:33.74,Main,,0000,0000,0000,,Tama-chan, já estamos no ensino médio.
+Dialogue: 0,0:00:34.14,0:00:36.58,Main,,0000,0000,0000,,Por que seu uniforme está tão folgado?
+Dialogue: 0,0:00:37.42,0:00:41.68,Main,,0000,0000,0000,,A vovó disse pra comprar um número maior,\Nporque vou espichar que nem uma vara.
+Dialogue: 0,0:00:41.96,0:00:44.88,Main,,0000,0000,0000,,E sem essas expressões do interior!\NUse o japonês normal!
+Dialogue: 0,0:00:44.88,0:00:45.85,Main,,0000,0000,0000,,Mas...
+Dialogue: 0,0:00:46.28,0:00:48.65,Main,,0000,0000,0000,,E-Entendi.
+Dialogue: 0,0:00:48.65,0:00:51.87,Main,,0000,0000,0000,,Mas é verdade,\Nestes uniformes são bem caros.
+Dialogue: 0,0:00:51.87,0:00:55.40,Main,,0000,0000,0000,,Eu já usava nos últimos anos,\Nno fundamental,
+Dialogue: 0,0:00:55.90,0:00:59.77,Main,,0000,0000,0000,,mas você veio de uma escola no interior,\Ntalvez seja um pouco complicado.
+Dialogue: 0,0:00:59.77,0:01:01.88,Main,,0000,0000,0000,,Não sou um bicho do mato!
+Dialogue: 0,0:01:01.88,0:01:03.68,Main,,0000,0000,0000,,Lá vem você com esse jeito de falar!
+Dialogue: 0,0:01:03.68,0:01:05.12,Main,,0000,0000,0000,,T-Tá...
+Dialogue: 0,0:01:06.34,0:01:08.31,Italic,,0000,0000,0000,,Eu me chamo Honda Tamaki.
+Dialogue: 0,0:01:08.31,0:01:10.45,Italic,,0000,0000,0000,,Hoje é a cerimônia de entrada\Nno ensino médio.
+Dialogue: 0,0:01:10.45,0:01:13.45,Italic,,0000,0000,0000,,Estou na Academia Hoshi no Tsuji,\Numa escola particular
+Dialogue: 0,0:01:13.76,0:01:17.34,Italic,,0000,0000,0000,,famosa pela liberdade que dá\Naos clubes para suas atividades.
+Dialogue: 0,0:01:17.85,0:01:19.64,Italic,,0000,0000,0000,,Depois da cerimônia na escola,
+Dialogue: 0,0:01:19.64,0:01:23.85,Italic,,0000,0000,0000,,podemos visitar os estandes dos clubes\Nnum evento chamado Clube PR.
+Dialogue: 0,0:01:25.05,0:01:27.11,Italic,,0000,0000,0000,,A escola fica no meio da cidade.
+Dialogue: 0,0:01:27.11,0:01:31.74,Italic,,0000,0000,0000,,É bem diferente do fundamental,\Nacho que vou demorar a me acostumar.
+Dialogue: 0,0:01:38.28,0:01:40.45,Main,,0000,0000,0000,,Veja, Tama-chan, chegamos.
+Dialogue: 0,0:01:50.17,0:01:52.96,Black Signs,,0000,0000,0000,,Escola Média e Secundária\NHoshi no Tsuji
+Dialogue: 0,0:01:52.98,0:01:55.22,Black Signs,,0000,0000,0000,,Cerimônia de Entrada de 2016\NAcademia Hoshi no Tsuji
+Dialogue: 1,0:03:31.00,0:03:34.00,title,,0000,0000,0000,,Linha de partida
+Dialogue: 0,0:03:34.57,0:03:37.02,Italic,,0000,0000,0000,,Após a cerimônia de entrada\Ne as orientações,
+Dialogue: 0,0:03:37.02,0:03:41.28,Italic,,0000,0000,0000,,os novos alunos estão livres\Npara conferir o Clube PR.
+Dialogue: 0,0:03:41.48,0:03:46.90,Italic,,0000,0000,0000,,Estava esperando por esse dia,\Npra entrar num clube maravilhoso, mas...
+Dialogue: 0,0:03:50.42,0:03:56.52,Italic,,0000,0000,0000,,Eu ainda não sabia por qual\Natividade me apaixonaria.
+Dialogue: 0,0:03:57.65,0:03:59.88,Main,,0000,0000,0000,,Nosso primeiro Clube PR, é?
+Dialogue: 0,0:04:00.24,0:04:02.54,Main,,0000,0000,0000,,Que tipo de novos alunos\Nse juntarão a nós?
+Dialogue: 0,0:04:02.88,0:04:06.45,Main,,0000,0000,0000,,Fujikawa-san, você tem obrigações no\Nclube de música computacional, não?
+Dialogue: 0,0:04:06.64,0:04:09.20,Main,,0000,0000,0000,,Sim, verdade. Mas aqui\Né importante também.
+Dialogue: 0,0:04:09.60,0:04:11.89,Main,,0000,0000,0000,,Gostaria de ter alguém\Nque possa desenhar.
+Dialogue: 0,0:04:11.89,0:04:15.10,Main,,0000,0000,0000,,Ah, se aparece alguém querendo\Nser dubladora, seria ótimo!
+Dialogue: 0,0:04:15.10,0:04:17.17,Main,,0000,0000,0000,,Não é tão fácil conseguir\Numa pessoa boa.
+Dialogue: 0,0:04:17.17,0:04:18.98,Main,,0000,0000,0000,,A propósito, não vai usar isto?
+Dialogue: 0,0:04:21.53,0:04:24.28,Main,,0000,0000,0000,,Só a presidente pode usar.
+Dialogue: 0,0:04:24.28,0:04:27.28,Main,,0000,0000,0000,,Nada disso. A partir de hoje,\Na presidente é...
+Dialogue: 0,0:04:30.20,0:04:30.98,Main,,0000,0000,0000,,É verdade.
+Dialogue: 0,0:04:32.00,0:04:33.97,Main,,0000,0000,0000,,Está pronto, vamos nos apressar.
+Dialogue: 0,0:04:33.97,0:04:36.21,Main,,0000,0000,0000,,Boa sorte, nova presidente do clube!
+Dialogue: 0,0:04:36.20,0:04:39.54,Black Signs,,0000,0000,0000,,Clube de Cerimônia do Chá
+Dialogue: 6,0:04:36.45,0:04:39.22,Main,,0000,0000,0000,,Esta escola tem muitos clubes, né?
+Dialogue: 0,0:04:39.54,0:04:43.51,Main,,0000,0000,0000,,Queria conhecer muitos outros,\Nmas acabou ficando tarde.
+Dialogue: 0,0:04:43.51,0:04:48.64,Main,,0000,0000,0000,,Eu entendo. Aqui é fácil\Ncriar um novo clube.
+Dialogue: 0,0:04:52.71,0:04:56.30,Main,,0000,0000,0000,,Puxa, este chá verde\Né muito gostoso!
+Dialogue: 0,0:04:56.30,0:04:57.77,Main,,0000,0000,0000,,Fico feliz por ouvir isso.
+Dialogue: 0,0:04:57.77,0:04:59.64,Main,,0000,0000,0000,,É gostoso, de verdade.
+Dialogue: 0,0:04:59.97,0:05:02.19,Main,,0000,0000,0000,,Oiê, Tama-chan!
+Dialogue: 0,0:05:02.19,0:05:03.37,Main,,0000,0000,0000,,Yumine!
+Dialogue: 0,0:05:03.74,0:05:05.22,Main,,0000,0000,0000,,E aí? Já escolheu um clube?
+Dialogue: 0,0:05:05.22,0:05:09.80,Main,,0000,0000,0000,,Ainda não. Tem tantos, e acabo\Nconversando por tempo demais.
+Dialogue: 0,0:05:09.80,0:05:10.91,Main,,0000,0000,0000,,Ora...
+Dialogue: 0,0:05:10.91,0:05:12.88,Main,,0000,0000,0000,,Eu entrei no Clube de Ilustração.
+Dialogue: 0,0:05:12.88,0:05:14.91,Main,,0000,0000,0000,,Tem até isso?
+Dialogue: 0,0:05:14.91,0:05:17.80,Main,,0000,0000,0000,,Tem algum tipo de clube\Nem que queira entrar?
+Dialogue: 0,0:05:17.80,0:05:19.80,Main,,0000,0000,0000,,Hm... Qual pode ser?
+Dialogue: 0,0:05:20.58,0:05:26.81,Main,,0000,0000,0000,,Queria encontrar algo que me agarre, como\Num chamado divino, pra me fazer entrar.
+Dialogue: 0,0:05:27.36,0:05:30.04,Main,,0000,0000,0000,,É melhor fazer alguma coisa\Ndo que se preocupar com isso.
+Dialogue: 0,0:05:33.62,0:05:35.20,Main,,0000,0000,0000,,Mesmo assim...
+Dialogue: 0,0:05:35.20,0:05:35.85,Main,,0000,0000,0000,,Hm?
+Dialogue: 0,0:05:35.85,0:05:38.69,Main,,0000,0000,0000,,De fato, tem vários tipos de clubes.
+Dialogue: 0,0:05:38.69,0:05:41.88,Main,,0000,0000,0000,,Aya, esses sorrisos jovens\Nsão ofuscantes.
+Dialogue: 0,0:05:41.90,0:05:46.36,Main,,0000,0000,0000,,Shii, acalme-se. Vou te compensar\Npor te fazer trabalhar a noite inteira.
+Dialogue: 0,0:05:46.37,0:05:49.79,Black Signs,,0000,0000,0000,,Clube SNS
+Dialogue: 0,0:05:49.82,0:05:51.96,Main,,0000,0000,0000,,Com licença, que tipo de clube é este?
+Dialogue: 0,0:05:52.29,0:05:54.00,Main,,0000,0000,0000,,Ah, bem...
+Dialogue: 0,0:05:54.00,0:05:59.91,Main,,0000,0000,0000,,Nosso clube cria jogos doujin. Pode\Ntestar o jogo que criamos, se quiser.
+Dialogue: 0,0:05:59.91,0:06:01.20,Main,,0000,0000,0000,,Doujin?
+Dialogue: 0,0:06:01.42,0:06:03.76,Main,,0000,0000,0000,,Vocês mesmas fazem os jogos?
+Dialogue: 0,0:06:04.04,0:06:05.09,Main,,0000,0000,0000,,Que incrível!
+Dialogue: 0,0:06:05.09,0:06:06.88,Main,,0000,0000,0000,,Jogo doujin?
+Dialogue: 0,0:06:06.88,0:06:08.92,Main,,0000,0000,0000,,Mas são bem simples.
+Dialogue: 0,0:06:08.92,0:06:11.52,Main,,0000,0000,0000,,O vídeo promocional\Nestá passando nesta tela.
+Dialogue: 0,0:06:14.72,0:06:15.98,Main,,0000,0000,0000,,O PC travou!
+Dialogue: 0,0:06:15.98,0:06:18.37,Main,,0000,0000,0000,,Ah, desculpa! Vou reiniciar!
+Dialogue: 0,0:06:18.37,0:06:20.02,Main,,0000,0000,0000,,Shii, o chá! Vai molhar!
+Dialogue: 0,0:06:20.02,0:06:21.31,Main,,0000,0000,0000,,Por favor, sem pânico!
+Dialogue: 0,0:06:22.54,0:06:24.23,Main,,0000,0000,0000,,É um jogo de quebra-cabeças?
+Dialogue: 0,0:06:24.23,0:06:26.85,Main,,0000,0000,0000,,Olha, que desenho bonito!
+Dialogue: 0,0:06:26.85,0:06:28.70,Main,,0000,0000,0000,,Podemos jogar?
+Dialogue: 0,0:06:28.70,0:06:30.02,Main,,0000,0000,0000,,Fiquem à vontade.
+Dialogue: 0,0:06:30.02,0:06:33.20,Main,,0000,0000,0000,,Estou tão nervosa.\NAcho que vou sair um pouco.
+Dialogue: 0,0:06:33.20,0:06:37.74,Main,,0000,0000,0000,,Deixa eu ver. Ah, escolha de personagem.\NPode escolher antes, Tama-chan.
+Dialogue: 0,0:06:37.74,0:06:39.28,Main,,0000,0000,0000,,Obrigada, Yumine!
+Dialogue: 0,0:06:39.66,0:06:44.23,Main,,0000,0000,0000,,Que adorável! Acho que tive uma faísca\Nde inspiração para meu próximo enredo!
+Dialogue: 0,0:06:41.29,0:06:46.91,Signs,,0000,0000,0000,,Bwehehehe
+Dialogue: 0,0:06:44.23,0:06:46.50,Main,,0000,0000,0000,,Aya, esconda esse sorriso vulgar.
+Dialogue: 0,0:06:46.92,0:06:49.14,Main,,0000,0000,0000,,Ah, já temos que enfrentar um inimigo.
+Dialogue: 0,0:06:49.14,0:06:51.34,Main,,0000,0000,0000,,Mas está mostrando as instruções.
+Dialogue: 0,0:06:51.34,0:06:54.84,Italic,,0000,0000,0000,,Será que vão entender o tutorial?\NE por favor, não dê nenhum bug.
+Dialogue: 0,0:06:57.06,0:06:59.08,Main,,0000,0000,0000,,Precisa ser ágil no controle!
+Dialogue: 0,0:06:59.08,0:07:01.06,Main,,0000,0000,0000,,E te faz pensar bastante!
+Dialogue: 0,0:07:01.06,0:07:03.94,Italic,,0000,0000,0000,,As gatinhas ficaram encantadas\Npelo meu enredo!
+Dialogue: 0,0:07:03.94,0:07:05.58,Italic,,0000,0000,0000,,O jogo é um puzzle, né?
+Dialogue: 0,0:07:06.94,0:07:08.80,Main,,0000,0000,0000,,Finalmente vencemos!
+Dialogue: 0,0:07:09.60,0:07:13.26,Main,,0000,0000,0000,,Até arrepiei. E é tão satisfatório\Nquando as peças desaparecem!
+Dialogue: 0,0:07:13.26,0:07:16.34,Main,,0000,0000,0000,,Que adoráveis. Aluno novo\Né tudo de bom, né?
+Dialogue: 0,0:07:16.34,0:07:22.30,Main,,0000,0000,0000,,Shii-san, mudou de ideia rápido, né?\NMas você tem razão.
+Dialogue: 0,0:07:25.59,0:07:29.57,Main,,0000,0000,0000,,Ah, acabou o tempo. Acho que\Nfaltava pouco para terminar.
+Dialogue: 0,0:07:29.57,0:07:33.19,Main,,0000,0000,0000,,Droga, se eu não tivesse\Nerrado aquele movimento...
+Dialogue: 0,0:07:33.19,0:07:36.40,Main,,0000,0000,0000,,M-Me desculpa, ficamos tão distraídas...
+Dialogue: 0,0:07:36.40,0:07:38.40,Main,,0000,0000,0000,,Tudo bem! Faz nosso\Nesforço valer a pena!
+Dialogue: 0,0:07:38.40,0:07:40.88,Main,,0000,0000,0000,,Está bem caprichado.
+Dialogue: 0,0:07:40.88,0:07:43.20,Main,,0000,0000,0000,,Nem parece que\Nfoi feito em um clube.
+Dialogue: 0,0:07:43.20,0:07:44.60,Main,,0000,0000,0000,,Muito obrigada.
+Dialogue: 0,0:07:44.60,0:07:49.11,Main,,0000,0000,0000,,É verdade! É igual ao jogo Hoyofuyo\Nque ganhei quando era criança!
+Dialogue: 0,0:07:49.11,0:07:53.80,Main,,0000,0000,0000,,Me faz lembrar quando fiquei\Nviciada nele. Foi inspirado nele?
+Dialogue: 0,0:07:53.80,0:07:58.28,Main,,0000,0000,0000,,Realmente, usamos mecânicas comuns\Nem jogos puzzles de ação como base,
+Dialogue: 0,0:07:58.28,0:08:02.14,Main,,0000,0000,0000,,é normal ser parecido com outro,\Ne eu até já tinha percebido isso...
+Dialogue: 0,0:08:02.14,0:08:04.25,Main,,0000,0000,0000,,Shii, acalme-se!
+Dialogue: 0,0:08:04.25,0:08:05.80,Main,,0000,0000,0000,,Eu disse algo errado?
+Dialogue: 0,0:08:08.82,0:08:12.32,Main,,0000,0000,0000,,Ah, foram vocês que fizeram?
+Dialogue: 0,0:08:15.42,0:08:17.92,Main,,0000,0000,0000,,Isso mesmo. E tem mais\Nduas pessoas na equipe.
+Dialogue: 0,0:08:18.40,0:08:19.62,Main,,0000,0000,0000,,Esta é a capa.
+Dialogue: 0,0:08:20.34,0:08:22.38,Main,,0000,0000,0000,,Como se faz um jogo?
+Dialogue: 0,0:08:22.38,0:08:25.60,Main,,0000,0000,0000,,Criamos a arte, a história\Ne a música no computador.
+Dialogue: 0,0:08:25.60,0:08:28.20,Main,,0000,0000,0000,,E juntamos isso tudo\Nna forma de um jogo.
+Dialogue: 0,0:08:28.76,0:08:32.04,Main,,0000,0000,0000,,De certa forma, todas construímos\Njuntas o mundo do jogo.
+Dialogue: 0,0:08:32.57,0:08:34.20,Main,,0000,0000,0000,,É bem divertido.
+Dialogue: 0,0:08:34.20,0:08:36.00,Main,,0000,0000,0000,,Então, usam computador?
+Dialogue: 0,0:08:36.00,0:08:39.14,Main,,0000,0000,0000,,Eu também desenho, mas\Nnão sei muito sobre arte digital.
+Dialogue: 0,0:08:39.14,0:08:41.62,Main,,0000,0000,0000,,Tudo bem, basta dar os primeiros passos.
+Dialogue: 0,0:08:41.62,0:08:42.58,Main,,0000,0000,0000,,É difícil.
+Dialogue: 0,0:08:42.58,0:08:43.41,Main,,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:43.86,0:08:44.92,Main,,0000,0000,0000,,E...
+Dialogue: 0,0:08:45.84,0:08:47.18,Main,,0000,0000,0000,,É bem trabalhoso.
+Dialogue: 0,0:08:52.60,0:08:58.04,Main,,0000,0000,0000,,Me desculpem, mas não posso entrar.\NEstarei ocupada no Clube de Ilustração.
+Dialogue: 0,0:08:58.62,0:09:01.64,Main,,0000,0000,0000,,E você, Tama-chan? Antigamente,\Nvocê costumava desenhar.
+Dialogue: 0,0:09:01.64,0:09:07.45,Main,,0000,0000,0000,,Foi só no comecinho do fundamental.\NE não sei desenhar no computador.
+Dialogue: 0,0:09:07.45,0:09:10.80,Main,,0000,0000,0000,,Não acho que esteja no nível\Npra usar em um jogo como este.
+Dialogue: 0,0:09:10.80,0:09:12.92,Main,,0000,0000,0000,,Não precisa se preocupar tanto.
+Dialogue: 0,0:09:16.32,0:09:18.90,Italic,,0000,0000,0000,,Ela está com um olhar bem sério.
+Dialogue: 0,0:09:20.37,0:09:22.08,Main,,0000,0000,0000,,Bom, nós vamos indo.
+Dialogue: 0,0:09:22.08,0:09:24.40,Main,,0000,0000,0000,,Sim, muito obrigada.
+Dialogue: 0,0:09:28.75,0:09:30.31,Top,,0000,0000,0000,,São adoráveis, não?
+Dialogue: 0,0:09:30.31,0:09:32.14,Top,,0000,0000,0000,,Sim, são mesmo!
+Dialogue: 0,0:09:31.31,0:09:35.11,Main,,0000,0000,0000,,Ah, o horário do Clube PR acabou!
+Dialogue: 0,0:09:35.11,0:09:39.37,Main,,0000,0000,0000,,Acho que vou entrar no Clube de Cerimônia\Ndo Chá, a responsável foi bem gentil.
+Dialogue: 0,0:09:39.37,0:09:41.85,Main,,0000,0000,0000,,Que tal entrar no Clube de Ilustração?
+Dialogue: 0,0:09:42.28,0:09:46.64,Main,,0000,0000,0000,,Fui lá ver, parece que pode só ficar\Ndesenhando num ambiente descontraído.
+Dialogue: 0,0:09:47.66,0:09:48.46,Main,,0000,0000,0000,,É...
+Dialogue: 0,0:09:50.28,0:09:54.90,Main,,0000,0000,0000,,Aquele jogo foi bem divertido.\NÉ bonitinho e cheio de brilho.
+Dialogue: 0,0:09:55.52,0:10:00.42,Main,,0000,0000,0000,,Elas todas devem ser focadas em\Nfazer jogos, não sei agir desse jeito.
+Dialogue: 0,0:10:01.16,0:10:04.42,Main,,0000,0000,0000,,Pra começar, o que eu quero fazer, afinal?
+Dialogue: 0,0:10:04.89,0:10:08.63,9 ano,,0000,0000,0000,,{\fad(1,120)}9º ano\NBrincando com cartas
+Dialogue: 0,0:10:05.44,0:10:08.52,Main,,0000,0000,0000,,Seduzida por jogos de cartas,\Nestudava pra jogar sozinha.
+Dialogue: 0,0:10:08.63,0:10:12.55,8 ano,,0000,0000,0000,,{\fad(120,120)}8º ano\NLeitura
+Dialogue: 0,0:10:09.20,0:10:11.88,Main,,0000,0000,0000,,Livros antigos à beira do rio,\Nobservando as nuvens.
+Dialogue: 0,0:10:12.55,0:10:15.97,7 ano,,0000,0000,0000,,{\fad(120,120)}7º ano\NDuplicando
+Dialogue: 0,0:10:13.18,0:10:15.57,Main,,0000,0000,0000,,Tentei copiar a arte de mangás.
+Dialogue: 0,0:10:15.97,0:10:19.60,5 ano,,0000,0000,0000,,{\fad(120,120)}5ª ano\NMangás
+Dialogue: 0,0:10:16.48,0:10:19.02,Main,,0000,0000,0000,,Trancada no guarda-roupas,\Nabsorta com mangás.
+Dialogue: 0,0:10:19.60,0:10:25.10,3 ano,,0000,0000,0000,,{\fad(120,120)}3º ano\NRabiscos
+Dialogue: 0,0:10:20.24,0:10:24.22,Main,,0000,0000,0000,,Tentei ver quantas coisas engraçadas\Nconseguia desenhar no meu caderno.
+Dialogue: 0,0:10:25.10,0:10:28.39,1 ano,,0000,0000,0000,,{\fad(120,1)}1º ano\NColecionar insetos
+Dialogue: 0,0:10:25.66,0:10:28.14,Main,,0000,0000,0000,,Peguei insetos e os estudei na varanda.
+Dialogue: 0,0:10:28.57,0:10:33.51,Main,,0000,0000,0000,,Meus hobbies são muito inconsistentes!\NO que será que quero fazer?
+Dialogue: 0,0:10:33.51,0:10:34.38,Main,,0000,0000,0000,,Ei!
+Dialogue: 0,0:10:35.82,0:10:38.30,Top,,0000,0000,0000,,{\fad(565,1)\fs16}SUPER SUGOROKU\NChegada\NPrêmio:\N1 milhão de ienes
+Dialogue: 0,0:10:40.62,0:10:42.22,Flashback,,0000,0000,0000,,Vovó, olha!
+Dialogue: 0,0:10:42.22,0:10:44.88,Flashback,,0000,0000,0000,,Hoje fez um jogo de tabuleiro?
+Dialogue: 0,0:10:45.32,0:10:48.62,Flashback,,0000,0000,0000,,Você é boa para pensar em jogos, Tamaki.
+Dialogue: 0,0:10:48.96,0:10:52.84,Flashback,,0000,0000,0000,,Quando entrar no ensino fundamental, vou\Nfazer um monte de jogos com os amigos!
+Dialogue: 0,0:10:53.12,0:10:57.18,Flashback,,0000,0000,0000,,Você é uma boa garota, tenho certeza\Nde que vai conseguir, um monte deles.
+Dialogue: 0,0:11:02.62,0:11:06.02,Main,,0000,0000,0000,,É mesmo, a razão para me tornar\Namiga da Yumine também foi...
+Dialogue: 0,0:11:06.56,0:11:09.02,Flashback,,0000,0000,0000,,Hoje eu fiz um jogo novo!
+Dialogue: 0,0:11:12.74,0:11:13.98,Main,,0000,0000,0000,,Ei!
+Dialogue: 0,0:11:14.32,0:11:16.96,Main,,0000,0000,0000,,Estou te chamando, Tama-chan!
+Dialogue: 0,0:11:17.82,0:11:21.45,Main,,0000,0000,0000,,Eu penso em brincadeiras.\NIsso deve ser...
+Dialogue: 0,0:11:21.45,0:11:23.65,Main,,0000,0000,0000,,O que deu em você?
+Dialogue: 0,0:11:23.65,0:11:26.20,Main,,0000,0000,0000,,Desculpa, Yumine! Pode ir sem mim!
+Dialogue: 0,0:11:25.20,0:11:26.20,Top,,0000,0000,0000,,Tama-chan?!
+Dialogue: 0,0:11:30.25,0:11:31.00,Main,,0000,0000,0000,,Lá está!
+Dialogue: 0,0:11:32.18,0:11:33.76,Main,,0000,0000,0000,,Hm? É a do 1º ano?
+Dialogue: 0,0:11:35.65,0:11:36.50,Main,,0000,0000,0000,,Eu...
+Dialogue: 0,0:11:36.88,0:11:39.14,Main,,0000,0000,0000,,Eu sou a Fujikawa, 2º ano,\Nintegrante do clube.
+Dialogue: 0,0:11:39.34,0:11:41.48,Main,,0000,0000,0000,,Fui responsável pelo som neste jogo.
+Dialogue: 0,0:11:41.48,0:11:43.30,Main,,0000,0000,0000,,Acho que já jogou, certo?
+Dialogue: 0,0:11:44.00,0:11:46.22,Main,,0000,0000,0000,,A música?
+Dialogue: 0,0:11:46.22,0:11:48.84,Main,,0000,0000,0000,,Estava tão entretida com o jogo,\Nque nem percebi...
+Dialogue: 0,0:11:52.31,0:11:56.48,Main,,0000,0000,0000,,C-Claro, a música de fundo\Nnão pode se sobressair.
+Dialogue: 0,0:11:56.48,0:11:58.21,Main,,0000,0000,0000,,Ninguém vai vir dizer que
+Dialogue: 0,0:11:58.21,0:12:00.85,Main,,0000,0000,0000,,a faixa do baixo ficou\Nbem trabalhada, nem nada disso.
+Dialogue: 0,0:12:00.14,0:12:02.51,Top,,0000,0000,0000,,Ah, desculpa! Eu fui rude de novo!
+Dialogue: 0,0:12:02.80,0:12:09.50,Main,,0000,0000,0000,,É brincadeira. Se o som não a incomodou\Nenquanto jogava, é um sucesso pra mim.
+Dialogue: 0,0:12:09.50,0:12:11.71,Main,,0000,0000,0000,,E o que a trouxe aqui de volta?
+Dialogue: 0,0:12:11.71,0:12:18.92,Main,,0000,0000,0000,,Bom, a arte estava tão boa, fiquei com\Num pouco de interesse em fazer jogos.
+Dialogue: 0,0:12:19.30,0:12:25.22,Main,,0000,0000,0000,,Não sei se vou conseguir, mas se\Na pessoa que desenhou me ensinar,
+Dialogue: 0,0:12:25.66,0:12:28.62,Main,,0000,0000,0000,,acho que até eu consigo fazer também.
+Dialogue: 0,0:12:28.62,0:12:30.77,Main,,0000,0000,0000,,Ela não está mais aqui.
+Dialogue: 0,0:12:30.77,0:12:31.85,Main,,0000,0000,0000,,Hã?
+Dialogue: 0,0:12:31.85,0:12:35.25,Main,,0000,0000,0000,,Ela criou este clube, um ano atrás.
+Dialogue: 0,0:12:35.82,0:12:40.82,Main,,0000,0000,0000,,Ela nos juntou e nós criamos esse puzzle.\NFoi nosso primeiro trabalho.
+Dialogue: 0,0:12:40.82,0:12:45.25,Main,,0000,0000,0000,,Ela é incrível. Fez a arte, o planejamento\Ne o gerenciamento sozinha.
+Dialogue: 0,0:12:45.25,0:12:47.18,Main,,0000,0000,0000,,Mas ela já se formou.
+Dialogue: 0,0:12:47.70,0:12:53.57,Main,,0000,0000,0000,,Agora, somos só nós três no clube.\NNão temos artista nem uma líder.
+Dialogue: 0,0:12:53.57,0:12:55.96,Main,,0000,0000,0000,,No momento, estamos\Ntentando ver o que fazer.
+Dialogue: 0,0:12:55.96,0:12:57.96,Main,,0000,0000,0000,,Não tem ninguém pra desenhar?
+Dialogue: 0,0:12:57.96,0:13:00.59,Main,,0000,0000,0000,,Estamos dependendo\Nde novas integrantes.
+Dialogue: 0,0:13:00.59,0:13:03.34,Main,,0000,0000,0000,,Mas, no final, ninguém quis entrar.
+Dialogue: 0,0:13:03.34,0:13:06.20,Main,,0000,0000,0000,,Ainda é o primeiro dia de aula,\Nsó começamos!
+Dialogue: 0,0:13:06.20,0:13:07.05,Main,,0000,0000,0000,,Eu vou...
+Dialogue: 0,0:13:07.44,0:13:08.06,Main,,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:15.12,0:13:17.52,Main,,0000,0000,0000,,Eu vou entrar pro clube!
+Dialogue: 0,0:13:19.52,0:13:21.46,Main,,0000,0000,0000,,Oh, por favor!
+Dialogue: 0,0:13:21.80,0:13:23.62,Main,,0000,0000,0000,,Vou aprender a mexer no computador!
+Dialogue: 0,0:13:23.62,0:13:26.80,Main,,0000,0000,0000,,Mesmo? Vai ajudar muito! Obrigada!
+Dialogue: 0,0:13:26.80,0:13:29.03,Main,,0000,0000,0000,,Você já desenhava? Como ilustrações?
+Dialogue: 0,0:13:29.03,0:13:36.20,Main,,0000,0000,0000,,Só copiava mangás, mas, se me aceitarem,\Ntambém queria tentar criar jogos.
+Dialogue: 0,0:13:36.20,0:13:38.04,Main,,0000,0000,0000,,Te recebemos de braços abertos!
+Dialogue: 0,0:13:38.26,0:13:40.25,Main,,0000,0000,0000,,Que tal desenhar algo agora?
+Dialogue: 0,0:13:44.60,0:13:46.38,Main,,0000,0000,0000,,É esse o estilo dela?!
+Dialogue: 0,0:13:47.06,0:13:51.76,Main,,0000,0000,0000,,Tem alguma parte estranha? No esboço?\NFaz tempo que não desenho.
+Dialogue: 0,0:13:54.48,0:13:57.34,Main,,0000,0000,0000,,Ah... Acho que ficou bom.
+Dialogue: 0,0:13:57.34,0:13:58.94,Main,,0000,0000,0000,,Muito obrigada!
+Dialogue: 0,0:13:59.42,0:14:04.06,Italic,,0000,0000,0000,,Me chamo Honda Tamaki.\NVou me esforçar na produção de jogos!
+Dialogue: 0,0:14:11.90,0:14:14.71,Main,,0000,0000,0000,,Tama-chan, no final, você\Nentrou naquele clube de jogos?
+Dialogue: 0,0:14:14.71,0:14:20.21,Main,,0000,0000,0000,,Sim. Não tinha ninguém que\Ndesenhasse, eu me ofereci.
+Dialogue: 0,0:14:20.21,0:14:21.56,Main,,0000,0000,0000,,Que ousada!
+Dialogue: 0,0:14:21.93,0:14:23.84,Main,,0000,0000,0000,,Já tem uma reunião do clube hoje.
+Dialogue: 0,0:14:24.20,0:14:27.22,Main,,0000,0000,0000,,O que será que se faz numa\Nreunião de design de jogos?
+Dialogue: 0,0:14:27.22,0:14:28.94,Main,,0000,0000,0000,,Soa bem legal.
+Dialogue: 0,0:14:29.22,0:14:30.97,Main,,0000,0000,0000,,Vai pro Clube de Ilustração, Yumine?
+Dialogue: 0,0:14:30.97,0:14:33.14,Main,,0000,0000,0000,,Vou! Hoje vamos nos apresentar.
+Dialogue: 0,0:14:33.14,0:14:36.48,Main,,0000,0000,0000,,Mostrar nosso desenho aos outros\Ndá um nervoso, né?
+Dialogue: 0,0:14:36.82,0:14:38.48,Main,,0000,0000,0000,,É verdade...
+Dialogue: 0,0:14:38.48,0:14:43.14,Main,,0000,0000,0000,,Mas um senpai bonito bebeu no copo\Nde outro senpai que é uma gracinha...
+Dialogue: 0,0:14:43.14,0:14:46.94,Main,,0000,0000,0000,,E a reação dele nessa hora\Nme deixou com o coração disparado!
+Dialogue: 0,0:14:47.78,0:14:48.49,Main,,0000,0000,0000,,Hein?
+Dialogue: 0,0:14:48.49,0:14:52.94,Main,,0000,0000,0000,,Shii! Finalmente chegou este dia\Ntão esperado para o nosso clube!
+Dialogue: 0,0:14:53.68,0:14:55.20,Main,,0000,0000,0000,,Ei, mas já está fazendo isso?
+Dialogue: 0,0:14:55.20,0:14:57.12,Main,,0000,0000,0000,,Tinha um novo sabor à venda.
+Dialogue: 0,0:14:57.12,0:15:01.88,Main,,0000,0000,0000,,Combinando duas bebidas comuns, podemos\Napreciar uma pequena quantidade de caos.
+Dialogue: 0,0:14:57.12,0:15:02.40,Black Signs,,0000,0000,0000,,{\an6}Pudim de limonada
+Dialogue: 0,0:14:57.12,0:15:02.40,Black Signs,,0000,0000,0000,,{\an4}Chá verde
+Dialogue: 0,0:15:02.85,0:15:06.31,Main,,0000,0000,0000,,Não acha que é um bom jeito\Nde dispersar o tédio?
+Dialogue: 0,0:15:06.31,0:15:08.51,Main,,0000,0000,0000,,Tudo bem, mas quero ver beber isso.
+Dialogue: 0,0:15:14.26,0:15:17.02,Main,,0000,0000,0000,,Muito bem, faça sua apresentação,\Nnova aluna!
+Dialogue: 0,0:15:14.45,0:15:17.38,Black Signs,,0000,0000,0000,,Bem-vinda, nova aluna\NNós a recebemos de braços abertos!!
+Dialogue: 0,0:15:17.54,0:15:20.97,Main,,0000,0000,0000,,S-Sim! S-Sou a Honda Tamaki,\Nestou no 1º ano.
+Dialogue: 0,0:15:20.97,0:15:24.94,Main,,0000,0000,0000,,Não tenho experiência em fazer jogos\Nnem em desenhar, mas é um prazer!
+Dialogue: 0,0:15:25.34,0:15:31.00,Main,,0000,0000,0000,,E-E isto... Minha avó disse pra\Nlevar algo quando vou a um lugar novo.
+Dialogue: 0,0:15:32.60,0:15:33.40,Main,,0000,0000,0000,,Que tal?
+Dialogue: 0,0:15:34.98,0:15:36.20,Main,,0000,0000,0000,,É gostoso.
+Dialogue: 0,0:15:36.48,0:15:37.53,Main,,0000,0000,0000,,É muito bom!
+Dialogue: 0,0:15:37.53,0:15:39.83,Main,,0000,0000,0000,,Pegou bem o sabor,\Nmuito boa a raiz de bardana.
+Dialogue: 0,0:15:44.97,0:15:48.28,Main,,0000,0000,0000,,Sim, é gostoso, mas é isso\Nque se faz em um clube?
+Dialogue: 0,0:15:48.28,0:15:50.72,Main,,0000,0000,0000,,Mas fico feliz que tenha vindo.
+Dialogue: 0,0:15:50.72,0:15:51.84,Main,,0000,0000,0000,,Sua vez, presidente.
+Dialogue: 0,0:15:51.84,0:15:54.85,Main,,0000,0000,0000,,Me chamo Murakami Shiina,\Nestou no 2º ano e sou programadora.
+Dialogue: 0,0:15:54.85,0:15:57.71,Main,,0000,0000,0000,,Presidente, estou ansiosa\Npara trabalharmos juntas.
+Dialogue: 0,0:15:57.71,0:16:00.74,Main,,0000,0000,0000,,E acho que acabei entrando\Nno clube por impulso...
+Dialogue: 0,0:16:00.74,0:16:03.85,Main,,0000,0000,0000,,Tudo bem, ter impulsos\Né importante no processo criativo!
+Dialogue: 0,0:16:03.85,0:16:06.39,Main,,0000,0000,0000,,Fiquei interessada\Nquando vi seu olhar sério
+Dialogue: 0,0:16:06.39,0:16:09.74,Main,,0000,0000,0000,,e quis me juntar a vocês\Npra criar jogos.
+Dialogue: 0,0:16:10.12,0:16:11.78,Main,,0000,0000,0000,,Eu fiz essa expressão?
+Dialogue: 0,0:16:12.32,0:16:13.74,Main,,0000,0000,0000,,Naquela hora, eu...
+Dialogue: 0,0:16:13.74,0:16:18.38,Main,,0000,0000,0000,,só pensava em como punir a roteirista,\Nque enlouqueceu na noite anterior.
+Dialogue: 0,0:16:19.12,0:16:20.37,Main,,0000,0000,0000,,Enlouqueceu?
+Dialogue: 0,0:16:20.64,0:16:22.74,Main,,0000,0000,0000,,Ela me ligou no meio\Nda noite para dizer
+Dialogue: 0,0:16:22.74,0:16:25.63,Main,,0000,0000,0000,,que devíamos colocar um\Ninimigo secreto na demonstração.
+Dialogue: 0,0:16:25.63,0:16:29.57,Main,,0000,0000,0000,,Para o caso de vir um jogador hardcore\Ndurante o Clube PR, sabe?
+Dialogue: 0,0:16:29.57,0:16:32.28,Main,,0000,0000,0000,,Pensei que a dificuldade\Nnão estava alta o suficiente.
+Dialogue: 0,0:16:32.28,0:16:37.39,Main,,0000,0000,0000,,Meu único trabalho seria tornar a IA\Nmais difícil, então pensei que daria conta.
+Dialogue: 0,0:16:37.39,0:16:42.68,Main,,0000,0000,0000,,No entanto, quem deu a ideia\Nestava jogando outros games...
+Dialogue: 0,0:16:42.68,0:16:47.26,Main,,0000,0000,0000,,Eu não estava me divertindo! Estava\Njogando RPGs antigos como pesquisa!
+Dialogue: 0,0:16:47.26,0:16:50.31,Italic,,0000,0000,0000,,Já vi que ela dá medo quando fica brava.
+Dialogue: 0,0:16:50.31,0:16:51.98,Main,,0000,0000,0000,,E quando conseguiu dormir?
+Dialogue: 0,0:16:52.31,0:16:53.08,Main,,0000,0000,0000,,Às 5 da manhã.
+Dialogue: 0,0:16:53.08,0:16:58.31,Main,,0000,0000,0000,,C-Como pode ver, me chamo Seki Ayame,\Nestou no 2º ano e cuido do roteiro!
+Dialogue: 0,0:16:58.31,0:16:59.60,Main,,0000,0000,0000,,Também estou no 2º ano.
+Dialogue: 0,0:16:59.60,0:17:02.70,Main,,0000,0000,0000,,Me chamo Fujikawa Kayo,\Nfaço as músicas e efeitos sonoros.
+Dialogue: 0,0:17:03.02,0:17:04.30,Main,,0000,0000,0000,,Muito prazer.
+Dialogue: 0,0:17:05.10,0:17:05.91,Main,,0000,0000,0000,,Prazer!
+Dialogue: 0,0:17:07.05,0:17:08.02,Main,,0000,0000,0000,,Que foi?
+Dialogue: 0,0:17:08.20,0:17:11.94,Main,,0000,0000,0000,,Pensei em como vocês são incríveis,\Nconseguem fazer várias coisas
+Dialogue: 0,0:17:11.94,0:17:13.63,Main,,0000,0000,0000,,aqui no clube do...
+Dialogue: 0,0:17:13.84,0:17:17.48,Main,,0000,0000,0000,,Clube "Só olho de peixe morto,\NNa falta de sol, {\i1}Shuttle run{\i0}".
+Dialogue: 0,0:17:19.77,0:17:20.28,Main,,0000,0000,0000,,Hã?
+Dialogue: 0,0:17:20.79,0:17:27.49,S1,,0000,0000,0000,,ó olho de peixe morto
+Dialogue: 0,0:17:20.79,0:17:27.49,Clube,,0000,0000,0000,,Clube
+Dialogue: 0,0:17:22.16,0:17:27.49,N,,0000,0000,0000,,a falta de sol
+Dialogue: 0,0:17:23.39,0:17:27.49,S2,,0000,0000,0000,,huttle Run
+Dialogue: 0,0:17:27.82,0:17:30.84,Main,,0000,0000,0000,,Tem uma razão profunda que\Nlevaria a noite toda pra explicar.
+Dialogue: 0,0:17:30.84,0:17:31.76,Main,,0000,0000,0000,,Entendo...
+Dialogue: 0,0:17:32.26,0:17:34.64,Main,,0000,0000,0000,,Então, sobre os planos\Nde agora em diante.
+Dialogue: 0,0:17:35.42,0:17:40.77,Main,,0000,0000,0000,,No ano passado, graças à nossa líder\Ne fundadora, conseguimos criar o puzzle.
+Dialogue: 0,0:17:41.22,0:17:44.52,Main,,0000,0000,0000,,Agora que estamos sem ela, somos\Nbasicamente um bando de amadoras.
+Dialogue: 0,0:17:44.52,0:17:46.68,Main,,0000,0000,0000,,Vamos começar pequeno\Ne ir aumentando.
+Dialogue: 0,0:17:48.98,0:17:52.18,Main,,0000,0000,0000,,Pensei em um novo enredo\Nespecialmente para hoje!
+Dialogue: 0,0:17:50.92,0:17:56.08,Black Signs,,0000,0000,0000,,Proposta de planejamento
+Dialogue: 0,0:17:52.51,0:17:55.91,Main,,0000,0000,0000,,Deem para mim a liderança do\Nsegundo projeto Clube SNS!
+Dialogue: 0,0:17:56.24,0:17:57.84,Main,,0000,0000,0000,,Líder? Você?
+Dialogue: 0,0:17:57.84,0:17:59.88,Main,,0000,0000,0000,,Tudo bem? Não está\Nse forçando a isso?
+Dialogue: 0,0:18:00.14,0:18:03.16,Main,,0000,0000,0000,,Ah... Ouvir isso me magoa.
+Dialogue: 0,0:18:04.94,0:18:07.64,Main,,0000,0000,0000,,Faz sentido, um spin-off daquele puzzle.
+Dialogue: 0,0:18:07.64,0:18:11.22,Main,,0000,0000,0000,,I-Isso, imaginei que poderia ser\Numa visual novel curtinha.
+Dialogue: 0,0:18:11.22,0:18:14.80,Main,,0000,0000,0000,,Acho que a música pode ser\Num arranjo do que eu fiz.
+Dialogue: 0,0:18:14.80,0:18:15.91,Main,,0000,0000,0000,,Parece bom.
+Dialogue: 0,0:18:15.91,0:18:17.82,Main,,0000,0000,0000,,Está ficando empolgante!
+Dialogue: 0,0:18:17.82,0:18:20.17,Main,,0000,0000,0000,,Quem vai desenhar para isto é você.
+Dialogue: 0,0:18:20.17,0:18:22.04,Main,,0000,0000,0000,,Hã? É mesmo.
+Dialogue: 0,0:18:23.88,0:18:28.07,Main,,0000,0000,0000,,Acho que devo desenhar\Nno computador, né?
+Dialogue: 0,0:18:28.07,0:18:32.17,Main,,0000,0000,0000,,Sim. Bom, se não\Nconseguir, tudo bem.
+Dialogue: 0,0:18:32.64,0:18:37.04,Main,,0000,0000,0000,,Você precisa desenhar os sprites,\Nexpressões, CGs e a interface do jogador.
+Dialogue: 0,0:18:37.64,0:18:40.20,Main,,0000,0000,0000,,A criação de tudo isso\Nvai ficar em suas mãos.
+Dialogue: 0,0:18:40.68,0:18:43.45,Main,,0000,0000,0000,,É um projeto em grupo, haverá prazos.
+Dialogue: 0,0:18:43.74,0:18:46.65,Main,,0000,0000,0000,,Murakami-san, não precisa\Ncolocar tanta pressão nela.
+Dialogue: 0,0:18:46.65,0:18:51.05,Main,,0000,0000,0000,,Não quero forçá-la a fazer nada,\Nporque é trabalhoso fazer um jogo.
+Dialogue: 0,0:18:51.42,0:18:56.88,Italic,,0000,0000,0000,,Sim, deve mesmo ser trabalhoso, e nem\Nconsigo imaginar como vai ser o jogo.
+Dialogue: 0,0:18:56.88,0:18:58.54,Italic,,0000,0000,0000,,Talvez eu não seja capaz.
+Dialogue: 0,0:19:00.02,0:19:01.26,Italic,,0000,0000,0000,,Mas eu...
+Dialogue: 0,0:19:02.14,0:19:05.16,Italic,,0000,0000,0000,,...não quero mais perder tempo\Nsem ter um objetivo.
+Dialogue: 0,0:19:05.56,0:19:07.62,Italic,,0000,0000,0000,,Quero criar meu próprio jogo.
+Dialogue: 0,0:19:08.32,0:19:09.79,Main,,0000,0000,0000,,Eu...
+Dialogue: 0,0:19:09.79,0:19:11.14,Main,,0000,0000,0000,,vou mostrar que consigo!
+Dialogue: 0,0:19:11.14,0:19:13.28,Main,,0000,0000,0000,,Boa resposta, Honda-chan!
+Dialogue: 0,0:19:13.28,0:19:14.38,Main,,0000,0000,0000,,Vai dar tudo certo!
+Dialogue: 0,0:19:14.64,0:19:15.78,Main,,0000,0000,0000,,S-Sim!
+Dialogue: 0,0:19:17.29,0:19:26.05,Black Signs,,0000,0000,0000,,{\an9}Sobre o novo planejamento\N\NCronograma\NConteúdo\NPrazos
+Dialogue: 0,0:19:17.40,0:19:19.94,Main,,0000,0000,0000,,Nesse caso, este\Nvai ser o cronograma.
+Dialogue: 0,0:19:20.40,0:19:23.60,Main,,0000,0000,0000,,Há várias oportunidades\Npara vender jogos doujin,
+Dialogue: 0,0:19:23.60,0:19:25.89,Main,,0000,0000,0000,,mas nosso objetivo é\No Comiket de verão.
+Dialogue: 0,0:19:26.06,0:19:27.22,Main,,0000,0000,0000,,Comiket de verão?
+Dialogue: 0,0:19:27.22,0:19:30.64,Main,,0000,0000,0000,,É um evento de doujins enorme\Nque acontece nas férias de verão.
+Dialogue: 0,0:19:31.14,0:19:35.48,Main,,0000,0000,0000,,Nosso maior objetivo é terminar\No novo jogo para participar do Comiket.
+Dialogue: 0,0:19:35.48,0:19:37.40,Main,,0000,0000,0000,,Certo, gostei.
+Dialogue: 0,0:19:37.40,0:19:40.18,Main,,0000,0000,0000,,Um cronograma impossível\Nsó vai nos levar ao fracasso.
+Dialogue: 0,0:19:41.18,0:19:43.36,Main,,0000,0000,0000,,Já estava esquecendo,\Npode ficar com isto.
+Dialogue: 0,0:19:43.62,0:19:45.71,Main,,0000,0000,0000,,É o jogo que todas criaram, né?
+Dialogue: 0,0:19:45.71,0:19:47.90,Main,,0000,0000,0000,,Mas não precisa desenhar igual a isso.
+Dialogue: 0,0:19:48.64,0:19:51.75,Main,,0000,0000,0000,,Espero que seja um jogo em que\Npossa expressar quem você é.
+Dialogue: 0,0:19:52.34,0:19:53.74,Italic,,0000,0000,0000,,Eu me expressar?
+Dialogue: 0,0:19:54.25,0:19:57.37,Main,,0000,0000,0000,,Certo, acho que vou preparar\Numa música pra amanhã.
+Dialogue: 0,0:19:57.37,0:19:59.97,Main,,0000,0000,0000,,Hã? Dá pra fazer uma música\Nem tão pouco tempo?
+Dialogue: 0,0:19:59.97,0:20:01.21,Main,,0000,0000,0000,,Acho que também vou...
+Dialogue: 0,0:20:01.21,0:20:03.74,Main,,0000,0000,0000,,Não se apresse!\NVai ser pressão em mim!
+Dialogue: 0,0:20:11.66,0:20:15.17,Main,,0000,0000,0000,,Shii, não era melhor\Npegar um pouco mais leve?
+Dialogue: 0,0:20:15.77,0:20:19.47,Main,,0000,0000,0000,,Vamos precisar que ela faça\Num número muito grande de ilustrações.
+Dialogue: 0,0:20:19.47,0:20:23.00,Main,,0000,0000,0000,,Se ela acabar caindo\Nde cansaço depois, eu vou...
+Dialogue: 0,0:20:23.62,0:20:26.81,Main,,0000,0000,0000,,Eu entendo, mas vamos\Nser mais positivas.
+Dialogue: 0,0:20:27.28,0:20:29.74,Main,,0000,0000,0000,,Hoje você se divertiu,\Ndepois de tanto tempo.
+Dialogue: 0,0:20:30.08,0:20:30.96,Main,,0000,0000,0000,,Eu?
+Dialogue: 0,0:20:32.84,0:20:33.68,Main,,0000,0000,0000,,Talvez.
+Dialogue: 0,0:20:33.68,0:20:36.71,Main,,0000,0000,0000,,Acho que é divertido porque\Né a primeira kouhai que temos.
+Dialogue: 0,0:20:36.96,0:20:38.97,Main,,0000,0000,0000,,Haverá falhas e contratempos,
+Dialogue: 0,0:20:39.42,0:20:41.94,Main,,0000,0000,0000,,mas acho que nós quatro damos um jeito.
+Dialogue: 0,0:20:42.34,0:20:45.40,Main,,0000,0000,0000,,Eu também vou me esforçar,\Ntá, presidente?
+Dialogue: 0,0:20:46.77,0:20:50.14,Main,,0000,0000,0000,,Obrigada, Aya. Me sinto\Nmais animada agora.
+Dialogue: 0,0:20:52.44,0:20:53.68,Main,,0000,0000,0000,,Aceite, de agradecimento.
+Dialogue: 0,0:20:53.98,0:20:55.56,Main,,0000,0000,0000,,Eu disse pra você mesma beber!
+Dialogue: 0,0:21:18.56,0:21:22.10,Main,,0000,0000,0000,,Tamaki, desenhando até esta hora?
+Dialogue: 0,0:21:22.38,0:21:23.37,Main,,0000,0000,0000,,Vovó.
+Dialogue: 0,0:21:23.62,0:21:25.74,Main,,0000,0000,0000,,Não esqueça de desligar a TV.
+Dialogue: 0,0:21:26.06,0:21:27.90,Main,,0000,0000,0000,,Sim. Boa noite.
+Dialogue: 0,0:21:31.51,0:21:35.40,Main,,0000,0000,0000,,E depois? Sinto que consegui\Nimitar o desenho, mas...
+Dialogue: 0,0:21:35.74,0:21:38.86,Flashback,,0000,0000,0000,,{\i1}Espero que seja um jogo em que\Npossa expressar quem você é.{\i0}
+Dialogue: 0,0:21:43.02,0:21:44.99,Main,,0000,0000,0000,,Certo, vou fazer só mais um!
+Dialogue: 0,0:21:45.96,0:21:49.48,Italic,,0000,0000,0000,,Sinto que finalmente encontrei\Nalgo que quero fazer.
+Dialogue: 0,0:23:24.12,0:23:26.36,Italic,,0000,0000,0000,,Vejam o orvalho sobre esta Leontochir!
+Dialogue: 0,0:23:26.36,0:23:27.44,Italic,,0000,0000,0000,,Não me chame assim.
+Dialogue: 0,0:23:27.44,0:23:30.02,Italic,,0000,0000,0000,,Poderia haver mais\Npersonagens mais velhos.
+Dialogue: 0,0:23:29.24,0:23:31.68,Top,,0000,0000,0000,,{\i1}Acho que nossos personagens são felizes.{\i0}
+Dialogue: 0,0:23:31.22,0:23:33.82,Italic,,0000,0000,0000,,Porque você desenhou assim, Tama-chan.
+Dialogue: 1,0:23:33.08,0:23:36.07,title - preview,,0000,0000,0000,,Produção divertida

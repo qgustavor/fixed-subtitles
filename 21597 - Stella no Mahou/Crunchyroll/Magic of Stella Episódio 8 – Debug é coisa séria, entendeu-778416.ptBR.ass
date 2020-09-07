@@ -1,0 +1,340 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Top,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,8,0040,0040,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Flashback,Trebuchet MS,22,&H00FFFFFF,&H000E00AB,&H1062301E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: title,Trebuchet MS,30,&H00FBFDFD,&H000000FF,&H00D6A5F8,&H00D4A7F7,0,0,0,0,100,100,0,0,1,2,0,8,0015,0015,0110,1
+Style: title - preview,Trebuchet MS,20,&H00FBFDFD,&H000000FF,&H00D6A5F8,&H00D4A7F7,0,0,0,0,100,100,0,0,1,2,0,8,0015,0015,0035,1
+Style: Musica,Trebuchet MS,20,&H00FFFFFF,&H000E00AB,&H101E120E,&HC03C4414,-1,0,0,0,100,100,0,0,1,2,1,3,0040,0040,0055,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 5,0:00:04.87,0:00:06.91,Main,tama,0000,0000,0000,,Hã? Quem é você?
+Dialogue: 5,0:00:06.91,0:00:10.29,Main,minaha,0000,0000,0000,,Finalmente consegui descobrir\Nonde é o esconderijo de vocês!
+Dialogue: 5,0:00:10.29,0:00:14.01,Main,minaha,0000,0000,0000,,Fui decidida a chegar e\Napagar o fogo de vocês,
+Dialogue: 5,0:00:14.01,0:00:16.76,Main,minaha,0000,0000,0000,,mas se atreveram a me fazer\Nde boba naquela hora!
+Dialogue: 5,0:00:17.33,0:00:20.80,Main,tama,0000,0000,0000,,Hã? Quem é essa menina? Hein?
+Dialogue: 1,0:01:53.84,0:01:56.84,title,,0000,0000,0000,,Debug é coisa séria, entendeu?
+Dialogue: 5,0:02:00.32,0:02:02.38,Main,tama,0000,0000,0000,,N-Não me confundiu com outra pessoa?
+Dialogue: 5,0:02:02.38,0:02:04.20,Main,minaha,0000,0000,0000,,Hã? Vai fingir que não é com você?
+Dialogue: 5,0:02:06.91,0:02:10.81,Main,minaha,0000,0000,0000,,Não confundi nada!\NHonda Tamaki, 1º ano, turma 2.
+Dialogue: 5,0:02:10.81,0:02:13.44,Main,minaha,0000,0000,0000,,Você também estava na sala do clube!
+Dialogue: 5,0:02:13.44,0:02:14.96,Main,tama,0000,0000,0000,,E-Eu...
+Dialogue: 5,0:02:14.96,0:02:17.69,Main,minaha,0000,0000,0000,,Não vou esquecer o sábado\Nda semana passada!
+Dialogue: 5,0:02:17.97,0:02:22.93,Main,minaha,0000,0000,0000,,Trilhei meu caminho até o clube sob\Na luz do entardecer e abri a porta da sala.
+Dialogue: 5,0:02:23.49,0:02:26.53,Main,minaha,0000,0000,0000,,Lembro que havia um tiozinho\Ncom uma caixa de madeira ali...
+Dialogue: 5,0:02:26.79,0:02:28.11,Main,minaha,0000,0000,0000,,Mas então...
+Dialogue: 5,0:02:28.81,0:02:31.77,Flashback,minaha,0000,0000,0000,,Eu tenho interesse em\Nme juntar ao clube—
+Dialogue: 5,0:02:31.77,0:02:32.85,Flashback,seki,0000,0000,0000,,Deixa pra depois!
+Dialogue: 5,0:02:32.85,0:02:35.84,Main,minaha,0000,0000,0000,,Fui expulsa por uma\Nquatro-olhos sem graça.
+Dialogue: 5,0:02:35.84,0:02:39.32,Main,minaha,0000,0000,0000,,Mas eu vi! Você estava\Nnaquela sala também!
+Dialogue: 5,0:02:39.32,0:02:41.73,Italic,tama,0000,0000,0000,,Ela tentou entrar no clube\Nna hora da correria?
+Dialogue: 5,0:02:42.47,0:02:44.82,Main,tama,0000,0000,0000,,Desculpa, não consigo me lembrar...
+Dialogue: 5,0:02:44.82,0:02:46.07,Main,minaha,0000,0000,0000,,O quê?!
+Dialogue: 5,0:02:47.49,0:02:51.85,Main,minaha,0000,0000,0000,,Minha irmã mais velha me disse\Nque você faz parte do Clube SNS.
+Dialogue: 5,0:02:51.85,0:02:52.79,Main,tama,0000,0000,0000,,Sua irmã?
+Dialogue: 5,0:02:52.98,0:02:56.94,Main,minaha,0000,0000,0000,,Só olho de peixe morto e....
+Dialogue: 5,0:02:56.94,0:03:00.45,Main,tama,0000,0000,0000,,Clube Só olho de peixe morto,\NNa falta de sol, Shuttle run.
+Dialogue: 5,0:03:01.61,0:03:04.99,Main,minaha,0000,0000,0000,,Isso é comprido demais\Npra uma baixinha como você!
+Dialogue: 5,0:03:05.37,0:03:09.81,Main,tama,0000,0000,0000,,E-Estou crescendo 2 milímetros por ano!\NE neste ano, quando o papai mediu...
+Dialogue: 5,0:03:09.81,0:03:12.89,Main,minaha,0000,0000,0000,,Ah, não é isso!
+Dialogue: 5,0:03:12.89,0:03:16.27,Main,minaha,0000,0000,0000,,Honda Tamaki, aceite\Nagora mesmo um duelo comigo!
+Dialogue: 5,0:03:16.27,0:03:18.37,Main,tama,0000,0000,0000,,U-Um duelo?!
+Dialogue: 5,0:03:18.63,0:03:23.78,Main,minaha,0000,0000,0000,,Sou do Clube de Ilustração, mas não vou\Ndeixar o Clube SNS zombar de mim.
+Dialogue: 1,0:03:18.90,0:03:22.05,Black Signs,,0000,0000,0000,,{=1}Clube de Literatura / Hoshinotsuji
+Dialogue: 5,0:03:24.33,0:03:26.29,Main,minaha,0000,0000,0000,,Vamos fazer um duelo de desenhos!
+Dialogue: 1,0:03:26.51,0:03:30.95,Black Signs,,0000,0000,0000,,{=4}Coleção de Composições dos Gatos (Edição 28)
+Dialogue: 5,0:03:26.77,0:03:30.95,Main,minaha,0000,0000,0000,,Esse é o meu livro favorito. Foi publicado\Npelo Clube de Literatura há um bom tempo.
+Dialogue: 5,0:03:31.25,0:03:35.51,Main,minaha,0000,0000,0000,,Vamos fazer o design dos personagens,\Ncom base na história do livro...
+Dialogue: 5,0:03:36.61,0:03:39.33,Main,minaha,0000,0000,0000,,e veremos quem faz os desenhos\Nque se encaixam melhor!
+Dialogue: 5,0:03:39.63,0:03:43.03,Main,minaha,0000,0000,0000,,Se eu vencer, vai ter que me dar\Numa cópia do jogo de vocês.
+Dialogue: 5,0:03:44.07,0:03:50.67,Flashback,shii,0000,0000,0000,,Mesmo aos poucos, muita gente\Npoderá apreciar nossos jogos...
+Dialogue: 5,0:03:51.85,0:03:55.19,Italic,tama,0000,0000,0000,,Sinto que é melhor\Neu entregar logo a cópia...
+Dialogue: 5,0:03:55.95,0:03:59.73,Main,tama,0000,0000,0000,,P-Puxa, isso é terrível!
+Dialogue: 5,0:03:59.73,0:04:02.05,Main,minaha,0000,0000,0000,,Que cara frouxa é essa?
+Dialogue: 5,0:04:02.05,0:04:03.61,Main,tama,0000,0000,0000,,Ah, é que...
+Dialogue: 5,0:04:04.53,0:04:07.35,Main,minaha,0000,0000,0000,,Não sei exatamente\Nqual é seu nível de desenho,
+Dialogue: 5,0:04:07.35,0:04:11.53,Main,minaha,0000,0000,0000,,mas aposto que suas senpais te guiaram\Npasso a passo para fazer o jogo.
+Dialogue: 5,0:04:11.85,0:04:14.58,Main,minaha,0000,0000,0000,,Como é duro não ter alguém\Nque desenha no grupo.
+Dialogue: 5,0:04:14.58,0:04:16.43,Main,tama,0000,0000,0000,,Não é isso...
+Dialogue: 5,0:04:16.43,0:04:20.21,Main,tama,0000,0000,0000,,E-Elas me ajudaram,\Nmas eu também pratiquei muito!
+Dialogue: 5,0:04:20.40,0:04:23.93,Main,minaha,0000,0000,0000,,Pra começar, você estava no interior\Nantes do ensino médio, certo?
+Dialogue: 5,0:04:23.93,0:04:29.18,Main,minaha,0000,0000,0000,,Agora que veio para cá, acho que ainda\Nnão se acostumou com o novo ambiente.
+Dialogue: 5,0:04:29.77,0:04:34.71,Main,tama,0000,0000,0000,,Não é o fim do mundo.\NÉ em Tondabayashi, nem é interior...
+Dialogue: 5,0:04:34.71,0:04:38.37,Main,minaha,0000,0000,0000,,Ah, desculpa! Não queria\Nfalar mal da sua terra natal!
+Dialogue: 5,0:04:39.53,0:04:41.39,Main,minaha,0000,0000,0000,,Tanto faz isso!
+Dialogue: 5,0:04:41.39,0:04:43.07,Main,*tama,0000,0000,0000,,Mas foi você que disse!
+Dialogue: 5,0:04:43.07,0:04:45.65,Main,minaha,0000,0000,0000,,E então? Vai me enfrentar ou não?
+Dialogue: 5,0:04:47.41,0:04:51.49,Italic,tama,0000,0000,0000,,Depois de aprender com as senpais,\Nagora consigo desenhar várias coisas.
+Dialogue: 5,0:04:51.49,0:04:54.95,Italic,,0000,0000,0000,,Não posso perder pra esta garota,\Npor elas também!
+Dialogue: 5,0:04:56.11,0:04:58.08,Main,tama,0000,0000,0000,,Eu aceito!
+Dialogue: 5,0:04:58.93,0:05:03.50,Main,minaha,0000,0000,0000,,É isso aí. Eu também tenho razões\Npara não perder este duelo.
+Dialogue: 5,0:05:03.50,0:05:07.77,Main,minaha,0000,0000,0000,,Minha vida mudou completamente\Ndepois que conheci este livro.
+Dialogue: 5,0:05:08.09,0:05:11.55,Main,minaha,0000,0000,0000,,E eu me mantive desenhando\Nespecialmente para este dia!
+Dialogue: 1,0:05:11.55,0:05:14.55,Black Signs,,0000,0000,0000,,{=7}Desejos de Poeira Estelar\NPrimeira Parte\N\NAutora: Iris
+Dialogue: 5,0:05:14.77,0:05:16.17,Main,tama,0000,0000,0000,,Mas... hein?
+Dialogue: 5,0:05:16.69,0:05:18.81,Main,,0000,0000,0000,,Acho que já vi esse título\Nem algum lugar...
+Dialogue: 5,0:05:19.07,0:05:21.27,Main,minaha,0000,0000,0000,,Muito bem, vamos ler.
+Dialogue: 5,0:05:22.25,0:05:27.11,Top,minaha,0000,0000,0000,,Meu nome é Aya. Luto secretamente contra\Nfiguras sombrias que devoram a minha cidade.
+Dialogue: 5,0:05:27.29,0:05:33.91,Top,minaha,0000,0000,0000,,Dizem que sou a Estrela Cintilante,\Na Sacerdotisa da Poeira Estelar que os elimina.
+Dialogue: 5,0:05:33.91,0:05:36.69,Top,minaha,0000,0000,0000,,Mas também tenho\Numa vida particular bem ativa.
+Dialogue: 5,0:05:36.69,0:05:39.41,Top,minaha,0000,0000,0000,,Brilho todos os dias como uma estrela!
+Dialogue: 5,0:05:39.41,0:05:42.65,Top,minaha,0000,0000,0000,,{\fade(0,300)}Há pouco tempo eu\Narranjei um namorado, mas...
+Dialogue: 5,0:05:42.65,0:05:45.29,Top,minaha,0000,0000,0000,,nos últimos tempos,\Nhá uma pessoa em minha mente...
+Dialogue: 5,0:05:45.97,0:05:49.23,Top,minaha,0000,0000,0000,,Um homem que protege\Nda chuva gatinhos abandonados.
+Dialogue: 5,0:05:49.23,0:05:50.61,Top,,0000,0000,0000,,Ai, meu coração!
+Dialogue: 5,0:05:50.61,0:05:55.51,Top,minaha,0000,0000,0000,,Oh, por que meu coração está tão\Nsaltitante? Eu já tenho namorado!
+Dialogue: 5,0:05:56.85,0:06:01.83,Main,tama,0000,0000,0000,,Eu sabia, é da Seki-senpai!\NSinto que não devo ler isto!
+Dialogue: 5,0:06:01.83,0:06:04.66,Main,minaha,0000,0000,0000,,Que foi? Agora é a melhor parte.
+Dialogue: 5,0:06:04.66,0:06:06.82,Main,tama,0000,0000,0000,,T-Temos que desenhar\Nestes personagens?
+Dialogue: 5,0:06:06.82,0:06:07.47,Main,minaha,0000,0000,0000,,Isso mesmo.
+Dialogue: 5,0:06:08.93,0:06:12.95,Top,minaha,0000,0000,0000,,Desde aquele dia, eu e o homem do guarda-chuva,\No Baruta-san, estamos nos aproximando.
+Dialogue: 5,0:06:12.95,0:06:15.89,Top,minaha,0000,0000,0000,,Hoje ele me convidou e viemos\Na um parque de diversões!
+Dialogue: 5,0:06:16.31,0:06:19.25,Top,minaha,0000,0000,0000,,Mas, inesperadamente,\Ndemos de cara com meu namorado.
+Dialogue: 5,0:06:19.25,0:06:24.67,Top,minaha,0000,0000,0000,,Para mim aquilo não era uma traição, mas\Nseus olhos já observavam o céu ao longe.
+Dialogue: 5,0:06:25.25,0:06:29.79,Top,minaha,0000,0000,0000,,"Aya, vamos terminar". Suas palavras\Nme atravessavam como meteoros.
+Dialogue: 5,0:06:30.03,0:06:33.95,Top,minaha,0000,0000,0000,,Foi nessa hora que Baruta-san\Nme envolveu com delicadeza.
+Dialogue: 5,0:06:34.27,0:06:37.47,Top,minaha,0000,0000,0000,,O que faço? Meu coração\Njá bate pelo Baruta-san!
+Dialogue: 5,0:06:37.67,0:06:39.53,Main,minaha,0000,0000,0000,,Mas o que é isso?!
+Dialogue: 5,0:06:39.53,0:06:40.05,Main,,0000,0000,0000,,Hã?
+Dialogue: 1,0:06:40.47,0:06:44.18,Black Signs,,0000,0000,0000,,Heroína
+Dialogue: 5,0:06:40.85,0:06:43.99,Main,minaha,0000,0000,0000,,Por que a heroína é essa garota\Ncom cara enfadonha e de óculos?
+Dialogue: 5,0:06:44.41,0:06:46.39,Main,minaha,0000,0000,0000,,Leve este duelo a sério.
+Dialogue: 5,0:06:46.39,0:06:48.29,Main,tama,0000,0000,0000,,Ah, é que...
+Dialogue: 5,0:06:49.01,0:06:53.37,Top,minaha,0000,0000,0000,,"Nossa felicidade não durou muito,\Nos monstros voltaram a atacar a Terra.
+Dialogue: 5,0:06:53.37,0:06:56.83,Top,minaha,0000,0000,0000,,{\fade(0,300)}Enquanto a luta entre nossas defesas\Ne os monstros engolia a cidade...
+Dialogue: 5,0:06:59.17,0:07:01.69,Main,minaha,0000,0000,0000,,Não importa quantas vezes leio,\Né uma obra-prima.
+Dialogue: 5,0:07:01.69,0:07:04.23,Main,minaha,0000,0000,0000,,Como sou feliz por ter nascido.
+Dialogue: 5,0:07:04.71,0:07:08.75,Main,minaha,0000,0000,0000,,Muito bem, o próximo duelo.\NJá terminou o design do namorado?
+Dialogue: 5,0:07:08.95,0:07:14.01,Main,minaha,0000,0000,0000,,Se bem que, com aquele seu\Ndesenho da protagonista, eu já venci...
+Dialogue: 5,0:07:15.39,0:07:16.29,Italic,,0000,0000,0000,,Hã?
+Dialogue: 5,0:07:16.29,0:07:18.68,Italic,minaha,0000,0000,0000,,Esse olhar sério... e também...
+Dialogue: 5,0:07:19.15,0:07:21.09,Italic,minaha,0000,0000,0000,,...aquele modo delicado de desenhar...
+Dialogue: 5,0:07:21.09,0:07:22.93,Italic,minaha,0000,0000,0000,,É um homem de idade?
+Dialogue: 5,0:07:23.29,0:07:28.79,Italic,minaha,0000,0000,0000,,H-Honda Tamaki, por acaso\Nestá desenhando o Baruta?
+Dialogue: 5,0:07:28.79,0:07:33.67,Italic,minaha,0000,0000,0000,,Devo admirar essa coragem para\Nviolar as regras do meu duelo...
+Dialogue: 5,0:07:33.67,0:07:38.91,Italic,minaha,0000,0000,0000,,Não... Aquele olhar! Sua paixão\Nnão se importa com qual é o tema!
+Dialogue: 5,0:07:38.91,0:07:44.16,Italic,minaha,0000,0000,0000,,Está tão animada que coloca cada\Npedaço de si na ponta de seu lápis!
+Dialogue: 5,0:07:44.16,0:07:47.80,Italic,minaha,0000,0000,0000,,E dá para ver sua alma naquele papel.
+Dialogue: 5,0:07:47.80,0:07:51.77,Italic,minaha,0000,0000,0000,,Ela está além dos limites de um design\Nde personagem. É o seu entusiasmo!
+Dialogue: 5,0:07:56.75,0:07:57.76,Main,minaha,0000,0000,0000,,Fui vencida.
+Dialogue: 5,0:07:58.13,0:07:58.65,Main,tama,0000,0000,0000,,Hã?
+Dialogue: 5,0:08:00.09,0:08:00.76,Main,,0000,0000,0000,,Como assim?
+Dialogue: 5,0:08:01.15,0:08:04.07,Main,minaha,0000,0000,0000,,Você vai ver, Honda Tamak—
+Dialogue: 5,0:08:04.99,0:08:06.25,Main,,0000,0000,0000,,Ai!
+Dialogue: 5,0:08:06.25,0:08:07.53,Main,tama,0000,0000,0000,,V-Você está bem?!
+Dialogue: 5,0:08:07.53,0:08:11.71,Main,minaha,0000,0000,0000,,Não se aproxime!\NNão preciso da compaixão do inimigo!
+Dialogue: 5,0:08:12.69,0:08:16.39,Main,minaha,0000,0000,0000,,Um dia... Um dia farei\Ncom que todas vocês...
+Dialogue: 5,0:08:21.87,0:08:23.21,Main,tama,0000,0000,0000,,Quero te dar isto.
+Dialogue: 5,0:08:25.17,0:08:27.29,Main,minaha,0000,0000,0000,,É o jogo que vocês fizeram.
+Dialogue: 5,0:08:27.96,0:08:32.17,Main,tama,0000,0000,0000,,A presidente disse que ela\Nquer ver muita gente jogando.
+Dialogue: 5,0:08:42.63,0:08:43.63,Main,minaha,0000,0000,0000,,Minaha.
+Dialogue: 5,0:08:45.63,0:08:47.81,Main,minaha,0000,0000,0000,,Minaha! É o meu nome!
+Dialogue: 5,0:08:50.35,0:08:52.73,Main,minaha,0000,0000,0000,,Não pense que acabou!
+Dialogue: 5,0:09:08.96,0:09:11.95,Italic,tama,0000,0000,0000,,Em uma noite chuvosa,\Nquando o Baruta-san diz...
+Dialogue: 5,0:09:11.95,0:09:15.67,Italic,tama,0000,0000,0000,,"Preciso ir. Porque meus\Ncompanheiros estão lutando."
+Dialogue: 5,0:09:16.27,0:09:17.15,Italic,tama,0000,0000,0000,,Como pensei...
+Dialogue: 5,0:09:17.45,0:09:18.99,Main,seki,0000,0000,0000,,Bom dia, Honda-san!
+Dialogue: 5,0:09:19.19,0:09:21.11,Main,tama,0000,0000,0000,,Sim! Muito bom dia!
+Dialogue: 5,0:09:21.65,0:09:24.39,Main,seki,0000,0000,0000,,Já está com cara de verão, né?
+Dialogue: 5,0:09:24.67,0:09:29.95,Italic,tama,0000,0000,0000,,"Oh, estrelas do destino, por que\Nbrincam conosco tão impiedosamente?"
+Dialogue: 5,0:09:30.35,0:09:33.51,Italic,tama,0000,0000,0000,,"V-Você é a Sacerdotisa\Nda Poeira Estelar?"
+Dialogue: 5,0:09:33.93,0:09:38.09,Italic,tama,0000,0000,0000,,No rosto do Baruta-san havia surpresa\Ne medo quando ele viu os seios de Aya.
+Dialogue: 5,0:09:38.09,0:09:43.78,Italic,tama,0000,0000,0000,,"Aya deu um passo para se afastar dele,\Nsabendo que são inimigos, mas..."
+Dialogue: 5,0:09:43.98,0:09:48.25,Main,seki,0000,0000,0000,,Me faz querer que esses dias\Nrefrescantes durem para sempre.
+Dialogue: 5,0:09:48.71,0:09:53.83,Italic,tama,0000,0000,0000,,"Espere. Eu não quero mais\Nesse destino. Vamos juntos..."
+Dialogue: 5,0:09:54.55,0:09:55.67,Main,tama,0000,0000,0000,,Fugir!
+Dialogue: 5,0:09:55.84,0:09:56.53,Main,seki,0000,0000,0000,,Hã?
+Dialogue: 5,0:09:57.05,0:10:00.59,Main,tama,0000,0000,0000,,Desculpa, Seki-senpai!\NEu sou uma garota má!
+Dialogue: 5,0:10:00.59,0:10:02.11,Main,seki,0000,0000,0000,,Honda-san?!
+Dialogue: 5,0:10:15.33,0:10:21.01,Italic,tama,0000,0000,0000,,Preciso devolver este livro àquela\Ngarota. Mas de qual turma e sala ela é?
+Dialogue: 5,0:10:21.43,0:10:26.49,Italic,tama,0000,0000,0000,,Ela falou sobre uma irmã mais velha,\Nserá irmã de alguma das senpais?
+Dialogue: 5,0:10:27.03,0:10:29.77,Main,tama,0000,0000,0000,,Será que eu a encontraria\Nno prédio da escola média?
+Dialogue: 5,0:10:30.21,0:10:35.23,Main,kayo,0000,0000,0000,,Eu fico me perguntando por que\Nfazer games é tão trabalhoso, sabe...
+Dialogue: 5,0:10:35.23,0:10:36.63,Main,*seki,0000,0000,0000,,A essa altura?
+Dialogue: 5,0:10:36.63,0:10:41.57,Main,kayo,0000,0000,0000,,Se eu escrever uma música e, sem perceber,\Njá estivesse em um jogo, seria ideal.
+Dialogue: 5,0:10:41.83,0:10:43.79,Main,shii,0000,0000,0000,,Essas coisas tão convenientes...
+Dialogue: 5,0:10:48.71,0:10:53.42,Main,minaha,0000,0000,0000,,Como... Como se atreveu a\Nescrever uma história tão cruel!
+Dialogue: 5,0:10:53.42,0:10:55.77,Main,minaha,0000,0000,0000,,Não consigo conter as lágrimas!
+Dialogue: 5,0:10:55.77,0:11:00.75,Main,minaha,0000,0000,0000,,E eu nem sabia que\Na Iris-sensei tinha escrito!
+Dialogue: 5,0:11:00.75,0:11:05.15,Main,,0000,0000,0000,,Como pensei, cada linha acaricia\Ngentilmente meu coração!
+Dialogue: 5,0:11:06.09,0:11:10.19,Main,minaha,0000,0000,0000,,E finalmente encontrei o jeito\Nde chegar ao verdadeiro final...
+Dialogue: 5,0:11:10.37,0:11:12.71,Main,minaha,0000,0000,0000,,Mesmo assim... Mesmo assim...
+Dialogue: 5,0:11:13.33,0:11:16.55,Main,minaha,0000,0000,0000,,Por que ali tem um bug\Nque trava tudo?!
+Dialogue: 5,0:11:16.88,0:11:19.39,Main,shii,0000,0000,0000,,Ah!!
+Dialogue: 5,0:11:19.39,0:11:22.25,Main,,0000,0000,0000,,Me desculpa, desculpa, desculpa...
+Dialogue: 5,0:11:22.25,0:11:26.51,Main,shii,0000,0000,0000,,{\fade(0,5000)}Desculpa, desculpa, desculpa, desculpa...
+Dialogue: 5,0:11:34.81,0:11:38.13,Main,minaha,0000,0000,0000,,Este clube tem um site, certo?
+Dialogue: 5,0:11:38.13,0:11:40.28,Main,kayo,0000,0000,0000,,Um bem simples, pelo menos.
+Dialogue: 5,0:11:40.61,0:11:45.63,Main,minaha,0000,0000,0000,,Já que o jogo trava, achei que poderia\Nhaver uma atualização e fui procurar...
+Dialogue: 5,0:11:46.28,0:11:51.91,Main,minaha,0000,0000,0000,,Mas nem tinha a apresentação\Ndos trabalhos naquele site!
+Dialogue: 5,0:11:52.10,0:11:53.65,Main,minaha,0000,0000,0000,,Quem fez aquilo?!
+Dialogue: 5,0:11:54.89,0:11:55.67,Main,seki,0000,0000,0000,,Ela.
+Dialogue: 5,0:11:56.12,0:11:59.07,Main,shii,0000,0000,0000,,Ainda estou aprendendo\Na fazer sites...
+Dialogue: 5,0:11:59.07,0:12:03.76,Main,shii,0000,0000,0000,,Pensei que seria pior apresentar\Ntrabalhos em um site tão ruim...
+Dialogue: 5,0:12:03.76,0:12:07.27,Main,tama,0000,0000,0000,,Presidente, fique firme!\NAquele site é legal!
+Dialogue: 5,0:12:08.07,0:12:11.97,Main,shii,0000,0000,0000,,Temos uma versão atualizada\Nsem esse bug. Tome.
+Dialogue: 5,0:12:12.15,0:12:16.98,Main,minaha,0000,0000,0000,,Uma versão atualizada? Com isso se abre\No caminho para o verdadeiro final!
+Dialogue: 5,0:12:17.19,0:12:20.34,Main,minaha,0000,0000,0000,,Nem posso esperar para chegar em casa!
+Dialogue: 5,0:12:20.34,0:12:23.23,Main,minaha,0000,0000,0000,,Por favor, me empreste um\Ncomputador, vou jogar aqui!
+Dialogue: 5,0:12:23.42,0:12:25.51,Main,kayo,0000,0000,0000,,Ah, então use meu notebook.
+Dialogue: 5,0:12:25.51,0:12:26.95,Main,minaha,0000,0000,0000,,Muito obrigada!
+Dialogue: 5,0:12:48.47,0:12:53.34,Main,*minaha,0000,0000,0000,,Obrigada pela resposta imediata!\NIsto é uma produção maravilhosa!
+Dialogue: 5,0:12:53.34,0:12:55.31,Main,shii,0000,0000,0000,,Apenas imitamos outros trabalhos.
+Dialogue: 5,0:12:55.31,0:12:57.47,Main,kayo,0000,0000,0000,,Como ela muda de humor rápido...
+Dialogue: 5,0:12:57.47,0:13:02.30,Main,minaha,0000,0000,0000,,Muito obrigada pelo seu notebook!\NEm que parte você contribuiu?
+Dialogue: 5,0:13:02.30,0:13:03.93,Main,kayo,0000,0000,0000,,Eu fiz as músicas.
+Dialogue: 5,0:13:04.55,0:13:07.24,Main,minaha,0000,0000,0000,,Achei as músicas muito boas também!
+Dialogue: 5,0:13:08.65,0:13:10.43,Main,tama,0000,0000,0000,,E eu fiz as ilustrações!
+Dialogue: 5,0:13:10.43,0:13:11.73,Main,minaha,0000,0000,0000,,Você não foi bem.
+Dialogue: 5,0:13:12.49,0:13:17.18,Main,minaha,0000,0000,0000,,Seus desenhos estão apagando o brilho\Nda história da grandiosa Iris-sensei.
+Dialogue: 5,0:13:17.14,0:13:18.83,Black Signs,sign/voice,0000,0000,0000,,Seus desenhos apagam o brilho...
+Dialogue: 5,0:13:18.83,0:13:20.78,Main,minaha,0000,0000,0000,,Não tem uma única imagem de evento.
+Dialogue: 5,0:13:20.78,0:13:22.63,Main,tama,0000,0000,0000,,I-Imagem de evento?
+Dialogue: 5,0:13:23.34,0:13:26.28,Main,minaha,0000,0000,0000,,Não vai me dizer que\Nnão sabe o que é isso, né?
+Dialogue: 5,0:13:26.28,0:13:30.97,Main,tama,0000,0000,0000,,A-Acho que já ouvi falar.\NMinhas senpais me contaram.
+Dialogue: 5,0:13:31.19,0:13:33.33,Main,*minaha,0000,0000,0000,,Imagem de evento...
+Dialogue: 5,0:13:33.33,0:13:39.19,Main,*minaha,0000,0000,0000,,...é uma ilustração especial mostrada\Ndurante um evento no jogo.
+Dialogue: 5,0:13:39.53,0:13:42.19,Main,*minaha,0000,0000,0000,,Aliás, você não sabe\Nnem as coisas básicas.
+Dialogue: 5,0:13:42.19,0:13:46.17,Main,*minaha,0000,0000,0000,,Não acha que basta apenas\Nsair desenhando e entregar, né?
+Dialogue: 5,0:13:46.21,0:13:47.42,Black Signs,sign/voice,0000,0000,0000,,Não sabe nem as coisas básicas
+Dialogue: 5,0:13:47.42,0:13:49.80,Black Signs,sign/voice,0000,0000,0000,,Acha que basta apenas\Nsair desenhando e entregar?
+Dialogue: 5,0:13:48.73,0:13:49.94,Main,tama,0000,0000,0000,,Não penso isso!
+Dialogue: 5,0:13:49.94,0:13:57.20,Main,seki,0000,0000,0000,,Calma, calma. Esta é a primeira vez\Nda Honda-san. Releve, por mim, tá?
+Dialogue: 5,0:13:57.38,0:14:01.93,Main,minaha,0000,0000,0000,,Não esqueci a raiva que me fez passar\Nquando me jogou para fora daqui.
+Dialogue: 5,0:14:02.23,0:14:06.22,Main,minaha,0000,0000,0000,,Aliás, quem é você? Consegue fazer alguma\Ncoisa? É só uma pessoa que faz debug?
+Dialogue: 5,0:14:06.22,0:14:09.17,Main,seki,0000,0000,0000,,Que maldade! Está sendo cruel\Ncom quem faz debug!
+Dialogue: 5,0:14:09.17,0:14:13.91,Main,minaha,0000,0000,0000,,Por acaso sou do Clube de Ilustração,\Nmas ultimamente só faço por fazer...
+Dialogue: 5,0:14:13.91,0:14:17.36,Main,minaha,0000,0000,0000,,Foi quando lembrei que tive interesse\Nno Clube SNS há um tempo.
+Dialogue: 5,0:14:17.36,0:14:19.03,Main,seki,0000,0000,0000,,Por isso veio no outro dia.
+Dialogue: 5,0:14:19.79,0:14:23.33,Main,kayo,0000,0000,0000,,Ah, desculpa por termos\Nsido grossas com você.
+Dialogue: 5,0:14:23.33,0:14:28.23,Main,minaha,0000,0000,0000,,Ah, tudo bem! E desculpe\Npor dizer coisas cruéis.
+Dialogue: 5,0:14:29.09,0:14:32.15,Main,seki,0000,0000,0000,,Então, que tal entrar agora?
+Dialogue: 5,0:14:32.75,0:14:35.55,Main,seki,0000,0000,0000,,Ter gente que desenha\Né sempre de grande ajuda.
+Dialogue: 5,0:14:36.03,0:14:41.23,Main,minaha,0000,0000,0000,,Acabo de mudar de ideia. Aposto que\Nvai querer me colocar pra procurar bugs.
+Dialogue: 5,0:14:41.23,0:14:44.04,Main,seki,0000,0000,0000,,Você tem uma imagem\Nmuito ruim de quem faz debug!
+Dialogue: 5,0:14:44.37,0:14:47.59,Main,seki,0000,0000,0000,,Aliás, acha que tudo bem\Nessa atitude rude comigo?
+Dialogue: 5,0:14:47.59,0:14:50.57,Main,minaha,0000,0000,0000,,A primeira que foi rude aqui foi você.
+Dialogue: 5,0:14:50.93,0:14:53.19,Main,kayo,0000,0000,0000,,Adora jogar lenha no fogo.
+Dialogue: 5,0:14:55.72,0:15:02.17,Main,minaha,0000,0000,0000,,Durante o Clube PR, não falei com você,\NMurakami-senpai, porque estava dormindo.
+Dialogue: 5,0:15:02.17,0:15:04.66,Main,shii,0000,0000,0000,,Desculpe, fiz algo terrível.
+Dialogue: 5,0:15:04.66,0:15:07.19,Main,kayo,0000,0000,0000,,Mas nunca é tarde para isso.
+Dialogue: 5,0:15:07.43,0:15:11.48,Main,tama,0000,0000,0000,,Eu acho que ela é muito mal educada\Ncom você, Seki-senpai.
+Dialogue: 5,0:15:11.48,0:15:13.95,Main,seki,0000,0000,0000,,Eu ainda não desisti!
+Dialogue: 5,0:15:14.55,0:15:19.30,Main,minaha,0000,0000,0000,,Por acaso, a Iris-sensei\Nfaz parte deste clube?
+Dialogue: 5,0:15:19.30,0:15:21.15,Main,kayo,0000,0000,0000,,Ah, então...
+Dialogue: 5,0:15:21.53,0:15:25.05,Main,minaha,0000,0000,0000,,S-Será que posso pedir um autógrafo\Nquando ela estiver aqui?
+Dialogue: 5,0:15:34.13,0:15:35.74,Main,minaha,0000,0000,0000,,Tá de brincadeira?
+Dialogue: 5,0:15:35.74,0:15:41.71,Main,minaha,0000,0000,0000,,Alguém como você não pode\Nficar usando à toa o nome da Iris-sensei!
+Dialogue: 5,0:15:41.71,0:15:43.07,Italic,seki,0000,0000,0000,,Também não funcionou...
+Dialogue: 5,0:15:44.47,0:15:47.87,Main,minaha,0000,0000,0000,,Queria saber mais sobre\Nas pessoas do Clube SNS!
+Dialogue: 5,0:15:48.09,0:15:51.30,Main,minaha,0000,0000,0000,,Já sei! Já que falamos sobre o site,
+Dialogue: 5,0:15:51.30,0:15:54.16,Main,minaha,0000,0000,0000,,que tal atualizar com uma\Napresentação das integrantes?
+Dialogue: 5,0:15:54.16,0:15:56.31,Main,kayo,0000,0000,0000,,Gostei! Vamos fazer?
+Dialogue: 5,0:15:56.31,0:16:00.03,Main,shii,0000,0000,0000,,Primeiro, precisamos de\Numa imagem de cada integrante.
+Dialogue: 5,0:16:00.93,0:16:02.43,Main,*tama,0000,0000,0000,,E acabaram decidindo...
+Dialogue: 5,0:16:03.11,0:16:05.07,Main,minaha,0000,0000,0000,,Esteja grata, Honda Tamaki.
+Dialogue: 5,0:16:05.85,0:16:10.94,Main,minaha,0000,0000,0000,,Ilustrações são o rosto do site!\NEu te dei uma chance de brilhar.
+Dialogue: 5,0:16:10.94,0:16:14.57,Main,minaha,0000,0000,0000,,Prepare boas imagens e faça\Numa boa apresentação!
+Dialogue: 5,0:16:29.36,0:16:34.77,Main,tama,0000,0000,0000,,Uma imagem interessante...\NUma imagem interessante... Uma imagem...
+Dialogue: 5,0:16:34.77,0:16:40.09,Main,yumine,0000,0000,0000,,Está atrás de uma boa ideia?\NCom essa cara feia, não vai achar.
+Dialogue: 5,0:16:41.79,0:16:44.58,Main,yumine,0000,0000,0000,,Nessa hora precisa sair\Npra se divertir!
+Dialogue: 5,0:16:44.58,0:16:45.71,Main,tama,0000,0000,0000,,Divertir?
+Dialogue: 5,0:16:45.71,0:16:49.25,Main,*yumine,0000,0000,0000,,Isso mesmo.\NAtualizar e receber novos dados!
+Dialogue: 5,0:16:57.63,0:17:01.37,Main,tama,0000,0000,0000,,Y-Yumine, isto está me dando medo!
+Dialogue: 5,0:17:01.37,0:17:04.33,Main,,0000,0000,0000,,Não é um lugar a que\Nnão podemos vir de uniforme?
+Dialogue: 5,0:17:05.09,0:17:08.35,Main,yumine,0000,0000,0000,,É só um fliperama.\NNão tem uma regra assim.
+Dialogue: 1,0:17:16.90,0:17:25.28,Black Signs,,0000,0000,0000,,{\fad(3000,3000)\a7}Quer que eu dê boas ideias?\NEstá pedindo demais...
+Dialogue: 1,0:17:22.32,0:17:28.33,Black Signs,,0000,0000,0000,,{\fad(3000,0)\a7}A torre inclinada\Nde Pisa
+Dialogue: 1,0:17:22.32,0:17:28.33,Black Signs,,0000,0000,0000,,{\fad(3000,0)\pos(274,202)}Pisa!
+Dialogue: 5,0:17:36.53,0:17:39.32,Main,tama,0000,0000,0000,,Puxa, hoje foi divertido!
+Dialogue: 5,0:17:39.32,0:17:42.01,Main,yumine,0000,0000,0000,,Que bom que gostou.
+Dialogue: 5,0:17:42.41,0:17:46.89,Main,yumine,0000,0000,0000,,E por que está procurando ideias?\NÉ para o tema do próximo projeto?
+Dialogue: 5,0:17:47.65,0:17:51.59,Main,tama,0000,0000,0000,,Decidimos fazer apresentações\Nengraçadas no site do nosso clube.
+Dialogue: 5,0:17:51.79,0:17:57.61,Main,tama,0000,0000,0000,,Yumine, achei estas fotos bem engraçadas.\NPosso usá-las na minha apresentação?
+Dialogue: 5,0:17:57.61,0:18:01.97,Main,yumine,0000,0000,0000,,Por que quer mostrar minhas\Nposes constrangedoras ao mundo?!
+Dialogue: 5,0:18:01.97,0:18:03.55,Main,yumine,0000,0000,0000,,A apresentação é sua!
+Dialogue: 5,0:18:03.55,0:18:04.67,Main,tama,0000,0000,0000,,Pois é...
+Dialogue: 5,0:18:15.79,0:18:17.12,Main,yumine,0000,0000,0000,,Você consegue, Tama-chan.
+Dialogue: 5,0:18:17.12,0:18:19.88,Main,tama,0000,0000,0000,,Precisa ser algo em que\Na pessoa queira clicar.
+Dialogue: 5,0:18:25.51,0:18:28.01,Main,yumine,0000,0000,0000,,Ah, foi só uma piada...
+Dialogue: 5,0:18:28.21,0:18:29.69,Main,tama,0000,0000,0000,,Que foi, Yumine?
+Dialogue: 5,0:18:30.05,0:18:34.03,Main,yumine,0000,0000,0000,,Eu vi uma notícia dizendo que um\Ndublador de que gosto ia se aposentar.
+Dialogue: 5,0:18:34.49,0:18:38.65,Main,yumine,0000,0000,0000,,Te atraem para clicar no título e\Né só uma armadilha pra te deixar com fome.
+Dialogue: 5,0:18:38.65,0:18:40.19,Main,,0000,0000,0000,,Eu caí nessa...
+Dialogue: 5,0:18:41.55,0:18:42.47,Main,tama,0000,0000,0000,,É isso!
+Dialogue: 5,0:18:51.04,0:18:55.11,Main,tama,0000,0000,0000,,Assim, consegui uma\Nideia com a Yumine...
+Dialogue: 5,0:18:55.11,0:18:57.21,Main,tama,0000,0000,0000,,...e pra imagem\Nda minha apresentação...
+Dialogue: 5,0:18:57.21,0:18:59.25,Main,tama,0000,0000,0000,,...decidi usar\N"raiz de bardana cozida"!
+Dialogue: 5,0:19:06.91,0:19:12.53,Main,tama,0000,0000,0000,,Ah, é muito gostoso! O truque é\Nadicionar óleo de gergelim no final...
+Dialogue: 5,0:19:12.53,0:19:14.73,Main,rest,0000,0000,0000,,Não é esse o problema.\NNão entendi a razão...
+Dialogue: 5,0:19:18.13,0:19:20.73,Main,kayo,0000,0000,0000,,A Murakami-san escolheu\Na imagem de uma bebida.
+Dialogue: 5,0:19:20.76,0:19:30.83,Black Signs,kayo,0000,0000,0000,,{\an9}Soda de cogumelo\NCom bastante guaraná
+Dialogue: 5,0:19:20.95,0:19:23.47,Main,kayo,0000,0000,0000,,E onde consegue\Nencontrar essas coisas?
+Dialogue: 5,0:19:23.47,0:19:27.85,Main,seki,0000,0000,0000,,Meu irmão estava dormindo no sofá ontem\Ncom uma cara engraçada, eu fiz um esboço.
+Dialogue: 5,0:19:27.85,0:19:30.57,Main,kayo,0000,0000,0000,,Esboço? Era para ser algo realista?!
+Dialogue: 5,0:19:31.19,0:19:35.19,Main,kayo,0000,0000,0000,,Eu não sei desenhar, então escolhi\Numa foto e uma letra de música.
+Dialogue: 5,0:19:35.37,0:19:36.92,Main,*shii,0000,0000,0000,,Vamos ver como fica.
+Dialogue: 1,0:19:36.96,0:19:40.40,Main,,0000,0000,0000,,{\an7}Ilustração: Tamaki
+Dialogue: 1,0:19:36.96,0:19:40.40,Main,,0000,0000,0000,,{\an9}Roteiro: Iris
+Dialogue: 1,0:19:36.96,0:19:40.40,Main,,0000,0000,0000,,{\an4}Programação: Mura
+Dialogue: 1,0:19:36.96,0:19:40.40,Musica,,0000,0000,0000,,Música: signa\N\N{\fs12}Caminhava em direção à cidade\NEnquanto acariciava as nuvens\NE você diz que na próxima chance\Nnos encontramos de novo\N\NSinceramente, eu abri o guarda-chuva\NAgora segure do jeito que quiser, eu disse\NFoi assim que, ah...\Nvocê parecia de novo como um creme
+Dialogue: 5,0:19:40.75,0:19:43.97,Main,all,0000,0000,0000,,É a apresentação\Nde alguma organização?
+Dialogue: 5,0:19:44.87,0:19:51.00,Main,minaha,0000,0000,0000,,Ontem fiz um desenho\Nbaseado no jogo de vocês!
+Dialogue: 5,0:19:51.00,0:19:53.23,Main,minaha,0000,0000,0000,,Antes mesmo da emoção esfriar!
+Dialogue: 5,0:19:54.17,0:19:59.23,Main,minaha,0000,0000,0000,,Não importa quantas vezes eu leia, sempre\Nfico fascinada com as emoções da heroína.
+Dialogue: 5,0:19:59.65,0:20:01.90,Italic,tama,0000,0000,0000,,Ela desenha bem.
+Dialogue: 5,0:20:02.05,0:20:04.93,Main,seki,0000,0000,0000,,Ficamos felizes que\Ntenha desenhado, mas...
+Dialogue: 5,0:20:05.13,0:20:09.87,Main,kayo,0000,0000,0000,,Você nem é parte do clube.\NVai fazer sua apresentação também?
+Dialogue: 5,0:20:11.41,0:20:14.11,Main,seki,0000,0000,0000,,Ah, que tal entrar no clube\Na partir de agora?
+Dialogue: 5,0:20:14.11,0:20:14.96,Main,minaha,0000,0000,0000,,Não vou!
+Dialogue: 5,0:20:16.79,0:20:20.58,Main,minaha,0000,0000,0000,,Aliás, Honda Tamaki!\NPor que não fez um desenho?
+Dialogue: 5,0:20:20.58,0:20:21.92,Main,tama,0000,0000,0000,,B-Bem...
+Dialogue: 5,0:20:22.10,0:20:24.63,Main,minaha,0000,0000,0000,,Como uma ilustradora\Nnão coloca um desenho ali?!
+Dialogue: 5,0:20:25.89,0:20:29.57,Main,tama,0000,0000,0000,,É porque não desenho tão bem como você.
+Dialogue: 5,0:20:30.33,0:20:31.55,Main,minaha,0000,0000,0000,,Está sendo ingênua.
+Dialogue: 5,0:20:32.33,0:20:34.08,Main,minaha,0000,0000,0000,,Não precisa ser um desenho.
+Dialogue: 5,0:20:34.08,0:20:38.31,Main,minaha,0000,0000,0000,,Se uma pessoa que você gosta fizer\Num presente para você, o que acha?
+Dialogue: 5,0:20:39.69,0:20:45.49,Main,minaha,0000,0000,0000,,Pode não estar perfeito, mas se fez por você,\Nvai gostar ainda mais da pessoa, certo?
+Dialogue: 5,0:20:47.85,0:20:50.43,Main,tama,0000,0000,0000,,Um presente artesanal do papai!
+Dialogue: 5,0:20:50.43,0:20:51.93,Main,minaha,0000,0000,0000,,Está se derretendo demais!
+Dialogue: 5,0:20:52.23,0:20:54.16,Main,tama,0000,0000,0000,,Certo, vou desenhar!
+Dialogue: 5,0:20:54.45,0:20:57.62,Main,tama,0000,0000,0000,,Vou desenhar um monte\Ne quero colocar no site!
+Dialogue: 5,0:20:57.93,0:20:59.33,Main,minaha,0000,0000,0000,,Esse é o espírito.
+Dialogue: 5,0:20:59.91,0:21:03.33,Main,minaha,0000,0000,0000,,Eu também preciso praticar, para\Nter coragem de mostrar à Iris-sensei.
+Dialogue: 5,0:21:03.93,0:21:05.82,Main,minaha,0000,0000,0000,,Então vou reviver com meu desenho
+Dialogue: 5,0:21:05.82,0:21:09.59,Main,minaha,0000,0000,0000,,o trabalho anterior da sensei,\No Desejo da Poeira Estelar!
+Dialogue: 5,0:21:09.89,0:21:14.11,Main,minaha,0000,0000,0000,,Agora, me deem licença!\NMandem lembranças à Iris-sensei!
+Dialogue: 5,0:21:20.73,0:21:25.01,Main,seki,0000,0000,0000,,Acho que é melhor nem dizer\Nquem sou a essa altura...
+Dialogue: 5,0:21:25.01,0:21:27.29,Main,shii,0000,0000,0000,,E é um passado sombrio, aquilo.
+Dialogue: 5,0:21:27.89,0:21:32.20,Main,kayo,0000,0000,0000,,Afinal, quem é aquela garota?\NNem disse o nome.
+Dialogue: 1,0:21:32.68,0:21:41.16,Black Signs,,0000,0000,0000,,Coleção de Composições dos Gatos
+Dialogue: 5,0:21:33.09,0:21:35.13,Italic,tama,0000,0000,0000,,A Minaha-chan apareceu de repente.
+Dialogue: 5,0:21:35.57,0:21:37.85,Italic,,0000,0000,0000,,Acho que ela ainda está\Nno ensino fundamental,
+Dialogue: 5,0:21:37.85,0:21:40.59,Italic,,0000,0000,0000,,mas não disse seu nome\Nde família nem ano escolar.
+Dialogue: 5,0:21:41.59,0:21:45.49,Italic,tama,0000,0000,0000,,A única certeza é que\Nela desenha melhor que eu.
+Dialogue: 5,0:21:46.21,0:21:48.63,Italic,,0000,0000,0000,,O que vai acontecer de agora em diante?
+Dialogue: 5,0:23:23.73,0:23:25.31,Main,,0000,0000,0000,,É que... mesmo que eu desenhe...
+Dialogue: 5,0:23:25.31,0:23:27.19,Main,,0000,0000,0000,,O que está fazendo com a Tama-chan?!
+Dialogue: 5,0:23:26.52,0:23:28.57,Top,,0000,0000,0000,,{\i1}Por acaso você é a Iris-sensei?!{\i0}
+Dialogue: 5,0:23:28.11,0:23:29.48,Italic,,0000,0000,0000,,Espere um minuto!
+Dialogue: 5,0:23:30.07,0:23:33.82,Italic,,0000,0000,0000,,Vai continuar a ser minha presidente?
+Dialogue: 1,0:23:32.84,0:23:35.36,title - preview,,0000,0000,0000,,{\fs16}Melhorando a habilidade\NParte 2

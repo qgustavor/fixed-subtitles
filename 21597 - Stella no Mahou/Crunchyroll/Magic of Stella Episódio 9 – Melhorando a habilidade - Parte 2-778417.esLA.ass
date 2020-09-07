@@ -1,0 +1,433 @@
+[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 100.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Trebuchet MS,26,&H00FFFFFF,&H000000FF,&H00D9A1FF,&H0056677F,-1,0,0,0,100,100,0,0,1,2,2,8,0020,0020,0120,1
+Style: Cart_Avance,Arial,28,&H000D00D3,&H000000FF,&H00060503,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0100,1
+Style: Cart_Nota,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0050,1
+Style: Cart_TitleSeries,Arial,26,&H00399058,&H000000FF,&H00070F0F,&H00656156,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0110,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,20,&H00323232,&H000000FF,&H00E0DFE1,&H00E0DFE1,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Ari,Arial,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_2,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0100,1
+Style: Cart_Next,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00E5AEFF,&H0056677F,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0045,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:02.73,0:00:05.86,Gen_Italics,,0000,0000,0000,,Es pronto, pero la época\Nde lluvias ya llegó.
+Dialogue: 0,0:00:08.90,0:00:10.84,Gen_Italics,,0000,0000,0000,,Hoy elegiré una bebida caliente.
+Dialogue: 0,0:00:13.21,0:00:15.57,Gen_Italics,,0000,0000,0000,,Los gatos callejeros me saludan.
+Dialogue: 0,0:00:16.11,0:00:18.28,Gen_Italics,,0000,0000,0000,,Es como cualquier otro día.
+Dialogue: 0,0:00:18.95,0:00:24.15,Gen_Italics,,0000,0000,0000,,Pero supongo que Honda-san\Ny yo nos llevamos mejor.
+Dialogue: 0,0:00:25.51,0:00:28.48,Gen_Italics,,0000,0000,0000,,Pasaron tres meses\Ndesde que soy capitana.
+Dialogue: 0,0:00:29.08,0:00:31.07,Gen_Italics,,0000,0000,0000,,Creo que ya mejoré en esto.
+Dialogue: 0,0:00:31.07,0:00:33.22,Gen_Main,,0000,0000,0000,,Capitana.
+Dialogue: 0,0:00:36.17,0:00:38.17,Gen_Main,,0000,0000,0000,,¿Honda-san? ¿Qué pasa?
+Dialogue: 0,0:00:38.17,0:00:39.34,Gen_Main,,0000,0000,0000,,Capitana…
+Dialogue: 0,0:00:41.37,0:00:44.40,Gen_Main,,0000,0000,0000,,Si ya no pudiera dibujar,
+Dialogue: 0,0:00:44.40,0:00:46.81,Gen_Main,,0000,0000,0000,,¿me odiarían?
+Dialogue: 0,0:00:47.43,0:00:49.26,Gen_Main,,0000,0000,0000,,¿Dirían que no me necesitan?
+Dialogue: 0,0:00:49.47,0:00:50.27,Gen_Main,,0000,0000,0000,,Bueno…
+Dialogue: 0,0:00:50.66,0:00:54.26,Gen_Main,,0000,0000,0000,,No me dejarían, ¿cierto?
+Dialogue: 0,0:00:54.26,0:00:58.12,Gen_Main,,0000,0000,0000,,¿Seguirías siendo mi capitana?
+Dialogue: 0,0:01:00.77,0:01:02.24,Gen_Main,,0000,0000,0000,,Honda-san.
+Dialogue: 0,0:01:02.47,0:01:05.35,Gen_Main,,0000,0000,0000,,Este no es lugar para eso.\NVamos a la escuela.
+Dialogue: 0,0:01:05.35,0:01:06.49,Gen_Main,,0000,0000,0000,,¿La hizo llorar?
+Dialogue: 0,0:01:06.50,0:01:07.82,Gen_Main,,0000,0000,0000,,Pobre chica…
+Dialogue: 0,0:02:27.91,0:02:30.92,Cart_TitleEp,,0000,0000,0000,,Subida de habilidad, parte 2
+Dialogue: 0,0:02:33.92,0:02:35.63,Gen_Main,,0000,0000,0000,,¿Una crisis?
+Dialogue: 0,0:02:35.90,0:02:41.19,Gen_Main,,0000,0000,0000,,Sí, no dejo de pensar\Nen que esa chica dibujaba mejor que yo.
+Dialogue: 0,0:02:41.19,0:02:43.10,Gen_Main,,0000,0000,0000,,Ahora no puedo dibujar.
+Dialogue: 0,0:02:43.43,0:02:46.31,Gen_Main,,0000,0000,0000,,Y hoy tuve una pesadilla…
+Dialogue: 0,0:02:49.06,0:02:51.27,Gen_Main,,0000,0000,0000,,No sabes dibujar, Tamaki Honda.
+Dialogue: 0,0:02:51.27,0:02:53.53,Gen_Main,,0000,0000,0000,,El club SNS te echará.
+Dialogue: 0,0:02:53.53,0:02:55.32,Gen_Main,,0000,0000,0000,,Sí. Sí.
+Dialogue: 0,0:02:56.53,0:02:58.27,Gen_Main,,0000,0000,0000,,Lo siento, Honda-san.
+Dialogue: 0,0:02:58.27,0:03:00.84,Gen_Main,,0000,0000,0000,,La preferimos a ella.
+Dialogue: 0,0:03:01.24,0:03:05.27,Gen_Main,,0000,0000,0000,,Espera, capitana.\NPor favor, no me dejen.
+Dialogue: 0,0:03:06.49,0:03:08.98,Gen_Main,,0000,0000,0000,,¿Capitana? ¿Eso es sangre?
+Dialogue: 0,0:03:08.98,0:03:10.58,Gen_Main,,0000,0000,0000,,Estoy bien.
+Dialogue: 0,0:03:10.58,0:03:14.04,Cart_C_Tre,,0000,0000,0000,,{\c&H962BFF&}Ciruela y flor de cerezo
+Dialogue: 0,0:03:10.98,0:03:12.94,Gen_Main,,0000,0000,0000,,Se fue por el lado equivocado.
+Dialogue: 0,0:03:17.30,0:03:19.35,Gen_Italics,,0000,0000,0000,,¿Qué le digo?
+Dialogue: 0,0:03:19.35,0:03:21.95,Gen_Italics,,0000,0000,0000,,¿"En nada superarás tu crisis"?
+Dialogue: 0,0:03:21.95,0:03:25.26,Gen_Italics,,0000,0000,0000,,Sería una mentira.\NNo sé cuándo lo superará.
+Dialogue: 0,0:03:25.55,0:03:29.88,Gen_Main,,0000,0000,0000,,¿Por qué no empiezas\Nsacándotela de la cabeza?
+Dialogue: 0,0:03:29.88,0:03:32.11,Gen_Main,,0000,0000,0000,,Pronto tendremos los exámenes.
+Dialogue: 0,0:03:32.11,0:03:34.25,Gen_Main,,0000,0000,0000,,Bien. Lo intentaré.
+Dialogue: 0,0:03:34.25,0:03:37.18,Gen_Italics,,0000,0000,0000,,Creo que le di un mal consejo.
+Dialogue: 0,0:03:37.18,0:03:39.18,Gen_Italics,,0000,0000,0000,,Los programadores no tienen crisis.
+Dialogue: 0,0:03:39.18,0:03:41.82,Gen_Main,,0000,0000,0000,,Tal vez Fujikawa-san\No Aya lo hagan mejor.
+Dialogue: 0,0:03:44.22,0:03:46.03,Gen_Main,,0000,0000,0000,,Escuchen todas.
+Dialogue: 0,0:03:46.03,0:03:49.83,Gen_Main,,0000,0000,0000,,{\i1}Deseos de polvos de estrellas{\i0}\Nes una obra de arte,
+Dialogue: 0,0:03:49.83,0:03:51.75,Gen_Main,,0000,0000,0000,,creo que todas deberían saberlo.
+Dialogue: 0,0:03:52.95,0:03:55.43,Gen_Italics,,0000,0000,0000,,Aya se moriría si viera esto.
+Dialogue: 0,0:03:55.43,0:03:56.38,Gen_Main,,0000,0000,0000,,¿Minaha-chan?
+Dialogue: 0,0:03:56.62,0:03:58.81,Gen_Main,,0000,0000,0000,,¿Qué haces en mi clase?
+Dialogue: 0,0:03:58.81,0:04:01.01,Gen_Main,,0000,0000,0000,,Una coincidencia, Tamaki Honda.
+Dialogue: 0,0:04:01.35,0:04:07.01,Gen_Main,,0000,0000,0000,,Una batalla no exige\Nsolo fuerza, también aliados.
+Dialogue: 0,0:04:07.02,0:04:09.47,Gen_Main,,0000,0000,0000,,Por eso estoy predicando con este libro.
+Dialogue: 0,0:04:07.26,0:04:09.47,Cart_C_Tre,,0000,0000,0000,,{\c&H9274E8&}El colectivo gatuno\N{\fs20}(Número 28)
+Dialogue: 0,0:04:09.88,0:04:12.77,Gen_Main,,0000,0000,0000,,No me digas que volviste para pelear…
+Dialogue: 0,0:04:12.77,0:04:16.31,Gen_Main,,0000,0000,0000,,No. Tengo algo más importante.
+Dialogue: 0,0:04:16.63,0:04:18.88,Gen_Main,,0000,0000,0000,,¿Qué le haces a Tama-chan?
+Dialogue: 0,0:04:18.88,0:04:19.78,Gen_Main,,0000,0000,0000,,¿Yumine?
+Dialogue: 0,0:04:19.78,0:04:23.47,Gen_Main,,0000,0000,0000,,¡Ha-san! ¡¿Ser doña importante\Nen el club de ilustración no te vale?!
+Dialogue: 0,0:04:23.47,0:04:24.88,Gen_Main,,0000,0000,0000,,¡¿Ahora con Tama-chan?!
+Dialogue: 0,0:04:24.88,0:04:26.53,Gen_Main,,0000,0000,0000,,¡¿Que hice qué?!
+Dialogue: 0,0:04:26.53,0:04:28.58,Gen_Main,,0000,0000,0000,,Y déjame decirte…
+Dialogue: 0,0:04:28.58,0:04:31.00,Gen_Main,,0000,0000,0000,,¡Hikono-kun es el mejor!
+Dialogue: 0,0:04:34.05,0:04:36.25,Gen_Main,,0000,0000,0000,,Bueno, bueno… ¿Y si dejan de pelear?
+Dialogue: 0,0:04:36.25,0:04:37.85,Gen_Main,,0000,0000,0000,,Tú… ¡No puedo creerlo!
+Dialogue: 0,0:04:38.71,0:04:42.26,Gen_Main,,0000,0000,0000,,Solo hay un amor puro\Nen Oji x Hiko. Lo dice la artista.
+Dialogue: 0,0:04:42.55,0:04:46.79,Gen_Main_Up,,0000,0000,0000,,Eres una ingenua\Nal creerte lo que dicen.
+Dialogue: 0,0:04:43.24,0:04:47.54,Gen_Italics,,0000,0000,0000,,Yumine la conoce\Nporque están en el mismo club.
+Dialogue: 0,0:04:46.79,0:04:48.78,Gen_Main_Up,,0000,0000,0000,,¿Por qué no sigues el canon?
+Dialogue: 0,0:04:49.64,0:04:52.77,Gen_Main,,0000,0000,0000,,Y la llama Ha-chan\Nporque se llama Minaha.
+Dialogue: 0,0:04:53.02,0:04:55.58,Gen_Main,,0000,0000,0000,,¿Por qué usas el "chan", Tamaki Honda?
+Dialogue: 0,0:04:55.58,0:04:57.10,Gen_Main,,0000,0000,0000,,No creas que eres…
+Dialogue: 0,0:04:57.10,0:04:59.77,Gen_Main,,0000,0000,0000,,Bueno, bueno. Volvamos a tu clase.
+Dialogue: 0,0:04:59.77,0:05:03.51,Gen_Main,,0000,0000,0000,,Lo siento por el alboroto,\Ncapitana. ¿Eh?
+Dialogue: 0,0:05:03.51,0:05:05.78,Gen_Main,,0000,0000,0000,,Empieza la clase, Tama-chan.
+Dialogue: 0,0:05:06.79,0:05:09.56,Gen_Italics,,0000,0000,0000,,Parece que Honda-san\Ntiene muchas amigas.
+Dialogue: 0,0:05:09.56,0:05:11.34,Gen_Italics,,0000,0000,0000,,De seguro estará bien.
+Dialogue: 0,0:05:11.34,0:05:13.85,Gen_Main,,0000,0000,0000,,No hacía falta\Nque me pidiera ayuda a mí.
+Dialogue: 0,0:05:13.85,0:05:15.83,Gen_Main,,0000,0000,0000,,Buenas, Shii.
+Dialogue: 0,0:05:15.83,0:05:18.69,Gen_Main,,0000,0000,0000,,No pude darle un buen consejo.
+Dialogue: 0,0:05:18.69,0:05:22.61,Gen_Main,,0000,0000,0000,,Creo que empeoré el problema.
+Dialogue: 0,0:05:22.61,0:05:25.30,Gen_Main,,0000,0000,0000,,Tal vez otro día consiga\Nhacerla sentir mejor…
+Dialogue: 0,0:05:25.30,0:05:28.15,Gen_Main,,0000,0000,0000,,Tal vez no deberíamos\Nhaberla invitado al club.
+Dialogue: 0,0:05:31.34,0:05:33.60,Gen_Main,,0000,0000,0000,,Todo el mundo pasa por crisis.
+Dialogue: 0,0:05:34.10,0:05:36.34,Gen_Main,,0000,0000,0000,,No es gran cosa cuando superas una.
+Dialogue: 0,0:05:36.34,0:05:37.96,Gen_Main,,0000,0000,0000,,Espero que lo haga.
+Dialogue: 0,0:05:37.96,0:05:41.82,Gen_Main,,0000,0000,0000,,Bueno, hablaremos con ella\Ncuando venga a la sala del club.
+Dialogue: 0,0:05:42.30,0:05:44.34,Gen_Main,,0000,0000,0000,,¿Y si no lo hace?
+Dialogue: 0,0:05:44.34,0:05:45.53,Gen_Main,,0000,0000,0000,,Escucha,
+Dialogue: 0,0:05:45.87,0:05:48.09,Gen_Main,,0000,0000,0000,,ya basta de pensamientos negativos.
+Dialogue: 0,0:05:48.92,0:05:50.25,Gen_Main,,0000,0000,0000,,Hola.
+Dialogue: 0,0:05:50.25,0:05:51.70,Gen_Main,,0000,0000,0000,,Seki-senpai…
+Dialogue: 0,0:05:52.13,0:05:54.22,Gen_Main,,0000,0000,0000,,¿No vas a entrar, Honda-san?
+Dialogue: 0,0:05:54.22,0:05:55.16,Gen_Main,,0000,0000,0000,,Bueno,
+Dialogue: 0,0:05:55.54,0:05:58.84,Gen_Main,,0000,0000,0000,,no sé si está bien que entre ahora.
+Dialogue: 0,0:05:58.84,0:06:01.37,Gen_Main,,0000,0000,0000,,Bueno… Intenté dibujar…
+Dialogue: 0,0:06:02.44,0:06:05.37,Gen_Main,,0000,0000,0000,,Pero todos mis dibujos pasan a ser así.
+Dialogue: 0,0:06:05.37,0:06:07.61,Gen_Italics,,0000,0000,0000,,No sé cuál es la diferencia.
+Dialogue: 0,0:06:09.59,0:06:10.98,Gen_Main,,0000,0000,0000,,Oye, Honda-san.
+Dialogue: 0,0:06:11.35,0:06:12.72,Gen_Main,,0000,0000,0000,,¿Te gusto?
+Dialogue: 0,0:06:16.39,0:06:17.50,Gen_Main,,0000,0000,0000,,Sí, me gustas.
+Dialogue: 0,0:06:17.88,0:06:22.44,Gen_Main,,0000,0000,0000,,Creo que es genial\Nque trabajes y te esfuerces tanto.
+Dialogue: 0,0:06:23.06,0:06:26.60,Gen_Main,,0000,0000,0000,,¿Te gusta que me gustes?
+Dialogue: 0,0:06:26.60,0:06:30.16,Gen_Main,,0000,0000,0000,,No hay nada malo en decirle\Na alguien que te gusta.
+Dialogue: 0,0:06:30.50,0:06:35.97,Gen_Main,,0000,0000,0000,,Trabajaste duro y lo sigues\Nhaciendo. Es lo que me gusta de ti.
+Dialogue: 0,0:06:35.97,0:06:38.51,Gen_Main,,0000,0000,0000,,¿Qué pasó con la Honda-san de esa vez?
+Dialogue: 0,0:06:38.52,0:06:40.44,Gen_Main,,0000,0000,0000,,Sigue ahí trabajando, ¿cierto?
+Dialogue: 0,0:06:40.85,0:06:41.80,Gen_Main,,0000,0000,0000,,Bueno…
+Dialogue: 0,0:06:41.80,0:06:44.63,Gen_Main,,0000,0000,0000,,Entonces superarás tu crisis muy pronto.
+Dialogue: 0,0:06:44.63,0:06:47.10,Gen_Main,,0000,0000,0000,,Es verdad.\NTodavía no almorzaste, ¿no?
+Dialogue: 0,0:06:47.10,0:06:49.27,Gen_Main,,0000,0000,0000,,Hice demasiado. Compartiré contigo.
+Dialogue: 0,0:06:49.27,0:06:51.06,Gen_Main,,0000,0000,0000,,Cielos, ¿de verdad?
+Dialogue: 0,0:06:51.58,0:06:53.20,Gen_Italics,,0000,0000,0000,,No soy rival para ella.
+Dialogue: 0,0:06:58.89,0:07:00.23,Gen_Main,,0000,0000,0000,,Estaba muy bueno.
+Dialogue: 0,0:07:00.23,0:07:02.25,Gen_Main,,0000,0000,0000,,Ahora tengo que volver a clase.
+Dialogue: 0,0:07:02.25,0:07:03.90,Gen_Main,,0000,0000,0000,,Muy bien, nos vemos después.
+Dialogue: 0,0:07:03.90,0:07:05.20,Gen_Main,,0000,0000,0000,,Hasta luego.
+Dialogue: 0,0:07:08.97,0:07:10.00,Gen_Main,,0000,0000,0000,,Capitana.
+Dialogue: 0,0:07:10.45,0:07:14.25,Gen_Main,,0000,0000,0000,,Creo que serías mejor\Nque yo en mi puesto.
+Dialogue: 0,0:07:14.25,0:07:15.45,Gen_Main,,0000,0000,0000,,No digas tonterías.
+Dialogue: 0,0:07:15.77,0:07:19.29,Gen_Main,,0000,0000,0000,,Bueno, eres la única\Nque es buena organizándonos, Shii.
+Dialogue: 0,0:07:19.29,0:07:21.92,Gen_Main,,0000,0000,0000,,Por eso te respeto,\Nincluso con cosas así.
+Dialogue: 0,0:07:22.22,0:07:25.46,Gen_Main,,0000,0000,0000,,Te encargas de los horarios\Ny planeas el año completo.
+Dialogue: 0,0:07:25.46,0:07:28.92,Gen_Main,,0000,0000,0000,,Sobre eso. Tengo que hablarte\Ndel Comiket de verano.
+Dialogue: 0,0:07:28.93,0:07:30.34,Gen_Main,,0000,0000,0000,,Una cosa más…
+Dialogue: 0,0:07:30.34,0:07:33.05,Gen_Main,,0000,0000,0000,,Sonríe un poco más y serás perfecta.
+Dialogue: 0,0:07:33.05,0:07:36.02,Gen_Main,,0000,0000,0000,,Vaya. Creo que vamos retrasados.
+Dialogue: 0,0:07:36.65,0:07:38.31,Gen_Main,,0000,0000,0000,,¿Quién se supone que es esa?
+Dialogue: 0,0:07:38.31,0:07:42.03,Gen_Main,,0000,0000,0000,,No digas eso. Solo sonríe.
+Dialogue: 0,0:07:42.03,0:07:42.82,Gen_Main,,0000,0000,0000,,Me das miedo.
+Dialogue: 0,0:07:42.82,0:07:45.27,Gen_Main,,0000,0000,0000,,El almuerzo casi terminó, Ha-chan.
+Dialogue: 0,0:07:45.27,0:07:48.77,Gen_Main,,0000,0000,0000,,No me llames Ha-chan.\NSoy de primero, como tú.
+Dialogue: 0,0:07:48.77,0:07:49.99,Gen_Main,,0000,0000,0000,,¿Qué? ¿De verdad?
+Dialogue: 0,0:07:49.99,0:07:51.93,Gen_Main,,0000,0000,0000,,¿Cuántos años creías que tenía?
+Dialogue: 0,0:07:51.93,0:07:53.59,Gen_Main,,0000,0000,0000,,¿Olvidaste algo, Honda-san?
+Dialogue: 0,0:07:53.59,0:07:55.56,Gen_Main,,0000,0000,0000,,Siento el alboroto.
+Dialogue: 0,0:07:55.56,0:07:57.95,Gen_Main,,0000,0000,0000,,Ha-chan quería espiar la sala del club.
+Dialogue: 0,0:07:57.95,0:08:00.53,Gen_Main,,0000,0000,0000,,Qué chivata, ¿no?
+Dialogue: 0,0:08:00.53,0:08:02.58,Gen_Main,,0000,0000,0000,,Quería conocer a la gran Iris.
+Dialogue: 0,0:08:03.86,0:08:07.79,Gen_Italics,,0000,0000,0000,,¿Es la chica de aquella vez?\NNo estoy segura sin las gafas.
+Dialogue: 0,0:08:09.01,0:08:11.13,Gen_Main,,0000,0000,0000,,¿No me digas que eres Iris?
+Dialogue: 0,0:08:12.51,0:08:15.99,Gen_Main,,0000,0000,0000,,Bueno, lo soy… Seguramente.
+Dialogue: 0,0:08:15.99,0:08:17.38,Gen_Italics,,0000,0000,0000,,¿A quién está imitando?
+Dialogue: 0,0:08:17.38,0:08:21.08,Gen_Main,,0000,0000,0000,,Tu libro es mi Biblia.\N¿Podrías firmármelo?
+Dialogue: 0,0:08:21.08,0:08:23.52,Gen_Main,,0000,0000,0000,,Pues claro.
+Dialogue: 0,0:08:23.77,0:08:25.36,Gen_Main,,0000,0000,0000,,Es genial.
+Dialogue: 0,0:08:25.36,0:08:28.87,Gen_Main,,0000,0000,0000,,Me decidí. Me uniré al club SNS.
+Dialogue: 0,0:08:28.87,0:08:32.53,Gen_Main,,0000,0000,0000,,Quiero hacer un juego con esta historia.
+Dialogue: 0,0:08:32.53,0:08:33.28,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:08:33.28,0:08:35.23,Gen_Main,,0000,0000,0000,,No puedes decidir eso tú sola.
+Dialogue: 0,0:08:35.23,0:08:37.14,Gen_Main,,0000,0000,0000,,Además, yo soy la artista.
+Dialogue: 0,0:08:37.14,0:08:38.82,Gen_Main,,0000,0000,0000,,Escucha a Honda-san.
+Dialogue: 0,0:08:38.82,0:08:42.17,Gen_Main,,0000,0000,0000,,No. Quiero hacerlo yo.\NYo quiero el juego.
+Dialogue: 0,0:08:42.17,0:08:46.33,Gen_Main,,0000,0000,0000,,Soñé y soñé con hacer algo\Ncon la gran Iris.
+Dialogue: 0,0:08:46.33,0:08:50.35,Gen_Main,,0000,0000,0000,,Bueno, ¿y si dibujaran juntas?\NAsí no pelearían.
+Dialogue: 0,0:08:51.20,0:08:53.38,Gen_Main,,0000,0000,0000,,¿Podemos hacerlo?
+Dialogue: 0,0:08:53.38,0:08:55.96,Gen_Main,,0000,0000,0000,,Si pueden usar el mismo estilo, sí.
+Dialogue: 0,0:08:55.96,0:08:57.26,Gen_Main,,0000,0000,0000,,Espera…
+Dialogue: 0,0:08:57.52,0:08:58.73,Gen_Main,,0000,0000,0000,,Espera…
+Dialogue: 0,0:08:58.73,0:09:01.87,Gen_Main,,0000,0000,0000,,¿Un juego basándote\Nen una historia tan vieja?
+Dialogue: 0,0:09:01.87,0:09:06.04,Gen_Main,,0000,0000,0000,,¿Crees que Iris, la cuentacuentos,\Npermitiría algo así?
+Dialogue: 0,0:09:06.04,0:09:07.27,Gen_Main,,0000,0000,0000,,Pregúntatelo.
+Dialogue: 0,0:09:07.27,0:09:09.15,Gen_Main,,0000,0000,0000,,¿Puedo hacer algo?
+Dialogue: 0,0:09:09.66,0:09:13.08,Gen_Main,,0000,0000,0000,,Siempre me gustó tu trabajo.
+Dialogue: 0,0:09:13.08,0:09:16.41,Gen_Main,,0000,0000,0000,,Pero mi amor, mis esfuerzos,\Ndeben alcanzar la cima.
+Dialogue: 0,0:09:17.05,0:09:18.40,Gen_Italics,,0000,0000,0000,,Me duele el corazón…
+Dialogue: 0,0:09:18.40,0:09:21.68,Gen_Main,,0000,0000,0000,,¿No decías que no era malo\Nexpresar tus sentimientos?
+Dialogue: 0,0:09:21.69,0:09:23.54,Gen_Italics,,0000,0000,0000,,Maldita…
+Dialogue: 0,0:09:23.54,0:09:25.54,Gen_Main,,0000,0000,0000,,Es cierto.
+Dialogue: 0,0:09:25.54,0:09:30.40,Gen_Main,,0000,0000,0000,,No podremos hacer nada nuevo\Nporque no iremos al Comiket de verano.
+Dialogue: 0,0:09:30.40,0:09:32.53,Gen_Main,,0000,0000,0000,,Es inútil trabajar duro porque no…
+Dialogue: 0,0:09:32.53,0:09:34.26,Gen_Main,,0000,0000,0000,,Sobre eso…
+Dialogue: 0,0:09:34.58,0:09:37.26,Gen_Main,,0000,0000,0000,,hablamos con unas amigas de Fujikawa-san
+Dialogue: 0,0:09:37.26,0:09:40.47,Gen_Main,,0000,0000,0000,,sobre vender con ellas nuestro juego.
+Dialogue: 0,0:09:40.69,0:09:43.80,Gen_Main,,0000,0000,0000,,Podríamos tener\Nnuestro juego en el Comiket.
+Dialogue: 0,0:09:43.80,0:09:44.95,Gen_Main,,0000,0000,0000,,¿Es eso cierto?
+Dialogue: 0,0:09:44.95,0:09:46.23,Gen_Main,,0000,0000,0000,,Son buenas noticias.
+Dialogue: 0,0:09:46.23,0:09:48.82,Gen_Main,,0000,0000,0000,,Pero es en dos meses.
+Dialogue: 0,0:09:48.82,0:09:50.94,Gen_Main,,0000,0000,0000,,Tendremos una agenda apretada.
+Dialogue: 0,0:09:50.94,0:09:55.53,Gen_Main,,0000,0000,0000,,En ese caso,\Nes necesario aumentar el personal.
+Dialogue: 0,0:09:55.53,0:09:59.62,Gen_Main,,0000,0000,0000,,Y dos artistas aligerarían\Nla carga de trabajo de Honda-san.
+Dialogue: 0,0:10:00.20,0:10:03.32,Gen_Main,,0000,0000,0000,,Además, ya tenemos la historia,
+Dialogue: 0,0:10:03.32,0:10:07.04,Gen_Main,,0000,0000,0000,,así que no tendremos\Nproblemas con la trama.
+Dialogue: 0,0:10:08.84,0:10:12.04,Gen_Main,,0000,0000,0000,,Bien. Muy bien… Tienen mi aprobación.
+Dialogue: 0,0:10:16.02,0:10:20.47,Gen_Main,,0000,0000,0000,,Decidido. Nuestro nuevo juego será\N{\i1}Deseos de polvos de estrellas{\i0}.
+Dialogue: 0,0:10:16.09,0:10:20.47,Cart_A_Tre,,0000,0000,0000,,{\i1}Deseos de polvos de estrellas{\i0}\NPor Iris
+Dialogue: 0,0:10:20.47,0:10:21.69,Gen_Main,,0000,0000,0000,,Sin embargo…
+Dialogue: 0,0:10:21.69,0:10:24.93,Gen_Main,,0000,0000,0000,,Tu entrada a este club\Ndebe cumplir mis expectativas.
+Dialogue: 0,0:10:25.33,0:10:28.89,Gen_Main,,0000,0000,0000,,Trabajarás con Honda-san\Naunque terminemos el juego.
+Dialogue: 0,0:10:29.30,0:10:30.75,Gen_Main,,0000,0000,0000,,¿Podrás hacerlo?
+Dialogue: 0,0:10:30.75,0:10:33.11,Gen_Main,,0000,0000,0000,,Sí. Me esforzaré.
+Dialogue: 0,0:10:44.82,0:10:46.16,Gen_Main,,0000,0000,0000,,¿Seki-senpai?
+Dialogue: 0,0:10:46.53,0:10:48.28,Gen_Main,,0000,0000,0000,,Eso salió bien.
+Dialogue: 0,0:10:49.51,0:10:52.38,Gen_Italics,,0000,0000,0000,,El club SNS irá al Comiket de verano
+Dialogue: 0,0:10:52.66,0:10:55.89,Gen_Italics,,0000,0000,0000,,y parece que cambiarán\Nmuchas cosas desde ahora.
+Dialogue: 0,0:10:55.89,0:10:59.52,Gen_Italics,,0000,0000,0000,,En realidad,\N¿de qué trata el Comiket de verano?
+Dialogue: 0,0:11:04.35,0:11:06.35,Gen_Main,,0000,0000,0000,,¿Comiket de verano?
+Dialogue: 0,0:11:06.35,0:11:10.01,Gen_Main,,0000,0000,0000,,Bueno, es una gran convención\N{\i1}doujin{\i0} que se celebra en verano.
+Dialogue: 0,0:11:10.01,0:11:13.56,Gen_Main,,0000,0000,0000,,Tocan muchas industrias\Ncon gente de todo el mundo.
+Dialogue: 0,0:11:13.56,0:11:16.33,Gen_Main,,0000,0000,0000,,Vaya, suena genial…
+Dialogue: 0,0:11:17.34,0:11:22.03,Gen_Italics,,0000,0000,0000,,Si holgazaneo, Ha-chan\Ntendrá que hacer todo el trabajo.
+Dialogue: 0,0:11:22.03,0:11:23.68,Gen_Main,,0000,0000,0000,,Tengo que trabajar duro.
+Dialogue: 0,0:11:27.30,0:11:28.95,Gen_Main,,0000,0000,0000,,Buenos días.
+Dialogue: 0,0:11:29.81,0:11:31.16,Gen_Main,,0000,0000,0000,,Buenos. ¿Eh…?
+Dialogue: 0,0:11:33.63,0:11:35.04,Gen_Main,,0000,0000,0000,,Este, ¿Yumine?
+Dialogue: 0,0:11:35.59,0:11:38.62,Gen_Main,,0000,0000,0000,,¿Desde cuándo tenemos\Nuna chica tan linda en clase?
+Dialogue: 0,0:11:39.35,0:11:41.55,Gen_Main,,0000,0000,0000,,Es Marika.
+Dialogue: 0,0:11:41.88,0:11:46.06,Gen_Main,,0000,0000,0000,,Leí algo que me cambió.
+Dialogue: 0,0:11:45.55,0:11:51.94,Cart_A_Tre,,0000,0000,0000,,{\i1}Deseos de polvos de estrellas{\i0},\Nacto 1. Por Iris
+Dialogue: 0,0:11:46.06,0:11:48.83,Gen_Main,,0000,0000,0000,,Desde ahora,\Nseguiré su ejemplo en mi vida.
+Dialogue: 0,0:11:48.83,0:11:51.94,Gen_Italics,,0000,0000,0000,,Cambiaste la vida\Nde otra persona, Seki-senpai.
+Dialogue: 0,0:11:51.94,0:11:54.60,Gen_Main,,0000,0000,0000,,Describe perfectamente a la mujer ideal
+Dialogue: 0,0:11:54.60,0:11:58.03,Gen_Main,,0000,0000,0000,,a la que toda chica aspira llegar a ser.
+Dialogue: 0,0:11:58.03,0:11:59.82,Gen_Italics,,0000,0000,0000,,¿De eso trata?
+Dialogue: 0,0:12:00.03,0:12:03.21,Gen_Main,,0000,0000,0000,,Bueno, creo\Nque no deberías decirlo por ahí.
+Dialogue: 0,0:12:03.21,0:12:05.18,Gen_Main,,0000,0000,0000,,Para mantener el secreto.
+Dialogue: 0,0:12:05.18,0:12:07.62,Gen_Main,,0000,0000,0000,,¿Por qué? Es una gran historia.
+Dialogue: 0,0:12:07.99,0:12:11.54,Gen_Main,,0000,0000,0000,,Seki-senpai se sorprendería.\NLo mejor será no mencionarla.
+Dialogue: 0,0:12:11.54,0:12:15.40,Gen_Main,,0000,0000,0000,,Bueno, no estaría bien que\Nla mujer ideal tuviera tantas rivales.
+Dialogue: 0,0:12:15.40,0:12:17.79,Gen_Main,,0000,0000,0000,,Ya entiendo. Tendré cuidado.
+Dialogue: 0,0:12:19.05,0:12:19.38,Cart_C_Tre,,0000,0000,0000,,{\fs18}Nuevo mensaje\N\NYumine Fuda
+Dialogue: 0,0:12:20.04,0:12:22.60,Gen_Italics,,0000,0000,0000,,Una chica de mi clase\Ndice que Seki-senpai
+Dialogue: 0,0:12:22.61,0:12:27.51,Gen_Italics,,0000,0000,0000,,describió a la mujer ideal\Nen sus historias.
+Dialogue: 0,0:12:29.77,0:12:33.44,Gen_Main,,0000,0000,0000,,Está muy bien. Es tan sedoso.
+Dialogue: 0,0:12:33.44,0:12:35.27,Gen_Main,,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:12:35.27,0:12:38.65,Gen_Main,,0000,0000,0000,,Tengo que levantarme\Na las cinco para dejarlo así.
+Dialogue: 0,0:12:38.92,0:12:40.58,Gen_Main,,0000,0000,0000,,Tengo mucho sueño.
+Dialogue: 0,0:12:40.58,0:12:42.14,Gen_Main,,0000,0000,0000,,Es increíble.
+Dialogue: 0,0:12:42.14,0:12:45.41,Gen_Italics,,0000,0000,0000,,Debe ser difícil ser la mujer ideal…
+Dialogue: 0,0:12:45.41,0:12:47.64,Gen_Main,,0000,0000,0000,,Ya que estás así, ¿puedo dibujarte?
+Dialogue: 0,0:12:47.64,0:12:48.91,Gen_Main,,0000,0000,0000,,Adelante.
+Dialogue: 0,0:12:49.29,0:12:50.66,Gen_Main,,0000,0000,0000,,Supongo que yo también.
+Dialogue: 0,0:12:50.66,0:12:52.31,Gen_Main,,0000,0000,0000,,¿Qué hago con mi cara?
+Dialogue: 0,0:12:52.98,0:12:55.37,Gen_Main,,0000,0000,0000,,¿Pongo una cara de manga {\i1}shoujo{\i0}?
+Dialogue: 0,0:12:55.37,0:12:57.82,Gen_Main,,0000,0000,0000,,No, pon tu cara normal.
+Dialogue: 0,0:12:57.82,0:12:59.90,Gen_Italics,,0000,0000,0000,,No parece muy diferente por dentro.
+Dialogue: 0,0:13:00.59,0:13:01.90,Gen_Main,,0000,0000,0000,,Belleza mirando atrás.
+Dialogue: 0,0:13:01.90,0:13:03.71,Gen_Main,,0000,0000,0000,,¿Están dibujándola?
+Dialogue: 0,0:13:03.71,0:13:04.57,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:13:05.08,0:13:07.40,Gen_Main,,0000,0000,0000,,¿Su brazo derecho no está algo raro?
+Dialogue: 0,0:13:07.40,0:13:09.10,Gen_Main,,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:13:09.10,0:13:11.18,Gen_Main,,0000,0000,0000,,¿Sabes cómo dibujar, Iino-san?
+Dialogue: 0,0:13:11.18,0:13:13.86,Gen_Main,,0000,0000,0000,,Bueno, mi hermanita sabe una cosa o dos.
+Dialogue: 0,0:13:13.86,0:13:14.83,Gen_Main,,0000,0000,0000,,Oye.
+Dialogue: 0,0:13:14.83,0:13:18.05,Gen_Main,,0000,0000,0000,,¿Puedes dejar de intentar ver?\NEs un boceto, ¿sabes?
+Dialogue: 0,0:13:18.05,0:13:21.28,Gen_Main,,0000,0000,0000,,No me movía. Solo estiraba el cuello.
+Dialogue: 0,0:13:21.28,0:13:23.28,Gen_Italics,,0000,0000,0000,,¿Una mujer ideal? No sé yo…
+Dialogue: 0,0:13:24.06,0:13:26.74,Gen_Main,,0000,0000,0000,,Pero su pelo es precioso.
+Dialogue: 0,0:13:26.74,0:13:28.80,Gen_Main,,0000,0000,0000,,Debe ser porque es mestiza.
+Dialogue: 0,0:13:28.80,0:13:30.70,Gen_Main,,0000,0000,0000,,Ser mestiza no tiene relación.
+Dialogue: 0,0:13:30.97,0:13:34.14,Gen_Main,,0000,0000,0000,,Eres hermosa, Honda-san.\NEres una mujer ideal.
+Dialogue: 0,0:13:34.14,0:13:37.55,Gen_Main,,0000,0000,0000,,No es cierto. Además,\Nhoy no tengo el pelo tan bien…
+Dialogue: 0,0:13:37.55,0:13:40.17,Gen_Main,,0000,0000,0000,,¿Te gusta llevar\Nel pelo largo, Honda-san?
+Dialogue: 0,0:13:40.17,0:13:43.77,Gen_Main,,0000,0000,0000,,Sí. Quiero ser una mujer linda.
+Dialogue: 0,0:13:43.77,0:13:46.11,Gen_Main,,0000,0000,0000,,Mi mamá solía llevar el pelo largo
+Dialogue: 0,0:13:46.11,0:13:50.14,Gen_Main,,0000,0000,0000,,y pensé que a mi papá\Ntambién le gustaría.
+Dialogue: 0,0:13:50.14,0:13:52.60,Gen_Main,,0000,0000,0000,,Muy bien, cambiemos.
+Dialogue: 0,0:14:05.08,0:14:07.72,Gen_Main,,0000,0000,0000,,Me da vergüenza.
+Dialogue: 0,0:14:07.72,0:14:09.07,Gen_Main,,0000,0000,0000,,Aguanta, Tama-chan.
+Dialogue: 0,0:14:09.07,0:14:12.04,Gen_Main,,0000,0000,0000,,¿Crees que podrías poner\Nla cara de un chico en éxtasis
+Dialogue: 0,0:14:12.04,0:14:14.87,Gen_Main,,0000,0000,0000,,cuando juega con otro chico?
+Dialogue: 0,0:14:14.87,0:14:17.09,Gen_Main,,0000,0000,0000,,¡Nunca hice nada parecido!
+Dialogue: 0,0:14:19.74,0:14:23.41,Gen_Main,,0000,0000,0000,,Nunca seré una esposa, papá.
+Dialogue: 0,0:14:23.41,0:14:25.85,Gen_Main,,0000,0000,0000,,Vamos, vamos. ¿Puedes calmarte?
+Dialogue: 0,0:14:25.85,0:14:29.70,Gen_Main,,0000,0000,0000,,Bien. ¿Podrías ayudarla, Marika-san?
+Dialogue: 0,0:14:29.70,0:14:31.05,Gen_Main,,0000,0000,0000,,Entendido.
+Dialogue: 0,0:14:33.69,0:14:35.78,Gen_Main,,0000,0000,0000,,Anímate.
+Dialogue: 0,0:14:35.78,0:14:39.48,Gen_Main,,0000,0000,0000,,Intenta tomar de la corbata\Na Marika-san, Tama-chan.
+Dialogue: 0,0:14:39.48,0:14:40.72,Gen_Main,,0000,0000,0000,,Este…
+Dialogue: 0,0:14:41.89,0:14:43.96,Gen_Main,,0000,0000,0000,,¿Así?
+Dialogue: 0,0:14:43.96,0:14:46.87,Gen_Main,,0000,0000,0000,,Somos como un príncipe y una princesa.
+Dialogue: 0,0:14:48.44,0:14:50.03,Gen_Main,,0000,0000,0000,,Qué bien, chicas.
+Dialogue: 0,0:14:51.54,0:14:53.61,Gen_Main,,0000,0000,0000,,¿No cres que es poco realista?
+Dialogue: 0,0:14:54.51,0:14:56.30,Gen_Main,,0000,0000,0000,,Empieza la clase.
+Dialogue: 0,0:14:57.00,0:14:58.75,Gen_Main,,0000,0000,0000,,Gracias, Tama-chan.
+Dialogue: 0,0:14:59.22,0:15:02.10,Gen_Main,,0000,0000,0000,,Ojalá hubieras añadido más detalle.
+Dialogue: 0,0:15:02.10,0:15:04.46,Gen_Main,,0000,0000,0000,,Eres bastante buena, Shimizu-san.
+Dialogue: 0,0:15:04.70,0:15:06.67,Gen_Main,,0000,0000,0000,,Muchas gracias. Pues ya está.
+Dialogue: 0,0:15:06.67,0:15:12.04,Gen_Main,,0000,0000,0000,,Por eso me llamaban {\i1}Alstroemeria\Ndes Concours D'arts{\i0} en primaria.
+Dialogue: 0,0:15:12.04,0:15:13.93,Gen_Main,,0000,0000,0000,,¿Y no mujer ideal?
+Dialogue: 0,0:15:14.61,0:15:17.56,Gen_Main,,0000,0000,0000,,¿No es ella mejor artista que tú?
+Dialogue: 0,0:15:17.56,0:15:19.39,Gen_Main,,0000,0000,0000,,Bueno, no sabes…
+Dialogue: 0,0:15:20.10,0:15:21.44,Gen_Main,,0000,0000,0000,,¿Honda-san?
+Dialogue: 0,0:15:21.44,0:15:22.66,Gen_Main,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:15:24.90,0:15:28.49,Gen_Main,,0000,0000,0000,,¿Iino-san? ¿Cómo dibujo mejor?
+Dialogue: 0,0:15:28.82,0:15:30.57,Gen_Main,,0000,0000,0000,,¿Me preguntas a mí?
+Dialogue: 0,0:15:30.57,0:15:33.01,Gen_Main,,0000,0000,0000,,Dijiste algo de tu hermana.
+Dialogue: 0,0:15:33.01,0:15:34.89,Gen_Main,,0000,0000,0000,,Bueno, mi hermanita…
+Dialogue: 0,0:15:34.89,0:15:37.99,Gen_Main,,0000,0000,0000,,Cada vez que la veo, está dibujando.
+Dialogue: 0,0:15:38.70,0:15:40.21,Gen_Main,,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:15:40.47,0:15:42.23,Gen_Main,,0000,0000,0000,,Es como estudiar.
+Dialogue: 0,0:15:42.23,0:15:45.59,Gen_Main,,0000,0000,0000,,Si te gusta y sigues haciéndolo,\Nmejorarás.
+Dialogue: 0,0:15:46.30,0:15:48.80,Gen_Main,,0000,0000,0000,,Este… ¿Incluso en clase?
+Dialogue: 0,0:15:48.80,0:15:52.48,Gen_Main,,0000,0000,0000,,Es que así, mis apuntes\Nson más fáciles de leer.
+Dialogue: 0,0:15:52.48,0:15:57.55,Gen_Main,,0000,0000,0000,,En realidad, puedo ver si un boceto\Nestá raro con un vistazo rápido.
+Dialogue: 0,0:15:57.55,0:15:58.81,Gen_Main,,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:15:59.19,0:16:02.83,Gen_Main,,0000,0000,0000,,Dime, Honda-san,\N¿hasta ahora copiabas manga?
+Dialogue: 0,0:16:02.83,0:16:04.93,Gen_Main,,0000,0000,0000,,¿Cómo lo sabías?
+Dialogue: 0,0:16:04.93,0:16:06.86,Gen_Main,,0000,0000,0000,,Era una corazonada.
+Dialogue: 0,0:16:07.13,0:16:09.57,Gen_Main,,0000,0000,0000,,Pero es como estudiar.
+Dialogue: 0,0:16:09.57,0:16:14.03,Gen_Main,,0000,0000,0000,,Aunque seas mala o no te guste,\Npuedes hacerlo.
+Dialogue: 0,0:16:14.34,0:16:16.39,Gen_Main,,0000,0000,0000,,Bueno, por ejemplo…
+Dialogue: 0,0:16:18.52,0:16:21.62,Gen_Main,,0000,0000,0000,,Como cuando piensas\N"Voy a prestar atención a la clase".
+Dialogue: 0,0:16:27.42,0:16:30.17,Cart_C_Tre,,0000,0000,0000,,{\c&HE1BEA8&\an4}Club {\c&H9274E8&}SNS
+Dialogue: 0,0:16:33.63,0:16:38.33,Gen_Main,,0000,0000,0000,,Para mejorar, empezaré\Ndibujando más de lo normal.
+Dialogue: 0,0:16:38.33,0:16:41.89,Gen_Main,,0000,0000,0000,,¿Lo ves? Tú y yo\Ntenemos estilos muy diferentes.
+Dialogue: 0,0:16:42.59,0:16:44.54,Gen_Main,,0000,0000,0000,,¿Qué haces aquí?
+Dialogue: 0,0:16:44.54,0:16:47.65,Gen_Main,,0000,0000,0000,,Vine a devolver un libro\Nque me dejó Murakami-senpai.
+Dialogue: 0,0:16:47.97,0:16:50.11,Gen_Main,,0000,0000,0000,,Es como decía,
+Dialogue: 0,0:16:50.33,0:16:54.82,Gen_Main,,0000,0000,0000,,"Si pueden usar\Nel mismo estilo, podrían".
+Dialogue: 0,0:16:55.05,0:16:57.24,Gen_Main,,0000,0000,0000,,¿Qué es usar el mismo estilo?
+Dialogue: 0,0:16:57.24,0:16:59.53,Gen_Main,,0000,0000,0000,,Pues colorear y eso. Color digital.
+Dialogue: 0,0:16:59.99,0:17:03.50,Gen_Main,,0000,0000,0000,,¿Tampoco sabías eso?
+Dialogue: 0,0:17:03.95,0:17:06.51,Gen_Main,,0000,0000,0000,,Creo que me lo explicaron.
+Dialogue: 0,0:17:06.51,0:17:11.96,Gen_Main,,0000,0000,0000,,Pero en el juego, usamos\Nmis dibujos tal y como estaban.
+Dialogue: 0,0:17:12.84,0:17:14.59,Gen_Main,,0000,0000,0000,,En realidad, tiene sentido.
+Dialogue: 0,0:17:19.00,0:17:21.60,Gen_Main,,0000,0000,0000,,Ha-chan. Quiero pedirte algo.
+Dialogue: 0,0:17:24.57,0:17:27.40,Gen_Main,,0000,0000,0000,,Necesitas dejar las sombras simples.
+Dialogue: 0,0:17:27.40,0:17:31.34,Gen_Main,,0000,0000,0000,,Ahora, haz una copia\Ndel boceto y ponla encima.
+Dialogue: 0,0:17:31.34,0:17:32.73,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:17:32.99,0:17:37.45,Gen_Main,,0000,0000,0000,,Y ahora, usa manchas\Npara añadir naranja a las coletas.
+Dialogue: 0,0:17:37.97,0:17:40.52,Gen_Main,,0000,0000,0000,,Así le dará una sensación borrosa.
+Dialogue: 0,0:17:40.92,0:17:42.91,Gen_Main,,0000,0000,0000,,No sabía que se pudiera hacer eso.
+Dialogue: 0,0:17:43.22,0:17:46.54,Gen_Main,,0000,0000,0000,,Y por último, los detalles,
+Dialogue: 0,0:17:46.54,0:17:51.75,Gen_Main,,0000,0000,0000,,añadir un borde blanco\Nen el pelo puede cambiarlo todo.
+Dialogue: 0,0:17:54.59,0:17:56.38,Gen_Main,,0000,0000,0000,,Pensé que podrían estar aquí.
+Dialogue: 0,0:17:56.62,0:17:57.73,Gen_Main,,0000,0000,0000,,Hola.
+Dialogue: 0,0:17:57.73,0:18:00.23,Gen_Main,,0000,0000,0000,,Parece que están investigando.
+Dialogue: 0,0:18:00.75,0:18:02.51,Gen_Main,,0000,0000,0000,,¿Se sienten más habladoras?
+Dialogue: 0,0:18:02.99,0:18:04.35,Gen_Main,,0000,0000,0000,,Para nada…
+Dialogue: 0,0:18:04.35,0:18:07.06,Gen_Main,,0000,0000,0000,,Bueno, tenemos buenas noticias.
+Dialogue: 0,0:18:07.06,0:18:11.67,Gen_Main,,0000,0000,0000,,Temawari-san nos dejará poner\Nnuestro juego en su puesto.
+Dialogue: 0,0:18:11.67,0:18:14.66,Gen_Main,,0000,0000,0000,,Temawari-san es muy famosa, ¿no?
+Dialogue: 0,0:18:14.93,0:18:17.07,Gen_Main,,0000,0000,0000,,Es la que le gusta tanto a Yumine.
+Dialogue: 0,0:18:17.32,0:18:21.24,Gen_Main,,0000,0000,0000,,Pero tendremos que ayudarla a vender.
+Dialogue: 0,0:18:21.24,0:18:26.41,Gen_Main,,0000,0000,0000,,¿De verdad? Entonces el juego\Nde la gran Iris podrá lanzarse.
+Dialogue: 0,0:18:26.41,0:18:28.17,Gen_Main,,0000,0000,0000,,No tengo tiempo para esto.
+Dialogue: 0,0:18:28.18,0:18:29.87,Gen_Main,,0000,0000,0000,,Tendrás que mejorar.
+Dialogue: 0,0:18:29.87,0:18:33.40,Gen_Main,,0000,0000,0000,,Siento decirles esto, pero\Nterminaremos ya la reunión de hoy.
+Dialogue: 0,0:18:33.40,0:18:35.63,Gen_Main,,0000,0000,0000,,La escuela cerrará pronto.
+Dialogue: 0,0:18:36.13,0:18:37.22,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:18:37.82,0:18:39.30,Gen_Main,,0000,0000,0000,,¿Por qué…?
+Dialogue: 0,0:18:39.64,0:18:41.54,Gen_Main,,0000,0000,0000,,Mañana tenemos exámenes.
+Dialogue: 0,0:18:47.62,0:18:51.31,Gen_Main,,0000,0000,0000,,Me olvidé por completo.\NMañana tenemos exámenes, ¿no?
+Dialogue: 0,0:18:51.78,0:18:55.53,Gen_Main,,0000,0000,0000,,Solo son parciales. Pensaré en algo.
+Dialogue: 0,0:18:56.02,0:19:00.15,Gen_Main,,0000,0000,0000,,Pero ahora no me siento\Ntan mala comparada a Ha-chan.
+Dialogue: 0,0:19:00.15,0:19:03.90,Gen_Main,,0000,0000,0000,,Aunque es imposible\Naprender a colorear yo sola.
+Dialogue: 0,0:19:05.03,0:19:08.25,Cart_C_Tre,,0000,0000,0000,,{\c&HD3A9AB&}Poses de personajes
+Dialogue: 0,0:19:05.77,0:19:07.80,Gen_Main,,0000,0000,0000,,Es como dijo Iino-san.
+Dialogue: 0,0:19:08.47,0:19:11.08,Gen_Main,,0000,0000,0000,,Hasta ahora, copiaba mangas,
+Dialogue: 0,0:19:11.08,0:19:15.06,Gen_Main,,0000,0000,0000,,nunca presté atención a los bocetos.
+Dialogue: 0,0:19:15.06,0:19:16.65,Gen_Main,,0000,0000,0000,,Bocetos…
+Dialogue: 0,0:19:19.77,0:19:23.21,Gen_Main,,0000,0000,0000,,Esta pantalla\Nes algo pequeña para abocetar.
+Dialogue: 0,0:19:26.02,0:19:27.77,Gen_Main,,0000,0000,0000,,Lo transferiré.
+Dialogue: 0,0:19:27.77,0:19:30.48,Gen_Main,,0000,0000,0000,,Aquí está el archivo.
+Dialogue: 0,0:19:30.48,0:19:31.71,Gen_Main,,0000,0000,0000,,Ahora a imprimir.
+Dialogue: 0,0:19:31.71,0:19:33.00,Gen_Main,,0000,0000,0000,,Tama-chan.
+Dialogue: 0,0:19:33.00,0:19:35.22,Gen_Main,,0000,0000,0000,,¿Quieres nísperos?
+Dialogue: 0,0:19:35.67,0:19:37.63,Gen_Main,,0000,0000,0000,,Lo siento, abuela.
+Dialogue: 0,0:19:37.63,0:19:39.90,Gen_Main,,0000,0000,0000,,Creo que por ahora no.
+Dialogue: 0,0:19:44.52,0:19:47.08,Gen_Main,,0000,0000,0000,,Dibujarse a una misma es muy difícil.
+Dialogue: 0,0:19:47.08,0:19:49.26,Gen_Main,,0000,0000,0000,,¡Y yo no soy linda!
+Dialogue: 0,0:19:49.26,0:19:51.37,Gen_Main,,0000,0000,0000,,Y me sobran algunos kilos.
+Dialogue: 0,0:19:51.37,0:19:54.08,Gen_Main,,0000,0000,0000,,Ojalá fuera más alta…
+Dialogue: 0,0:19:54.08,0:19:56.74,Gen_Main,,0000,0000,0000,,¿Y por qué hago las manos así?
+Dialogue: 0,0:19:56.74,0:19:59.67,Gen_Main,,0000,0000,0000,,¿Será de dibujar viejos?
+Dialogue: 0,0:19:59.92,0:20:03.47,Gen_Main,,0000,0000,0000,,Bien, una más antes de estudiar.
+Dialogue: 0,0:20:03.47,0:20:06.14,Gen_Main,,0000,0000,0000,,Probaré una pose más difícil.
+Dialogue: 0,0:20:39.94,0:20:42.88,Gen_Italics,,0000,0000,0000,,Acabé dibujando hasta dormirme.
+Dialogue: 0,0:20:43.14,0:20:46.86,Gen_Italics,,0000,0000,0000,,Pero no pasa nada. Los exámenes\Nde hoy no son tan importantes.
+Dialogue: 0,0:20:46.86,0:20:49.18,Gen_Main,,0000,0000,0000,,¿Cuánto estudiaste, Yumine?
+Dialogue: 0,0:20:49.18,0:20:52.35,Gen_Main,,0000,0000,0000,,No me hables. Intento\Naprenderme estas fórmulas.
+Dialogue: 0,0:20:53.62,0:20:57.06,Gen_Main,,0000,0000,0000,,Tal vez debería mirar mis notas.
+Dialogue: 0,0:20:58.13,0:20:59.24,Gen_Main,,0000,0000,0000,,Honda-san…
+Dialogue: 0,0:21:00.33,0:21:03.99,Gen_Main,,0000,0000,0000,,Esta foto no ibas a mandarla\Na ningún sitio raro, ¿cierto?
+Dialogue: 0,0:21:13.30,0:21:16.60,Gen_Main,,0000,0000,0000,,Buen trabajo.\NAhora tenemos otro examen, ¿no?
+Dialogue: 0,0:21:16.60,0:21:21.82,Gen_Main,,0000,0000,0000,,No entendí\Nesas preguntas de matemáticas.
+Dialogue: 0,0:21:21.82,0:21:24.60,Gen_Main,,0000,0000,0000,,Debería haber estudiado más.
+Dialogue: 0,0:21:24.60,0:21:26.78,Gen_Main,,0000,0000,0000,,Cambia el chip, Tama-chan.
+Dialogue: 0,0:21:26.78,0:21:29.26,Gen_Main,,0000,0000,0000,,Sí, hay que cambiar el chip.
+Dialogue: 0,0:21:29.26,0:21:31.79,Gen_Main,,0000,0000,0000,,Los humanos tienen límites, ¿saben?
+Dialogue: 0,0:21:31.79,0:21:34.48,Gen_Main,,0000,0000,0000,,La belleza de una flor\Nen su evanescencia…
+Dialogue: 0,0:21:34.90,0:21:37.26,Gen_Main,,0000,0000,0000,,¿Fue difícil dejar tu pelo así?
+Dialogue: 0,0:21:40.68,0:21:41.66,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:21:41.66,0:21:44.18,Gen_Main,,0000,0000,0000,,¿Muy feliz y avergonzada para estudiar
+Dialogue: 0,0:21:44.18,0:21:47.72,Gen_Main,,0000,0000,0000,,tras recibir todos esos mensajes\Nsobre cómo escribías?
+Dialogue: 0,0:21:47.72,0:21:49.40,Gen_Main,,0000,0000,0000,,Cielos…
+Dialogue: 0,0:23:23.88,0:23:25.93,Gen_Main,,0000,0000,0000,,Iris.
+Dialogue: 0,0:23:25.93,0:23:27.05,Gen_Main,,0000,0000,0000,,Gracias por escribir.
+Dialogue: 0,0:23:27.05,0:23:28.17,Gen_Main,,0000,0000,0000,,Prometido.
+Dialogue: 0,0:23:28.17,0:23:29.26,Gen_Main,,0000,0000,0000,,¿Hiciste qué?
+Dialogue: 0,0:23:30.02,0:23:33.64,Gen_Main,,0000,0000,0000,,Lo que desee mi mamá, lo haré.
+Dialogue: 0,0:23:32.89,0:23:35.39,Cart_Next,,0000,0000,0000,,Máquinas de precisión
