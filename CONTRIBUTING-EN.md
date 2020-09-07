@@ -6,6 +6,7 @@ When submitting a new anime commit first the original file, then the fix in othe
 
 ## Folder organization:
 
+* Subtitles are placed in their own folder, "subtitles";
 * Create a folder for each anime and inside each one other folder for each translation group;
 * Use the romanized name as the folder name, prefixed by the AniList ID prefix, separated by hyphen;
 * If the name is too long (more than 25 characters), you can use some abbreviation based on the romanized name ([this anime](https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru) can be shortened to Oreshura);

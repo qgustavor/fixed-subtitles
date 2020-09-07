@@ -6,6 +6,7 @@ Ao enviar um novo anime primeiro faça um *commit* do arquivo original, então o
 
 ## Organização das pastas:
 
+* As legendas estão na pasta "subtitles";
 * Crie uma pasta para cada anime e dentro de cada uma crie uma pasta para cada grupo;
 * Use o nome romanizado como o nome da pasta, prefixado com o ID do AniList, separado por hífen.
 * Se o nome for muito longo (mais de 25 caracteres) pode ser usado a abreviação baseada no nome romanizado ([esse anime](https://myanimelist.net/anime/14749/Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru) pode ser encurtado para Oreshura);
