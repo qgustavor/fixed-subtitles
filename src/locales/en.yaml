@@ -1,0 +1,84 @@
+---
+website-name: Fixed Subtitles
+website-description: Fixed subtitles from fansub groups and streaming websites
+not-found: The requested page was not found.
+contact-link: Contact
+wip: Work in progress
+
+index:
+  headline: Share fixed subtitles
+  description: Download fixed subtitles. Share errors to be fixed.
+  latest_updates: Latest updates
+  actions:
+    browse:
+      title: I'm looking for subtitles
+      description: Find and download fixed subtitles
+      action: Browse subtitles
+    report:
+      title: I found an error
+      description: Share it so we can fix it
+      action: Submit error report
+  explainer:
+    title: Why fixing subtitles?
+    time: Sometimes the original translators can't fix those
+    time2: Maybe they're too busy in other projects, retired from translating or even, in the case of streaming services, lost their licenses.
+    opensource: Many people can contribute
+    opensource2: It's easy to oversee your own errors, but if with people help contributing it's possible to avoid those issues.
+    pluggable: Subtitles can be synced easily
+    pluggable2: This website is made with player integration as a target so people can easily watch their shows with the best subtitle available.
+
+contact:
+  title: Contact
+  headline: Found an error? Report it here. If you found an error in a subtitle or in this website tell us where we can find it. Remember to include an URL if it's possible.
+  name: Name
+  email: Email
+  message: Message
+  submit: Submit
+  extra: You can also get in touch in {project}.
+  extra-project: the project page in GitHub
+  messages:
+    missing-data: Fill all inputs.
+    invalid-email: Invalid email address.
+    submitting: Submitting...
+    submitted: Your message was sent.
+    error: An error happened while sending your message.
+
+full-season: '{seasonYear} {season}'
+episodes: '0 episodes | {n} episode | {n} episodes'
+show_list: Show list
+data-source: Anime data provided by {anilist}. Project hosted at GitHub.
+pagination-text: Page {current} of {total}
+select-group: Select one of the groups above.
+file-count: 'No files | {n} file | {n} files'
+changed-lines-count: 'No line fixed | {n} line fixed | {n} lines fixed'
+download-all: Download all as zip
+
+group-list:
+  filename: File name
+  modified: Last modified
+  changedLines: Fixed lines
+
+seasons:
+  SPRING: Spring
+  SUMMER: Summer
+  FALL: Fall
+  WINTER: Winter
+
+formats:
+  TV: TV
+  TV_SHORT: Short
+  MOVIE: Movie
+  SPECIAL: Special
+  OVA: OVA
+  ONA: ONA
+  MUSIC: Music Video
+
+languages:
+  en: English
+  en-us: American English
+  pt: Portuguese
+  pt-br: Brazilian Portuguese
+  pt-pt: European Portuguese
+  es: Spanish
+  es-la: Latin American Spanish
+  es-es: European Spanish
