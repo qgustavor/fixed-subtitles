@@ -1,4 +1,6 @@
 <template>
+  <Title />
+
   <div class="lg:text-center px-6">
     <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight sm:text-5xl sm:leading-10">
       {{ t('index.headline') }}

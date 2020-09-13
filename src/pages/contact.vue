@@ -1,4 +1,6 @@
 <template>
+  <Title :page="t('contact.title')" />
+
   <div class="flex flex-col text-center w-full mb-10">
     <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4">{{ t('contact.title') }}</h1>
     <p class="px-2 lg:w-1/2 md:w-2/3 mx-auto leading-relaxed text-base">{{ t('contact.headline') }}</p>
@@ -16,8 +18,8 @@
         <textarea class="w-full dark:bg-gray-800 rounded border border-gray-700 dark:text-white focus:outline-none h-48 focus:border-indigo-500 text-base px-4 py-2 resize-none block" :placeholder="t('contact.message')" v-model="message" :disabled="state === 'submitting' || state === 'submitted'"></textarea>
       </div>
       <div class="p-2 w-full flex">
-        <div class="w-2/5"></div>
-        <button class="w-1/5 flex text-white border-0 py-2 px-8 focus:outline-none rounded text-lg text-center mx-5"
+        <div class="md:w-2/5"></div>
+        <button class="w-auto flex text-white border-0 py-2 px-8 focus:outline-none rounded text-lg text-center mx-5"
           :class="[
             state === 'idle' && 'bg-indigo-500 hover:bg-indigo-600',
             state === 'submitted' && 'bg-green-500',
@@ -28,7 +30,7 @@
           ]"
           :disabled="state === 'submitting' || state === 'submitted'"
         >{{ t('contact.submit') }}</button>
-        <div class="w-2/5 my-auto">
+        <div class="w-full md:w-2/5 my-auto">
           <div v-if="state === 'missing-data'">{{ t('contact.messages.missing-data') }}</div>
           <div v-if="state === 'invalid-email'">{{ t('contact.messages.invalid-email') }}</div>
           <div v-if="state === 'submitting'">{{ t('contact.messages.submitting') }}</div>

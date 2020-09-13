@@ -31,7 +31,7 @@ jobs:
       - name: Cache remote data
         uses: actions/cache@v2
         with:
-          path: ~/.cache
+          path: .cache
           key: ${{ runner.os }}-remote-data
 
       - name: Populate data

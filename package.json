@@ -9,6 +9,7 @@
     "populate-data": "node build/populate-data"
   },
   "dependencies": {
+    "@egoist/vue-head": "^0.1.8",
     "@iconify/iconify": "^2.0.0-beta.6",
     "@vueuse/core": "^4.0.0-beta.9",
     "uprogress": "^1.0.4",
@@ -32,7 +33,6 @@
     "mkdirp": "^1.0.4",
     "natural-orderby": "^2.0.3",
     "node-fetch": "^2.6.1",
-    "pnpm": "^5.5.3",
     "tailwindcss": "^1.7.3",
     "tailwindcss-aspect-ratio": "^3.0.0",
     "tailwindcss-dark-mode": "^1.1.6",

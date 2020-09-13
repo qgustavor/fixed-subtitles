@@ -1,4 +1,6 @@
 <template>
+  <Title :page="show && show.metadata.title"></Title>
+
   <div class="dark:text-white text-center text-2xl py-20" v-if="!show">
     {{ t('not-found') }}
     <div class="text-8xl mt-2">
@@ -15,7 +17,7 @@
         </div>
         <div class="w-full ml-3 md:ml-0 lg:text-lg">
           <h1 class="leading-8 font-bold text-xl md:hidden">{{ show.metadata.title }}</h1>
-          <ol>
+          <ul>
             <li>
               <i18n-t keypath="full-season">
                 <template #season>{{ t('seasons.' + show.metadata.season) }}</template>
@@ -24,7 +26,10 @@
             </li>
             <li>{{ t('episodes', show.metadata.episodes) }}</li>
             <li>{{ t('formats.' + show.metadata.format) }}</li>
-          </ol>
+            <li v-for="link of show.metadata.externalLinks" class="lg:text-md">
+              <a :href="link.url" class="external-link">{{ link.site }}</a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
@@ -57,7 +62,7 @@
           {{ t('file-count', selectedGroup.files.length) }}
           <Icon class="iconify group-stat-icon mx-1" icon="carbon:clean" />
           {{ t('changed-lines-count', selectedGroup.changedLines) }}
-          <a :href="downloadUrlAll">
+          <a :href="downloadUrlAll" v-if="selectedGroup.files.length > 1">
             <Icon class="iconify group-stat-icon mx-1" icon="carbon:download" />
             <span class="external-link">{{ t('download-all') }}</span>
           </a>
@@ -91,13 +96,15 @@ import { useI18n } from 'vue-i18n'
 import { useRoute } from 'vue-router'
 import { computed, ref } from 'vue'
 
+export default { props: ['slug'] }
+
 export { shows } from '/~/utils/data-handler.ts'
 
 const route = useRoute()
 const show = computed(() => shows.find(e => e.slug === route.params.slug))
 export { show }
 
-const defaultGroup = show.value.groups.length === 1 ? show.value.groups[0] : null
+const defaultGroup = show.value && show.value.groups.length === 1 ? show.value.groups[0] : null
 const selectedGroup = ref(defaultGroup)
 export { selectedGroup }
 

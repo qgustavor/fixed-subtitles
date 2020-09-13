@@ -2,7 +2,6 @@
   <router-link :to="'/show/' + show.slug"
     class="flex bg-white overflow-hidden shadow dark:bg-gray-800 dark:text-white rounded"
   >
-    <!-- TODO: simplify this code -->
     <div class="relative w-1/3">
       <div class="aspect-ratio-9-14"></div>
       <img class="absolute left-0 top-0 w-full h-full object-cover" :src="imageUrl">
@@ -30,7 +29,7 @@ import { ref } from 'vue'
 
 export default { props: ['show'] }
 
-import placeholderUrl from '../assets/placeholder.jpg'
+import placeholderUrl from '../assets/placeholder.png'
 const imageUrl = ref(props.show.metadata.coverImage || placeholderUrl)
 export { imageUrl }
 
