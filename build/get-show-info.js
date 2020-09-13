@@ -23,7 +23,10 @@ module.exports = async function getShowInfo (folderName) {
   // Try to read show info from the cache
   const cachedMetadataPath = path.resolve(cacheDir, cacheKey + '.json')
   const cachedMetadata = await fs.promises.readFile(cachedMetadataPath).catch(() => null)
-  if (cachedMetadata) return JSON.parse(cachedMetadata.toString())
+  if (cachedMetadata) {
+    console.log('Got %s data from cache', cacheKey)
+    return JSON.parse(cachedMetadata.toString())
+  }
 
   // Fetch show info using the list service api
   const listFn = listServices[listService]
@@ -37,6 +40,7 @@ module.exports = async function getShowInfo (folderName) {
   })
   await fs.promises.writeFile(cachedMetadataPath, JSON.stringify(showRemoteData))
 
+  console.log('Got %s data from API', cacheKey)
   return showRemoteData
 }
 

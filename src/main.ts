@@ -19,6 +19,9 @@ const router = createRouter({
 
 import UProgress from 'uprogress'
 import 'uprogress/dist/uprogress.min.css'
+
+const existentProgress = document.querySelector('.uprogress')
+if (existentProgress) existentProgress.parentNode.removeChild(existentProgress)
 const uProgress = new UProgress()
 
 router.beforeResolve((to, from, next) => {
@@ -31,9 +34,25 @@ router.afterEach(() => {
   setTimeout(() => uProgress.done(), 100)
 })
 
+const navigatorLanguages = navigator.languages || [navigator.language]
+let locale
+
+for (const language of navigatorLanguages) {
+  if (messages[language]) {
+    locale = language
+    break
+  }
+  const reducedLang = language.substr(0, 2)
+  if (messages[reducedLang]) {
+    locale = reducedLang
+    break
+  }
+}
+if (!locale) locale = 'en'
+
 const i18n = createI18n({
-  locale: 'en',
-  messages,
+  locale,
+  messages
 })
 
 app.use(i18n)
