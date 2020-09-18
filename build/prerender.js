@@ -9,7 +9,9 @@ const staticDir = path.join(__dirname, '../dist')
 const prerenderer = new Prerenderer({
   staticDir,
   indexPath: path.join(staticDir, 'fixed-subtitles/index.html'),
-  renderer: new PuppeteerRenderer()
+  renderer: new PuppeteerRenderer({
+    renderAfterElementExists: '.router-main > *'
+  })
 })
 const baseUrl = 'https://qgustavor.github.io/fixed-subtitles/'
 const baseUrlObj = new URL(baseUrl)
@@ -38,7 +40,9 @@ async function doPreendering () {
       const $ = cheerio.load(renderedRoute.html)
       const anchors = $('a').get()
       for (const anchor of anchors) {
-        const url = new URL($(anchor).attr('href'), baseUrl)
+        const anchorHref = $(anchor).attr('href')
+        if (!anchorHref) continue
+        const url = new URL(anchorHref, baseUrl)
         if (url.hostname === baseUrlObj.hostname && !processedRoutes.has(url.pathname)) {
           pendingRoutes.add(url.pathname)
         }
