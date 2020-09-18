@@ -52,6 +52,7 @@
 <script setup lang='ts'>
 import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
+import { track } from './utils/user-stats'
 
 const name = ref('')
 const email = ref('')
@@ -69,6 +70,10 @@ export async function onSubmit () {
     state.value = 'invalid-email'
     return
   }
+
+  insights.track({
+    id: 'contact-form'
+  })
 
   const form = new URLSearchParams()
   form.append('name', name.value)

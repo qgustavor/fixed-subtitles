@@ -27,7 +27,7 @@
             <li>{{ t('episodes', show.metadata.episodes) }}</li>
             <li>{{ t('formats.' + show.metadata.format) }}</li>
             <li v-for="link of show.metadata.externalLinks" class="lg:text-md">
-              <a :href="link.url" class="external-link">{{ link.site }}</a>
+              <a :href="link.url" @click="trackLink(link.url)" class="external-link">{{ link.site }}</a>
             </li>
           </ul>
         </div>
@@ -62,7 +62,7 @@
           {{ t('file-count', selectedGroup.files.length) }}
           <Icon class="iconify group-stat-icon mx-1" icon="carbon:clean" />
           {{ t('changed-lines-count', selectedGroup.changedLines) }}
-          <a :href="downloadUrlAll" v-if="selectedGroup.files.length > 1">
+          <a :href="downloadUrlAll" @click="trackLink(downloadUrlAll)" v-if="selectedGroup.files.length > 1">
             <Icon class="iconify group-stat-icon mx-1" icon="carbon:download" />
             <span class="external-link">{{ t('download-all') }}</span>
           </a>
@@ -80,7 +80,13 @@
           </thead>
           <tbody>
             <tr class="hover:bg-grey-lighter" v-for="file of selectedGroup.files">
-              <td class="p-2"><a :href="getDownloadUrl(file)" class="external-link">{{ file.name }}</a></td>
+              <td class="p-2">
+                <a
+                  :href="getDownloadUrl(file)"
+                  @click="trackLink(file.name)"
+                  class="external-link"
+                >{{ file.name }}</a>
+              </td>
               <td class="p-2 text-center">{{ d(new Date(file.lastModified * 1000)) }}</td>
               <td class="p-2 text-right">{{ file.changedLines }}</td>
             </tr>
@@ -98,7 +104,8 @@ import { computed, ref } from 'vue'
 
 export default { props: ['slug'] }
 
-export { shows } from '/~/utils/data-handler.ts'
+export { shows } from '/~/utils/data-handler'
+import { track } from '/~/utils/user-stats'
 
 const route = useRoute()
 const show = computed(() => shows.find(e => e.slug === route.params.slug))
@@ -108,7 +115,7 @@ const defaultGroup = show.value && show.value.groups.length === 1 ? show.value.g
 const selectedGroup = ref(defaultGroup)
 export { selectedGroup }
 
-// TODO: use GitHub Pages instead
+// TODO: make this code local so it can be localized
 export function getDownloadUrl (file) {
   const gitHubUrl = 'https://github.com/qgustavor/fixed-subtitles/blob/master/subtitles/' +
     window.encodeURIComponent(show.value.folder) + '/' +
@@ -124,6 +131,13 @@ const downloadUrlAll = computed(() => {
   return 'https://minhaskamal.github.io/DownGit/#/home?url=' + window.encodeURIComponent(gitHubUrl)
 })
 export { downloadUrlAll }
+
+export function trackLink (key) {
+  track({
+    id: 'link-clicked',
+    parameters: { key }
+  })
+}
 
 const { t, d } = useI18n()
 export { t, d }

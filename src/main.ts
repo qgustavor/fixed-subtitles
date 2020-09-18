@@ -11,6 +11,8 @@ import '@purge-icons/generated'
 
 import App from './App.vue'
 import { messages } from './messages'
+import { setupTracking } from './utils/user-stats'
+setupTracking()
 
 const app = createApp(App)
 const router = createRouter({
