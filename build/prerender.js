@@ -10,7 +10,8 @@ const prerenderer = new Prerenderer({
   staticDir,
   indexPath: path.join(staticDir, 'fixed-subtitles/index.html'),
   renderer: new PuppeteerRenderer({
-    renderAfterElementExists: '.router-main > *'
+    renderAfterElementExists: '.router-main > *',
+    inject: true
   })
 })
 const baseUrl = 'https://qgustavor.github.io/fixed-subtitles/'
