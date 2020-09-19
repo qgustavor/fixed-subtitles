@@ -29,6 +29,7 @@
             <li v-for="link of show.metadata.externalLinks" class="lg:text-md">
               <a :href="link.url" @click="trackLink(link.url)" class="external-link">{{ link.site }}</a>
             </li>
+            <li><router-link to="/contact" class="external-link">{{ t('report-error') }}</router-link></li>
           </ul>
         </div>
       </div>

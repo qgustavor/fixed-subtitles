@@ -53,6 +53,7 @@ select-group: Escolha um dos grupos acima.
 file-count: 'Nenhum arquivo | {n} arquivo | {n} arquivos'
 changed-lines-count: 'Nenhuma linha corrigida | {n} linha corrigida | {n} linhas corrigidas'
 download-all: Baixar tudo como zip
+report-error: Reportar um erro
 
 group-list:
   filename: Nome do arquivo
