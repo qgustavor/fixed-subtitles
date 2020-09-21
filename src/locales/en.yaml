@@ -55,6 +55,14 @@ changed-lines-count: 'No line fixed | {n} line fixed | {n} lines fixed'
 download-all: Download all as zip
 report-error: Report an error
 
+download-modal:
+  title: 'Downloading file | Downloading files'
+  in-progress: Please while until the download finishes.
+  fonts-prefix: Your download is finished. Try to use the original video from the group, otherwise you might need to install
+  fonts: '@:download-modal.fonts-prefix the following font: | @:download-modal.fonts-prefix the following fonts:'
+  download: Download
+  cancel: Cancel
+
 group-list:
   filename: File name
   modified: Last modified

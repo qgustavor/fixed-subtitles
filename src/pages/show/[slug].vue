@@ -27,7 +27,7 @@
             <li>{{ t('episodes', show.metadata.episodes) }}</li>
             <li>{{ t('formats.' + show.metadata.format) }}</li>
             <li v-for="link of show.metadata.externalLinks" class="lg:text-md">
-              <a :href="link.url" @click="trackLink(link.url)" class="external-link">{{ link.site }}</a>
+              <a :href="link.url" @click="trackExternalLink(link.url)" class="external-link">{{ link.site }}</a>
             </li>
             <li><router-link to="/contact" class="external-link">{{ t('report-error') }}</router-link></li>
           </ul>
@@ -63,10 +63,10 @@
           {{ t('file-count', selectedGroup.files.length) }}
           <Icon class="iconify group-stat-icon mx-1" icon="carbon:clean" />
           {{ t('changed-lines-count', selectedGroup.changedLines) }}
-          <a :href="downloadUrlAll" @click="trackLink(downloadUrlAll)" v-if="selectedGroup.files.length > 1">
+          <button @click="downloadFile()" v-if="selectedGroup.files.length > 1">
             <Icon class="iconify group-stat-icon mx-1" icon="carbon:download" />
             <span class="external-link">{{ t('download-all') }}</span>
-          </a>
+          </button>
         </div>
 
         <div v-if="selectedGroup.metadata.content" v-html="selectedGroup.metadata.content"></div>
@@ -82,11 +82,7 @@
           <tbody>
             <tr class="hover:bg-grey-lighter" v-for="file of selectedGroup.files">
               <td class="p-2">
-                <a
-                  :href="getDownloadUrl(file)"
-                  @click="trackLink(file.name)"
-                  class="external-link"
-                >{{ file.name }}</a>
+                <button @click="downloadFile(file)" class="external-link">{{ file.name }}</button>
               </td>
               <td class="p-2 text-center">{{ d(new Date(file.lastModified * 1000)) }}</td>
               <td class="p-2 text-right">{{ file.changedLines }}</td>
@@ -96,6 +92,8 @@
       </div>
     </div>
   </div>
+
+  <DownloadHandler :files="downloadFiles" v-if="downloadFiles" @close="downloadFiles = null"/>
 </template>
 
 <script setup lang='ts'>
@@ -116,26 +114,20 @@ const defaultGroup = show.value && show.value.groups.length === 1 ? show.value.g
 const selectedGroup = ref(defaultGroup)
 export { selectedGroup }
 
-// TODO: make this code local so it can be localized
-export function getDownloadUrl (file) {
-  const gitHubUrl = 'https://github.com/qgustavor/fixed-subtitles/blob/master/subtitles/' +
-    window.encodeURIComponent(show.value.folder) + '/' +
-    window.encodeURIComponent(selectedGroup.value.name) + '/' +
-    window.encodeURIComponent(file.name)
-  return 'https://minhaskamal.github.io/DownGit/#/home?url=' + window.encodeURIComponent(gitHubUrl)
+const downloadFiles = ref(null)
+export { downloadFiles }
+
+export function downloadFile (file) {
+  const files = file ? [file] : selectedGroup.value.files
+  const pathPrefix = window.encodeURIComponent(show.value.folder) +
+    '/' + window.encodeURIComponent(selectedGroup.value.name) + '/'
+  for (const file of files) file.path = pathPrefix + file.name
+  downloadFiles.value = files
 }
 
-const downloadUrlAll = computed(() => {
-  const gitHubUrl = 'https://github.com/qgustavor/fixed-subtitles/blob/master/subtitles/' +
-    window.encodeURIComponent(show.value.folder) + '/' +
-    window.encodeURIComponent(selectedGroup.value.name)
-  return 'https://minhaskamal.github.io/DownGit/#/home?url=' + window.encodeURIComponent(gitHubUrl)
-})
-export { downloadUrlAll }
-
-export function trackLink (key) {
+export function trackExternalLink (key) {
   track({
-    id: 'link-clicked',
+    id: 'external-link',
     parameters: { key }
   })
 }

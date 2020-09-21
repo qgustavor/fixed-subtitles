@@ -55,6 +55,14 @@ changed-lines-count: 'Nenhuma linha corrigida | {n} linha corrigida | {n} linhas
 download-all: Baixar tudo como zip
 report-error: Reportar um erro
 
+download-modal:
+  title: 'Baixando arquivo | Baixando arquivos'
+  in-progress: Aguarde enquanto o download termina.
+  fonts-prefix: O download terminou. Tente usar o vídeo original do grupo, se não você poderá precisar instalar
+  fonts: '@:download-modal.fonts-prefix a seguinte fonte: | @:download-modal.fonts-prefix as seguintes fontes:'
+  download: Baixar
+  cancel: Cancelar
+
 group-list:
   filename: Nome do arquivo
   modified: Última modificação
