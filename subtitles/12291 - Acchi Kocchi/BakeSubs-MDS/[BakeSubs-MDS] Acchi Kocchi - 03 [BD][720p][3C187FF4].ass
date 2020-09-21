@@ -5047,5 +5047,7 @@ Dialogue: 7,0:23:22.70,0:23:29.50,ED_JP,,0000,0000,0000,,{\k35}Tsu{\k24}na{\k117
 Dialogue: 7,0:23:22.70,0:23:29.50,ED_PT,,0000,0000,0000,,Quero que me dês a mão
 Dialogue: 7,0:23:31.80,0:23:35.38,ED_JP,,0000,0000,0000,,{\fad(0,500)}{\k70}Te {\k48}wo {\k82}gyu {\k59}shi{\k25}te {\k73}ne
 Dialogue: 7,0:23:31.80,0:23:35.38,ED_PT,,0000,0000,0000,,{\fad(0,500)}E que a agarres com força
+Dialogue: 0,0:05:20.71,0:05:26.12,Sinais,,0000,0000,0000,,{\fs72\b1\c&H09C3F6&\3c&H2915D7&\bord4\b1\fnTarantel\move(981,73,981,-165,3200,3364)}Cueca de lã
+Dialogue: 0,0:05:23.88,0:05:25.05,Sinais,,0000,0000,0000,,{\fs72\b1\c&HD3BF10&\3c&HC62024&\bord4\b1\fnTarantel\move(983,823,983,632,0,100)\fade(90,180)}Solta
 
 

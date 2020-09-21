@@ -387,7 +387,7 @@ Dialogue: 10,0:11:29.41,0:11:32.17,Default,Mayoi,0000,0000,0000,,que olhem para 
 Dialogue: 10,0:11:36.08,0:11:37.29,Default,Mayoi,0000,0000,0000,,É uma parede.
 Dialogue: 10,0:11:37.29,0:11:38.67,Default,Students,0000,0000,0000,,{\i1}A sério?!{\i0}
 Dialogue: 0,0:11:53.69,0:12:02.70,Sinais,,0000,0000,0000,,{\bord4\3c&HFFFFFF&\fs30\b1\fnPump Demi Bold LET\fscx120\be1\c&H0998F1&\pos(224,300)}Hora de\NAlmoço
-Dialogue: 10,0:11:53.69,0:11:57.44,Default,Hime,0000,0000,0000,,sumiki-san, queres provar um pouco do meu almoço?
+Dialogue: 10,0:11:53.69,0:11:57.44,Default,Hime,0000,0000,0000,,Tsumiki-san, queres provar um pouco do meu almoço?
 Dialogue: 10,0:11:57.44,0:12:00.82,Default,Hime,0000,0000,0000,,Usei uma nova receita!
 Dialogue: 10,0:12:00.82,0:12:02.70,Default,Tsumiki,0000,0000,0000,,Obrigada, com licença.
 Dialogue: 10,0:12:03.07,0:12:05.20,Default,Mayoi,0000,0000,0000,,Também posso provar?
@@ -450,9 +450,9 @@ Dialogue: 10,0:14:24.38,0:14:26.26,Default,,0000,0000,0000,,Vamos!
 Dialogue: 10,0:14:31.47,0:14:37.47,Default,,0000,0000,0000,,Agora que penso nisso, não é a primeira vez que vamos os cinco juntos ao salão de jogos?
 Dialogue: 10,0:14:38.73,0:14:40.81,Default,,0000,0000,0000,,Agora que falas nisso, acho que sim.
 Dialogue: 10,0:14:40.81,0:14:42.77,Default,,0000,0000,0000,,Estou ansiosa!
-Dialogue: 10,0:14:46.02,0:14:49.49,Default,,0000,0000,0000,,Antes da batalha, vamos matar a cede.
+Dialogue: 10,0:14:46.02,0:14:49.49,Default,,0000,0000,0000,,Antes da batalha, vamos matar a sede.
 Dialogue: 10,0:14:49.49,0:14:50.82,Default,,0000,0000,0000,,Boa ideia!
-Dialogue: 10,0:14:56.12,0:14:59.79,Default,,0000,0000,0000,,Io-kun, costumas vir ao salão de jogos?
+Dialogue: 10,0:14:56.12,0:14:59.79,Default,,0000,0000,0000,,Vocês costumam vir ao salão de jogos?
 Dialogue: 10,0:14:59.79,0:15:02.71,Default,,0000,0000,0000,,Costumo vir com o Sakaki e a Mayoi.
 Dialogue: 10,0:15:02.71,0:15:04.50,Default,,0000,0000,0000,,A sério?
 Dialogue: 10,0:15:04.50,0:15:07.42,Default,,0000,0000,0000,,Mas não venho muitas vezes.

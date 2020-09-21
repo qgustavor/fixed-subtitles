@@ -4610,7 +4610,7 @@ Dialogue: 9,0:07:52.36,0:07:53.82,Default,Kyou,0000,0000,0000,,Hum...
 Dialogue: 9,0:07:53.82,0:07:55.87,Default,Saki,0000,0000,0000,,Não te preocupes,\Ntambém tens direito a um.
 Dialogue: 9,0:07:56.28,0:07:58.58,Default,Kyou,0000,0000,0000,,Oh, obrigado.
 Dialogue: 9,0:07:59.12,0:08:01.54,Default,Kana,0000,0000,0000,,Comam os que quiserem.
-Dialogue: 9,0:08:01.54,0:08:03.25,Default,Mayo,0000,0000,0000,,Obrigado!
+Dialogue: 9,0:08:01.54,0:08:03.25,Default,Mayo,0000,0000,0000,,Obrigada!
 Dialogue: 9,0:08:03.25,0:08:04.88,Default,Saki,0000,0000,0000,,Então vou comer alguns!
 Dialogue: 9,0:08:04.88,0:08:08.09,Default,Sakaki,0000,0000,0000,,Espera!\NDeixa alguns para mim!
 Dialogue: 9,0:08:13.72,0:08:15.22,Default,Tsu,0000,0000,0000,,E tu, Hime?
@@ -8931,4 +8931,62 @@ Dialogue: 7,0:23:22.74,0:23:29.54,ED_JP,,0000,0000,0000,,{\k35}Tsu{\k24}na{\k117
 Dialogue: 7,0:23:22.74,0:23:29.54,ED_PT,,0000,0000,0000,,Quero que me dês a mão
 Dialogue: 7,0:23:31.84,0:23:35.42,ED_JP,,0000,0000,0000,,{\fad(0,500)}{\k70}Te {\k48}wo {\k82}gyu {\k59}shi{\k25}te {\k73}ne
 Dialogue: 7,0:23:31.84,0:23:35.42,ED_PT,,0000,0000,0000,,{\fad(0,500)}E que a agarres com força
-
+Dialogue: 0,0:23:46.61,0:23:46.65,Sinal1,,0000,0000,0000,,{\bord0\shad0\blur0.7\fscx654.6\fscy654.6\c&HA9615D&\fs10\fnPump Demi Bold LET\frz12.97\pos(1063.93,221.01)}Infantário\NAcchi Kocchi
+Dialogue: 0,0:23:41.39,0:23:41.48,Sinal1,,0000,0000,0000,,{\bord0\shad0\blur0.7\fscx700\fscy700\c&HA9615D&\fs10\fnPump Demi Bold LET\frz12.97\pos(1093.33,211.33)}Infantário\NAcchi Kocchi
+Dialogue: 0,0:23:45.36,0:23:45.40,Sinal1,,0000,0000,0000,,{\c&H1507CD&\b1\blur0.6\fs32\fnCambria\pos(188.33,534.67)\frz23.82}Bom\Ntrabalho,\Npessoal!
+Dialogue: 0,0:23:46.57,0:23:46.65,Sinal1,,0000,0000,0000,,{\c&H1507CD&\b1\blur0.6\fs32\fnCambria\pos(178.4,518.84)\frz23.82}Bom\Ntrabalho,\Npessoal!
+Dialogue: 0,0:23:46.65,0:24:11.42,Sinal1,,0000,0000,0000,,{\blur1\p1\fscy130\fscx218\c&HE1A1D9&\pos(190.334,160.667)\b1}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0
+Dialogue: 0,0:23:46.65,0:24:11.42,Sinal1,,0000,0000,0000,,{\3c&HFFFFFF&\fs50\b1\fnTarantel\fscx120\be1\c&HFBDAF7&\pos(191.667,155)}Antevisão{\b0}
+Dialogue: 0,0:23:46.65,0:24:11.22,Sinal1,,0000,0000,0000,,{\q2\fnHarabara\fs33\bord2\shad1\c&HF0BD8A&\3c&HFFFFEE&\4c&Haaaaaa&\move(4023,606,-3169,616,0,26020)}Então, no próximo episódio de Acchi Kocchi... Todos foram patinar juntos, mas parece que essa foi a primeira vez da Tsukimi. Você quer praticar comigo? ...nyaa!? Depois disso, todos ficamos animados com o horóscopo. Queria que esses dias divertidos e excitantes durassem para sempre... acho ♥ O próximo episódio é "PLACE⇔PRINCESS". Se for um horóscopo do amor, espero que se realize. ♥
+Dialogue: 0,0:24:09.01,0:24:09.05,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.867,85.467)\clip(m 876 88 l 890 84 932 82 950 88 964 109 949 152 921 169 881 160 864 133)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.05,0:24:09.09,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.87,202.8)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.09,0:24:09.13,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.84,323)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.13,0:24:09.17,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.85,443.56)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.17,0:24:09.21,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.85,420.2)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.21,0:24:09.26,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.84,396.01)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.26,0:24:09.30,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.84,378.23)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.30,0:24:09.34,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.83,366.39)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.34,0:24:09.38,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,359.44)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.38,0:24:09.42,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,356.49)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.42,0:24:09.46,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,364.38)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.46,0:24:09.51,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,374.78)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.51,0:24:09.55,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.83,388.29)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.55,0:24:09.59,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,404.4)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.59,0:24:09.63,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,422.97)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.63,0:24:09.67,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,443.48)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.67,0:24:09.71,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,435.13)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.71,0:24:09.76,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,426.26)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.76,0:24:09.80,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,418.04)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.80,0:24:09.84,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,410.98)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.84,0:24:09.88,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,405.74)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.88,0:24:09.92,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,403.49)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.92,0:24:09.96,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,407.58)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:09.96,0:24:10.01,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,413.37)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.01,0:24:10.05,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,420.9)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.05,0:24:10.09,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,430.76)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.09,0:24:10.13,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,443.47)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.13,0:24:10.17,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,440.25)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.17,0:24:10.21,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.83,437.15)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.21,0:24:10.26,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,434.66)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.26,0:24:10.30,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,433.44)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.30,0:24:10.34,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,436.07)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.34,0:24:10.38,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,438.92)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.38,0:24:10.42,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,443.44)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.42,0:24:10.47,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,441.44)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.47,0:24:10.51,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,439.44)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.51,0:24:10.55,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,438.45)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.55,0:24:10.59,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,440.07)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.59,0:24:10.63,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,441.58)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.63,0:24:10.67,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,442.83)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.67,0:24:10.72,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.82,443.47)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.72,0:24:10.80,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.81,443.46)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.80,0:24:10.84,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.8,443.46)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.84,0:24:10.88,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.79,443.45)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.88,0:24:10.92,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.79,443.46)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:10.92,0:24:11.01,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.78,443.45)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:11.01,0:24:11.09,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.77,443.45)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:11.09,0:24:11.17,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.77,443.46)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:11.17,0:24:11.26,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.77,443.45)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:11.26,0:24:11.30,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.77,443.44)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:11.30,0:24:11.34,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.76,443.44)}Até\Nà pró-\Nxima.
+Dialogue: 0,0:24:11.34,0:24:11.42,Sinal1,,0000,0000,0000,,{\fnCambria\blur0.7\fs22\b1\c&HD47BC8&\frz333.5\pos(916.76,443.45)}Até\Nà pró-\Nxima.

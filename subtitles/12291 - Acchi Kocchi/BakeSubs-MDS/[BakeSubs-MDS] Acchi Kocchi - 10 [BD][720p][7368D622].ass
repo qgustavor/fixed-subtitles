@@ -631,7 +631,7 @@ Dialogue: 1,0:04:46.80,0:04:46.84,Sinal4,,0000,0000,0000,,{\fnBrady Bunch\fs86\f
 Dialogue: 1,0:04:46.84,0:04:46.89,Sinal4,,0000,0000,0000,,{\fnBrady Bunch\fs76\fsp2\c&H3BC167&\bord5\blur0.5\alpha&H32\pos(1044,284)\3c&H37343E&}Assustada
 Dialogue: 1,0:04:46.89,0:04:46.93,Sinal4,,0000,0000,0000,,{\fnBrady Bunch\fs76\fsp2\c&H3BC167&\bord5\blur0.5\pos(1044,284)\3c&H37343E&}Assustada
 Dialogue: 1,0:04:46.93,0:04:47.68,Sinal4,,0000,0000,0000,,{\fnBrady Bunch\fs66\fsp2\c&H3BC167&\bord4.5\blur0.5\pos(1009.34,313.334)\3c&H37343E&}Assustada
-Dialogue: 1,0:04:47.68,0:04:49.68,Sinal1,,0000,0000,0000,,{\fad(734,0)\fnHeisei Maru Gothic Std W8\b1\fs90\blur0.6\pos(790.333,309.333)\t(0,734,\frz360)}Isso é\N\h\h\h\h\h\h\h\h\hsegredo...
+Dialogue: 1,0:04:47.68,0:04:49.68,Sinal1,,0000,0000,0000,,{\fad(734,0)\fnHeisei Maru Gothic Std W8\b1\fs90\blur0.6\pos(790.333,309.333)\t(0,734,\frz360)}Isso é\N{\alpha&HFF}.........{\alpha&H00}segredo...
 Dialogue: 0,0:04:47.68,0:04:49.68,Sinal1,,0000,0000,0000,,{\blur1\p1\c&H9E77ED&\fscx523\fscy405\pos(866.334,303.334)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0
 Dialogue: 10,0:04:52.14,0:04:54.14,Default,,0000,0000,0000,,Agora que penso nisso, onde está a Hime?
 Dialogue: 10,0:04:54.14,0:04:56.19,Default,,0000,0000,0000,,Ela costuma cruzar-se connosco\Na caminho da escola.

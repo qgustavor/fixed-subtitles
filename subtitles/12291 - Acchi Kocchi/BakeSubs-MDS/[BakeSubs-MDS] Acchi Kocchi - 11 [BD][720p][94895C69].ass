@@ -4085,8 +4085,8 @@ Dialogue: 1,0:13:41.71,0:13:41.75,Sinal2,,0000,0000,0000,,{\fnPaper Johnny Eins\
 Dialogue: 0,0:13:41.71,0:13:41.75,Sinal2,,0000,0000,0000,,{\fnPaper Johnny Eins\fs48\fsp1\bord3.46\fscx98\t(-92,7,\fscx99)\blur0.5\fscy139\t(-47,52,\fscy140)\c&HC3AD6F&\3c&H342F2A&\pos(1120.99,502.04)}Agredir.
 Dialogue: 1,0:13:41.75,0:13:41.80,Sinal2,,0000,0000,0000,,{\fnPaper Johnny Eins\fs48\fsp1\fscx98\t(-93,6,\fscx99)\blur0.5\fscy139\t(-50,50,\fscy140)\c&HC3AD6F&\pos(1121.02,502.05)}Agredir.
 Dialogue: 0,0:13:41.75,0:13:41.80,Sinal2,,0000,0000,0000,,{\fnPaper Johnny Eins\fs48\fsp1\bord3.46\fscx98\t(-93,6,\fscx99)\blur0.5\fscy139\t(-50,50,\fscy140)\c&HC3AD6F&\3c&H342F2A&\pos(1121.02,502.05)}Agredir.
-Dialogue: 10,0:13:43.26,0:13:46.76,Default,Miiko,0000,0000,0000,,Este {\i1}mochi{\i0} é como uma jóia feita com o amor de todos vocês!
-Dialogue: 10,0:13:46.76,0:13:48.55,Default,Hime,0000,0000,0000,,Uma jóia de amor?!
+Dialogue: 10,0:13:43.26,0:13:46.76,Default,Miiko,0000,0000,0000,,Este {\i1}mochi{\i0} é como uma joia feita com o amor de todos vocês!
+Dialogue: 10,0:13:46.76,0:13:48.55,Default,Hime,0000,0000,0000,,Uma joia de amor?!
 Dialogue: 10,0:13:48.55,0:13:50.30,Default,Io,0000,0000,0000,,Amor?
 Dialogue: 10,0:13:50.30,0:13:51.85,Default,Saka,0000,0000,0000,,Isso significa que...
 Dialogue: 10,0:13:52.31,0:13:56.56,Default,Saka,0000,0000,0000,,Neste momento, o amor é comida?
@@ -9264,7 +9264,7 @@ Dialogue: 0,0:23:46.61,0:23:46.65,Sinal1,,0000,0000,0000,,{\bord0\shad0\blur0.7\
 Dialogue: 10,0:23:46.65,0:23:49.19,Default,Mayo,0000,0000,0000,,{\an8}Adeus, Professor!
 Dialogue: 0,0:23:46.65,0:24:11.42,Sinal1,,0000,0000,0000,,{\blur1\p1\fscy130\fscx218\c&HBFE3B0&\pos(190.334,160.667)\b1}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0
 Dialogue: 0,0:23:46.65,0:24:11.42,Sinal1,,0000,0000,0000,,{\3c&HFFFFFF&\fs50\b1\fnTarantel\fscx120\be1\c&HE6FADA&\pos(191.667,155)}Antevisão{\b0}
-Dialogue: 0,0:23:46.65,0:24:11.22,Sinal1,,0000,0000,0000,,{\q2\fnHarabara\fs33\bord2\shad1\c&HF0BD8A&\3c&HFFFFEE&\4c&Haaaaaa&\move(4023,606,-3169,616,0,26020)}Então, para a semana, em Acchi Kocchi... Finalmente chegou o grande dia. É Dia dos Namorados! A Miniwa e as outras querem algo caseiro, mas e a Fukuyama e a Sakimori? E mais importante, será que vou receber algum chocolate? Depois, segue-se o Dia Branco... Hã?! Quem foi?! Quem inventou esta estúpida tradição?! No próximo episódio: "Uma Doce Jóia ⇔ Batalha Achocolatada". N-Não tenho escolha, parece que também vou ter de fazer chocolates.
+Dialogue: 0,0:23:46.65,0:24:11.22,Sinal1,,0000,0000,0000,,{\q2\fnHarabara\fs33\bord2\shad1\c&HF0BD8A&\3c&HFFFFEE&\4c&Haaaaaa&\move(4023,606,-3169,616,0,26020)}Então, para a semana, em Acchi Kocchi... Finalmente chegou o grande dia. É Dia dos Namorados! A Miniwa e as outras querem algo caseiro, mas e a Fukuyama e a Sakimori? E mais importante, será que vou receber algum chocolate? Depois, segue-se o Dia Branco... Hã?! Quem foi?! Quem inventou esta estúpida tradição?! No próximo episódio: "Uma Doce Joia ⇔ Batalha Achocolatada". N-Não tenho escolha, parece que também vou ter de fazer chocolates.
 Dialogue: 10,0:23:49.19,0:23:51.07,Default,Hime,0000,0000,0000,,{\an8}Adeus!
 Dialogue: 10,0:23:51.70,0:23:53.70,Default,Io,0000,0000,0000,,{\an8}Adeus.
 Dialogue: 10,0:23:53.70,0:23:55.41,Default,Io,0000,0000,0000,,{\an8}Tenham cuidado, está bem?
