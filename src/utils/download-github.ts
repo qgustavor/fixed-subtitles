@@ -13,7 +13,7 @@ export async function* downloadRepoFiles (files) {
   }
 }
 
-export async function zipAndDownload (files) {
+export async function zipAndDownload (files, folderName) {
   if (files.length === 1) {
     saveAs(new Blob([files[0].data]), files[0].name)
     return
@@ -25,5 +25,5 @@ export async function zipAndDownload (files) {
   }
 
   const content = await zip.generateAsync({type: 'blob'})
-  saveAs(content, 'subtitles.zip')
+  saveAs(content, folderName + '.zip')
 }

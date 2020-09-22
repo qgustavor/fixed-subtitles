@@ -93,7 +93,10 @@
     </div>
   </div>
 
-  <DownloadHandler :files="downloadFiles" v-if="downloadFiles" @close="downloadFiles = null"/>
+  <DownloadHandler
+    :files="downloadFiles" :folder="show.metadata.title"
+    v-if="downloadFiles" @close="downloadFiles = null"
+  />
 </template>
 
 <script setup lang='ts'>

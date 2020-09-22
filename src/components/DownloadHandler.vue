@@ -56,7 +56,10 @@ import { downloadRepoFiles, zipAndDownload } from '/~/utils/download-github.ts'
 import { getFontsFromSubtitle } from '/~/utils/subtitle-fonts.ts'
 
 export default {
-  props: ['files']
+  props: [
+    'files',
+    'folder'
+  ]
 }
 
 const downloadData = ref([])
@@ -83,7 +86,7 @@ async function downloadFile (files) {
 }
 
 export function finishDownload () {
-  zipAndDownload(downloadData.value)
+  zipAndDownload(downloadData.value, props.folder)
   emit('close')
 }
 
