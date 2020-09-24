@@ -23,7 +23,7 @@
 
     <div class="flex flex-wrap">
       <div class="p-2 w-full sm:w-1/2 md:w-1/3 lg:w-1/4"
-        v-for="show of shows.slice(pageNumber * 12, (pageNumber + 1) * 12)"
+        v-for="show of shows.slice(pageNumber * 24, (pageNumber + 1) * 24)"
         :key="show.slug"
       ><Show :show="show" /></div>
     </div>
@@ -58,7 +58,7 @@ export { shows } from '/~/utils/data-handler.ts'
 
 const route = useRoute()
 const pageNumber = computed(() => Number(route.params.page || 0))
-const pageCount = computed(() => Math.ceil(shows.length / 12))
+const pageCount = computed(() => Math.ceil(shows.length / 24))
 export { pageNumber, pageCount }
 
 const { t } = useI18n()
