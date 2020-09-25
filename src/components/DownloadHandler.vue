@@ -21,7 +21,7 @@
                 <p class="text-sm leading-5">
                   {{ t('download-modal.fonts', fonts.size) }}
                 </p>
-                <ul class="list-disc list-inside pt-2">
+                <ul class="list-disc list-inside pt-2 text-left">
                   <li v-for="font of fonts" class="text-sm leading-5">{{ font }}</li>
                 </ul>
               </div>
@@ -29,17 +29,9 @@
           </div>
         </div>
         <div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
-          <span class="flex w-full rounded-md shadow-sm sm:ml-3 sm:w-auto">
-            <button type="button" class="inline-flex justify-center w-full rounded-md border border-transparent px-4 py-2 bg-teal-600 text-base leading-6 font-medium text-white shadow-sm hover:bg-teal-500 focus:outline-none focus:border-teal-700 focus:shadow-outline-teal transition ease-in-out duration-150 sm:text-sm sm:leading-5" v-if="downloadData.length === files.length" @click="finishDownload">
-              {{ t('download-modal.download') }}
-            </button>
-            <span class="inline-flex justify-center w-full rounded-md border border-transparent px-4 py-2 bg-gray-600 text-base leading-6 font-medium text-white shadow-sm hover:bg-gray-500 focus:outline-none focus:border-gray-700 focus:shadow-outline-gray transition ease-in-out duration-150 sm:text-sm sm:leading-5" v-else>
-              {{ t('download-modal.download') }}
-            </span>
-          </span>
           <span class="mt-3 flex w-full rounded-md shadow-sm sm:mt-0 sm:w-auto">
             <button type="button" class="inline-flex justify-center w-full rounded-md border border-gray-300 px-4 py-2 bg-white text-base leading-6 font-medium text-gray-700 shadow-sm hover:text-gray-500 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue transition ease-in-out duration-150 sm:text-sm sm:leading-5" @click="$emit('close')">
-              {{ t('download-modal.cancel') }}
+              {{ downloadData.length === files.length ? t('download-modal.close') : t('download-modal.cancel') }}
             </button>
           </span>
         </div>
@@ -83,11 +75,8 @@ async function downloadFile (files) {
     }
     downloadData.value.push(file)
   }
-}
-
-export function finishDownload () {
+  
   zipAndDownload(downloadData.value, props.folder)
-  emit('close')
 }
 
 onMounted(() => {

@@ -11,11 +11,11 @@ export function getFontsFromSubtitle (data) {
     usedStyles.add(parts[3])
 
     const tags = parts.slice(9).join('\n').match(/\{.*?\}/g)
-    const fontTags = tags && tags.join('').match(/\\fn[^\}]+/g)
-    const fonts = fontTags && fontTags.map(e => e.substr(3))
-    if (!fonts) continue
+    const fontTags = tags && tags.join('').match(/\\fn[^\\\}]+/g)
+    const lineFonts = fontTags && fontTags.map(e => e.substr(3))
+    if (!lineFonts) continue
 
-    for (const font of fonts) {
+    for (const font of lineFonts) {
       fonts.add(font)
     }
   }

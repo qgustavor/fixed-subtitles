@@ -62,6 +62,7 @@ download-modal:
   fonts: '@:download-modal.fonts-prefix a seguinte fonte: | @:download-modal.fonts-prefix as seguintes fontes:'
   download: Baixar
   cancel: Cancelar
+  close: Fechar
 
 group-list:
   filename: Nome do arquivo

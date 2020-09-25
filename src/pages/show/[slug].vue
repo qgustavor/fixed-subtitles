@@ -55,7 +55,6 @@
 
       <div v-if="!selectedGroup">{{ t('select-group')}}</div>
       <div v-if="selectedGroup">
-        <!-- TODO: show group README.md -->
         <div class="pb-2 lg:text-lg">
           <Icon class="iconify group-stat-icon mr-1" icon="carbon:language" />
           {{ t('languages.' + selectedGroup.metadata.language, '?') }}
@@ -69,7 +68,11 @@
           </button>
         </div>
 
-        <div v-if="selectedGroup.metadata.content" v-html="selectedGroup.metadata.content"></div>
+        <div
+          v-if="selectedGroup.metadata.content"
+          v-html="selectedGroup.metadata.content"
+          class="group-info"
+        ></div>
 
         <table class="text-left w-full border-collapse">
           <thead>
