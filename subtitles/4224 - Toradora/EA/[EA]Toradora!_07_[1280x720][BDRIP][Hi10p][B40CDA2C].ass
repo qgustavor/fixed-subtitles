@@ -145,7 +145,7 @@ Dialogue: 0,0:01:20.63,0:01:26.54,TradOp,,0000,0000,0000,,Pre! Preparação! Mas
 Dialogue: 0,0:01:26.76,0:01:32.29,TradOp,,0000,0000,0000,,Mas pre! Pre-parada{desfile}! Algum dia eu te alcançarei!
 Dialogue: 0,0:01:44.54,0:01:50.43,TradOp,,0000,0000,0000,,Se você abaixar a sua guarda, fique preparado para um ataque de cutucão dos meus dedos.
 Dialogue: 0,0:01:50.55,0:01:56.23,TradOp,,0000,0000,0000,,Sou pequena, mas te esmagarei; você é pequeno como uma dáfnia para mim.
-Dialogue: 0,0:01:56.76,0:02:00.57,TradOp,,0000,0000,0000,,{\an1}O que quero é uma coração de plástico.{mantendo o que ela fala literalmente}
+Dialogue: 0,0:01:56.76,0:02:00.57,TradOp,,0000,0000,0000,,{\an1}O que quero é um coração de plástico.{mantendo o que ela fala literalmente}
 Dialogue: 0,0:01:59.69,0:02:02.71,TradOp,,0000,0000,0000,,{\an3}Mais, mais, mas é um menos!
 Dialogue: 0,0:02:02.71,0:02:09.96,TradOp,,0000,0000,0000,,Mas isso é chato. Quando notei, eu já tinha te vencido.
 Dialogue: 0,0:02:12.79,0:02:15.72,TradOp,,0000,0000,0000,,Amor é algo doce e salgado.
@@ -164,7 +164,7 @@ Dialogue: 0,0:02:41.40,0:02:43.23,TradOp,,0000,0000,0000,,{\an3}sempre há uma
 Dialogue: 0,0:02:42.84,0:02:45.04,TradOp,,0000,0000,0000,,{\an1}pre-parada de sentimentos puros.
 Dialogue: 0,0:02:49.37,0:02:53.29,Outros,,0000,0000,0000,,{\fad(500,500)\pos(178,336)\b1\fs35\bord0\shad2.5\c&HE1E6E5&}Abertura da piscina{puuru biraki}
 Dialogue: 0,0:03:00.32,0:03:01.31,tradu,,0000,0000,0000,,Bom dia.
-Dialogue: 0,0:03:03.50,0:03:05.56,tradu,,0000,0000,0000,,Aconteceu alguma coisa,Taiga-chan?
+Dialogue: 0,0:03:03.50,0:03:05.56,tradu,,0000,0000,0000,,Aconteceu alguma coisa, Taiga-chan?
 Dialogue: 0,0:03:05.56,0:03:08.36,tradu,,0000,0000,0000,,Não aconteceu nada.
 Dialogue: 0,0:03:08.36,0:03:11.05,tradu,,0000,0000,0000,,Qual será o prato de hoje?
 Dialogue: 0,0:03:11.05,0:03:13.16,tradu,,0000,0000,0000,,É arroz cozido. Você gosta, não é?{não é só arroz... mas adaptando}

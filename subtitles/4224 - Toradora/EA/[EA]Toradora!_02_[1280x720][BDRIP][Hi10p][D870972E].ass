@@ -119,7 +119,7 @@ Dialogue: 0,0:00:53.61,0:00:59.52,TradOp,,0000,0000,0000,,Pre! Preparação! Mas
 Dialogue: 0,0:00:59.74,0:01:05.27,TradOp,,0000,0000,0000,,Mas pre! Pre-parada{desfile}! Algum dia eu te alcançarei!
 Dialogue: 0,0:01:17.52,0:01:23.41,TradOp,,0000,0000,0000,,Se você abaixar a sua guarda, fique preparado para um ataque de cutucão dos meus dedos.
 Dialogue: 0,0:01:23.53,0:01:29.21,TradOp,,0000,0000,0000,,Sou pequena, mas te esmagarei; você é pequeno como uma dáfnia para mim.
-Dialogue: 0,0:01:29.74,0:01:33.55,TradOp,,0000,0000,0000,,{\an1}O que quero é uma coração de plástico.{mantendo o que ela fala literalmente}
+Dialogue: 0,0:01:29.74,0:01:33.55,TradOp,,0000,0000,0000,,{\an1}O que quero é um coração de plástico.{mantendo o que ela fala literalmente}
 Dialogue: 0,0:01:32.67,0:01:35.69,TradOp,,0000,0000,0000,,{\an3}Mais, mais, mas é um menos!
 Dialogue: 0,0:01:35.69,0:01:42.94,TradOp,,0000,0000,0000,,Mas isso é chato. Quando notei, eu já tinha te vencido.
 Dialogue: 0,0:01:45.77,0:01:48.70,TradOp,,0000,0000,0000,,Amor é algo doce e salgado.
@@ -327,7 +327,7 @@ Dialogue: 0,0:11:48.07,0:11:51.71,tradu,,0000,0000,0000,,Fiquei frustrada quando
 Dialogue: 0,0:11:52.24,0:11:54.04,tradu,,0000,0000,0000,,Estavam horríveis!
 Dialogue: 0,0:11:54.04,0:11:56.05,tradu,,0000,0000,0000,,E mesmo assim você comeu todos.
 Dialogue: 0,0:11:56.20,0:11:57.67,tradu,,0000,0000,0000,,Você até mentiu sobre o sabor.
-Dialogue: 0,0:11:58.12,0:12:01.23,tradu,,0000,0000,0000,,Mesmo sendo um vira-lata, seu pêlo cairá se continuar sendo legal com todo mundo.
+Dialogue: 0,0:11:58.12,0:12:01.23,tradu,,0000,0000,0000,,Mesmo sendo um vira-lata, seu pelo cairá se continuar sendo legal com todo mundo.
 Dialogue: 0,0:12:01.78,0:12:02.93,tradu,,0000,0000,0000,,Cuide dos seus problemas.
 Dialogue: 0,0:12:03.80,0:12:08.62,tradu,,0000,0000,0000,,Ei, você também ficou sem jeito enquanto pensava na Minorin?
 Dialogue: 0,0:12:08.62,0:12:10.30,tradu,,0000,0000,0000,,Sim, fiquei.
@@ -540,7 +540,7 @@ Dialogue: 0,0:23:26.60,0:23:28.19,tradu,,0000,0000,0000,,Garota de bom coração
 Dialogue: 0,0:23:28.19,0:23:29.53,tradu,,0000,0000,0000,,Ah, você é a Kushieda!
 Dialogue: 0,0:23:29.53,0:23:32.36,tradu,,0000,0000,0000,,Sempre brilhando muito com felicidade!
 Dialogue: 0,0:23:25.07,0:23:35.08,Outros,,0000,0000,0000,,{\pos(510,365)\b1\fs38\bord0\shad1.5\c&HE1E6E5&\4c&H656163&}Sua canção
-Dialogue: 0,0:23:32.36,0:23:34.39,tradu,,0000,0000,0000,,Tome isso, um home-run!{jogada de baseball}
+Dialogue: 0,0:23:32.36,0:23:34.39,tradu,,0000,0000,0000,,Tome isso, um home run!{jogada de baseball}
 Dialogue: 0,0:23:33.69,0:23:38.69,tradu,,0000,0000,0000,,
 Dialogue: 0,0:09:24.48,0:09:29.07,Outros,,0000,0000,0000,,{\pos(302,380)\bord0\b1\c&HFAFEFE&}Declaração - Testemunha 1, 2º ano sala C: H-To K-ji
 Dialogue: 0,0:09:29.20,0:09:35.03,Outros,,0000,0000,0000,,{\pos(302,380)\bord0\b1\c&HFAFEFE&}Declaração - Testemunha 2, 2º ano sala C: K-hara M-ya
