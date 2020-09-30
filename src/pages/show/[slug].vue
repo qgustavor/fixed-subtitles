@@ -85,7 +85,7 @@
           <tbody>
             <tr class="hover:bg-grey-lighter" v-for="file of selectedGroup.files">
               <td class="p-2">
-                <button @click="downloadFile(file)" class="external-link">{{ file.name }}</button>
+                <button @click="downloadFile(file)" class="external-link text-left">{{ file.name }}</button>
               </td>
               <td class="p-2 text-center">{{ d(new Date(file.lastModified * 1000)) }}</td>
               <td class="p-2 text-right">{{ file.changedLines }}</td>

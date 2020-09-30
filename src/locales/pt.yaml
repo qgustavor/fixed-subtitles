@@ -30,7 +30,7 @@ index:
 
 contact:
   title: Contato
-  headline: Encontrou um erro? Reporte ele aqui. Se você encontrou um erro em uma legenda ou aqui no site descreva onde podemos encontrá-lo. Lembre-se de incluir a URL, se for possível.
+  headline: Encontrou um erro? Reporte ele aqui. Se você encontrou um erro em uma legenda ou aqui no site descreva onde podemos encontrá-lo. Se for possível, coloque a URL. Você pode usar um nome e e-mail falsos se não quiser se identificar.
   name: Nome
   email: E-mail
   message: Mensagem
@@ -58,7 +58,7 @@ report-error: Reportar um erro
 download-modal:
   title: 'Baixando arquivo | Baixando arquivos'
   in-progress: Aguarde enquanto o download termina.
-  fonts-prefix: O download terminou. Tente usar o vídeo original do grupo, se não você poderá precisar instalar
+  fonts-prefix: O download terminou. Tente usar o vídeo original do grupo, senão você poderá precisar instalar
   fonts: '@:download-modal.fonts-prefix a seguinte fonte: | @:download-modal.fonts-prefix as seguintes fontes:'
   download: Baixar
   cancel: Cancelar
