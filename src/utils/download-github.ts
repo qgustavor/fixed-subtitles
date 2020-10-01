@@ -1,6 +1,6 @@
 // Well, this module started quite huge, when turned that the solution was way simpler.
 
-import JSZip from '@progress/jszip-esm/dist/jszip-esm2015.js'
+import JSZip from '@progress/jszip-esm'
 import { saveAs } from './file-saver'
 
 const gitHubPrefix = 'https://raw.githubusercontent.com/qgustavor/fixed-subtitles/master/subtitles/'

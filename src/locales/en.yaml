@@ -30,16 +30,14 @@ index:
 
 contact:
   title: Contact
-  headline: Found an error? Report it here. If you found an error in a subtitle or in this website tell us where we can find it. Remember to include an URL if it's possible. You can use a fake name and address if you want to keep anonymous.
-  name: Name
-  email: Email
+  headline: Found an error? Report it here. If you found an error in a subtitle or in this website tell us where we can find it. Remember to include an URL if it's possible.
+  name: Name (optional)
   message: Message
   submit: Submit
   extra: You can also get in touch in {project}.
   extra-project: the project page in GitHub
   messages:
     missing-data: Fill all inputs.
-    invalid-email: Invalid email address.
     submitting: Submitting...
     submitted: Your message was sent.
     error: An error happened while sending your message.

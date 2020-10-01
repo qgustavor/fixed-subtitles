@@ -30,16 +30,14 @@ index:
 
 contact:
   title: Contato
-  headline: Encontrou um erro? Reporte ele aqui. Se você encontrou um erro em uma legenda ou aqui no site descreva onde podemos encontrá-lo. Se for possível, coloque a URL. Você pode usar um nome e e-mail falsos se não quiser se identificar.
-  name: Nome
-  email: E-mail
+  headline: Encontrou um erro? Reporte ele aqui. Se você encontrou um erro em uma legenda ou aqui no site descreva onde podemos encontrá-lo. Se for possível, coloque a URL.
+  name: Nome (opcional)
   message: Mensagem
   submit: Enviar
   extra: Você também pode entrar em contato na {project}.
   extra-project: página do projeto no GitHub
   messages:
     missing-data: Preencha todos os campos.
-    invalid-email: E-mail inválido.
     submitting: Enviando...
     submitted: Sua mensagem foi enviada.
     error: Ocorreu um erro ao enviar a mensagem.
