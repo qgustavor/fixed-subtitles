@@ -33,7 +33,7 @@ Style: EndBaixo,Blue Highway Linocut,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:15.45,0:00:16.40,Default,,0,0,0,,Vamos lá.{Here we go.}
 Dialogue: 0,0:00:16.90,0:00:19.78,Default,,0,0,0,,Três, dois, um.{Three, two, one.}
-Dialogue: 0,0:00:19.78,0:00:21.15,Default,,0,0,0,,Diga{Say} "cheese." {mais tarde ela identifica "Cheese" como um sabor, por isso deixei assim poderia também coloca "xis" ou xizu"}
+Dialogue: 0,0:00:19.78,0:00:21.15,Default,,0,0,0,,Diga{Say} "cheese". {mais tarde ela identifica "Cheese" como um sabor, por isso deixei assim poderia também coloca "xis" ou xizu"}
 Dialogue: 0,0:01:56.84,0:01:58.67,Default,,0,0,0,,{\an8}O que é{What's} "cheese"?
 Dialogue: 0,0:01:58.67,0:02:00.25,Default,,0,0,0,,{\an8}Não sei.{Dunno.}
 Dialogue: 0,0:02:00.25,0:02:04.21,Default,,0,0,0,,{\an8}Eu li em um livro que é um tipo de sinal.{ I read in a book that's the kinda signal you give.}
@@ -225,7 +225,7 @@ Dialogue: 0,0:20:14.13,0:20:17.96,Default,,0,0,0,,Comer rações enquanto olhamo
 Dialogue: 0,0:20:17.96,0:20:19.09,Default,,0,0,0,,São gostosas.{They're good.}
 Dialogue: 0,0:20:19.96,0:20:22.21,Default,,0,0,0,,Mas eu não entendo.{But I just don't get it.}
 Dialogue: 0,0:20:23.80,0:20:27.42,Default,,0,0,0,,Mesmo esse deus sendo legal, \Nainda assim é falso, não é?{Even this nice god is still all a fake, right?}
-Dialogue: 0,0:20:28.30,0:20:33.67,Default,,0,0,0,,Qual o motivo de causar uma \Ngrande frustação como esta?{What's the point of making\Na big disappointment like this?}
+Dialogue: 0,0:20:28.30,0:20:33.67,Default,,0,0,0,,Qual o motivo de causar uma \Ngrande frustração como esta?{What's the point of making\Na big disappointment like this?}
 Dialogue: 0,0:20:34.80,0:20:38.80,Default,,0,0,0,,Ninguém sabe como é a vida após a morte.{Nobody knows what life's like after death anyway.}
 Dialogue: 0,0:20:40.75,0:20:44.30,Default,,0,0,0,,Lembra do que você disse antes, quando estava escuro,{Remember what you said earlier in the dark,} Yuu?
 Dialogue: 0,0:20:44.71,0:20:48.63,Default,,0,0,0,,Que o além vida era um mundo escuro.{That the afterlife is a dark world.}

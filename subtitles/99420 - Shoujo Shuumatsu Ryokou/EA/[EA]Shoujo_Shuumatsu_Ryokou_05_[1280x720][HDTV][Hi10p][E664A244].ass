@@ -45,15 +45,15 @@ Dialogue: 0,0:02:32.88,0:02:34.00,Default,,0,0,0,,Ei.{Hey.}
 Dialogue: 0,0:02:34.00,0:02:35.08,Default,,0,0,0,,O que foi?{What?}
 Dialogue: 0,0:02:35.38,0:02:38.75,Default,,0,0,0,,Para que serve uma residência mesmo?{What are houses for again?}
 Dialogue: 0,0:02:40.42,0:02:44.13,Default,,0,0,0,,Bem, não se pode viver sem uma residência.{Well, you couldn't live without a house.}
-Dialogue: 0,0:02:44.83,0:02:48.13,Default,,0,0,0,,Mas nós não temos uma residência.{Yeah, but we don't have a house now.}
+Dialogue: 0,0:02:44.83,0:02:48.13,Default,,0,0,0,,Mas nós não temos uma casa.{Yeah, but we don't have a house now.}
 Dialogue: 0,0:02:48.13,0:02:49.46,Default,,0,0,0,,É verdade.
-Dialogue: 0,0:03:01.71,0:03:05.21,Default,,0,0,0,,E aquilo ali? Não é uma residência?{Hey, what about that? Isn't that a house?}
+Dialogue: 0,0:03:01.71,0:03:05.21,Default,,0,0,0,,E aquilo ali? Não é uma casa?{Hey, what about that? Isn't that a house?}
 Dialogue: 0,0:03:05.21,0:03:06.04,Default,,0,0,0,,Hum?
 Dialogue: 0,0:03:11.79,0:03:13.92,Default,,0,0,0,,Nosso veículo.{Our vehicle.}
-Dialogue: 0,0:03:13.92,0:03:15.54,Default,,0,0,0,,Não é uma residência.{It's not a house.}
-Dialogue: 0,0:03:16.00,0:03:18.63,Default,,0,0,0,,Responda sim ou não.{Answer either yes or no.}
-Dialogue: 0,0:03:20.29,0:03:21.33,Default,,0,0,0,,Não.
-Dialogue: 0,0:03:21.83,0:03:22.88,Default,,0,0,0,,Triste casa.{HOUSE sad.}{A piadinha aqui é intraduzível... (ie=casa/residência; iie = não/negação)}
+Dialogue: 0,0:03:13.92,0:03:15.54,Default,,0,0,0,,Não, casas não se movem.{It's not a house.}
+Dialogue: 0,0:03:16.00,0:03:18.63,Default,,0,0,0,,Poderia repetir isso?{Answer either yes or no.}
+Dialogue: 0,0:03:20.29,0:03:21.33,Default,,0,0,0,,Casa...
+Dialogue: 0,0:03:21.83,0:03:22.88,Default,,0,0,0,,É uma casa, né?{HOUSE sad.}
 Dialogue: 0,0:03:22.88,0:03:23.79,Default,,0,0,0,,Cale a boca.{Shut up.}
 Dialogue: 0,0:03:24.50,0:03:28.75,Default,,0,0,0,,Bem, nós tivemos uma residência antigamente.{Well, we did have a house a long time ago.}
 Dialogue: 0,0:03:29.42,0:03:32.13,Default,,0,0,0,,Mas nós a perdemos, então...{But we lost it, so...}

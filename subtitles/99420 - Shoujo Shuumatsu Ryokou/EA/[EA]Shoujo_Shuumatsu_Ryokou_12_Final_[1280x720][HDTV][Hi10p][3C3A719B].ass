@@ -50,7 +50,7 @@ Dialogue: 0,0:01:39.33,0:01:41.20,Default,,0,0,0,,Você se sente solitária send
 Dialogue: 0,0:01:42.37,0:01:44.41,Default,,0,0,0,,Você se sente solitária,{...do you feel lonely,} Chi-chan?
 Dialogue: 0,0:01:45.54,0:01:49.16,Default,,0,0,0,,Bem... Acho que um pouco, mas...{Well... I guess a little, but...}
 Dialogue: 0,0:01:51.66,0:01:52.66,Default,,0,0,0,,Ai!{Ow!}
-Dialogue: 0,0:01:52.66,0:01:56.41,Default,,0,0,0,,Oh, as coisas aqui dentro parecem...  será que é?{Oooh, the stuff inside feels just like... could it be?}
+Dialogue: 0,0:01:52.66,0:01:56.41,Default,,0,0,0,,Oh, as coisas aqui dentro parecem... será que é?{Oooh, the stuff inside feels just like... could it be?}
 Dialogue: 0,0:01:56.83,0:01:58.37,Default,,0,0,0,,Ai, ai, ai...{Ow, ow, ow...}
 Dialogue: 0,0:02:00.41,0:02:02.41,Default,,0,0,0,,É um cheiro conhecido.{That's a familiar smell.}
 Dialogue: 0,0:02:02.41,0:02:03.62,Default,,0,0,0,,Hum?
@@ -206,7 +206,7 @@ Dialogue: 0,0:15:55.41,0:15:59.79,Default,,0,0,0,,O que vocês são e por que vo
 Dialogue: 0,0:16:00.25,0:16:05.50,Default,,0,0,0,,Nós apenas ingerimos o pequeno equipamento que estava de posse da humana.{We only ingested the small device\Nthat human possessed.}
 Dialogue: 0,0:16:06.04,0:16:07.66,Default,,0,0,0,,Ah, é mesmo!{Oh, you're right!}
 Dialogue: 0,0:16:08.08,0:16:13.79,Default,,0,0,0,,Mesmo alguns equipamentos pequenos das gerações passadas contém grandes quantidades de energia.{Even some small devices from the generations of old\Npossess high amounts of energy.}
-Dialogue: 0,0:16:20.83,0:16:25.16,Default,,0,0,0,,Nós ingerimos materiais térmicamente instáveis{We ingest thermally unstable materials}
+Dialogue: 0,0:16:20.83,0:16:25.16,Default,,0,0,0,,Nós ingerimos materiais termicamente instáveis{We ingest thermally unstable materials}
 Dialogue: 0,0:16:25.16,0:16:30.25,Default,,0,0,0,,e os desmontamos em um estado estático e estável.{and dismantle them internally\Ninto a stable, static state.}
 Dialogue: 0,0:16:47.41,0:16:52.75,Default,,0,0,0,,Quando este processo estiver completo, o longo período de atividade vital da Terra estará terminado,{When this processing is complete,\Nthe long period of life activity on Earth will end,}
 Dialogue: 0,0:16:52.75,0:16:55.00,Default,,0,0,0,,e a Terra voltará a dormir.{and the Earth will slumber once more.}
@@ -215,7 +215,7 @@ Dialogue: 0,0:16:58.54,0:17:02.12,Default,,0,0,0,,A maior parte de nossa ativida
 Dialogue: 0,0:17:02.41,0:17:04.54,Default,,0,0,0,,Todas as armas da cidade...?{All the weapons in the city...?}
 Dialogue: 0,0:17:04.54,0:17:08.62,Default,,0,0,0,,A cidade irá lentamente parar.{The city will slowly come to an eventual halt.}
 Dialogue: 0,0:17:08.62,0:17:09.87,Default,,0,0,0,,Parar?{A halt?}
-Dialogue: 0,0:17:10.20,0:17:15.37,Default,,0,0,0,,Nós verificamos a maior parte dos locais, com excessão dos níveis mais altos{We have surveyed most locations,\Naside from those on the highest level,}
+Dialogue: 0,0:17:10.20,0:17:15.37,Default,,0,0,0,,Nós verificamos a maior parte dos locais, com exceção dos níveis mais altos{We have surveyed most locations,\Naside from those on the highest level,}
 Dialogue: 0,0:17:15.37,0:17:19.91,Default,,0,0,0,,e, pelo que sabemos, vocês são hoje as únicas duas humanas ainda vivas.{and to our knowledge, you are\Nthe only two humans still alive today.}
 Dialogue: 0,0:17:28.95,0:17:32.58,Default,,0,0,0,,Obrigada por trazerem esse pequeno para nós.{Thank you for bringing this little one to us.}
 Dialogue: 0,0:17:34.33,0:17:38.33,Default,,0,0,0,,Devemos nos mover juntos, como um grupo.{We must move together as a group.}

@@ -109,7 +109,7 @@ Dialogue: 0,0:06:55.84,0:06:59.96,Default,,0,0,0,,Ah, puxa! Eu queria mergulhar 
 Dialogue: 0,0:06:59.96,0:07:01.59,Default,,0,0,0,,Gostaria de entrar?{Would you like to?}
 Dialogue: 0,0:07:01.59,0:07:04.25,Default,,0,0,0,,Espere aí, eu posso?{Wait, can I?}
 Dialogue: 0,0:07:04.25,0:07:06.71,Default,,0,0,0,,Você pode entrar em um tanque que não esteja em uso.{You may enter any unused aquarium tank.}
-Dialogue: 0,0:07:06.92,0:07:10.42,Default,,0,0,0,,Existem cento e dois tanques nesta instaçlação,{There are one hundred and two tanks in this facility,}
+Dialogue: 0,0:07:06.92,0:07:10.42,Default,,0,0,0,,Existem cento e dois tanques nesta instalação,{There are one hundred and two tanks in this facility,}
 Dialogue: 0,0:07:10.42,0:07:14.59,Default,,0,0,0,,mas apenas doze ainda funcionam e apenas um está em uso.{but only twelve are still in service,\Nand only one is in use.}
 Dialogue: 0,0:07:14.96,0:07:17.46,Default,,0,0,0,,Por em uso, você quer dizer aquele que vimos antes?{By in use, you mean that one before?}
 Dialogue: 0,0:07:17.46,0:07:18.59,Default,,0,0,0,,Sim.{Yes.}
@@ -180,7 +180,7 @@ Dialogue: 0,0:12:25.30,0:12:30.67,Default,,0,0,0,,Esta espécie normalmente não
 Dialogue: 0,0:12:31.13,0:12:32.71,Default,,0,0,0,,Mutação?{Mutation?}
 Dialogue: 0,0:12:33.13,0:12:36.30,Default,,0,0,0,,Uma imperfeição no momento de transmitir informações. Um erro.{A mistake in the transmission of orders. A bug.}
 Dialogue: 0,0:12:37.21,0:12:39.84,Default,,0,0,0,,Esta é a força por trás da evolução.{ It is the driving force behind evolution.}
-Dialogue: 0,0:12:40.92,0:12:43.50,Default,,0,0,0,,Estas coisa que você está dizendo são realmente complicadas...{The stuff it's saying is really complicated...}
+Dialogue: 0,0:12:40.92,0:12:43.50,Default,,0,0,0,,Estas coisas que você está dizendo são realmente complicadas...{The stuff it's saying is really complicated...}
 Dialogue: 0,0:12:43.84,0:12:45.21,Default,,0,0,0,,Eu queria assá-lo.{I wanna roast it.}
 Dialogue: 0,0:12:45.21,0:12:46.67,Default,,0,0,0,,Para com isso.
 Dialogue: 0,0:12:46.67,0:12:49.75,Default,,0,0,0,,Ei, posso fazer isso também?{Hey, can I do that, too?}
