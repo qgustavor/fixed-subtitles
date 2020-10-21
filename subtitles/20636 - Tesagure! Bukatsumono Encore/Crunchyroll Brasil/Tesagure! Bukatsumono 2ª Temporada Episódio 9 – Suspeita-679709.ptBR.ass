@@ -96,8 +96,8 @@ Dialogue: 0,0:03:41.06,0:03:44.00,Main Dialogue,Aoi,0000,0000,0000,,Que saco! At
 Dialogue: 0,0:03:44.00,0:03:46.33,Main Dialogue,Koharu,0000,0000,0000,,Ninguém está te obrigando!
 Dialogue: 0,0:03:46.33,0:03:48.87,Main Dialogue,Yua,0000,0000,0000,,Mais uma coisa importante é "apertar o botão".
 Dialogue: 0,0:03:48.87,0:03:52.04,Main Dialogue,Koharu,0000,0000,0000,,Sim, eles são super rápidos para apertar o botão.
-Dialogue: 0,0:03:52.04,0:03:56.63,Main Dialogue,Yua,0000,0000,0000,,Dizem que nas perguntas complicadas,
-Dialogue: 0,0:03:56.63,0:04:00.24,Main Dialogue,Yua,0000,0000,0000,,os jogadores podem zerar se\N derem resposta longas,
+Dialogue: 0,0:03:52.04,0:03:56.63,Main Dialogue,Yua,0000,0000,0000,,Dizem que nas perguntas longas,
+Dialogue: 0,0:03:56.63,0:04:00.24,Main Dialogue,Yua,0000,0000,0000,,os jogadores podem acertar \Nse responderem rapidamente,
 Dialogue: 0,0:04:00.24,0:04:03.18,Main Dialogue,Yua,0000,0000,0000,,então eles praticam esse tipo\N de pergunta dia e noite.
 Dialogue: 0,0:04:03.18,0:04:05.88,Main Dialogue,Hiina,0000,0000,0000,,Se a pergunta for "Quem é o alpinista \Nfamoso que respondeu a pergunta,
 Dialogue: 0,0:04:05.88,0:04:09.71,Main Dialogue,Hiina,0000,0000,0000,,'Por que você quis escalar a montanha' \Ncom 'Porque está lá'?"
@@ -116,7 +116,7 @@ Dialogue: 0,0:04:43.26,0:04:46.26,Main Dialogue,Koharu,0000,0000,0000,,e revelam
 Dialogue: 0,0:04:46.26,0:04:48.84,Main Dialogue,Yua,0000,0000,0000,,Os dois velhos amigos são vizinhos.
 Dialogue: 0,0:04:48.84,0:04:52.26,Main Dialogue,Yua,0000,0000,0000,,De manhã Eiko-chan sempre vai acordar Kyu-kun.
 Dialogue: 0,0:04:52.26,0:04:57.49,Main Dialogue,Hiina,0000,0000,0000,,"Ei, Kyu! Quanto tempo você vai dormir? \NNão me culpe se estiver atrasado!"
-Dialogue: 0,0:04:57.49,0:05:00.82,Main Dialogue,Hiina,0000,0000,0000,,"Não estou em casa casa?\NO que faz aqui, Eiko?"
+Dialogue: 0,0:04:57.49,0:05:00.82,Main Dialogue,Hiina,0000,0000,0000,,"Aqui é minha casa, não é? \NO que faz aqui, Eiko?"
 Dialogue: 0,0:05:00.82,0:05:04.08,Main Dialogue,Hiina,0000,0000,0000,,"Ok, uma pergunta! O que eu \Nestou fazendo aqui?"
 Dialogue: 0,0:05:04.08,0:05:08.86,Main Dialogue,Hiina,0000,0000,0000,,"(1) Eu estava só de passagem. \N(2) Sua mãe pediu para eu te acordar.
 Dialogue: 0,0:05:08.86,0:05:14.22,Main Dialogue,Hiina,0000,0000,0000,,(3) Minha sorte de hoje disse para fazer isso.\N(4) P-Porque eu amo você..."
@@ -141,7 +141,7 @@ Dialogue: 0,0:06:04.71,0:06:07.96,Main Dialogue,Hiina,0000,0000,0000,,"Pergunta!
 Dialogue: 0,0:06:07.96,0:06:12.25,Main Dialogue,Hiina,0000,0000,0000,,(1) Porque não o amo. \N(2) Porque é cedo demais.
 Dialogue: 0,0:06:12.25,0:06:18.89,Main Dialogue,Hiina,0000,0000,0000,,(3) Porque ele é mau. \N(4) P-Porque você me ama, Kyu!"
 Dialogue: 0,0:06:19.77,0:06:23.57,Main Dialogue,Koharu,0000,0000,0000,,Kyu-kun! Diga logo como se sente!
-Dialogue: 0,0:06:23.57,0:06:26.57,Main Dialogue,Yua,0000,0000,0000,,Seja determinado e abra boca, Kyu-kun!
+Dialogue: 0,0:06:23.57,0:06:26.57,Main Dialogue,Yua,0000,0000,0000,,Seja determinado e abra a boca, Kyu-kun!
 Dialogue: 0,0:06:26.57,0:06:29.87,Main Dialogue,Hiina,0000,0000,0000,,"Eu percebi como me sinto.
 Dialogue: 0,0:06:29.87,0:06:32.70,Main Dialogue,Hiina,0000,0000,0000,,Eu sempre te amei!"
 Dialogue: 0,0:06:32.70,0:06:33.71,Main Dialogue,Hiina,0000,0000,0000,,"Kyu..."
@@ -158,7 +158,7 @@ Dialogue: 0,0:07:01.40,0:07:02.77,Story Continues Sign,Sign,0000,0000,0000,,A hi
 Dialogue: 0,0:07:03.55,0:07:05.40,Main Dialogue,Koharu,0000,0000,0000,,Termina assim a história?
 Dialogue: 0,0:07:05.40,0:07:07.48,Main Dialogue,Koharu,0000,0000,0000,,Número um! Tem que ser a número um!
 Dialogue: 0,0:07:07.48,0:07:09.40,Main Dialogue,Aoi,0000,0000,0000,,Você é um saco, Koharun!
-Dialogue: 0,0:07:09.40,0:07:12.38,Main Dialogue,Yua,0000,0000,0000,,Em vez de "consigo imaginar", \Nisso seria "você nunca veria."
+Dialogue: 0,0:07:09.40,0:07:12.38,Main Dialogue,Yua,0000,0000,0000,,Em vez de "consigo imaginar", \Nisso seria "você nunca veria".
 Dialogue: 0,0:07:12.38,0:07:13.85,Main Dialogue,Hiina,0000,0000,0000,,Seria um mangá de comédia.
 Dialogue: 0,0:07:13.85,0:07:15.37,Main Dialogue,Koharu,0000,0000,0000,,V-Verdade.
 Dialogue: 0,0:07:15.37,0:07:18.62,Main Dialogue,Yua,0000,0000,0000,,Certo! Vamos pensar em \Num "quiz escolar diferente"!
@@ -173,23 +173,23 @@ Dialogue: 0,0:07:33.36,0:07:37.03,Main Dialogue,Yua,0000,0000,0000,,É tipo "Voc
 Dialogue: 0,0:07:37.03,0:07:40.02,Main Dialogue,Yua,0000,0000,0000,,então de certa forma, \Né quase um abuso verbal.
 Dialogue: 0,0:07:40.02,0:07:42.38,Main Dialogue,Koharu,0000,0000,0000,,E a audiência ficaria feliz com a resposta.
 Dialogue: 0,0:07:42.38,0:07:43.77,Main Dialogue,Yua,0000,0000,0000,,Sim.
-Dialogue: 0,0:07:43.77,0:07:50.38,Main Dialogue,Hiina,0000,0000,0000,,Por exemplo, "que tipo de convés \Nsempre precisa de limpeza?"
-Dialogue: 0,0:07:51.07,0:07:51.69,Main Dialogue,Yua,0000,0000,0000,,Cocô.
+Dialogue: 0,0:07:43.77,0:07:50.38,Main Dialogue,Hiina,0000,0000,0000,,Por exemplo, "qual é o feminino de caco?"
+Dialogue: 0,0:07:51.07,0:07:51.69,Main Dialogue,Yua,0000,0000,0000,,Caca.
 Dialogue: 0,0:07:51.69,0:07:52.19,Main Dialogue,Hiina,0000,0000,0000,,Certo.
 Dialogue: 0,0:07:52.19,0:07:54.10,Main Dialogue,Yua,0000,0000,0000,,Oh, eu devia falar como se\N estivesse envergonhada.
-Dialogue: 0,0:07:54.10,0:07:55.70,Main Dialogue,Yua,0000,0000,0000,,C-Cocô...
+Dialogue: 0,0:07:54.10,0:07:55.70,Main Dialogue,Yua,0000,0000,0000,,C-Caca...
 Dialogue: 0,0:07:58.81,0:07:59.33,Main Dialogue,Yua,0000,0000,0000,,Assim.
 Dialogue: 0,0:07:59.47,0:08:00.66,Main Dialogue,Hiina,0000,0000,0000,,Assim.
 Dialogue: 0,0:08:00.66,0:08:02.14,Main Dialogue,Aoi,0000,0000,0000,,Só de ouvir já fico envergonhada.
 Dialogue: 0,0:08:02.14,0:08:02.95,Main Dialogue,Yua,0000,0000,0000,,Sim.
 Dialogue: 0,0:08:02.95,0:08:05.46,Main Dialogue,Koharu,0000,0000,0000,,Ouvir alguém envergonhado \Nme deixa envergonhada.
 Dialogue: 0,0:08:05.46,0:08:06.59,Main Dialogue,Yua,0000,0000,0000,,Diga você, Koharun.
-Dialogue: 0,0:08:06.59,0:08:07.71,Main Dialogue,Koharu,0000,0000,0000,,Cocô!
+Dialogue: 0,0:08:06.59,0:08:07.71,Main Dialogue,Koharu,0000,0000,0000,,Caca!
 Dialogue: 0,0:08:08.55,0:08:10.28,Main Dialogue,Yua,0000,0000,0000,,Não é para dizer em alto e bom som!
 Dialogue: 0,0:08:10.28,0:08:11.93,Main Dialogue,Aoi,0000,0000,0000,,Tom, tom!
 Dialogue: 0,0:08:11.93,0:08:13.36,Main Dialogue,Yua,0000,0000,0000,,Seu tom foi estranho.
 Dialogue: 0,0:08:13.36,0:08:15.14,Main Dialogue,Yua,0000,0000,0000,,Diga com mais modéstia.
-Dialogue: 0,0:08:15.14,0:08:16.43,Main Dialogue,Koharu,0000,0000,0000,,Cocô...
+Dialogue: 0,0:08:15.14,0:08:16.43,Main Dialogue,Koharu,0000,0000,0000,,Caca...
 Dialogue: 0,0:08:16.97,0:08:20.46,Main Dialogue,Aoi,0000,0000,0000,,Foi como se estivesse fazendo \Nisso no banheiro agora mesmo.
 Dialogue: 0,0:08:20.46,0:08:22.65,Main Dialogue,Koharu,0000,0000,0000,,Gostaram?
 Dialogue: 0,0:08:24.96,0:08:26.17,Main Dialogue,Yua,0000,0000,0000,,Assim.
@@ -204,7 +204,7 @@ Dialogue: 0,0:08:38.33,0:08:41.83,Main Dialogue,Yua,0000,0000,0000,,O que uma m�
 Dialogue: 0,0:08:41.83,0:08:42.75,Main Dialogue,Hiina,0000,0000,0000,,Leite materno.
 Dialogue: 0,0:08:42.75,0:08:44.87,Main Dialogue,Yua,0000,0000,0000,,Diga como se estivesse envergonhada!
 Dialogue: 0,0:08:44.87,0:08:45.89,Main Dialogue,Koharu,0000,0000,0000,,De um jeito sensual!
-Dialogue: 0,0:08:45.89,0:08:47.82,Main Dialogue,Yua,0000,0000,0000,,Tipo... "leite".
+Dialogue: 0,0:08:45.89,0:08:47.82,Main Dialogue,Yua,0000,0000,0000,,Tipo... "o peito".
 Dialogue: 0,0:08:50.13,0:08:52.26,Main Dialogue,Hiina,0000,0000,0000,,Vocês mesmas querem falar.
 Dialogue: 0,0:08:52.76,0:08:55.84,Main Dialogue,Yua,0000,0000,0000,,Não. Quero que você fale!
 Dialogue: 0,0:08:55.84,0:08:57.26,Main Dialogue,Aoi,0000,0000,0000,,Ela não vai falar.
