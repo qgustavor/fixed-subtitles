@@ -95,10 +95,10 @@ Dialogue: 0,0:03:21.13,0:03:25.18,Main Dialogue,Aoi,0000,0000,0000,,E depois dos
 Dialogue: 0,0:03:25.18,0:03:26.87,Main Dialogue,Yua,0000,0000,0000,,Ah, é, as travas!
 Dialogue: 0,0:03:26.87,0:03:30.16,Main Dialogue,Aoi,0000,0000,0000,,São super barulhentos quando passam do seu lado!
 Dialogue: 0,0:03:30.16,0:03:31.64,Main Dialogue,Koharu,0000,0000,0000,,É verdade.
-Dialogue: 0,0:03:31.64,0:03:34.89,Main Dialogue,Yua,0000,0000,0000,,Quando estão carregando o gol, \Nsempre tem uma parte
-Dialogue: 0,0:03:34.89,0:03:36.11,Main Dialogue,Yua,0000,0000,0000,,que te faz pensar que "não é pesado!"
-Dialogue: 0,0:03:36.11,0:03:38.61,Main Dialogue,Hiina,0000,0000,0000,,Uma parte que não é nem no fim, nem no meio.
-Dialogue: 0,0:03:38.61,0:03:40.57,Main Dialogue,Aoi,0000,0000,0000,,Nem faz sentido segurar aquela parte.
+Dialogue: 0,0:03:31.64,0:03:34.89,Main Dialogue,Yua,0000,0000,0000,,E quando estão carregando o gol, \Nsempre tem um que te faz pensar
+Dialogue: 0,0:03:34.89,0:03:36.11,Main Dialogue,Yua,0000,0000,0000,,"aquela parte nem é pesada!"
+Dialogue: 0,0:03:36.11,0:03:38.61,Main Dialogue,Hiina,0000,0000,0000,,O peso não está na barra mais longa.
+Dialogue: 0,0:03:38.61,0:03:40.57,Main Dialogue,Aoi,0000,0000,0000,,Não tem motivo para segurar ali.
 Dialogue: 0,0:03:40.57,0:03:43.92,Main Dialogue,Koharu,0000,0000,0000,,Hm, sempre tem alguém muito \Nanimado quando está ventando,
 Dialogue: 0,0:03:43.92,0:03:45.99,Main Dialogue,Koharu,0000,0000,0000,,porque quando chutam a bola, ela faz curva!
 Dialogue: 0,0:03:45.99,0:03:47.29,Main Dialogue,Yua,0000,0000,0000,,Sim!
@@ -129,7 +129,7 @@ Dialogue: 0,0:04:42.43,0:04:46.06,Main Dialogue,Hiina,0000,0000,0000,,E não imp
 Dialogue: 0,0:04:46.06,0:04:49.31,Main Dialogue,Hiina,0000,0000,0000,,ele só consegue ver o final do jogo \Ndo próximo time adversário.
 Dialogue: 0,0:04:49.31,0:04:51.60,Main Dialogue,Yua,0000,0000,0000,,É, eu vejo muitas cenas assim!
 Dialogue: 0,0:04:51.60,0:04:54.07,Main Dialogue,Hiina,0000,0000,0000,,Ele diz, "por que o placar está tão desigual?"
-Dialogue: 0,0:04:51.60,0:04:57.15,Score Sign 2,Sign,0000,0000,0000,,Tsuyosugi    Shizugane \NAcademy               High
+Dialogue: 0,0:04:51.60,0:04:57.15,Score Sign 2,Sign,0000,0000,0000,,Academia             Colégio\NTsuyosugi         Shizugane
 Dialogue: 0,0:04:54.07,0:04:57.15,Main Dialogue,Hiina,0000,0000,0000,,Mas ele nunca descobre o motivo \Naté jogar contra eles.
 Dialogue: 0,0:04:57.15,0:05:01.81,Main Dialogue,Koharu,0000,0000,0000,,E o time que perdeu diz para o time do protagonista
 Dialogue: 0,0:05:01.81,0:05:05.19,Main Dialogue,Koharu,0000,0000,0000,,algo tipo, "ganhem essa!" antes da partida.
@@ -229,7 +229,7 @@ Dialogue: 0,0:07:57.26,0:07:58.38,Main Dialogue,Yua,0000,0000,0000,,Torceriam to
 Dialogue: 0,0:07:58.38,0:08:00.94,Main Dialogue,Hiina,0000,0000,0000,,Seria horrível se a carreira \Nde alguém acabasse assim.
 Dialogue: 0,0:08:00.94,0:08:01.93,Main Dialogue,Koharu,0000,0000,0000,,Sim.
 Dialogue: 0,0:08:01.34,0:08:01.93,Main Dialogue,Koharu,0000,0000,0000,,{\a6}É mesmo.
-Dialogue: 0,0:08:01.93,0:08:06.82,Main Dialogue,Koharu,0000,0000,0000,,Tudo dependeria de suas habilidade.
+Dialogue: 0,0:08:01.93,0:08:06.82,Main Dialogue,Koharu,0000,0000,0000,,Tudo dependeria de suas habilidades.
 Dialogue: 0,0:08:06.70,0:08:07.63,Main Dialogue,,0000,0000,0000,,{\a6}Entendi.
 Dialogue: 0,0:08:06.82,0:08:09.09,Main Dialogue,Yua,0000,0000,0000,,Eles precisariam ser muito bons.
 Dialogue: 0,0:08:09.09,0:08:10.59,Main Dialogue,Koharu,0000,0000,0000,,Tentariam ser o melhor.

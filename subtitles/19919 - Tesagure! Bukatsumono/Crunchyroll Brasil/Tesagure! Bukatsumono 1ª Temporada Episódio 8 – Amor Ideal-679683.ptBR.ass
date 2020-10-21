@@ -49,14 +49,14 @@ Dialogue: 0,0:00:24.52,0:00:27.92,Main Dialogue,Yua,0000,0000,0000,,Mas a situa�
 Dialogue: 0,0:00:27.92,0:00:29.16,Main Dialogue,Koharu,0000,0000,0000,,Como assim?
 Dialogue: 0,0:00:29.16,0:00:33.29,Main Dialogue,Yua,0000,0000,0000,,Notaram algo depois de ver os cafés daqui?
 Dialogue: 0,0:00:30.11,0:00:33.76,Cookie Sign,Sign,0000,0000,0000,,{\fad(500,500)}Biscoitos\N Bebida
-Dialogue: 0,0:00:34.26,0:00:38.26,Maid Cafe Sign,Sign,0000,0000,0000,,Café {\fs26\c&HD886F4&\3c&H8343BF&}Momonaru {\c&H3E6601&\3c&HFFFFFF&\fs20}Orelhas de Gato
+Dialogue: 0,0:00:34.26,0:00:38.26,Maid Cafe Sign,Sign,0000,0000,0000,,Café de Empregadas {\fs26\c&HD886F4&\3c&H8343BF&}Tousei {\c&H3E6601&\3c&HFFFFFF&\fs20}Orelhas de Gato
 Dialogue: 0,0:00:34.26,0:00:39.63,Main Dialogue,Yua,0000,0000,0000,,Todos os cafés são franquias da escola.
-Dialogue: 0,0:00:38.26,0:00:42.31,Maid Cafe Sign 2,Sign,0000,0000,0000,,Café {\fs26\c&H00C5EF&\3c&HFFFFFF&}Momonaru\N{\c&H0086D2&\3c&H00388B&\fs20}Irmã Caçula
+Dialogue: 0,0:00:38.26,0:00:42.31,Maid Cafe Sign 2,Sign,0000,0000,0000,,Café {\fs26\c&H00C5EF&\3c&HFFFFFF&}Tousei\N{\c&H0086D2&\3c&H00388B&\fs20}Irmã Caçula
 Dialogue: 0,0:00:39.63,0:00:43.81,Main Dialogue,Hiina,0000,0000,0000,,Existem muitas escolas para meninos \Npor aqui, então as lanchonetes
-Dialogue: 0,0:00:42.31,0:00:46.35,Maid Cafe Sign 4,Sign,0000,0000,0000,,Café {\fs24\3c&H5B00B9&\c&HE8B3FF&}Momonaru {\fs20\3c&HFFFFFF&\c&H5B00B9&}Tsundere
+Dialogue: 0,0:00:42.31,0:00:46.35,Maid Cafe Sign 4,Sign,0000,0000,0000,,Café {\fs24\3c&H5B00B9&\c&HE8B3FF&}Tousei {\fs20\3c&HFFFFFF&\c&H5B00B9&}Tsundere
 Dialogue: 0,0:00:43.81,0:00:46.35,Main Dialogue,Hiina,0000,0000,0000,,e seus ganhos são importantes \Npara o caixa da escola.
 Dialogue: 0,0:00:46.35,0:00:49.09,Main Dialogue,Aoi,0000,0000,0000,,Por isso existem tantos, é?
-Dialogue: 0,0:00:46.35,0:00:49.94,Maid Cafe Sign 3,Sign,0000,0000,0000,,Café\N{\fs22}Momonaru\N{\fs16}Tsundere
+Dialogue: 0,0:00:46.35,0:00:49.94,Maid Cafe Sign 3,Sign,0000,0000,0000,,Café\N{\fs22}Tousei\N{\fs16}Tsundere
 Dialogue: 0,0:00:49.09,0:00:51.76,Main Dialogue,Koharu,0000,0000,0000,,F-Franquias?!
 Dialogue: 0,0:01:49.49,0:01:51.54,Main Dialogue,Aoi,0000,0000,0000,,Vamos falar do clube de tênis hoje?
 Dialogue: 0,0:01:51.54,0:01:54.55,Main Dialogue,Yua,0000,0000,0000,,Boa ideia! Que imagem vocês têm do clube de tênis?
@@ -252,7 +252,7 @@ Dialogue: 0,0:10:00.53,0:10:01.80,Main Dialogue,Koharu,0000,0000,0000,,Ouvir iss
 Dialogue: 0,0:10:01.80,0:10:03.64,Main Dialogue,Koharu,0000,0000,0000,,Não me deixa feliz mesmo!
 Dialogue: 0,0:10:06.17,0:10:07.58,Main Dialogue,Mobuko,0000,0000,0000,,Escute isso!
 Dialogue: 0,0:10:07.58,0:10:10.22,Main Dialogue,Mobuko,0000,0000,0000,,Consegui outra cabeça hoje!
-Dialogue: 0,0:10:10.22,0:10:14.80,Main Dialogue,Mobuko,0000,0000,0000,,Nossa, por que as pessoas não\N colecionam King Harima?
+Dialogue: 0,0:10:10.22,0:10:14.80,Main Dialogue,Mobuko,0000,0000,0000,,Nossa, por que as pessoas não\N colecionam o Rei Harima?
 Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
 Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 9\N{\fs24}Timidez
 Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!

@@ -117,7 +117,7 @@ Dialogue: 0,0:04:00.01,0:04:02.69,Main Dialogue,Yua,0000,0000,0000,,Primeiro, a 
 Dialogue: 0,0:04:03.84,0:04:06.76,Main Dialogue,Yua,0000,0000,0000,,A próxima líder do clube é você, Aoi.
 Dialogue: 0,0:04:06.76,0:04:09.49,Main Dialogue,Yua,0000,0000,0000,,Na língua das flores, uma dafne de mentira \Nsignifica mudança de geração.
 Dialogue: 0,0:04:10.33,0:04:13.17,Main Dialogue,Yua,0000,0000,0000,,É uma marca importante que tem sido passada
-Dialogue: 0,0:04:13.17,0:04:15.06,Default,,0000,0000,0000,,desde o primeiro líder.
+Dialogue: 0,0:04:13.17,0:04:15.06,Main Dialogue,,0000,0000,0000,,desde o primeiro líder.
 Dialogue: 0,0:04:15.06,0:04:16.71,Main Dialogue,Yua,0000,0000,0000,,Não perca.
 Dialogue: 0,0:04:17.39,0:04:18.20,Main Dialogue,Aoi,0000,0000,0000,,Não perderei.
 Dialogue: 0,0:04:18.73,0:04:21.41,Main Dialogue,Hiina,0000,0000,0000,,Às vezes, a Yua esquecia de usá-la.
@@ -141,7 +141,7 @@ Dialogue: 0,0:05:19.22,0:05:22.10,Main Dialogue,Koharu,0000,0000,0000,,Só penso
 Dialogue: 0,0:05:22.10,0:05:25.18,Main Dialogue,Koharu,0000,0000,0000,,Só acompanhei vocês três!
 Dialogue: 0,0:05:25.18,0:05:28.06,Main Dialogue,Koharu,0000,0000,0000,,Não posso ser a vice presidente!
 Dialogue: 0,0:05:29.39,0:05:36.25,Main Dialogue,Koharu,0000,0000,0000,,Até Aoi-senpai, temperamental, livre de espírito
-Dialogue: 0,0:05:36.25,0:05:40.02,Main Dialogue,Koharu,0000,0000,0000,,e seu amor por trocadilhos não pode ser líder!
+Dialogue: 0,0:05:36.25,0:05:40.02,Main Dialogue,Koharu,0000,0000,0000,,e que ama trocadilhos não pode ser líder!
 Dialogue: 0,0:05:42.98,0:05:45.84,Main Dialogue,Koharu,0000,0000,0000,,Não vai funcionar sem vocês duas!
 Dialogue: 0,0:05:46.72,0:05:52.99,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai e Hiina-senpai, se vocês saírem, \No clube Tesagure não vai dar certo!
 Dialogue: 0,0:05:54.39,0:06:00.54,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai... Hiina-senpai...
