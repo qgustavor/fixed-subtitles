@@ -1,0 +1,302 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H0000C5EF,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0038,0020,0027,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Takiguchi1,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0310,0020,0140,1
+Style: Takiguchi2,Arial,14,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0350,0020,0130,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.63,0:00:10.45,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Episódio 10\N{\fs22}Egoísmo
+Dialogue: 0,0:00:07.32,0:00:09.31,Main Dialogue,Yua,0000,0000,0000,,Lá vamos nós!
+Dialogue: 0,0:00:09.31,0:00:10.46,Main Dialogue,Yua,0000,0000,0000,,Isso é tudo?
+Dialogue: 0,0:00:10.46,0:00:12.24,Main Dialogue,Aoi,0000,0000,0000,,Que pesado!
+Dialogue: 0,0:00:12.24,0:00:14.35,Main Dialogue,Koharu,0000,0000,0000,,É a primeira vez que estou atrás do ginásio.
+Dialogue: 0,0:00:14.35,0:00:17.99,Main Dialogue,Yua,0000,0000,0000,,É, a gente só vem depois \Nde um dia de faxina.
+Dialogue: 0,0:00:17.99,0:00:21.22,Main Dialogue,Hiina,0000,0000,0000,,Mas quando você vem, tem algo \Nque precisa fazer, né?
+Dialogue: 0,0:00:21.22,0:00:22.25,Main Dialogue,Yua,0000,0000,0000,,Oh, sim!
+Dialogue: 0,0:00:24.11,0:00:25.73,Main Dialogue,Hiina,0000,0000,0000,,Só mais um pouco, acho.
+Dialogue: 0,0:00:27.07,0:00:29.55,Main Dialogue,Yua,0000,0000,0000,,Parece bom! Ok!
+Dialogue: 0,0:00:30.13,0:00:33.30,Main Dialogue,Yua,0000,0000,0000,,Olá! Tem alguém aqui?
+Dialogue: 0,0:00:33.30,0:00:34.77,Main Dialogue,Girl,0000,0000,0000,,O-Obrigada!
+Dialogue: 0,0:00:34.77,0:00:35.80,Main Dialogue,Boy,0000,0000,0000,,Você nos salvou!
+Dialogue: 0,0:00:35.80,0:00:37.30,Main Dialogue,Yua,0000,0000,0000,,Tenham mais cuidado, ok?
+Dialogue: 0,0:00:37.30,0:00:39.27,Main Dialogue,Koharu,0000,0000,0000,,Hã? O que foi aquilo?
+Dialogue: 0,0:00:39.27,0:00:43.56,Main Dialogue,Hiina,0000,0000,0000,,Sempre tem um menino e uma menina que ficam \Ntrancados acidentalmente no armazém,
+Dialogue: 0,0:00:43.56,0:00:48.68,Main Dialogue,Hiina,0000,0000,0000,,então existe uma regra de que qualquer \Num que passe por aqui abra a porta.
+Dialogue: 0,0:00:49.25,0:00:51.97,Main Dialogue,Yua,0000,0000,0000,,Na hora certa, quando começam a se dar bem.
+Dialogue: 0,0:00:51.97,0:00:54.58,Main Dialogue,Koharu,0000,0000,0000,,S-Sempre tem gente trancada lá?
+Dialogue: 0,0:00:54.58,0:00:56.16,Main Dialogue,Koharu,0000,0000,0000,,E é sempre um casal?
+Dialogue: 0,0:00:56.16,0:00:58.24,Main Dialogue,Aoi,0000,0000,0000,,É verdade. E o jeito que a menina
+Dialogue: 0,0:00:58.24,0:01:00.61,Main Dialogue,Aoi,0000,0000,0000,,não fica incomodada é nojento!
+Dialogue: 0,0:01:00.61,0:01:02.54,Main Dialogue,Yua,0000,0000,0000,,Bem, vamos voltar para nossa sala.
+Dialogue: 0,0:01:02.95,0:01:07.25,Main Dialogue,Koharu,0000,0000,0000,,Pensando nisso, tem meninos na nossa escola?
+Dialogue: 0,0:02:04.74,0:02:11.15,Main Dialogue,Koharu,0000,0000,0000,,Então esse gatinho estava andando, \Nfazendo "miau-miau".
+Dialogue: 0,0:02:11.15,0:02:13.40,Main Dialogue,Koharu,0000,0000,0000,,Era a coisa mais fofa!
+Dialogue: 0,0:02:13.40,0:02:15.43,Main Dialogue,Yua,0000,0000,0000,,Você gosta muito de gatos, hein, Koharun?
+Dialogue: 0,0:02:15.43,0:02:17.70,Main Dialogue,Koharu,0000,0000,0000,,Acho que é o que essa frase quer dizer,
+Dialogue: 0,0:02:17.70,0:02:20.41,Main Dialogue,Koharu,0000,0000,0000,,"não machucaria nem se fosse nos meus olhos".
+Dialogue: 0,0:02:20.41,0:02:22.00,Main Dialogue,Aoi,0000,0000,0000,,Fez isso de novo, Koharun!
+Dialogue: 0,0:02:22.00,0:02:23.19,Main Dialogue,Koharu,0000,0000,0000,,Hã? Fiz o quê?
+Dialogue: 0,0:02:23.19,0:02:25.63,Main Dialogue,Aoi,0000,0000,0000,,Sendo injusta com olhos desse jeito!
+Dialogue: 0,0:02:25.63,0:02:27.41,Main Dialogue,Koharu,0000,0000,0000,,Hã? Como assim?
+Dialogue: 0,0:02:27.41,0:02:28.89,Main Dialogue,Aoi,0000,0000,0000,,Bem, não faz sentido.
+Dialogue: 0,0:02:28.89,0:02:33.09,Main Dialogue,Aoi,0000,0000,0000,,"Não machucaria nem se fosse nos meus olhos" \Nsignifica que você aguenta algo por ser bonito,
+Dialogue: 0,0:02:33.09,0:02:36.31,Main Dialogue,Aoi,0000,0000,0000,,mas se colocar um gato no seu olho, \Nvocê perderia a visão,
+Dialogue: 0,0:02:36.31,0:02:38.59,Main Dialogue,Aoi,0000,0000,0000,,e não seria mais capaz de ver a fofura dele!
+Dialogue: 0,0:02:38.59,0:02:40.80,Main Dialogue,Aoi,0000,0000,0000,,Existe uma expressão para esse tipo de coisa.
+Dialogue: 0,0:02:40.80,0:02:42.14,Main Dialogue,Yua,0000,0000,0000,,Colocar a carroça na frente dos bois!
+Dialogue: 0,0:02:42.14,0:02:45.90,Main Dialogue,Koharu,0000,0000,0000,,Ah, agora que disse, talvez você esteja certa,
+Dialogue: 0,0:02:45.90,0:02:48.00,Main Dialogue,Koharu,0000,0000,0000,,mas é só jeito de dizer...
+Dialogue: 0,0:02:48.00,0:02:50.73,Main Dialogue,Aoi,0000,0000,0000,,Mas não chega ao ponto!
+Dialogue: 0,0:02:50.73,0:02:53.42,Main Dialogue,Aoi,0000,0000,0000,,As pessoas também dizem que \N"só têm olhos para doces",
+Dialogue: 0,0:02:53.42,0:02:55.51,Main Dialogue,Aoi,0000,0000,0000,,mas devem estar confundindo \N"olhos" com "boca", né?
+Dialogue: 0,0:02:55.51,0:02:57.90,Main Dialogue,Aoi,0000,0000,0000,,Sua boca que sente a doçura!
+Dialogue: 0,0:02:57.90,0:03:02.45,Main Dialogue,Yua,0000,0000,0000,,Talvez esteja certa, mas é só um ditado.
+Dialogue: 0,0:03:02.45,0:03:05.78,Main Dialogue,Aoi,0000,0000,0000,,Parece que todos são injustos \Ncom ditados de "olhos".
+Dialogue: 0,0:03:05.78,0:03:09.57,Main Dialogue,Aoi,0000,0000,0000,,Mas a boca é tratada como algo ruim! \NNão se sentem mal por isso?
+Dialogue: 0,0:03:10.33,0:03:12.08,Main Dialogue,Koharun,0000,0000,0000,,Você acha?
+Dialogue: 0,0:03:12.08,0:03:13.50,Main Dialogue,Yua,0000,0000,0000,,O que acha, Hiina?
+Dialogue: 0,0:03:13.50,0:03:15.59,Main Dialogue,Hiina,0000,0000,0000,,Bem, também tem "vejo nos seus olhos"
+Dialogue: 0,0:03:15.59,0:03:19.96,Main Dialogue,Hiina,0000,0000,0000,,e "olhos falam mais que a boca", \Nmas não dizem o contrário.
+Dialogue: 0,0:03:19.96,0:03:23.92,Main Dialogue,Yua,0000,0000,0000,,O contrário seria "a boca vê mais que os olhos"?
+Dialogue: 0,0:03:23.92,0:03:25.85,Main Dialogue,Yua,0000,0000,0000,,É um pouco exagerado, não é?
+Dialogue: 0,0:03:25.85,0:03:28.87,Main Dialogue,Aoi,0000,0000,0000,,Não tem como os olhos expressarem \Nmais que as palavras!
+Dialogue: 0,0:03:28.87,0:03:31.49,Main Dialogue,Aoi,0000,0000,0000,,Ou então também diria que consegue ver com \Na boca o que não consegue com os olhos!
+Dialogue: 0,0:03:31.49,0:03:35.86,Main Dialogue,Hiina,0000,0000,0000,,Mesmo assim, é engraçado quando \Ntem uma situação séria,
+Dialogue: 0,0:03:35.86,0:03:38.73,Main Dialogue,Hiina,0000,0000,0000,,e alguém abre a boca.
+Dialogue: 0,0:03:38.73,0:03:41.99,Main Dialogue,Aoi,0000,0000,0000,,Viu? Estão mostrando preferência! \NNão aguento isso!
+Dialogue: 0,0:03:41.99,0:03:47.74,Main Dialogue,Koharu,0000,0000,0000,,E-Estou mais confusa que o normal \Ncom seu humor hoje, Aoi-senpai.
+Dialogue: 0,0:03:47.74,0:03:52.07,Main Dialogue,Yua,0000,0000,0000,,Não estou tentando beneficiar os olhos...
+Dialogue: 0,0:03:52.07,0:03:53.76,Main Dialogue,Yua,0000,0000,0000,,Eles são tratados de forma tão diferente assim?
+Dialogue: 0,0:03:53.76,0:03:56.03,Main Dialogue,Aoi,0000,0000,0000,,Olhos têm todas as expressões legais!
+Dialogue: 0,0:03:56.03,0:03:56.84,Main Dialogue,Yua,0000,0000,0000,,Por exemplo?
+Dialogue: 0,0:03:56.84,0:03:58.26,Main Dialogue,Aoi,0000,0000,0000,,"Você tem olhos expressivos!"
+Dialogue: 0,0:03:56.96,0:03:59.16,Black Signs,Sign,0000,0000,0000,,Olhos Expressivos
+Dialogue: 0,0:03:58.26,0:03:59.67,Main Dialogue,Yua,0000,0000,0000,,Falamos isso.
+Dialogue: 0,0:03:59.67,0:04:01.26,Main Dialogue,Yua,0000,0000,0000,,E se trocarmos pela boca?
+Dialogue: 0,0:04:01.26,0:04:03.09,Main Dialogue,Hiina,0000,0000,0000,,"Você tem uma boca expressiva!"
+Dialogue: 0,0:04:01.45,0:04:03.09,Black Signs,Sign,0000,0000,0000,,{\an7}Boca Expressiva
+Dialogue: 0,0:04:03.09,0:04:05.97,Main Dialogue,Koharu,0000,0000,0000,,Isso me faz imaginar alguém com \Nmandíbula superdesenvolvida...
+Dialogue: 0,0:04:03.91,0:04:05.97,Black Signs,Koharu,0000,0000,0000,,{\an9}Boca Expressiva
+Dialogue: 0,0:04:05.97,0:04:07.47,Main Dialogue,Yua,0000,0000,0000,,Sim! Mais alguma coisa?
+Dialogue: 0,0:04:07.47,0:04:08.52,Main Dialogue,Aoi,0000,0000,0000,,"As escamas caíram dos meus olhos!"
+Dialogue: 0,0:04:07.68,0:04:10.02,Black Signs,Yua,0000,0000,0000,,{\an7}As escamas caíram dos meus olhos
+Dialogue: 0,0:04:08.52,0:04:10.02,Main Dialogue,Yua,0000,0000,0000,,E se usarmos "boca"?
+Dialogue: 0,0:04:10.02,0:04:11.60,Main Dialogue,Hiina,0000,0000,0000,,"As escamas caíram da minha boca!"
+Dialogue: 0,0:04:10.25,0:04:11.60,Black Signs,Hiina,0000,0000,0000,,{\an7}As escamas caíram da minha boca
+Dialogue: 0,0:04:11.60,0:04:14.60,Main Dialogue,Koharu,0000,0000,0000,,Ele comeu um peixe inteiro?
+Dialogue: 0,0:04:14.60,0:04:16.02,Main Dialogue,Aoi,0000,0000,0000,,"Meus olhos começaram a queimar."
+Dialogue: 0,0:04:14.60,0:04:16.02,Black Signs,Aoi,0000,0000,0000,,{\an7}Meus olhos começaram a queimar
+Dialogue: 0,0:04:16.02,0:04:17.61,Main Dialogue,Hiina,0000,0000,0000,,"Minha boca começou a queimar"
+Dialogue: 0,0:04:16.02,0:04:17.61,Black Signs,Hiina,0000,0000,0000,,{\an7}Minha boca começou a queimar
+Dialogue: 0,0:04:17.61,0:04:19.69,Main Dialogue,Yua,0000,0000,0000,,Ele comeu muito rápido e queimou a boca?
+Dialogue: 0,0:04:19.69,0:04:22.60,Main Dialogue,Aoi,0000,0000,0000,,Viram? A boca fica ruim em todos!
+Dialogue: 0,0:04:22.60,0:04:25.19,Main Dialogue,Hiina,0000,0000,0000,,Outra, "olhos de quem acordou", parece legal,
+Dialogue: 0,0:04:25.19,0:04:28.95,Main Dialogue,Hiina,0000,0000,0000,,mas "boca de quem acordou" te faz pensar \Nem babar tanto dormindo
+Dialogue: 0,0:04:26.26,0:04:31.89,Black Signs,Sign,0000,0000,0000,,Boca de Quem Acordou
+Dialogue: 0,0:04:28.95,0:04:32.10,Main Dialogue,Hiina,0000,0000,0000,,que precisa de um ralo no seu quarto.
+Dialogue: 0,0:04:32.10,0:04:33.54,Main Dialogue,Koharu,0000,0000,0000,,B-Bem observado...
+Dialogue: 0,0:04:33.54,0:04:37.04,Main Dialogue,Yua,0000,0000,0000,,Então quais expressões usam a boca?
+Dialogue: 0,0:04:37.04,0:04:38.71,Main Dialogue,Hiina,0000,0000,0000,,"Da boca pra fora."
+Dialogue: 0,0:04:38.71,0:04:40.50,Main Dialogue,Aoi,0000,0000,0000,,"De cair o queixo."
+Dialogue: 0,0:04:40.50,0:04:42.01,Main Dialogue,Hiina,0000,0000,0000,,"Fechar a boca."
+Dialogue: 0,0:04:42.01,0:04:44.64,Main Dialogue,Aoi,0000,0000,0000,,Não tem nada legal em nenhuma dessas!
+Dialogue: 0,0:04:44.64,0:04:46.12,Main Dialogue,Koharu,0000,0000,0000,,Verdade...
+Dialogue: 0,0:04:46.12,0:04:48.40,Main Dialogue,Aoi,0000,0000,0000,,Agora se sentem mal pela boca?
+Dialogue: 0,0:04:49.00,0:04:52.27,Main Dialogue,Koharu,0000,0000,0000,,Sim, mas o que podemos fazer?
+Dialogue: 0,0:04:52.27,0:04:55.53,Main Dialogue,Yua,0000,0000,0000,,Ok, para melhorar a imagem da boca,
+Dialogue: 0,0:04:55.53,0:04:58.04,Main Dialogue,Yua,0000,0000,0000,,por que não criamos uma história que foca na boca
+Dialogue: 0,0:04:58.04,0:05:00.05,Main Dialogue,Yua,0000,0000,0000,,e compartilhamos com o mundo?
+Dialogue: 0,0:05:00.05,0:05:02.49,Main Dialogue,Koharu,0000,0000,0000,,Uma história que foca na boca?
+Dialogue: 0,0:05:02.49,0:05:03.86,Main Dialogue,Aoi,0000,0000,0000,,É uma ótima ideia!
+Dialogue: 0,0:05:03.86,0:05:06.91,Main Dialogue,Aoi,0000,0000,0000,,Vamos fazer uma história de super-herói \Npara ser popular entre as crianças!
+Dialogue: 0,0:05:06.91,0:05:09.96,Main Dialogue,Hiina,0000,0000,0000,,O título pode ser {\i1}Nada Supera Conversar!\NHomem-Conversa!{\i0}
+Dialogue: 0,0:05:07.95,0:05:11.70,Black Signs,Hiina,0000,0000,0000,,{\an7\fs18}Nada Supera Conversar! \N{\fs22}Homem-Conversa!
+Dialogue: 0,0:05:09.96,0:05:11.20,Main Dialogue,Aoi,0000,0000,0000,,Parece legal!
+Dialogue: 0,0:05:11.70,0:05:16.46,Main Dialogue,Koharu,0000,0000,0000,,Parece alguém falando, mas que \Nnão acompanha o assunto...
+Dialogue: 0,0:05:16.46,0:05:19.58,Main Dialogue,Yua,0000,0000,0000,,O personagem principal é \NTakiguchi Shakku e ele tem 23 anos.
+Dialogue: 0,0:05:17.25,0:05:20.46,Takiguchi1,Yua,0000,0000,0000,,Takiguchi Shakku
+Dialogue: 0,0:05:17.25,0:05:20.46,Takiguchi2,Yua,0000,0000,0000,,(boca)            (boca)
+Dialogue: 0,0:05:19.58,0:05:20.46,Main Dialogue,Aoi,0000,0000,0000,,Consigo imaginar!
+Dialogue: 0,0:05:21.09,0:05:24.67,Main Dialogue,Koharu,0000,0000,0000,,"Shakku" não é um dia de azar, \Nsegundo o budismo?
+Dialogue: 0,0:05:24.67,0:05:29.60,Main Dialogue,Hiina,0000,0000,0000,,Ele conseguiu emprego com um fabricante de \Ntorneiras pela recomendação de seu pai,
+Dialogue: 0,0:05:25.01,0:05:33.39,Black Signs,Hiina,0000,0000,0000,,Conversa
+Dialogue: 0,0:05:29.60,0:05:33.71,Main Dialogue,Hiina,0000,0000,0000,,mas sua verdadeira identidade é o herói da \Njustiça e protetor da paz, Homem-Conversa!
+Dialogue: 0,0:05:33.71,0:05:35.39,Main Dialogue,Aoi,0000,0000,0000,,Oh, que legal!
+Dialogue: 0,0:05:35.39,0:05:37.90,Main Dialogue,Koharu,0000,0000,0000,,Mesmo sendo herói, ele conseguiu \Ntrabalho por indicação?
+Dialogue: 0,0:05:37.90,0:05:42.34,Main Dialogue,Yua,0000,0000,0000,,Pelas costas, as pessoas dizem que \N"ele nasceu com a boca primeiro",
+Dialogue: 0,0:05:42.34,0:05:45.83,Main Dialogue,Yua,0000,0000,0000,,mas os murmúrios não o incomodam!
+Dialogue: 0,0:05:45.83,0:05:46.86,Main Dialogue,Aoi,0000,0000,0000,,Ele tem um coração forte!
+Dialogue: 0,0:05:46.86,0:05:47.95,Main Dialogue,,0000,0000,0000,,Hã?!
+Dialogue: 0,0:05:47.95,0:05:49.58,Main Dialogue,Koharu,0000,0000,0000,,Se ele é tão insultado assim,
+Dialogue: 0,0:05:49.58,0:05:52.79,Main Dialogue,Koharu,0000,0000,0000,,ele parece ser muito problemático \Npara um herói infantil...
+Dialogue: 0,0:05:52.79,0:05:54.26,Main Dialogue,Yua,0000,0000,0000,,A marca é a mandíbula saliente!
+Dialogue: 0,0:05:54.26,0:05:55.34,Main Dialogue,Aoi,0000,0000,0000,,Isso é fácil de lembrar!
+Dialogue: 0,0:05:55.34,0:05:58.00,Main Dialogue,Koharu,0000,0000,0000,,N-Não é um traço muito heroico...
+Dialogue: 0,0:05:58.00,0:05:59.41,Main Dialogue,Hiina,0000,0000,0000,,E ele conversa sério com os mais velhos.
+Dialogue: 0,0:05:59.41,0:06:00.48,Main Dialogue,Aoi,0000,0000,0000,,Que tranquilizador!
+Dialogue: 0,0:06:00.48,0:06:01.71,Main Dialogue,Koharu,0000,0000,0000,,Quê?! Não, isso é ruim!
+Dialogue: 0,0:06:01.71,0:06:04.95,Main Dialogue,Yua,0000,0000,0000,,"Vou fechar minha boca e lutar seriamente \Npara proteger minha bolsinha!"
+Dialogue: 0,0:06:04.95,0:06:05.71,Main Dialogue,Aoi,0000,0000,0000,,Dê o seu melhor!
+Dialogue: 0,0:06:06.44,0:06:09.93,Main Dialogue,Koharu,0000,0000,0000,,Ele está lutando por si mesmo, então!
+Dialogue: 0,0:06:09.93,0:06:11.82,Main Dialogue,Hiina,0000,0000,0000,,Ele consegue informações sobre vilões com conversa.
+Dialogue: 0,0:06:11.82,0:06:12.51,Main Dialogue,Aoi,0000,0000,0000,,Legal!
+Dialogue: 0,0:06:12.51,0:06:13.81,Main Dialogue,Koharu,0000,0000,0000,,Ele depende muito de outras pessoas!
+Dialogue: 0,0:06:13.81,0:06:15.55,Main Dialogue,Yua,0000,0000,0000,,Então ele veste seu terno Kucci...
+Dialogue: 0,0:06:15.55,0:06:16.59,Main Dialogue,Aoi,0000,0000,0000,,Estiloso!
+Dialogue: 0,0:06:16.93,0:06:18.44,Main Dialogue,Koharu,0000,0000,0000,,Isso é uma marca imitação!
+Dialogue: 0,0:06:18.44,0:06:20.88,Main Dialogue,Hiina,0000,0000,0000,,Ele sempre entra pela porta lateral!
+Dialogue: 0,0:06:20.88,0:06:22.11,Main Dialogue,Aoi,0000,0000,0000,,Ele está aqui!
+Dialogue: 0,0:06:22.42,0:06:24.27,Main Dialogue,Koharu,0000,0000,0000,,O-Onde estão lutando?
+Dialogue: 0,0:06:24.27,0:06:27.06,Main Dialogue,Yua,0000,0000,0000,,O inimigo surpreso diz "quem diabos é você?"
+Dialogue: 0,0:06:27.06,0:06:28.69,Main Dialogue,Yua,0000,0000,0000,,Mas a boca do nosso herói está fechada.
+Dialogue: 0,0:06:28.69,0:06:30.07,Main Dialogue,Aoi,0000,0000,0000,,Ele não é obrigado a responder!
+Dialogue: 0,0:06:30.07,0:06:33.41,Main Dialogue,Koharu,0000,0000,0000,,A-A entrada triunfal do herói não é importante?
+Dialogue: 0,0:06:33.41,0:06:36.18,Main Dialogue,Hiina,0000,0000,0000,,Eles perguntam "por que está aqui?", \Nmas nosso herói segura a língua.
+Dialogue: 0,0:06:36.18,0:06:36.91,Main Dialogue,,0000,0000,0000,,Legal!
+Dialogue: 0,0:06:36.91,0:06:39.71,Main Dialogue,Koharu,0000,0000,0000,,C-Crianças não vão gostar disso!
+Dialogue: 0,0:06:39.71,0:06:42.92,Main Dialogue,Hiina,0000,0000,0000,,Nosso herói aposta em ataques surpresa!
+Dialogue: 0,0:06:42.92,0:06:44.29,Main Dialogue,Aoi,0000,0000,0000,,Vai!
+Dialogue: 0,0:06:44.29,0:06:45.75,Main Dialogue,Koharu,0000,0000,0000,,Ele é covarde!
+Dialogue: 0,0:06:45.75,0:06:48.51,Main Dialogue,Yua,0000,0000,0000,,Seus golpes especiais são "boca suja!", "fofocando!" e "contando segredos!"
+Dialogue: 0,0:06:45.92,0:06:48.51,Black Signs,Yua,0000,0000,0000,,{\an9}Boca Suja     Fofocando
+Dialogue: 0,0:06:45.92,0:06:48.51,Black Signs,Yua,0000,0000,0000,,{\an6}Contando Segredos
+Dialogue: 0,0:06:48.51,0:06:49.76,Main Dialogue,Aoi,0000,0000,0000,,É isso aí!
+Dialogue: 0,0:06:49.76,0:06:52.01,Main Dialogue,Koharu,0000,0000,0000,,Nenhum desses é um ataque físico!
+Dialogue: 0,0:06:52.01,0:06:55.01,Main Dialogue,Hiina,0000,0000,0000,,Ele finaliza com seu melhor golpe, \No "Quem Ladra Não Morde"!
+Dialogue: 0,0:06:55.01,0:06:56.02,Main Dialogue,Aoi,0000,0000,0000,,Acabe com ele!
+Dialogue: 0,0:06:56.02,0:06:57.02,Main Dialogue,Koharu,0000,0000,0000,,Parece fraco!
+Dialogue: 0,0:06:57.02,0:06:59.77,Main Dialogue,Yua,0000,0000,0000,,E se os ataques não funcionarem, ele faz beicinho.
+Dialogue: 0,0:07:00.51,0:07:01.27,Main Dialogue,Aoi,0000,0000,0000,,Aguente firme!
+Dialogue: 0,0:07:01.27,0:07:02.69,Main Dialogue,Koharu,0000,0000,0000,,Quê?! Beicinho?!
+Dialogue: 0,0:07:02.69,0:07:05.09,Main Dialogue,Hiina,0000,0000,0000,,A língua descuidada do vilão \Nrevela informações que
+Dialogue: 0,0:07:05.09,0:07:06.94,Main Dialogue,Hiina,0000,0000,0000,,dão ao nosso herói a chance de vencer!
+Dialogue: 0,0:07:06.94,0:07:07.94,Main Dialogue,Aoi,0000,0000,0000,,Isso!
+Dialogue: 0,0:07:07.94,0:07:09.95,Main Dialogue,Koharu,0000,0000,0000,,Ele vence por causa de um erro do oponente?
+Dialogue: 0,0:07:09.95,0:07:11.95,Main Dialogue,Hiina,0000,0000,0000,,Com o vilão derrotado, ele diz uma última coisa...
+Dialogue: 0,0:07:12.98,0:07:16.61,Main Dialogue,Yua,0000,0000,0000,,"Como dizem, homens mortos não contam histórias."
+Dialogue: 0,0:07:18.00,0:07:18.95,Main Dialogue,Aoi,0000,0000,0000,,Na mosca!
+Dialogue: 0,0:07:18.95,0:07:21.19,Main Dialogue,Koharu,0000,0000,0000,,Ele é o vilão!
+Dialogue: 0,0:07:21.19,0:07:23.00,Main Dialogue,Koharu,0000,0000,0000,,Não tem nada de heroico nele!
+Dialogue: 0,0:07:23.00,0:07:28.16,Main Dialogue,Hiina,0000,0000,0000,,E então, graças ao Homem-Conversa, \Na cidade está a salvo novamente.
+Dialogue: 0,0:07:28.16,0:07:30.47,Main Dialogue,Koharu,0000,0000,0000,,Q-Que tipo de história de super-herói é essa?
+Dialogue: 0,0:07:30.47,0:07:32.01,Main Dialogue,Yua,0000,0000,0000,,Como foi, Aoi?
+Dialogue: 0,0:07:32.01,0:07:34.22,Main Dialogue,Aoi,0000,0000,0000,,Oh, eu perdi o interesse na coisa toda.
+Dialogue: 0,0:07:34.22,0:07:34.82,Main Dialogue,Hiina/Yua,0000,0000,0000,,Certo?
+Dialogue: 0,0:07:34.82,0:07:36.03,Main Dialogue,,0000,0000,0000,,Quê?!
+Dialogue: 0,0:07:37.54,0:07:42.52,Main Dialogue,Koharu,0000,0000,0000,,Ah, não falamos sobre um clube novo hoje.
+Dialogue: 0,0:07:42.52,0:07:44.94,Main Dialogue,Yua,0000,0000,0000,,Não é verdade, Koharun.
+Dialogue: 0,0:07:44.94,0:07:46.88,Main Dialogue,Hiina,0000,0000,0000,,Você vê com frequência animes
+Dialogue: 0,0:07:46.88,0:07:49.94,Main Dialogue,Hiina,0000,0000,0000,,em que eles só se reúnem em \Numa sala e conversam, certo?
+Dialogue: 0,0:07:49.94,0:07:52.72,Main Dialogue,Yua,0000,0000,0000,,É como um clube slice-of-life club deveria ser.
+Dialogue: 0,0:07:52.72,0:07:55.49,Main Dialogue,Koharu,0000,0000,0000,,Oh, falando desse jeito...
+Dialogue: 0,0:07:55.49,0:07:58.98,Main Dialogue,Yua,0000,0000,0000,,Ok. Agora que já tentamos simular \Num clube slice-of-life,
+Dialogue: 0,0:07:58.98,0:08:01.71,Main Dialogue,Yua,0000,0000,0000,,vamos pensar em um "slice-of-life diferente"!
+Dialogue: 0,0:08:02.13,0:08:03.72,Main Dialogue,Yua,0000,0000,0000,,Eu tenho um!
+Dialogue: 0,0:08:03.72,0:08:04.57,Main Dialogue,Aoi,0000,0000,0000,,Você tem um-um?
+Dialogue: 0,0:08:04.57,0:08:05.76,Main Dialogue,Yua,0000,0000,0000,,Eu tenho um-um.
+Dialogue: 0,0:08:05.76,0:08:06.64,Main Dialogue,,0000,0000,0000,,Aí está!
+Dialogue: 0,0:08:07.03,0:08:09.38,Main Dialogue,Yua,0000,0000,0000,,Ok, meu "slice-of-life diferente".
+Dialogue: 0,0:08:10.09,0:08:14.09,Main Dialogue,Yua,0000,0000,0000,,Mesmo sendo um slice-of-life, \Né um slice-of-life dos deuses.
+Dialogue: 0,0:08:14.09,0:08:14.74,Main Dialogue,Hiina,0000,0000,0000,,Deuses?
+Dialogue: 0,0:08:14.74,0:08:15.67,Main Dialogue,Koharu,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:15.15,0:08:16.82,Main Dialogue Top,Koharu,0000,0000,0000,,Ouvi falar de algo assim.
+Dialogue: 0,0:08:15.67,0:08:17.52,Main Dialogue,Yua,0000,0000,0000,,Eu sou um deus.
+Dialogue: 0,0:08:17.52,0:08:19.01,Main Dialogue,Koharu,0000,0000,0000,,Quer dizer que os membros estão mortos?
+Dialogue: 0,0:08:19.01,0:08:21.57,Main Dialogue,Hiina,0000,0000,0000,,Não, não, não, não, não!
+Dialogue: 0,0:08:21.57,0:08:22.62,Main Dialogue,Yua,0000,0000,0000,,Ei!
+Dialogue: 0,0:08:22.62,0:08:23.70,Main Dialogue,,0000,0000,0000,,Não!
+Dialogue: 0,0:08:22.99,0:08:26.02,Main Dialogue Top,Hiina,0000,0000,0000,,Tem uma comédia assim.
+Dialogue: 0,0:08:23.70,0:08:24.60,Main Dialogue,,0000,0000,0000,,Eles são deuses!
+Dialogue: 0,0:08:25.45,0:08:26.85,Main Dialogue,Hiina,0000,0000,0000,,Comédia?
+Dialogue: 0,0:08:26.02,0:08:28.13,Main Dialogue Top,Aoi,0000,0000,0000,,Aquele "você estava aqui?"
+Dialogue: 0,0:08:27.72,0:08:29.58,Main Dialogue,Yua,0000,0000,0000,,"Eles estão mortos?"
+Dialogue: 0,0:08:28.13,0:08:29.58,Main Dialogue Top,Yua,0000,0000,0000,,Certo, certo.
+Dialogue: 0,0:08:30.35,0:08:32.48,Main Dialogue,,0000,0000,0000,,Seria terrível!
+Dialogue: 0,0:08:32.48,0:08:33.66,Main Dialogue,Yua,0000,0000,0000,,Não aguento...
+Dialogue: 0,0:08:33.66,0:08:36.03,Main Dialogue,Hiina,0000,0000,0000,,Ah, eu ia fazer uma imitação, mas...
+Dialogue: 0,0:08:35.10,0:08:37.16,Main Dialogue Top,Koharu,0000,0000,0000,,Oh, é isso que quis dizer!
+Dialogue: 0,0:08:37.16,0:08:38.47,Main Dialogue,Koharu,0000,0000,0000,,Entendi!
+Dialogue: 0,0:08:38.47,0:08:39.52,Main Dialogue,Aoi,0000,0000,0000,,Koharun!
+Dialogue: 0,0:08:39.52,0:08:40.12,Main Dialogue,Yua,0000,0000,0000,,Koharun...
+Dialogue: 0,0:08:40.12,0:08:44.11,Main Dialogue,Koharu,0000,0000,0000,,Desculpa. Você disse "deuses", \Neu pensei que era céu...
+Dialogue: 0,0:08:44.11,0:08:45.04,Main Dialogue,Yua,0000,0000,0000,,Oh, entendi.
+Dialogue: 0,0:08:45.04,0:08:48.00,Main Dialogue,Yua,0000,0000,0000,,Pensei que alguém fosse interromper \Nquando eu disse "eu sou um deus".
+Dialogue: 0,0:08:48.00,0:08:52.48,Main Dialogue,Yua,0000,0000,0000,,Queria que alguém dissesse "eu também", \Nmas você disse "eles estão mortos?"
+Dialogue: 0,0:08:54.51,0:08:55.94,Main Dialogue,Yua,0000,0000,0000,,O que faremos hoje?
+Dialogue: 0,0:08:55.94,0:08:58.60,Main Dialogue,Hiina,0000,0000,0000,,Que tal caça ao tesouro shiritori?
+Dialogue: 0,0:08:58.60,0:08:59.85,Main Dialogue,Aoi,0000,0000,0000,,É diferente!
+Dialogue: 0,0:08:59.85,0:09:01.71,Main Dialogue,Koharu,0000,0000,0000,,Caça ao tesouro shiritori?
+Dialogue: 0,0:09:01.71,0:09:06.01,Main Dialogue,Hiina,0000,0000,0000,,É shiritori, mas você deve trazer \Num objeto de algum lugar da escola.
+Dialogue: 0,0:09:06.01,0:09:07.19,Main Dialogue,Hiina,0000,0000,0000,,É um jogo simples.
+Dialogue: 0,0:09:07.19,0:09:09.83,Main Dialogue,Hiina,0000,0000,0000,,Ok, Yua, começaremos com o "ri" em shiritori.
+Dialogue: 0,0:09:09.83,0:09:10.98,Main Dialogue,Yua,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:09:11.40,0:09:13.85,Main Dialogue,Yua,0000,0000,0000,,Rikashitsu, onde achei essa bangasa.
+Dialogue: 0,0:09:11.40,0:09:13.85,Main Dialogue Top,Yua,0000,0000,0000,,{\i1}Rikashitsu - laboratório\N Bangasa - guarda-chuva de papel{\i0}
+Dialogue: 0,0:09:13.85,0:09:15.57,Main Dialogue,Koharu,0000,0000,0000,,O que isso estava fazendo no laboratório?
+Dialogue: 0,0:09:15.57,0:09:17.07,Main Dialogue,Yua,0000,0000,0000,,Ok! Aoi, "sa"!
+Dialogue: 0,0:09:17.07,0:09:19.49,Main Dialogue,Aoi,0000,0000,0000,,Sa, sa, sa...
+Dialogue: 0,0:09:19.49,0:09:21.94,Main Dialogue,Aoi,0000,0000,0000,,Saado beesu, onde achei \Num mushi embaixo!
+Dialogue: 0,0:09:19.49,0:09:21.94,Main Dialogue Top,Aoi,0000,0000,0000,,{\i1}Saado beesu - terceira base\NMushi - inseto{\i0}
+Dialogue: 0,0:09:22.86,0:09:25.14,Main Dialogue,Koharu,0000,0000,0000,,T-Tem insetos embaixo das bases?
+Dialogue: 0,0:09:25.14,0:09:26.74,Main Dialogue,Aoi,0000,0000,0000,,Hiina-senpai, "shi"!
+Dialogue: 0,0:09:27.19,0:09:28.30,Main Dialogue,Hiina,0000,0000,0000,,Shiranai hito.
+Dialogue: 0,0:09:27.19,0:09:28.30,Main Dialogue Top,Hiina,0000,0000,0000,,{\i1}Shiranai hito - estranho{\i0}
+Dialogue: 0,0:09:28.78,0:09:30.53,Main Dialogue,Koharu,0000,0000,0000,,V-Você não deveria trazer um estranho aqui!
+Dialogue: 0,0:09:30.53,0:09:33.31,Main Dialogue,Koharu,0000,0000,0000,,Poderia ter usado alguém shitteru hito!
+Dialogue: 0,0:09:30.53,0:09:33.31,Main Dialogue Top,Koharu,0000,0000,0000,,{\i1}Shitteru hito - alguém que conhece{\i0}
+Dialogue: 0,0:09:33.31,0:09:35.09,Main Dialogue,Hiina,0000,0000,0000,,Ok, Koharun, "to".
+Dialogue: 0,0:09:35.09,0:09:36.68,Main Dialogue,Koharu,0000,0000,0000,,To, to, to...
+Dialogue: 0,0:09:36.68,0:09:38.50,Main Dialogue,Koharu,0000,0000,0000,,Tojikomerareteta kappuru!
+Dialogue: 0,0:09:36.68,0:09:38.50,Main Dialogue Top,Koharu,0000,0000,0000,,{\i1}Tojikomerareteta kappuru - casal trancado{\i0}
+Dialogue: 0,0:09:38.50,0:09:39.22,Main Dialogue,Aoi,0000,0000,0000,,De novo?!
+Dialogue: 0,0:09:39.22,0:09:40.31,Main Dialogue,Boy,0000,0000,0000,,Você nos salvou!
+Dialogue: 0,0:09:40.31,0:09:41.91,Main Dialogue,Girl,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:09:41.91,0:09:43.61,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai, "ru"!
+Dialogue: 0,0:09:43.61,0:09:45.89,Main Dialogue Top,Yua,0000,0000,0000,,Ruuzu sokkusu - meias frouxas \NKouchou - diretor
+Dialogue: 0,0:09:43.61,0:09:45.89,Main Dialogue,Yua,0000,0000,0000,,Ruuzu sokkusu do nosso kouchou!
+Dialogue: 0,0:09:46.43,0:09:47.67,Main Dialogue,Koharu,0000,0000,0000,,Por que está vestindo isso?
+Dialogue: 0,0:09:47.67,0:09:50.51,Main Dialogue,Principal,0000,0000,0000,,Meu escritório é gelado!
+Dialogue: 0,0:09:50.51,0:09:52.38,Main Dialogue,Yua,0000,0000,0000,,Ok! Aoi, "u"!
+Dialogue: 0,0:09:52.38,0:09:55.72,Main Dialogue Top,Aoi,0000,0000,0000,,{\i1}Ureshisou - feliz{\i0}
+Dialogue: 0,0:09:52.38,0:09:55.72,Main Dialogue,Aoi,0000,0000,0000,,Ureshisou como a pessoa fica \Nao tocar a flauta da Koharun!
+Dialogue: 0,0:09:56.23,0:09:58.41,Main Dialogue,Koharu,0000,0000,0000,,E-Ei! Por que está tocando?
+Dialogue: 0,0:09:58.41,0:09:59.78,Main Dialogue,Yua,0000,0000,0000,,Acontece!
+Dialogue: 0,0:09:59.78,0:10:01.84,Main Dialogue,Koharu,0000,0000,0000,,Ele não é da minha sala!
+Dialogue: 0,0:10:01.84,0:10:03.04,Main Dialogue,Koharu,0000,0000,0000,,Q-Quem é ele?!
+Dialogue: 0,0:10:03.45,0:10:05.62,Main Dialogue,Hiina,0000,0000,0000,,Então é um estranho?
+Dialogue: 0,0:10:05.62,0:10:08.04,Main Dialogue,Yua,0000,0000,0000,,Oh, nós já tivemos um "estranho", não?
+Dialogue: 0,0:10:08.70,0:10:10.34,Main Dialogue,Yua,0000,0000,0000,,Aoi está fora!
+Dialogue: 0,0:10:10.34,0:10:12.25,Main Dialogue,Koharu,0000,0000,0000,,Existe um problema maior agora!
+Dialogue: 0,0:10:12.25,0:10:15.01,Main Dialogue,Koharu,0000,0000,0000,,Até quando vai ficar assim?!
+Dialogue: 0,0:10:58.55,0:11:01.60,Main Dialogue,Yua,0000,0000,0000,,Incrível! Praticamente pronto!
+Dialogue: 0,0:10:58.62,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:58.62,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 11\N{\fs24}Palpite Amoroso
+Dialogue: 0,0:10:58.62,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:11:01.60,0:11:05.09,Main Dialogue,Koharu,0000,0000,0000,,Queria que {\i1}isso{\i0} tivesse ido \Nao ar no episódio 1...

@@ -1,0 +1,285 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H000000B5,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H007C6C5A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0034,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H007C6C5A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H007C6C5A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Mirakurun Sign,Arial,14,&H00000000,&H000000FF,&H0094A7AC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0120,0090,1
+Style: Score Sign 1,Arial,16,&H00E0D4C8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0110,0180,1
+Style: Score Sign 2,Arial,14,&H00E0D4C8,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0020,0180,1
+Style: Rushball Sign,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0095,1
+Style: Family Sign 1,Arial,14,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,0023,0020,0146,1
+Style: Family Sign 2,Arial,14,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0090,0020,0115,1
+Style: Family Sign 3,Arial,14,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0070,0020,0079,1
+Style: Family Sign 4,Arial,14,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0065,0020,0042,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.60,0:00:09.90,Episode Title,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 2\N{\fs22}Amor Inocente
+Dialogue: 0,0:00:08.88,0:00:11.96,Main Dialogue,Koharu,0000,0000,0000,,Então acabei entrando em um clube estranho.
+Dialogue: 0,0:00:11.96,0:00:14.82,Main Dialogue,Friend,0000,0000,0000,,Ah, aquele clube ainda existe?
+Dialogue: 0,0:00:14.82,0:00:16.42,Main Dialogue,Yua,0000,0000,0000,,Onde você senta, Koharun?
+Dialogue: 0,0:00:16.42,0:00:17.82,Main Dialogue,Koharu,0000,0000,0000,,Hã?! Yua-senpai?!
+Dialogue: 0,0:00:17.82,0:00:19.76,Main Dialogue,Koharu,0000,0000,0000,,O que está fazendo em \Numa sala de primeiro ano?
+Dialogue: 0,0:00:19.76,0:00:21.91,Main Dialogue,Koharu,0000,0000,0000,,Hiina-senpai e Aoi-senpai também!
+Dialogue: 0,0:00:21.91,0:00:23.68,Main Dialogue,Aoi,0000,0000,0000,,Esse é seu lugar, Koharun?
+Dialogue: 0,0:00:23.68,0:00:24.75,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:00:24.75,0:00:27.16,Main Dialogue,Koharu,0000,0000,0000,,Minha visão é ruim, então sento na frente.
+Dialogue: 0,0:00:27.16,0:00:29.55,Main Dialogue,Koharu,0000,0000,0000,,Tem algo errado com meu lugar?
+Dialogue: 0,0:00:29.55,0:00:31.97,Main Dialogue,Yua,0000,0000,0000,,Quando vi o primeiro episódio,
+Dialogue: 0,0:00:31.97,0:00:35.06,Main Dialogue,Yua,0000,0000,0000,,suspeitei que você fosse a protagonista.
+Dialogue: 0,0:00:35.06,0:00:35.62,Main Dialogue,,0000,0000,0000,,Hã?!
+Dialogue: 0,0:00:35.62,0:00:38.98,Main Dialogue,Hiina,0000,0000,0000,,Se você é, seu lugar não seria \Nno fundo, ao lado da janela?
+Dialogue: 0,0:00:38.98,0:00:44.48,Main Dialogue,Koharu,0000,0000,0000,,B-Bem, sim, vários protagonistas \Nde anime sentam lá...
+Dialogue: 0,0:00:44.48,0:00:46.90,Main Dialogue,Yua,0000,0000,0000,,Eu estava pensando... \NSe você é a protagonista,
+Dialogue: 0,0:00:46.90,0:00:49.81,Main Dialogue,Yua,0000,0000,0000,,talvez devêssemos parar de nos meter.
+Dialogue: 0,0:00:49.81,0:00:53.10,Main Dialogue,Aoi,0000,0000,0000,,Já te disse, nenhuma de nós é a protagonista.
+Dialogue: 0,0:00:53.10,0:00:55.53,Main Dialogue,Aoi,0000,0000,0000,,Nós quatro somos iguais!
+Dialogue: 0,0:00:55.53,0:00:59.29,Main Dialogue,Hiina,0000,0000,0000,,Os créditos nos listam por ano escolar, \Nentão a Koharun fica por último.
+Dialogue: 0,0:00:59.29,0:01:04.36,Main Dialogue,Yua,0000,0000,0000,,Mas da última vez só escutaram ela.
+Dialogue: 0,0:01:04.36,0:01:05.83,Main Dialogue,Aoi,0000,0000,0000,,Tudo bem, de verdade...
+Dialogue: 0,0:01:05.83,0:01:07.96,Main Dialogue,Aoi,0000,0000,0000,,Não leve isso tão a sério assim.
+Dialogue: 0,0:01:07.96,0:01:10.42,Main Dialogue,Aoi,0000,0000,0000,,Vamos nos divertir e relaxar.
+Dialogue: 0,0:01:10.42,0:01:11.56,Main Dialogue,Yua,0000,0000,0000,,Você está certa.
+Dialogue: 0,0:01:11.56,0:01:12.75,Main Dialogue,Yua,0000,0000,0000,,Desculpa, Koharun.
+Dialogue: 0,0:01:12.75,0:01:14.41,Main Dialogue,Hiina,0000,0000,0000,,Desculpa por te interromper.
+Dialogue: 0,0:01:14.41,0:01:18.18,Main Dialogue,Koharu,0000,0000,0000,,V-Vocês escutam meus pensamentos?
+Dialogue: 0,0:02:16.90,0:02:18.61,Main Dialogue,Yua,0000,0000,0000,,Outro dia lindo, hein?
+Dialogue: 0,0:02:18.61,0:02:19.96,Main Dialogue,Yua,0000,0000,0000,,Tão tranquilo!
+Dialogue: 0,0:02:19.96,0:02:21.34,Main Dialogue,Koharu,0000,0000,0000,,Está mesmo.
+Dialogue: 0,0:02:21.34,0:02:26.08,Main Dialogue,Koharu,0000,0000,0000,,Ah, aliás, o Clube Tesaguri não \Né um clube oficial, né?
+Dialogue: 0,0:02:26.08,0:02:29.72,Main Dialogue,Yua,0000,0000,0000,,Não. Nós mandamos a solicitação todos os anos,
+Dialogue: 0,0:02:29.72,0:02:31.68,Main Dialogue,Yua,0000,0000,0000,,mas ainda não fomos reconhecidas\N como clube oficial.
+Dialogue: 0,0:02:31.68,0:02:35.06,Main Dialogue,Hiina,0000,0000,0000,,Não adianta, já que ainda não \Nestabelecemos o que nosso clube faz.
+Dialogue: 0,0:02:35.06,0:02:39.59,Main Dialogue,Koharu,0000,0000,0000,,Estou impressionada por terem uma sala \Ncomo essa sem ser um clube oficial.
+Dialogue: 0,0:02:39.59,0:02:42.17,Main Dialogue,Yua,0000,0000,0000,,Você não entendeu, Koharun.
+Dialogue: 0,0:02:42.17,0:02:44.07,Main Dialogue,Aoi,0000,0000,0000,,Para esse tipo de coisa
+Dialogue: 0,0:02:44.07,0:02:47.60,Main Dialogue,Aoi,0000,0000,0000,,a escola sempre tem uma sala vazia, né?
+Dialogue: 0,0:02:47.60,0:02:50.10,Main Dialogue,Koharu,0000,0000,0000,,É mesmo, sempre acontece em anime, mas...
+Dialogue: 0,0:02:50.10,0:02:52.60,Main Dialogue,Hiina,0000,0000,0000,,Essa é aquela sala.
+Dialogue: 0,0:02:52.60,0:02:57.15,Main Dialogue,Koharu,0000,0000,0000,,C-Com vestígios de ter sido \Nconvenientemente usada!
+Dialogue: 0,0:02:52.60,0:02:57.86,Mirakurun Sign,Banner,0000,0000,0000,,Mirakurun
+Dialogue: 0,0:02:58.68,0:03:01.96,Main Dialogue,Yua,0000,0000,0000,,Vamos pensar em um novo clube hoje!
+Dialogue: 0,0:03:01.96,0:03:04.27,Main Dialogue,Aoi,0000,0000,0000,,Vamos começar com clubes \Nque já existem de novo?
+Dialogue: 0,0:03:04.27,0:03:05.08,Main Dialogue,Yua,0000,0000,0000,,Sim, vamos lá.
+Dialogue: 0,0:03:05.08,0:03:06.97,Main Dialogue,Hiina,0000,0000,0000,,Então pode ser o clube de futebol.
+Dialogue: 0,0:03:06.97,0:03:08.07,Main Dialogue,Yua,0000,0000,0000,,É um bom!
+Dialogue: 0,0:03:08.07,0:03:10.54,Main Dialogue,Yua,0000,0000,0000,,Qual é a noção que vocês têm do time de futebol?
+Dialogue: 0,0:03:10.54,0:03:11.62,Main Dialogue,Aoi,0000,0000,0000,,Galãs!
+Dialogue: 0,0:03:12.54,0:03:15.63,Main Dialogue,Yua,0000,0000,0000,,Bem, eles são o clube esportivo mais estiloso.
+Dialogue: 0,0:03:15.63,0:03:19.72,Main Dialogue,Hiina,0000,0000,0000,,Quando eles tiram uma foto em grupo, \Nsempre estão se abraçando.
+Dialogue: 0,0:03:19.72,0:03:21.13,Main Dialogue,Yua,0000,0000,0000,,Todos em pé juntos, certo?
+Dialogue: 0,0:03:21.13,0:03:25.18,Main Dialogue,Aoi,0000,0000,0000,,E depois dos treinos eles fazem \Nmuito barulho com as chuteiras!
+Dialogue: 0,0:03:25.18,0:03:26.87,Main Dialogue,Yua,0000,0000,0000,,Ah, é, as travas!
+Dialogue: 0,0:03:26.87,0:03:30.16,Main Dialogue,Aoi,0000,0000,0000,,São super barulhentos quando passam do seu lado!
+Dialogue: 0,0:03:30.16,0:03:31.64,Main Dialogue,Koharu,0000,0000,0000,,É verdade.
+Dialogue: 0,0:03:31.64,0:03:34.89,Main Dialogue,Yua,0000,0000,0000,,Quando estão carregando o gol, \Nsempre tem uma parte
+Dialogue: 0,0:03:34.89,0:03:36.11,Main Dialogue,Yua,0000,0000,0000,,que te faz pensar que "não é pesado!"
+Dialogue: 0,0:03:36.11,0:03:38.61,Main Dialogue,Hiina,0000,0000,0000,,Uma parte que não é nem no fim, nem no meio.
+Dialogue: 0,0:03:38.61,0:03:40.57,Main Dialogue,Aoi,0000,0000,0000,,Nem faz sentido segurar aquela parte.
+Dialogue: 0,0:03:40.57,0:03:43.92,Main Dialogue,Koharu,0000,0000,0000,,Hm, sempre tem alguém muito \Nanimado quando está ventando,
+Dialogue: 0,0:03:43.92,0:03:45.99,Main Dialogue,Koharu,0000,0000,0000,,porque quando chutam a bola, ela faz curva!
+Dialogue: 0,0:03:45.99,0:03:47.29,Main Dialogue,Yua,0000,0000,0000,,Sim!
+Dialogue: 0,0:03:47.29,0:03:49.58,Main Dialogue,Yua,0000,0000,0000,,Tenho certeza que a bola gira \Nmuito mais que o normal.
+Dialogue: 0,0:03:49.58,0:03:53.90,Main Dialogue,Hiina,0000,0000,0000,,E durante as partidas o goleiro fica furioso \Nquando o outro time ganha pênalti,
+Dialogue: 0,0:03:53.90,0:03:55.83,Main Dialogue,Hiina,0000,0000,0000,,e o time não segue suas instruções.
+Dialogue: 0,0:03:55.83,0:03:57.09,Main Dialogue,Yua,0000,0000,0000,,É verdade.
+Dialogue: 0,0:03:57.09,0:03:58.44,Main Dialogue,Aoi,0000,0000,0000,,Ele grita o mais alto possível.
+Dialogue: 0,0:03:58.44,0:04:01.55,Main Dialogue,Koharu,0000,0000,0000,,Os jogadores ficam sem ar de tanto correr,
+Dialogue: 0,0:04:01.55,0:04:04.59,Main Dialogue,Koharu,0000,0000,0000,,mas o goleiro ainda tem energia, \Nentão fica com um humor diferente.
+Dialogue: 0,0:04:04.59,0:04:06.26,Main Dialogue,Yua,0000,0000,0000,,Faz sentido.
+Dialogue: 0,0:04:06.26,0:04:08.86,Main Dialogue,Yua,0000,0000,0000,,E em mangá e anime?
+Dialogue: 0,0:04:08.86,0:04:10.12,Main Dialogue,Yua,0000,0000,0000,,Vocês têm alguma ideia?
+Dialogue: 0,0:04:10.12,0:04:12.76,Main Dialogue,Aoi,0000,0000,0000,,Todos falam muito, mesmo durante as partidas.
+Dialogue: 0,0:04:12.76,0:04:15.78,Main Dialogue,Yua,0000,0000,0000,,É mesmo. Isso não acontece na vida real.
+Dialogue: 0,0:04:15.78,0:04:19.89,Main Dialogue,Koharu,0000,0000,0000,,Geralmente o time do protagonista \Né cheio de jogadores ruins.
+Dialogue: 0,0:04:19.89,0:04:22.20,Main Dialogue,Aoi,0000,0000,0000,,Certo. E se eles perdem, precisam se separar.
+Dialogue: 0,0:04:22.20,0:04:23.57,Main Dialogue,Yua,0000,0000,0000,,Praticamente garantido!
+Dialogue: 0,0:04:23.57,0:04:27.07,Main Dialogue,Hiina,0000,0000,0000,,O goleiro do time do protagonista é ruim.
+Dialogue: 0,0:04:27.07,0:04:28.18,Main Dialogue,Aoi,0000,0000,0000,,Sempre é!
+Dialogue: 0,0:04:28.18,0:04:31.93,Main Dialogue,Koharu,0000,0000,0000,,Mesmo assim ele é selecionado para o nacional \Npor ser goleiro do time vencedor.
+Dialogue: 0,0:04:31.93,0:04:33.46,Main Dialogue,Yua,0000,0000,0000,,É verdade!
+Dialogue: 0,0:04:33.46,0:04:35.56,Main Dialogue,Yua,0000,0000,0000,,E mesmo nos torneios locais
+Dialogue: 0,0:04:35.56,0:04:38.09,Main Dialogue,Yua,0000,0000,0000,,as arquibancadas estão sempre lotadas.
+Dialogue: 0,0:04:38.09,0:04:40.43,Main Dialogue,Hiina,0000,0000,0000,,E eles têm comentaristas narrando cada jogada.
+Dialogue: 0,0:04:40.43,0:04:42.43,Main Dialogue,Aoi,0000,0000,0000,,Isso nunca aconteceria de verdade!
+Dialogue: 0,0:04:42.43,0:04:46.06,Main Dialogue,Hiina,0000,0000,0000,,E não importa quanto tempo livre \No protagonista tenha,
+Dialogue: 0,0:04:46.06,0:04:49.31,Main Dialogue,Hiina,0000,0000,0000,,ele só consegue ver o final do jogo \Ndo próximo time adversário.
+Dialogue: 0,0:04:49.31,0:04:51.60,Main Dialogue,Yua,0000,0000,0000,,É, eu vejo muitas cenas assim!
+Dialogue: 0,0:04:51.60,0:04:54.07,Main Dialogue,Hiina,0000,0000,0000,,Ele diz, "por que o placar está tão desigual?"
+Dialogue: 0,0:04:51.60,0:04:57.15,Score Sign 2,Sign,0000,0000,0000,,Tsuyosugi    Shizugane \NAcademy               High
+Dialogue: 0,0:04:54.07,0:04:57.15,Main Dialogue,Hiina,0000,0000,0000,,Mas ele nunca descobre o motivo \Naté jogar contra eles.
+Dialogue: 0,0:04:57.15,0:05:01.81,Main Dialogue,Koharu,0000,0000,0000,,E o time que perdeu diz para o time do protagonista
+Dialogue: 0,0:05:01.81,0:05:05.19,Main Dialogue,Koharu,0000,0000,0000,,algo tipo, "ganhem essa!" antes da partida.
+Dialogue: 0,0:05:05.19,0:05:07.07,Main Dialogue,Aoi,0000,0000,0000,,Eles sempre falam!
+Dialogue: 0,0:05:07.07,0:05:10.81,Main Dialogue,Yua,0000,0000,0000,,Certo, agora que compartilhamos \No que sabemos de times de futebol,
+Dialogue: 0,0:05:10.81,0:05:13.37,Main Dialogue,Yua,0000,0000,0000,,vamos tentar criar um "time de futebol diferente"!
+Dialogue: 0,0:05:14.08,0:05:16.32,Main Dialogue,Yua,0000,0000,0000,,Ok, quem quer começar?
+Dialogue: 0,0:05:16.32,0:05:18.70,Main Dialogue,Girl,0000,0000,0000,,Você deveria ir primeiro, Senpai.
+Dialogue: 0,0:05:18.70,0:05:19.88,Main Dialogue,Girl,0000,0000,0000,,Ótimo.
+Dialogue: 0,0:05:19.12,0:05:19.88,Main Dialogue,Girl,0000,0000,0000,,{\a6}Por favor.
+Dialogue: 0,0:05:19.88,0:05:21.09,Main Dialogue,Yua,0000,0000,0000,,Um "time de futebol diferente"!
+Dialogue: 0,0:05:21.80,0:05:24.04,Main Dialogue,Hiina,0000,0000,0000,,A bebida dos jogadores
+Dialogue: 0,0:05:24.04,0:05:25.63,Main Dialogue,Hiina,0000,0000,0000,,é tão boa que ninguém consegue jogar.
+Dialogue: 0,0:05:28.36,0:05:29.17,Main Dialogue,,0000,0000,0000,,Hã?
+Dialogue: 0,0:05:29.17,0:05:30.00,Main Dialogue,Yua,0000,0000,0000,,Que gosto?
+Dialogue: 0,0:05:30.00,0:05:35.26,Main Dialogue,Hiina,0000,0000,0000,,O gosto é tão bom que parece de outro mundo.
+Dialogue: 0,0:05:35.26,0:05:37.62,Main Dialogue,Hiina,0000,0000,0000,,Todos querem só mais um pouco,
+Dialogue: 0,0:05:37.62,0:05:40.82,Main Dialogue,Hiina,0000,0000,0000,,então o jogo fica pausando e \Nos jogadores saem do campo...
+Dialogue: 0,0:05:40.82,0:05:41.98,Main Dialogue,Yua,0000,0000,0000,,"Tempo, tempo."
+Dialogue: 0,0:05:41.98,0:05:43.87,Main Dialogue,Hiina,0000,0000,0000,,É, eles falam "Tempo! Tempo!".
+Dialogue: 0,0:05:43.87,0:05:45.65,Main Dialogue,Koharu,0000,0000,0000,,Uma bebida assim seria proibida!
+Dialogue: 0,0:05:48.16,0:05:49.20,Main Dialogue,Yua,0000,0000,0000,,É diferente.
+Dialogue: 0,0:05:49.20,0:05:50.27,Main Dialogue,Hiina,0000,0000,0000,,É novo, certo?
+Dialogue: 0,0:05:49.64,0:05:50.27,Main Dialogue,Hiina,0000,0000,0000,,{\a6}Sim.
+Dialogue: 0,0:05:50.27,0:05:51.06,Main Dialogue,Aoi,0000,0000,0000,,É muito legal.
+Dialogue: 0,0:05:51.06,0:05:51.59,Main Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:05:51.59,0:05:53.21,Main Dialogue,Yua,0000,0000,0000,,Ok, quem é a próxima?
+Dialogue: 0,0:05:53.21,0:05:54.16,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:05:54.16,0:05:56.58,Main Dialogue,Yua,0000,0000,0000,,Ok, o "time de futebol diferente" da Aoi!
+Dialogue: 0,0:05:56.94,0:05:59.53,Main Dialogue,Aoi,0000,0000,0000,,O goleiro fica atendendo o celular.
+Dialogue: 0,0:06:00.08,0:06:01.06,Main Dialogue,Yua,0000,0000,0000,,Como assim?
+Dialogue: 0,0:06:01.06,0:06:02.45,Main Dialogue,Hiina,0000,0000,0000,,Quê? Durante a partida?
+Dialogue: 0,0:06:02.45,0:06:05.71,Main Dialogue,Aoi,0000,0000,0000,,Sim, durante as partidas. Ele deixa no bolso...
+Dialogue: 0,0:06:05.71,0:06:06.40,Main Dialogue,Koharu,0000,0000,0000,,Certo.
+Dialogue: 0,0:06:06.40,0:06:08.99,Main Dialogue,Aoi,0000,0000,0000,,E quando toca, ele diz "Alô? Sou eu".
+Dialogue: 0,0:06:08.99,0:06:10.59,Main Dialogue,Aoi,0000,0000,0000,,E seus amigos perguntam "o que está fazendo?"
+Dialogue: 0,0:06:10.59,0:06:13.50,Main Dialogue,Aoi,0000,0000,0000,,e ele se gaba, "estou no meio de uma partida".
+Dialogue: 0,0:06:13.50,0:06:16.22,Main Dialogue,Koharu,0000,0000,0000,,Não sei porque ele se mostraria com isso!
+Dialogue: 0,0:06:16.22,0:06:17.66,Main Dialogue,Aoi,0000,0000,0000,,Ele fica se exibindo na partida.
+Dialogue: 0,0:06:17.66,0:06:20.28,Main Dialogue,Yua,0000,0000,0000,,Atende o celular na única hora que não deveria.
+Dialogue: 0,0:06:20.28,0:06:20.68,Main Dialogue,Aoi,0000,0000,0000,,Certo.
+Dialogue: 0,0:06:20.68,0:06:22.52,Main Dialogue,Koharu,0000,0000,0000,,Mas iria depender de quem está ligando, né?
+Dialogue: 0,0:06:22.52,0:06:26.67,Main Dialogue,Aoi,0000,0000,0000,,Sim. Se é a mãe dele, talvez \Nele fale... "ah, cale a boca!"
+Dialogue: 0,0:06:26.67,0:06:28.29,Main Dialogue,Yua,0000,0000,0000,,Então ele está naquela época rebelde.
+Dialogue: 0,0:06:27.60,0:06:29.72,Main Dialogue,Aoi,0000,0000,0000,,{\a6}Sim, ele é rebelde.
+Dialogue: 0,0:06:29.72,0:06:32.47,Main Dialogue,Aoi,0000,0000,0000,,Então ele dá várias respostas, \Ndependendo de quem ligou.
+Dialogue: 0,0:06:32.47,0:06:33.46,Main Dialogue,Aoi,0000,0000,0000,,Ok, vamos para a próxima.
+Dialogue: 0,0:06:33.46,0:06:34.48,Main Dialogue,Yua,0000,0000,0000,,Eu!
+Dialogue: 0,0:06:34.48,0:06:35.59,Main Dialogue,Aoi,0000,0000,0000,,Vá em frente.
+Dialogue: 0,0:06:36.19,0:06:38.07,Main Dialogue,Yua,0000,0000,0000,,Ok, meu "time de futebol diferente".
+Dialogue: 0,0:06:39.08,0:06:42.58,Main Dialogue,Yua,0000,0000,0000,,O gol vai em direção da bola.
+Dialogue: 0,0:06:42.58,0:06:44.45,Main Dialogue,Koharu,0000,0000,0000,,O gol se movimenta?
+Dialogue: 0,0:06:46.16,0:06:47.77,Main Dialogue,Hiina,0000,0000,0000,,Como assim, Yua?
+Dialogue: 0,0:06:48.99,0:06:51.02,Main Dialogue,Yua,0000,0000,0000,,A bola e o gol trocam os papéis.
+Dialogue: 0,0:06:51.02,0:06:53.34,Main Dialogue,Yua,0000,0000,0000,,Basicamente, você não moveria a bola.
+Dialogue: 0,0:06:53.34,0:06:55.53,Main Dialogue,Yua,0000,0000,0000,,Quando eles gritassem "comecem!"
+Dialogue: 0,0:06:55.53,0:06:58.14,Main Dialogue,Yua,0000,0000,0000,,todos correriam para seu próprio gol,
+Dialogue: 0,0:06:58.14,0:07:00.60,Main Dialogue,Yua,0000,0000,0000,,o carregariam...
+Dialogue: 0,0:07:00.60,0:07:02.62,Main Dialogue,Aoi,0000,0000,0000,,Isso não é só um dia normal de esportes na escola?
+Dialogue: 0,0:07:02.62,0:07:04.36,Main Dialogue,Koharu,0000,0000,0000,,Não é futebol!
+Dialogue: 0,0:07:04.85,0:07:06.43,Main Dialogue,Aoi,0000,0000,0000,,Não pode chamar de futebol.
+Dialogue: 0,0:07:06.43,0:07:07.19,Main Dialogue,Yua,0000,0000,0000,,Bem observado.
+Dialogue: 0,0:07:07.51,0:07:08.88,Main Dialogue,Aoi,0000,0000,0000,,"Ataque a bola."
+Dialogue: 0,0:07:09.31,0:07:11.07,Main Dialogue,Hiina,0000,0000,0000,,Talvez chamassem de "ataque".
+Dialogue: 0,0:07:10.02,0:07:11.07,Rushball Sign,Sign,0000,0000,0000,,Ataque
+Dialogue: 0,0:07:12.83,0:07:14.10,Main Dialogue,Yua,0000,0000,0000,,Incrível!
+Dialogue: 0,0:07:14.55,0:07:15.74,Main Dialogue,Yua,0000,0000,0000,,Essa é nossa Hiina.
+Dialogue: 0,0:07:15.74,0:07:17.04,Main Dialogue,Koharu,0000,0000,0000,,Você é um gênio.
+Dialogue: 0,0:07:15.98,0:07:17.04,Main Dialogue,Aoi,0000,0000,0000,,{\a6}Sim!
+Dialogue: 0,0:07:17.59,0:07:18.54,Main Dialogue,Aoi,0000,0000,0000,,É novo.
+Dialogue: 0,0:07:18.54,0:07:19.05,Main Dialogue,Yua,0000,0000,0000,,É.
+Dialogue: 0,0:07:19.05,0:07:20.19,Main Dialogue,Yua,0000,0000,0000,,Mais alguém?
+Dialogue: 0,0:07:20.19,0:07:20.79,Main Dialogue,Koharu,0000,0000,0000,,Eu!
+Dialogue: 0,0:07:20.79,0:07:22.68,Main Dialogue,Yua,0000,0000,0000,,Ok... uh... quem é você?
+Dialogue: 0,0:07:22.68,0:07:24.31,Main Dialogue,Yua,0000,0000,0000,,Você é Koharun!
+Dialogue: 0,0:07:24.79,0:07:26.09,Main Dialogue,Koharu,0000,0000,0000,,Ei! Que horrível!
+Dialogue: 0,0:07:26.09,0:07:27.38,Main Dialogue,Hiina,0000,0000,0000,,{\a6}Desculpa!
+Dialogue: 0,0:07:26.09,0:07:28.66,Main Dialogue,Hiina,0000,0000,0000,,Hiina? Oh, sou Hiina...
+Dialogue: 0,0:07:28.66,0:07:29.46,Main Dialogue,Yua,0000,0000,0000,,Hã?!
+Dialogue: 0,0:07:29.46,0:07:30.47,Main Dialogue,Koharu,0000,0000,0000,,Hiina-senpai!
+Dialogue: 0,0:07:30.09,0:07:32.42,Main Dialogue,Aoi,0000,0000,0000,,{\a6}Koharun! Koharun! É Koharun!
+Dialogue: 0,0:07:31.94,0:07:32.90,Main Dialogue,Yua,0000,0000,0000,,Você é Koharun.
+Dialogue: 0,0:07:32.90,0:07:33.27,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:33.27,0:07:35.10,Main Dialogue,Yua,0000,0000,0000,,"Time de futebol diferente" da Koharun!
+Dialogue: 0,0:07:35.80,0:07:38.60,Main Dialogue,Koharu,0000,0000,0000,,Alguém está sempre cavando um buraco.
+Dialogue: 0,0:07:39.36,0:07:40.42,Main Dialogue,Hiina,0000,0000,0000,,Um buraco?
+Dialogue: 0,0:07:40.42,0:07:44.64,Main Dialogue,Koharu,0000,0000,0000,,Eles têm uma nova posição no jogo. O cavador.
+Dialogue: 0,0:07:44.64,0:07:48.19,Main Dialogue,Koharu,0000,0000,0000,,E quando a partida acaba, eles têm \Nque encher o buraco de volta.
+Dialogue: 0,0:07:48.19,0:07:49.43,Main Dialogue,Yua,0000,0000,0000,,Como assim?
+Dialogue: 0,0:07:48.99,0:07:50.14,Main Dialogue,Aoi,0000,0000,0000,,{\a6}É meio chato.
+Dialogue: 0,0:07:50.14,0:07:51.07,Main Dialogue,Hiina,0000,0000,0000,,É.
+Dialogue: 0,0:07:51.07,0:07:52.33,Main Dialogue,Koharu,0000,0000,0000,,Se alguém cai no buraco,
+Dialogue: 0,0:07:52.33,0:07:54.95,Main Dialogue,Koharu,0000,0000,0000,,fica no banco por um tempo.
+Dialogue: 0,0:07:54.95,0:07:57.26,Main Dialogue,Aoi,0000,0000,0000,,Acho que iriam se machucar.
+Dialogue: 0,0:07:56.38,0:07:57.26,Main Dialogue,Hiina,0000,0000,0000,,{\a6}É verdade.
+Dialogue: 0,0:07:57.26,0:07:58.38,Main Dialogue,Yua,0000,0000,0000,,Torceriam tornozelos.
+Dialogue: 0,0:07:58.38,0:08:00.94,Main Dialogue,Hiina,0000,0000,0000,,Seria horrível se a carreira \Nde alguém acabasse assim.
+Dialogue: 0,0:08:00.94,0:08:01.93,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:01.34,0:08:01.93,Main Dialogue,Koharu,0000,0000,0000,,{\a6}É mesmo.
+Dialogue: 0,0:08:01.93,0:08:06.82,Main Dialogue,Koharu,0000,0000,0000,,Tudo dependeria de suas habilidade.
+Dialogue: 0,0:08:06.70,0:08:07.63,Main Dialogue,,0000,0000,0000,,{\a6}Entendi.
+Dialogue: 0,0:08:06.82,0:08:09.09,Main Dialogue,Yua,0000,0000,0000,,Eles precisariam ser muito bons.
+Dialogue: 0,0:08:09.09,0:08:10.59,Main Dialogue,Koharu,0000,0000,0000,,Tentariam ser o melhor.
+Dialogue: 0,0:08:11.48,0:08:13.40,Main Dialogue,Aoi,0000,0000,0000,,Parece que acabou de dizer algo legal, \Nmas não disse.
+Dialogue: 0,0:08:13.40,0:08:14.20,Main Dialogue,Koharu,0000,0000,0000,,Não?
+Dialogue: 0,0:08:14.20,0:08:14.91,Main Dialogue,Aoi,0000,0000,0000,,Não.
+Dialogue: 0,0:08:15.82,0:08:17.94,Main Dialogue,Yua,0000,0000,0000,,Aoi... está certa.
+Dialogue: 0,0:08:17.94,0:08:18.83,Main Dialogue,Aoi,0000,0000,0000,,Ding-ding!
+Dialogue: 0,0:08:18.83,0:08:20.06,Main Dialogue,Yua,0000,0000,0000,,Isso é novidade.
+Dialogue: 0,0:08:21.08,0:08:23.43,Main Dialogue,Hiina,0000,0000,0000,,O grupo Mobuko-chan veio nos ajudar de novo.
+Dialogue: 0,0:08:23.43,0:08:24.94,Main Dialogue,Yua,0000,0000,0000,,Obrigada por nos ajudar.
+Dialogue: 0,0:08:24.94,0:08:26.90,Main Dialogue,Mobuko,0000,0000,0000,,Não se preocupe. Não temos mais nada para fazer.
+Dialogue: 0,0:08:26.90,0:08:30.01,Main Dialogue,Koharu,0000,0000,0000,,Por que existem várias cópias \Nda mesma Mobuko-san?
+Dialogue: 0,0:08:30.01,0:08:32.15,Main Dialogue,Aoi,0000,0000,0000,,Você não sabe, Koharun?
+Dialogue: 0,0:08:32.15,0:08:35.21,Main Dialogue,Yua,0000,0000,0000,,Pensando bem, nós não fizemos \Numa apresentação adequada.
+Dialogue: 0,0:08:35.21,0:08:37.65,Main Dialogue,Yua,0000,0000,0000,,Esta é Mobuko-chan, que sempre nos ajuda.
+Dialogue: 0,0:08:37.65,0:08:40.93,Main Dialogue,Mobuko,0000,0000,0000,,Eu sou Sonota Mobuko, do terceiro ano. \NEssas são minhas irmãs.
+Dialogue: 0,0:08:40.93,0:08:42.20,Main Dialogue,Sisters,0000,0000,0000,,Prazer em conhecê-la.
+Dialogue: 0,0:08:43.26,0:08:45.32,Main Dialogue,Koharu,0000,0000,0000,,V-Vocês são irmãs?
+Dialogue: 0,0:08:45.32,0:08:48.72,Main Dialogue Top,Mobuko,0000,0000,0000,,Somos três grupos de sêxtuplas, \Nnascidas com um ano de diferença.
+Dialogue: 0,0:08:46.89,0:08:49.67,Family Sign 1,Sign,0000,0000,0000,,Pais
+Dialogue: 0,0:08:46.89,0:08:49.67,Family Sign 2,Sign,0000,0000,0000,,Terceiro ano
+Dialogue: 0,0:08:46.89,0:08:49.67,Family Sign 3,Sign,0000,0000,0000,,Segundo ano
+Dialogue: 0,0:08:46.89,0:08:49.67,Family Sign 4,Sign,0000,0000,0000,,Primeiro ano
+Dialogue: 0,0:08:49.67,0:08:51.77,Main Dialogue,Hiina,0000,0000,0000,,Yua, o que vai fazer hoje?
+Dialogue: 0,0:08:51.77,0:08:54.86,Main Dialogue,Yua,0000,0000,0000,,Pensei em um jogo de futebol mais elegante.
+Dialogue: 0,0:08:54.86,0:08:55.75,Main Dialogue,Koharu,0000,0000,0000,,Elegante?
+Dialogue: 0,0:08:55.75,0:08:59.81,Main Dialogue,Yua,0000,0000,0000,,Que tal fazer versos quando a bola for para você?
+Dialogue: 0,0:08:59.81,0:09:01.33,Main Dialogue,Aoi,0000,0000,0000,,É novo!
+Dialogue: 0,0:09:01.33,0:09:02.47,Main Dialogue,Koharu,0000,0000,0000,,O que é isso?!
+Dialogue: 0,0:09:02.47,0:09:04.69,Main Dialogue,Yua,0000,0000,0000,,Certo, vamos tentar!
+Dialogue: 0,0:09:06.41,0:09:10.57,Italics Dialogue,Yua,0000,0000,0000,,E começa! Pensem no nacional, \Nno grande estádio!
+Dialogue: 0,0:09:11.57,0:09:15.99,Italics Dialogue,Hiina,0000,0000,0000,,Se empolgou e avançou, chutando fora.
+Dialogue: 0,0:09:16.96,0:09:21.38,Italics Dialogue,Koharu,0000,0000,0000,,Eu sempre quis vestir a camisa 10—
+Dialogue: 0,0:09:22.26,0:09:25.87,Italics Dialogue,Mob,0000,0000,0000,,Se fizer um passe, os sinos do \Ntemplo Horyu-ji tocarão!
+Dialogue: 0,0:09:25.87,0:09:27.13,Main Dialogue,Koharu,0000,0000,0000,,Templo Horyu-ji?
+Dialogue: 0,0:09:28.35,0:09:33.17,Italics Dialogue,Koharu,0000,0000,0000,,Correndo atrás da bola e chutando, \Nisso é futebol?
+Dialogue: 0,0:09:33.85,0:09:35.17,Main Dialogue,Judge,0000,0000,0000,,Muitas sílabas!
+Dialogue: 0,0:09:35.44,0:09:36.48,Main Dialogue,Koharu,0000,0000,0000,,Mas Horyu-ji foi bom?
+Dialogue: 0,0:09:36.48,0:09:38.11,Main Dialogue,Yua,0000,0000,0000,,Credo, Koharu!
+Dialogue: 0,0:09:38.11,0:09:42.73,Italics Dialogue,Mob,0000,0000,0000,,Não há marcação em mim! \NO carro segue para o Templo Horyu-ji!
+Dialogue: 0,0:09:44.18,0:09:48.80,Italics Dialogue,Aoi,0000,0000,0000,,A bola voa até mim... Peguei, ótimo. \NMas... Nada me ocorre!
+Dialogue: 0,0:09:50.84,0:09:52.37,Main Dialogue,Yua,0000,0000,0000,,Aoi!
+Dialogue: 0,0:09:52.37,0:09:55.95,Main Dialogue,Koharu,0000,0000,0000,,Pelo menos o goleiro não deveria fazer versos!
+Dialogue: 0,0:09:56.99,0:10:02.89,Italics Dialogue,Koharu,0000,0000,0000,,Quando comecei o ensino médio, \Nesperava entrar em um clube diferente,
+Dialogue: 0,0:10:02.89,0:10:08.32,Italics Dialogue,Koharu,0000,0000,0000,,mas nunca sonhei que faria coisas \Nestranhas assim, todos os dias.
+Dialogue: 0,0:10:08.32,0:10:10.65,Main Dialogue,Yua,0000,0000,0000,,Pode ser estranho, mas é divertido, \Nentão qual o problema?
+Dialogue: 0,0:10:10.65,0:10:12.74,Main Dialogue,Koharu,0000,0000,0000,,Então vocês {\i1}podem{\i0} ler meus pensamentos!
+Dialogue: 0,0:10:57.30,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:57.30,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 3\N{\fs24}Imprevisível
+Dialogue: 0,0:10:57.30,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:58.35,0:11:00.19,Main Dialogue,Yua,0000,0000,0000,,Certo, algo assim.
+Dialogue: 0,0:11:00.19,0:11:03.24,Main Dialogue,Koharu,0000,0000,0000,,Hã?! Nem foi uma dança boa de verdade!

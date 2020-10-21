@@ -1,0 +1,296 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H008D3EBB,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0025,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Bystander Sign,Arial,15,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0010,0020,0160,1
+Style: KamiteShimote,Arial,15,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0360,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:02.28,0:01:06.76,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Episódio 9\N{\fs24}Timidez
+Dialogue: 0,0:01:02.75,0:01:04.29,Main Dialogue,Aoi,0000,0000,0000,,Que clube faremos hoje?
+Dialogue: 0,0:01:04.29,0:01:06.15,Main Dialogue,Hiina,0000,0000,0000,,Que tal o clube de teatro?
+Dialogue: 0,0:01:06.15,0:01:07.30,Main Dialogue,Yua,0000,0000,0000,,Clube de teatro, é?
+Dialogue: 0,0:01:07.30,0:01:08.79,Main Dialogue,Yua,0000,0000,0000,,Que imagem vocês têm deles?
+Dialogue: 0,0:01:08.79,0:01:09.79,Main Dialogue,Aoi,0000,0000,0000,,Fanáticos!
+Dialogue: 0,0:01:09.79,0:01:13.54,Main Dialogue,Yua,0000,0000,0000,,Sim, parece ter vários membros estranhos.
+Dialogue: 0,0:01:13.54,0:01:16.08,Main Dialogue,Aoi,0000,0000,0000,,Eles são comuns e não se destacam na sala,
+Dialogue: 0,0:01:16.08,0:01:18.05,Main Dialogue,Aoi,0000,0000,0000,,mas coloque-os em um palco e eles brilham.
+Dialogue: 0,0:01:18.05,0:01:20.13,Main Dialogue,Aoi,0000,0000,0000,,Que diferença é essa?
+Dialogue: 0,0:01:20.13,0:01:24.64,Main Dialogue,Hiina,0000,0000,0000,,Dizem que os atletas sempre falam \N"você é de teatro? Então diga uma fala!"
+Dialogue: 0,0:01:24.64,0:01:27.17,Main Dialogue,Hiina,0000,0000,0000,,Como se fosse uma regra.
+Dialogue: 0,0:01:27.17,0:01:28.82,Main Dialogue,Yua,0000,0000,0000,,Que chato!
+Dialogue: 0,0:01:28.82,0:01:31.78,Main Dialogue,Yua,0000,0000,0000,,E quando dizem, o atleta não entende a referência.
+Dialogue: 0,0:01:31.78,0:01:34.28,Main Dialogue,Hiina,0000,0000,0000,,Já que atores têm vozes boas,
+Dialogue: 0,0:01:34.28,0:01:36.28,Main Dialogue,Hiina,0000,0000,0000,,parece que vários são bons com imitações.
+Dialogue: 0,0:01:36.28,0:01:38.98,Main Dialogue,Koharu,0000,0000,0000,,Minha amiga do teatro disse que ficava surpresa
+Dialogue: 0,0:01:38.98,0:01:41.78,Main Dialogue,Koharu,0000,0000,0000,,de como as imitações do senpai são boas.
+Dialogue: 0,0:01:41.78,0:01:42.95,Main Dialogue,,0000,0000,0000,,Sério?
+Dialogue: 0,0:01:42.95,0:01:45.55,Main Dialogue,Yua,0000,0000,0000,,Então atletas deveriam dizer
+Dialogue: 0,0:01:45.55,0:01:49.99,Main Dialogue,Yua,0000,0000,0000,,"Você é bom com imitações, né? Mostre uma.", \Nno lugar das falas.
+Dialogue: 0,0:01:50.68,0:01:52.85,Main Dialogue,Yua,0000,0000,0000,,Eles reagiriam mais facilmente...
+Dialogue: 0,0:01:52.85,0:01:53.84,Main Dialogue,Yua,0000,0000,0000,,Os dois lados ganham, né?
+Dialogue: 0,0:01:53.84,0:01:54.80,Main Dialogue,Aoi,0000,0000,0000,,Os dois!
+Dialogue: 0,0:01:54.80,0:01:59.51,Main Dialogue,Koharu,0000,0000,0000,,Não, Yua-senpai! Seria pior ainda pedir isso!
+Dialogue: 0,0:01:59.51,0:02:00.37,Main Dialogue,Yua,0000,0000,0000,,Seria?
+Dialogue: 0,0:02:00.37,0:02:04.16,Main Dialogue,Koharu,0000,0000,0000,,Isso me lembra que fiquei surpresa \Nquando minha amiga disse
+Dialogue: 0,0:02:04.16,0:02:07.05,Main Dialogue,Koharu,0000,0000,0000,,que existe um torneio nacional\N de clubes de teatro.
+Dialogue: 0,0:02:07.05,0:02:10.52,Main Dialogue,Yua,0000,0000,0000,,Oh, já ouvi falar disso, mas como é?
+Dialogue: 0,0:02:10.52,0:02:12.44,Main Dialogue,Aoi,0000,0000,0000,,Dois clubes se apresentam ao mesmo tempo
+Dialogue: 0,0:02:12.44,0:02:14.31,Main Dialogue,Aoi,0000,0000,0000,,e o que terminar primeiro, vence!
+Dialogue: 0,0:02:14.31,0:02:16.03,Main Dialogue,Koharu,0000,0000,0000,,Uma p-prova cronometrada?!
+Dialogue: 0,0:02:16.03,0:02:20.32,Main Dialogue,Hiina,0000,0000,0000,,Aparentemente, cada escola do torneio \Napresenta um programa diferente.
+Dialogue: 0,0:02:20.32,0:02:21.03,Main Dialogue,Yua,0000,0000,0000,,Sério?
+Dialogue: 0,0:02:21.03,0:02:25.36,Main Dialogue,Hiina,0000,0000,0000,,Atores profissionais são os juízes \Ne decidem qual foi a melhor escola.
+Dialogue: 0,0:02:25.36,0:02:27.33,Main Dialogue,Yua,0000,0000,0000,,Parece dar certo.
+Dialogue: 0,0:02:27.33,0:02:30.54,Main Dialogue,Yua,0000,0000,0000,,Eu imaginei todos apresentando \N{\i1}Romeu e Julieta{\i0}.
+Dialogue: 0,0:02:30.54,0:02:32.74,Main Dialogue,Koharu,0000,0000,0000,,É comum pensarem isso do clube de teatro.
+Dialogue: 0,0:02:32.74,0:02:34.43,Main Dialogue,Koharu,0000,0000,0000,,Minha amiga falou que quando ela conta
+Dialogue: 0,0:02:34.43,0:02:36.57,Main Dialogue,Koharu,0000,0000,0000,,que é do clube de teatro, sempre perguntam isso.
+Dialogue: 0,0:02:36.57,0:02:40.30,Main Dialogue,Koharu,0000,0000,0000,,Ela disse que quase nenhuma escola \Napresenta essa peça.
+Dialogue: 0,0:02:40.30,0:02:41.52,Main Dialogue,Yua,0000,0000,0000,,Entendi!
+Dialogue: 0,0:02:41.52,0:02:45.03,Main Dialogue,Koharu,0000,0000,0000,,Ela também disse que vários \Nmembros recebem apelidos
+Dialogue: 0,0:02:45.03,0:02:47.50,Main Dialogue,Koharu,0000,0000,0000,,com o nome dos personagens que fizeram.
+Dialogue: 0,0:02:47.50,0:02:50.87,Main Dialogue,Yua,0000,0000,0000,,Sim, é como eles são chamados nos ensaios.
+Dialogue: 0,0:02:50.87,0:02:54.02,Main Dialogue,Hiina,0000,0000,0000,,Sinto pena de quem fica com papéis chatos.
+Dialogue: 0,0:02:54.02,0:02:57.44,Main Dialogue,Aoi,0000,0000,0000,,Teria "Pedestre D," "Árvore" ou "Caixa de Lenços"!
+Dialogue: 0,0:02:54.48,0:02:57.44,Bystander Sign,Sign,0000,0000,0000,,Pedestre D     Árvore       Caixa de Lenços
+Dialogue: 0,0:02:57.44,0:03:01.03,Main Dialogue,Koharu,0000,0000,0000,,E-Eu acho que esses nomes não pegariam.
+Dialogue: 0,0:03:01.03,0:03:03.53,Main Dialogue,Koharu,0000,0000,0000,,Eles nem são chamados assim durante a peça!
+Dialogue: 0,0:03:03.53,0:03:06.86,Main Dialogue,Hiina,0000,0000,0000,,Dizem que eles sempre confundem "bom/mau" com
+Dialogue: 0,0:03:05.68,0:03:09.71,KamiteShimote,Sign,0000,0000,0000,,Palco Esquerdo/Palco Direito\N{\fs22}Bom/Mau
+Dialogue: 0,0:03:06.86,0:03:09.71,Main Dialogue,Hiina,0000,0000,0000,,"palco esquerdo/palco direito", \Njá que são o mesmo kanji.
+Dialogue: 0,0:03:09.71,0:03:10.79,Main Dialogue,Yua,0000,0000,0000,,Oh, sério?
+Dialogue: 0,0:03:10.79,0:03:13.63,Main Dialogue,Aoi,0000,0000,0000,,E eles têm acessórios misteriosos que
+Dialogue: 0,0:03:13.63,0:03:15.58,Main Dialogue,Aoi,0000,0000,0000,,ninguém sabe qual geração usou.
+Dialogue: 0,0:03:15.58,0:03:19.06,Main Dialogue,Yua,0000,0000,0000,,Então em vez de pedir falas, \Nos atletas deveriam dizer...
+Dialogue: 0,0:03:19.06,0:03:20.65,Main Dialogue,Yua,0000,0000,0000,,"Mostrem-me um acessório interessante!"
+Dialogue: 0,0:03:20.65,0:03:21.51,Main Dialogue,Aoi,0000,0000,0000,,Todos ganham!
+Dialogue: 0,0:03:21.51,0:03:25.38,Main Dialogue,Koharu,0000,0000,0000,,O quê?! Mas eles teriam que buscar!
+Dialogue: 0,0:03:25.38,0:03:29.06,Main Dialogue,Koharu,0000,0000,0000,,E provavelmente não achariam \Ninteressante quando vissem.
+Dialogue: 0,0:03:29.06,0:03:30.64,Main Dialogue,Yua,0000,0000,0000,,É difícil, né?
+Dialogue: 0,0:03:30.64,0:03:34.02,Main Dialogue,Yua,0000,0000,0000,,E em anime e mangá? Alguma ideia?
+Dialogue: 0,0:03:34.02,0:03:35.89,Main Dialogue,Aoi,0000,0000,0000,,A maioria é shoujo, certo?
+Dialogue: 0,0:03:35.89,0:03:37.19,Main Dialogue,Yua,0000,0000,0000,,Sim, é verdade.
+Dialogue: 0,0:03:37.19,0:03:40.87,Main Dialogue,Aoi,0000,0000,0000,,A protagonista é uma menina \Ncomum sem nenhum mérito,
+Dialogue: 0,0:03:40.87,0:03:44.28,Main Dialogue,Aoi,0000,0000,0000,,mas quando atua, é tão bonitinha que \Nvocê quer gritar "mentirosa!"
+Dialogue: 0,0:03:42.09,0:03:44.28,Black Signs,Sign,0000,0000,0000,,Menina Comum
+Dialogue: 0,0:03:44.28,0:03:48.16,Main Dialogue,Hiina,0000,0000,0000,,Mas ela tem a habilidade de lembrar \Ndiálogos e movimentos
+Dialogue: 0,0:03:48.16,0:03:50.97,Main Dialogue,Hiina,0000,0000,0000,,de peças e filmes que só viu uma vez.
+Dialogue: 0,0:03:50.97,0:03:51.75,Main Dialogue,Koharu,0000,0000,0000,,Parece bom!
+Dialogue: 0,0:03:51.75,0:03:55.20,Main Dialogue,Koharu,0000,0000,0000,,É em uma escola com um clube \Nde teatro conhecido.
+Dialogue: 0,0:03:55.20,0:04:00.31,Main Dialogue,Aoi,0000,0000,0000,,O cafajeste mais popular da escola se \Naproxima da menina para zombar dela,
+Dialogue: 0,0:04:00.31,0:04:02.80,Main Dialogue,Aoi,0000,0000,0000,,mas em algum momento eles se apaixonam!
+Dialogue: 0,0:04:02.80,0:04:06.84,Main Dialogue,Hiina,0000,0000,0000,,Ele também é do clube de teatro, \Ne nota o talento dela.
+Dialogue: 0,0:04:06.84,0:04:10.77,Main Dialogue,Koharu,0000,0000,0000,,Sim! E a orientadora, também nota.
+Dialogue: 0,0:04:10.77,0:04:13.08,Main Dialogue,Aoi,0000,0000,0000,,E as outras meninas do grupo a maltratam de raiva!
+Dialogue: 0,0:04:13.08,0:04:14.06,Main Dialogue,Yua,0000,0000,0000,,Com certeza!
+Dialogue: 0,0:04:14.06,0:04:17.89,Main Dialogue,Aoi,0000,0000,0000,,A rival é rica, bonita e uma atriz talentosa,
+Dialogue: 0,0:04:17.89,0:04:21.78,Main Dialogue,Aoi,0000,0000,0000,,mas tão insuportável que te faz \Nperguntar como ela foi criada!
+Dialogue: 0,0:04:21.78,0:04:25.53,Main Dialogue,Koharu,0000,0000,0000,,Exatamente! É estranho porque ela é sortuda.
+Dialogue: 0,0:04:25.53,0:04:29.09,Main Dialogue,Hiina,0000,0000,0000,,A protagonista chateada se afunda \Nna cama ainda de uniforme,
+Dialogue: 0,0:04:29.09,0:04:31.83,Main Dialogue,Hiina,0000,0000,0000,,deita de costas e começa a pensar sobre coisas,
+Dialogue: 0,0:04:31.83,0:04:35.39,Main Dialogue,Hiina,0000,0000,0000,,o cachorro sente seu humor e vai vê-la, \Nentão ela conta seus problemas.
+Dialogue: 0,0:04:35.39,0:04:36.05,Main Dialogue,Aoi,0000,0000,0000,,Consigo imaginar!
+Dialogue: 0,0:04:36.05,0:04:37.81,Main Dialogue,Yua,0000,0000,0000,,E enquanto olha para o cachorro,
+Dialogue: 0,0:04:37.81,0:04:40.88,Main Dialogue,Yua,0000,0000,0000,,ela percebe o que está faltando em sua performance.
+Dialogue: 0,0:04:40.88,0:04:41.80,Main Dialogue,Aoi,0000,0000,0000,,Entendi!
+Dialogue: 0,0:04:41.80,0:04:44.24,Main Dialogue,Yua,0000,0000,0000,,E se a apresentação for boa, por algum motivo,
+Dialogue: 0,0:04:44.24,0:04:46.80,Main Dialogue,Yua,0000,0000,0000,,a situação romântica dela começa a melhorar.
+Dialogue: 0,0:04:46.80,0:04:52.16,Main Dialogue,Hiina,0000,0000,0000,,Ele diz coisas cafonas que nunca diria \Nnormalmente e rouba um beijo dela.
+Dialogue: 0,0:04:52.16,0:04:55.56,Main Dialogue,Aoi,0000,0000,0000,,Suas palavras são mais teatrais \Nque qualquer coisa da peça!
+Dialogue: 0,0:04:55.56,0:04:59.27,Main Dialogue,Yua,0000,0000,0000,,Ok! Vamos pensar em um \N"clube de teatro diferente"!
+Dialogue: 0,0:04:59.27,0:05:02.17,Main Dialogue,Yua,0000,0000,0000,,Alguém tem uma ideia?
+Dialogue: 0,0:05:02.17,0:05:02.80,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:05:02.80,0:05:06.03,Main Dialogue,Yua,0000,0000,0000,,Ok, o "clube de teatro diferente" da Aoi!
+Dialogue: 0,0:05:06.03,0:05:11.04,Main Dialogue,Aoi,0000,0000,0000,,É um roteiro muito importante, \Nentão os atores repetem as falas.
+Dialogue: 0,0:05:11.63,0:05:14.86,Main Dialogue,Koharu,0000,0000,0000,,Ah, tipo quando você repete algo \Nporque é importante?
+Dialogue: 0,0:05:13.92,0:05:14.86,Main Dialogue,Aoi,0000,0000,0000,,{\a6}Sim!
+Dialogue: 0,0:05:14.86,0:05:15.79,Main Dialogue,Hiina,0000,0000,0000,,É diferente!
+Dialogue: 0,0:05:15.79,0:05:20.86,Main Dialogue,Aoi,0000,0000,0000,,Eles querem expressar bem o que está acontecendo, \Nentão uma confissão amorosa seria
+Dialogue: 0,0:05:20.86,0:05:22.55,Main Dialogue,Aoi,0000,0000,0000,,"Eu te amo! Eu te amo!"
+Dialogue: 0,0:05:21.04,0:05:22.55,Black Signs,Sign,0000,0000,0000,,Eu te amo. \NEu te amo.
+Dialogue: 0,0:05:23.18,0:05:24.40,Main Dialogue,Koharu,0000,0000,0000,,Uau!
+Dialogue: 0,0:05:24.40,0:05:25.85,Main Dialogue,Hiina,0000,0000,0000,,"Eu também! Eu também!"
+Dialogue: 0,0:05:24.55,0:05:28.25,Black Signs,Sign,0000,0000,0000,,Eu também! Eu também!
+Dialogue: 0,0:05:25.85,0:05:28.94,Main Dialogue,Aoi,0000,0000,0000,,Sim! Você tem que dizer duas vezes no mesmo tom.
+Dialogue: 0,0:05:28.94,0:05:29.65,Main Dialogue,Hiina,0000,0000,0000,,Que difícil!
+Dialogue: 0,0:05:29.65,0:05:32.48,Main Dialogue,Aoi,0000,0000,0000,,Por isso, cada apresentação demora o dobro do tempo.
+Dialogue: 0,0:05:32.48,0:05:34.89,Main Dialogue,Koharu,0000,0000,0000,,Oh, isso seria difícil!
+Dialogue: 0,0:05:33.50,0:05:34.89,Main Dialogue,Hiina,0000,0000,0000,,{\a6}Sim.
+Dialogue: 0,0:05:34.89,0:05:35.57,Main Dialogue,Yua,0000,0000,0000,,É diferente.
+Dialogue: 0,0:05:35.57,0:05:36.78,Main Dialogue,Aoi,0000,0000,0000,,É diferente, né?
+Dialogue: 0,0:05:36.09,0:05:36.78,Main Dialogue,Hiina,0000,0000,0000,,{\a6}É diferente.
+Dialogue: 0,0:05:36.78,0:05:37.89,Main Dialogue,Yua,0000,0000,0000,,Ok... Oh!
+Dialogue: 0,0:05:37.89,0:05:39.02,Main Dialogue,Aoi,0000,0000,0000,,Yua-senpai?
+Dialogue: 0,0:05:39.02,0:05:40.52,Main Dialogue,Yua,0000,0000,0000,,Tenho uma.
+Dialogue: 0,0:05:40.52,0:05:41.55,Main Dialogue,Koharu,0000,0000,0000,,Você entrou no clima.
+Dialogue: 0,0:05:41.55,0:05:43.43,Main Dialogue,Yua,0000,0000,0000,,Tenho uma. Ok...
+Dialogue: 0,0:05:43.43,0:05:44.61,Main Dialogue,Aoi,0000,0000,0000,,Vá em frente.
+Dialogue: 0,0:05:43.77,0:05:46.03,Main Dialogue,Hiina,0000,0000,0000,,{\a6}Ficou na cabeça, né?
+Dialogue: 0,0:05:46.03,0:05:48.28,Main Dialogue,Yua,0000,0000,0000,,Meu "clube de teatro diferente"!
+Dialogue: 0,0:05:48.28,0:05:53.54,Main Dialogue,Yua,0000,0000,0000,,Todos são atores tão bons que não \Npodem confiar uns nos outros.
+Dialogue: 0,0:05:54.60,0:05:59.57,Main Dialogue,Yua,0000,0000,0000,,Eles nunca sabem quando a outra \Npessoa está atuando ou não.
+Dialogue: 0,0:05:59.57,0:06:00.34,Main Dialogue,Hiina,0000,0000,0000,,Assustador!
+Dialogue: 0,0:06:00.34,0:06:01.77,Main Dialogue,Koharu,0000,0000,0000,,É assustador!
+Dialogue: 0,0:06:01.77,0:06:02.54,Main Dialogue,Aoi,0000,0000,0000,,Assustador...
+Dialogue: 0,0:06:02.54,0:06:06.49,Main Dialogue,Aoi,0000,0000,0000,,Ela diz "você é tão fofo!", mas por dentro \Nestá pensando "que cachorro."
+Dialogue: 0,0:06:06.94,0:06:08.26,Main Dialogue,Yua,0000,0000,0000,,Assustador!
+Dialogue: 0,0:06:08.26,0:06:10.30,Main Dialogue,,0000,0000,0000,,É assustador!
+Dialogue: 0,0:06:10.69,0:06:11.50,Main Dialogue,Aoi,0000,0000,0000,,Acontece!
+Dialogue: 0,0:06:11.50,0:06:12.96,Main Dialogue,Yua,0000,0000,0000,,Isso acontece?!
+Dialogue: 0,0:06:12.96,0:06:14.70,Main Dialogue,,0000,0000,0000,,É algo que acontece?
+Dialogue: 0,0:06:14.70,0:06:17.31,Main Dialogue,Aoi,0000,0000,0000,,É o mundo das mulheres.
+Dialogue: 0,0:06:17.31,0:06:19.39,Main Dialogue,Hiina,0000,0000,0000,,Não somos assim, somos?
+Dialogue: 0,0:06:19.39,0:06:21.02,Main Dialogue,Hiina,0000,0000,0000,,Quer dizer, aqui...
+Dialogue: 0,0:06:21.02,0:06:21.86,Main Dialogue,Aoi,0000,0000,0000,,Não, não somos.
+Dialogue: 0,0:06:21.35,0:06:22.83,Main Dialogue,Hiina,0000,0000,0000,,{\a6}Não estamos atuando, estamos?
+Dialogue: 0,0:06:22.44,0:06:23.66,Main Dialogue,Aoi,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:06:22.83,0:06:23.65,Main Dialogue,Koharu,0000,0000,0000,,{\a6}Tudo bem.
+Dialogue: 0,0:06:24.02,0:06:24.50,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:24.50,0:06:25.66,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai?!
+Dialogue: 0,0:06:26.92,0:06:27.82,Main Dialogue,Yua,0000,0000,0000,,Tudo bem...
+Dialogue: 0,0:06:27.82,0:06:28.74,Main Dialogue,Koharu,0000,0000,0000,,Que assustador!
+Dialogue: 0,0:06:29.28,0:06:31.52,Main Dialogue,Yua,0000,0000,0000,,Ok, mais alguém? Alguma ideia?
+Dialogue: 0,0:06:31.52,0:06:33.46,Main Dialogue,Hiina,0000,0000,0000,,Ok, eu vou.
+Dialogue: 0,0:06:33.46,0:06:36.08,Main Dialogue,Yua,0000,0000,0000,,Certo, o "clube de teatro diferente" da Hiina!
+Dialogue: 0,0:06:36.08,0:06:39.56,Main Dialogue,Hiina,0000,0000,0000,,A preferência do diretor por meninas é tão absurda
+Dialogue: 0,0:06:39.56,0:06:42.34,Main Dialogue,Hiina,0000,0000,0000,,que a audiência nunca simpatiza com a heroína.
+Dialogue: 0,0:06:43.03,0:06:47.69,Main Dialogue,Hiina,0000,0000,0000,,Bem, para falar a verdade, a atriz não é muito bonita.
+Dialogue: 0,0:06:47.69,0:06:50.17,Main Dialogue,Hiina,0000,0000,0000,,Faz o tipo do diretor...
+Dialogue: 0,0:06:50.91,0:06:52.77,Main Dialogue,Hiina,0000,0000,0000,,é como vocês diriam, acho.
+Dialogue: 0,0:06:52.77,0:06:53.70,Main Dialogue,Yua,0000,0000,0000,,"F"? "F"?
+Dialogue: 0,0:06:53.70,0:06:54.93,Main Dialogue,Hiina,0000,0000,0000,,A palavra com "f", sim.
+Dialogue: 0,0:06:54.93,0:06:55.64,Main Dialogue,Yua,0000,0000,0000,,"F", hã?
+Dialogue: 0,0:06:55.64,0:06:57.01,Main Dialogue,Hiina,0000,0000,0000,,No último nível...
+Dialogue: 0,0:06:57.01,0:06:58.26,Main Dialogue,Yua,0000,0000,0000,,No último nível!
+Dialogue: 0,0:06:58.26,0:07:00.50,Main Dialogue,Hiina,0000,0000,0000,,É onde o diretor vai atrás.
+Dialogue: 0,0:07:00.07,0:07:02.02,Main Dialogue,Yua,0000,0000,0000,,{\a6}É o que ele gosta.
+Dialogue: 0,0:07:00.95,0:07:02.02,Main Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:02.02,0:07:03.15,Main Dialogue,Aoi,0000,0000,0000,,Triste, hã?
+Dialogue: 0,0:07:03.15,0:07:04.67,Main Dialogue,Yua,0000,0000,0000,,T-Triste...
+Dialogue: 0,0:07:04.67,0:07:06.75,Main Dialogue,Yua,0000,0000,0000,,Esse clube está ficando triste.
+Dialogue: 0,0:07:06.75,0:07:09.83,Main Dialogue,Aoi,0000,0000,0000,,Sim. O clube e o rosto dela são tristes.
+Dialogue: 0,0:07:09.83,0:07:12.78,Main Dialogue,Yua,0000,0000,0000,,Não diga isso! Não diga "e o rosto dela"!
+Dialogue: 0,0:07:12.78,0:07:14.36,Main Dialogue,Yua,0000,0000,0000,,Não diga coisas assim!
+Dialogue: 0,0:07:13.33,0:07:15.80,Main Dialogue,Aoi,0000,0000,0000,,{\a6}Hã? Achei que estávamos \Nfalando da mesma coisa...
+Dialogue: 0,0:07:15.80,0:07:16.50,Main Dialogue,Aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:17.32,0:07:18.27,Main Dialogue,,0000,0000,0000,,Vamos...
+Dialogue: 0,0:07:18.27,0:07:18.84,Main Dialogue,Yua,0000,0000,0000,,Bem...
+Dialogue: 0,0:07:18.84,0:07:20.20,Main Dialogue,Yua,0000,0000,0000,,Bem, mais alguém?
+Dialogue: 0,0:07:20.20,0:07:21.27,Main Dialogue,Koharu,0000,0000,0000,,Eu!
+Dialogue: 0,0:07:21.27,0:07:25.04,Main Dialogue,Yua,0000,0000,0000,,Ok, o "clube de teatro diferente" da Koharun!
+Dialogue: 0,0:07:22.05,0:07:23.17,Main Dialogue,Yua,0000,0000,0000,,{\a6}Koharun!
+Dialogue: 0,0:07:25.04,0:07:28.30,Main Dialogue,Koharu,0000,0000,0000,,Eles fazem pessoas da plateia interpretarem \Nos personagens importantes!
+Dialogue: 0,0:07:30.05,0:07:34.85,Main Dialogue,Koharu,0000,0000,0000,,O papel principal da peça é decidido \Nquando um membro diz
+Dialogue: 0,0:07:34.85,0:07:37.81,Main Dialogue,Koharu,0000,0000,0000,,"gostaria que você o fizesse, por favor" \Npara alguém da plateia.
+Dialogue: 0,0:07:37.81,0:07:39.56,Main Dialogue,Koharu,0000,0000,0000,,E a pessoa tem que improvisar o papel.
+Dialogue: 0,0:07:40.85,0:07:42.76,Main Dialogue,Yua,0000,0000,0000,,Horrível... Que horrível!
+Dialogue: 0,0:07:42.76,0:07:44.19,Main Dialogue,Aoi,0000,0000,0000,,Koharun...
+Dialogue: 0,0:07:44.19,0:07:47.42,Main Dialogue,Aoi,0000,0000,0000,,Sabemos como é terrível improvisar.
+Dialogue: 0,0:07:47.42,0:07:48.03,Main Dialogue,Yua,0000,0000,0000,,Sim!
+Dialogue: 0,0:07:48.03,0:07:51.78,Main Dialogue,Hiina,0000,0000,0000,,É mesmo. Porque é uma situação imprevisível.
+Dialogue: 0,0:07:50.93,0:07:51.78,Main Dialogue,Hiina,0000,0000,0000,,{\a6}Sim.
+Dialogue: 0,0:07:51.78,0:07:54.43,Main Dialogue,Aoi,0000,0000,0000,,Talvez todos da plateia ficariam quietos...
+Dialogue: 0,0:07:54.43,0:07:55.34,Main Dialogue,Yua,0000,0000,0000,,Talvez.
+Dialogue: 0,0:07:55.34,0:07:58.54,Main Dialogue,Koharu,0000,0000,0000,,E acontece o mesmo de sempre.
+Dialogue: 0,0:07:58.54,0:08:00.97,Main Dialogue,Yua,0000,0000,0000,,Sim. No que você é muito boa, Koharun.
+Dialogue: 0,0:08:00.97,0:08:02.64,Main Dialogue,Koharu,0000,0000,0000,,Mas não sou só eu.
+Dialogue: 0,0:08:02.64,0:08:04.61,Main Dialogue,Koharu,0000,0000,0000,,Aconteceu com você várias vezes, Yua-senpai.
+Dialogue: 0,0:08:04.61,0:08:07.76,Main Dialogue,Yua,0000,0000,0000,,Não, não, não, não. Não... Não aconteceu.
+Dialogue: 0,0:08:07.76,0:08:08.71,Main Dialogue,Yua,0000,0000,0000,,Parem!
+Dialogue: 0,0:08:10.20,0:08:10.90,Main Dialogue,,0000,0000,0000,,Parem!
+Dialogue: 0,0:08:10.90,0:08:12.46,Main Dialogue,Aoi,0000,0000,0000,,Pra que essa mão?
+Dialogue: 0,0:08:12.46,0:08:13.72,Main Dialogue,Yua,0000,0000,0000,,Parem!
+Dialogue: 0,0:08:13.72,0:08:15.06,Main Dialogue,Yua,0000,0000,0000,,Não falem mais.
+Dialogue: 0,0:08:16.60,0:08:17.63,Main Dialogue,Yua,0000,0000,0000,,Mas é diferente.
+Dialogue: 0,0:08:17.63,0:08:18.26,Main Dialogue,Hiina,0000,0000,0000,,É diferente.
+Dialogue: 0,0:08:18.26,0:08:19.51,Main Dialogue,Aoi,0000,0000,0000,,É muito diferente.
+Dialogue: 0,0:08:19.51,0:08:20.42,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:20.42,0:08:22.00,Main Dialogue,Hiina,0000,0000,0000,,Eu não tentaria isso.
+Dialogue: 0,0:08:22.60,0:08:24.91,Main Dialogue,Yua,0000,0000,0000,,Bem, mais alguém?
+Dialogue: 0,0:08:24.91,0:08:25.94,Main Dialogue,Hiina,0000,0000,0000,,Usei tudo que eu tinha.
+Dialogue: 0,0:08:25.94,0:08:27.70,Main Dialogue,Yua,0000,0000,0000,,Usou? Quem já usou?
+Dialogue: 0,0:08:27.25,0:08:28.35,Main Dialogue,Koharu,0000,0000,0000,,{\a6}Eu já.
+Dialogue: 0,0:08:28.35,0:08:29.15,Main Dialogue,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:29.55,0:08:31.30,Main Dialogue,Yua,0000,0000,0000,,El— Oh, deixa pra lá, então.
+Dialogue: 0,0:08:31.30,0:08:32.33,Main Dialogue,Koharu,0000,0000,0000,,Hã? Yua...
+Dialogue: 0,0:08:31.68,0:08:32.85,Main Dialogue,Koharu,0000,0000,0000,,{\a6}O quê? Espere!
+Dialogue: 0,0:08:32.33,0:08:34.33,Main Dialogue,Hiina,0000,0000,0000,,O que ia dizer?
+Dialogue: 0,0:08:32.85,0:08:34.33,Main Dialogue,Hiina,0000,0000,0000,,{\a6}O quê? Yua!
+Dialogue: 0,0:08:34.33,0:08:36.03,Main Dialogue,Yua,0000,0000,0000,,Eu escrevi bastante, mas...
+Dialogue: 0,0:08:36.03,0:08:37.56,Main Dialogue,Aoi,0000,0000,0000,,Então diga tudo!
+Dialogue: 0,0:08:37.56,0:08:39.03,Main Dialogue,Yua,0000,0000,0000,,Mas são todas perigosas.
+Dialogue: 0,0:08:39.03,0:08:39.86,Main Dialogue,Hiina,0000,0000,0000,,Tente!
+Dialogue: 0,0:08:39.86,0:08:40.40,Main Dialogue,Aoi,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:08:40.40,0:08:41.61,Main Dialogue,Hiina,0000,0000,0000,,Eles cortam se precisar.
+Dialogue: 0,0:08:41.61,0:08:42.38,Main Dialogue,Yua,0000,0000,0000,,Oh, é verdade.
+Dialogue: 0,0:08:42.38,0:08:43.33,Main Dialogue,Aoi,0000,0000,0000,,Diga todas.
+Dialogue: 0,0:08:43.33,0:08:45.04,Main Dialogue,Yua,0000,0000,0000,,Ok... Aqui, então.
+Dialogue: 0,0:08:45.04,0:08:46.54,Main Dialogue,Yua,0000,0000,0000,,Estão todos dormindo para chegar ao topo.
+Dialogue: 0,0:08:45.60,0:08:46.54,Signs,Sign,0000,0000,0000,,{\an9}Censurado
+Dialogue: 0,0:08:46.74,0:08:48.74,Main Dialogue,,0000,0000,0000,,Uau! Nada bom!
+Dialogue: 0,0:08:48.74,0:08:50.99,Main Dialogue,Aoi,0000,0000,0000,,Fora! Fora!
+Dialogue: 0,0:08:50.13,0:08:52.33,Main Dialogue,Hiina,0000,0000,0000,,{\a6}Fora! Fora!
+Dialogue: 0,0:08:50.99,0:08:52.33,Main Dialogue,Koharu,0000,0000,0000,,Essa está fora!
+Dialogue: 0,0:08:53.32,0:08:55.30,Main Dialogue,Yua,0000,0000,0000,,E violam o trabalho original.
+Dialogue: 0,0:08:53.90,0:08:55.30,Signs,Sign,0000,0000,0000,,{\an9}Censurado
+Dialogue: 0,0:08:55.86,0:08:57.00,Main Dialogue,Aoi,0000,0000,0000,,Fora!
+Dialogue: 0,0:08:57.00,0:08:58.62,Main Dialogue,Hiina,0000,0000,0000,,Fora! Fora!
+Dialogue: 0,0:08:57.98,0:08:59.31,Main Dialogue,Koharu,0000,0000,0000,,{\a6}As duas são revoltantes!
+Dialogue: 0,0:08:59.31,0:09:00.21,Main Dialogue,,0000,0000,0000,,Fora!
+Dialogue: 0,0:09:01.92,0:09:03.35,Main Dialogue,Yua,0000,0000,0000,,Aqui está o roteiro.
+Dialogue: 0,0:09:03.35,0:09:04.98,Main Dialogue,Koharu,0000,0000,0000,,O que faremos hoje?
+Dialogue: 0,0:09:04.98,0:09:08.02,Main Dialogue,Yua,0000,0000,0000,,Pensei em transformar nosso clube em uma peça.
+Dialogue: 0,0:09:08.02,0:09:09.27,Main Dialogue,Aoi,0000,0000,0000,,É diferente!
+Dialogue: 0,0:09:09.27,0:09:11.17,Main Dialogue,Mobuko,0000,0000,0000,,Tudo pronto!
+Dialogue: 0,0:09:11.17,0:09:13.90,Main Dialogue,Yua,0000,0000,0000,,Clube Tesagure No Palco, começar!
+Dialogue: 0,0:09:15.41,0:09:20.12,Main Dialogue,Yua,0000,0000,0000,,Ok pessoal, vamos pensar em \Num "clube de teatro diferente"!
+Dialogue: 0,0:09:20.12,0:09:23.12,Main Dialogue,Yua,0000,0000,0000,,Alguém tem uma ideia?
+Dialogue: 0,0:09:23.12,0:09:24.08,Main Dialogue,Koharu,0000,0000,0000,,Eu!
+Dialogue: 0,0:09:24.08,0:09:27.54,Main Dialogue,Yua,0000,0000,0000,,Ok, Koharun! Um "clube de teatro diferente"!
+Dialogue: 0,0:09:27.54,0:09:31.80,Main Dialogue,Koharu,0000,0000,0000,,Eles fazem pessoas da plateia interpretarem \Nos personagens importantes!
+Dialogue: 0,0:09:35.30,0:09:38.47,Main Dialogue,Koharu,0000,0000,0000,,O papel principal da peça é decidido \Nquando um membro diz
+Dialogue: 0,0:09:38.47,0:09:42.88,Main Dialogue,Koharu,0000,0000,0000,,"gostaria que você o fizesse, por favor" \Npara alguém da plateia.
+Dialogue: 0,0:09:42.88,0:09:45.56,Main Dialogue,Koharu,0000,0000,0000,,E a pessoa tem que improvisar o papel.
+Dialogue: 0,0:09:45.92,0:09:47.92,Main Dialogue,,0000,0000,0000,,O quê?!
+Dialogue: 0,0:09:47.92,0:09:50.02,Main Dialogue,Yua,0000,0000,0000,,Horrível... Que horrível!
+Dialogue: 0,0:09:50.02,0:09:55.28,Main Dialogue,Aoi,0000,0000,0000,,Koharun, sabemos como é terrível improvisar.
+Dialogue: 0,0:09:55.28,0:09:56.28,Main Dialogue,Yua,0000,0000,0000,,Sim!
+Dialogue: 0,0:09:56.28,0:09:59.78,Main Dialogue,Hiina,0000,0000,0000,,É mesmo. Porque é uma situação imprevisível.
+Dialogue: 0,0:09:59.78,0:10:01.31,Main Dialogue,Yua,0000,0000,0000,,Mas é diferente.
+Dialogue: 0,0:10:01.31,0:10:02.18,Main Dialogue,Hiina,0000,0000,0000,,É diferente.
+Dialogue: 0,0:10:02.18,0:10:03.59,Main Dialogue,Aoi,0000,0000,0000,,É muito diferente.
+Dialogue: 0,0:10:03.59,0:10:05.57,Main Dialogue,Hiina,0000,0000,0000,,Eu não tentaria isso.
+Dialogue: 0,0:10:10.19,0:10:12.29,Main Dialogue,The Three,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:10:13.21,0:10:15.30,Main Dialogue,Koharu,0000,0000,0000,,Estou tão envergonhada!
+Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 10\N{\fs24}Egoísmo
+Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:59.36,0:11:01.32,Main Dialogue,Aoi,0000,0000,0000,,Sim! Acho que consegui!
+Dialogue: 0,0:11:01.32,0:11:05.64,Main Dialogue,Koharu,0000,0000,0000,,A-Aoi-senpai, está progredindo de repente!

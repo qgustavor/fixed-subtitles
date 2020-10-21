@@ -1,0 +1,299 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H006BD390,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H0000CCE5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0050,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H0000CCE5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H0000CCE5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: T-shirt Sign 1,Arial,13,&H00664E35,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0010,0020,0070,1
+Style: T-shirt Sign 2,Arial,13,&H00664E35,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0210,0020,0090,1
+Style: Tea Time,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00666666,-1,0,0,0,100,100,0,0,1,2,2,8,0020,0020,0018,1
+Style: Uke,Arial,18,&H00000000,&H000000FF,&H00F1DFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,0025,0025,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.98,0:00:14.20,Black Signs,Sign,0000,0000,0000,,{\fs12\pos(292,21)}Sala do Conselho Estudantil
+Dialogue: 0,0:00:05.63,0:00:10.51,Episode Title,Sign,0000,0000,0000,,{\fad(1000,959)}Episódio 4\N{\fs22}Dignidade
+Dialogue: 0,0:00:08.39,0:00:10.68,Main Dialogue,Koharu,0000,0000,0000,,Essa é a sala do conselho estudantil?
+Dialogue: 0,0:00:10.68,0:00:14.19,Main Dialogue,Aoi,0000,0000,0000,,A Yua-senpai é a vice presidente.
+Dialogue: 0,0:00:14.19,0:00:15.57,Main Dialogue,Koharu,0000,0000,0000,,Sério?!
+Dialogue: 0,0:00:15.57,0:00:17.06,Main Dialogue,Koharu,0000,0000,0000,,D...Desculpa!
+Dialogue: 0,0:00:17.06,0:00:18.53,Main Dialogue,Yua,0000,0000,0000,,O que foi, Koharun?
+Dialogue: 0,0:00:18.53,0:00:22.86,Main Dialogue,Koharu,0000,0000,0000,,Bem, se o conselho estudantil decidir \Nficar de olho em mim,
+Dialogue: 0,0:00:22.86,0:00:27.21,Main Dialogue,Koharu,0000,0000,0000,,não sei como passarei os próximos três anos...
+Dialogue: 0,0:00:27.49,0:00:32.32,Main Dialogue,Hiina,0000,0000,0000,,Nos anime, os conselhos costumam \Nser bem autoritários.
+Dialogue: 0,0:00:32.32,0:00:33.75,Main Dialogue,Yua,0000,0000,0000,,Isso que quis dizer?
+Dialogue: 0,0:00:33.75,0:00:35.31,Main Dialogue,Yua,0000,0000,0000,,Não se preocupe, Koharun!
+Dialogue: 0,0:00:35.31,0:00:38.36,Main Dialogue,Yua,0000,0000,0000,,O conselho estudantil da nossa escola \Né completamente normal!
+Dialogue: 0,0:00:38.72,0:00:41.78,Main Dialogue,Koharu,0000,0000,0000,,Mas e se a presidente do conselho \Nfor filha do diretor?
+Dialogue: 0,0:00:41.78,0:00:44.88,Main Dialogue,Yua,0000,0000,0000,,Nunca perguntei, mas acho que não é.
+Dialogue: 0,0:00:44.88,0:00:47.43,Main Dialogue,Aoi,0000,0000,0000,,Esse tipo de coincidência raramente acontece.
+Dialogue: 0,0:00:47.43,0:00:49.10,Main Dialogue,Koharu,0000,0000,0000,,E o comitê disciplinar?
+Dialogue: 0,0:00:49.10,0:00:51.49,Main Dialogue,Koharu,0000,0000,0000,,Eles são bem rigorosos, né?
+Dialogue: 0,0:00:51.49,0:00:54.74,Main Dialogue,Aoi,0000,0000,0000,,Nossa escola tem um comitê disciplinar?
+Dialogue: 0,0:00:54.74,0:00:56.03,Main Dialogue,Yua,0000,0000,0000,,Nunca ouvi falar.
+Dialogue: 0,0:00:56.03,0:00:57.58,Main Dialogue,Koharu,0000,0000,0000,,Não tem?!
+Dialogue: 0,0:00:57.58,0:01:00.62,Main Dialogue,Yua,0000,0000,0000,,Mas acho que as regras da escola são restritas,
+Dialogue: 0,0:01:00.62,0:01:04.11,Main Dialogue,Yua,0000,0000,0000,,então os orientadores devem substituir \Num comitê disciplinar.
+Dialogue: 0,0:01:04.11,0:01:06.04,Main Dialogue,Koharu,0000,0000,0000,,Entendi...
+Dialogue: 0,0:01:06.04,0:01:07.71,Main Dialogue,Koharu,0000,0000,0000,,Que alívio.
+Dialogue: 0,0:01:07.71,0:01:11.39,Main Dialogue,Hiina,0000,0000,0000,,Mas, como em anime, apesar de todo rigor,
+Dialogue: 0,0:01:11.39,0:01:14.31,Main Dialogue,Hiina,0000,0000,0000,,parece que ninguém liga para \Na cor do cabelo dos alunos.
+Dialogue: 0,0:01:14.31,0:01:15.96,Main Dialogue,Koharu,0000,0000,0000,,É-É mesmo!
+Dialogue: 0,0:01:15.96,0:01:17.42,Main Dialogue,Koharu,0000,0000,0000,,Na verdade, falando nisso,
+Dialogue: 0,0:01:17.42,0:01:20.57,Main Dialogue,Koharu,0000,0000,0000,,eles parecem mais protagonistas que nós!
+Dialogue: 0,0:02:20.37,0:02:22.11,Main Dialogue,Koharu,0000,0000,0000,,B-Bem...
+Dialogue: 0,0:02:22.11,0:02:23.45,Main Dialogue,Aoi,0000,0000,0000,,O que foi, Koharun?
+Dialogue: 0,0:02:23.45,0:02:28.50,Main Dialogue,Koharu,0000,0000,0000,,Ah, me pergunto como os outros estudantes \Nveem o clube Tesagure.
+Dialogue: 0,0:02:28.50,0:02:29.47,Main Dialogue,Yua,0000,0000,0000,,Como eles enxergam?
+Dialogue: 0,0:02:29.47,0:02:35.46,Main Dialogue,Koharu,0000,0000,0000,,Digo, é um clube slice-of-life só de meninas, \Nentão quando veem isso...
+Dialogue: 0,0:02:35.46,0:02:38.13,Main Dialogue,Koharu,0000,0000,0000,,talvez pareça algo "especial".
+Dialogue: 0,0:02:38.13,0:02:41.47,Main Dialogue,Koharu,0000,0000,0000,,Como se fôssemos "bem próximas" ou... Bem...
+Dialogue: 0,0:02:41.47,0:02:42.57,Main Dialogue,Yua,0000,0000,0000,,Quer dizer que parece yuri?
+Dialogue: 0,0:02:42.57,0:02:45.08,Main Dialogue,Koharu,0000,0000,0000,,N-Não saia falando isso assim!
+Dialogue: 0,0:02:45.08,0:02:46.83,Main Dialogue,Aoi,0000,0000,0000,,Então é disso que você gosta, Koharun.
+Dialogue: 0,0:02:46.83,0:02:48.48,Main Dialogue,Koharu,0000,0000,0000,,Eu não gosto disso!
+Dialogue: 0,0:02:48.48,0:02:53.05,Main Dialogue,Koharu,0000,0000,0000,,Só acho que pode parecer isso para quem assiste...
+Dialogue: 0,0:02:53.43,0:02:55.76,Main Dialogue,Yua,0000,0000,0000,,Deve mesmo.
+Dialogue: 0,0:02:55.76,0:02:57.11,Main Dialogue,,0000,0000,0000,,Q-Quê?
+Dialogue: 0,0:02:57.11,0:03:01.82,Main Dialogue,Hiina,0000,0000,0000,,Mas nessas coisas, os casais são importantes.
+Dialogue: 0,0:03:01.82,0:03:03.45,Main Dialogue,Koharu,0000,0000,0000,,C-Casais?!
+Dialogue: 0,0:03:03.86,0:03:04.98,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:03:04.98,0:03:07.85,Main Dialogue,Yua,0000,0000,0000,,Eu sou a que faz o que der na telha,
+Dialogue: 0,0:03:07.85,0:03:09.41,Main Dialogue,Yua,0000,0000,0000,,então eu gosto de conduzir...
+Dialogue: 0,0:03:09.41,0:03:12.42,Main Dialogue,Aoi,0000,0000,0000,,Eu sou a que força a barra.
+Dialogue: 0,0:03:12.42,0:03:16.66,Main Dialogue,Yua,0000,0000,0000,,E apesar da aparência, Hiina\N sempre toma a iniciativa.
+Dialogue: 0,0:03:16.66,0:03:19.92,Main Dialogue,Hiina,0000,0000,0000,,Mas a Koharun seria uma completa uke, \Nindependente do par.
+Dialogue: 0,0:03:19.92,0:03:21.77,Main Dialogue,Koharu,0000,0000,0000,,C-Completa uke?!
+Dialogue: 0,0:03:20.36,0:03:23.73,Uke,Sign,0000,0000,0000,,Completa Uke
+Dialogue: 0,0:03:21.77,0:03:25.85,Main Dialogue,Hiina,0000,0000,0000,,A partir de agora, fale "Onee-sama."
+Dialogue: 0,0:03:25.85,0:03:26.98,Main Dialogue,,0000,0000,0000,,Quê?!
+Dialogue: 0,0:03:29.03,0:03:32.20,Main Dialogue,Yua,0000,0000,0000,,Ok, vamos tentar criar um novo clube.
+Dialogue: 0,0:03:32.20,0:03:34.29,Main Dialogue,Aoi,0000,0000,0000,,O clube shogi da última vez foi divertido,
+Dialogue: 0,0:03:34.29,0:03:36.43,Main Dialogue,Aoi,0000,0000,0000,,então que tal outro clube cultural?
+Dialogue: 0,0:03:36.43,0:03:37.25,Main Dialogue,Yua,0000,0000,0000,,Boa ideia.
+Dialogue: 0,0:03:37.25,0:03:38.55,Main Dialogue,Hiina,0000,0000,0000,,Que tal o clube do chá?
+Dialogue: 0,0:03:38.55,0:03:39.56,Main Dialogue,Yua,0000,0000,0000,,Legal!
+Dialogue: 0,0:03:39.56,0:03:42.11,Main Dialogue,Yua,0000,0000,0000,,Qual a noção que vocês têm do clube do chá?
+Dialogue: 0,0:03:42.11,0:03:42.91,Main Dialogue,Aoi,0000,0000,0000,,Simplórios.
+Dialogue: 0,0:03:42.91,0:03:45.31,Main Dialogue,Yua,0000,0000,0000,,Verdade, não tem uma imagem \Nmuito extravagante.
+Dialogue: 0,0:03:45.31,0:03:46.92,Main Dialogue,Yua,0000,0000,0000,,É um clube tradicional japonês.
+Dialogue: 0,0:03:46.92,0:03:51.37,Main Dialogue,Koharu,0000,0000,0000,,Deve ser por isso que o professor do clube,\N geralmente, é o professor de japonês.
+Dialogue: 0,0:03:51.37,0:03:52.51,Main Dialogue,Yua,0000,0000,0000,,Sério?
+Dialogue: 0,0:03:52.51,0:03:56.96,Main Dialogue,Koharu,0000,0000,0000,,E ouvi dizer que quando Sen no Rikyu \Naparece na sala, todos se animam.
+Dialogue: 0,0:03:56.96,0:03:58.46,Main Dialogue,Yua,0000,0000,0000,,Uau! Sério?
+Dialogue: 0,0:03:58.46,0:04:02.54,Main Dialogue,Koharu,0000,0000,0000,,Sim. Aparentemente os membros conseguem \Nnota máxima em provas de História Japonesa
+Dialogue: 0,0:04:02.54,0:04:04.93,Main Dialogue,Koharu,0000,0000,0000,,sobre o período Azuchi-Momoyama, \Nquando Sen no Rikyu viveu.
+Dialogue: 0,0:04:04.93,0:04:07.43,Main Dialogue,Aoi,0000,0000,0000,,O clube do chá é incrível!
+Dialogue: 0,0:04:07.43,0:04:10.45,Main Dialogue,Hiina,0000,0000,0000,,Apesar do período Azuchi-Momoyama \Nter durado só 30 anos...
+Dialogue: 0,0:04:10.45,0:04:12.10,Main Dialogue,Yua,0000,0000,0000,,Sim! Acabei de lembrar algo!
+Dialogue: 0,0:04:12.10,0:04:14.37,Main Dialogue,Yua,0000,0000,0000,,Ouvi falar que quando uma xícara \Nquebra no clube,
+Dialogue: 0,0:04:13.84,0:04:15.10,Main Dialogue Top,Yua,0000,0000,0000,,{\i1}Ah, não! Má sorte!{\i0}
+Dialogue: 0,0:04:14.37,0:04:16.36,Main Dialogue,Yua,0000,0000,0000,,o ambiente fica pesado.
+Dialogue: 0,0:04:16.36,0:04:17.54,Main Dialogue,Aoi,0000,0000,0000,,Sério?
+Dialogue: 0,0:04:17.54,0:04:21.40,Main Dialogue,Koharu,0000,0000,0000,,Elas são muito importantes para o clube \Ne caras, provavelmente.
+Dialogue: 0,0:04:21.40,0:04:25.53,Main Dialogue,Yua,0000,0000,0000,,Ouvi dizer que todo ano eles discutem
+Dialogue: 0,0:04:25.53,0:04:27.41,Main Dialogue,Yua,0000,0000,0000,,se vão ou não comer a folha do sakuramochi.
+Dialogue: 0,0:04:27.41,0:04:28.91,Main Dialogue,Koharu,0000,0000,0000,,Hã? Sério?
+Dialogue: 0,0:04:28.91,0:04:31.41,Main Dialogue,Aoi,0000,0000,0000,,Sim, é muito confuso.
+Dialogue: 0,0:04:31.41,0:04:37.42,Main Dialogue,Hiina,0000,0000,0000,,Geralmente, os iniciantes não comem \Nos doces no ritmo certo.
+Dialogue: 0,0:04:37.69,0:04:39.73,Main Dialogue,Aoi,0000,0000,0000,,Não consigo entender!
+Dialogue: 0,0:04:39.73,0:04:40.46,Main Dialogue,,0000,0000,0000,,É.
+Dialogue: 0,0:04:40.46,0:04:44.26,Main Dialogue,Hiina,0000,0000,0000,,E ninguém sugere fazer camisetas do clube.
+Dialogue: 0,0:04:40.87,0:04:44.26,T-shirt Sign 1,Sign,0000,0000,0000,,Sen                                                      Clube\Nno                                                        do Chá\NRikyu
+Dialogue: 0,0:04:41.65,0:04:43.02,Main Dialogue Top,Hiina,0000,0000,0000,,{\i1}É um bom chá!{\i0}
+Dialogue: 0,0:04:44.26,0:04:46.47,Main Dialogue,Yua,0000,0000,0000,,Verdade, acho que nunca vi alguém vestindo uma.
+Dialogue: 0,0:04:46.47,0:04:48.43,Main Dialogue,Koharu,0000,0000,0000,,Eles costumam usar kimonos, certo?
+Dialogue: 0,0:04:48.43,0:04:50.53,Main Dialogue,Yua,0000,0000,0000,,E em mangá e anime?
+Dialogue: 0,0:04:50.53,0:04:51.85,Main Dialogue,Yua,0000,0000,0000,,Vocês têm alguma noção?
+Dialogue: 0,0:04:51.85,0:04:54.50,Main Dialogue,Koharu,0000,0000,0000,,Mangá e anime sobre o clube do chá...
+Dialogue: 0,0:04:54.50,0:04:55.93,Main Dialogue,Koharu,0000,0000,0000,,Nada veio em mente.
+Dialogue: 0,0:04:55.93,0:04:57.40,Main Dialogue,Aoi,0000,0000,0000,,Nada?
+Dialogue: 0,0:04:57.40,0:05:00.74,Main Dialogue,Hiina,0000,0000,0000,,Então por que não imaginamos \No que gostaríamos de ver
+Dialogue: 0,0:05:00.74,0:05:02.94,Main Dialogue,Hiina,0000,0000,0000,,em mangá e anime sobre o clube do chá?
+Dialogue: 0,0:05:02.94,0:05:05.61,Main Dialogue,Yua,0000,0000,0000,,Um protagonista descendente do Sen no Rikyu?
+Dialogue: 0,0:05:05.61,0:05:06.84,Main Dialogue,Aoi,0000,0000,0000,,Consigo imaginar isso!
+Dialogue: 0,0:05:06.84,0:05:09.94,Main Dialogue,Aoi,0000,0000,0000,,E, às vezes, Rikyu aparece como \Num espírito guia para dar conselhos!
+Dialogue: 0,0:05:09.94,0:05:13.91,Main Dialogue,Yua,0000,0000,0000,,E aposto que tem um estrangeiro \Nespecialista em cultura japonesa.
+Dialogue: 0,0:05:13.91,0:05:15.20,Main Dialogue,Koharu,0000,0000,0000,,Com certeza!
+Dialogue: 0,0:05:15.20,0:05:18.42,Main Dialogue,Koharu,0000,0000,0000,,E seu sotaque é bem característico.
+Dialogue: 0,0:05:16.01,0:05:17.36,Main Dialogue Top,Koharu,0000,0000,0000,,{\i1}É um {\i1}booom{\i0} chá!{\i0}
+Dialogue: 0,0:05:18.42,0:05:20.22,Main Dialogue,Aoi,0000,0000,0000,,E depois de tomar um gole de chá,
+Dialogue: 0,0:05:20.22,0:05:22.95,Main Dialogue,Aoi,0000,0000,0000,,um cenário maravilhoso aparece em sua frente.
+Dialogue: 0,0:05:22.95,0:05:24.92,Main Dialogue,Yua,0000,0000,0000,,Ah, como em programas culinários!
+Dialogue: 0,0:05:24.92,0:05:28.30,Main Dialogue,Hiina,0000,0000,0000,,"Aqui estão... Os Alpes Suíços.
+Dialogue: 0,0:05:28.30,0:05:32.07,Main Dialogue,Hiina,0000,0000,0000,,O aroma das árvores... Sim, é verão!"
+Dialogue: 0,0:05:32.66,0:05:35.83,Main Dialogue,Koharu,0000,0000,0000,,Eu esperava, no mínimo, um cenário japonês!
+Dialogue: 0,0:05:35.83,0:05:37.77,Main Dialogue,Aoi,0000,0000,0000,,É só uma grande imaginação.
+Dialogue: 0,0:05:37.77,0:05:38.90,Main Dialogue,Yua,0000,0000,0000,,É.
+Dialogue: 0,0:05:38.90,0:05:42.39,Main Dialogue,Koharu,0000,0000,0000,,E talvez a mãe do protagonista fosse \Numa especialista em chá
+Dialogue: 0,0:05:42.39,0:05:46.60,Main Dialogue,Koharu,0000,0000,0000,,que foi membro do mesmo clube do chá \Nmuito tempo atrás.
+Dialogue: 0,0:05:46.60,0:05:48.76,Main Dialogue,Koharu,0000,0000,0000,,Ou a irmã mais velha é uma profissional \Nfamosa no ramo
+Dialogue: 0,0:05:48.76,0:05:51.41,Main Dialogue,Koharu,0000,0000,0000,,e o protagonista é complexado com isso.
+Dialogue: 0,0:05:51.41,0:05:52.63,Main Dialogue,Aoi,0000,0000,0000,,É mesmo!
+Dialogue: 0,0:05:52.63,0:05:54.16,Main Dialogue,Yua,0000,0000,0000,,O título seria {\i1}Hora do Chá!{\i0}
+Dialogue: 0,0:05:53.04,0:05:56.43,Tea Time,Sign,0000,0000,0000,,{\c&H8E60F1&}Ho{\c&HC89B7E&}ra {\c&H758CED&}do{\c&H7DDFAD&} Chá{\c&H96B0D0&}!
+Dialogue: 0,0:05:54.16,0:05:55.95,Main Dialogue,Koharu,0000,0000,0000,,Sim, todo em hiragana.
+Dialogue: 0,0:05:55.95,0:05:58.44,Main Dialogue,Hiina,0000,0000,0000,,Se fosse shounen, o nome seria {\i1}Chá-Chá-Chá!{\i0}
+Dialogue: 0,0:05:57.07,0:06:00.34,Black Signs,Sign,0000,0000,0000,,{\c&H0048EA&}Chá-Chá-Chá!!
+Dialogue: 0,0:05:58.44,0:06:00.00,Main Dialogue,Yua,0000,0000,0000,,Tem um clima nostálgico.
+Dialogue: 0,0:06:00.00,0:06:01.03,Main Dialogue,Koharu,0000,0000,0000,,Sim!
+Dialogue: 0,0:06:01.03,0:06:04.66,Main Dialogue,Yua,0000,0000,0000,,Certo, agora que já compartilhamos \Nnossas noções do clube do chá,
+Dialogue: 0,0:06:04.66,0:06:07.19,Main Dialogue,Yua,0000,0000,0000,,vamos tentar criar um "clube do chá diferente"!
+Dialogue: 0,0:06:07.51,0:06:08.51,Main Dialogue,Yua,0000,0000,0000,,Ok, então!
+Dialogue: 0,0:06:08.51,0:06:09.20,Main Dialogue,Aoi,0000,0000,0000,,Ok!
+Dialogue: 0,0:06:09.20,0:06:09.88,Main Dialogue,Yua,0000,0000,0000,,Ok!
+Dialogue: 0,0:06:09.88,0:06:10.69,Main Dialogue,Yua,0000,0000,0000,,E então?
+Dialogue: 0,0:06:10.69,0:06:11.76,Main Dialogue,Koharu,0000,0000,0000,,Eu!
+Dialogue: 0,0:06:11.76,0:06:12.86,Main Dialogue,Hiina,0000,0000,0000,,Energético!
+Dialogue: 0,0:06:12.22,0:06:13.01,Main Dialogue Top,Yua,0000,0000,0000,,Koharun!
+Dialogue: 0,0:06:12.86,0:06:13.46,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:13.46,0:06:15.56,Main Dialogue,Yua,0000,0000,0000,,O "clube do chá diferente" da Koharun!
+Dialogue: 0,0:06:16.28,0:06:18.56,Main Dialogue,Koharu,0000,0000,0000,,Podem colocar leite no chá!
+Dialogue: 0,0:06:20.36,0:06:21.73,Main Dialogue,Hiina,0000,0000,0000,,É diferente!
+Dialogue: 0,0:06:21.73,0:06:22.98,Main Dialogue,Koharu,0000,0000,0000,,É diferente, né?
+Dialogue: 0,0:06:22.98,0:06:27.12,Main Dialogue,Koharu,0000,0000,0000,,Acho que adoçar é contra as regras,
+Dialogue: 0,0:06:27.12,0:06:29.99,Main Dialogue,Koharu,0000,0000,0000,,mas suavizar com leite tudo bem.
+Dialogue: 0,0:06:29.99,0:06:31.93,Main Dialogue,Yua,0000,0000,0000,,Em que momento você colocaria o leite?
+Dialogue: 0,0:06:31.93,0:06:33.06,Main Dialogue,Koharu,0000,0000,0000,,Acho que...
+Dialogue: 0,0:06:33.06,0:06:34.68,Main Dialogue,Koharu,0000,0000,0000,,Na hora que estiver mexendo.
+Dialogue: 0,0:06:34.68,0:06:37.34,Main Dialogue,Yua,0000,0000,0000,,Colocar o leite na hora de misturar o chá?
+Dialogue: 0,0:06:37.34,0:06:38.12,Main Dialogue,Hiina,0000,0000,0000,,É diferente.
+Dialogue: 0,0:06:38.12,0:06:39.05,Main Dialogue,Aoi,0000,0000,0000,,É diferente.
+Dialogue: 0,0:06:39.05,0:06:40.72,Main Dialogue,Yua,0000,0000,0000,,Ok, próxima. Alguém?
+Dialogue: 0,0:06:40.72,0:06:41.51,Main Dialogue,Aoi,0000,0000,0000,,Eu.
+Dialogue: 0,0:06:41.51,0:06:42.16,Main Dialogue,,0000,0000,0000,,Ah!
+Dialogue: 0,0:06:42.16,0:06:43.40,Main Dialogue,Koharu,0000,0000,0000,,Ok, Aoi-chan.
+Dialogue: 0,0:06:42.39,0:06:43.40,Main Dialogue Top,Yua,0000,0000,0000,,Aoi-chan.
+Dialogue: 0,0:06:43.40,0:06:43.95,Main Dialogue,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:43.95,0:06:46.01,Main Dialogue,Yua,0000,0000,0000,,O "clube do chá diferente" da Aoi!
+Dialogue: 0,0:06:46.26,0:06:49.01,Main Dialogue,Aoi,0000,0000,0000,,Você deve vestir uma calcinha marrom.
+Dialogue: 0,0:06:50.48,0:06:53.00,Main Dialogue,Hiina,0000,0000,0000,,Porque marrom é a cor do chá?
+Dialogue: 0,0:06:53.00,0:06:54.31,Main Dialogue,Aoi,0000,0000,0000,,Sim!
+Dialogue: 0,0:06:53.00,0:06:54.31,Main Dialogue Top,Aoi,0000,0000,0000,,Parece bom.
+Dialogue: 0,0:06:54.31,0:06:56.28,Main Dialogue,Koharu,0000,0000,0000,,I-Isso...
+Dialogue: 0,0:06:56.28,0:06:58.52,Main Dialogue,Koharu,0000,0000,0000,,Acho que isso causaria muitos mal entendidos!
+Dialogue: 0,0:06:58.52,0:07:02.64,Main Dialogue,Aoi,0000,0000,0000,,Bem, digo, elas estariam usando uniformes,
+Dialogue: 0,0:07:02.64,0:07:06.27,Main Dialogue,Aoi,0000,0000,0000,,mas se as calcinhas aparecessem, \Nseria vergonhoso.
+Dialogue: 0,0:07:06.27,0:07:06.95,Main Dialogue,Koharu,0000,0000,0000,,É.
+Dialogue: 0,0:07:06.95,0:07:10.92,Main Dialogue,Aoi,0000,0000,0000,,Mas se as calcinhas são marrom e é da cor do chá...
+Dialogue: 0,0:07:10.92,0:07:11.49,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:11.49,0:07:14.79,Main Dialogue,Aoi,0000,0000,0000,,E marrom é a cor do tatami, então tudo bem.
+Dialogue: 0,0:07:14.79,0:07:17.40,Main Dialogue Top,Hiina,0000,0000,0000,,Nada disso! De jeito nenhum.
+Dialogue: 0,0:07:16.44,0:07:19.11,Main Dialogue,Koharu,0000,0000,0000,,Acho que se vissem alguém \Nde calcinha marrom,
+Dialogue: 0,0:07:19.11,0:07:20.46,Main Dialogue,Koharu,0000,0000,0000,,causaria pânico.
+Dialogue: 0,0:07:20.46,0:07:21.26,Main Dialogue,Aoi,0000,0000,0000,,Não valeu?
+Dialogue: 0,0:07:21.26,0:07:22.44,Main Dialogue,Koharu,0000,0000,0000,,Não.
+Dialogue: 0,0:07:22.44,0:07:25.75,Main Dialogue,Hiina,0000,0000,0000,,Fãs das dubladoras gostariam disso, mas...
+Dialogue: 0,0:07:25.75,0:07:26.64,Main Dialogue,Yua,0000,0000,0000,,Os fãs de verdade.
+Dialogue: 0,0:07:26.64,0:07:27.42,Main Dialogue,Aoi,0000,0000,0000,,Fãs de verdade.
+Dialogue: 0,0:07:27.42,0:07:28.77,Main Dialogue,Yua,0000,0000,0000,,Ok. É diferente.
+Dialogue: 0,0:07:28.77,0:07:29.52,Main Dialogue,Aoi,0000,0000,0000,,Né?
+Dialogue: 0,0:07:29.14,0:07:29.52,Main Dialogue Top,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:29.52,0:07:30.13,Main Dialogue,Yua,0000,0000,0000,,Ok.
+Dialogue: 0,0:07:30.13,0:07:30.83,Main Dialogue,Hiina,0000,0000,0000,,Yua, tem um?
+Dialogue: 0,0:07:30.83,0:07:31.62,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:31.62,0:07:33.51,Main Dialogue,Yua,0000,0000,0000,,Um "clube do chá diferente".
+Dialogue: 0,0:07:33.51,0:07:35.52,Main Dialogue,Yua,0000,0000,0000,,Se prestar atenção...
+Dialogue: 0,0:07:36.83,0:07:39.21,Main Dialogue,Yua,0000,0000,0000,,Koharun, pode manter o estômago em silêncio?
+Dialogue: 0,0:07:37.84,0:07:38.89,Main Dialogue Top,Yua,0000,0000,0000,,Desculpa!
+Dialogue: 0,0:07:39.21,0:07:41.29,Main Dialogue,Koharu,0000,0000,0000,,Desculpa! Desculpa!
+Dialogue: 0,0:07:41.29,0:07:44.05,Main Dialogue,Yua,0000,0000,0000,,Agora perdi a vontade de falar.
+Dialogue: 0,0:07:44.05,0:07:46.72,Main Dialogue,Koharu,0000,0000,0000,,Não foi um som muito bonito.
+Dialogue: 0,0:07:46.72,0:07:48.38,Main Dialogue,Hiina,0000,0000,0000,,Fale, Yua!
+Dialogue: 0,0:07:48.38,0:07:49.18,Main Dialogue,Hiina,0000,0000,0000,,Mais uma vez!
+Dialogue: 0,0:07:49.18,0:07:51.21,Main Dialogue,Yua,0000,0000,0000,,Vou tentar. Vou me recompor e tentar.
+Dialogue: 0,0:07:51.21,0:07:52.36,Main Dialogue,Aoi,0000,0000,0000,,Tente mais uma vez!
+Dialogue: 0,0:07:52.36,0:07:53.13,Main Dialogue Top,Yua,0000,0000,0000,,Ok!
+Dialogue: 0,0:07:52.53,0:07:53.28,Main Dialogue,Aoi,0000,0000,0000,,Yua-senpai.
+Dialogue: 0,0:07:53.13,0:07:54.53,Main Dialogue Top,Yua,0000,0000,0000,,Um "clube do chá" diferente!
+Dialogue: 0,0:07:54.53,0:07:55.14,Main Dialogue,Aoi,0000,0000,0000,,Certo!
+Dialogue: 0,0:07:54.68,0:07:55.29,Main Dialogue Top,Koharu,0000,0000,0000,,Certo!
+Dialogue: 0,0:07:55.29,0:07:58.50,Main Dialogue,Yua,0000,0000,0000,,Se prestar atenção,
+Dialogue: 0,0:07:58.50,0:08:00.54,Main Dialogue,Yua,0000,0000,0000,,vai perceber que é um pincel de barbear.
+Dialogue: 0,0:08:01.25,0:08:02.41,Main Dialogue,Yua,0000,0000,0000,,Sabem o que é?
+Dialogue: 0,0:08:02.41,0:08:04.44,Main Dialogue,Aoi,0000,0000,0000,,Um pincel de barbear?
+Dialogue: 0,0:08:03.76,0:08:05.38,Main Dialogue Top,Hiina,0000,0000,0000,,Um pincel de barbear?
+Dialogue: 0,0:08:05.38,0:08:10.03,Main Dialogue,Yua,0000,0000,0000,,Barbeadores usam um pincel para \Npassar creme de barbear.
+Dialogue: 0,0:08:10.03,0:08:14.11,Main Dialogue,Yua,0000,0000,0000,,Ele se parece com o pincel que \Nusam para mexer o chá verde.
+Dialogue: 0,0:08:17.02,0:08:19.83,Main Dialogue,Yua,0000,0000,0000,,"É uma boa espuma."
+Dialogue: 0,0:08:21.64,0:08:22.92,Main Dialogue,Yua,0000,0000,0000,,É diferente, né?
+Dialogue: 0,0:08:22.92,0:08:24.68,Main Dialogue,Yua,0000,0000,0000,,Ok, próxima!
+Dialogue: 0,0:08:25.98,0:08:28.48,Main Dialogue,Yua,0000,0000,0000,,Próxima, vamos! Levante a mão.
+Dialogue: 0,0:08:28.48,0:08:29.85,Main Dialogue,Aoi,0000,0000,0000,,Assustador!
+Dialogue: 0,0:08:29.85,0:08:32.04,Main Dialogue,Hiina,0000,0000,0000,,Ok. Desculpa.
+Dialogue: 0,0:08:32.04,0:08:33.32,Main Dialogue,,0000,0000,0000,,Prossiga.
+Dialogue: 0,0:08:33.32,0:08:35.49,Main Dialogue,Yua,0000,0000,0000,,O "clube do chá diferente" da Hiina.
+Dialogue: 0,0:08:35.49,0:08:37.49,Main Dialogue,Hiina,0000,0000,0000,,Eles não falam sobre chá.
+Dialogue: 0,0:08:38.47,0:08:40.77,Main Dialogue,Koharu,0000,0000,0000,,Evitam o assunto?
+Dialogue: 0,0:08:40.77,0:08:41.54,Main Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:42.24,0:08:43.91,Main Dialogue,Hiina,0000,0000,0000,,Esse é o clube do chá?
+Dialogue: 0,0:08:43.91,0:08:45.96,Main Dialogue,Hiina,0000,0000,0000,,Oh, qual é a diferença?
+Dialogue: 0,0:08:45.96,0:08:48.25,Main Dialogue,Hiina,0000,0000,0000,,Existe algum truque para fazê-lo espumar?
+Dialogue: 0,0:08:49.06,0:08:51.55,Main Dialogue,Hiina,0000,0000,0000,,Mudando de assunto, o que comeremos \Ndepois da escola?
+Dialogue: 0,0:08:52.14,0:08:52.84,Main Dialogue,Aoi,0000,0000,0000,,Entendi.
+Dialogue: 0,0:08:52.84,0:08:54.25,Main Dialogue,Yua,0000,0000,0000,,É um clube duvidoso.
+Dialogue: 0,0:08:54.25,0:08:56.59,Main Dialogue,Koharu,0000,0000,0000,,Sim. Como se tivessem um segredo.
+Dialogue: 0,0:08:56.59,0:08:59.21,Main Dialogue,Koharu,0000,0000,0000,,Te faz questionar o que estão escondendo.
+Dialogue: 0,0:08:59.21,0:09:00.79,Main Dialogue,Yua,0000,0000,0000,,Eles não contam nada, é?
+Dialogue: 0,0:09:00.79,0:09:02.75,Main Dialogue,Hiina,0000,0000,0000,,Você não sabe nem quem é o líder do clube.
+Dialogue: 0,0:09:02.75,0:09:03.77,Main Dialogue,Koharu,0000,0000,0000,,Não sabe?
+Dialogue: 0,0:09:03.77,0:09:04.71,Main Dialogue,Yua,0000,0000,0000,,Não sabe!
+Dialogue: 0,0:09:04.71,0:09:06.74,Main Dialogue,Yua,0000,0000,0000,,Se eu perguntasse "quem é o líder do clube?"
+Dialogue: 0,0:09:06.74,0:09:10.59,Main Dialogue,Hiina,0000,0000,0000,,"Falando nisso, acho que é hora de fazer chá."
+Dialogue: 0,0:09:10.59,0:09:11.57,Main Dialogue,Aoi,0000,0000,0000,,É diferente.
+Dialogue: 0,0:09:11.03,0:09:12.33,Main Dialogue Top,Yua,0000,0000,0000,,É diferente.
+Dialogue: 0,0:09:13.61,0:09:16.53,Main Dialogue,Yua,0000,0000,0000,,Ok, quem agora?
+Dialogue: 0,0:09:16.91,0:09:18.53,Main Dialogue,Hiina,0000,0000,0000,,Bem, Yua, você tem algo?
+Dialogue: 0,0:09:18.53,0:09:21.03,Main Dialogue,Yua,0000,0000,0000,,Não, não, não!
+Dialogue: 0,0:09:21.03,0:09:22.49,Main Dialogue,Aoi,0000,0000,0000,,Vamos lá, Senpai!
+Dialogue: 0,0:09:21.29,0:09:23.26,Main Dialogue Top,Yua,0000,0000,0000,,Não, não, não! Não tenho nada!
+Dialogue: 0,0:09:22.49,0:09:25.17,Main Dialogue,Aoi,0000,0000,0000,,Um "clube do chá diferente"! Vai! Vai!
+Dialogue: 0,0:09:25.77,0:09:28.01,Main Dialogue,,0000,0000,0000,,Clube do chá! Clube do chá!
+Dialogue: 0,0:09:28.01,0:09:29.44,Main Dialogue,Yua,0000,0000,0000,,Não tenho nada!
+Dialogue: 0,0:09:29.44,0:09:30.31,Main Dialogue,,0000,0000,0000,,Tem sim!
+Dialogue: 0,0:09:30.31,0:09:32.74,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai! Yua-senpai!
+Dialogue: 0,0:09:30.50,0:09:33.39,Main Dialogue Top,Yua,0000,0000,0000,,Não, não, não!
+Dialogue: 0,0:09:32.74,0:09:34.45,Main Dialogue,,0000,0000,0000,,Está com cara de quem tem algo!
+Dialogue: 0,0:09:33.78,0:09:35.04,Main Dialogue Top,,0000,0000,0000,,Chá... Chá...
+Dialogue: 0,0:09:35.05,0:09:37.05,Main Dialogue,Yua,0000,0000,0000,,Ch-ch-ch-ch-...
+Dialogue: 0,0:09:37.05,0:09:39.00,Main Dialogue,Aoi,0000,0000,0000,,É um trocadilho! É um trocadilho!
+Dialogue: 0,0:09:39.75,0:09:41.24,Main Dialogue,Koharu,0000,0000,0000,,Ela começou a dançar!
+Dialogue: 0,0:09:42.07,0:09:43.50,Main Dialogue,Aoi,0000,0000,0000,,Como antigamente!
+Dialogue: 0,0:09:45.33,0:09:46.72,Main Dialogue,Yua,0000,0000,0000,,Foi o bastante?!
+Dialogue: 0,0:09:47.33,0:09:48.48,Main Dialogue,Yua,0000,0000,0000,,Já chega, né?
+Dialogue: 0,0:09:50.14,0:09:50.94,Main Dialogue,Aoi,0000,0000,0000,,Ótimo!
+Dialogue: 0,0:09:50.94,0:09:52.16,Main Dialogue,Koharu,0000,0000,0000,,Foi diferente.
+Dialogue: 0,0:09:52.16,0:09:54.26,Main Dialogue,Hiina,0000,0000,0000,,Mesmo se fizer algo...
+Dialogue: 0,0:09:54.26,0:09:57.88,Main Dialogue,Hiina,0000,0000,0000,,Ninguém pode ver as dubladoras.
+Dialogue: 0,0:09:57.88,0:09:59.55,Main Dialogue,Hiina,0000,0000,0000,,Não vão saber o que está acontecendo.
+Dialogue: 0,0:09:59.55,0:10:01.40,Main Dialogue,Yua,0000,0000,0000,,Não precisava dançar...
+Dialogue: 0,0:10:04.10,0:10:08.06,Main Dialogue,Girl,0000,0000,0000,,Eu sempre pego apimentada com vegetais extras.
+Dialogue: 0,0:10:08.06,0:10:10.95,Main Dialogue,Girl,0000,0000,0000,,Oh, você não pega a sopa salgada?
+Dialogue: 0,0:10:57.23,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:57.23,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 5\N{\fs24}Aspiração
+Dialogue: 0,0:10:57.23,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:58.90,0:11:00.55,Main Dialogue,Yua,0000,0000,0000,,É! Estamos bonitas!
+Dialogue: 0,0:11:00.55,0:11:03.21,Main Dialogue,Koharu,0000,0000,0000,,Isso não é algo que deveria ser mencionado!

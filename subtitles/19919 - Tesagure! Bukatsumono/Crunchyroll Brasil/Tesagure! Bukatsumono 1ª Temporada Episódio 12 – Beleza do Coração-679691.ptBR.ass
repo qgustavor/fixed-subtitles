@@ -1,0 +1,244 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H00C096D2,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H00C096D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0078,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H00C096D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H00C096D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Graduation Sign,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0350,0060,1
+Style: Application Sign,Arial,16,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0018,1
+Style: Wasabi Sign,Arial,16,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,0020,0165,0140,1
+Style: End Sign 1,Arial,18,&H004C009B,&H000000FF,&H00D59BE9,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0030,1
+Style: End Sign 2,Arial,18,&H00045D7E,&H000000FF,&H0000ABFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0090,1
+Style: End Sign 3,Arial,18,&H00AF6B05,&H000000FF,&H00D0C1AE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0140,1
+Style: End Sign 4,Arial,18,&H00009C1B,&H000000FF,&H0076F0FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0260,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:04.98,0:00:07.98,Graduation Sign,Sign,0000,0000,0000,,58ª Cerimônia \NGraduação
+Dialogue: 0,0:00:05.66,0:00:10.40,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Episódio 12\N{\fs22}Beleza do Coração
+Dialogue: 0,0:00:09.93,0:00:12.99,Main Dialogue,Aoi,0000,0000,0000,,Yua-senpai e Hiina-senpai estão se formando...
+Dialogue: 0,0:00:12.99,0:00:17.12,Main Dialogue,Koharu,0000,0000,0000,,Me pergunto se as duas vão chorar na cerimônia.
+Dialogue: 0,0:00:17.68,0:00:19.78,Main Dialogue,Aoi,0000,0000,0000,,Acho que elas não vão chorar.
+Dialogue: 0,0:00:19.78,0:00:21.46,Main Dialogue,Koharu,0000,0000,0000,,Você deve estar certa.
+Dialogue: 0,0:00:21.46,0:00:25.50,Main Dialogue,Koharu,0000,0000,0000,,Para mim, também é difícil imaginá-las chorando.
+Dialogue: 0,0:00:27.00,0:00:32.12,Main Dialogue,Koharu,0000,0000,0000,,Mas quando elas se formarem, serão apenas \Nnós duas no clube Tesagure.
+Dialogue: 0,0:00:32.63,0:00:36.06,Main Dialogue,Aoi,0000,0000,0000,,Tudo bem, o clube Tesagure sempre \Nterá quatro membros.
+Dialogue: 0,0:00:36.67,0:00:38.51,Main Dialogue,Koharu,0000,0000,0000,,Como assim?
+Dialogue: 0,0:00:39.16,0:00:40.76,Main Dialogue,Yua,0000,0000,0000,,Está pesado!
+Dialogue: 0,0:00:40.76,0:00:42.91,Main Dialogue,Aoi,0000,0000,0000,,Yua-senpai! Hiina-senpai!
+Dialogue: 0,0:00:42.91,0:00:45.27,Main Dialogue,Koharu,0000,0000,0000,,Parabéns pela graduação!
+Dialogue: 0,0:00:45.27,0:00:46.80,Main Dialogue,Yua,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:00:46.80,0:00:49.38,Main Dialogue,Yua,0000,0000,0000,,Mas como vou levar para casa?
+Dialogue: 0,0:00:49.38,0:00:50.54,Main Dialogue,Koharu,0000,0000,0000,,Desculpa!
+Dialogue: 0,0:00:50.54,0:00:52.53,Main Dialogue,Koharu,0000,0000,0000,,Temos sacolas para elas!
+Dialogue: 0,0:00:52.53,0:00:54.48,Main Dialogue,Hiina,0000,0000,0000,,É nossa última vez na sala do clube,
+Dialogue: 0,0:00:54.48,0:00:56.61,Main Dialogue,,0000,0000,0000,,então temos que levar essas coisas \Npara casa também.
+Dialogue: 0,0:00:56.60,0:00:57.74,Main Dialogue,Yua,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:00:57.74,0:00:59.99,Main Dialogue,Yua,0000,0000,0000,,Mas onde colocamos o quê?
+Dialogue: 0,0:00:59.99,0:01:01.53,Main Dialogue,Aoi,0000,0000,0000,,Vamos ajudar!
+Dialogue: 0,0:01:02.29,0:01:10.25,Wasabi Sign,Sign,0000,0000,0000,,Wasabi
+Dialogue: 0,0:01:02.79,0:01:05.12,Main Dialogue,Aoi,0000,0000,0000,,Isso é seu, Hiina-senpai?
+Dialogue: 0,0:01:05.12,0:01:07.16,Main Dialogue,Hiina,0000,0000,0000,,Acho que é da Yua.
+Dialogue: 0,0:01:08.20,0:01:10.25,Main Dialogue,Yua,0000,0000,0000,,Tinha esquecido desses!
+Dialogue: 0,0:01:12.76,0:01:15.05,Main Dialogue,Koharu,0000,0000,0000,,"Aaaa"...
+Dialogue: 0,0:01:12.76,0:01:18.80,Application Sign,Sign,0000,0000,0000,,Solicitação de Clube
+Dialogue: 0,0:01:15.05,0:01:16.92,Main Dialogue,Koharu,0000,0000,0000,,"Nanashi"...
+Dialogue: 0,0:01:16.92,0:01:18.80,Main Dialogue,Koharu,0000,0000,0000,,"Babubabu"?
+Dialogue: 0,0:01:18.80,0:01:20.19,Main Dialogue,Aoi,0000,0000,0000,,Isso é seu, Yua-senpai?
+Dialogue: 0,0:01:20.19,0:01:22.36,Main Dialogue,Yua,0000,0000,0000,,É meu!
+Dialogue: 0,0:01:22.36,0:01:23.48,Main Dialogue,Yua,0000,0000,0000,,O que vou fazer?
+Dialogue: 0,0:01:23.48,0:01:25.11,Main Dialogue,Yua,0000,0000,0000,,Não posso levar tudo isso para casa!
+Dialogue: 0,0:01:25.11,0:01:27.86,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai, o que é isso?
+Dialogue: 0,0:01:28.40,0:01:33.08,Main Dialogue,Yua,0000,0000,0000,,Oh, é o registro das solicitações \Nque mandamos todos os anos.
+Dialogue: 0,0:01:33.08,0:01:34.82,Main Dialogue,Kohatsu,0000,0000,0000,,Solicitações?
+Dialogue: 0,0:01:34.82,0:01:38.66,Main Dialogue,Yua,0000,0000,0000,,Mandar uma é o primeiro trabalho \Ndo líder do clube todos os anos.
+Dialogue: 0,0:01:38.66,0:01:40.90,Main Dialogue,Hiina,0000,0000,0000,,Nunca decidimos o que nosso clube fará,
+Dialogue: 0,0:01:40.90,0:01:43.17,Main Dialogue,,0000,0000,0000,,então eles nos rejeitam todos os anos.
+Dialogue: 0,0:01:43.99,0:01:47.24,Main Dialogue,Koharu,0000,0000,0000,,Se sabem que vão rejeitar, \Npor que mandar todo ano?
+Dialogue: 0,0:01:47.24,0:01:51.75,Main Dialogue,Koharu,0000,0000,0000,,E nenhum desses nomes dá uma dica \Ndo que o clube faz!
+Dialogue: 0,0:01:51.75,0:01:56.18,Main Dialogue,Hiina,0000,0000,0000,,Pensando nisso, Koharun, achou um clube \Ndo qual queira participar?
+Dialogue: 0,0:01:56.18,0:01:59.76,Main Dialogue,Aoi,0000,0000,0000,,Você disse que queria achar \Num clube adequado, né?
+Dialogue: 0,0:01:59.76,0:02:03.16,Main Dialogue,Koharu,0000,0000,0000,,Agora que você comentou, \Ntalvez eu tenha dito isso...
+Dialogue: 0,0:02:04.93,0:02:09.77,Main Dialogue,Koharu,0000,0000,0000,,Mas não sei por que eu me importava tanto \Nem achar um clube adequado.
+Dialogue: 0,0:02:09.77,0:02:13.18,Main Dialogue,Koharu,0000,0000,0000,,Aqui no clube Tesagure nós falamos \Nsobre todos os tipos de clube,
+Dialogue: 0,0:02:13.18,0:02:18.57,Main Dialogue,Koharu,0000,0000,0000,,pensamos em clubes diferentes, tentamos fazê-los,\N praticamos dança...
+Dialogue: 0,0:02:18.57,0:02:20.74,Main Dialogue,Koharu,0000,0000,0000,,Foi divertido!
+Dialogue: 0,0:02:22.31,0:02:25.79,Main Dialogue,Yua,0000,0000,0000,,Deve ser porque você mudou, Koharun.
+Dialogue: 0,0:02:25.79,0:02:27.74,Main Dialogue,Koharu,0000,0000,0000,,Não mudei tanto assim!
+Dialogue: 0,0:02:27.74,0:02:31.17,Main Dialogue,Koharu,0000,0000,0000,,Só tentei acompanhar vocês três.
+Dialogue: 0,0:02:31.17,0:02:35.92,Main Dialogue,Yua,0000,0000,0000,,Na verdade, continuar procurando clubes \Ndiferentes é o propósito desse clube.
+Dialogue: 0,0:02:36.76,0:02:38.32,Main Dialogue,Koharu,0000,0000,0000,,Como assim?
+Dialogue: 0,0:02:38.32,0:02:42.21,Main Dialogue,Hiina,0000,0000,0000,,Parece que o criador desse clube valorizava mais
+Dialogue: 0,0:02:42.21,0:02:45.93,Main Dialogue,Hiina,0000,0000,0000,,"com quem passamos o tempo" \Ndo que "o que fazemos".
+Dialogue: 0,0:02:45.93,0:02:48.02,Main Dialogue,Koharu,0000,0000,0000,,Com quem passamos o tempo...
+Dialogue: 0,0:02:48.02,0:02:52.22,Main Dialogue,Yua,0000,0000,0000,,Isso mesmo. Qualquer coisa serve, mas o propósito é
+Dialogue: 0,0:02:52.22,0:02:55.35,Main Dialogue,Yua,0000,0000,0000,,"que os membros passem por dificuldades \Ne aprendam juntos."
+Dialogue: 0,0:02:55.35,0:02:57.69,Main Dialogue,Yua,0000,0000,0000,,Foi assim em todas as "gerações" do clube.
+Dialogue: 0,0:02:57.69,0:03:01.44,Main Dialogue,Yua,0000,0000,0000,,Mesmo que o clube tenha feito atividades comuns,
+Dialogue: 0,0:03:01.44,0:03:05.55,Main Dialogue,Yua,0000,0000,0000,,esses 12 meses que os membros \Npassaram juntos foram únicos
+Dialogue: 0,0:03:05.55,0:03:07.04,Main Dialogue,Yua,0000,0000,0000,,e insubstituíveis, certo?
+Dialogue: 0,0:03:07.04,0:03:09.78,Main Dialogue,Aoi,0000,0000,0000,,Não é só "trocando as mãos", \Né "trocando as oito mãos", né?
+Dialogue: 0,0:03:10.96,0:03:15.72,Main Dialogue,Koharu,0000,0000,0000,,Eu disse que não encontrava \Num clube do qual participar.
+Dialogue: 0,0:03:15.72,0:03:18.01,Main Dialogue,Koharu,0000,0000,0000,,Estávamos pensando em clubes todo \Nesse tempo por minha causa?
+Dialogue: 0,0:03:18.01,0:03:22.16,Main Dialogue,Hiina,0000,0000,0000,,A única regra desse clube é \Nachar um calouro todo ano
+Dialogue: 0,0:03:22.16,0:03:25.13,Main Dialogue,Hiina,0000,0000,0000,,e aprendermos com a troca de experiência.
+Dialogue: 0,0:03:25.13,0:03:29.27,Main Dialogue,Yua,0000,0000,0000,,Quando éramos calouras, nossos senpais \Ntambém nos acompanharam.
+Dialogue: 0,0:03:29.27,0:03:32.48,Main Dialogue,Aoi,0000,0000,0000,,Lembra que eu disse que iríamos \Nte mimar no começo?
+Dialogue: 0,0:03:33.07,0:03:37.72,Main Dialogue,Hiina,0000,0000,0000,,Em algum momento você virou um \Nverdadeiro membro do clube Tesagure
+Dialogue: 0,0:03:37.72,0:03:41.06,Main Dialogue,Hiina,0000,0000,0000,,e começou a se divertir com \No processo de aprendizagem.
+Dialogue: 0,0:03:42.99,0:03:47.05,Main Dialogue,Yua,0000,0000,0000,,Bem, tiramos praticamente tudo do caminho.
+Dialogue: 0,0:03:47.05,0:03:51.71,Main Dialogue,Yua,0000,0000,0000,,Agora teremos nossa cerimônia \Ndos "encarregados", façam fila.
+Dialogue: 0,0:03:53.00,0:03:56.50,Main Dialogue,Yua,0000,0000,0000,,Koharun, é uma cerimônia importante, então \Nmantenha o estômago quieto, ok?
+Dialogue: 0,0:03:56.50,0:03:58.89,Main Dialogue,Koharu,0000,0000,0000,,N-Não fará nenhum barulho!
+Dialogue: 0,0:04:00.01,0:04:02.69,Main Dialogue,Yua,0000,0000,0000,,Primeiro, a próxima líder do \Nclube será nomeada.
+Dialogue: 0,0:04:03.84,0:04:06.76,Main Dialogue,Yua,0000,0000,0000,,A próxima líder do clube é você, Aoi.
+Dialogue: 0,0:04:06.76,0:04:09.49,Main Dialogue,Yua,0000,0000,0000,,Na língua das flores, uma dafne de mentira \Nsignifica mudança de geração.
+Dialogue: 0,0:04:10.33,0:04:13.17,Main Dialogue,Yua,0000,0000,0000,,É uma marca importante que tem sido passada
+Dialogue: 0,0:04:13.17,0:04:15.06,Default,,0000,0000,0000,,desde o primeiro líder.
+Dialogue: 0,0:04:15.06,0:04:16.71,Main Dialogue,Yua,0000,0000,0000,,Não perca.
+Dialogue: 0,0:04:17.39,0:04:18.20,Main Dialogue,Aoi,0000,0000,0000,,Não perderei.
+Dialogue: 0,0:04:18.73,0:04:21.41,Main Dialogue,Hiina,0000,0000,0000,,Às vezes, a Yua esquecia de usá-la.
+Dialogue: 0,0:04:23.00,0:04:26.35,Main Dialogue,Yua,0000,0000,0000,,Prosseguindo, agora nomearei a vice-líder.
+Dialogue: 0,0:04:27.24,0:04:28.96,Main Dialogue,Hiina,0000,0000,0000,,Você é a próxima vice-líder, Koharun.
+Dialogue: 0,0:04:29.99,0:04:33.17,Main Dialogue,Hiina,0000,0000,0000,,A flor que está presa aqui é uma videira,
+Dialogue: 0,0:04:33.17,0:04:36.32,Main Dialogue,Hiina,0000,0000,0000,,que significa "junto a você" na língua das flores.
+Dialogue: 0,0:04:36.32,0:04:38.74,Main Dialogue,Hiina,0000,0000,0000,,Por favor, ajude nossa indomável Aoi-chan.
+Dialogue: 0,0:04:40.54,0:04:44.79,Main Dialogue,Yua,0000,0000,0000,,Obrigada, nossos últimos 12 meses foram
+Dialogue: 0,0:04:44.79,0:04:47.64,Main Dialogue,,0000,0000,0000,,um tesouro que não será esquecido.
+Dialogue: 0,0:04:47.92,0:04:49.23,Main Dialogue,Yua,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:04:49.23,0:04:52.74,Main Dialogue,Hiina,0000,0000,0000,,Por favor, cuidem desse clube que amamos.
+Dialogue: 0,0:04:54.98,0:04:58.12,Main Dialogue,Yua,0000,0000,0000,,E esse é o fim da cerimônia dos "encarregados".
+Dialogue: 0,0:04:58.74,0:05:01.56,Main Dialogue,Aoi,0000,0000,0000,,Bem, por que não tiramos uma foto antes de ir?
+Dialogue: 0,0:05:01.56,0:05:02.64,Main Dialogue,Hiina,0000,0000,0000,,Boa ideia.
+Dialogue: 0,0:05:03.66,0:05:04.99,Main Dialogue,Koharu,0000,0000,0000,,Não consigo fazer isso.
+Dialogue: 0,0:05:06.41,0:05:09.90,Main Dialogue,Koharu,0000,0000,0000,,Nunca ouvi falar em um clube tão doido assim!
+Dialogue: 0,0:05:12.11,0:05:17.04,Main Dialogue,Koharu,0000,0000,0000,,Não posso ser a vice presidente desse clube!
+Dialogue: 0,0:05:17.04,0:05:19.22,Main Dialogue,Koharu,0000,0000,0000,,Não entendo nada!
+Dialogue: 0,0:05:19.22,0:05:22.10,Main Dialogue,Koharu,0000,0000,0000,,Só penso em mim!
+Dialogue: 0,0:05:22.10,0:05:25.18,Main Dialogue,Koharu,0000,0000,0000,,Só acompanhei vocês três!
+Dialogue: 0,0:05:25.18,0:05:28.06,Main Dialogue,Koharu,0000,0000,0000,,Não posso ser a vice presidente!
+Dialogue: 0,0:05:29.39,0:05:36.25,Main Dialogue,Koharu,0000,0000,0000,,Até Aoi-senpai, temperamental, livre de espírito
+Dialogue: 0,0:05:36.25,0:05:40.02,Main Dialogue,Koharu,0000,0000,0000,,e seu amor por trocadilhos não pode ser líder!
+Dialogue: 0,0:05:42.98,0:05:45.84,Main Dialogue,Koharu,0000,0000,0000,,Não vai funcionar sem vocês duas!
+Dialogue: 0,0:05:46.72,0:05:52.99,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai e Hiina-senpai, se vocês saírem, \No clube Tesagure não vai dar certo!
+Dialogue: 0,0:05:54.39,0:06:00.54,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai... Hiina-senpai...
+Dialogue: 0,0:06:00.54,0:06:02.32,Main Dialogue,Koharu,0000,0000,0000,,Por favor, não se formem!
+Dialogue: 0,0:06:04.35,0:06:07.55,Main Dialogue,Koharu,0000,0000,0000,,Por favor, não se formem...
+Dialogue: 0,0:06:09.01,0:06:10.22,Main Dialogue,Aoi,0000,0000,0000,,Koharun...
+Dialogue: 0,0:06:12.39,0:06:14.49,Main Dialogue,Yua,0000,0000,0000,,Aoi ficou assim ano passado.
+Dialogue: 0,0:06:15.46,0:06:17.51,Main Dialogue,Hiina,0000,0000,0000,,E a Yua dois anos atrás.
+Dialogue: 0,0:06:18.27,0:06:21.46,Main Dialogue,Yua,0000,0000,0000,,H-Hiina, você chorou indo para casa!
+Dialogue: 0,0:06:56.36,0:07:01.66,Main Dialogue,Yua,0000,0000,0000,,Certo. Devemos pensar em \Num último clube diferente?
+Dialogue: 0,0:07:01.66,0:07:02.83,Main Dialogue,Hiina,0000,0000,0000,,Boa ideia.
+Dialogue: 0,0:07:02.83,0:07:04.19,Main Dialogue,Aoi,0000,0000,0000,,Sim!
+Dialogue: 0,0:07:05.22,0:07:07.28,Main Dialogue,Koharu,0000,0000,0000,,Uma hora dessas?
+Dialogue: 0,0:07:07.28,0:07:12.95,Main Dialogue,Yua,0000,0000,0000,,Vamos pensar em um "clube Tesagure diferente"!
+Dialogue: 0,0:07:17.44,0:07:18.80,Main Dialogue,Yua,0000,0000,0000,,Alguém tem ideias?
+Dialogue: 0,0:07:18.80,0:07:19.81,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:07:20.45,0:07:21.69,Main Dialogue,Yua,0000,0000,0000,,Quem?
+Dialogue: 0,0:07:21.69,0:07:22.81,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:07:22.81,0:07:25.46,Main Dialogue,Yua,0000,0000,0000,,O "clube Tesagure diferente" da Aoi!
+Dialogue: 0,0:07:25.46,0:07:28.96,Main Dialogue,Aoi,0000,0000,0000,,Todos têm que rir de tudo que a líder propõe!
+Dialogue: 0,0:07:29.83,0:07:31.80,Main Dialogue,Hiina,0000,0000,0000,,É obrigatório!
+Dialogue: 0,0:07:31.80,0:07:32.66,Main Dialogue,Aoi,0000,0000,0000,,Bláblá e...
+Dialogue: 0,0:07:34.97,0:07:38.70,Main Dialogue,Koharu,0000,0000,0000,,E não importa o quão falso pareça, \Nvocê aceitaria, hein?
+Dialogue: 0,0:07:38.70,0:07:39.90,Main Dialogue,Aoi,0000,0000,0000,,Eu aceito!
+Dialogue: 0,0:07:39.90,0:07:41.72,Main Dialogue,Aoi,0000,0000,0000,,Se eles rirem, tudo bem!
+Dialogue: 0,0:07:41.72,0:07:42.98,Main Dialogue,Koharu,0000,0000,0000,,Então tudo bem.
+Dialogue: 0,0:07:42.98,0:07:47.32,Main Dialogue,Hiina,0000,0000,0000,,Seria como uma comédia americana.
+Dialogue: 0,0:07:49.17,0:07:51.04,Main Dialogue,Yua,0000,0000,0000,,Certo. Eu vou.
+Dialogue: 0,0:07:51.04,0:07:52.95,Main Dialogue,Yua,0000,0000,0000,,Meu "clube Tesagure diferente"!
+Dialogue: 0,0:07:53.82,0:07:56.87,Main Dialogue,Yua,0000,0000,0000,,Todos constroem ideias do jeito errado!
+Dialogue: 0,0:07:56.87,0:07:59.45,Main Dialogue,Yua,0000,0000,0000,,Todos viram a Koharun!
+Dialogue: 0,0:07:59.45,0:08:02.41,Main Dialogue,Koharu,0000,0000,0000,,Parece que eu sou ruim!
+Dialogue: 0,0:08:02.41,0:08:03.71,Main Dialogue Top,Aoi,0000,0000,0000,,Entendi.
+Dialogue: 0,0:08:02.41,0:08:03.71,Main Dialogue,Yua,0000,0000,0000,,Certo. Todos eles.
+Dialogue: 0,0:08:03.71,0:08:05.64,Main Dialogue,Hiina,0000,0000,0000,,As ideias iriam numa direção diferente, né?
+Dialogue: 0,0:08:05.64,0:08:06.49,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:06.49,0:08:07.68,Main Dialogue,Aoi,0000,0000,0000,,Seria um problema.
+Dialogue: 0,0:08:07.68,0:08:08.31,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:08.31,0:08:09.77,Main Dialogue,Aoi,0000,0000,0000,,Uma loucura de corpo e alma.
+Dialogue: 0,0:08:09.43,0:08:10.20,Main Dialogue Top,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:09.77,0:08:11.51,Main Dialogue,Aoi,0000,0000,0000,,Uma verdadeira loucura.
+Dialogue: 0,0:08:11.51,0:08:15.71,Main Dialogue,Yua,0000,0000,0000,,Sim. E todos são modelos da Koharun, então seria:
+Dialogue: 0,0:08:15.71,0:08:17.53,Main Dialogue,Yua,0000,0000,0000,,"Como assim?"
+Dialogue: 0,0:08:17.53,0:08:19.52,Main Dialogue,Yua,0000,0000,0000,,Ou "O que é isso? Eu não sei."
+Dialogue: 0,0:08:20.19,0:08:21.55,Main Dialogue,Aoi,0000,0000,0000,,E ficaria assim para sempre.
+Dialogue: 0,0:08:21.55,0:08:22.77,Main Dialogue,Yua,0000,0000,0000,,Sim, continuaria.
+Dialogue: 0,0:08:22.77,0:08:24.92,Main Dialogue,Koharu,0000,0000,0000,,Então não deveriam existir várias de mim, é?
+Dialogue: 0,0:08:24.92,0:08:25.98,Main Dialogue,Koharu,0000,0000,0000,,Só uma está bom!
+Dialogue: 0,0:08:25.98,0:08:27.13,Main Dialogue,Aoi,0000,0000,0000,,Uma é tudo que precisamos.
+Dialogue: 0,0:08:27.13,0:08:27.96,Main Dialogue,Yua,0000,0000,0000,,"Uma é tudo que precisamos..."
+Dialogue: 0,0:08:27.96,0:08:29.34,Main Dialogue,Koharu,0000,0000,0000,,Uma está bom.
+Dialogue: 0,0:08:29.34,0:08:30.44,Main Dialogue,Yua,0000,0000,0000,,Mas eu ficaria solitária sem você...
+Dialogue: 0,0:08:30.44,0:08:31.00,Main Dialogue,Hiina,0000,0000,0000,,Sim!
+Dialogue: 0,0:08:31.00,0:08:32.25,Main Dialogue,Yua,0000,0000,0000,,Várias seria horrível.
+Dialogue: 0,0:08:32.09,0:08:33.00,Main Dialogue Top,Aoi,0000,0000,0000,,Sim!
+Dialogue: 0,0:08:32.25,0:08:34.06,Main Dialogue,Hiina,0000,0000,0000,,É mesmo. Só uma!
+Dialogue: 0,0:08:33.55,0:08:34.50,Main Dialogue Top,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:34.06,0:08:35.42,Main Dialogue,Koharu,0000,0000,0000,,Está ótimo!
+Dialogue: 0,0:08:35.42,0:08:36.43,Main Dialogue,Yua,0000,0000,0000,,Koharun...
+Dialogue: 0,0:08:36.43,0:08:38.33,Main Dialogue,Yua,0000,0000,0000,,De agora para frente, dê o seu melhor!
+Dialogue: 0,0:08:38.33,0:08:39.99,Main Dialogue,Hiina,0000,0000,0000,,Porque será vocês duas.
+Dialogue: 0,0:08:39.99,0:08:43.25,Main Dialogue,Aoi,0000,0000,0000,,Ano que vem farei um bom trabalho \Nrecrutando os novos membros.
+Dialogue: 0,0:08:44.17,0:08:45.13,Main Dialogue,Yua,0000,0000,0000,,Espere um segundo.
+Dialogue: 0,0:08:45.13,0:08:47.55,Main Dialogue,Yua,0000,0000,0000,,Cometemos um erro com a Koharun?
+Dialogue: 0,0:08:47.55,0:08:50.52,Main Dialogue,Aoi,0000,0000,0000,,Foi um erro, então ano que vem...
+Dialogue: 0,0:08:50.52,0:08:52.67,Main Dialogue,Hiina,0000,0000,0000,,Desculpa, eu que trouxe ela.
+Dialogue: 0,0:08:52.67,0:08:54.61,Main Dialogue,Aoi,0000,0000,0000,,É mesmo! É culpa da Hiina-senpai!
+Dialogue: 0,0:08:54.61,0:08:56.39,Main Dialogue,Hiina,0000,0000,0000,,Sou a culpada.
+Dialogue: 0,0:08:56.39,0:08:58.76,Main Dialogue,Koharu,0000,0000,0000,,Aoi-senpai, você elogia alguém e depois xinga.
+Dialogue: 0,0:08:59.48,0:09:01.67,Main Dialogue,Yua,0000,0000,0000,,Ela te trouxe porque você era diferente de nós.
+Dialogue: 0,0:09:01.67,0:09:02.61,Main Dialogue,Hiina,0000,0000,0000,,É verdade.
+Dialogue: 0,0:09:02.61,0:09:04.52,Main Dialogue,Aoi,0000,0000,0000,,Verdade, ela não era como nós.
+Dialogue: 0,0:09:04.52,0:09:05.77,Main Dialogue,Yua,0000,0000,0000,,Sim, é verdade.
+Dialogue: 0,0:09:05.77,0:09:08.05,Main Dialogue,Yua,0000,0000,0000,,Tínhamos alguém lamentável, ops, disse lamentável.
+Dialogue: 0,0:09:08.05,0:09:09.09,Main Dialogue,Yua,0000,0000,0000,,Ah...
+Dialogue: 0,0:09:13.99,0:09:15.66,Main Dialogue,Yua,0000,0000,0000,,Você está triste, eu sei! Estamos nos formando...
+Dialogue: 0,0:09:15.66,0:09:17.34,Main Dialogue,Koharu,0000,0000,0000,,Não estou chorando por causa disso!
+Dialogue: 0,0:09:20.24,0:09:21.33,Main Dialogue,Hiina,0000,0000,0000,,Que divertido...
+Dialogue: 0,0:10:10.28,0:10:12.27,Main Dialogue,Aoi,0000,0000,0000,,Você conseguiu, Koharun!
+Dialogue: 0,0:10:12.27,0:10:15.34,Main Dialogue,Koharu,0000,0000,0000,,Eu... Eu dancei... Eu...
+Dialogue: 0,0:10:15.92,0:10:18.03,Main Dialogue,Hiina,0000,0000,0000,,Koharun, boa sorte!
+Dialogue: 0,0:10:18.74,0:10:22.05,Main Dialogue,Yua,0000,0000,0000,,Obrigada por 12 meses incríveis!
+Dialogue: 0,0:10:24.37,0:10:27.98,Graduation Sign,Sign,0000,0000,0000,,{\fad(500,1)}59ª \NCerimônia \Nde Entrada
+Dialogue: 0,0:10:27.98,0:10:31.77,Main Dialogue,Mobu,0000,0000,0000,,Ontem a Mobuko-nee-chan comeu meu pudim.
+Dialogue: 0,0:10:31.77,0:10:34.27,Main Dialogue,Mobu,0000,0000,0000,,Perdi tudo.
+Dialogue: 0,0:10:34.27,0:10:36.99,Main Dialogue,Mobu,0000,0000,0000,,Nossa, que horror!
+Dialogue: 0,0:10:37.41,0:10:39.49,Main Dialogue,Aoi,0000,0000,0000,,O que faremos com o nome?
+Dialogue: 0,0:10:39.49,0:10:42.99,Main Dialogue,Koharu,0000,0000,0000,,De qualquer forma não aceitarão, né?
+Dialogue: 0,0:10:42.99,0:10:46.75,Main Dialogue,Koharu,0000,0000,0000,,Então devíamos dar um nome bem destacado.
+Dialogue: 0,0:10:46.75,0:10:48.78,Main Dialogue,Aoi,0000,0000,0000,,Koharun, você mudou mesmo.
+Dialogue: 0,0:10:48.78,0:10:51.62,Main Dialogue,Koharu,0000,0000,0000,,Afinal, sou a vice-líder...
+Dialogue: 0,0:10:52.90,0:10:53.61,Main Dialogue,Aoi,0000,0000,0000,,Certo!
+Dialogue: 0,0:10:53.61,0:10:57.78,Main Dialogue,Aoi,0000,0000,0000,,Então devíamos colocar um nome charmoso!
+Dialogue: 0,0:10:58.50,0:10:59.49,Main Dialogue,Aoi,0000,0000,0000,,Que tal assim?
+Dialogue: 0,0:11:00.47,0:11:03.55,Application Sign,Sign,0000,0000,0000,,{\fs22}Solicitação de Clube\N\N\N\N\N{\fs18}Nome do Clube           {\b0}Clube! Tesagure
+Dialogue: 0,0:11:01.30,0:11:02.79,Main Dialogue,Koharu,0000,0000,0000,,É diferente!
+Dialogue: 0,0:11:03.55,0:11:05.64,End Sign 1,Sign,0000,0000,0000,,Graduação \NYua & Hiina
+Dialogue: 0,0:11:03.55,0:11:05.64,End Sign 2,Sign,0000,0000,0000,,Eu amo a Koharun!
+Dialogue: 0,0:11:03.55,0:11:05.64,End Sign 3,Sign,0000,0000,0000,,Trocando Mãos
+Dialogue: 0,0:11:03.55,0:11:05.64,End Sign 4,Sign,0000,0000,0000,,Continua

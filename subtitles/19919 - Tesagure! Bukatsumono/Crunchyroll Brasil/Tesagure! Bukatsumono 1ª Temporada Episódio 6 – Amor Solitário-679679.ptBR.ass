@@ -1,0 +1,272 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H00967B72,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H00C096D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0038,0020,0025,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H00C096D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H00C096D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Girlfriend Sign 1,Arial,12,&H005E5E5E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0330,0105,1
+Style: Girlfriend Sign 2,Arial,13,&H00474748,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0220,0135,1
+Style: Girlfriend Sign 3,Arial,14,&H002F2F30,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0050,0147,1
+Style: Girlfriend Sign 4,Arial,16,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0120,0020,0150,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:01.79,0:01:04.58,Main Dialogue,Yua,0000,0000,0000,,Vamos tentar criar um clube diferente hoje.
+Dialogue: 0,0:01:02.49,0:01:07.00,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Episódio 6\N{\fs22}Amor Solitário
+Dialogue: 0,0:01:04.58,0:01:06.22,Main Dialogue,Aoi,0000,0000,0000,,Com qual devemos começar?
+Dialogue: 0,0:01:06.22,0:01:07.88,Main Dialogue,Hiina,0000,0000,0000,,Que tal a orquestra?
+Dialogue: 0,0:01:07.88,0:01:09.78,Main Dialogue,Yua,0000,0000,0000,,Ah, a orquestra!
+Dialogue: 0,0:01:09.78,0:01:11.60,Main Dialogue,Yua,0000,0000,0000,,Que ideia vocês têm dela?
+Dialogue: 0,0:01:11.60,0:01:12.80,Main Dialogue,Aoi,0000,0000,0000,,Meninas ricas!
+Dialogue: 0,0:01:13.19,0:01:16.77,Main Dialogue,Yua,0000,0000,0000,,É verdade. Elas são elegantes...
+Dialogue: 0,0:01:16.77,0:01:20.29,Main Dialogue,Yua,0000,0000,0000,,E os instrumentos podem custar \Nmilhares de ienes. Tão caro!
+Dialogue: 0,0:01:20.29,0:01:23.45,Main Dialogue,Aoi,0000,0000,0000,,Nenhum outro clube usa coisas tão caras, né?
+Dialogue: 0,0:01:23.45,0:01:24.42,Main Dialogue,Yua,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:01:24.42,0:01:28.40,Main Dialogue,Hiina,0000,0000,0000,,Os instrumentos são tão caros que mesmo \Nse elas quiserem sair, não podem,
+Dialogue: 0,0:01:28.40,0:01:31.17,Main Dialogue,Hiina,0000,0000,0000,,então muitos alunos continuam por costume
+Dialogue: 0,0:01:31.17,0:01:32.78,Main Dialogue,Hiina,0000,0000,0000,,no meio do segundo ano.
+Dialogue: 0,0:01:32.78,0:01:36.55,Main Dialogue,Koharu,0000,0000,0000,,Talvez não seja um clube para \Nquem cansa das coisas rápido.
+Dialogue: 0,0:01:36.55,0:01:39.80,Main Dialogue,Yua,0000,0000,0000,,Vários entram com seus irmãos e irmãs.
+Dialogue: 0,0:01:39.80,0:01:44.34,Main Dialogue,Aoi,0000,0000,0000,,Sempre temos que chamá-los \Nde "mais velho" ou "mais novo"!
+Dialogue: 0,0:01:44.34,0:01:49.01,Main Dialogue,Hiina,0000,0000,0000,,Aposto que eles não conseguem ver \Numa banda na TV ou em filmes sem dizer,
+Dialogue: 0,0:01:49.01,0:01:50.79,Main Dialogue,Hiina,0000,0000,0000,,"Eles não estão tocando de verdade!"
+Dialogue: 0,0:01:50.79,0:01:52.37,Main Dialogue,Yua,0000,0000,0000,,Eles percebem, né?
+Dialogue: 0,0:01:52.37,0:01:56.49,Main Dialogue,Yua,0000,0000,0000,,E a hierarquia senpai-kouhai é \Nincrivelmente presente,
+Dialogue: 0,0:01:56.49,0:01:59.48,Main Dialogue,Yua,0000,0000,0000,,então deve parecer um clube atlético.
+Dialogue: 0,0:01:59.48,0:02:01.30,Main Dialogue,Hiina,0000,0000,0000,,Dizem que se um senpai toca alguma parte mal,
+Dialogue: 0,0:02:01.30,0:02:05.10,Main Dialogue,Hiina,0000,0000,0000,,o kouhai presta atenção para \Nnão tocar melhor que o senpai.
+Dialogue: 0,0:02:05.10,0:02:08.47,Main Dialogue,Hiina,0000,0000,0000,,E quando estão comprando instrumentos, \No kouhai toma cuidado para não comprar
+Dialogue: 0,0:02:08.47,0:02:10.27,Main Dialogue,Hiina,0000,0000,0000,,um mais caro que o do senpai.
+Dialogue: 0,0:02:10.27,0:02:12.73,Main Dialogue,Koharu,0000,0000,0000,,Em vez da hierarquia de um clube atlético,
+Dialogue: 0,0:02:12.73,0:02:15.86,Main Dialogue,Koharu,0000,0000,0000,,parece mais com um empregado submisso ao chefe.
+Dialogue: 0,0:02:15.86,0:02:16.65,Main Dialogue,Yua,0000,0000,0000,,Mais alguma coisa?
+Dialogue: 0,0:02:16.65,0:02:17.69,Main Dialogue,Aoi,0000,0000,0000,,Muitas meninas!
+Dialogue: 0,0:02:17.69,0:02:20.28,Main Dialogue,Yua,0000,0000,0000,,Ah, sim. Me pergunto por que são tão metidas.
+Dialogue: 0,0:02:20.28,0:02:23.85,Main Dialogue,Koharu,0000,0000,0000,,Como são poucos meninos, \Neles devem ser populares no clube.
+Dialogue: 0,0:02:23.85,0:02:24.92,Main Dialogue,Yua,0000,0000,0000,,Acho que sim.
+Dialogue: 0,0:02:24.92,0:02:27.78,Main Dialogue,Yua,0000,0000,0000,,Dizem que alguns membros têm vários \Nromances durante os três anos,
+Dialogue: 0,0:02:27.78,0:02:31.61,Main Dialogue,Yua,0000,0000,0000,,e, de repente, o clube fica \Ncheio de ex-namoradas.
+Dialogue: 0,0:02:28.95,0:02:34.80,Girlfriend Sign 3,Sign,0000,0000,0000,,última              namorada         namorada         atual\Nnamorada           antes dela       antes dela    namorada
+Dialogue: 0,0:02:31.61,0:02:34.15,Main Dialogue,Koharu,0000,0000,0000,,D-Deve ser constrangedor.
+Dialogue: 0,0:02:34.15,0:02:37.07,Main Dialogue,Hiina,0000,0000,0000,,Mas, aparentemente, eles têm um \Nacordo subentendido no clube,
+Dialogue: 0,0:02:37.07,0:02:41.18,Main Dialogue,Hiina,0000,0000,0000,,de que se você termina com alguém, \Nvocês realmente voltam a ser amigos.
+Dialogue: 0,0:02:41.44,0:02:42.80,Main Dialogue,Koharu,0000,0000,0000,,Sério?!
+Dialogue: 0,0:02:42.80,0:02:44.93,Main Dialogue,Koharu,0000,0000,0000,,É bem prático.
+Dialogue: 0,0:02:44.93,0:02:49.21,Main Dialogue,Aoi,0000,0000,0000,,Dizem que se um menino novo \Nleva ordem de uma senpai,
+Dialogue: 0,0:02:49.21,0:02:52.64,Main Dialogue,Aoi,0000,0000,0000,,começa a gostar de obedecer \Nmulheres mais velhas!
+Dialogue: 0,0:02:52.64,0:02:54.06,Main Dialogue,Aoi,0000,0000,0000,,Não é nojento?!
+Dialogue: 0,0:02:54.06,0:02:56.69,Main Dialogue,Koharu,0000,0000,0000,,N-Não tem nada de errado nisso.
+Dialogue: 0,0:02:56.69,0:03:00.18,Main Dialogue,Hiina,0000,0000,0000,,Dizem que as pessoas boas \Ncom instrumentos de sopro
+Dialogue: 0,0:03:00.18,0:03:03.37,Main Dialogue,Hiina,0000,0000,0000,,são boas no beijo também.
+Dialogue: 0,0:03:04.04,0:03:06.20,Main Dialogue,Yua,0000,0000,0000,,Deve ser um rumor nesse tipo de clube.
+Dialogue: 0,0:03:06.32,0:03:08.20,Main Dialogue,Aoi,0000,0000,0000,,Sério, esse pessoal é louco.
+Dialogue: 0,0:03:08.20,0:03:12.13,Main Dialogue,Koharu,0000,0000,0000,,A-Aoi-senpai, você está ficando muito irritada.
+Dialogue: 0,0:03:12.13,0:03:15.49,Main Dialogue,Yua,0000,0000,0000,,Em em anime e mangá? \NVocês têm alguma imagem deles?
+Dialogue: 0,0:03:15.49,0:03:16.66,Main Dialogue,Aoi,0000,0000,0000,,Existe um desenho assim?
+Dialogue: 0,0:03:16.66,0:03:20.63,Main Dialogue,Koharu,0000,0000,0000,,Deve ter, mas não consigo \Nlembrar de cabeça.
+Dialogue: 0,0:03:20.63,0:03:23.83,Main Dialogue,Yua,0000,0000,0000,,Então vamos tentar deduzir \Ncomo os enredos seriam
+Dialogue: 0,0:03:23.83,0:03:26.72,Main Dialogue,Yua,0000,0000,0000,,em um desenho sobre uma orquestra.
+Dialogue: 0,0:03:26.72,0:03:30.06,Main Dialogue,Hiina,0000,0000,0000,,Não como é, mas como poderia ser.
+Dialogue: 0,0:03:30.06,0:03:31.10,Main Dialogue,Aoi,0000,0000,0000,,Pode ser!
+Dialogue: 0,0:03:31.10,0:03:35.89,Main Dialogue,Koharu,0000,0000,0000,,Ok... O protagonista não tem interesse na orquestra,
+Dialogue: 0,0:03:35.89,0:03:38.53,Main Dialogue,Koharu,0000,0000,0000,,mas a menina que ele viu na cerimônia \Nde entrada e se interessou
+Dialogue: 0,0:03:38.53,0:03:41.59,Main Dialogue,Koharu,0000,0000,0000,,quer entrar, então ele também entra por um tempo,
+Dialogue: 0,0:03:41.59,0:03:44.78,Main Dialogue,Koharu,0000,0000,0000,,e seu talento secreto é revelado.
+Dialogue: 0,0:03:44.78,0:03:45.80,Main Dialogue,Yua,0000,0000,0000,,Poderia acontecer.
+Dialogue: 0,0:03:45.80,0:03:48.20,Main Dialogue,Aoi,0000,0000,0000,,Meninos são muito idiotas!
+Dialogue: 0,0:03:48.20,0:03:51.42,Main Dialogue,Hiina,0000,0000,0000,,Se fizerem um ambiente de harém na orquestra,
+Dialogue: 0,0:03:51.42,0:03:55.13,Main Dialogue,Hiina,0000,0000,0000,,aposto que a líder tsundere obriga \No protagonista a entrar.
+Dialogue: 0,0:03:55.14,0:03:55.74,Main Dialogue,Aoi,0000,0000,0000,,Poderia acontecer!
+Dialogue: 0,0:03:55.74,0:03:57.21,Main Dialogue,Koharu,0000,0000,0000,,Consigo imaginar isso.
+Dialogue: 0,0:03:57.21,0:04:00.63,Main Dialogue,Yua,0000,0000,0000,,"Você é grande! Toque tímpano no nosso clube!"
+Dialogue: 0,0:04:00.63,0:04:02.63,Main Dialogue,Koharu,0000,0000,0000,,Quê? O protagonista toca um \Ninstrumento de percussão?
+Dialogue: 0,0:04:03.12,0:04:07.22,Main Dialogue,Aoi,0000,0000,0000,,Ou o protagonista escolhe um instrumento \Nenorme apesar dele ser pequeno!
+Dialogue: 0,0:04:07.33,0:04:09.18,Main Dialogue,Yua,0000,0000,0000,,Consigo imaginar! Tipo um sousafone.
+Dialogue: 0,0:04:09.18,0:04:12.11,Main Dialogue,Hiina,0000,0000,0000,,É um jeito fácil de causar impacto \Ncom apenas um desenho
+Dialogue: 0,0:04:12.11,0:04:14.27,Main Dialogue,Hiina,0000,0000,0000,,em uma propaganda ou capa.
+Dialogue: 0,0:04:14.27,0:04:17.47,Main Dialogue,Koharu,0000,0000,0000,,Seria fácil criar a história e fazer \No personagem se destacar.
+Dialogue: 0,0:04:17.47,0:04:20.96,Main Dialogue,Yua,0000,0000,0000,,No começo ela iria à casa de seu avô,
+Dialogue: 0,0:04:20.96,0:04:24.61,Main Dialogue,Yua,0000,0000,0000,,e quando ele a faz limpar o armazém, \Nela acha um instrumento incrível.
+Dialogue: 0,0:04:24.61,0:04:27.28,Main Dialogue,Aoi,0000,0000,0000,,Que era do pai falecido!
+Dialogue: 0,0:04:27.28,0:04:32.02,Main Dialogue,Hiina,0000,0000,0000,,"Está curiosa, né? A maçã não cai longe da árvore."
+Dialogue: 0,0:04:32.02,0:04:33.29,Main Dialogue,Koharu,0000,0000,0000,,Vovô!
+Dialogue: 0,0:04:33.29,0:04:36.67,Main Dialogue,Aoi,0000,0000,0000,,É feito para crianças e uma organização \Ndo mal planeja dominar o mundo,
+Dialogue: 0,0:04:36.67,0:04:38.75,Main Dialogue,Aoi,0000,0000,0000,,e uma orquestra vai à luta!
+Dialogue: 0,0:04:39.42,0:04:41.80,Main Dialogue,Koharu,0000,0000,0000,,Então é uma história de super herói?
+Dialogue: 0,0:04:42.39,0:04:45.88,Main Dialogue,Yua,0000,0000,0000,,E se os instrumentos virassem trajes de batalha,
+Dialogue: 0,0:04:45.88,0:04:47.80,Main Dialogue,Yua,0000,0000,0000,,e formassem um robô gigante?
+Dialogue: 0,0:04:47.80,0:04:49.38,Main Dialogue,Hiina,0000,0000,0000,,Dariam boas vendas!
+Dialogue: 0,0:04:49.38,0:04:53.23,Main Dialogue,Aoi,0000,0000,0000,,No fim, eles usam um ataque especial \Nem conjunto para derrotar os vilões!
+Dialogue: 0,0:04:53.23,0:04:55.00,Main Dialogue,Yua,0000,0000,0000,,Sim, consigo imaginar!
+Dialogue: 0,0:04:55.00,0:04:58.90,Main Dialogue,Yua,0000,0000,0000,,Com o tema orquestra, também serviria para meninas.
+Dialogue: 0,0:04:58.90,0:05:01.97,Main Dialogue,Hiina,0000,0000,0000,,Jovens e suas amigas ricas.
+Dialogue: 0,0:05:01.97,0:05:05.74,Main Dialogue,Koharu,0000,0000,0000,,I-Isso ficou realista, de repente.
+Dialogue: 0,0:05:05.74,0:05:09.08,Main Dialogue,Yua,0000,0000,0000,,Certo! Vamos tentar criar \Numa "orquestra diferente"!
+Dialogue: 0,0:05:09.74,0:05:10.96,Main Dialogue,Yua,0000,0000,0000,,Ok...
+Dialogue: 0,0:05:11.57,0:05:14.36,Main Dialogue,Yua,0000,0000,0000,,Ok, alguma ideia?
+Dialogue: 0,0:05:14.36,0:05:16.54,Main Dialogue,Hiina,0000,0000,0000,,Ok, eu.
+Dialogue: 0,0:05:16.54,0:05:20.17,Main Dialogue,Yua,0000,0000,0000,,Certo, a "orquestra diferente" da Hiina!
+Dialogue: 0,0:05:20.17,0:05:22.69,Main Dialogue,Hiina,0000,0000,0000,,Todos estão com uma febre terrível.
+Dialogue: 0,0:05:23.22,0:05:24.71,Main Dialogue,Koharu,0000,0000,0000,,Ainda conseguem tocar?
+Dialogue: 0,0:05:24.71,0:05:27.39,Main Dialogue,Hiina,0000,0000,0000,,Bem, seus narizes estão tão trancados,
+Dialogue: 0,0:05:27.39,0:05:30.76,Main Dialogue,Hiina,0000,0000,0000,,que dá pra ouvir quando eles tocam, "gfffngh!"
+Dialogue: 0,0:05:31.64,0:05:32.45,Main Dialogue,Aoi,0000,0000,0000,,Que ruim!
+Dialogue: 0,0:05:32.45,0:05:33.57,Main Dialogue,,0000,0000,0000,,É meio perigoso!
+Dialogue: 0,0:05:33.57,0:05:38.33,Main Dialogue,Hiina,0000,0000,0000,,É, seria perigoso, pois ficariam \Nsem pausa para respirar.
+Dialogue: 0,0:05:38.33,0:05:40.45,Main Dialogue,Aoi,0000,0000,0000,,É, tipo, "atchim!"
+Dialogue: 0,0:05:40.45,0:05:41.23,Main Dialogue,Yua,0000,0000,0000,,"Atchim!"
+Dialogue: 0,0:05:41.23,0:05:43.53,Main Dialogue,Aoi,0000,0000,0000,,Dá para ser um instrumento.
+Dialogue: 0,0:05:44.37,0:05:47.18,Main Dialogue,Koharu,0000,0000,0000,,Sim, seria a "percussão com voz" ou algo assim.
+Dialogue: 0,0:05:49.69,0:05:50.48,Main Dialogue,Aoi,0000,0000,0000,,Algo assim.
+Dialogue: 0,0:05:50.48,0:05:52.11,Main Dialogue,Yua,0000,0000,0000,,Parece um sotaque.
+Dialogue: 0,0:05:52.11,0:05:53.36,Main Dialogue,Aoi,0000,0000,0000,,É um interlúdio legal.
+Dialogue: 0,0:05:53.36,0:05:54.54,Main Dialogue,Yua,0000,0000,0000,,É, é legal.
+Dialogue: 0,0:05:55.30,0:05:56.54,Main Dialogue,,0000,0000,0000,,Interlúdio?
+Dialogue: 0,0:05:57.06,0:05:58.18,Main Dialogue,Yua,0000,0000,0000,,Mais alguém?
+Dialogue: 0,0:05:58.81,0:06:00.51,Main Dialogue,Yua,0000,0000,0000,,Ok, eu vou.
+Dialogue: 0,0:06:00.51,0:06:01.13,Main Dialogue,Hiina,0000,0000,0000,,Yua.
+Dialogue: 0,0:06:01.13,0:06:03.71,Main Dialogue,Yua,0000,0000,0000,,Sim. Uma "orquestra diferente".
+Dialogue: 0,0:06:04.29,0:06:05.67,Main Dialogue,Yua,0000,0000,0000,,Todos são regentes!
+Dialogue: 0,0:06:06.15,0:06:07.91,Main Dialogue,,0000,0000,0000,,Não pode ter só um?
+Dialogue: 0,0:06:07.91,0:06:12.37,Main Dialogue,Yua,0000,0000,0000,,Sim, mas todos escolhem primeiro \No instrumento que querem tocar, né?
+Dialogue: 0,0:06:12.37,0:06:13.19,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:13.19,0:06:15.41,Main Dialogue,Yua,0000,0000,0000,,Então alguém diz "eu quero reger!"
+Dialogue: 0,0:06:15.41,0:06:19.11,Main Dialogue,Yua,0000,0000,0000,,E como eles não se importam, \Nficam todos pedindo também.
+Dialogue: 0,0:06:19.11,0:06:20.74,Main Dialogue,Yua,0000,0000,0000,,Eles não ligam.
+Dialogue: 0,0:06:20.74,0:06:22.98,Main Dialogue,Yua,0000,0000,0000,,Então poderia ter mais regentes que instrumentos.
+Dialogue: 0,0:06:23.57,0:06:24.98,Main Dialogue,Hiina,0000,0000,0000,,Eles ficariam no caminho!
+Dialogue: 0,0:06:24.98,0:06:26.05,Main Dialogue,Hiina,0000,0000,0000,,Eles ficariam no caminho!
+Dialogue: 0,0:06:26.05,0:06:26.74,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:26.74,0:06:30.77,Main Dialogue,Aoi,0000,0000,0000,,Mas aposto que o pauzinho \Nque o regente usa é barato.
+Dialogue: 0,0:06:30.77,0:06:32.49,Main Dialogue,Koharu,0000,0000,0000,,Eles poderiam até usar hashi.
+Dialogue: 0,0:06:31.70,0:06:34.05,Main Dialogue Top,Aoi,0000,0000,0000,,Sim, eles usariam hashi ou um canudo.
+Dialogue: 0,0:06:34.05,0:06:35.85,Main Dialogue,Yua,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:06:35.85,0:06:37.14,Main Dialogue,Yua,0000,0000,0000,,Eles poderiam usar o dedo.
+Dialogue: 0,0:06:37.14,0:06:37.75,Main Dialogue,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:37.75,0:06:38.57,Main Dialogue,Koharu,0000,0000,0000,,É verdade.
+Dialogue: 0,0:06:38.57,0:06:41.02,Main Dialogue,Aoi,0000,0000,0000,,Assim seria fácil sair do clube.
+Dialogue: 0,0:06:41.02,0:06:42.86,Main Dialogue,,0000,0000,0000,,Tudo isso para sair?!
+Dialogue: 0,0:06:45.01,0:06:46.34,Main Dialogue,Yua,0000,0000,0000,,Se eles cansarem...
+Dialogue: 0,0:06:45.55,0:06:46.99,Main Dialogue Top,Aoi,0000,0000,0000,,Tipo... "Cansei. Chega."
+Dialogue: 0,0:06:46.99,0:06:48.30,Main Dialogue,Yua,0000,0000,0000,,Eles podem pegar seus dedos de volta.
+Dialogue: 0,0:06:48.30,0:06:49.39,Main Dialogue,Aoi,0000,0000,0000,,"Acabei."
+Dialogue: 0,0:06:49.39,0:06:51.13,Main Dialogue,Koharu,0000,0000,0000,,Esse clube vai se espalhar...
+Dialogue: 0,0:06:51.49,0:06:52.54,Main Dialogue,,0000,0000,0000,,Estão acabados.
+Dialogue: 0,0:06:53.68,0:06:54.95,Main Dialogue,Yua,0000,0000,0000,,Ok, mais alguém?
+Dialogue: 0,0:06:54.95,0:06:55.92,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:06:56.42,0:06:57.56,Main Dialogue,Aoi,0000,0000,0000,,Essa é para Koharun.
+Dialogue: 0,0:06:58.37,0:06:59.81,Main Dialogue,Koharu,0000,0000,0000,,Sério?! Estou nervosa.
+Dialogue: 0,0:06:59.81,0:07:02.47,Main Dialogue,Yua,0000,0000,0000,,A "orquestra diferente" da Aoi.
+Dialogue: 0,0:07:02.73,0:07:05.48,Main Dialogue,Aoi,0000,0000,0000,,Eles apresentam em uma piscina.
+Dialogue: 0,0:07:05.48,0:07:08.93,Main Dialogue,Aoi,0000,0000,0000,,A verdadeira "orquestra da piscina média".
+Dialogue: 0,0:07:11.03,0:07:11.45,Main Dialogue,Hiina,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:11.45,0:07:12.29,Main Dialogue,Koharu,0000,0000,0000,,Como assim?
+Dialogue: 0,0:07:12.29,0:07:16.74,Main Dialogue,Aoi,0000,0000,0000,,Eles entram na piscina e apresentam.
+Dialogue: 0,0:07:16.74,0:07:20.01,Main Dialogue,Koharu,0000,0000,0000,,Eles entram em uma piscina e apresentam...
+Dialogue: 0,0:07:20.46,0:07:21.45,Main Dialogue,Aoi,0000,0000,0000,,Piscina média...
+Dialogue: 0,0:07:21.45,0:07:23.93,Main Dialogue,Koharu,0000,0000,0000,,Orquestra... Da piscina média.
+Dialogue: 0,0:07:24.42,0:07:27.26,Main Dialogue,Aoi,0000,0000,0000,,Piscina? Piscina média...
+Dialogue: 0,0:07:27.26,0:07:28.38,Main Dialogue,Koharu,0000,0000,0000,,O que significa "média"?
+Dialogue: 0,0:07:28.76,0:07:31.04,Main Dialogue,Aoi,0000,0000,0000,,"Média" não significa nada!
+Dialogue: 0,0:07:31.04,0:07:32.94,Main Dialogue,Yua,0000,0000,0000,,Não se preocupe com os detalhes!
+Dialogue: 0,0:07:32.94,0:07:34.10,Main Dialogue,Koharu,0000,0000,0000,,Entendi!
+Dialogue: 0,0:07:34.10,0:07:36.06,Main Dialogue,Koharu,0000,0000,0000,,Eu entendi, Aoi-senpai!
+Dialogue: 0,0:07:38.05,0:07:39.77,Main Dialogue,Aoi,0000,0000,0000,,S-Sério?
+Dialogue: 0,0:07:39.77,0:07:42.45,Main Dialogue,Yua,0000,0000,0000,,Aoi acabou se prejudicando!
+Dialogue: 0,0:07:42.45,0:07:44.76,Main Dialogue,Hiina,0000,0000,0000,,Seu poder de compreensão não acompanhou.
+Dialogue: 0,0:07:44.76,0:07:46.36,Main Dialogue,Yua,0000,0000,0000,,O que tem "média" a ver com a "piscina"?
+Dialogue: 0,0:07:46.36,0:07:48.91,Main Dialogue,Aoi,0000,0000,0000,,Média? M-M-Média... Quem liga?!
+Dialogue: 0,0:07:50.44,0:07:52.29,Main Dialogue,Yua,0000,0000,0000,,Não está se preocupando com detalhes, né?
+Dialogue: 0,0:07:51.08,0:07:53.23,Main Dialogue Top,Aoi,0000,0000,0000,,É, eu não me preocupo com detalhes.
+Dialogue: 0,0:07:53.23,0:07:55.54,Main Dialogue,Aoi,0000,0000,0000,,Desde que estejam em uma piscina...
+Dialogue: 0,0:07:55.54,0:07:57.70,Main Dialogue,Yua,0000,0000,0000,,Se estão em uma piscina, é o que importa.
+Dialogue: 0,0:07:57.00,0:07:57.70,Main Dialogue Top,Yua,0000,0000,0000,,Só isso?
+Dialogue: 0,0:07:57.70,0:08:00.24,Main Dialogue,Yua,0000,0000,0000,,Não questione os detalhes.
+Dialogue: 0,0:07:58.62,0:07:59.87,Main Dialogue Top,Koharu,0000,0000,0000,,Entendido!
+Dialogue: 0,0:08:00.24,0:08:01.48,Main Dialogue,Aoi,0000,0000,0000,,Ok.
+Dialogue: 0,0:08:01.48,0:08:04.08,Main Dialogue,Yua,0000,0000,0000,,Certo, alguém tem mais uma ideia \Npara uma "orquestra diferente"?
+Dialogue: 0,0:08:04.08,0:08:04.86,Main Dialogue,Koharu,0000,0000,0000,,Eu!
+Dialogue: 0,0:08:05.37,0:08:08.75,Main Dialogue,Yua,0000,0000,0000,,Ok, a "orquestra diferente" da Koharun!
+Dialogue: 0,0:08:08.75,0:08:11.02,Main Dialogue,Koharu,0000,0000,0000,,Eles apresentam "trocando as mãos".
+Dialogue: 0,0:08:11.76,0:08:12.42,Main Dialogue,Aoi,0000,0000,0000,,O que ela disse?
+Dialogue: 0,0:08:12.42,0:08:13.18,Main Dialogue,Yua,0000,0000,0000,,Trocando as mãos...
+Dialogue: 0,0:08:13.18,0:08:14.82,Main Dialogue,Koharu,0000,0000,0000,,Eles apresentam "trocando as mãos" \Ncomo na comédia.
+Dialogue: 0,0:08:13.83,0:08:14.69,Main Dialogue Top,Yua,0000,0000,0000,,Sabe o que é isso?
+Dialogue: 0,0:08:14.82,0:08:16.76,Main Dialogue,Koharu,0000,0000,0000,,Tem meninos no clube, então...
+Dialogue: 0,0:08:16.32,0:08:16.76,Main Dialogue Top,Koharu,0000,0000,0000,,Oh!
+Dialogue: 0,0:08:16.76,0:08:20.43,Main Dialogue,Koharu,0000,0000,0000,,Talvez aconteçam alguns momentos "He-he-he".
+Dialogue: 0,0:08:20.43,0:08:21.91,Main Dialogue,Aoi,0000,0000,0000,,Teria muita risadinha.
+Dialogue: 0,0:08:21.91,0:08:23.37,Main Dialogue,Yua,0000,0000,0000,,Sim, bastante risada.
+Dialogue: 0,0:08:22.08,0:08:23.37,Main Dialogue Top,Yua,0000,0000,0000,,Risadas discretas...
+Dialogue: 0,0:08:23.37,0:08:25.46,Main Dialogue,Yua,0000,0000,0000,,Quem está na frente e quem está atrás?
+Dialogue: 0,0:08:25.46,0:08:27.34,Main Dialogue,Koharu,0000,0000,0000,,A menina ficaria na frente.
+Dialogue: 0,0:08:27.34,0:08:28.11,Main Dialogue,Yua,0000,0000,0000,,Oh, a menina?
+Dialogue: 0,0:08:28.11,0:08:31.51,Main Dialogue,Koharu,0000,0000,0000,,O menino atrás da menina é muito...
+Dialogue: 0,0:08:31.51,0:08:32.26,Main Dialogue Top,Koharu,0000,0000,0000,,Nossa!
+Dialogue: 0,0:08:31.51,0:08:32.80,Main Dialogue,Koharu,0000,0000,0000,,A deixaria animada, né?
+Dialogue: 0,0:08:32.80,0:08:34.74,Main Dialogue,Aoi,0000,0000,0000,,Hiina-senpai? Hiina-senpai, o que foi?
+Dialogue: 0,0:08:33.12,0:08:34.22,Main Dialogue Top,Aoi,0000,0000,0000,,Nossa...
+Dialogue: 0,0:08:35.29,0:08:36.74,Main Dialogue,Hiina,0000,0000,0000,,Estou chocada.
+Dialogue: 0,0:08:37.49,0:08:39.34,Main Dialogue,Koharu,0000,0000,0000,,Hiina-senpai, está chocada?!
+Dialogue: 0,0:08:39.34,0:08:40.77,Main Dialogue,,0000,0000,0000,,Isso chocou a Hiina?
+Dialogue: 0,0:08:40.77,0:08:42.15,Main Dialogue,Koharu,0000,0000,0000,,Por quê?!
+Dialogue: 0,0:08:42.15,0:08:43.68,Main Dialogue,Hiina,0000,0000,0000,,Que perversão!
+Dialogue: 0,0:08:44.44,0:08:47.78,Main Dialogue,Koharu,0000,0000,0000,,Não, não, não é perverso! É a juventude!
+Dialogue: 0,0:08:47.78,0:08:48.75,Main Dialogue,Hiina,0000,0000,0000,,Juventude?
+Dialogue: 0,0:08:48.75,0:08:49.42,Main Dialogue,,0000,0000,0000,,É a juventude.
+Dialogue: 0,0:08:49.42,0:08:50.16,Main Dialogue,Koharu,0000,0000,0000,,Pura juventude.
+Dialogue: 0,0:08:50.16,0:08:52.37,Main Dialogue,Aoi,0000,0000,0000,,Vai além da juventude inocente, não vai?
+Dialogue: 0,0:08:52.37,0:08:54.33,Main Dialogue,Koharu,0000,0000,0000,,Não vai. Está bem no meio.
+Dialogue: 0,0:08:54.33,0:08:55.87,Main Dialogue,Yua,0000,0000,0000,,Seria horrível para o menino.
+Dialogue: 0,0:08:55.87,0:08:58.51,Main Dialogue,Koharu,0000,0000,0000,,Sério? Então talvez ele devesse ficar na frente.
+Dialogue: 0,0:08:58.51,0:09:00.76,Main Dialogue,Koharu,0000,0000,0000,,Ah, mas aí o menino iria...
+Dialogue: 0,0:09:01.18,0:09:02.16,Main Dialogue,Koharu,0000,0000,0000,,O menino iria...
+Dialogue: 0,0:09:01.49,0:09:03.60,Main Dialogue Top,Aoi,0000,0000,0000,,Vamos parar por aí! Pare por aí!
+Dialogue: 0,0:09:03.60,0:09:04.77,Main Dialogue,Aoi,0000,0000,0000,,Deixa como está!
+Dialogue: 0,0:09:04.34,0:09:06.18,Main Dialogue Top,Yua,0000,0000,0000,,Sua respiração ficaria irregular, tipo...
+Dialogue: 0,0:09:07.58,0:09:10.64,Main Dialogue,Aoi,0000,0000,0000,,Pare! Se continuar falando disso \Nteremos problemas!
+Dialogue: 0,0:09:11.94,0:09:14.56,Main Dialogue,Koharu,0000,0000,0000,,Ele não conseguiria controlar \Na respiração para tocar.
+Dialogue: 0,0:09:15.65,0:09:17.15,Main Dialogue,Koharu,0000,0000,0000,,Meu estômago está doendo.
+Dialogue: 0,0:09:19.00,0:09:23.35,Main Dialogue,Mobuko,0000,0000,0000,,Todos são divididos entre \NYamakura e Shinnosuke, né?
+Dialogue: 0,0:09:23.35,0:09:26.08,Main Dialogue,Mobuko,0000,0000,0000,,Eu iria com Murata...
+Dialogue: 0,0:09:26.08,0:09:27.83,Main Dialogue,Yua,0000,0000,0000,,Estão prontas?
+Dialogue: 0,0:09:27.83,0:09:29.47,Main Dialogue,Koharu,0000,0000,0000,,O que faremos hoje?
+Dialogue: 0,0:09:29.47,0:09:32.09,Main Dialogue,Yua,0000,0000,0000,,Chamo de "orquestra da imitação"!
+Dialogue: 0,0:09:32.09,0:09:33.28,Main Dialogue,Aoi,0000,0000,0000,,É diferente!
+Dialogue: 0,0:09:33.28,0:09:36.09,Main Dialogue,Yua,0000,0000,0000,,Toque de acordo com o regente.
+Dialogue: 0,0:09:36.09,0:09:37.04,Main Dialogue,Yua,0000,0000,0000,,Ok, lá vamos nós.
+Dialogue: 0,0:09:37.04,0:09:38.46,Main Dialogue,Yua,0000,0000,0000,,E... Já!
+Dialogue: 0,0:09:38.46,0:09:41.89,Main Dialogue,Yua,0000,0000,0000,,Primeiro, o professor da Sala 3-B!
+Dialogue: 0,0:09:46.89,0:09:49.86,Main Dialogue,Yua,0000,0000,0000,,Depois, o cara com espírito de batalha!
+Dialogue: 0,0:09:57.74,0:09:59.82,Main Dialogue,Yua,0000,0000,0000,,Yokozuna quando era criança.
+Dialogue: 0,0:10:10.46,0:10:12.18,Main Dialogue,Koharu,0000,0000,0000,,Isso é muito difícil!
+Dialogue: 0,0:10:57.80,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:57.80,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 7\N{\fs24}O Coração de Uma Donzela
+Dialogue: 0,0:10:57.80,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:58.25,0:10:59.69,Main Dialogue,Yua,0000,0000,0000,,Aoi, foi bom!
+Dialogue: 0,0:10:59.69,0:11:00.67,Main Dialogue,Aoi,0000,0000,0000,,Sério?
+Dialogue: 0,0:11:00.67,0:11:01.35,Main Dialogue,Yua,0000,0000,0000,,Sim!
+Dialogue: 0,0:11:01.35,0:11:04.57,Main Dialogue,Koharu,0000,0000,0000,,Conseguimos arrumar isso em seis meses?

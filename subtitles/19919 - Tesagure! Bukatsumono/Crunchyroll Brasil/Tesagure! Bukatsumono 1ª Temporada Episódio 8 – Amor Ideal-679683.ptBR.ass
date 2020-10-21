@@ -1,0 +1,260 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H000000B5,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H008D3EBB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0045,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H008D3EBB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H008D3EBB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Cookie Sign,Arial,18,&H00C9038C,&H000000FF,&H00E8B3FF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0120,0018,1
+Style: Maid Cafe Sign,Arial,20,&H003E6601,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,1
+Style: Maid Cafe Sign 2,Arial,20,&H000086D2,&H000000FF,&H0000388B,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,1
+Style: Festival Sign,Arial,20,&H008D3EBB,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Maid Cafe Sign 3,Arial,16,&H008D3EBB,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0015,1
+Style: Maid Cafe Sign 4,Arial,20,&H008D3EBB,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,1
+Style: Cat Ears Sign,Arial,18,&H00CDD51D,&H000000FF,&H0097D8E9,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,0020,0020,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.58,0:00:10.35,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Episódio 8\N{\fs22}Amor Ideal
+Dialogue: 0,0:00:07.44,0:00:10.36,Cat Ears Sign,Sign,0000,0000,0000,,Conheça uma garçonete \Ncom orelhas de gato
+Dialogue: 0,0:00:07.44,0:00:11.69,Main Dialogue,Aoi,0000,0000,0000,,Em animes escolares os alunos \Nsempre vão ao festival.
+Dialogue: 0,0:00:11.69,0:00:13.45,Main Dialogue,Aoi,0000,0000,0000,,Ele é grande e agitado.
+Dialogue: 0,0:00:13.45,0:00:14.54,Main Dialogue,Yua,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:00:14.54,0:00:19.26,Main Dialogue,Hiina,0000,0000,0000,,É mentira como cada sala trabalha unida.
+Dialogue: 0,0:00:19.26,0:00:21.91,Main Dialogue,Koharu,0000,0000,0000,,E sempre tem cafés com garçonetes.
+Dialogue: 0,0:00:21.91,0:00:24.52,Main Dialogue,Koharu,0000,0000,0000,,Tem vários assim na nossa escola também.
+Dialogue: 0,0:00:24.52,0:00:27.92,Main Dialogue,Yua,0000,0000,0000,,Mas a situação é meio especial na nossa escola.
+Dialogue: 0,0:00:27.92,0:00:29.16,Main Dialogue,Koharu,0000,0000,0000,,Como assim?
+Dialogue: 0,0:00:29.16,0:00:33.29,Main Dialogue,Yua,0000,0000,0000,,Notaram algo depois de ver os cafés daqui?
+Dialogue: 0,0:00:30.11,0:00:33.76,Cookie Sign,Sign,0000,0000,0000,,{\fad(500,500)}Biscoitos\N Bebida
+Dialogue: 0,0:00:34.26,0:00:38.26,Maid Cafe Sign,Sign,0000,0000,0000,,Café {\fs26\c&HD886F4&\3c&H8343BF&}Momonaru {\c&H3E6601&\3c&HFFFFFF&\fs20}Orelhas de Gato
+Dialogue: 0,0:00:34.26,0:00:39.63,Main Dialogue,Yua,0000,0000,0000,,Todos os cafés são franquias da escola.
+Dialogue: 0,0:00:38.26,0:00:42.31,Maid Cafe Sign 2,Sign,0000,0000,0000,,Café {\fs26\c&H00C5EF&\3c&HFFFFFF&}Momonaru\N{\c&H0086D2&\3c&H00388B&\fs20}Irmã Caçula
+Dialogue: 0,0:00:39.63,0:00:43.81,Main Dialogue,Hiina,0000,0000,0000,,Existem muitas escolas para meninos \Npor aqui, então as lanchonetes
+Dialogue: 0,0:00:42.31,0:00:46.35,Maid Cafe Sign 4,Sign,0000,0000,0000,,Café {\fs24\3c&H5B00B9&\c&HE8B3FF&}Momonaru {\fs20\3c&HFFFFFF&\c&H5B00B9&}Tsundere
+Dialogue: 0,0:00:43.81,0:00:46.35,Main Dialogue,Hiina,0000,0000,0000,,e seus ganhos são importantes \Npara o caixa da escola.
+Dialogue: 0,0:00:46.35,0:00:49.09,Main Dialogue,Aoi,0000,0000,0000,,Por isso existem tantos, é?
+Dialogue: 0,0:00:46.35,0:00:49.94,Maid Cafe Sign 3,Sign,0000,0000,0000,,Café\N{\fs22}Momonaru\N{\fs16}Tsundere
+Dialogue: 0,0:00:49.09,0:00:51.76,Main Dialogue,Koharu,0000,0000,0000,,F-Franquias?!
+Dialogue: 0,0:01:49.49,0:01:51.54,Main Dialogue,Aoi,0000,0000,0000,,Vamos falar do clube de tênis hoje?
+Dialogue: 0,0:01:51.54,0:01:54.55,Main Dialogue,Yua,0000,0000,0000,,Boa ideia! Que imagem vocês têm do clube de tênis?
+Dialogue: 0,0:01:54.55,0:01:55.84,Main Dialogue,Aoi,0000,0000,0000,,Charmosos!
+Dialogue: 0,0:01:55.84,0:02:00.18,Main Dialogue,Koharu,0000,0000,0000,,Quê?! Não sei se está elogiando ou xingando!
+Dialogue: 0,0:02:00.18,0:02:04.26,Main Dialogue,Yua,0000,0000,0000,,Bem, com certeza é um esporte fino e elegante.
+Dialogue: 0,0:02:04.26,0:02:07.28,Main Dialogue,Hiina,0000,0000,0000,,Diferente dos outros esportes \Ncom bola, é individual.
+Dialogue: 0,0:02:07.28,0:02:11.38,Main Dialogue,Hiina,0000,0000,0000,,A imagem que eu tenho é que muitos jogadores
+Dialogue: 0,0:02:11.38,0:02:14.73,Main Dialogue,Hiina,0000,0000,0000,,não se importam em chegar nas finais dos torneios.
+Dialogue: 0,0:02:14.73,0:02:15.90,Main Dialogue,Yua,0000,0000,0000,,Entendi.
+Dialogue: 0,0:02:15.90,0:02:21.02,Main Dialogue,Aoi,0000,0000,0000,,Meninas entram no clube só \Npara usar o uniforme bonito.
+Dialogue: 0,0:02:21.02,0:02:22.38,Main Dialogue,Yua,0000,0000,0000,,Talvez você esteja certa.
+Dialogue: 0,0:02:22.38,0:02:26.04,Main Dialogue,Hiina,0000,0000,0000,,E o sistema de pontuação é bem diferente.
+Dialogue: 0,0:02:26.04,0:02:28.45,Main Dialogue,Hiina,0000,0000,0000,,Vai de 0 a 15, de repente.
+Dialogue: 0,0:02:28.45,0:02:31.41,Main Dialogue,Yua,0000,0000,0000,,É verdade. Mesmo tendo marcado só duas vezes,
+Dialogue: 0,0:02:31.41,0:02:34.50,Main Dialogue,Yua,0000,0000,0000,,de 0 a 30 parece uma grande diferença.
+Dialogue: 0,0:02:34.50,0:02:38.09,Main Dialogue,Koharu,0000,0000,0000,,V-Verdade. Se fosse beisebol eles pediriam \Nmisericórdia e terminariam.
+Dialogue: 0,0:02:38.09,0:02:42.27,Main Dialogue,Yua,0000,0000,0000,,E quando você acha que são 15 pontos \Npara cada marcação,
+Dialogue: 0,0:02:42.27,0:02:44.71,Main Dialogue,YUa,0000,0000,0000,,depois dos 30 vira 40, como se não estivesse \Nfazendo tantos pontos quanto antes!
+Dialogue: 0,0:02:44.71,0:02:46.64,Main Dialogue,Hiina,0000,0000,0000,,Teoricamente, para animar o jogo,
+Dialogue: 0,0:02:46.64,0:02:49.35,Main Dialogue,Hiina,0000,0000,0000,,é bom aumentar os pontos gradualmente.
+Dialogue: 0,0:02:49.35,0:02:51.96,Main Dialogue,Aoi,0000,0000,0000,,Vocês sabem como eles chamam 0 pontos?
+Dialogue: 0,0:02:51.96,0:02:55.35,Main Dialogue,Aoi,0000,0000,0000,,De todas as palavras, "love"! "Love"! \NNão parece uma cantada?
+Dialogue: 0,0:02:55.35,0:03:02.36,Main Dialogue,Yua,0000,0000,0000,,Sim. Dizem que vários membros \Ntêm "wimbledon" em seus e-mails.
+Dialogue: 0,0:03:02.36,0:03:05.03,Main Dialogue,Aoi,0000,0000,0000,,De novo, conquistadores charmosos! CCs!
+Dialogue: 0,0:03:05.03,0:03:05.99,Main Dialogue,Koharu,0000,0000,0000,,CCs?
+Dialogue: 0,0:03:05.99,0:03:11.45,Main Dialogue,Yua,0000,0000,0000,,Por algum motivo eles pegam a\N bola com uma raquete.
+Dialogue: 0,0:03:11.45,0:03:14.72,Main Dialogue,Hiina,0000,0000,0000,,Dizem que eles praticam isso assim\N que entram no clube.
+Dialogue: 0,0:03:14.72,0:03:16.55,Main Dialogue,Koharu,0000,0000,0000,,Sério?
+Dialogue: 0,0:03:16.55,0:03:18.83,Main Dialogue,Hiina,0000,0000,0000,,E quando erram o saque ou o rebate,
+Dialogue: 0,0:03:18.83,0:03:22.30,Main Dialogue,Hiina,0000,0000,0000,,eles sempre viram a cabeça e mexem \Nna rede da raquete.
+Dialogue: 0,0:03:22.30,0:03:23.51,Main Dialogue,Yua,0000,0000,0000,,É verdade!
+Dialogue: 0,0:03:23.51,0:03:25.05,Main Dialogue,Aoi,0000,0000,0000,,Charmosos! Charmosos!
+Dialogue: 0,0:03:25.05,0:03:30.23,Main Dialogue,Hiina,0000,0000,0000,,Dizem que quando recebem, eles giram a raquete \Ne balançam de um lado para o outro
+Dialogue: 0,0:03:30.23,0:03:35.98,Main Dialogue,Hiina,0000,0000,0000,,e ficam animados quando a bola \Nfica presa no triângulo da raquete.
+Dialogue: 0,0:03:35.98,0:03:36.94,Main Dialogue,Yua,0000,0000,0000,,É mesmo!
+Dialogue: 0,0:03:36.94,0:03:41.99,Main Dialogue,Koharu,0000,0000,0000,,Ouvi dizer que usam suas raquetes \Npara animar a arquibancada.
+Dialogue: 0,0:03:41.99,0:03:45.42,Main Dialogue,Yua,0000,0000,0000,,Geralmente fingem que a raquete é uma guitarra
+Dialogue: 0,0:03:45.42,0:03:47.19,Main Dialogue,Yua,0000,0000,0000,,e imitam o cara daquele programa
+Dialogue: 0,0:03:47.19,0:03:49.79,Main Dialogue,Yua,0000,0000,0000,,que tem uma colher de arroz gigante \Ne diz "o que vamos cozinhar hoje?"
+Dialogue: 0,0:03:49.79,0:03:53.15,Main Dialogue,Hiina,0000,0000,0000,,O destaque é quando eles \Nse reúnem para tirar fotos.
+Dialogue: 0,0:03:53.15,0:03:57.02,Main Dialogue,Hiina,0000,0000,0000,,Por algum motivo, eles sempre deixam \Nas raquetes em espiral.
+Dialogue: 0,0:03:57.02,0:03:58.05,Main Dialogue,Yua,0000,0000,0000,,Deixam!
+Dialogue: 0,0:03:58.05,0:04:01.75,Main Dialogue,Aoi,0000,0000,0000,,E, ao lado, eles formam alguma palavra \Ncom as bolas de tênis,
+Dialogue: 0,0:04:01.75,0:04:03.40,Main Dialogue,Aoi,0000,0000,0000,,igual de photobooth.
+Dialogue: 0,0:04:03.40,0:04:04.35,Main Dialogue,Yua,0000,0000,0000,,É verdade!
+Dialogue: 0,0:04:04.35,0:04:06.05,Main Dialogue,Aoi,0000,0000,0000,,Charmosos ao máximo!
+Dialogue: 0,0:04:06.05,0:04:10.31,Main Dialogue,Koharu,0000,0000,0000,,E-Ei, Aoi-senpai, está com um humor estranho?
+Dialogue: 0,0:04:10.31,0:04:13.80,Main Dialogue,Yua,0000,0000,0000,,Ok, vocês sabem como é um clube de tênis \Nem anime ou mangá?
+Dialogue: 0,0:04:13.80,0:04:15.97,Main Dialogue,Aoi,0000,0000,0000,,Todos os personagens são legais, \Ncalmos e neutros.
+Dialogue: 0,0:04:15.97,0:04:17.15,Main Dialogue,Hiina,0000,0000,0000,,É porque a maioria deles
+Dialogue: 0,0:04:17.15,0:04:19.38,Main Dialogue,Hiina,0000,0000,0000,,é cavalheiro ou perfeito.
+Dialogue: 0,0:04:19.38,0:04:20.48,Main Dialogue,Yua,0000,0000,0000,,Verdade!
+Dialogue: 0,0:04:20.48,0:04:24.24,Main Dialogue,Hiina,0000,0000,0000,,E, de acordo com o mangá, \Neles são muito orgulhosos.
+Dialogue: 0,0:04:24.24,0:04:25.85,Main Dialogue,Koharu,0000,0000,0000,,Se tem vários personagens,
+Dialogue: 0,0:04:25.85,0:04:27.99,Main Dialogue,Koharu,0000,0000,0000,,é difícil diferenciá-los até que \Njá tenha lido por um tempo.
+Dialogue: 0,0:04:27.99,0:04:30.95,Main Dialogue,Aoi,0000,0000,0000,,E apesar de serem alunos do ensino médio, \Nsão incrivelmente maduros.
+Dialogue: 0,0:04:30.95,0:04:32.50,Main Dialogue,Aoi,0000,0000,0000,,Na verdade, eles parecem adultos.
+Dialogue: 0,0:04:32.50,0:04:35.48,Main Dialogue,Yua,0000,0000,0000,,Talvez façam o personagem principal
+Dialogue: 0,0:04:35.48,0:04:38.25,Main Dialogue,Yua,0000,0000,0000,,parecer novo, só para diferenciarmos.
+Dialogue: 0,0:04:38.25,0:04:41.35,Main Dialogue,Hiina,0000,0000,0000,,O personagem principal é naturalmente rápido,
+Dialogue: 0,0:04:41.35,0:04:44.47,Main Dialogue,Hiina,0000,0000,0000,,e seus saques e rebatidas são poderosos.
+Dialogue: 0,0:04:44.47,0:04:46.14,Main Dialogue,Koharu,0000,0000,0000,,Agora que você falou... Verdade!
+Dialogue: 0,0:04:46.14,0:04:49.11,Main Dialogue,Hiina,0000,0000,0000,,Geralmente a história é que, mesmo tendo \Nacabado de começar a jogar tênis,
+Dialogue: 0,0:04:49.11,0:04:51.85,Main Dialogue,Hiina,0000,0000,0000,,por algum motivo estranho,
+Dialogue: 0,0:04:51.85,0:04:55.19,Main Dialogue,Hiina,0000,0000,0000,,ele disputa contra alguém famoso e vira seu rival.
+Dialogue: 0,0:04:55.19,0:04:57.98,Main Dialogue,Koharu,0000,0000,0000,,Não é muito realista.
+Dialogue: 0,0:04:57.98,0:05:02.23,Main Dialogue,Aoi,0000,0000,0000,,Falando em irrealista, alguns são ambidestros, né?
+Dialogue: 0,0:05:02.23,0:05:04.16,Main Dialogue,Yua,0000,0000,0000,,Eles seguram a raquete com \Na mão direita durante a partida,
+Dialogue: 0,0:05:04.16,0:05:06.14,Main Dialogue,Yua,0000,0000,0000,,e acontece algum acidente.
+Dialogue: 0,0:05:06.14,0:05:09.36,Main Dialogue,Yua,0000,0000,0000,,O oponente fica triunfante e diz...
+Dialogue: 0,0:05:09.36,0:05:12.73,Main Dialogue,Yua,0000,0000,0000,,"Que pena. Se for culpar algo, culpe seu azar."
+Dialogue: 0,0:05:12.73,0:05:15.75,Main Dialogue,Yua,0000,0000,0000,,E, na hora que ele vai sair da quadra, \Ntem uma cena chocante!
+Dialogue: 0,0:05:16.67,0:05:19.03,Main Dialogue,Hiina,0000,0000,0000,,"Na verdade, é uma pena para você.
+Dialogue: 0,0:05:19.03,0:05:20.30,Main Dialogue,Hiina,0000,0000,0000,,Se for culpar algo,
+Dialogue: 0,0:05:20.30,0:05:24.24,Main Dialogue,Hiina,0000,0000,0000,,culpe seu azar por ser meu oponente."
+Dialogue: 0,0:05:24.24,0:05:27.06,Main Dialogue,Hiina,0000,0000,0000,,Então ele troca a raquete para a mão esquerda
+Dialogue: 0,0:05:27.06,0:05:30.55,Main Dialogue,Hiina,0000,0000,0000,,e derrota seu oponente melhor que antes.
+Dialogue: 0,0:05:30.55,0:05:32.35,Main Dialogue,Aoi,0000,0000,0000,,Ele deveria ter jogado com \Naquela mão desde o começo!
+Dialogue: 0,0:05:32.35,0:05:36.64,Main Dialogue,Koharu,0000,0000,0000,,Deve ter alguém que rebate com a mão esquerda...
+Dialogue: 0,0:05:36.64,0:05:39.95,Main Dialogue,Aoi,0000,0000,0000,,Não dá! Tentando ser canhota,
+Dialogue: 0,0:05:39.95,0:05:43.19,Main Dialogue,Aoi,0000,0000,0000,,eu pratiquei usar hashi com essa mão!
+Dialogue: 0,0:05:43.19,0:05:47.49,Main Dialogue,Koharu,0000,0000,0000,,Você é bem confiante nessa \Npequena experiência, hein?
+Dialogue: 0,0:05:47.49,0:05:51.26,Main Dialogue,Hiina,0000,0000,0000,,Em mangá você sempre vê um membro \Nganhar cinco jogos de repente.
+Dialogue: 0,0:05:51.26,0:05:54.53,Main Dialogue,Yua,0000,0000,0000,,É mesmo. Mas nunca cancelam, né?
+Dialogue: 0,0:05:54.53,0:05:57.96,Main Dialogue,Yua,0000,0000,0000,,O mais fraco sempre entende por onde \No oponente vai atacar e rebate!
+Dialogue: 0,0:05:57.96,0:06:00.57,Main Dialogue,Hiina,0000,0000,0000,,E sempre tem aqueles jogadores \Nque fecham os olhos
+Dialogue: 0,0:06:00.57,0:06:02.34,Main Dialogue,Hiina,0000,0000,0000,,e descobrem onde a bola está só pelo som,
+Dialogue: 0,0:06:02.34,0:06:04.92,Main Dialogue,Hiina,0000,0000,0000,,ou que tem o poder de dividir \Na bola em três ou quatro bolas.
+Dialogue: 0,0:06:04.92,0:06:06.01,Main Dialogue,Koharu,0000,0000,0000,,Verdade.
+Dialogue: 0,0:06:06.01,0:06:09.59,Main Dialogue,Yua,0000,0000,0000,,Ok! Agora vamos pensar em \Num "clube de tênis diferente"!
+Dialogue: 0,0:06:09.59,0:06:12.15,Main Dialogue,Yua,0000,0000,0000,,Alguém tem alguma ideia?
+Dialogue: 0,0:06:12.15,0:06:13.15,Main Dialogue,Koharu,0000,0000,0000,,Eu!
+Dialogue: 0,0:06:13.15,0:06:16.19,Main Dialogue,Yua,0000,0000,0000,,Certo, o "clube de tênis diferente" da Koharun!
+Dialogue: 0,0:06:17.10,0:06:21.02,Main Dialogue,Koharu,0000,0000,0000,,Se eles aquecerem a bola, algo nasce!
+Dialogue: 0,0:06:23.14,0:06:30.82,Main Dialogue,Koharu,0000,0000,0000,,Ah, como chocar um ovo. \NSe esquentam a bola, nasce algo.
+Dialogue: 0,0:06:31.36,0:06:33.45,Main Dialogue,Hiina,0000,0000,0000,,E então o que acontece?
+Dialogue: 0,0:06:33.45,0:06:35.43,Main Dialogue,Koharu,0000,0000,0000,,O nascimento de uma nova vida!
+Dialogue: 0,0:06:35.43,0:06:36.50,Main Dialogue,Koharu,0000,0000,0000,,Oh, você quer dizer depois...
+Dialogue: 0,0:06:36.50,0:06:39.30,Main Dialogue,Yua,0000,0000,0000,,Ela não quis dizer isso.
+Dialogue: 0,0:06:39.30,0:06:42.41,Main Dialogue,Aoi,0000,0000,0000,,"O nascimento de uma nova vida". Nós entendemos!
+Dialogue: 0,0:06:42.41,0:06:43.42,Main Dialogue,Yua,0000,0000,0000,,Sabíamos disso.
+Dialogue: 0,0:06:44.59,0:06:48.59,Main Dialogue,Koharu,0000,0000,0000,,Uma partida onde nasce uma vida \Né uma partida diferente!
+Dialogue: 0,0:06:49.31,0:06:50.47,Main Dialogue,Aoi,0000,0000,0000,,É verdade.
+Dialogue: 0,0:06:50.47,0:06:51.34,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:51.34,0:06:53.43,Main Dialogue,Aoi,0000,0000,0000,,Vamos viver com essa.
+Dialogue: 0,0:06:53.43,0:06:56.79,Main Dialogue,Yua,0000,0000,0000,,Sim. Próxima?
+Dialogue: 0,0:06:56.79,0:06:58.27,Main Dialogue,Hiina,0000,0000,0000,,Eu.
+Dialogue: 0,0:06:58.27,0:07:01.10,Main Dialogue,Yua,0000,0000,0000,,Ok, o "clube de tênis diferente" da Hiina!
+Dialogue: 0,0:07:01.10,0:07:02.48,Main Dialogue,Hiina,0000,0000,0000,,Partidas de um ponto.
+Dialogue: 0,0:07:04.53,0:07:08.88,Main Dialogue,Hiina,0000,0000,0000,,Já que é decidido com um ponto, \No árbitro grita "ponto!"
+Dialogue: 0,0:07:08.88,0:07:09.82,Main Dialogue,Hiina,0000,0000,0000,,e a partida acaba.
+Dialogue: 0,0:07:12.32,0:07:16.42,Main Dialogue,Koharu,0000,0000,0000,,O perdedor deve ficar desesperado.
+Dialogue: 0,0:07:16.42,0:07:17.07,Main Dialogue,Hiina,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:07:17.07,0:07:20.58,Main Dialogue,Aoi,0000,0000,0000,,"Se eu tivesse ganhado o jo-ken-po, \Nteria sacado primeiro e talvez vencido!"
+Dialogue: 0,0:07:21.14,0:07:23.18,Main Dialogue,Yua,0000,0000,0000,,Então a partida foi decidida \Nquando o lançador foi decidido.
+Dialogue: 0,0:07:23.18,0:07:25.33,Main Dialogue,Koharu,0000,0000,0000,,Mas então o jo-ken-po faz parte do jogo.
+Dialogue: 0,0:07:25.33,0:07:26.40,Main Dialogue,Yua,0000,0000,0000,,Eba!
+Dialogue: 0,0:07:26.40,0:07:27.09,Main Dialogue,Hiina,0000,0000,0000,,É verdade.
+Dialogue: 0,0:07:27.09,0:07:28.04,Main Dialogue,Yua,0000,0000,0000,,É diferente.
+Dialogue: 0,0:07:28.04,0:07:29.02,Main Dialogue,Hiina,0000,0000,0000,,Que drama.
+Dialogue: 0,0:07:29.02,0:07:29.53,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:29.53,0:07:30.41,Main Dialogue,Koharu,0000,0000,0000,,Oh, não!
+Dialogue: 0,0:07:30.41,0:07:31.29,Main Dialogue,Aoi,0000,0000,0000,,"Oh, não!"
+Dialogue: 0,0:07:31.46,0:07:32.93,Main Dialogue,Yua,0000,0000,0000,,Ok, eu vou.
+Dialogue: 0,0:07:32.93,0:07:33.75,Main Dialogue,Aoi,0000,0000,0000,,Yua-senpai!
+Dialogue: 0,0:07:33.75,0:07:36.60,Main Dialogue,Yua,0000,0000,0000,,Sim. Um "clube de tênis diferente"!
+Dialogue: 0,0:07:36.60,0:07:40.60,Main Dialogue,Yua,0000,0000,0000,,Todos estão usando suas roupas \Nde baixo mais constrangedoras!
+Dialogue: 0,0:07:40.60,0:07:43.03,Main Dialogue,Yua,0000,0000,0000,,Vocês sabem que as meninas jogam \Ncom shorts por baixo, né?
+Dialogue: 0,0:07:43.03,0:07:43.75,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:43.75,0:07:45.52,Main Dialogue,Yua,0000,0000,0000,,Mas elas não usariam os shorts.
+Dialogue: 0,0:07:45.52,0:07:50.84,Main Dialogue,Yua,0000,0000,0000,,Elas teriam que usar as calcinhas \Nmais usadas e feias que elas têm...
+Dialogue: 0,0:07:50.84,0:07:51.60,Main Dialogue,Koharu,0000,0000,0000,,Começando a desfiar...
+Dialogue: 0,0:07:51.60,0:07:54.19,Main Dialogue,Yua,0000,0000,0000,,Sim, desfiando, calcinhas que \Nseriam jogadas fora.
+Dialogue: 0,0:07:54.19,0:07:55.87,Main Dialogue,Yua,0000,0000,0000,,Estão até furadas.
+Dialogue: 0,0:07:57.94,0:08:00.32,Main Dialogue,Yua,0000,0000,0000,,Mas as jogadoras precisam usá-las.
+Dialogue: 0,0:08:00.73,0:08:02.23,Main Dialogue,Koharu,0000,0000,0000,,Seria tão vergonhoso.
+Dialogue: 0,0:08:02.23,0:08:03.62,Main Dialogue,Yua,0000,0000,0000,,Ficariam nervosas.
+Dialogue: 0,0:08:03.62,0:08:05.08,Main Dialogue,Hiina,0000,0000,0000,,Sua virilha seria o foco...
+Dialogue: 0,0:08:06.91,0:08:07.84,Main Dialogue,Yua,0000,0000,0000,,Sua virilha...
+Dialogue: 0,0:08:09.27,0:08:11.12,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai, isso é loucura.
+Dialogue: 0,0:08:11.12,0:08:12.36,Main Dialogue,Hiina,0000,0000,0000,,É diferente, mas ruim.
+Dialogue: 0,0:08:12.36,0:08:13.77,Main Dialogue,Aoi,0000,0000,0000,,Vamos continuar com as calcinhas bonitas.
+Dialogue: 0,0:08:13.77,0:08:15.59,Main Dialogue,Yua,0000,0000,0000,,Sim. Comprarei algumas.
+Dialogue: 0,0:08:15.59,0:08:17.85,Main Dialogue,Aoi,0000,0000,0000,,Hã? Você não tem?
+Dialogue: 0,0:08:17.85,0:08:18.96,Main Dialogue,Koharu,0000,0000,0000,,Hã? Yua-senpai?
+Dialogue: 0,0:08:18.96,0:08:21.10,Main Dialogue,Aoi,0000,0000,0000,,Suas calcinhas estão velhas?
+Dialogue: 0,0:08:21.10,0:08:23.36,Main Dialogue,Hiina,0000,0000,0000,,Você usa calcinhas velhas aqui?
+Dialogue: 0,0:08:23.36,0:08:24.25,Main Dialogue,Yua,0000,0000,0000,,Estou bem hoje.
+Dialogue: 0,0:08:24.25,0:08:25.59,Main Dialogue,Hiina,0000,0000,0000,,Não está usando calcinhas velhas hoje.
+Dialogue: 0,0:08:24.93,0:08:26.04,Main Dialogue Top,Yua,0000,0000,0000,,Hoje não.
+Dialogue: 0,0:08:25.59,0:08:27.09,Main Dialogue,Koharu,0000,0000,0000,,Geralmente usa?
+Dialogue: 0,0:08:27.09,0:08:29.43,Main Dialogue,Yua,0000,0000,0000,,Uso quando estou em casa, sabe?
+Dialogue: 0,0:08:29.43,0:08:33.22,Main Dialogue,Yua,0000,0000,0000,,Dias que não faço nada.
+Dialogue: 0,0:08:33.22,0:08:33.93,Main Dialogue,Aoi,0000,0000,0000,,Não vamos falar disso!
+Dialogue: 0,0:08:33.93,0:08:35.34,Main Dialogue,Koharu,0000,0000,0000,,Não vamos falar disso!
+Dialogue: 0,0:08:35.34,0:08:37.39,Main Dialogue,Koharu,0000,0000,0000,,Pare por aí!
+Dialogue: 0,0:08:37.39,0:08:39.36,Main Dialogue,Yua,0000,0000,0000,,Ok. Mais alguém?
+Dialogue: 0,0:08:39.36,0:08:40.81,Main Dialogue,Aoi,0000,0000,0000,,Eu.
+Dialogue: 0,0:08:40.81,0:08:43.04,Main Dialogue,Yua,0000,0000,0000,,O "clube de tênis diferente" da Aoi.
+Dialogue: 0,0:08:43.04,0:08:47.61,Main Dialogue,Aoi,0000,0000,0000,,É um pouco difícil, mas antes de jogar
+Dialogue: 0,0:08:47.61,0:08:51.57,Main Dialogue,Aoi,0000,0000,0000,,os jogadores precisam lavar \Nas mãos com vinagre tesu.
+Dialogue: 0,0:08:51.57,0:08:54.50,Main Dialogue,Aoi,0000,0000,0000,,Isso é o que chamo de tê-ni-su!
+Dialogue: 0,0:08:55.55,0:08:56.65,Main Dialogue,Koharu,0000,0000,0000,,Aí está!
+Dialogue: 0,0:08:56.65,0:08:59.33,Main Dialogue,Koharu,0000,0000,0000,,O trocadilho da Aoi-senpai!
+Dialogue: 0,0:08:59.33,0:09:00.23,Main Dialogue,Aoi,0000,0000,0000,,Que divertido!
+Dialogue: 0,0:09:00.23,0:09:01.60,Main Dialogue,Koharu,0000,0000,0000,,Dessa vez foi fácil de entender.
+Dialogue: 0,0:09:02.14,0:09:03.83,Main Dialogue,Aoi,0000,0000,0000,,Entenderam?
+Dialogue: 0,0:09:03.83,0:09:05.65,Main Dialogue,Koharu,0000,0000,0000,,Foi fácil de entender.
+Dialogue: 0,0:09:05.65,0:09:06.21,Main Dialogue,Aoi,0000,0000,0000,,Tê-ni-su...
+Dialogue: 0,0:09:06.21,0:09:07.06,Main Dialogue,Koharu,0000,0000,0000,,Vinagre nas mãos...
+Dialogue: 0,0:09:07.06,0:09:10.31,Main Dialogue,Aoi,0000,0000,0000,,Sim. Depois disso, eles fazem sushi!
+Dialogue: 0,0:09:11.71,0:09:13.46,Main Dialogue,Koharu,0000,0000,0000,,Não vão jogar tênis?
+Dialogue: 0,0:09:13.46,0:09:16.97,Main Dialogue,Aoi,0000,0000,0000,,Quem quer jogar tênis, joga...
+Dialogue: 0,0:09:16.97,0:09:19.00,Main Dialogue,Aoi,0000,0000,0000,,As pessoas do banco...
+Dialogue: 0,0:09:19.00,0:09:21.71,Main Dialogue,Koharu,0000,0000,0000,,As pessoas do banco fazem sushi.
+Dialogue: 0,0:09:21.71,0:09:24.18,Main Dialogue,Aoi,0000,0000,0000,,Enquanto fazem sushi, ficam torcendo.
+Dialogue: 0,0:09:24.18,0:09:26.69,Main Dialogue,Koharu,0000,0000,0000,,Então bastante sushi é feito durante a partida.
+Dialogue: 0,0:09:26.69,0:09:28.03,Main Dialogue,Aoi,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:09:28.03,0:09:30.09,Main Dialogue,Aoi,0000,0000,0000,,"Sushi! Pegue seu sushi aqui!"
+Dialogue: 0,0:09:30.09,0:09:33.59,Main Dialogue,Hiina,0000,0000,0000,,Eu sabia que ia acontecer, \Nmas fica difícil não rir.
+Dialogue: 0,0:09:33.59,0:09:35.28,Main Dialogue,Aoi,0000,0000,0000,,Eba!
+Dialogue: 0,0:09:35.28,0:09:35.99,Main Dialogue,Hiina,0000,0000,0000,,É incrível.
+Dialogue: 0,0:09:35.99,0:09:37.48,Main Dialogue,Koharu,0000,0000,0000,,Esta é Aoi.
+Dialogue: 0,0:09:37.48,0:09:39.60,Main Dialogue,Hiina,0000,0000,0000,,Você parece comediante.
+Dialogue: 0,0:09:39.60,0:09:41.20,Main Dialogue,Aoi,0000,0000,0000,,Diferente da Koharun.
+Dialogue: 0,0:09:41.72,0:09:43.64,Main Dialogue,Koharu,0000,0000,0000,,Espere! O que está querendo dizer?
+Dialogue: 0,0:09:45.59,0:09:52.12,Main Dialogue,Aoi,0000,0000,0000,,Koharun, mesmo quando diz algo engraçado, \Nvocê consegue deixar sem graça.
+Dialogue: 0,0:09:52.98,0:09:56.19,Main Dialogue,Koharu,0000,0000,0000,,Tenho o poder de deixar chato \No que é engraçado...
+Dialogue: 0,0:09:56.19,0:09:58.78,Main Dialogue,Aoi,0000,0000,0000,,Mas você é assim.
+Dialogue: 0,0:09:58.78,0:10:00.53,Main Dialogue,Yua,0000,0000,0000,,É sua personalidade, Koharun.
+Dialogue: 0,0:10:00.53,0:10:01.80,Main Dialogue,Koharu,0000,0000,0000,,Ouvir isso não me deixa feliz!
+Dialogue: 0,0:10:01.80,0:10:03.64,Main Dialogue,Koharu,0000,0000,0000,,Não me deixa feliz mesmo!
+Dialogue: 0,0:10:06.17,0:10:07.58,Main Dialogue,Mobuko,0000,0000,0000,,Escute isso!
+Dialogue: 0,0:10:07.58,0:10:10.22,Main Dialogue,Mobuko,0000,0000,0000,,Consegui outra cabeça hoje!
+Dialogue: 0,0:10:10.22,0:10:14.80,Main Dialogue,Mobuko,0000,0000,0000,,Nossa, por que as pessoas não\N colecionam King Harima?
+Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 9\N{\fs24}Timidez
+Dialogue: 0,0:10:58.51,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:59.12,0:11:01.73,Main Dialogue,Yua,0000,0000,0000,,Hã? Acho que estamos quase perfeitas.
+Dialogue: 0,0:11:01.73,0:11:05.64,Main Dialogue,Koharu,0000,0000,0000,,Não, estamos fora de sincronia!

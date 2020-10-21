@@ -1,0 +1,261 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H0000CCE5,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0100,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H00967B72,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0050,0020,0025,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H00967B72,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H00967B72,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Bike Sign 1,Arial,18,&H00424242,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0055,0020,0195,1
+Style: Bike Sign 2,Arial,18,&H00424242,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0200,0020,0215,1
+Style: Bike Sign 3,Arial,18,&H00424242,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0220,0020,0200,1
+Style: Home,Arial,18,&H007F6E6A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0434,0040,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.54,0:00:10.42,Episode Title,Sign,0000,0000,0000,,{\fad(1000,959)}Episódio 5\N{\fs22}Aspiração
+Dialogue: 0,0:00:07.44,0:00:11.12,Main Dialogue,Yua,0000,0000,0000,,Apesar de estarmos de férias, \Ntem bastante gente na escola.
+Dialogue: 0,0:00:11.12,0:00:12.40,Main Dialogue,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:00:13.41,0:00:14.87,Main Dialogue,Yua,0000,0000,0000,,O que foi, Koharun?
+Dialogue: 0,0:00:14.87,0:00:19.27,Main Dialogue,Koharu,0000,0000,0000,,Só estava pensando que o peito \Nda Hiina-senpai está mais visível,
+Dialogue: 0,0:00:19.27,0:00:22.06,Main Dialogue,Koharu,0000,0000,0000,,agora que trocamos para uniformes de verão.
+Dialogue: 0,0:00:22.06,0:00:23.50,Main Dialogue,Yua,0000,0000,0000,,Oh, você está certa!
+Dialogue: 0,0:00:23.50,0:00:27.27,Main Dialogue,Aoi,0000,0000,0000,,Com peitos grandes assim, quando você \Nesbarra em um menino no corredor
+Dialogue: 0,0:00:27.27,0:00:30.03,Main Dialogue,Aoi,0000,0000,0000,,a cara dele afunda neles?
+Dialogue: 0,0:00:30.03,0:00:32.92,Main Dialogue,Yua,0000,0000,0000,,"Boing, boing. O que é isso?", certo?
+Dialogue: 0,0:00:32.92,0:00:35.43,Main Dialogue,Koharu,0000,0000,0000,,Um clássico de anime!
+Dialogue: 0,0:00:35.43,0:00:37.23,Main Dialogue,Hiina,0000,0000,0000,,Isso nunca aconteceu comigo.
+Dialogue: 0,0:00:37.23,0:00:39.41,Main Dialogue,Hiina,0000,0000,0000,,Meu peito não é tão grande.
+Dialogue: 0,0:00:39.41,0:00:41.15,Main Dialogue,Koharu,0000,0000,0000,,Hã? Não?
+Dialogue: 0,0:00:41.15,0:00:43.39,Main Dialogue,Hiina,0000,0000,0000,,Olhe para aquelas meninas.
+Dialogue: 0,0:00:43.70,0:00:44.91,Main Dialogue,Koharu,0000,0000,0000,,Nossa!
+Dialogue: 0,0:00:44.91,0:00:47.98,Main Dialogue,Koharu,0000,0000,0000,,São tão grandes. Nem parecem \Nser do mesmo desenho!
+Dialogue: 0,0:00:47.98,0:00:51.75,Main Dialogue,Hiina,0000,0000,0000,,Hoje em dia os uniformes são feitos \Ncom um sensor.
+Dialogue: 0,0:00:51.75,0:00:56.53,Main Dialogue,Hiina,0000,0000,0000,,Quando disparado, a camisa entra no modo "peituda".
+Dialogue: 0,0:00:56.53,0:00:58.50,Main Dialogue,Yua,0000,0000,0000,,Ou seja, o uniforme reconhece seu tamanho
+Dialogue: 0,0:00:58.50,0:01:01.50,Main Dialogue,Yua,0000,0000,0000,,e te dá a honra dos "peitos grandes".
+Dialogue: 0,0:01:01.50,0:01:02.62,Main Dialogue,Hiina,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:01:02.62,0:01:04.85,Main Dialogue,Koharu,0000,0000,0000,,Vem em todos?
+Dialogue: 0,0:01:04.85,0:01:06.86,Main Dialogue,Aoi,0000,0000,0000,,Reconheça meu tamanho!
+Dialogue: 0,0:02:06.02,0:02:09.22,Main Dialogue,Yua,0000,0000,0000,,Ok, vamos tentar criar um clube diferente!
+Dialogue: 0,0:02:09.22,0:02:11.23,Main Dialogue,Aoi,0000,0000,0000,,Com qual devemos começar?
+Dialogue: 0,0:02:11.23,0:02:12.95,Main Dialogue,Hiina,0000,0000,0000,,Que tal o clube de ciclismo?
+Dialogue: 0,0:02:12.95,0:02:14.80,Main Dialogue,Yua,0000,0000,0000,,Oh, o clube de ciclismo.
+Dialogue: 0,0:02:14.80,0:02:16.34,Main Dialogue,Yua,0000,0000,0000,,Qual a noção que vocês têm deles?
+Dialogue: 0,0:02:16.34,0:02:17.25,Main Dialogue,Aoi,0000,0000,0000,,Rápidos!
+Dialogue: 0,0:02:18.03,0:02:20.28,Main Dialogue,Koharu,0000,0000,0000,,Bem, é um esporte onde eles \Ncompetem por velocidade!
+Dialogue: 0,0:02:20.28,0:02:23.92,Main Dialogue,Yua,0000,0000,0000,,Eles são rápidos, inclusive na {\i1}aparência{\i0}.
+Dialogue: 0,0:02:23.92,0:02:25.20,Main Dialogue,Koharu,0000,0000,0000,,Como assim?
+Dialogue: 0,0:02:25.20,0:02:27.89,Main Dialogue,Yua,0000,0000,0000,,Por exemplo, o design dos capacetes.
+Dialogue: 0,0:02:27.89,0:02:31.29,Main Dialogue,Yua,0000,0000,0000,,Eles têm um formato único que dá \Nessa sensação de "rápido", não têm?
+Dialogue: 0,0:02:31.29,0:02:34.11,Main Dialogue,Aoi,0000,0000,0000,,Acho que a aparência importa mais!
+Dialogue: 0,0:02:34.11,0:02:36.92,Main Dialogue,Koharu,0000,0000,0000,,E-Eu acho que não...
+Dialogue: 0,0:02:36.92,0:02:40.03,Main Dialogue,Hiina,0000,0000,0000,,Eles têm a pose aerodinâmica\N que um tokusatsu teria.
+Dialogue: 0,0:02:40.03,0:02:43.97,Main Dialogue,Hiina,0000,0000,0000,,Ou podem ser insetos que desenvolveram \Na velocidade máxima.
+Dialogue: 0,0:02:43.97,0:02:44.95,Main Dialogue,Koharu,0000,0000,0000,,I-Insetos?!
+Dialogue: 0,0:02:44.95,0:02:48.22,Main Dialogue,Aoi,0000,0000,0000,,E eles usam aqueles óculos metidos, né?
+Dialogue: 0,0:02:48.22,0:02:50.51,Main Dialogue,Aoi,0000,0000,0000,,Ficam mais parecidos com insetos!
+Dialogue: 0,0:02:50.51,0:02:52.80,Main Dialogue,Yua,0000,0000,0000,,E os uniformes são diferentes também.
+Dialogue: 0,0:02:52.80,0:02:53.77,Main Dialogue,Yua,0000,0000,0000,,São bem justos.
+Dialogue: 0,0:02:53.77,0:02:56.19,Main Dialogue,Aoi,0000,0000,0000,,Aposto que seus corpos chamam muita atenção,
+Dialogue: 0,0:02:56.19,0:02:59.91,Main Dialogue,Aoi,0000,0000,0000,,afinal eles ficam mostrando os músculos \Ndevido ao treinamento.
+Dialogue: 0,0:02:59.91,0:03:03.99,Main Dialogue,Koharu,0000,0000,0000,,Não, é para diminuir a resistência \Ndo ar o máximo possível.
+Dialogue: 0,0:03:03.99,0:03:06.74,Main Dialogue,Hiina,0000,0000,0000,,Ouvi dizer que se a perna deles fica muito grande,
+Dialogue: 0,0:03:06.74,0:03:08.95,Main Dialogue,Hiina,0000,0000,0000,,não conseguem achar calças que sirvam.
+Dialogue: 0,0:03:08.95,0:03:11.42,Main Dialogue,Aoi,0000,0000,0000,,Em vez de seguirem a moda normal,
+Dialogue: 0,0:03:11.42,0:03:13.82,Main Dialogue,Aoi,0000,0000,0000,,eles usam aquelas luvas sem dedos.
+Dialogue: 0,0:03:13.82,0:03:15.00,Main Dialogue,Koharu,0000,0000,0000,,Essa lógica...
+Dialogue: 0,0:03:15.00,0:03:18.10,Main Dialogue,Yua,0000,0000,0000,,Além das aparências, o que mais?
+Dialogue: 0,0:03:18.10,0:03:21.89,Main Dialogue,Koharu,0000,0000,0000,,Sempre que veem uma subida, \Neles ficam competitivos.
+Dialogue: 0,0:03:21.89,0:03:23.01,Main Dialogue,Yua,0000,0000,0000,,Já ouvi isso.
+Dialogue: 0,0:03:23.01,0:03:26.60,Main Dialogue,Hiina,0000,0000,0000,,Eles são tão obcecados em \Npedalar lugares íngremes,
+Dialogue: 0,0:03:26.60,0:03:29.28,Main Dialogue,Hiina,0000,0000,0000,,que te fazem pensar que eles andam mais rápido,
+Dialogue: 0,0:03:29.28,0:03:31.33,Main Dialogue,Hiina,0000,0000,0000,,sem tocar os pés no chão.
+Dialogue: 0,0:03:31.33,0:03:32.98,Main Dialogue,Yua,0000,0000,0000,,Talvez eles sejam masoquistas.
+Dialogue: 0,0:03:32.98,0:03:34.98,Main Dialogue,Koharu,0000,0000,0000,,Quê?! E-Então é isso?!
+Dialogue: 0,0:03:34.98,0:03:38.22,Main Dialogue,Hiina,0000,0000,0000,,Só no ciclismo usam algo tão\N valioso como o bronze,
+Dialogue: 0,0:03:38.22,0:03:42.74,Main Dialogue,Hiina,0000,0000,0000,,mas sem a imagem elegante e refinada.
+Dialogue: 0,0:03:42.74,0:03:45.82,Main Dialogue,Aoi,0000,0000,0000,,Eles não têm um senso estranho de distância?
+Dialogue: 0,0:03:45.82,0:03:46.63,Main Dialogue,Yua,0000,0000,0000,,Como assim?
+Dialogue: 0,0:03:46.63,0:03:48.78,Main Dialogue,Aoi,0000,0000,0000,,Eles dizem, "fui em uma excursão esse fim de semana".
+Dialogue: 0,0:03:48.78,0:03:50.05,Main Dialogue,Aoi,0000,0000,0000,,Você pergunta, "para onde?",
+Dialogue: 0,0:03:50.05,0:03:52.70,Main Dialogue,Aoi,0000,0000,0000,,E eles dizem, "pedalei até o Monte Fuji e voltei".
+Dialogue: 0,0:03:52.70,0:03:53.50,Main Dialogue,Yua,0000,0000,0000,,Monte Fuji?!
+Dialogue: 0,0:03:53.50,0:03:54.70,Main Dialogue,Aoi,0000,0000,0000,,Loucura, né?
+Dialogue: 0,0:03:54.70,0:03:56.08,Main Dialogue,Aoi,0000,0000,0000,,É uma referência mundial!
+Dialogue: 0,0:03:56.08,0:03:58.96,Main Dialogue,Koharu,0000,0000,0000,,Acho que não tem nada a ver com isso...
+Dialogue: 0,0:03:58.96,0:04:01.16,Main Dialogue,Hiina,0000,0000,0000,,Até para ir no mercado que é perto,
+Dialogue: 0,0:04:01.16,0:04:03.52,Main Dialogue,Hiina,0000,0000,0000,,eles se sentem obrigados a ir pedalando.
+Dialogue: 0,0:04:03.52,0:04:06.72,Main Dialogue,Yua,0000,0000,0000,,Eles têm a mesma sensação do ensino fundamental,
+Dialogue: 0,0:04:06.72,0:04:09.47,Main Dialogue,Yua,0000,0000,0000,,quando ganharam a primeira bicicleta.
+Dialogue: 0,0:04:09.47,0:04:11.10,Main Dialogue,Aoi,0000,0000,0000,,Meninos são muito idiotas!
+Dialogue: 0,0:04:11.10,0:04:12.98,Main Dialogue,Koharu,0000,0000,0000,,S-Sério?
+Dialogue: 0,0:04:12.98,0:04:16.70,Main Dialogue,Yua,0000,0000,0000,,Qual a imagem deles em animes e mangás?
+Dialogue: 0,0:04:16.70,0:04:18.98,Main Dialogue,Koharu,0000,0000,0000,,Anime ou mangá sobre ciclistas?
+Dialogue: 0,0:04:18.98,0:04:23.03,Main Dialogue,Hiina,0000,0000,0000,,Geralmente tem uma subida íngreme na frente da \Ncasa do protagonista ou no caminho da escola,
+Dialogue: 0,0:04:21.46,0:04:26.99,Home,Sign,0000,0000,0000,,Casa
+Dialogue: 0,0:04:23.03,0:04:27.49,Main Dialogue,Hiina,0000,0000,0000,,então sua força e fôlego foram exercitados \Nnaturalmente desde a infância.
+Dialogue: 0,0:04:27.49,0:04:30.28,Main Dialogue,Yua,0000,0000,0000,,Quando os membros do clube \Nveem-no com uma bicicleta velha
+Dialogue: 0,0:04:30.28,0:04:33.44,Main Dialogue,Yua,0000,0000,0000,,em alta velocidade ou subindo facilmente, \Neles indagam...
+Dialogue: 0,0:04:33.44,0:04:36.00,Main Dialogue,Yua,0000,0000,0000,,"Quem é ele?! Ele tem talento!"
+Dialogue: 0,0:04:36.00,0:04:37.96,Main Dialogue,Koharu,0000,0000,0000,,Parece um shounen!
+Dialogue: 0,0:04:37.96,0:04:41.51,Main Dialogue,Yua,0000,0000,0000,,E se o torneio ou uma grande corrida \Nvira o centro da história,
+Dialogue: 0,0:04:41.51,0:04:45.51,Main Dialogue,Yua,0000,0000,0000,,deve ser mais difícil inventar o enredo assim, \Ndo que em esportes com bola.
+Dialogue: 0,0:04:45.51,0:04:48.97,Main Dialogue,Hiina,0000,0000,0000,,Acaba sendo uma história sobre \Nforça física ou interior.
+Dialogue: 0,0:04:48.97,0:04:51.22,Main Dialogue,Aoi,0000,0000,0000,,Quem se superar durante a corrida ganha, certo?
+Dialogue: 0,0:04:51.22,0:04:55.73,Main Dialogue,Koharu,0000,0000,0000,,B-Bem, o trabalho envolve desfrutar \Na natureza espiritualmente.
+Dialogue: 0,0:04:55.73,0:04:59.11,Main Dialogue,Yua,0000,0000,0000,,Talvez seja por isso que quando o clima está bom
+Dialogue: 0,0:04:59.11,0:05:02.37,Main Dialogue,Yua,0000,0000,0000,,e tudo está prestes a ficar monótono,
+Dialogue: 0,0:05:02.37,0:05:05.70,Main Dialogue,Yua,0000,0000,0000,,o tempo muda na hora certa, \Ncom tempestade ou ventania.
+Dialogue: 0,0:05:05.70,0:05:09.36,Main Dialogue,Aoi,0000,0000,0000,,De repente, tudo dá errado para o melhor ciclista,
+Dialogue: 0,0:05:09.36,0:05:13.60,Main Dialogue,Aoi,0000,0000,0000,,e o protagonista tem um passado sobre \Nse dar bem com chuva e vento,
+Dialogue: 0,0:05:13.60,0:05:16.00,Main Dialogue,Aoi,0000,0000,0000,,então ele continua se esforçando até alcançá-lo.
+Dialogue: 0,0:05:16.00,0:05:16.96,Main Dialogue,Koharu,0000,0000,0000,,Isso acontece?!
+Dialogue: 0,0:05:16.96,0:05:19.66,Main Dialogue,Hiina,0000,0000,0000,,No fim da corrida os ciclistas estão exaustos,
+Dialogue: 0,0:05:19.66,0:05:21.46,Main Dialogue,Hiina,0000,0000,0000,,e parecem que vão cair,
+Dialogue: 0,0:05:21.46,0:05:23.49,Main Dialogue,Hiina,0000,0000,0000,,mas então vem o flashback.
+Dialogue: 0,0:05:23.49,0:05:27.49,Main Dialogue,Yua,0000,0000,0000,,"De que serviu todo meu treinamento?
+Dialogue: 0,0:05:27.49,0:05:29.97,Main Dialogue,Yua,0000,0000,0000,,Não posso parar por aqui!"
+Dialogue: 0,0:05:29.97,0:05:32.97,Main Dialogue,Hiina,0000,0000,0000,,E por causa da necessidade de vencer, \Neles se recuperam.
+Dialogue: 0,0:05:32.97,0:05:34.64,Main Dialogue,Koharu,0000,0000,0000,,Consigo imaginar a cena!
+Dialogue: 0,0:05:34.64,0:05:37.38,Main Dialogue,Yua,0000,0000,0000,,Então finalmente chegam os últimos 500 metros.
+Dialogue: 0,0:05:37.38,0:05:39.22,Main Dialogue,Yua,0000,0000,0000,,Está entre as melhores escolas concorrentes.
+Dialogue: 0,0:05:39.22,0:05:42.72,Main Dialogue,Yua,0000,0000,0000,,Mas quando você presta atenção, \Nestão todos lá, não só o protagonista.
+Dialogue: 0,0:05:39.52,0:05:44.37,Bike Sign 1,Sign,0000,0000,0000,,Escolas \Nconcorrentes                Protagonista
+Dialogue: 0,0:05:42.72,0:05:45.99,Main Dialogue,Yua,0000,0000,0000,,E, no final, a última subida decidirá a corrida!
+Dialogue: 0,0:05:46.12,0:05:49.99,Main Dialogue,Koharu,0000,0000,0000,,Hã?! Parece o quadro de perguntas \Nde um programa!
+Dialogue: 0,0:05:49.99,0:05:51.96,Main Dialogue,Hiina,0000,0000,0000,,E mesmo tendo percorrido centenas de quilômetros,
+Dialogue: 0,0:05:51.96,0:05:53.53,Main Dialogue,Hiina,0000,0000,0000,,o vencedor ganha por um triz
+Dialogue: 0,0:05:53.53,0:05:54.78,Main Dialogue,Hiina,0000,0000,0000,,ou dá empate.
+Dialogue: 0,0:05:54.78,0:05:56.75,Main Dialogue,Yua,0000,0000,0000,,As chances disso acontecer são \Nas mesmas de um milagre!
+Dialogue: 0,0:05:56.75,0:05:58.46,Main Dialogue,Aoi,0000,0000,0000,,É mesmo!
+Dialogue: 0,0:05:58.46,0:06:02.50,Main Dialogue,Koharu,0000,0000,0000,,V-Vocês sabem bastante sobre \Ndesenhos de ciclistas, hein?
+Dialogue: 0,0:06:02.90,0:06:04.16,Main Dialogue,Yua,0000,0000,0000,,Não muito.
+Dialogue: 0,0:06:04.16,0:06:04.65,Main Dialogue,Hiina,0000,0000,0000,,Não.
+Dialogue: 0,0:06:04.65,0:06:07.14,Main Dialogue,Aoi,0000,0000,0000,,Só estamos deduzindo como deve ser.
+Dialogue: 0,0:06:07.14,0:06:08.30,Main Dialogue,Koharu,0000,0000,0000,,Quê?!
+Dialogue: 0,0:06:08.30,0:06:11.97,Main Dialogue,Koharu,0000,0000,0000,,Vocês nunca assistiram e estão empolgadas assim?!
+Dialogue: 0,0:06:11.97,0:06:15.55,Main Dialogue,Yua,0000,0000,0000,,Certo, agora vamos pensar em \Num "clube de ciclismo diferente"!
+Dialogue: 0,0:06:15.55,0:06:18.11,Main Dialogue,Yua,0000,0000,0000,,Ok, quem tiver uma ideia primeiro...
+Dialogue: 0,0:06:18.56,0:06:20.31,Main Dialogue,Hiina,0000,0000,0000,,Certo, eu vou.
+Dialogue: 0,0:06:20.31,0:06:23.98,Main Dialogue,Yua,0000,0000,0000,,Ok, o "clube de ciclismo diferente" da Hiina.
+Dialogue: 0,0:06:23.98,0:06:27.99,Main Dialogue,Hiina,0000,0000,0000,,É uma área bem restrita, então até durante \Na corrida as bicicletas são confiscadas.
+Dialogue: 0,0:06:30.29,0:06:34.99,Main Dialogue,Hiina,0000,0000,0000,,O fiscal joga a bicicleta no caminhão \Nsempre que tiver uma chance.
+Dialogue: 0,0:06:34.99,0:06:38.61,Main Dialogue,Hiina,0000,0000,0000,,Então ele a leva para longe e \No ciclista precisa pagar 3.000 ienes,
+Dialogue: 0,0:06:35.45,0:06:39.41,Bike Sign 3,Sign,0000,0000,0000,,Guincho
+Dialogue: 0,0:06:38.61,0:06:40.54,Main Dialogue,Hiina,0000,0000,0000,,ou não a recebe de volta.
+Dialogue: 0,0:06:41.01,0:06:43.16,Main Dialogue,Koharu,0000,0000,0000,,Então é levada embora?
+Dialogue: 0,0:06:42.51,0:06:45.08,Main Dialogue Top,Hiina,0000,0000,0000,,Sim. Mesmo quando o ciclista está pedalando, \Nele diz "acho que isso é ilegal",
+Dialogue: 0,0:06:45.08,0:06:47.06,Main Dialogue Top,Hiina,0000,0000,0000,,e leva a bicicleta embora.
+Dialogue: 0,0:06:47.06,0:06:48.10,Main Dialogue,Yua,0000,0000,0000,,Enquanto ele pedala?
+Dialogue: 0,0:06:48.10,0:06:48.60,Main Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:48.60,0:06:49.77,Main Dialogue,Yua,0000,0000,0000,,Que horror!
+Dialogue: 0,0:06:49.77,0:06:51.01,Main Dialogue,Yua,0000,0000,0000,,Então ninguém pode competir.
+Dialogue: 0,0:06:51.01,0:06:51.80,Main Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:51.80,0:06:54.58,Main Dialogue,Hiina,0000,0000,0000,,Alcançar a linha de chegada é a maior \Nconquista que alguém pode ter.
+Dialogue: 0,0:06:54.58,0:06:55.88,Main Dialogue,Aoi,0000,0000,0000,,Entendi!
+Dialogue: 0,0:06:55.03,0:06:56.55,Main Dialogue Top,Koharu,0000,0000,0000,,Se tiverem sorte...
+Dialogue: 0,0:06:56.55,0:07:00.18,Main Dialogue,Yua,0000,0000,0000,,É diferente. Ok, mais alguém?
+Dialogue: 0,0:07:00.18,0:07:01.62,Main Dialogue,Yua,0000,0000,0000,,Ninguém?
+Dialogue: 0,0:07:02.67,0:07:03.50,Main Dialogue,Yua,0000,0000,0000,,Ok.
+Dialogue: 0,0:07:05.26,0:07:07.00,Main Dialogue,Hiina,0000,0000,0000,,Yua, ótimo!
+Dialogue: 0,0:07:07.00,0:07:08.47,Main Dialogue,Hiina,0000,0000,0000,,Por isso você é a líder!
+Dialogue: 0,0:07:08.47,0:07:10.95,Main Dialogue,Yua,0000,0000,0000,,Ok, um "clube de ciclismo diferente"!
+Dialogue: 0,0:07:11.32,0:07:16.80,Main Dialogue,Yua,0000,0000,0000,,Ah, todos eles têm coxas enormes
+Dialogue: 0,0:07:16.80,0:07:20.33,Main Dialogue,Yua,0000,0000,0000,,e fazem um torneio...
+Dialogue: 0,0:07:21.66,0:07:22.57,Main Dialogue,,0000,0000,0000,,"Smack!"
+Dialogue: 0,0:07:23.98,0:07:27.27,Main Dialogue,Yua,0000,0000,0000,,As coxas batem umas contra as outras...
+Dialogue: 0,0:07:27.27,0:07:30.01,Main Dialogue,Hiina,0000,0000,0000,,Do que está falando?
+Dialogue: 0,0:07:30.01,0:07:31.97,Main Dialogue,Koharu,0000,0000,0000,,O que aconteceu com as bicicletas?
+Dialogue: 0,0:07:32.40,0:07:33.41,Main Dialogue,Hiina,0000,0000,0000,,Desculpa, Yua.
+Dialogue: 0,0:07:33.41,0:07:35.97,Main Dialogue,Hiina,0000,0000,0000,,Queria te ajudar, mas não entendi.
+Dialogue: 0,0:07:37.66,0:07:39.35,Main Dialogue,Yua,0000,0000,0000,,Quem cair, perde.
+Dialogue: 0,0:07:39.35,0:07:40.26,Main Dialogue,,0000,0000,0000,,"Smack, smack!"
+Dialogue: 0,0:07:40.26,0:07:43.14,Main Dialogue,Yua,0000,0000,0000,,"Ahh! Droga!" Tipo isso...
+Dialogue: 0,0:07:43.98,0:07:47.94,Main Dialogue,Koharu,0000,0000,0000,,Admiro o esforço para tentar \Nexplicar com gestos, mas...
+Dialogue: 0,0:07:47.94,0:07:50.83,Main Dialogue,Hiina,0000,0000,0000,,Mesmo se mexendo ninguém consegue imaginar!
+Dialogue: 0,0:07:50.83,0:07:51.85,Main Dialogue,Aoi,0000,0000,0000,,Não conseguem!
+Dialogue: 0,0:07:51.85,0:07:54.41,Main Dialogue,Yua,0000,0000,0000,,É parecido com sumô de bunda. Diferente, né?
+Dialogue: 0,0:07:55.09,0:07:55.99,Main Dialogue,Yua,0000,0000,0000,,Né?
+Dialogue: 0,0:07:55.99,0:07:58.54,Main Dialogue,Yua,0000,0000,0000,,Ok, vamos prosseguir.
+Dialogue: 0,0:07:58.54,0:07:59.81,Main Dialogue,Yua,0000,0000,0000,,Hiina, mais nada?
+Dialogue: 0,0:07:59.81,0:08:00.59,Main Dialogue,Hiina,0000,0000,0000,,Não, nada.
+Dialogue: 0,0:08:00.59,0:08:01.30,Main Dialogue,Yua,0000,0000,0000,,Mais nada?
+Dialogue: 0,0:08:01.30,0:08:02.43,Main Dialogue,Koharu,0000,0000,0000,,Ok... Eu.
+Dialogue: 0,0:08:04.20,0:08:05.34,Main Dialogue,Hiina,0000,0000,0000,,Mude nosso humor!
+Dialogue: 0,0:08:05.34,0:08:07.30,Main Dialogue,Koharu,0000,0000,0000,,O que eu faço? Bem...
+Dialogue: 0,0:08:07.30,0:08:10.01,Main Dialogue,Yua,0000,0000,0000,,Vamos lá. O "clube de ciclismo \Ndiferente" da Koharun!
+Dialogue: 0,0:08:10.80,0:08:16.47,Main Dialogue,Koharu,0000,0000,0000,,Durante a corrida, colocam pesos nas bicicletas.
+Dialogue: 0,0:08:18.88,0:08:21.54,Main Dialogue,Aoi,0000,0000,0000,,Parece algo que a Yua-senpai diria.
+Dialogue: 0,0:08:21.54,0:08:22.71,Main Dialogue,Koharu,0000,0000,0000,,Sério?
+Dialogue: 0,0:08:22.71,0:08:24.23,Main Dialogue,Koharu,0000,0000,0000,,Ei, não nos compare!
+Dialogue: 0,0:08:25.06,0:08:28.14,Main Dialogue,Aoi,0000,0000,0000,,Eles usam para brigar... Ou...
+Dialogue: 0,0:08:28.14,0:08:32.64,Main Dialogue,Koharu,0000,0000,0000,,Não, não brigam. Eles pedalam com \Nos pesos nas bicicletas.
+Dialogue: 0,0:08:32.64,0:08:34.95,Main Dialogue,Koharu,0000,0000,0000,,Mas estão tentando vencer.
+Dialogue: 0,0:08:34.95,0:08:36.99,Main Dialogue,Yua,0000,0000,0000,,Eles são classificados pelos quilos?
+Dialogue: 0,0:08:36.99,0:08:41.00,Main Dialogue,Koharu,0000,0000,0000,,Sim. A turma de 10kg, a turma de 20kg...
+Dialogue: 0,0:08:41.00,0:08:43.48,Main Dialogue,Koharu,0000,0000,0000,,Existem trajetos diferentes.
+Dialogue: 0,0:08:44.00,0:08:47.51,Main Dialogue,Koharu,0000,0000,0000,,E todos estão tentando competir assim!
+Dialogue: 0,0:08:47.51,0:08:49.96,Main Dialogue,Aoi,0000,0000,0000,,Yua-senpai, você se empolgou.
+Dialogue: 0,0:08:49.96,0:08:52.17,Main Dialogue,Yua,0000,0000,0000,,Fiz meu melhor para expandir a ideia.
+Dialogue: 0,0:08:50.35,0:08:51.46,Main Dialogue Top,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:52.97,0:08:55.34,Main Dialogue,Hiina,0000,0000,0000,,Você deve estar abrindo um machucado.
+Dialogue: 0,0:08:55.34,0:08:56.81,Main Dialogue,,0000,0000,0000,,Deixando a ferida pior!
+Dialogue: 0,0:08:57.44,0:08:58.86,Main Dialogue,Yua,0000,0000,0000,,Tug, tug, tug!
+Dialogue: 0,0:08:58.86,0:09:00.56,Main Dialogue,Yua,0000,0000,0000,,Sal, sal!
+Dialogue: 0,0:09:00.56,0:09:02.22,Main Dialogue,Koharu,0000,0000,0000,,Ai!
+Dialogue: 0,0:09:02.84,0:09:05.88,Main Dialogue,Yua,0000,0000,0000,,Bem, mais alguém?
+Dialogue: 0,0:09:05.88,0:09:09.02,Main Dialogue,Yua,0000,0000,0000,,Nós três inventamos algo.
+Dialogue: 0,0:09:09.91,0:09:12.48,Main Dialogue Top,Koharu,0000,0000,0000,,Aoi-senpai! Aoi-senpai!
+Dialogue: 0,0:09:10.04,0:09:13.31,Main Dialogue,Yua,0000,0000,0000,,Agora queremos que Aoi-senpai invente um.
+Dialogue: 0,0:09:13.31,0:09:14.74,Main Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:09:14.74,0:09:18.99,Main Dialogue,Yua,0000,0000,0000,,Ok. O "clube de ciclismo diferente" da Aoi!
+Dialogue: 0,0:09:20.00,0:09:25.00,Main Dialogue,Aoi,0000,0000,0000,,T-T-T-Tim, tim, tim!
+Dialogue: 0,0:09:27.50,0:09:29.51,Main Dialogue,Koharu,0000,0000,0000,,Aoi-senpai, explique!
+Dialogue: 0,0:09:29.51,0:09:31.87,Main Dialogue,Yua,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:09:32.63,0:09:34.97,Main Dialogue,Aoi,0000,0000,0000,,Moedas caindo no chão...
+Dialogue: 0,0:09:34.97,0:09:36.15,Main Dialogue,Aoi,0000,0000,0000,,Tim, tim!
+Dialogue: 0,0:09:36.15,0:09:37.49,Main Dialogue,Aoi,0000,0000,0000,,Como um sino de bicicleta!
+Dialogue: 0,0:09:38.96,0:09:42.28,Main Dialogue,Yua,0000,0000,0000,,Não olhem para mim! Não olhem!
+Dialogue: 0,0:09:39.44,0:09:40.60,Main Dialogue Top,Aoi,0000,0000,0000,,Incrível!
+Dialogue: 0,0:09:40.75,0:09:43.43,Main Dialogue Top,Koharu,0000,0000,0000,,Aoi-senpai! Foi engraçado!
+Dialogue: 0,0:09:43.43,0:09:44.49,Main Dialogue,Aoi,0000,0000,0000,,Incrível!
+Dialogue: 0,0:09:45.02,0:09:46.48,Main Dialogue,Aoi,0000,0000,0000,,O que achou disso, Koharun?
+Dialogue: 0,0:09:46.48,0:09:47.98,Main Dialogue,Koharu,0000,0000,0000,,Foi ótimo!
+Dialogue: 0,0:09:47.98,0:09:49.36,Main Dialogue,Yua,0000,0000,0000,,Não precisa incentivá-la!
+Dialogue: 0,0:09:49.36,0:09:51.40,Main Dialogue,Aoi,0000,0000,0000,,Eba! Eu ganhei!
+Dialogue: 0,0:09:51.40,0:09:53.20,Main Dialogue,Yua,0000,0000,0000,,Não precisa elogiá-la!
+Dialogue: 0,0:09:53.95,0:09:55.99,Main Dialogue,Aoi,0000,0000,0000,,Incrível. Foi incrível.
+Dialogue: 0,0:09:55.99,0:09:58.71,Main Dialogue,Yua,0000,0000,0000,,Não adianta. Dê uma bronca nela, Hiina.
+Dialogue: 0,0:09:58.71,0:10:01.99,Main Dialogue,Hiina,0000,0000,0000,,Não consigo mais diferenciar a voz \Nda Aoi-chan e sua atuação.
+Dialogue: 0,0:10:02.58,0:10:04.54,Main Dialogue,Yua,0000,0000,0000,,A Aoi é igual à ela.
+Dialogue: 0,0:10:04.54,0:10:05.96,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:10:06.64,0:10:10.03,Main Dialogue,Mobuko,0000,0000,0000,,Isso mesmo! Lembre do "Você é Hirata, né?".
+Dialogue: 0,0:10:10.03,0:10:13.88,Main Dialogue,Mobuko,0000,0000,0000,,Tiveram quantas versões \Nde "Strong Machine" no fim?
+Dialogue: 0,0:10:57.53,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:57.53,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Episódio 6\N{\fs24}Amor Solitário
+Dialogue: 0,0:10:57.53,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:58.15,0:11:01.54,Italics Dialogue,Yua,0000,0000,0000,,Nosso fim se formando...
+Dialogue: 0,0:11:01.54,0:11:02.64,Italics Dialogue,Yua,0000,0000,0000,,Bakeratta!
+Dialogue: 0,0:11:02.64,0:11:03.97,Main Dialogue,Koharu,0000,0000,0000,,Bakeratta?!
