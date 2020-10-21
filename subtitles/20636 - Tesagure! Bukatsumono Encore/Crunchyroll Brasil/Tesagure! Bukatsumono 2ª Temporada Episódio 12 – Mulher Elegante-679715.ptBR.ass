@@ -1,0 +1,246 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H00B963CF,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0078,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Recruit Sign,Arial,18,&H008203DC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0030,0018,1
+Style: Sorry Sign,Arial,14,&H006C5E5A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0220,0018,1
+Style: Flashback Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Tesagure Club Sign,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0160,1
+Style: Day Sign 1,Arial,18,&H002525BB,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0060,0020,0018,1
+Style: Day Sign 2,Arial,18,&H00B5709F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0060,0020,0018,1
+Style: Recruit Sign 1,Arial,16,&H000F0F57,&H000000FF,&H0099B0C2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0160,1
+Style: Recruit Sign 3,Arial,15,&H00A16952,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0015,0078,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.69,0:00:10.22,Flashback Dialogue Top,Yua,0000,0000,0000,,Mio-senpai! Já estão começando \Na convidar novos alunos.
+Dialogue: 0,0:00:07.34,0:00:12.11,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Revisão Episódio 12\N{\fs22}Mulher Elegante
+Dialogue: 0,0:00:10.22,0:00:13.87,Flashback Dialogue Top,Mio,0000,0000,0000,,Certo, vamos conseguir um calouro também!
+Dialogue: 0,0:00:13.87,0:00:17.78,Flashback Dialogue,Hiina,0000,0000,0000,,Essa é a única época do ano em que \Nos calouros são mimados, né?
+Dialogue: 0,0:00:17.78,0:00:20.45,Recruit Sign,Sign,0000,0000,0000,,Recrutando Novos Alunos
+Dialogue: 0,0:00:18.27,0:00:20.45,Flashback Dialogue,Yua,0000,0000,0000,,Tipo não alimentar peixes que já pescou?
+Dialogue: 0,0:00:20.45,0:00:24.21,Flashback Dialogue,Mio,0000,0000,0000,,Bem, é assim no mundo todo, \Nnão importa onde você vá.
+Dialogue: 0,0:00:24.21,0:00:27.85,Flashback Dialogue,Yua,0000,0000,0000,,Essa é a Mio-senpai. Suas palavras têm peso, \Nmesmo quando não entendo.
+Dialogue: 0,0:00:27.85,0:00:29.33,Flashback Dialogue,Mio,0000,0000,0000,,Tipo delinquente.
+Dialogue: 0,0:00:29.33,0:00:31.03,Flashback Dialogue,Mio,0000,0000,0000,,Não sou delinquente!
+Dialogue: 0,0:00:31.03,0:00:34.22,Flashback Dialogue,Mio,0000,0000,0000,,Agora parem de falar besteira \Ne comecem a recrutar!
+Dialogue: 0,0:00:34.22,0:00:35.54,Flashback Dialogue,Yua/Aoi,0000,0000,0000,,Certo!
+Dialogue: 0,0:00:35.97,0:00:38.65,Flashback Dialogue,Mio,0000,0000,0000,,Nossa. Essas duas...
+Dialogue: 0,0:00:39.68,0:00:43.05,Flashback Dialogue,Mio,0000,0000,0000,,Não vai entrar em nenhum clube?
+Dialogue: 0,0:00:43.05,0:00:46.55,Flashback Dialogue,Aoi,0000,0000,0000,,Não sou boa com esse tipo \Nde falsa camaradagem.
+Dialogue: 0,0:00:46.55,0:00:48.29,Flashback Dialogue,Aoi,0000,0000,0000,,É um monte de porcaria.
+Dialogue: 0,0:00:48.29,0:00:51.44,Flashback Dialogue,Mio,0000,0000,0000,,Eu também pensava assim.
+Dialogue: 0,0:00:51.44,0:00:52.99,Flashback Dialogue,Aoi,0000,0000,0000,,Se está tentando se aproximar, não vai rolar.
+Dialogue: 0,0:00:52.99,0:00:54.95,Flashback Dialogue,Aoi,0000,0000,0000,,É melhor tentar com outra pessoa.
+Dialogue: 0,0:00:54.95,0:00:56.02,Flashback Dialogue,Mio,0000,0000,0000,,Hã...
+Dialogue: 0,0:00:56.41,0:01:01.46,Flashback Dialogue,Mio,0000,0000,0000,,Mesmo assim seus olhos dizem \N"alguém, preste atenção em mim".
+Dialogue: 0,0:01:01.92,0:01:03.04,Flashback Dialogue,Aoi,0000,0000,0000,,Você não enxerga muito bem.
+Dialogue: 0,0:01:04.95,0:01:08.81,Flashback Dialogue,Mio,0000,0000,0000,,Cuidaremos dessa aqui por um ano.
+Dialogue: 0,0:01:08.81,0:01:10.34,Flashback Dialogue,Yua,0000,0000,0000,,Um novo membro!
+Dialogue: 0,0:01:10.34,0:01:11.43,Flashback Dialogue,Aoi,0000,0000,0000,,Eu nunca concordei com isso!
+Dialogue: 0,0:01:11.43,0:01:13.34,Flashback Dialogue,Mio,0000,0000,0000,,Temos que te dar um apelido!
+Dialogue: 0,0:01:13.34,0:01:14.72,Flashback Dialogue,Hiina,0000,0000,0000,,Qual seu nome?
+Dialogue: 0,0:01:14.72,0:01:15.94,Flashback Dialogue,Aoi,0000,0000,0000,,Takahashi... Aoi.
+Dialogue: 0,0:01:15.94,0:01:19.58,Flashback Dialogue,Yua,0000,0000,0000,,Eu sei! O apelido dela vai ser "Aoi"!
+Dialogue: 0,0:01:19.58,0:01:21.71,Flashback Dialogue,Mio,0000,0000,0000,,"Aoi." É fácil de dizer.
+Dialogue: 0,0:01:21.71,0:01:23.23,Flashback Dialogue,Hiina,0000,0000,0000,,É perfeito.
+Dialogue: 0,0:01:23.23,0:01:26.06,Flashback Dialogue,Aoi,0000,0000,0000,,É igual meu nome normal!
+Dialogue: 0,0:01:26.06,0:01:28.77,Flashback Dialogue,Aoi,0000,0000,0000,,Eu não preciso de um apelido!
+Dialogue: 0,0:01:28.77,0:01:30.73,Flashback Dialogue,Aoi,0000,0000,0000,,Não quero participar desse clube.
+Dialogue: 0,0:01:30.73,0:01:32.57,Flashback Dialogue,Yua,0000,0000,0000,,Por que não?! Vamos te mimar no começo.
+Dialogue: 0,0:01:32.57,0:01:34.87,Flashback Dialogue,Aoi,0000,0000,0000,,Clubes são só para criar relações falsas!
+Dialogue: 0,0:01:34.87,0:01:37.00,Flashback Dialogue,Aoi,0000,0000,0000,,Odeio essa porcaria!
+Dialogue: 0,0:01:38.24,0:01:41.83,Flashback Dialogue,Mio,0000,0000,0000,,Então o que não é uma "porcaria"?
+Dialogue: 0,0:01:42.58,0:01:45.08,Flashback Dialogue,Mio,0000,0000,0000,,Estou te perguntando o oposto.
+Dialogue: 0,0:01:45.08,0:01:49.21,Flashback Dialogue,Mio,0000,0000,0000,,O que não é uma porcaria para você, Aoi?
+Dialogue: 0,0:01:49.21,0:01:51.30,Flashback Dialogue,Aoi,0000,0000,0000,,B-Bem...
+Dialogue: 0,0:01:51.30,0:01:53.77,Flashback Dialogue,Hiina,0000,0000,0000,,É fácil achar porcaria,
+Dialogue: 0,0:01:53.77,0:01:56.57,Flashback Dialogue,Hiina,0000,0000,0000,,mas é difícil achar coisas que \Nnão são porcaria, certo?
+Dialogue: 0,0:01:56.57,0:01:58.65,Flashback Dialogue,Yua,0000,0000,0000,,Então por que não procuramos juntas?
+Dialogue: 0,0:01:58.65,0:02:02.32,Flashback Dialogue,Yua,0000,0000,0000,,Podemos fazer um clube que não seja porcaria!
+Dialogue: 0,0:02:02.32,0:02:03.14,Flashback Dialogue,Aoi,0000,0000,0000,,Mas...
+Dialogue: 0,0:02:03.14,0:02:06.66,Flashback Dialogue,Mio,0000,0000,0000,,É fácil julgar coisas que você não gosta.
+Dialogue: 0,0:02:06.66,0:02:11.58,Flashback Dialogue,Mio,0000,0000,0000,,Mas não é importante encará-las \Nem vez de fugir?
+Dialogue: 0,0:02:11.58,0:02:12.40,Flashback Dialogue,Aoi,0000,0000,0000,,Fugir...
+Dialogue: 0,0:02:12.40,0:02:14.94,Flashback Dialogue,Yua,0000,0000,0000,,Essa é nossa Mio-senpai! Suas palavras têm peso!
+Dialogue: 0,0:02:14.94,0:02:17.13,Flashback Dialogue,Hiina,0000,0000,0000,,É porque ela já encarou a morte várias vezes.
+Dialogue: 0,0:02:17.13,0:02:21.21,Flashback Dialogue,Mio,0000,0000,0000,,Não fiz isso! Parem de me tratar \Ncomo se eu fosse uma delinquente!
+Dialogue: 0,0:02:23.29,0:02:25.15,Flashback Dialogue,Aoi,0000,0000,0000,,Só por um ano...
+Dialogue: 0,0:02:26.08,0:02:28.90,Flashback Dialogue,Aoi,0000,0000,0000,,Se eu achar que é uma porcaria \Ndepois de um ano, vou sair.
+Dialogue: 0,0:02:28.90,0:02:30.04,Flashback Dialogue,Aoi,0000,0000,0000,,Concordam com esses termos?
+Dialogue: 0,0:02:30.04,0:02:31.17,Flashback Dialogue,Yua,0000,0000,0000,,Aoi!
+Dialogue: 0,0:02:32.44,0:02:35.38,Flashback Dialogue,The Three,0000,0000,0000,,Bem-vinda ao Clube Buscando a Juventude!
+Dialogue: 0,0:02:35.83,0:02:38.93,Flashback Dialogue,Aoi,0000,0000,0000,,Só esse nome já é uma porcaria!
+Dialogue: 0,0:02:40.26,0:02:46.57,Flashback Dialogue,Aoi,0000,0000,0000,,Na época eu só pensava "entrei em um \Nclube estranho porque odeio perder",
+Dialogue: 0,0:02:46.57,0:02:51.06,Flashback Dialogue,Aoi,0000,0000,0000,,mas foi o começo da minha \Nvida escolar insubstituível.
+Dialogue: 0,0:02:53.77,0:02:56.72,Flashback Dialogue,Mio,0000,0000,0000,,Vocês encontraram alguma porcaria hoje?
+Dialogue: 0,0:02:56.72,0:02:59.72,Flashback Dialogue,Aoi,0000,0000,0000,,As meninas eram tão irritantes com \Nsuas conversas superficiais,
+Dialogue: 0,0:02:59.72,0:03:04.33,Flashback Dialogue,Aoi,0000,0000,0000,,tipo "ganhei peso" e "você está magra!"
+Dialogue: 0,0:03:04.33,0:03:06.33,Flashback Dialogue,Yua,0000,0000,0000,,Sim, parece conversa de menina.
+Dialogue: 0,0:03:06.33,0:03:08.56,Flashback Dialogue,Hiina,0000,0000,0000,,Elas dizem muitas coisas porque \Nquerem que a outra pessoa discorde
+Dialogue: 0,0:03:08.56,0:03:09.79,Flashback Dialogue,Hiina,0000,0000,0000,,para tirarem esse peso da consciência.
+Dialogue: 0,0:03:09.79,0:03:12.28,Flashback Dialogue,Aoi,0000,0000,0000,,E não é idiota quando alguém \Ndiz "é dia do bolinho,
+Dialogue: 0,0:03:12.28,0:03:16.30,Flashback Dialogue,Aoi,0000,0000,0000,,então vou começar minha dieta amanhã"?
+Dialogue: 0,0:03:16.30,0:03:18.13,Flashback Dialogue,Mio,0000,0000,0000,,Dia do bolinho?
+Dialogue: 0,0:03:18.13,0:03:20.47,Flashback Dialogue,Aoi,0000,0000,0000,,Elas chamam o dia 22 de "dia do bolinho" \Nporque no calendário
+Dialogue: 0,0:03:20.47,0:03:23.30,Flashback Dialogue,Aoi,0000,0000,0000,,o dia 15 está sempre acima dele.
+Dialogue: 0,0:03:23.87,0:03:27.31,Flashback Dialogue,Yua,0000,0000,0000,,Porque ichigo (15 ou morango) está acima? \NÉ uma origem elegante.
+Dialogue: 0,0:03:27.31,0:03:28.77,Flashback Dialogue,Aoi,0000,0000,0000,,É idiota!
+Dialogue: 0,0:03:28.77,0:03:31.15,Flashback Dialogue,Hiina,0000,0000,0000,,Mas niku (29 e carne) está abaixo dele.
+Dialogue: 0,0:03:31.15,0:03:32.24,Flashback Dialogue,Yua,0000,0000,0000,,Oh, sim!
+Dialogue: 0,0:03:32.24,0:03:33.94,Flashback Dialogue,Aoi,0000,0000,0000,,Bolinho e carne?!
+Dialogue: 0,0:03:33.94,0:03:41.36,Flashback Dialogue,Mio,0000,0000,0000,,Os dias 7, 8, 9, 14, 16, 21, 22 e 23 de todo mês
+Dialogue: 0,0:03:41.36,0:03:43.39,Flashback Dialogue,Mio,0000,0000,0000,,são dias do bolo de arroz, certo?
+Dialogue: 0,0:03:43.39,0:03:45.95,Flashback Dialogue,Yua,0000,0000,0000,,Porque tem um morango no meio!
+Dialogue: 0,0:03:45.95,0:03:46.96,Flashback Dialogue,Aoi,0000,0000,0000,,Mas não são muitos dias?
+Dialogue: 0,0:03:46.96,0:03:49.79,Flashback Dialogue,Aoi,0000,0000,0000,,É 25% do mês como dia do bolo de arroz!
+Dialogue: 0,0:03:53.53,0:03:56.37,Flashback Dialogue,Aoi,0000,0000,0000,,Hoje umas meninas da minha \Nsala estavam animadas
+Dialogue: 0,0:03:56.37,0:03:58.95,Flashback Dialogue,Aoi,0000,0000,0000,,para ir a um parque de diversão \Nsó pela montanha russa.
+Dialogue: 0,0:03:58.95,0:04:00.74,Flashback Dialogue,Aoi,0000,0000,0000,,É idiota ou não?
+Dialogue: 0,0:04:00.74,0:04:03.09,Flashback Dialogue,Yua,0000,0000,0000,,Muitas meninas gostam de montanha russa.
+Dialogue: 0,0:04:03.09,0:04:04.86,Flashback Dialogue,Aoi,0000,0000,0000,,Primeiro, parques de diversão \Nsão coisa de criança,
+Dialogue: 0,0:04:04.86,0:04:08.59,Flashback Dialogue,Aoi,0000,0000,0000,,então não sei porque alguém pagaria \Npara ir em uma montanha russa.
+Dialogue: 0,0:04:08.59,0:04:11.37,Flashback Dialogue,Hiina,0000,0000,0000,,Você tem medo de altura, Aoi?
+Dialogue: 0,0:04:11.37,0:04:14.97,Flashback Dialogue,Aoi,0000,0000,0000,,N-Não! Eu não chamaria de medo... Ah...
+Dialogue: 0,0:04:14.97,0:04:16.77,Flashback Dialogue,Aoi,0000,0000,0000,,Só fico um pouco desconfortável...
+Dialogue: 0,0:04:17.41,0:04:19.70,Flashback Dialogue,Mio,0000,0000,0000,,Não é nada para se ter vergonha.
+Dialogue: 0,0:04:19.70,0:04:24.24,Flashback Dialogue,Mio,0000,0000,0000,,Todo mundo tem medo de algumas coisas.
+Dialogue: 0,0:04:24.24,0:04:26.78,Flashback Dialogue,Yua,0000,0000,0000,,Você tem medo de algo, Mio-senpai?
+Dialogue: 0,0:04:26.78,0:04:30.23,Flashback Dialogue,Mio,0000,0000,0000,,Tenho medo de objetos pontiagudos.
+Dialogue: 0,0:04:30.23,0:04:32.51,Flashback Dialogue,Hiina,0000,0000,0000,,Belonofobia?
+Dialogue: 0,0:04:32.51,0:04:36.50,Flashback Dialogue,Mio,0000,0000,0000,,Sim. Fico tensa quando algo \Né apontado para mim.
+Dialogue: 0,0:04:36.50,0:04:38.29,Flashback Dialogue,Aoi,0000,0000,0000,,Sei como é!
+Dialogue: 0,0:04:38.29,0:04:41.53,Flashback Dialogue,Mio,0000,0000,0000,,Acabei de dizer que não suporto isso!
+Dialogue: 0,0:04:45.48,0:04:50.68,Flashback Dialogue,Mio,0000,0000,0000,,Certo, vamos tentar pensar em um "parque de \Ndiversão diferente" que não seja porcaria!
+Dialogue: 0,0:04:50.68,0:04:51.17,Flashback Dialogue,Yua,0000,0000,0000,,Certo!
+Dialogue: 0,0:04:51.17,0:04:53.28,Flashback Dialogue,Mio,0000,0000,0000,,Alguém, alguém, alguém.
+Dialogue: 0,0:04:53.28,0:04:55.28,Flashback Dialogue,Hiina,0000,0000,0000,,Ok, Senpai, eu vou.
+Dialogue: 0,0:04:55.28,0:04:57.77,Flashback Dialogue,Mio,0000,0000,0000,,O "parque de diversão diferente" da Hiina.
+Dialogue: 0,0:04:57.77,0:05:00.65,Flashback Dialogue,Hiina,0000,0000,0000,,Dá para notar a crise econômica do parque.
+Dialogue: 0,0:05:01.50,0:05:02.72,Flashback Dialogue,Mio,0000,0000,0000,,Por exemplo?
+Dialogue: 0,0:05:02.72,0:05:04.58,Flashback Dialogue,Hiina,0000,0000,0000,,A montanha russa não funciona e \Neles têm um cartaz que diz
+Dialogue: 0,0:05:03.53,0:05:09.24,Sorry Sign,Hiina,0000,0000,0000,,Desculpe! \N Não temos dinheiro \N para consertá-la!
+Dialogue: 0,0:05:04.58,0:05:08.77,Flashback Dialogue,Hiina,0000,0000,0000,,"Desculpe, não temos dinheiro para consertá-la!"
+Dialogue: 0,0:05:08.77,0:05:09.68,Flashback Dialogue,Yua,0000,0000,0000,,Diretos...
+Dialogue: 0,0:05:09.68,0:05:12.63,Flashback Dialogue,Hiina,0000,0000,0000,,E os mascotes são sujos.
+Dialogue: 0,0:05:14.03,0:05:15.86,Flashback Dialogue,Yua,0000,0000,0000,,Eles não consertam nem \Nos buracos das fantasias.
+Dialogue: 0,0:05:15.86,0:05:17.29,Flashback Dialogue,Hiina,0000,0000,0000,,Sim!
+Dialogue: 0,0:05:17.29,0:05:18.88,Flashback Dialogue,Mio,0000,0000,0000,,Tem um mascote assim.
+Dialogue: 0,0:05:18.88,0:05:20.05,Flashback Dialogue,Yua,0000,0000,0000,,Sim. "Nasshi!"
+Dialogue: 0,0:05:20.05,0:05:20.93,Flashback Dialogue,Aoi,0000,0000,0000,,Nasshi!
+Dialogue: 0,0:05:20.93,0:05:23.00,Flashback Dialogue,Mio,0000,0000,0000,,É diferente.
+Dialogue: 0,0:05:23.00,0:05:24.41,Flashback Dialogue,Mio,0000,0000,0000,,Pensei em um.
+Dialogue: 0,0:05:24.41,0:05:25.35,Flashback Dialogue,Hiina,0000,0000,0000,,Você vai, Senpai?
+Dialogue: 0,0:05:25.35,0:05:27.26,Flashback Dialogue,Mio,0000,0000,0000,,O "parque de diversão diferente" da Mio-senpai.
+Dialogue: 0,0:05:27.26,0:05:30.10,Flashback Dialogue,Mio,0000,0000,0000,,Um velho teimoso cuida de tudo sozinho.
+Dialogue: 0,0:05:30.64,0:05:31.76,Flashback Dialogue,Mio,0000,0000,0000,,Administração privada.
+Dialogue: 0,0:05:31.76,0:05:33.27,Flashback Dialogue,Hiina,0000,0000,0000,,Oh, operação empresarial, não médica.
+Dialogue: 0,0:05:33.27,0:05:33.90,Flashback Dialogue,Mio,0000,0000,0000,,Operação médica...
+Dialogue: 0,0:05:33.90,0:05:35.18,Flashback Dialogue,Hiina,0000,0000,0000,,Operação empresarial.
+Dialogue: 0,0:05:35.18,0:05:39.35,Flashback Dialogue,Hiina,0000,0000,0000,,Você sempre vê um velho teimoso \Nfazendo tudo em ramen shops,
+Dialogue: 0,0:05:39.35,0:05:40.83,Flashback Dialogue,Hiina,0000,0000,0000,,do preparo até servir.
+Dialogue: 0,0:05:40.83,0:05:41.71,Flashback Dialogue,Mio,0000,0000,0000,,Sim, sim.
+Dialogue: 0,0:05:41.71,0:05:42.82,Flashback Dialogue,Mio,0000,0000,0000,,É sempre um velho.
+Dialogue: 0,0:05:42.82,0:05:45.79,Flashback Dialogue,Mio,0000,0000,0000,,E ele é chato com o jeito que \Nas pessoas vão nas atrações.
+Dialogue: 0,0:05:46.19,0:05:47.57,Flashback Dialogue,Mio,0000,0000,0000,,Sem conversa.
+Dialogue: 0,0:05:48.47,0:05:49.12,Flashback Dialogue,Yua,0000,0000,0000,,Que saco.
+Dialogue: 0,0:05:49.12,0:05:49.94,Flashback Dialogue,Mio,0000,0000,0000,,Sim.
+Dialogue: 0,0:05:49.94,0:05:50.68,Flashback Dialogue,Yua,0000,0000,0000,,É terrível.
+Dialogue: 0,0:05:50.68,0:05:51.77,Flashback Dialogue,Mio,0000,0000,0000,,Ok, vamos continuar.
+Dialogue: 0,0:05:51.77,0:05:52.40,Flashback Dialogue,Yua,0000,0000,0000,,Eu tenho um!
+Dialogue: 0,0:05:52.40,0:05:55.33,Flashback Dialogue,Mio,0000,0000,0000,,Certo, o "parque de diversão diferente" da Yua.
+Dialogue: 0,0:05:55.33,0:05:58.13,Flashback Dialogue,Yua,0000,0000,0000,,Os mascotes abusam sexualmente dos clientes.
+Dialogue: 0,0:05:58.75,0:06:00.51,Flashback Dialogue,Yua,0000,0000,0000,,Quer dizer, "mascotes".
+Dialogue: 0,0:06:00.51,0:06:04.70,Flashback Dialogue,Yua,0000,0000,0000,,Mas não sabemos o que as pessoas \Ndentro deles estão pensando.
+Dialogue: 0,0:06:04.70,0:06:10.29,Flashback Dialogue,Yua,0000,0000,0000,,Então se uma menina bonita for \Naté ele, ele a abraça também.
+Dialogue: 0,0:06:10.29,0:06:11.11,Flashback Dialogue,Hiina,0000,0000,0000,,Ficaria excitado.
+Dialogue: 0,0:06:11.11,0:06:12.80,Flashback Dialogue,Yua,0000,0000,0000,,Sim, ele fica excitado.
+Dialogue: 0,0:06:15.52,0:06:16.42,Flashback Dialogue,Mio,0000,0000,0000,,Então ele é como você.
+Dialogue: 0,0:06:16.42,0:06:19.02,Flashback Dialogue,Yua,0000,0000,0000,,Bem, sim. Eu o tocaria assim.
+Dialogue: 0,0:06:19.02,0:06:19.92,Flashback Dialogue,Mio,0000,0000,0000,,Ok, vamos fazer outro.
+Dialogue: 0,0:06:19.92,0:06:20.86,Flashback Dialogue,Aoi,0000,0000,0000,,Eu.
+Dialogue: 0,0:06:20.86,0:06:22.90,Flashback Dialogue,Mio,0000,0000,0000,,O "parque de diversão diferente" da Aoi.
+Dialogue: 0,0:06:22.90,0:06:26.28,Flashback Dialogue,Aoi,0000,0000,0000,,Onde quer que você vá \Ntem montes de percevejos.
+Dialogue: 0,0:06:27.79,0:06:29.69,Flashback Dialogue,Mio,0000,0000,0000,,Eles fedem!
+Dialogue: 0,0:06:29.69,0:06:31.90,Flashback Dialogue,Aoi,0000,0000,0000,,Estão onde você senta, então...
+Dialogue: 0,0:06:31.90,0:06:36.29,Flashback Dialogue,Mio,0000,0000,0000,,Dizem que os próprios percevejos \Nficam atordoados com seu cheiro.
+Dialogue: 0,0:06:36.29,0:06:37.25,Flashback Dialogue,Hiina,0000,0000,0000,,Sério?
+Dialogue: 0,0:06:37.25,0:06:37.71,Flashback Dialogue,Mio,0000,0000,0000,,Sim!
+Dialogue: 0,0:06:37.71,0:06:38.99,Flashback Dialogue,Hiina,0000,0000,0000,,Cedem ao próprio odor...
+Dialogue: 0,0:06:38.99,0:06:40.69,Flashback Dialogue,Aoi,0000,0000,0000,,Fedem mesmo.
+Dialogue: 0,0:06:40.69,0:06:44.13,Flashback Dialogue,Mio,0000,0000,0000,,Aoi, mostre sua reação quando \Nsente o cheiro deles.
+Dialogue: 0,0:06:45.08,0:06:47.23,Flashback Dialogue,Aoi,0000,0000,0000,,Acabei de entrar no clube...
+Dialogue: 0,0:06:47.23,0:06:48.80,Flashback Dialogue,Mio,0000,0000,0000,,No três.
+Dialogue: 0,0:06:48.80,0:06:51.26,Flashback Dialogue,Mio,0000,0000,0000,,1-2-3!
+Dialogue: 0,0:06:54.02,0:06:55.27,Flashback Dialogue,Hiina,0000,0000,0000,,Tivemos um grande.
+Dialogue: 0,0:06:56.77,0:06:58.19,Flashback Dialogue,Mio,0000,0000,0000,,Você escapou.
+Dialogue: 0,0:06:59.18,0:07:00.14,Flashback Dialogue,Mio,0000,0000,0000,,É sua lição de casa.
+Dialogue: 0,0:07:01.21,0:07:02.78,Flashback Dialogue,Yua,0000,0000,0000,,Percevejos...
+Dialogue: 0,0:07:03.13,0:07:06.69,Tesagure Club Sign,Sign,0000,0000,0000,,Clube Buscando a Juventude
+Dialogue: 0,0:07:07.46,0:07:10.70,Flashback Dialogue,Mio,0000,0000,0000,,É isso. A cerimônia da transferência \Nde cargos acabou.
+Dialogue: 0,0:07:11.76,0:07:14.82,Flashback Dialogue,Mio,0000,0000,0000,,Vocês duas, tomem conta desse clube.
+Dialogue: 0,0:07:14.82,0:07:15.56,Flashback Dialogue,Yua/Hiina,0000,0000,0000,,Tomaremos.
+Dialogue: 0,0:07:16.70,0:07:21.12,Flashback Dialogue,Mio,0000,0000,0000,,Oh, sim. Aoi. Foi uma porcaria?
+Dialogue: 0,0:07:22.54,0:07:24.72,Flashback Dialogue,Aoi,0000,0000,0000,,Isso nem importa mais.
+Dialogue: 0,0:07:24.72,0:07:29.13,Flashback Dialogue,Aoi,0000,0000,0000,,Ficar preocupada se algo é porcaria \Nou não parece idiota agora.
+Dialogue: 0,0:07:31.80,0:07:36.02,Flashback Dialogue,Mio,0000,0000,0000,,Aoi, você também amadureceu \Ncom os erros esse ano.
+Dialogue: 0,0:07:36.68,0:07:39.64,Flashback Dialogue,Mio,0000,0000,0000,,Agora posso me formar sem receios.
+Dialogue: 0,0:07:40.02,0:07:41.48,Flashback Dialogue,Aoi,0000,0000,0000,,Cresci?
+Dialogue: 0,0:07:41.48,0:07:47.10,Flashback Dialogue,Mio,0000,0000,0000,,Antes você decidia que as coisas \Ndeveriam ser de um certo jeito,
+Dialogue: 0,0:07:47.10,0:07:50.99,Flashback Dialogue,Mio,0000,0000,0000,,mas acabava se aprisionando.
+Dialogue: 0,0:07:53.41,0:08:01.40,Day Sign 1,Sign,0000,0000,0000,,{\fad(1,500)}Dia do Bolinho!\N\N\N{\c&H00C5EF&}Bolinho de Arroz
+Dialogue: 0,0:07:53.66,0:07:58.56,Flashback Dialogue,Mio,0000,0000,0000,,Na língua das flores, cosmos significa \N"coração verdadeiro de uma donzela",
+Dialogue: 0,0:07:58.56,0:08:01.96,Flashback Dialogue,Mio,0000,0000,0000,,mas também "harmonia estética",
+Dialogue: 0,0:08:01.40,0:08:11.01,Day Sign 2,Sign,0000,0000,0000,,{\fad(500,1)}Dia da Carne
+Dialogue: 0,0:08:01.96,0:08:06.70,Flashback Dialogue,Mio,0000,0000,0000,,enquanto hortênsias significam \N"caprichosa" e "bonita, mas fria",
+Dialogue: 0,0:08:06.70,0:08:10.71,Flashback Dialogue,Mio,0000,0000,0000,,expressões totalmente diferentes \Nda língua das flores.
+Dialogue: 0,0:08:11.42,0:08:16.23,Flashback Dialogue,Mio,0000,0000,0000,,Não há nada no mundo que \Nprecisa ser de certa forma.
+Dialogue: 0,0:08:17.32,0:08:19.45,Flashback Dialogue,Mio,0000,0000,0000,,De agora em diante, não se force a nada,
+Dialogue: 0,0:08:19.45,0:08:22.50,Flashback Dialogue,Mio,0000,0000,0000,,faça tudo com a liberdade \Nque combina com você.
+Dialogue: 0,0:08:23.19,0:08:28.68,Flashback Dialogue,Mio,0000,0000,0000,,Quando você se aceita, \No outro lado te aceita, Aoi.
+Dialogue: 0,0:08:36.59,0:08:40.37,Flashback Dialogue,Aoi,0000,0000,0000,,Esse foi o primeiro lugar que \Nme aceitou. É onde eu pertenço...
+Dialogue: 0,0:08:41.29,0:08:45.77,Flashback Dialogue,Aoi,0000,0000,0000,,Mio-senpai... Por favor, não se forme!
+Dialogue: 0,0:08:46.93,0:08:51.40,Flashback Dialogue,Aoi,0000,0000,0000,,Cuide de mim... \NCuide só mais um pouco!
+Dialogue: 0,0:09:14.51,0:09:18.88,Flashback Dialogue,Mio,0000,0000,0000,,Vai ficar tudo bem. Você não \Nestá mais sozinha, Aoi.
+Dialogue: 0,0:09:24.85,0:09:29.70,Flashback Dialogue,Mio,0000,0000,0000,,Na próxima vez é você que \Nvai dar lugar para alguém.
+Dialogue: 0,0:09:29.70,0:09:32.51,Flashback Dialogue,Mio,0000,0000,0000,,Com a liberdade que combina com você.
+Dialogue: 0,0:09:34.44,0:09:35.19,Flashback Dialogue,Aoi,0000,0000,0000,,Irei.
+Dialogue: 0,0:09:40.63,0:09:43.18,Main Dialogue,Koharu,0000,0000,0000,,Ei, Aoi-senpai! Acorde!
+Dialogue: 0,0:09:45.56,0:09:49.20,Main Dialogue,Koharu,0000,0000,0000,,Você é a líder do clube, \Nentão se recomponha!
+Dialogue: 0,0:09:45.56,0:09:51.77,Recruit Sign,Sign,0000,0000,0000,,Recrutando Novos Alunos
+Dialogue: 0,0:09:49.20,0:09:51.77,Main Dialogue,Aoi,0000,0000,0000,,É mesmo. Outros 12 meses estão começando.
+Dialogue: 0,0:09:51.77,0:09:55.19,Main Dialogue,Koharu,0000,0000,0000,,Que padrão seguiremos esse ano?
+Dialogue: 0,0:09:55.19,0:09:57.82,Main Dialogue,Koharu,0000,0000,0000,,Podemos deixar o tempo \Npassar normalmente?
+Dialogue: 0,0:09:57.82,0:09:59.62,Main Dialogue,Aoi,0000,0000,0000,,Deixe-me pensar...
+Dialogue: 0,0:09:59.62,0:10:01.53,Recruit Sign 1,Sign,0000,0000,0000,,Novos Alunos \NBem-vindos!
+Dialogue: 0,0:09:59.62,0:10:01.53,Recruit Sign,Sign,0000,0000,0000,,Recrutando Novos Alunos
+Dialogue: 0,0:09:59.62,0:10:01.53,Recruit Sign 3,Sign,0000,0000,0000,,Calouros \NBem-vindos
+Dialogue: 0,0:10:01.53,0:10:03.57,Main Dialogue,Aoi,0000,0000,0000,,Que tal tentarmos o "tempo real",
+Dialogue: 0,0:10:03.57,0:10:06.42,Main Dialogue,Aoi,0000,0000,0000,,e se não funcionar nós anulamos tudo \Ne começamos a semana de novo?
+Dialogue: 0,0:10:06.42,0:10:10.32,Main Dialogue,Koharu,0000,0000,0000,,Oh, Aoi-senpai! \NIsso já é liberdade demais!
+Dialogue: 0,0:11:02.45,0:11:04.47,Main Dialogue,All,0000,0000,0000,,Obrigada!

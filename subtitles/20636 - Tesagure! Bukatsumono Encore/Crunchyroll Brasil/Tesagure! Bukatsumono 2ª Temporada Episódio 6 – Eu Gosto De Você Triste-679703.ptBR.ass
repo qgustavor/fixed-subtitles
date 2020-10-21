@@ -1,0 +1,258 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H009D5950,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0048,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.62,0:00:10.46,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Revisão #6\N{\fs22}Eu Gosto De Você Triste
+Dialogue: 0,0:00:06.14,0:00:07.50,Main Dialogue Top,Yua,0000,0000,0000,,Quero muito aquilo.
+Dialogue: 0,0:00:07.50,0:00:10.65,Main Dialogue Top,Hiina,0000,0000,0000,,Sim. Eu também.
+Dialogue: 0,0:00:10.65,0:00:12.50,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai e Hiina-senpai.
+Dialogue: 0,0:00:12.50,0:00:14.20,Main Dialogue,Yua,0000,0000,0000,,Hã? O que foi, Koharun?
+Dialogue: 0,0:00:14.20,0:00:18.52,Main Dialogue,Koharu,0000,0000,0000,,Fui na sala da Aoi-senpai devolver \Num DVD que emprestei dela,
+Dialogue: 0,0:00:18.52,0:00:19.73,Main Dialogue,Koharu,0000,0000,0000,,mas ela não estava lá.
+Dialogue: 0,0:00:19.73,0:00:22.62,Main Dialogue,Koharu,0000,0000,0000,,Então pensei em ver no telhado.
+Dialogue: 0,0:00:22.62,0:00:23.47,Main Dialogue,Yua,0000,0000,0000,,No telhado?
+Dialogue: 0,0:00:23.47,0:00:25.82,Main Dialogue,Koharu,0000,0000,0000,,Acontece muito em anime, certo?
+Dialogue: 0,0:00:25.82,0:00:28.46,Main Dialogue,Koharu,0000,0000,0000,,A pessoa que está sendo procurada
+Dialogue: 0,0:00:28.46,0:00:29.97,Main Dialogue,Koharu,0000,0000,0000,,está dormindo no telhado ou algo assim.
+Dialogue: 0,0:00:29.97,0:00:31.85,Main Dialogue,Koharu,0000,0000,0000,,"Oh, aí está você."
+Dialogue: 0,0:00:31.85,0:00:32.59,Main Dialogue,Koharu,0000,0000,0000,,Esse tipo de cena.
+Dialogue: 0,0:00:32.59,0:00:35.70,Main Dialogue,Hiina,0000,0000,0000,,Telhados de escola sempre são\N destrancados em anime,
+Dialogue: 0,0:00:35.70,0:00:38.85,Main Dialogue,Hiina,0000,0000,0000,,então os alunos podem usar e \Né um lugar muito conveniente
+Dialogue: 0,0:00:38.85,0:00:42.10,Main Dialogue,Hiina,0000,0000,0000,,para o personagem principal \Nporque quase ninguém vai lá.
+Dialogue: 0,0:00:42.10,0:00:43.46,Main Dialogue,Koharu,0000,0000,0000,,É verdade!
+Dialogue: 0,0:00:44.13,0:00:47.48,Main Dialogue,Yua,0000,0000,0000,,Mas acho que ela não está no telhado.
+Dialogue: 0,0:00:47.48,0:00:51.42,Main Dialogue,Koharu,0000,0000,0000,,Na nossa escola os alunos são \Nproibidos de ir no telhado?
+Dialogue: 0,0:00:51.42,0:00:56.26,Main Dialogue,Yua,0000,0000,0000,,Não, você pode ir se quiser, mas ninguém vai.
+Dialogue: 0,0:00:57.31,0:01:00.72,Main Dialogue,Yua,0000,0000,0000,,Não é muito confortável.
+Dialogue: 0,0:01:01.76,0:01:03.12,Main Dialogue,Koharu,0000,0000,0000,,Painéis solares!
+Dialogue: 0,0:01:59.68,0:02:01.53,Main Dialogue,Aoi,0000,0000,0000,,Com qual clube devíamos começar?
+Dialogue: 0,0:02:01.53,0:02:03.60,Main Dialogue,Hiina,0000,0000,0000,,Que tal o clube de rádio?
+Dialogue: 0,0:02:03.60,0:02:05.85,Main Dialogue,Yua,0000,0000,0000,,O clube de rádio! Que imagem vocês têm dele?
+Dialogue: 0,0:02:05.85,0:02:07.35,Main Dialogue,Aoi,0000,0000,0000,,Normais e insignificantes!
+Dialogue: 0,0:02:07.76,0:02:09.77,Main Dialogue,Koharu,0000,0000,0000,,Mesmo sendo insignificantes, são normais?
+Dialogue: 0,0:02:09.77,0:02:14.03,Main Dialogue,Yua,0000,0000,0000,,Verdade, falta a formalidade que \No clube do jornal tem!
+Dialogue: 0,0:02:14.03,0:02:16.52,Main Dialogue,Hiina,0000,0000,0000,,Quando há um evento grande, \Nassim como o clube do jornal,
+Dialogue: 0,0:02:16.52,0:02:19.63,Main Dialogue,Hiina,0000,0000,0000,,se eles dizem as palavras mágicas \N"tenho trabalho para a rádio",
+Dialogue: 0,0:02:19.63,0:02:22.99,Main Dialogue,Hiina,0000,0000,0000,,eles são dispensados dos trabalhos \Nem grupo e fazem sozinhos.
+Dialogue: 0,0:02:22.99,0:02:25.16,Main Dialogue,Koharu,0000,0000,0000,,Por outro lado, ouvi dizer que eles sentem que
+Dialogue: 0,0:02:25.16,0:02:26.86,Main Dialogue,Koharu,0000,0000,0000,,perderam lugar na sala por causa disso.
+Dialogue: 0,0:02:26.86,0:02:29.85,Main Dialogue,Aoi,0000,0000,0000,,Mas eles transmitem música durante \No almoço todos os dias,
+Dialogue: 0,0:02:29.85,0:02:32.33,Main Dialogue,Aoi,0000,0000,0000,,tentando ser interessantes de\N um jeito bem normal!
+Dialogue: 0,0:02:32.33,0:02:35.58,Main Dialogue,Yua,0000,0000,0000,,Quando não fazem nenhum pedido especial, \Neles tocam as músicas que querem,
+Dialogue: 0,0:02:35.58,0:02:37.04,Main Dialogue,Yua,0000,0000,0000,,e parecem ficar mais animados!
+Dialogue: 0,0:02:37.04,0:02:39.41,Main Dialogue,Hiina,0000,0000,0000,,Tem alguém que só toca músicas \Nocidentais e atuais,
+Dialogue: 0,0:02:39.41,0:02:41.76,Main Dialogue,Hiina,0000,0000,0000,,e alguém que toca vocaloid...
+Dialogue: 0,0:02:41.76,0:02:43.94,Main Dialogue,Aoi,0000,0000,0000,,No festival atlético, eles tocam músicas de anime
+Dialogue: 0,0:02:43.94,0:02:47.60,Main Dialogue,Aoi,0000,0000,0000,,e se sentem superiores! Não é nojento?!
+Dialogue: 0,0:02:47.60,0:02:50.66,Main Dialogue,Hiina,0000,0000,0000,,{\i1}Tesagure! Coleção musical de Bukatsumono{\i0}, \N{\i1}Tesagure! Músicas,{\i0}
+Dialogue: 0,0:02:50.66,0:02:52.22,Main Dialogue,Hiina,0000,0000,0000,,é um sucesso na promoção!
+Dialogue: 0,0:02:52.47,0:02:53.49,Main Dialogue,Koharu,0000,0000,0000,,H-Hiina-senpai!
+Dialogue: 0,0:02:53.49,0:02:55.94,Main Dialogue,Koharu,0000,0000,0000,,Era para isso estar na lousa!
+Dialogue: 0,0:02:55.94,0:02:59.02,Main Dialogue,Aoi,0000,0000,0000,,E quando são chamados para ler na aula,
+Dialogue: 0,0:02:59.02,0:03:02.69,Main Dialogue,Aoi,0000,0000,0000,,eles dizem "seria estranho \Nse eu lesse como um anúncio"
+Dialogue: 0,0:03:02.69,0:03:04.58,Main Dialogue,Aoi,0000,0000,0000,,como se alguém ligasse, então leem \Nerrado de propósito!
+Dialogue: 0,0:03:04.58,0:03:06.66,Main Dialogue,Yua,0000,0000,0000,,Existe uma competição nacional chamada
+Dialogue: 0,0:03:06.66,0:03:08.14,Main Dialogue,Yua,0000,0000,0000,,"Campeonato Japonês de Rádio Escolar", né?
+Dialogue: 0,0:03:08.14,0:03:09.66,Main Dialogue,Koharu,0000,0000,0000,,É a primeira vez que ouço falar!
+Dialogue: 0,0:03:09.66,0:03:11.95,Main Dialogue,Hiina,0000,0000,0000,,A competição tem seis categorias, \Nincluindo "anúncio"
+Dialogue: 0,0:03:11.95,0:03:15.01,Main Dialogue,Hiina,0000,0000,0000,,e "recitação", mas também \N"programa de rádio original",
+Dialogue: 0,0:03:15.01,0:03:17.58,Main Dialogue,Hiina,0000,0000,0000,,e os jurados procuram por um \N"clima escolar" em todas as categorias.
+Dialogue: 0,0:03:17.58,0:03:21.03,Main Dialogue,Hiina,0000,0000,0000,,Mas dizem que, quando se trata de criar \Nalgo original para a competição,
+Dialogue: 0,0:03:21.03,0:03:23.61,Main Dialogue,Hiina,0000,0000,0000,,o clube de rádio se pergunta...
+Dialogue: 0,0:03:23.61,0:03:27.37,Main Dialogue,Hiina,0000,0000,0000,,"O que é clima escolar?"
+Dialogue: 0,0:03:27.37,0:03:28.43,Main Dialogue,Yua,0000,0000,0000,,Sério?
+Dialogue: 0,0:03:28.43,0:03:32.90,Main Dialogue,Hiina,0000,0000,0000,,Que nome você daria para um programa \Nde rádio com clima escolar, Yua?
+Dialogue: 0,0:03:32.90,0:03:33.88,Main Dialogue,Yua,0000,0000,0000,,Boa pergunta.
+Dialogue: 0,0:03:33.88,0:03:34.26,Main Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:03:34.26,0:03:38.22,Main Dialogue,Yua,0000,0000,0000,,Bem, ah, clima escolar...
+Dialogue: 0,0:03:38.22,0:03:42.40,Main Dialogue,Yua,0000,0000,0000,,"Improvisação Suada e Paródia"!
+Dialogue: 0,0:03:43.25,0:03:44.22,Main Dialogue,Aoi,0000,0000,0000,,Isso tem um clima escolar?
+Dialogue: 0,0:03:44.22,0:03:45.64,Main Dialogue,Yua,0000,0000,0000,,Não sei!
+Dialogue: 0,0:03:45.64,0:03:47.19,Main Dialogue,Hiina,0000,0000,0000,,O que seria?
+Dialogue: 0,0:03:47.19,0:03:48.88,Main Dialogue,Yua,0000,0000,0000,,Seria uma coisa adolescente.
+Dialogue: 0,0:03:48.88,0:03:51.41,Main Dialogue,Aoi,0000,0000,0000,,Sim. "Suado" dá certo.
+Dialogue: 0,0:03:49.22,0:03:51.19,Main Dialogue Top,Koharu,0000,0000,0000,,Parece que cheiraria suor...
+Dialogue: 0,0:03:51.41,0:03:53.04,Main Dialogue,Yua,0000,0000,0000,,Tem um clima escolar, certo?
+Dialogue: 0,0:03:53.04,0:03:54.56,Main Dialogue,Hiina,0000,0000,0000,,Você está completamente equivocada.
+Dialogue: 0,0:03:55.39,0:03:56.42,Main Dialogue,Yua,0000,0000,0000,,Então é assim.
+Dialogue: 0,0:03:56.42,0:03:57.12,Main Dialogue,Aoi,0000,0000,0000,,B-Bem...
+Dialogue: 0,0:03:57.12,0:03:57.52,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:03:57.52,0:03:58.89,Main Dialogue,Aoi,0000,0000,0000,,Estou muito confiante com um.
+Dialogue: 0,0:03:58.89,0:04:00.01,Main Dialogue,Yua,0000,0000,0000,,Sério?
+Dialogue: 0,0:04:00.51,0:04:04.39,Main Dialogue,Aoi,0000,0000,0000,,"Primavera Azul da Aoi, Ah! Oi!"
+Dialogue: 0,0:04:05.73,0:04:07.62,Main Dialogue,Koharu,0000,0000,0000,,Então só você poderia fazer, Aoi-senpai?
+Dialogue: 0,0:04:07.62,0:04:08.68,Main Dialogue,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:04:08.68,0:04:12.27,Main Dialogue,Hiina,0000,0000,0000,,Para um programa com clima escolar, \Nvocê está adiantada.
+Dialogue: 0,0:04:12.27,0:04:14.92,Main Dialogue,Yua,0000,0000,0000,,Parece que você estaria ignorando todo mundo.
+Dialogue: 0,0:04:14.92,0:04:16.55,Main Dialogue,Yua,0000,0000,0000,,Tão egoísta...
+Dialogue: 0,0:04:17.90,0:04:19.32,Main Dialogue,Yua,0000,0000,0000,,Mais alguém tem uma ideia?
+Dialogue: 0,0:04:19.32,0:04:21.43,Main Dialogue,Yua,0000,0000,0000,,Sim, acho que devíamos ouvir a Koharun.
+Dialogue: 0,0:04:21.43,0:04:24.30,Main Dialogue,Hiina,0000,0000,0000,,Sim, é a cara dela.
+Dialogue: 0,0:04:24.92,0:04:25.99,Main Dialogue,Aoi,0000,0000,0000,,A juventude.
+Dialogue: 0,0:04:25.99,0:04:28.91,Main Dialogue,Yua,0000,0000,0000,,O programa de rádio com \Nclima escolar da Koharun!
+Dialogue: 0,0:04:28.91,0:04:30.93,Main Dialogue,Koharu,0000,0000,0000,,Alunos do ensino médio...
+Dialogue: 0,0:04:30.93,0:04:35.08,Main Dialogue,Koharu,0000,0000,0000,,"B-Bonitos Para Todo Lado! \NEba, Estou Tão Feliz!"
+Dialogue: 0,0:04:37.80,0:04:39.43,Main Dialogue,Hiina,0000,0000,0000,,Seria eliminado na primeira etapa.
+Dialogue: 0,0:04:39.43,0:04:42.52,Main Dialogue,Koharu,0000,0000,0000,,Mas parece estar bem no meio da adolescência...
+Dialogue: 0,0:04:42.52,0:04:44.01,Main Dialogue,Yua,0000,0000,0000,,É uma adolescência suja.
+Dialogue: 0,0:04:44.01,0:04:46.98,Main Dialogue,Koharu,0000,0000,0000,,Não, é lindo. Uma história de amor verdadeiro.
+Dialogue: 0,0:04:46.98,0:04:47.76,Main Dialogue,Aoi,0000,0000,0000,,Amor verdadeiro...
+Dialogue: 0,0:04:47.76,0:04:50.53,Main Dialogue,Yua,0000,0000,0000,,Você disse "Bonitos Para Todo Lado!", \Ncomo isso é amor verdadeiro?
+Dialogue: 0,0:04:50.53,0:04:53.27,Main Dialogue,Hiina,0000,0000,0000,,Isso é mais "se apaixonar" do que "juventude".
+Dialogue: 0,0:04:54.75,0:04:55.44,Main Dialogue,Aoi,0000,0000,0000,,Verdade.
+Dialogue: 0,0:04:55.44,0:04:56.62,Main Dialogue,Yua,0000,0000,0000,,Caída no pecado...
+Dialogue: 0,0:04:55.86,0:04:56.62,Main Dialogue Top,Aoi,0000,0000,0000,,Caída na vida.
+Dialogue: 0,0:04:56.62,0:04:58.42,Main Dialogue,Aoi,0000,0000,0000,,E a Hiina-senpai?
+Dialogue: 0,0:04:57.48,0:04:58.58,Main Dialogue Top,Yua,0000,0000,0000,,Hiina?
+Dialogue: 0,0:04:58.42,0:05:00.57,Main Dialogue,Hiina,0000,0000,0000,,Só consigo pensar em nomes normais.
+Dialogue: 0,0:05:00.57,0:05:03.03,Main Dialogue,Hiina,0000,0000,0000,,Tipo, ah, "Se Você Cantar Para o Céu Azul"...
+Dialogue: 0,0:05:03.03,0:05:05.32,Main Dialogue,Hiina,0000,0000,0000,,Qualquer coisa fica boa se você \Ncolocar um "azul" no meio, né?
+Dialogue: 0,0:05:05.87,0:05:08.54,Main Dialogue,Koharu,0000,0000,0000,,Ela disse a coisa mais terrível.
+Dialogue: 0,0:05:09.41,0:05:11.06,Main Dialogue,Koharu,0000,0000,0000,,Senti algo sombrio.
+Dialogue: 0,0:05:11.06,0:05:12.31,Main Dialogue,Hiina,0000,0000,0000,,Talvez esteja certa.
+Dialogue: 0,0:05:12.31,0:05:13.80,Main Dialogue,Aoi,0000,0000,0000,,A "noite sombria da vida".
+Dialogue: 0,0:05:13.80,0:05:14.96,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:05:14.96,0:05:18.60,Main Dialogue,Koharu,0000,0000,0000,,Já que somos do ensino médio, \Ntalvez seja difícil saber
+Dialogue: 0,0:05:18.60,0:05:20.79,Main Dialogue,Koharu,0000,0000,0000,,o que tem um clima escolar.
+Dialogue: 0,0:05:20.79,0:05:22.06,Main Dialogue,Hiina,0000,0000,0000,,C-Certo...
+Dialogue: 0,0:05:23.26,0:05:27.12,Main Dialogue,Yua,0000,0000,0000,,Dizem que eles ficam irritados \Nquando alguém testa o microfone
+Dialogue: 0,0:05:27.12,0:05:29.41,Main Dialogue,Yua,0000,0000,0000,,batendo os dedos nele!
+Dialogue: 0,0:05:29.41,0:05:30.85,Main Dialogue,Koharu,0000,0000,0000,,Sério?
+Dialogue: 0,0:05:30.85,0:05:32.90,Main Dialogue,Yua,0000,0000,0000,,E os arqui-rivais são a orquestra escolar!
+Dialogue: 0,0:05:32.90,0:05:36.96,Main Dialogue,Hiina,0000,0000,0000,,Dizem que se a orquestra está ensaiando,\N quando eles estão filmando ou gravando
+Dialogue: 0,0:05:36.96,0:05:38.69,Main Dialogue,Hiina,0000,0000,0000,,na escola, eles ficam furiosos.
+Dialogue: 0,0:05:38.69,0:05:41.16,Main Dialogue,Koharu,0000,0000,0000,,Porque as gravações pegam \No som do ensaio, né?
+Dialogue: 0,0:05:41.16,0:05:42.90,Main Dialogue,Yua,0000,0000,0000,,E em mangá e anime?
+Dialogue: 0,0:05:42.90,0:05:44.19,Main Dialogue,Aoi,0000,0000,0000,,Tem algo?
+Dialogue: 0,0:05:44.19,0:05:46.76,Main Dialogue,Yua,0000,0000,0000,,Vamos tentar imaginar mangá e anime
+Dialogue: 0,0:05:46.76,0:05:49.41,Main Dialogue,Yua,0000,0000,0000,,com o clube do rádio!
+Dialogue: 0,0:05:49.41,0:05:52.45,Main Dialogue,Hiina,0000,0000,0000,,E se eles querem transmitir a alta tensão \Nou presença de rádio ao vivo,
+Dialogue: 0,0:05:52.45,0:05:54.93,Main Dialogue,Hiina,0000,0000,0000,,então usam descrições psicológicas realísticas
+Dialogue: 0,0:05:54.93,0:05:56.82,Main Dialogue,Hiina,0000,0000,0000,,e apresentações em movimento?
+Dialogue: 0,0:05:56.82,0:05:59.42,Main Dialogue,Koharu,0000,0000,0000,,Parece mangá de suspense ou jogos de azar!
+Dialogue: 0,0:05:59.42,0:06:02.71,Main Dialogue,Koharu,0000,0000,0000,,Seria um clube de rádio em uma escola comum.
+Dialogue: 0,0:06:02.71,0:06:04.34,Main Dialogue,Yua,0000,0000,0000,,O presidente da rádio é esperto e bonito!
+Dialogue: 0,0:06:04.34,0:06:07.82,Main Dialogue,Yua,0000,0000,0000,,Normalmente ele fala bem, \Nmas na frente de um microfone
+Dialogue: 0,0:06:07.82,0:06:09.84,Main Dialogue,Yua,0000,0000,0000,,ele fica tão nervoso que erra as palavras!
+Dialogue: 0,0:06:09.84,0:06:13.17,Main Dialogue,Hiina,0000,0000,0000,,Como presidente aqui, \Nnão devo errar as palavras.
+Dialogue: 0,0:06:13.17,0:06:14.90,Main Dialogue,Hiina,0000,0000,0000,,Não espere um milagre!
+Dialogue: 0,0:06:14.90,0:06:18.53,Main Dialogue,Hiina,0000,0000,0000,,"Falar bem." Não é algo que se pede a Deus...
+Dialogue: 0,0:06:18.53,0:06:21.19,Main Dialogue,Hiina,0000,0000,0000,,É a realidade além da chance de sucesso!
+Dialogue: 0,0:06:21.19,0:06:23.86,Main Dialogue,Hiina,0000,0000,0000,,Não falharei com as minhas palavras!
+Dialogue: 0,0:06:23.86,0:06:25.40,Main Dialogue,Yua,0000,0000,0000,,Mas quando a transmissão começa...
+Dialogue: 0,0:06:25.40,0:06:29.36,Main Dialogue,Hiina,0000,0000,0000,,Certo, hoje é um nobo... \Nnovo doia... novo dia!
+Dialogue: 0,0:06:29.96,0:06:32.41,Main Dialogue,Koharu,0000,0000,0000,,Isso é um mangá de comédia!
+Dialogue: 0,0:06:32.41,0:06:33.24,Main Dialogue,Yua,0000,0000,0000,,Ok, Aoi!
+Dialogue: 0,0:06:33.24,0:06:37.72,Main Dialogue,Aoi,0000,0000,0000,,Ah, o vice presidente é irritante, \Nhiperativo e ama lutas!
+Dialogue: 0,0:06:37.72,0:06:40.08,Main Dialogue,Aoi,0000,0000,0000,,Ele faz caso das coisas mais idiotas!
+Dialogue: 0,0:06:40.08,0:06:42.93,Main Dialogue,Hiina,0000,0000,0000,,Ah, cara! O presidente errou as palavras!
+Dialogue: 0,0:06:42.93,0:06:46.70,Main Dialogue,Hiina,0000,0000,0000,,Que sonho! O que falarão na escola inteira
+Dialogue: 0,0:06:46.70,0:06:49.65,Main Dialogue,Hiina,0000,0000,0000,,quando o cara da boa narrativa for derrotado?!
+Dialogue: 0,0:06:49.65,0:06:53.39,Main Dialogue,Hiina,0000,0000,0000,,Ele tem dificuldade, \Nnão é mais uma fala suave!
+Dialogue: 0,0:06:53.39,0:06:56.60,Main Dialogue,Aoi,0000,0000,0000,,Mas o presidente tem medo, \Nentão não pode dizer isso...
+Dialogue: 0,0:06:56.60,0:07:00.10,Main Dialogue,Hiina,0000,0000,0000,,Sim, o bom-ba-ye número um do Japão foi...
+Dialogue: 0,0:07:00.88,0:07:02.40,Main Dialogue,Koharu,0000,0000,0000,,Então ele evita confusão a todo custo!
+Dialogue: 0,0:07:02.40,0:07:03.64,Main Dialogue,Aoi,0000,0000,0000,,Ok, Koharun!
+Dialogue: 0,0:07:03.64,0:07:07.94,Main Dialogue,Koharu,0000,0000,0000,,Ah, certo, o personagem principal \Nnão é bom em se comunicar com
+Dialogue: 0,0:07:07.94,0:07:10.49,Main Dialogue,Koharu,0000,0000,0000,,outras pessoas, pois é tímido e se acha ruim!
+Dialogue: 0,0:07:10.49,0:07:12.41,Main Dialogue,Hiina,0000,0000,0000,,Até o presidente erra as palavras,
+Dialogue: 0,0:07:12.41,0:07:13.90,Main Dialogue,Hiina,0000,0000,0000,,e ele tem três anos de experiência.
+Dialogue: 0,0:07:13.90,0:07:18.25,Main Dialogue,Hiina,0000,0000,0000,,"Acabei de entrar no clube, \Nentão não tem como dar certo."
+Dialogue: 0,0:07:18.25,0:07:20.93,Main Dialogue,Hiina,0000,0000,0000,,"É inútil! Inútil! Inútil! Inútil!"
+Dialogue: 0,0:07:20.93,0:07:22.71,Main Dialogue,Hiina,0000,0000,0000,,"Não tenho como fazer isso!"
+Dialogue: 0,0:07:22.71,0:07:25.79,Main Dialogue,Koharu,0000,0000,0000,,Mas, na frente de um microfone, ele se transforma.
+Dialogue: 0,0:07:25.79,0:07:28.42,Main Dialogue,Koharu,0000,0000,0000,,As palavras fluem da boca dele!
+Dialogue: 0,0:07:28.42,0:07:30.08,Main Dialogue,Hiina,0000,0000,0000,,E aí, e aí, e aí. É isso aí!
+Dialogue: 0,0:07:30.08,0:07:32.33,Main Dialogue,Hiina,0000,0000,0000,,Agora teremos uma música para \Naquela pessoa especial.
+Dialogue: 0,0:07:32.33,0:07:34.85,Main Dialogue,Hiina,0000,0000,0000,,É "Música Para Você"! Confira!
+Dialogue: 0,0:07:34.85,0:07:39.35,Main Dialogue,Yua,0000,0000,0000,,Ok, a heroína é colega do personagem \Nprincipal... Fofa e convicta!
+Dialogue: 0,0:07:39.35,0:07:43.28,Main Dialogue,Hiina,0000,0000,0000,,"E-Eu tenho que fazer uma transmissão melhor,
+Dialogue: 0,0:07:43.28,0:07:45.39,Main Dialogue,Hiina,0000,0000,0000,,uma que faça ele me notar..."
+Dialogue: 0,0:07:45.39,0:07:47.15,Main Dialogue,Hiina,0000,0000,0000,,"Me note, Seiya-kun!"
+Dialogue: 0,0:07:47.15,0:07:49.65,Main Dialogue,Yua,0000,0000,0000,,Mas o problema é que \Nela não é fluente em japonês!
+Dialogue: 0,0:07:49.65,0:07:54.53,Main Dialogue,Hiina,0000,0000,0000,,"Opa, vou mudar  tom, então ouçam aí!"
+Dialogue: 0,0:07:54.53,0:07:57.75,Main Dialogue,Koharu,0000,0000,0000,,Ótimo! Todos parecem personagens \Nprofundos e interessantes!
+Dialogue: 0,0:07:57.75,0:08:00.23,Main Dialogue,Koharu,0000,0000,0000,,Mas me pergunto... Seria um mangá comum?
+Dialogue: 0,0:08:00.23,0:08:03.39,Main Dialogue,Hiina,0000,0000,0000,,Esqueça o "comum"! \NNunca teria esses personagens.
+Dialogue: 0,0:08:03.39,0:08:04.17,Main Dialogue,Aoi,0000,0000,0000,,Não!
+Dialogue: 0,0:08:04.17,0:08:07.29,Main Dialogue,Yua,0000,0000,0000,,Certo! Vamos tentar imaginar \Num "clube do rádio diferente"!
+Dialogue: 0,0:08:07.29,0:08:08.77,Main Dialogue,Yua,0000,0000,0000,,Quem começa?
+Dialogue: 0,0:08:09.26,0:08:10.35,Main Dialogue,Yua,0000,0000,0000,,Quem tem uma ideia?
+Dialogue: 0,0:08:10.35,0:08:11.07,Main Dialogue,Koharu,0000,0000,0000,,Eu!
+Dialogue: 0,0:08:11.07,0:08:11.63,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:11.63,0:08:14.34,Main Dialogue,Yua,0000,0000,0000,,Ok, o "clube do rádio diferente" da Koharun.
+Dialogue: 0,0:08:14.34,0:08:19.35,Main Dialogue,Koharu,0000,0000,0000,,Todos engolem hélio e você não faz \Nideia de quem está falando.
+Dialogue: 0,0:08:14.85,0:08:19.35,Signs,Sign,0000,0000,0000,,{\an9}Hélio
+Dialogue: 0,0:08:21.05,0:08:24.69,Main Dialogue,Koharu,0000,0000,0000,,Você tem que engolir quando for falar.
+Dialogue: 0,0:08:24.69,0:08:28.48,Main Dialogue,Yua,0000,0000,0000,,É estranho a Koharun não ter uma resposta fofa...
+Dialogue: 0,0:08:28.48,0:08:29.94,Main Dialogue,Koharu,0000,0000,0000,,Não é fofo?
+Dialogue: 0,0:08:29.94,0:08:32.03,Main Dialogue,Aoi,0000,0000,0000,,Estava tentando ser fofa?
+Dialogue: 0,0:08:32.03,0:08:33.38,Main Dialogue,Koharu,0000,0000,0000,,Não sei.
+Dialogue: 0,0:08:33.38,0:08:35.32,Main Dialogue,Koharu,0000,0000,0000,,Só veio em mente...
+Dialogue: 0,0:08:35.32,0:08:38.41,Main Dialogue,Hiina,0000,0000,0000,,Ela disse séria... "Não é fofo?"
+Dialogue: 0,0:08:38.41,0:08:40.74,Main Dialogue,Koharu,0000,0000,0000,,Não, não, não, não!
+Dialogue: 0,0:08:40.74,0:08:42.57,Main Dialogue,Hiina,0000,0000,0000,,Acho que a Koharun estava tentando ser esperta.
+Dialogue: 0,0:08:42.57,0:08:43.66,Main Dialogue,Koharu,0000,0000,0000,,Não estava!
+Dialogue: 0,0:08:43.66,0:08:45.87,Main Dialogue,Aoi,0000,0000,0000,,Mas se você engolisse hélio,
+Dialogue: 0,0:08:45.87,0:08:48.46,Main Dialogue,Aoi,0000,0000,0000,,poderia dizer coisas chatas \Ne continuaria engraçado.
+Dialogue: 0,0:08:48.46,0:08:51.30,Main Dialogue,Aoi,0000,0000,0000,,Então a Koharun devia engolir todo dia!
+Dialogue: 0,0:08:51.30,0:08:54.05,Main Dialogue,Koharu,0000,0000,0000,,Por quê? Pareceu que sempre \Ndigo coisas chatas!
+Dialogue: 0,0:08:54.05,0:08:55.07,Main Dialogue,Aoi,0000,0000,0000,,Você devia engolir.
+Dialogue: 0,0:08:55.07,0:08:56.89,Main Dialogue,Yua,0000,0000,0000,,Engula. Engula agora.
+Dialogue: 0,0:08:56.89,0:08:58.73,Main Dialogue,Yua,0000,0000,0000,,Alguma ideia? Nova?
+Dialogue: 0,0:08:59.50,0:09:00.34,Main Dialogue,Koharu,0000,0000,0000,,Nova...
+Dialogue: 0,0:09:00.34,0:09:03.83,Main Dialogue,Yua,0000,0000,0000,,Ok, o "clube do rádio diferente" da Hélio Koharun!
+Dialogue: 0,0:09:04.60,0:09:09.23,Main Dialogue,Koharu,0000,0000,0000,,Os horóscopos são boas notícias.
+Dialogue: 0,0:09:11.10,0:09:12.33,Main Dialogue,Yua,0000,0000,0000,,Que engraçado!
+Dialogue: 0,0:09:12.90,0:09:13.78,Main Dialogue,Aoi,0000,0000,0000,,Engraçado!
+Dialogue: 0,0:09:13.78,0:09:14.43,Main Dialogue,Hiina,0000,0000,0000,,É engraçado.
+Dialogue: 0,0:09:14.43,0:09:15.99,Main Dialogue,Koharu,0000,0000,0000,,Espere um segundo.
+Dialogue: 0,0:09:17.20,0:09:18.73,Main Dialogue,Hiina,0000,0000,0000,,Isso revela um novo personagem!
+Dialogue: 0,0:09:20.42,0:09:21.68,Main Dialogue,Koharu,0000,0000,0000,,Ei!
+Dialogue: 0,0:09:22.41,0:09:24.12,Main Dialogue,Hiina,0000,0000,0000,,Vamos continuar assim agora.
+Dialogue: 0,0:09:24.58,0:09:27.25,Main Dialogue,Koharu,0000,0000,0000,,Não! Esqueça.
+Dialogue: 0,0:09:27.25,0:09:28.04,Main Dialogue,Yua,0000,0000,0000,,Ela está de volta.
+Dialogue: 0,0:09:28.04,0:09:28.77,Main Dialogue,Hiina,0000,0000,0000,,Vamos!
+Dialogue: 0,0:09:28.77,0:09:30.46,Main Dialogue,Aoi,0000,0000,0000,,Engula mais hélio!
+Dialogue: 0,0:09:30.96,0:09:36.14,Main Dialogue,Koharu,0000,0000,0000,,Vocês não ligam se a Koharun virar \Num personagem diferente?
+Dialogue: 0,0:09:37.26,0:09:40.69,Main Dialogue,Mobuko,0000,0000,0000,,Afinal, Rickson só luta contra os vencedores.
+Dialogue: 0,0:09:40.69,0:09:44.66,Main Dialogue,Mobuko,0000,0000,0000,,Acho que o mais forte é o Royler ou o Royce.
+Dialogue: 0,0:10:48.13,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:48.13,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo episódio
+Dialogue: 0,0:10:48.13,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Revisão Episódio 7\N{\fs24}Linda Harmonia
+Dialogue: 0,0:10:48.43,0:10:50.27,Main Dialogue,Koharu,0000,0000,0000,,Eu não devia ter dito aquilo!
+Dialogue: 0,0:10:50.27,0:10:53.27,Main Dialogue,Yua,0000,0000,0000,,Estou satisfeita depois de ver \Num novo lado da Koharun.
+Dialogue: 0,0:10:52.03,0:10:53.15,Main Dialogue Top,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:10:53.27,0:10:55.43,Main Dialogue,Hiina,0000,0000,0000,,A Koharun estava ótima daquele jeito.
+Dialogue: 0,0:10:55.43,0:10:56.86,Main Dialogue,Aoi,0000,0000,0000,,Sim. Estava perfeita!
+Dialogue: 0,0:10:56.86,0:10:59.05,Main Dialogue,Yua,0000,0000,0000,,Ótima Koharu.
+Dialogue: 0,0:10:59.05,0:11:02.67,Main Dialogue,Koharu,0000,0000,0000,,Sério, parem de me apelidar!
+Dialogue: 0,0:11:02.67,0:11:05.08,Main Dialogue,Koharu,0000,0000,0000,,É sempre assim!

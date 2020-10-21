@@ -1,0 +1,244 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H0000C5EF,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0048,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H0000C5EF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Story Continues Sign,Arial,14,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0070,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:01.54,0:01:06.35,Main Dialogue Top,Koharu,0000,0000,0000,,O que um carro de corrida à toda \Nvelocidade perde em uma curva?
+Dialogue: 0,0:01:02.26,0:01:06.90,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Revisão #10\N{\fs22}Convencido
+Dialogue: 0,0:01:06.83,0:01:08.74,Main Dialogue,Yua,0000,0000,0000,,Ok, acabou o tempo.
+Dialogue: 0,0:01:08.74,0:01:11.00,Main Dialogue,Yua,0000,0000,0000,,A resposta certa é "velocidade".
+Dialogue: 0,0:01:11.00,0:01:12.00,Main Dialogue,Koharu,0000,0000,0000,,Velocidade?
+Dialogue: 0,0:01:12.00,0:01:14.46,Main Dialogue,Yua,0000,0000,0000,,O que tem a ver com a curva?
+Dialogue: 0,0:01:16.40,0:01:17.37,Main Dialogue,Koharu,0000,0000,0000,,Entendi!
+Dialogue: 0,0:01:17.37,0:01:19.42,Main Dialogue,Hiina,0000,0000,0000,,Koharun, estava fácil.
+Dialogue: 0,0:01:19.42,0:01:22.39,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai, mais uma!
+Dialogue: 0,0:01:22.39,0:01:24.85,Main Dialogue,Aoi,0000,0000,0000,,Ei! Não tivemos enigmas suficientes?
+Dialogue: 0,0:01:24.85,0:01:26.82,Main Dialogue,Koharu,0000,0000,0000,,Faça também, Aoi-senpai!
+Dialogue: 0,0:01:26.82,0:01:29.55,Main Dialogue,Koharu,0000,0000,0000,,Diferente de quiz, mesmo sem conhecimento,
+Dialogue: 0,0:01:29.55,0:01:31.15,Main Dialogue,Koharu,0000,0000,0000,,dá para responder enigmas se pensar neles!
+Dialogue: 0,0:01:31.15,0:01:32.25,Main Dialogue,Koharu,0000,0000,0000,,Não é divertido?
+Dialogue: 0,0:01:32.25,0:01:33.90,Main Dialogue,Aoi,0000,0000,0000,,Não é divertido!
+Dialogue: 0,0:01:33.90,0:01:35.63,Main Dialogue,Yua,0000,0000,0000,,Você não gosta de enigmas, Aoi?
+Dialogue: 0,0:01:35.63,0:01:39.48,Main Dialogue,Aoi,0000,0000,0000,,Enigmas sempre têm um padrão estranho.
+Dialogue: 0,0:01:39.48,0:01:42.12,Main Dialogue,Koharu,0000,0000,0000,,E-Eu acho que não...
+Dialogue: 0,0:01:42.12,0:01:45.28,Main Dialogue,Aoi,0000,0000,0000,,Além disso, o desdém nas palavras,
+Dialogue: 0,0:01:45.28,0:01:47.17,Main Dialogue,Aoi,0000,0000,0000,,tratando o ouvinte como criança,
+Dialogue: 0,0:01:47.17,0:01:52.09,Main Dialogue,Aoi,0000,0000,0000,,e o olhar metido quando a resposta é dita... \NEssas coisas não irritam vocês?!
+Dialogue: 0,0:01:52.09,0:01:55.50,Main Dialogue,Koharu,0000,0000,0000,,N-Não. Primeiramente, \Nsão feitos para crianças...
+Dialogue: 0,0:01:55.50,0:01:59.55,Main Dialogue,Koharu,0000,0000,0000,,Yua-senpai, você não tem um enigma \Nque seja do gosto da Aoi-senpai?
+Dialogue: 0,0:01:59.55,0:02:02.26,Main Dialogue,Yua,0000,0000,0000,,Bem, vamos ver... Ok, que tal essa?
+Dialogue: 0,0:02:02.26,0:02:06.85,Main Dialogue,Yua,0000,0000,0000,,Por que você perde o apetite \Nquando vai para o espaço?
+Dialogue: 0,0:02:06.85,0:02:09.56,Main Dialogue,Aoi,0000,0000,0000,,Aí está! Tão irritante!
+Dialogue: 0,0:02:10.26,0:02:13.24,Main Dialogue,Koharu,0000,0000,0000,,Por que, eu me pergunto? \NPorque as estrelas são lindas...
+Dialogue: 0,0:02:13.24,0:02:17.95,Main Dialogue,Koharu,0000,0000,0000,,Não. Aliens... Não, também não \Ndeve ter a ver com isso.
+Dialogue: 0,0:02:17.95,0:02:20.91,Main Dialogue,Hiina,0000,0000,0000,,Entendi. Aposto que Aoi sabe essa.
+Dialogue: 0,0:02:20.91,0:02:23.41,Main Dialogue,Koharu,0000,0000,0000,,Você já sabe a resposta, Hiina-senpai?
+Dialogue: 0,0:02:23.41,0:02:24.73,Main Dialogue,Koharu,0000,0000,0000,,Você sabe o que é, Aoi-senpai?
+Dialogue: 0,0:02:24.73,0:02:28.34,Main Dialogue,Aoi,0000,0000,0000,,É simples. No espaço, o ambiente \Nmuda tão drasticamente
+Dialogue: 0,0:02:28.34,0:02:30.04,Main Dialogue,Aoi,0000,0000,0000,,que comer é a última coisa em mente.
+Dialogue: 0,0:02:30.04,0:02:32.88,Main Dialogue,Aoi,0000,0000,0000,,Então a resposta é "porque você está animado!"
+Dialogue: 0,0:02:33.45,0:02:35.21,Main Dialogue,Koharu,0000,0000,0000,,T-Tem a ver com o humor de alguém?
+Dialogue: 0,0:02:35.21,0:02:39.93,Main Dialogue,Yua,0000,0000,0000,,Que pena! A resposta certa é \Nporque você fica sem ar.
+Dialogue: 0,0:02:39.93,0:02:41.58,Main Dialogue,Koharu,0000,0000,0000,,Sem ar?
+Dialogue: 0,0:02:41.58,0:02:46.35,Main Dialogue,Yua,0000,0000,0000,,Sem ar não dá para comer, certo?
+Dialogue: 0,0:02:47.51,0:02:51.20,Main Dialogue,Aoi,0000,0000,0000,,Nossa! Era só isso... Como isso me irrita!
+Dialogue: 0,0:02:51.45,0:02:54.15,Main Dialogue,Koharu,0000,0000,0000,,A-Aoi-senpai, você gosta desse tipo de coisa!
+Dialogue: 0,0:02:54.15,0:02:56.76,Main Dialogue,Aoi,0000,0000,0000,,A questão não é essa!
+Dialogue: 0,0:02:56.76,0:03:00.54,Main Dialogue,Aoi,0000,0000,0000,,A pessoa que responde está levando a sério, \Nmas a resposta é só uma bobeira!
+Dialogue: 0,0:03:00.54,0:03:02.02,Main Dialogue,Aoi,0000,0000,0000,,Ou vai dizer que tem a ver?
+Dialogue: 0,0:03:02.02,0:03:04.91,Main Dialogue,Koharu,0000,0000,0000,,V-Você é tão dura com as brincadeiras dos outros...
+Dialogue: 0,0:03:04.91,0:03:08.22,Main Dialogue,Aoi,0000,0000,0000,,Quem pensou nesse trocadilho \Nnão sabe de nada!
+Dialogue: 0,0:03:08.22,0:03:11.50,Main Dialogue,Hiina,0000,0000,0000,,Sim. Não consigo digerir esse tipo de piada.
+Dialogue: 0,0:03:11.50,0:03:15.29,Main Dialogue,Koharu,0000,0000,0000,,Hã? Parece a resposta de um enigma!
+Dialogue: 0,0:03:15.29,0:03:18.55,Main Dialogue,Yua,0000,0000,0000,,Ok, que tal uma fácil?
+Dialogue: 0,0:03:18.55,0:03:21.80,Main Dialogue,Yua,0000,0000,0000,,Pan significa pão, mas que tipo \Nde pan você não pode comer?
+Dialogue: 0,0:03:22.23,0:03:25.51,Main Dialogue,Koharu,0000,0000,0000,,Essa é fácil! Você sabe a resposta, Aoi-senpai?
+Dialogue: 0,0:03:25.51,0:03:28.75,Main Dialogue,Aoi,0000,0000,0000,,O pão de uma competição feito por um sádico!
+Dialogue: 0,0:03:29.39,0:03:30.93,Main Dialogue,Koharu,0000,0000,0000,,O-O que é isso?!
+Dialogue: 0,0:03:30.93,0:03:35.42,Main Dialogue,Aoi,0000,0000,0000,,Está preso além do alcance da pessoa.
+Dialogue: 0,0:03:35.42,0:03:37.05,Main Dialogue,Yua,0000,0000,0000,,Tentador!
+Dialogue: 0,0:03:37.05,0:03:39.69,Main Dialogue,Koharu,0000,0000,0000,,Não, não! Não é esse tipo de resposta!
+Dialogue: 0,0:03:39.69,0:03:41.95,Main Dialogue,Aoi,0000,0000,0000,,Ou pão molhado!
+Dialogue: 0,0:03:41.95,0:03:43.63,Main Dialogue,Koharu,0000,0000,0000,,Pão molhado?!
+Dialogue: 0,0:03:43.63,0:03:46.40,Main Dialogue,Aoi,0000,0000,0000,,Encharcado! Você não poderia \Ncomer isso, poderia?
+Dialogue: 0,0:03:46.40,0:03:49.33,Main Dialogue,Koharu,0000,0000,0000,,Eu nunca vi um pão assim!
+Dialogue: 0,0:03:49.33,0:03:53.54,Main Dialogue,Koharu,0000,0000,0000,,Você está errada, Aoi-senpai! \NA resposta certa é "a frying pan"!
+Dialogue: 0,0:03:53.54,0:03:54.83,Main Dialogue,Yua,0000,0000,0000,,Koharun está certa!
+Dialogue: 0,0:03:55.32,0:03:58.15,Main Dialogue,Aoi,0000,0000,0000,,Outra resposta boba! Que chato!
+Dialogue: 0,0:03:58.15,0:04:00.93,Main Dialogue,Aoi,0000,0000,0000,,E você está tão metida! Me faz mal!
+Dialogue: 0,0:04:00.93,0:04:03.68,Main Dialogue,Koharu,0000,0000,0000,,Mas esse é o tipo de enigma...
+Dialogue: 0,0:04:03.68,0:04:05.81,Main Dialogue,Aoi,0000,0000,0000,,Nesse caso, pelo menos diga \Njeans (ji-pan) ou cáqui (chinopan)!
+Dialogue: 0,0:04:05.81,0:04:08.68,Main Dialogue,Koharu,0000,0000,0000,,A-Agora faz sentido, mas...
+Dialogue: 0,0:04:08.68,0:04:10.53,Main Dialogue,Hiina,0000,0000,0000,,Também poderia ser \N"negociação direta" (jikidanpan),
+Dialogue: 0,0:04:10.53,0:04:13.73,Main Dialogue,Hiina,0000,0000,0000,,"antiga convicção" (zenkaippan) \Nou "longo prazo" (chukyokiteki supan).
+Dialogue: 0,0:04:13.73,0:04:15.02,Main Dialogue,Aoi,0000,0000,0000,,E "calcinhas velhas" (kutapan) também!
+Dialogue: 0,0:04:15.02,0:04:18.56,Main Dialogue,Aoi,0000,0000,0000,,Se você disser todas as respostas, \Na lista fica cheia (panpan), certo?
+Dialogue: 0,0:04:18.56,0:04:22.38,Main Dialogue,Hiina,0000,0000,0000,,Quem pensou nesse enigma \Nme faz perder a fome.
+Dialogue: 0,0:04:22.38,0:04:25.70,Main Dialogue,Koharu,0000,0000,0000,,Hã?! Parece a resposta de um enigma de novo!
+Dialogue: 0,0:04:25.70,0:04:27.11,Main Dialogue,Yua,0000,0000,0000,,Vocês sabem essa?
+Dialogue: 0,0:04:27.11,0:04:29.85,Main Dialogue,Yua,0000,0000,0000,,Dizem que a origem dos enigmas,
+Dialogue: 0,0:04:29.85,0:04:34.54,Main Dialogue,Yua,0000,0000,0000,,foi dita às pessoas por um monstro \Nda mitologia egípcia, a Esfinge,
+Dialogue: 0,0:04:34.54,0:04:37.00,Main Dialogue,Yua,0000,0000,0000,,e quem não conseguisse responder era comido!
+Dialogue: 0,0:04:37.00,0:04:40.38,Main Dialogue,Koharu,0000,0000,0000,,Enigmas têm uma origem tão assustadora?
+Dialogue: 0,0:04:40.38,0:04:44.63,Main Dialogue,Koharu,0000,0000,0000,,Que criatura anda sobre quatro pernas \Nde manhã, duas pernas durante o dia
+Dialogue: 0,0:04:44.63,0:04:46.47,Main Dialogue,Yua,0000,0000,0000,,e três durante a noite?
+Dialogue: 0,0:04:47.13,0:04:50.14,Main Dialogue,Koharu,0000,0000,0000,,O número de pernas muda durante o dia?
+Dialogue: 0,0:04:50.14,0:04:53.25,Main Dialogue,Aoi,0000,0000,0000,,Eu sei! Um leão marinho (ashika)! \NPorque ashi significa "perna"!
+Dialogue: 0,0:04:53.25,0:04:56.82,Main Dialogue,Koharu,0000,0000,0000,,Um trocadilho?! Depois de tanto falar mal!
+Dialogue: 0,0:04:56.82,0:05:00.36,Main Dialogue,Aoi,0000,0000,0000,,Bem, a Esfinge devia usar um trocadilho, certo?
+Dialogue: 0,0:05:00.36,0:05:02.78,Main Dialogue,Koharu,0000,0000,0000,,Não sei o que quer dizer!
+Dialogue: 0,0:05:02.78,0:05:05.53,Main Dialogue,Hiina,0000,0000,0000,,Deve ser uma difícil.
+Dialogue: 0,0:05:05.53,0:05:06.65,Main Dialogue,Aoi,0000,0000,0000,,Qual a resposta?
+Dialogue: 0,0:05:06.65,0:05:08.52,Main Dialogue,Yua,0000,0000,0000,,A resposta é "humanos"!
+Dialogue: 0,0:05:08.52,0:05:09.62,Main Dialogue,Koharu,0000,0000,0000,,Humanos?
+Dialogue: 0,0:05:09.62,0:05:13.56,Main Dialogue,Yua,0000,0000,0000,,Humanos engatinham quando bebês.
+Dialogue: 0,0:05:13.56,0:05:16.42,Main Dialogue,Yua,0000,0000,0000,,Depois andam em duas pernas.
+Dialogue: 0,0:05:16.42,0:05:19.18,Main Dialogue,Yua,0000,0000,0000,,E quando ficam velhos, usam bengala... Três.
+Dialogue: 0,0:05:19.18,0:05:21.38,Main Dialogue,Yua,0000,0000,0000,,Por isso a resposta é "humanos"!
+Dialogue: 0,0:05:21.38,0:05:22.76,Main Dialogue,Koharu,0000,0000,0000,,Entendi...
+Dialogue: 0,0:05:22.76,0:05:25.24,Main Dialogue,Aoi,0000,0000,0000,,Então manhã e noite não têm nada a ver.
+Dialogue: 0,0:05:25.24,0:05:27.88,Main Dialogue,Yua,0000,0000,0000,,Suponho que seja uma metáfora \Npara os estágios da vida.
+Dialogue: 0,0:05:27.88,0:05:32.98,Main Dialogue,Hiina,0000,0000,0000,,Mas uma pessoa passa 90% da vida \Nsobre duas pernas, certo?
+Dialogue: 0,0:05:32.98,0:05:34.60,Main Dialogue,Hiina,0000,0000,0000,,Seguindo essa metáfora,
+Dialogue: 0,0:05:34.60,0:05:38.34,Main Dialogue,Hiina,0000,0000,0000,,estariam sobre os pés da manhã \Naté tarde da noite, certo?
+Dialogue: 0,0:05:38.87,0:05:42.19,Main Dialogue,Yua,0000,0000,0000,,Agora que você disse, \Na divisão do tempo é estranha.
+Dialogue: 0,0:05:42.19,0:05:47.07,Main Dialogue,Aoi,0000,0000,0000,,Não é contra as regras chamar \Nas mãos e a bengala de pernas?
+Dialogue: 0,0:05:47.07,0:05:50.03,Main Dialogue,Koharu,0000,0000,0000,,As palavras são meio enganadoras, hein?
+Dialogue: 0,0:05:50.03,0:05:55.34,Main Dialogue,Hiina,0000,0000,0000,,E o enigma vem de um monstro \Nque tem corpo de leão
+Dialogue: 0,0:05:55.34,0:05:59.57,Main Dialogue,Hiina,0000,0000,0000,,e rosto de humano, então você não pensaria \Nque essa mudança de pernas
+Dialogue: 0,0:05:59.57,0:06:05.26,Main Dialogue,Hiina,0000,0000,0000,,é tão estranha assim, te levando \Na responder literalmente?
+Dialogue: 0,0:06:05.26,0:06:08.97,Main Dialogue,Yua,0000,0000,0000,,É verdade! Parece que a Esfinge estava \Npuxando as pernas de todo mundo.
+Dialogue: 0,0:06:08.97,0:06:13.94,Main Dialogue,Aoi,0000,0000,0000,,Vocês não sentem pena dos viajantes \Nque só têm uma perna?
+Dialogue: 0,0:06:14.51,0:06:16.66,Main Dialogue,Koharu,0000,0000,0000,,Isso está virando outro tipo de atividade!
+Dialogue: 0,0:06:16.66,0:06:22.87,Main Dialogue,Hiina,0000,0000,0000,,Mesmo a Esfinge comendo pessoas, \Ndevia ter algumas que ela não aguentava.
+Dialogue: 0,0:06:22.87,0:06:25.57,Main Dialogue,Koharu,0000,0000,0000,,N-Não aguentava?! Estamos indo longe!
+Dialogue: 0,0:06:25.57,0:06:29.63,Main Dialogue,Yua,0000,0000,0000,,Ok, para não enganar, que tal \No enigma ser dito educadamente?
+Dialogue: 0,0:06:29.63,0:06:32.63,Main Dialogue,Yua,0000,0000,0000,,Que primata engatinha nas mãos e joelhos \Nvários meses depois de nascer,
+Dialogue: 0,0:06:32.63,0:06:34.99,Main Dialogue,Yua,0000,0000,0000,,anda sobre duas pernas depois \Nde crescer até certo ponto,
+Dialogue: 0,0:06:34.99,0:06:39.75,Main Dialogue,Yua,0000,0000,0000,,e talvez use uma bengala depois dos 70 anos?
+Dialogue: 0,0:06:39.75,0:06:40.54,Main Dialogue,Three,0000,0000,0000,,Humanos!
+Dialogue: 0,0:06:40.54,0:06:43.40,Main Dialogue,Yua,0000,0000,0000,,Correto! Viram? Dá para usar, certo?
+Dialogue: 0,0:06:43.40,0:06:44.01,Main Dialogue,Koharu,0000,0000,0000,,Sim!
+Dialogue: 0,0:06:44.01,0:06:45.09,Main Dialogue,Hiina,0000,0000,0000,,Exceto...
+Dialogue: 0,0:06:45.09,0:06:47.84,Main Dialogue,Aoi,0000,0000,0000,,Por não ter graça alguma!
+Dialogue: 0,0:06:50.61,0:06:54.56,Main Dialogue,Hiina,0000,0000,0000,,Falando nisso, não falamos de clubes hoje.
+Dialogue: 0,0:06:54.56,0:06:58.32,Main Dialogue,Koharu,0000,0000,0000,,Na última vez foi divertido pensar \Nem um festival escolar diferente,
+Dialogue: 0,0:06:58.32,0:07:01.19,Main Dialogue,Koharu,0000,0000,0000,,então por que não pensamos \Nem um festival atlético hoje?
+Dialogue: 0,0:07:01.19,0:07:03.73,Main Dialogue,Yua,0000,0000,0000,,Certo, vamos pensar em \Num "festival atlético diferente"!
+Dialogue: 0,0:07:04.21,0:07:06.87,Main Dialogue,Hiina,0000,0000,0000,,Um festival atlético é tipo um \N"dia do esporte", certo?
+Dialogue: 0,0:07:06.87,0:07:07.42,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:07.42,0:07:08.05,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:08.05,0:07:08.79,Main Dialogue,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:09.10,0:07:10.18,Main Dialogue,Yua,0000,0000,0000,,Tenho um.
+Dialogue: 0,0:07:10.18,0:07:10.76,Main Dialogue,Hiina,0000,0000,0000,,Yua.
+Dialogue: 0,0:07:10.76,0:07:13.62,Main Dialogue,Yua,0000,0000,0000,,O "festival atlético diferente" da Yua!
+Dialogue: 0,0:07:13.62,0:07:17.58,Main Dialogue,Yua,0000,0000,0000,,O apresentador do festival atlético \Nsempre diz "aí está!"
+Dialogue: 0,0:07:18.97,0:07:21.87,Main Dialogue,Yua,0000,0000,0000,,Ele está sempre animado.
+Dialogue: 0,0:07:21.87,0:07:25.62,Main Dialogue,Yua,0000,0000,0000,,"Estou tão feliz de vir nessa escola!"
+Dialogue: 0,0:07:27.05,0:07:29.93,Main Dialogue,Yua,0000,0000,0000,,Não parece ele, hein?
+Dialogue: 0,0:07:31.02,0:07:32.71,Main Dialogue,Koharu,0000,0000,0000,,Mais! Mais!
+Dialogue: 0,0:07:32.71,0:07:34.13,Main Dialogue,Aoi,0000,0000,0000,,Quero mais.
+Dialogue: 0,0:07:34.13,0:07:35.75,Main Dialogue,Yua,0000,0000,0000,,Não subestimem calouros!
+Dialogue: 0,0:07:36.85,0:07:37.85,Main Dialogue,Hiina,0000,0000,0000,,Não parece muito com ele.
+Dialogue: 0,0:07:37.85,0:07:40.25,Main Dialogue,Yua,0000,0000,0000,,Por que não? Parece sim!
+Dialogue: 0,0:07:41.01,0:07:42.09,Main Dialogue,Koharu,0000,0000,0000,,É hilário!
+Dialogue: 0,0:07:42.09,0:07:42.90,Main Dialogue,Yua,0000,0000,0000,,Pareço com ele, né?
+Dialogue: 0,0:07:42.90,0:07:44.40,Main Dialogue,Aoi,0000,0000,0000,,Esse "não subestimem calouros" me agonizou.
+Dialogue: 0,0:07:44.40,0:07:45.97,Main Dialogue,Yua,0000,0000,0000,,Pareceu ele, certo?
+Dialogue: 0,0:07:45.97,0:07:47.44,Main Dialogue,Yua,0000,0000,0000,,Não subestimem calouros!
+Dialogue: 0,0:07:49.31,0:07:51.77,Main Dialogue,Koharu,0000,0000,0000,,Acho que isso será cortado...
+Dialogue: 0,0:07:53.12,0:07:54.19,Main Dialogue,Hiina,0000,0000,0000,,Ok, é diferente.
+Dialogue: 0,0:07:54.19,0:07:54.94,Main Dialogue,Yua,0000,0000,0000,,É diferente, certo?
+Dialogue: 0,0:07:54.94,0:07:55.69,Main Dialogue,Aoi,0000,0000,0000,,É diferente.
+Dialogue: 0,0:07:55.69,0:07:56.75,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:56.75,0:07:57.52,Main Dialogue,Hiina,0000,0000,0000,,Tenho um.
+Dialogue: 0,0:07:57.52,0:08:00.75,Main Dialogue,Yua,0000,0000,0000,,Certo, o "festival atlético diferente" da Hiina!
+Dialogue: 0,0:08:00.75,0:08:04.04,Main Dialogue,Hiina,0000,0000,0000,,Os objetos da caça ao tesouro são difíceis de achar.
+Dialogue: 0,0:08:04.04,0:08:06.84,Main Dialogue,Hiina,0000,0000,0000,,Como a caderneta do diretor \Nou as fotos "pré-cirurgia plástica"
+Dialogue: 0,0:08:06.84,0:08:09.72,Main Dialogue,Hiina,0000,0000,0000,,da mãe do Yamaguchi-san...
+Dialogue: 0,0:08:11.62,0:08:13.09,Main Dialogue,Koharu,0000,0000,0000,,De jeito nenhum a mãe dele daria isso.
+Dialogue: 0,0:08:13.09,0:08:13.90,Main Dialogue,Koharu,0000,0000,0000,,Certo?
+Dialogue: 0,0:08:13.90,0:08:16.47,Main Dialogue,Hiina,0000,0000,0000,,Sim. As pessoas não querem coisas \Ndo passado sendo vistas...
+Dialogue: 0,0:08:16.47,0:08:18.56,Main Dialogue,Koharu,0000,0000,0000,,Ou as calcinhas de quem você gosta...
+Dialogue: 0,0:08:18.56,0:08:20.42,Main Dialogue,Hiina,0000,0000,0000,,Isso é crime...
+Dialogue: 0,0:08:20.42,0:08:22.04,Main Dialogue,Yua,0000,0000,0000,,Como você conseguiria isso?
+Dialogue: 0,0:08:22.04,0:08:23.01,Main Dialogue,Koharu,0000,0000,0000,,Com permissão.
+Dialogue: 0,0:08:23.01,0:08:24.48,Main Dialogue,Yua,0000,0000,0000,,Com permissão?
+Dialogue: 0,0:08:24.48,0:08:25.61,Main Dialogue,Hiina,0000,0000,0000,,"Empresta suas calcinhas?"
+Dialogue: 0,0:08:25.61,0:08:26.61,Main Dialogue,Koharu,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:08:26.61,0:08:29.65,Main Dialogue,Koharu,0000,0000,0000,,Emprestar calcinhas ainda quentes...
+Dialogue: 0,0:08:29.65,0:08:31.56,Main Dialogue,Aoi,0000,0000,0000,,E correr com elas na cabeça?
+Dialogue: 0,0:08:31.56,0:08:34.03,Main Dialogue,Koharu,0000,0000,0000,,"Estão quentes, Blahblah-chan!"
+Dialogue: 0,0:08:34.85,0:08:36.31,Main Dialogue,Yua,0000,0000,0000,,Pervertida!
+Dialogue: 0,0:08:36.31,0:08:37.08,Main Dialogue,Hiina,0000,0000,0000,,Koharun.
+Dialogue: 0,0:08:37.08,0:08:37.83,Main Dialogue,Aoi,0000,0000,0000,,Loucura!
+Dialogue: 0,0:08:37.83,0:08:40.27,Main Dialogue,Hiina,0000,0000,0000,,Você está diferente ultimamente.\N Está tudo bem?
+Dialogue: 0,0:08:40.27,0:08:41.20,Main Dialogue,Koharu,0000,0000,0000,,Estou bem!
+Dialogue: 0,0:08:41.20,0:08:42.43,Main Dialogue,Yua,0000,0000,0000,,O Clube Tesaguri é seguro, certo?
+Dialogue: 0,0:08:42.43,0:08:44.45,Main Dialogue,Hiina,0000,0000,0000,,Sim. Se ela está diferente, \Ntenho certeza que tudo ficará bem,
+Dialogue: 0,0:08:44.45,0:08:47.04,Main Dialogue,Hiina,0000,0000,0000,,mesmo se um novo membro aparecer.
+Dialogue: 0,0:08:47.04,0:08:49.42,Main Dialogue,Koharu,0000,0000,0000,,Não, se conseguirmos \Num novo membro, ficarei séria.
+Dialogue: 0,0:08:49.42,0:08:51.58,Main Dialogue,Yua,0000,0000,0000,,Mas não consigo imaginar isso.
+Dialogue: 0,0:08:51.58,0:08:55.72,Main Dialogue,Koharu,0000,0000,0000,,Não posso virar adulta assim.
+Dialogue: 0,0:08:55.72,0:08:57.34,Main Dialogue,Yua,0000,0000,0000,,O que vai te fazer virar adulta?
+Dialogue: 0,0:08:57.34,0:09:01.64,Main Dialogue,Hiina,0000,0000,0000,,Boa pergunta. Acho que uma bronca.
+Dialogue: 0,0:09:01.64,0:09:04.91,Main Dialogue,Yua,0000,0000,0000,,Um segundo. Quem fará isso?
+Dialogue: 0,0:09:04.91,0:09:06.63,Main Dialogue,Koharu,0000,0000,0000,,Não sei, mas...
+Dialogue: 0,0:09:04.91,0:09:06.63,Main Dialogue Top,Aoi,0000,0000,0000,,Uma kouhai?
+Dialogue: 0,0:09:07.60,0:09:10.27,Main Dialogue,Hiina,0000,0000,0000,,Então imagine alguém te dando bronca.
+Dialogue: 0,0:09:13.12,0:09:14.99,Main Dialogue,Mobuko,0000,0000,0000,,Eu esqueci!
+Dialogue: 0,0:09:14.99,0:09:16.22,Main Dialogue,Mobuko,0000,0000,0000,,Quem são os Três Irmãos mesmo?
+Dialogue: 0,0:09:16.22,0:09:19.87,Main Dialogue,Mobuko,0000,0000,0000,,Jumbo, Jet, e quem era o terceiro?
+Dialogue: 0,0:09:19.87,0:09:21.79,Main Dialogue,Mobuko,0000,0000,0000,,Maru-chan?
+Dialogue: 0,0:09:21.79,0:09:23.53,Main Dialogue,Koharu,0000,0000,0000,,O que faremos hoje?
+Dialogue: 0,0:09:23.53,0:09:25.54,Main Dialogue,Yua,0000,0000,0000,,Pensei em juntar
+Dialogue: 0,0:09:25.54,0:09:27.14,Main Dialogue,Yua,0000,0000,0000,,enigmas com ginástica em grupo.
+Dialogue: 0,0:09:27.14,0:09:29.17,Main Dialogue,Koharu,0000,0000,0000,,Enigmas e ginástica em grupo?
+Dialogue: 0,0:09:29.17,0:09:32.05,Main Dialogue,Yua,0000,0000,0000,,Chamo de "Ginegmáticas"!
+Dialogue: 0,0:09:32.05,0:09:33.51,Main Dialogue,Aoi,0000,0000,0000,,É diferente!
+Dialogue: 0,0:09:33.51,0:09:34.43,Main Dialogue,Yua,0000,0000,0000,,Ok, vamos lá.
+Dialogue: 0,0:09:34.43,0:09:37.86,Main Dialogue,Yua,0000,0000,0000,,Acima, é uma enchente. \NAbaixo, é um incêndio. O que é?
+Dialogue: 0,0:09:41.26,0:09:43.93,Main Dialogue,Yua,0000,0000,0000,,A resposta é: Uma banheira!
+Dialogue: 0,0:09:43.93,0:09:47.68,Main Dialogue,Yua,0000,0000,0000,,Há uma entrada, mas três saídas. O que é?
+Dialogue: 0,0:09:51.61,0:09:54.32,Main Dialogue,Yua,0000,0000,0000,,A resposta é: Uma camiseta!
+Dialogue: 0,0:09:54.32,0:09:56.11,Main Dialogue,Yua,0000,0000,0000,,A última é fácil. Aqui está.
+Dialogue: 0,0:09:56.11,0:09:59.98,Main Dialogue,Yua,0000,0000,0000,,Que tipo de flor te louva logo cedo?
+Dialogue: 0,0:10:03.12,0:10:05.41,Main Dialogue,Yua,0000,0000,0000,,A resposta é: Glória-da-manhã!
+Dialogue: 0,0:10:05.41,0:10:09.29,Main Dialogue,Koharu,0000,0000,0000,,Enigmas são fáceis, mas conseguir \Na mesma resposta é difícil!
+Dialogue: 0,0:10:50.98,0:10:53.10,Main Dialogue,Aoi,0000,0000,0000,,Me pergunto como eles \Nvão te dar bronca.
+Dialogue: 0,0:10:53.10,0:10:56.54,Main Dialogue,Koharu,0000,0000,0000,,Estava pensando em \N"Pare de fazer barulho quando fala!"
+Dialogue: 0,0:10:54.41,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:54.41,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Revisão Episódio 11\N{\fs24}Amor Secreto
+Dialogue: 0,0:10:54.41,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:56.54,0:10:58.30,Main Dialogue,Hiina,0000,0000,0000,,"Pare com esse barulho!"
+Dialogue: 0,0:10:58.30,0:11:02.08,Main Dialogue,Hiina,0000,0000,0000,,E eles também ficam bravos com \No significado das palavras.
+Dialogue: 0,0:11:02.08,0:11:03.35,Main Dialogue,Koharu,0000,0000,0000,,Verdade.
+Dialogue: 0,0:11:03.35,0:11:05.64,Main Dialogue,Yua,0000,0000,0000,,"O que diabos é donchiki?"

@@ -1,0 +1,250 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H00C9038C,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H000000A3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0078,0020,0030,1
+Style: Next Episode 2,Arial,18,&H00FFFFFF,&H000000FF,&H000000A3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0075,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H000000A3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Recruit Sign,Arial,18,&H006A00BC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0020,0030,0105,1
+Style: Tesaguri Club,Comic Sans MS,24,&H00000000,&H000000FF,&H00E9E9E9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0040,0020,0120,1
+Style: Graduation Sign,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0350,0060,1
+Style: Recruit Sign 1,Arial,16,&H000F0F57,&H000000FF,&H007296B0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0025,0020,0070,1
+Style: Recruit Sign 2,Arial,17,&H006A00BC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0030,0098,1
+Style: Recruit Sign 3,Arial,15,&H00A16952,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0015,0078,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:05.80,0:00:10.31,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Revisão Episódio 1\N{\fs22}Sem Escapatória
+Dialogue: 0,0:00:09.04,0:00:11.63,Italics Dialogue,Koharu,0000,0000,0000,,Meu nome é Tanaka Koharu.
+Dialogue: 0,0:00:11.63,0:00:13.16,Italics Dialogue,Koharu,0000,0000,0000,,Meu aniversário é em Março,
+Dialogue: 0,0:00:13.16,0:00:17.29,Italics Dialogue,Koharu,0000,0000,0000,,me dizem que as cerejeiras estavam \Nfloridas quando nasci.
+Dialogue: 0,0:00:17.29,0:00:19.63,Italics Dialogue,Koharu,0000,0000,0000,,Aparentemente, o nome "Koharu" vem da
+Dialogue: 0,0:00:19.63,0:00:22.46,Italics Dialogue,Koharu,0000,0000,0000,,estação das cerejeiras, "haru",\N na língua das flores.
+Dialogue: 0,0:00:22.46,0:00:24.27,Italics Dialogue,Koharu,0000,0000,0000,,É o que minha avó me disse.
+Dialogue: 0,0:00:25.51,0:00:29.11,Italics Dialogue,Koharu,0000,0000,0000,,Um ano atrás, quando as cerejeiras \Ncomeçaram a mudar de novo
+Dialogue: 0,0:00:29.11,0:00:32.77,Italics Dialogue,Koharu,0000,0000,0000,,de um lindo rosa para um \Nverde-amarelado inocente,
+Dialogue: 0,0:00:32.77,0:00:36.93,Italics Dialogue,Koharu,0000,0000,0000,,eu ingressei nessa escola particular, \No Colégio Tosei.
+Dialogue: 0,0:00:36.93,0:00:40.31,Italics Dialogue,Koharu,0000,0000,0000,,Sempre tive um complexo de ser \Ncomum e sem individualidade,
+Dialogue: 0,0:00:36.93,0:00:41.48,Recruit Sign,Sign,0000,0000,0000,,Recrutando Novos Alunos
+Dialogue: 0,0:00:40.31,0:00:43.98,Italics Dialogue,Koharu,0000,0000,0000,,mas, mesmo resolvida de que entraria \Nem um clube no ensino médio
+Dialogue: 0,0:00:43.98,0:00:46.11,Italics Dialogue,Koharu,0000,0000,0000,,que faria eu me achar,
+Dialogue: 0,0:00:46.11,0:00:49.94,Italics Dialogue,Koharu,0000,0000,0000,,me vi membro de um clube estranho.
+Dialogue: 0,0:00:49.94,0:00:52.33,Italics Dialogue,Koharu,0000,0000,0000,,O nome do clube é "Clube Tesaguri"
+Dialogue: 0,0:00:52.33,0:00:54.19,Flashback Dialogue,Koharu,0000,0000,0000,,Eu não entendo!
+Dialogue: 0,0:00:53.69,0:00:55.74,Tesaguri Club,Sign,0000,0000,0000,,Clube Tesaguri
+Dialogue: 0,0:00:54.19,0:00:55.83,Italics Dialogue,Koharu,0000,0000,0000,,Mais tarde, descobri que era chamado
+Dialogue: 0,0:00:55.83,0:01:00.36,Italics Dialogue,Koharu,0000,0000,0000,,"Clube das Atividades Incertas\N na Primavera" antes.
+Dialogue: 0,0:01:00.36,0:01:03.95,Italics Dialogue,Koharu,0000,0000,0000,,Não é comum um clube mudar de \Nnome todo ano, certo?
+Dialogue: 0,0:01:03.95,0:01:07.04,Italics Dialogue,Koharu,0000,0000,0000,,Mas não é um clube oficial.
+Dialogue: 0,0:01:07.04,0:01:11.14,Italics Dialogue,Koharu,0000,0000,0000,,O Clube Tesaguri era pequeno, \Ncom apenas três pessoas,
+Dialogue: 0,0:01:11.14,0:01:14.51,Italics Dialogue,Koharu,0000,0000,0000,,duas do terceiro ano e uma do segundo.
+Dialogue: 0,0:01:14.51,0:01:18.96,Italics Dialogue,Koharu,0000,0000,0000,,A atividade do nosso clube era \Npensar em clubes diferentes.
+Dialogue: 0,0:01:18.96,0:01:23.12,Italics Dialogue,Koharu,0000,0000,0000,,Mas depois, me disseram que \Na verdadeira atividade do clube
+Dialogue: 0,0:01:23.12,0:01:28.85,Italics Dialogue,Koharu,0000,0000,0000,,era tentar descobrir o que os novos \Nmembros precisavam ter.
+Dialogue: 0,0:01:30.17,0:01:32.47,Italics Dialogue,Koharu,0000,0000,0000,,A Suzuki Yua-senpai era a líder.
+Dialogue: 0,0:01:32.47,0:01:35.64,Italics Dialogue,Koharu,0000,0000,0000,,Apesar de ter energia, não se podia contar com ela,
+Dialogue: 0,0:01:35.64,0:01:38.91,Italics Dialogue,Koharu,0000,0000,0000,,e olhá-la me deixava um pouco nervosa.
+Dialogue: 0,0:01:38.91,0:01:41.18,Italics Dialogue,Koharu,0000,0000,0000,,Quando pressionada,
+Dialogue: 0,0:01:41.18,0:01:45.05,Italics Dialogue,Koharu,0000,0000,0000,,ela tentava se safar dançando.
+Dialogue: 0,0:01:45.05,0:01:47.33,Italics Dialogue,Koharu,0000,0000,0000,,E, por algum motivo, ela gostava \Nde ser pervertida.
+Dialogue: 0,0:01:49.43,0:01:51.92,Italics Dialogue,Koharu,0000,0000,0000,,A Sato Hina-senpai era a vice.
+Dialogue: 0,0:01:51.92,0:01:55.22,Italics Dialogue,Koharu,0000,0000,0000,,Aparentemente, ela e Yua-senpai \Nsão amigas de infância.
+Dialogue: 0,0:01:55.22,0:01:57.89,Italics Dialogue,Koharu,0000,0000,0000,,Hiina-senpai era o oposto de Yua-senpai.
+Dialogue: 0,0:01:57.89,0:02:03.46,Italics Dialogue,Koharu,0000,0000,0000,,Era calma, bem informada e\N tinha um ar misterioso.
+Dialogue: 0,0:02:03.46,0:02:08.95,Italics Dialogue,Koharu,0000,0000,0000,,Às vezes, era intimidadora e dizia \Nas piores palavras com um sorriso,
+Dialogue: 0,0:02:08.95,0:02:10.48,Italics Dialogue,Koharu,0000,0000,0000,,mas era bem confiável.
+Dialogue: 0,0:02:10.48,0:02:12.18,Flashback Dialogue,Hiina,0000,0000,0000,,Ok, eu vou.
+Dialogue: 0,0:02:13.11,0:02:15.33,Italics Dialogue,Koharu,0000,0000,0000,,A Takahashi Aoi-senpai era do segundo ano.
+Dialogue: 0,0:02:15.33,0:02:22.09,Italics Dialogue,Koharu,0000,0000,0000,,Descontraída, convencida, independente \Ne quer tudo do seu jeito.
+Dialogue: 0,0:02:22.09,0:02:27.21,Italics Dialogue,Koharu,0000,0000,0000,,Parece não gostar de meninos \Nnem meninas muito dependentes.
+Dialogue: 0,0:02:27.21,0:02:29.23,Italics Dialogue,Koharu,0000,0000,0000,,E ama trocadilhos.
+Dialogue: 0,0:02:30.85,0:02:34.04,Italics Dialogue,Koharu,0000,0000,0000,,Ela não parece ser mais velha que eu.
+Dialogue: 0,0:02:34.04,0:02:35.62,Flashback Dialogue,Koharu,0000,0000,0000,,É um trocadilho?
+Dialogue: 0,0:02:36.38,0:02:39.27,Italics Dialogue,Koharu,0000,0000,0000,,Cercada por essas meninas \Nde personalidades fortes,
+Dialogue: 0,0:02:39.27,0:02:43.37,Italics Dialogue,Koharu,0000,0000,0000,,explorei várias ideias de como \Nos clubes poderiam ser.
+Dialogue: 0,0:02:41.01,0:02:44.35,Black Signs,Hiina,0000,0000,0000,,{\an6}Grandes Irmãs
+Dialogue: 0,0:02:43.37,0:02:46.62,Flashback Dialogue,Hiina,0000,0000,0000,,Nos chame de irmãs, ok?
+Dialogue: 0,0:02:48.99,0:02:51.48,Flashback Dialogue,Yua,0000,0000,0000,,Que imagem vocês têm do clube de futebol?
+Dialogue: 0,0:02:51.48,0:02:52.56,Flashback Dialogue,Aoi,0000,0000,0000,,Bando de galãs!
+Dialogue: 0,0:02:53.49,0:02:56.57,Flashback Dialogue,Yua,0000,0000,0000,,De todos os clubes esportivos, \Neles são os mais estilosos.
+Dialogue: 0,0:02:56.57,0:03:00.67,Flashback Dialogue,Hiina,0000,0000,0000,,Quando tiram foto, seus braços estão \Nsempre nos ombros uns dos outros.
+Dialogue: 0,0:03:00.67,0:03:02.07,Flashback Dialogue,Yua,0000,0000,0000,,Todos alinhados, certo?
+Dialogue: 0,0:03:02.07,0:03:06.57,Flashback Dialogue,Aoi,0000,0000,0000,,E quando eles saem do treino, \Nsão super barulhentos, clack-clack!
+Dialogue: 0,0:03:06.57,0:03:07.83,Flashback Dialogue,Yua,0000,0000,0000,,São as chuteiras!
+Dialogue: 0,0:03:07.83,0:03:11.12,Flashback Dialogue,Aoi,0000,0000,0000,,São muitos jogadores. \NNão dói o ouvido quando passam?
+Dialogue: 0,0:03:11.12,0:03:12.58,Flashback Dialogue,Koharu,0000,0000,0000,,É verdade.
+Dialogue: 0,0:03:12.58,0:03:15.10,Flashback Dialogue,Yua,0000,0000,0000,,E quando estão carregando o gol, \Nsempre tem um que te faz pensar
+Dialogue: 0,0:03:15.10,0:03:17.05,Flashback Dialogue,Yua,0000,0000,0000,,"aquela parte nem é pesada!"
+Dialogue: 0,0:03:17.05,0:03:19.40,Flashback Dialogue,Hiina,0000,0000,0000,,O peso não está na barra mais longa.
+Dialogue: 0,0:03:19.40,0:03:21.34,Flashback Dialogue,Aoi,0000,0000,0000,,Não tem motivo para segurar ali.
+Dialogue: 0,0:03:21.80,0:03:23.68,Flashback Dialogue,Yua,0000,0000,0000,,Oh, o clube de ciclismo.
+Dialogue: 0,0:03:23.68,0:03:25.39,Flashback Dialogue,Yua,0000,0000,0000,,Que imagem vocês têm deles?
+Dialogue: 0,0:03:25.39,0:03:26.11,Flashback Dialogue,Aoi,0000,0000,0000,,São rápidos!
+Dialogue: 0,0:03:26.93,0:03:29.18,Flashback Dialogue,Koharu,0000,0000,0000,,É um esporte competitivo de velocidade!
+Dialogue: 0,0:03:29.18,0:03:32.82,Flashback Dialogue,Yua,0000,0000,0000,,Sim, eles são rápidos, \Nmas também aparentam rapidez.
+Dialogue: 0,0:03:32.82,0:03:34.10,Flashback Dialogue,Koharu,0000,0000,0000,,Como assim?
+Dialogue: 0,0:03:34.10,0:03:36.38,Flashback Dialogue,Yua,0000,0000,0000,,Por exemplo, o design dos capacetes.
+Dialogue: 0,0:03:36.38,0:03:40.19,Flashback Dialogue,Yua,0000,0000,0000,,São únicos e dá aquela sensação de rapidez, não?
+Dialogue: 0,0:03:40.19,0:03:43.00,Flashback Dialogue,Aoi,0000,0000,0000,,Tenho certeza que se importam mais \Nem parecer rápidos do que ser!
+Dialogue: 0,0:03:43.00,0:03:45.91,Flashback Dialogue,Koharu,0000,0000,0000,,Eu... Eu não acho.
+Dialogue: 0,0:03:46.10,0:03:48.50,Flashback Dialogue,Koharu,0000,0000,0000,,Um clube do chá em mangá ou anime...
+Dialogue: 0,0:03:48.50,0:03:49.94,Flashback Dialogue,Koharu,0000,0000,0000,,Não sei nada de cabeça.
+Dialogue: 0,0:03:49.94,0:03:51.37,Flashback Dialogue,Aoi,0000,0000,0000,,Tem algum?
+Dialogue: 0,0:03:51.37,0:03:54.75,Flashback Dialogue,Hiina,0000,0000,0000,,Então por que não imaginamos um clube do chá
+Dialogue: 0,0:03:54.75,0:03:56.92,Flashback Dialogue,Hiina,0000,0000,0000,,de anime ou mangá?
+Dialogue: 0,0:03:56.92,0:03:59.64,Flashback Dialogue,Yua,0000,0000,0000,,O personagem principal é descendente do Sen no Rikyu?
+Dialogue: 0,0:03:59.64,0:04:00.79,Flashback Dialogue,Aoi,0000,0000,0000,,Consigo imaginar!
+Dialogue: 0,0:04:00.79,0:04:03.99,Flashback Dialogue,Aoi,0000,0000,0000,,E, às vezes, Sen no Rikyu surge como \Nespírito guardião para aconselhar!
+Dialogue: 0,0:04:03.99,0:04:07.89,Flashback Dialogue,Yua,0000,0000,0000,,E consigo imaginar um estrangeiro como membro \Nque é especialista em cultura japonesa.
+Dialogue: 0,0:04:07.89,0:04:09.26,Flashback Dialogue,Koharu,0000,0000,0000,,Consigo imaginar!
+Dialogue: 0,0:04:09.26,0:04:12.39,Flashback Dialogue,Koharu,0000,0000,0000,,E, por algum motivo, \Nele fala japonês diferente.
+Dialogue: 0,0:04:12.39,0:04:17.55,Flashback Dialogue,Aoi,0000,0000,0000,,E depois que um membro toma um gole \nde chá, um cenário incrível aparece.
+Dialogue: 0,0:04:17.55,0:04:18.90,Flashback Dialogue,Yua,0000,0000,0000,,Como nos programas culinários!
+Dialogue: 0,0:04:18.90,0:04:22.23,Flashback Dialogue,Hiina,0000,0000,0000,,"São... os Alpes Suíços.
+Dialogue: 0,0:04:22.23,0:04:26.10,Flashback Dialogue,Hiina,0000,0000,0000,,O cheiro das árvores... Sim, é verão!"
+Dialogue: 0,0:04:26.62,0:04:30.21,Flashback Dialogue,Koharu,0000,0000,0000,,Pelo menos o cenário devia ser japonês!
+Dialogue: 0,0:04:30.21,0:04:32.98,Flashback Dialogue,Yua,0000,0000,0000,,Certo, agora que compartilhamos \No que sabemos de clube do chá,
+Dialogue: 0,0:04:32.98,0:04:35.50,Flashback Dialogue,Yua,0000,0000,0000,,vamos tentar inventar um \N"clube do chá diferente"!
+Dialogue: 0,0:04:35.50,0:04:37.67,Flashback Dialogue,Yua,0000,0000,0000,,O "clube do chá diferente" da Hiina.
+Dialogue: 0,0:04:37.67,0:04:39.67,Flashback Dialogue,Hiina,0000,0000,0000,,Eles evitam tudo que tenha a ver com chá.
+Dialogue: 0,0:04:40.71,0:04:42.90,Flashback Dialogue,Koharu,0000,0000,0000,,Com palavras?
+Dialogue: 0,0:04:42.90,0:04:43.72,Flashback Dialogue,Hiina,0000,0000,0000,,Sim.
+Dialogue: 0,0:04:44.42,0:04:46.09,Flashback Dialogue,Hiina,0000,0000,0000,,Existe um clube do chá?
+Dialogue: 0,0:04:46.09,0:04:48.14,Flashback Dialogue,Hiina,0000,0000,0000,,Oh, qual a diferença?
+Dialogue: 0,0:04:48.14,0:04:50.43,Flashback Dialogue,Hiina,0000,0000,0000,,Quando as bolhas aparecem, elas ficam lá?
+Dialogue: 0,0:04:51.29,0:04:53.73,Flashback Dialogue,Hiina,0000,0000,0000,,Pensando bem, me pergunto o que \Ntem para o jantar hoje. Assim.
+Dialogue: 0,0:04:53.73,0:04:55.01,Flashback Dialogue,Aoi,0000,0000,0000,,Entendi.
+Dialogue: 0,0:04:55.01,0:04:56.99,Flashback Dialogue,Yua,0000,0000,0000,,É um clube suspeito.
+Dialogue: 0,0:04:56.99,0:04:58.63,Flashback Dialogue,Koharu,0000,0000,0000,,Sim. Parece que tem uma história interna.
+Dialogue: 0,0:04:58.63,0:05:01.52,Flashback Dialogue,Koharu,0000,0000,0000,,Parece que estão escondendo algo.
+Dialogue: 0,0:05:01.52,0:05:02.98,Flashback Dialogue,Yua,0000,0000,0000,,Não diriam nada, hein?
+Dialogue: 0,0:05:02.98,0:05:04.91,Flashback Dialogue,Hiina,0000,0000,0000,,Não sabem nem quem é o líder do clube.
+Dialogue: 0,0:05:04.91,0:05:05.83,Flashback Dialogue,Koharu,0000,0000,0000,,Não sabem?
+Dialogue: 0,0:05:05.83,0:05:06.91,Flashback Dialogue,Yua,0000,0000,0000,,Não sabem!
+Dialogue: 0,0:05:06.91,0:05:09.27,Flashback Dialogue,Yua,0000,0000,0000,,Se eu perguntasse "quem é o líder do clube?"
+Dialogue: 0,0:05:09.27,0:05:12.62,Flashback Dialogue,Hiina,0000,0000,0000,,Agora que lembrei, é hora de guardar a louça.
+Dialogue: 0,0:05:12.62,0:05:13.40,Flashback Dialogue,Aoi,0000,0000,0000,,É diferente.
+Dialogue: 0,0:05:13.60,0:05:14.31,Flashback Dialogue,Yua,0000,0000,0000,,É diferente.
+Dialogue: 0,0:05:14.31,0:05:18.25,Flashback Dialogue,Yua,0000,0000,0000,,Certo, o "clube de tênis diferente" da Koharun!
+Dialogue: 0,0:05:18.25,0:05:22.17,Flashback Dialogue,Koharu,0000,0000,0000,,Se eles esquentam a bola, algo nasce!
+Dialogue: 0,0:05:24.36,0:05:31.97,Flashback Dialogue,Koharu,0000,0000,0000,,Ah, é tipo um ovo, se eles mantiverem \Naquecido uma criatura nasce.
+Dialogue: 0,0:05:31.97,0:05:34.61,Flashback Dialogue,Hiina,0000,0000,0000,,E o que acontece?
+Dialogue: 0,0:05:34.61,0:05:36.65,Flashback Dialogue,Koharu,0000,0000,0000,,Nasce uma nova vida!
+Dialogue: 0,0:05:36.65,0:05:38.59,Flashback Dialogue,Koharu,0000,0000,0000,,Oh, você diz depois...
+Dialogue: 0,0:05:38.59,0:05:39.99,Flashback Dialogue,Yua,0000,0000,0000,,Ela não quis dizer isso.
+Dialogue: 0,0:05:40.55,0:05:42.90,Flashback Dialogue,Aoi,0000,0000,0000,,"Nasce uma nova vida", isso nós entendemos!
+Dialogue: 0,0:05:43.41,0:05:46.86,Flashback Dialogue,Yua,0000,0000,0000,,O "clube do jornal diferente" da Aoi.
+Dialogue: 0,0:05:46.86,0:05:51.79,Flashback Dialogue,Aoi,0000,0000,0000,,O jornal nunca é lançado no dia certo porque \nos membros estão sempre dormindo.
+Dialogue: 0,0:05:51.79,0:05:53.37,Flashback Dialogue,Aoi,0000,0000,0000,,É o jornal soneca.
+Dialogue: 0,0:05:53.37,0:05:54.40,Flashback Dialogue,Yua,0000,0000,0000,,Que horror!
+Dialogue: 0,0:05:54.40,0:05:56.29,Flashback Dialogue,Aoi,0000,0000,0000,,Soneca!
+Dialogue: 0,0:05:57.23,0:05:59.16,Flashback Dialogue,Koharu,0000,0000,0000,,Eu entendi, Aoi-senpai!
+Dialogue: 0,0:05:59.16,0:06:01.15,Flashback Dialogue,Aoi,0000,0000,0000,,Jornal! Jornal soneca!
+Dialogue: 0,0:06:01.15,0:06:01.99,Flashback Dialogue,Yua,0000,0000,0000,,Koharun, você entendeu?
+Dialogue: 0,0:06:01.99,0:06:03.88,Flashback Dialogue,Koharu,0000,0000,0000,,Entendi.
+Dialogue: 0,0:06:03.88,0:06:06.10,Flashback Dialogue,Koharu,0000,0000,0000,,Mas é muito irresponsável da parte deles.
+Dialogue: 0,0:06:06.10,0:06:08.43,Flashback Dialogue,Koharu,0000,0000,0000,,Deixar o jornal sair atrasado...
+Dialogue: 0,0:06:08.43,0:06:12.14,Flashback Dialogue,Hiina,0000,0000,0000,,Ah, acho que você não precisa \Nlevar a piada dela a sério...
+Dialogue: 0,0:06:12.14,0:06:15.56,Flashback Dialogue,Aoi,0000,0000,0000,,Estou surpresa. Não imaginei que haveria discussão.
+Dialogue: 0,0:06:15.56,0:06:17.31,Flashback Dialogue,Yua,0000,0000,0000,,Ok, um "clube de ciclismo diferente"!
+Dialogue: 0,0:06:17.31,0:06:27.32,Flashback Dialogue,Yua,0000,0000,0000,,Hm, as coxas deles são enormes, \Nentão eles fazem um torneio de coxas...
+Dialogue: 0,0:06:30.07,0:06:33.54,Flashback Dialogue,Yua,0000,0000,0000,,As coxas batem umas nas outras...
+Dialogue: 0,0:06:33.54,0:06:36.25,Flashback Dialogue,Hiina,0000,0000,0000,,Do que está falando?
+Dialogue: 0,0:06:36.87,0:06:40.08,Flashback Dialogue,Hiina,0000,0000,0000,,E "um clube de beisebol que funciona \Ncomo um jogo de cortar melancia"?
+Dialogue: 0,0:06:40.08,0:06:41.83,Flashback Dialogue,Koharu,0000,0000,0000,,Hã?! O que isso quer dizer?!
+Dialogue: 0,0:06:41.83,0:06:43.04,Flashback Dialogue,Aoi,0000,0000,0000,,É diferente!
+Dialogue: 0,0:06:43.04,0:06:44.95,Flashback Dialogue,Koharu,0000,0000,0000,,Direita! Mais alto!
+Dialogue: 0,0:06:44.95,0:06:46.39,Flashback Dialogue,Koharu,0000,0000,0000,,Preparar...
+Dialogue: 0,0:06:48.01,0:06:49.47,Flashback Dialogue,Koharu,0000,0000,0000,,Tarde demais!
+Dialogue: 0,0:06:50.18,0:06:51.85,Flashback Dialogue,Aoi,0000,0000,0000,,Onde está?! Onde está?!
+Dialogue: 0,0:06:51.85,0:06:53.76,Flashback Dialogue,Koharu,0000,0000,0000,,Aoi-senpai, esquerda! Esquerda!
+Dialogue: 0,0:06:53.76,0:06:54.76,Flashback Dialogue,Koharu,0000,0000,0000,,Prepare-se!
+Dialogue: 0,0:06:54.76,0:06:56.27,Flashback Dialogue,Koharu,0000,0000,0000,,Ok, pule!
+Dialogue: 0,0:06:57.14,0:06:59.02,Flashback Dialogue,Koharu,0000,0000,0000,,Tão perto!
+Dialogue: 0,0:06:59.56,0:07:01.27,Flashback Dialogue,Koharu,0000,0000,0000,,O que faremos hoje?
+Dialogue: 0,0:07:01.27,0:07:03.90,Flashback Dialogue,Yua,0000,0000,0000,,Chamo de "orquestra da imitação"!
+Dialogue: 0,0:07:03.90,0:07:04.98,Flashback Dialogue,Aoi,0000,0000,0000,,É diferente!
+Dialogue: 0,0:07:04.98,0:07:07.48,Flashback Dialogue,Yua,0000,0000,0000,,Assoprem quando o maestro mandar.
+Dialogue: 0,0:07:15.37,0:07:17.45,Flashback Dialogue,Yua,0000,0000,0000,,Yokozuna quando era criança.
+Dialogue: 0,0:07:28.09,0:07:29.79,Flashback Dialogue,Koharu,0000,0000,0000,,É muito difícil!
+Dialogue: 0,0:07:31.22,0:07:32.93,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Revisão Episódio 1\N{\fs22}Sem Escapatória
+Dialogue: 0,0:07:32.55,0:07:35.51,Graduation Sign,Sign,0000,0000,0000,,{\fad(500,1)}58ª \NCerimônia \NGraduação
+Dialogue: 0,0:07:33.12,0:07:35.09,Italics Dialogue,Koharu,0000,0000,0000,,As estações mudaram,
+Dialogue: 0,0:07:35.09,0:07:38.41,Italics Dialogue,Koharu,0000,0000,0000,,e o dia da formatura da Yua-senpai e da Hiina-senpai finalmente chegou.
+Dialogue: 0,0:07:38.41,0:07:40.39,Flashback Dialogue,Aoi,0000,0000,0000,,Graduação, hein?
+Dialogue: 0,0:07:40.39,0:07:42.55,Flashback Dialogue,Koharu,0000,0000,0000,,Parabéns!
+Dialogue: 0,0:07:42.55,0:07:46.27,Flashback Dialogue,Hiina,0000,0000,0000,,Agora que pensei nisso, Koharun, \Nvocê achou um clube que queira entrar?
+Dialogue: 0,0:07:46.27,0:07:51.13,Flashback Dialogue,Yua,0000,0000,0000,,Na verdade, continuar procurando um clube \Ndiferente é o objetivo desse clube.
+Dialogue: 0,0:07:51.13,0:07:53.37,Flashback Dialogue,Hiina,0000,0000,0000,,Parece que a pessoa que criou o clube
+Dialogue: 0,0:07:53.37,0:07:58.66,Flashback Dialogue,Hiina,0000,0000,0000,,valorizava mais "com quem passamos \No tempo" do que "o que fazemos".
+Dialogue: 0,0:07:58.66,0:08:01.36,Flashback Dialogue,Yua,0000,0000,0000,,Antes, o próximo líder do grupo será nomeado.
+Dialogue: 0,0:08:02.53,0:08:04.77,Flashback Dialogue,Yua,0000,0000,0000,,A próxima líder é você, Aoi.
+Dialogue: 0,0:08:05.42,0:08:08.63,Flashback Dialogue,Yua,0000,0000,0000,,Na língua das flores, uma dafne falsa \Nsignifica mudança de geração.
+Dialogue: 0,0:08:08.63,0:08:10.33,Flashback Dialogue,Hiina,0000,0000,0000,,Você é a próxima vice líder, Koharun.
+Dialogue: 0,0:08:11.38,0:08:14.58,Flashback Dialogue,Hiina,0000,0000,0000,,A flor presa aqui é uma videira,
+Dialogue: 0,0:08:14.58,0:08:17.64,Flashback Dialogue,Hiina,0000,0000,0000,,que significa "junto com você"\N na língua das flores.
+Dialogue: 0,0:08:17.64,0:08:21.05,Flashback Dialogue,Yua,0000,0000,0000,,Obrigada, nossos últimos 12 meses foram \Num tesouro que não esqueceremos.
+Dialogue: 0,0:08:21.05,0:08:22.36,Flashback Dialogue,Yua,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:08:22.36,0:08:26.52,Flashback Dialogue,Hiina,0000,0000,0000,,Por favor, tomem conta desse \Nclube que amamos.
+Dialogue: 0,0:08:27.60,0:08:30.76,Flashback Dialogue,Koharu,0000,0000,0000,,Yua-senpai... Hiina-senpai...
+Dialogue: 0,0:08:31.52,0:08:33.65,Flashback Dialogue,Koharu,0000,0000,0000,,Por favor, não se formem!
+Dialogue: 0,0:08:33.65,0:08:39.64,Main Dialogue,Koharu,0000,0000,0000,,Os primeiros 12 meses do ensino médio pareceram\N longos, mas terminaram antes do que imaginei.
+Dialogue: 0,0:08:39.64,0:08:42.19,Main Dialogue,Koharu,0000,0000,0000,,E a partir de agora, quero passar \Npara frente o tesouro
+Dialogue: 0,0:08:42.19,0:08:46.06,Main Dialogue,Koharu,0000,0000,0000,,que herdei das minhas líderes \Naos novos membros.
+Dialogue: 0,0:08:50.50,0:08:53.89,Main Dialogue,Koharu,0000,0000,0000,,Fico preocupada se encontraremos \Nnovas pessoas, sabe?
+Dialogue: 0,0:08:53.89,0:08:56.84,Main Dialogue,Koharu,0000,0000,0000,,Espero que consigamos novas pessoas...
+Dialogue: 0,0:08:56.84,0:09:00.68,Main Dialogue,Aoi,0000,0000,0000,,Senpai... Gravata...
+Dialogue: 0,0:09:00.68,0:09:02.68,Main Dialogue,Koharu,0000,0000,0000,,Ei, Aoi-senpai!
+Dialogue: 0,0:09:00.68,0:09:10.69,Recruit Sign 1,Sign,0000,0000,0000,,Novos Alunos \NBem-vindos!
+Dialogue: 0,0:09:00.68,0:09:10.69,Recruit Sign 2,Sign,0000,0000,0000,,Recrutando Novos Alunos
+Dialogue: 0,0:09:00.68,0:09:10.69,Recruit Sign 3,Sign,0000,0000,0000,,Calouros Bem-vindos
+Dialogue: 0,0:09:02.68,0:09:05.13,Main Dialogue,Koharu,0000,0000,0000,,Aoi-senpai, acorde!
+Dialogue: 0,0:09:06.87,0:09:10.69,Main Dialogue,Koharu,0000,0000,0000,,Vamos, convidar alunos novos é importante!
+Dialogue: 0,0:09:10.69,0:09:12.78,Main Dialogue,Koharu,0000,0000,0000,,Você é a líder, recomponha-se!
+Dialogue: 0,0:09:12.78,0:09:16.78,Main Dialogue,Aoi,0000,0000,0000,,É mesmo. Outros 12 meses estão começando.
+Dialogue: 0,0:09:16.78,0:09:20.74,Main Dialogue,Koharu,0000,0000,0000,,Nesse ritmo, os outros clubes vão roubar \Ntodos os bons calouros.
+Dialogue: 0,0:09:21.82,0:09:23.48,Main Dialogue,Aoi,0000,0000,0000,,Mas que tipo devemos procurar?
+Dialogue: 0,0:09:23.48,0:09:24.68,Main Dialogue,Koharu,0000,0000,0000,,"Que tipo"?
+Dialogue: 0,0:09:24.68,0:09:27.25,Main Dialogue,Koharu,0000,0000,0000,,Quer dizer meninos ou meninas?
+Dialogue: 0,0:09:27.25,0:09:28.53,Main Dialogue,Aoi,0000,0000,0000,,Não, isso não.
+Dialogue: 0,0:09:28.53,0:09:32.54,Main Dialogue,Aoi,0000,0000,0000,,Nesse tipo de anime escolar tem um padrão \Nonde os personagens principais envelhecem
+Dialogue: 0,0:09:32.54,0:09:36.47,Main Dialogue,Aoi,0000,0000,0000,,e o tipo que não envelhece, \Nindependente do tempo, sabe?
+Dialogue: 0,0:09:36.47,0:09:39.53,Main Dialogue,Koharu,0000,0000,0000,,O quê?! Padrão onde não envelhecem?
+Dialogue: 0,0:09:39.53,0:09:42.97,Main Dialogue,Koharu,0000,0000,0000,,S-Sim, você vê muito disso em \Nmangá e anime, mas...
+Dialogue: 0,0:09:42.97,0:09:45.50,Main Dialogue,Aoi,0000,0000,0000,,Eu estava pensando, já que podemos, \Ndevíamos escolher o que não envelhece,
+Dialogue: 0,0:09:45.50,0:09:48.11,Main Dialogue,Aoi,0000,0000,0000,,e tentar começar de novo!
+Dialogue: 0,0:09:48.11,0:09:50.86,Main Dialogue,Koharu,0000,0000,0000,,Aoi-senpai, você faz muito o que quer!
+Dialogue: 0,0:09:50.86,0:09:53.82,Main Dialogue,Koharu,0000,0000,0000,,Mas se podemos ter esse padrão...
+Dialogue: 0,0:09:53.82,0:09:55.86,Main Dialogue,Aoi,0000,0000,0000,,E então, líderes...
+Dialogue: 0,0:09:55.86,0:09:57.35,Main Dialogue,Aoi,0000,0000,0000,,Pelos próximos 12 meses...
+Dialogue: 0,0:09:57.35,0:09:59.51,Main Dialogue,Aoi & Koharu,0000,0000,0000,,Não vemos a hora de trabalhar com vocês!
+Dialogue: 0,0:10:00.17,0:10:02.99,Main Dialogue,Hiina,0000,0000,0000,,Esse é um daqueles episódios de "revisão", hein?
+Dialogue: 0,0:10:03.60,0:10:07.21,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,500)}Próximo Episódio
+Dialogue: 0,0:10:03.60,0:10:07.21,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,500)}Revisão Episódio 2\N{\fs24}Boa Fé Para Superar Todos Problemas
+Dialogue: 0,0:10:03.60,0:10:07.21,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,500)}Não perca!
+Dialogue: 0,0:10:55.58,0:10:57.10,Main Dialogue,Yua,0000,0000,0000,,Oh, isso mesmo, Koharun.
+Dialogue: 0,0:10:57.10,0:11:00.39,Main Dialogue,Yua,0000,0000,0000,,Desculpe por não ser confiável \Ne te deixar nervosa!
+Dialogue: 0,0:11:00.39,0:11:02.52,Main Dialogue,Hiina,0000,0000,0000,,Desculpa por te intimidar.
+Dialogue: 0,0:11:02.52,0:11:04.91,Main Dialogue,Koharu,0000,0000,0000,,Vocês conseguiram ouvir aquilo?!

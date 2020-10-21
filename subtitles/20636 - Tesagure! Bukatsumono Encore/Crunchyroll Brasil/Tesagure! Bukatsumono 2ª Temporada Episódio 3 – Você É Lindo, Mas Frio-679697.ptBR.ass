@@ -1,0 +1,275 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H00CB8C7A,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H007ECB7A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0048,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H007ECB7A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H007ECB7A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Tesaguri Club,Comic Sans MS,20,&H00000000,&H000000FF,&H00E9E9E9,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,0040,0020,0150,1
+Style: Disclaimer Sign,Arial,14,&H00FFFFFF,&H000000FF,&H008D3EBB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0060,1
+Style: Rabbit Sign,Arial,16,&H00505050,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0020,0020,0018,1
+Style: Disclaimer Sign 2,Arial,16,&H00FFFFFF,&H000000FF,&H008D3EBB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0020,0020,0070,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:59.78,0:01:04.62,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Revisão Episódio 3\N{\fs24}Você É Lindo, Mas Frio
+Dialogue: 0,0:01:00.57,0:01:05.06,Main Dialogue Top,Yua,0000,0000,0000,,Na verdade, querem que a gente se mexa \Npouco dessa vez também.
+Dialogue: 0,0:01:05.06,0:01:08.54,Main Dialogue Top,Koharu,0000,0000,0000,,Acho que as pessoas não iriam \Ngostar disso de novo.
+Dialogue: 0,0:01:08.54,0:01:11.86,Main Dialogue,Yua,0000,0000,0000,,Parece que vai funcionar se \Na gente escapar dessa vez,
+Dialogue: 0,0:01:08.54,0:01:15.01,Tesaguri Club,Sign,0000,0000,0000,,Clube Tesaguri
+Dialogue: 0,0:01:11.86,0:01:13.28,Main Dialogue,Yua,0000,0000,0000,,alguém tem alguma ideia?
+Dialogue: 0,0:01:13.28,0:01:13.72,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:01:13.72,0:01:15.01,Main Dialogue,Yua,0000,0000,0000,,Aoi!
+Dialogue: 0,0:01:15.01,0:01:17.93,Main Dialogue,Aoi,0000,0000,0000,,Reutilizar o conteúdo dos episódios anteriores!
+Dialogue: 0,0:01:17.93,0:01:19.34,Main Dialogue,Yua,0000,0000,0000,,Entendi!
+Dialogue: 0,0:01:19.34,0:01:21.25,Main Dialogue,Yua,0000,0000,0000,,Só ficamos no clube em todos os episódios,
+Dialogue: 0,0:01:21.25,0:01:22.95,Main Dialogue,Yua,0000,0000,0000,,então deve ser fácil reciclar conteúdo!
+Dialogue: 0,0:01:22.95,0:01:25.91,Main Dialogue,Koharu,0000,0000,0000,,Mas nossas expressões e movimentos \Nda boca dariam certo?
+Dialogue: 0,0:01:25.91,0:01:27.90,Main Dialogue,Koharu,0000,0000,0000,,E nossos uniformes de verão e inverno...
+Dialogue: 0,0:01:27.90,0:01:30.51,Main Dialogue,Aoi,0000,0000,0000,,Koharun! Quem liga para esses detalhes?
+Dialogue: 0,0:01:30.51,0:01:33.86,Main Dialogue,Yua,0000,0000,0000,,Pois é! O que importa é passar nosso humor!
+Dialogue: 0,0:01:33.86,0:01:35.53,Main Dialogue,Koharu,0000,0000,0000,,D-Desculpa...
+Dialogue: 0,0:01:35.53,0:01:39.93,Main Dialogue,Hiina,0000,0000,0000,,Consigo imaginá-los transmitindo desenhos \Nque não foram coloridos ainda
+Dialogue: 0,0:01:39.93,0:01:42.28,Main Dialogue,Hiina,0000,0000,0000,,e rascunhos bem grosseiros.
+Dialogue: 0,0:01:42.28,0:01:46.05,Main Dialogue,Yua,0000,0000,0000,,Certo, vamos tentar passar por isso dessa vez.
+Dialogue: 0,0:01:48.37,0:01:50.46,Main Dialogue,Yua,0000,0000,0000,,Com qual clube devíamos começar?
+Dialogue: 0,0:01:50.46,0:01:51.86,Main Dialogue,Hiina,0000,0000,0000,,Que tal o clube de judô?
+Dialogue: 0,0:01:51.86,0:01:54.80,Main Dialogue,Yua,0000,0000,0000,,Boa. Qual a imagem que vocês tem do clube...
+Dialogue: 0,0:01:54.80,0:01:56.17,Main Dialogue,Aoi,0000,0000,0000,,Homens irritantes e suados!
+Dialogue: 0,0:01:56.17,0:01:58.23,Main Dialogue,Yua,0000,0000,0000,,Verdade, eles parecem ter vários membros homens
+Dialogue: 0,0:01:58.23,0:02:00.05,Main Dialogue,Yua,0000,0000,0000,,que são jovens valentões com corpos grandes.
+Dialogue: 0,0:02:00.05,0:02:02.64,Main Dialogue,Koharu,0000,0000,0000,,E quando são meninas, só tem uma ou duas.
+Dialogue: 0,0:02:02.64,0:02:05.58,Main Dialogue,Hiina,0000,0000,0000,,Dizem que todo semestre tem uma briga \Npelos calouros grandes e altos
+Dialogue: 0,0:02:05.58,0:02:09.06,Main Dialogue,Hiina,0000,0000,0000,,entre os clubes de judô, vôlei e basquete.
+Dialogue: 0,0:02:09.06,0:02:13.62,Main Dialogue,Aoi,0000,0000,0000,,E eles vão para casa usando \Na faixa para todos verem,
+Dialogue: 0,0:02:13.62,0:02:19.24,Main Dialogue,Aoi,0000,0000,0000,,como quem diz "ei, eu faço judô", \Ntentando se exibir com a força.
+Dialogue: 0,0:02:19.24,0:02:22.12,Main Dialogue,Koharu,0000,0000,0000,,E-Eu acho que você está equivocada...
+Dialogue: 0,0:02:22.12,0:02:24.95,Main Dialogue,Hiina,0000,0000,0000,,Dizem que metade do chão \Nfica com tatami nos treinos,
+Dialogue: 0,0:02:24.95,0:02:29.53,Main Dialogue,Hiina,0000,0000,0000,,e a outra metade é usada pelo clube de kendo.
+Dialogue: 0,0:02:29.53,0:02:32.74,Main Dialogue,Yua,0000,0000,0000,,O treino de kendo é muito barulhento \Ncom as espadas de madeira e gritaria,
+Dialogue: 0,0:02:32.74,0:02:38.76,Main Dialogue,Yua,0000,0000,0000,,então vira uma batalha de vozes\N entre os dois clubes.
+Dialogue: 0,0:02:38.76,0:02:41.02,Main Dialogue,Koharu,0000,0000,0000,,Eu estava andando no corredor \Noutro dia e fui surpreendida
+Dialogue: 0,0:02:41.02,0:02:45.54,Main Dialogue,Koharu,0000,0000,0000,,por um judoca fazendo saudações\N especiais, do nada,
+Dialogue: 0,0:02:45.54,0:02:48.27,Main Dialogue,Koharu,0000,0000,0000,,para um mestre do clube, "Zasu!" e "Sai!".
+Dialogue: 0,0:02:48.27,0:02:50.70,Main Dialogue,Hiina,0000,0000,0000,,Eles são rígidos com saudações e treinos, \Nmas também coisas tipo
+Dialogue: 0,0:02:50.70,0:02:54.00,Main Dialogue,Hiina,0000,0000,0000,,"Tamura é ouro, Tani é ouro. \NO que você é?"
+Dialogue: 0,0:02:54.00,0:02:58.19,Main Dialogue,Hiina,0000,0000,0000,,Um costume onde eles fazem seus kouhais \Nparticiparem de um jogo de palavras.
+Dialogue: 0,0:02:58.75,0:03:00.70,Main Dialogue,Koharu,0000,0000,0000,,Eles têm esse costume?
+Dialogue: 0,0:03:00.70,0:03:04.97,Main Dialogue,Hiina,0000,0000,0000,,Ok, Yua. "Tamura é ouro, \NTani é ouro. O que você é?"
+Dialogue: 0,0:03:04.97,0:03:07.14,Main Dialogue,Yua,0000,0000,0000,,Eu sou... Eu sou...
+Dialogue: 0,0:03:07.14,0:03:07.82,Main Dialogue,Hiina,0000,0000,0000,,O quê?
+Dialogue: 0,0:03:07.82,0:03:09.37,Main Dialogue,Yua,0000,0000,0000,,Eu sou...
+Dialogue: 0,0:03:09.37,0:03:11.83,Main Dialogue,Yua,0000,0000,0000,,Cabelo... Dourado...
+Dialogue: 0,0:03:11.83,0:03:12.88,Main Dialogue,Yua,0000,0000,0000,,Cabelo dourado...
+Dialogue: 0,0:03:13.05,0:03:13.56,Main Dialogue,,0000,0000,0000,,Cabelo...
+Dialogue: 0,0:03:13.73,0:03:14.79,Main Dialogue,Koharu,0000,0000,0000,,Cabelo dourado...
+Dialogue: 0,0:03:14.79,0:03:16.73,Main Dialogue,Hiina,0000,0000,0000,,Seu personagem não é assim!
+Dialogue: 0,0:03:16.13,0:03:19.17,Black Signs,Sign,0000,0000,0000,,{\an9}{\c&H0000A3&}Suzuki Yua
+Dialogue: 0,0:03:18.25,0:03:23.14,Main Dialogue,Yua,0000,0000,0000,,Hiina, se "Tamura é ouro e \NTani é ouro, o que você é?"
+Dialogue: 0,0:03:23.14,0:03:24.43,Main Dialogue,Hiina,0000,0000,0000,,Sou "hin."
+Dialogue: 0,0:03:24.43,0:03:27.60,Main Dialogue,Hiina,0000,0000,0000,,"Hin" como meu nome e porque tenho classe.
+Dialogue: 0,0:03:27.60,0:03:28.72,Main Dialogue,Yua,0000,0000,0000,,Não "hinnyuu" de sem peito?
+Dialogue: 0,0:03:28.72,0:03:30.73,Main Dialogue,Hiina,0000,0000,0000,,Não use o "hin" errado.
+Dialogue: 0,0:03:31.43,0:03:33.18,Main Dialogue,Koharu,0000,0000,0000,,A Hiina-senpai está um pouco nervosa!
+Dialogue: 0,0:03:33.18,0:03:35.26,Main Dialogue,Hiina,0000,0000,0000,,Você está falando do meu eu interior!
+Dialogue: 0,0:03:35.26,0:03:36.99,Main Dialogue,Hiina,0000,0000,0000,,Estão falando do meu eu interior, certo?
+Dialogue: 0,0:03:36.99,0:03:38.11,Main Dialogue,Yua,0000,0000,0000,,Entendi.
+Dialogue: 0,0:03:38.11,0:03:39.95,Main Dialogue,Yua,0000,0000,0000,,Aoi,
+Dialogue: 0,0:03:39.95,0:03:43.66,Main Dialogue,Yua,0000,0000,0000,,"se Tamura é ouro e Tani \Né ouro, o que você é?"
+Dialogue: 0,0:03:44.65,0:03:45.32,Main Dialogue,Aoi,0000,0000,0000,,Quinta.
+Dialogue: 0,0:03:45.32,0:03:47.07,Main Dialogue,Hiina,0000,0000,0000,,Quinta?
+Dialogue: 0,0:03:47.07,0:03:48.33,Main Dialogue,Yua,0000,0000,0000,,Você gosta de quinta-feira?
+Dialogue: 0,0:03:49.66,0:03:51.15,Main Dialogue,Hiina,0000,0000,0000,,Ela disse o dia que gosta?
+Dialogue: 0,0:03:53.39,0:03:54.79,Main Dialogue,Koharu,0000,0000,0000,,É isso?
+Dialogue: 0,0:03:54.79,0:03:56.75,Main Dialogue,Yua,0000,0000,0000,,Entendi. Ok, e a Koharun?
+Dialogue: 0,0:03:56.75,0:03:57.96,Main Dialogue,Koharu,0000,0000,0000,,Eu não quero!
+Dialogue: 0,0:03:57.96,0:04:00.88,Main Dialogue,Yua,0000,0000,0000,,"Se Tamura é ouro e Tani é ouro, \No que você é, Koharun?"
+Dialogue: 0,0:04:00.88,0:04:03.26,Main Dialogue,Koharu,0000,0000,0000,,Ah, barras de ouro!
+Dialogue: 0,0:04:04.06,0:04:04.61,Main Dialogue,Aoi,0000,0000,0000,,Por quê?
+Dialogue: 0,0:04:04.61,0:04:05.54,Main Dialogue,Hiina,0000,0000,0000,,Como assim?
+Dialogue: 0,0:04:05.54,0:04:09.43,Main Dialogue,Koharu,0000,0000,0000,,Queria ser melhor que ouro. Barras de ouro!
+Dialogue: 0,0:04:09.43,0:04:12.02,Main Dialogue,Hiina,0000,0000,0000,,O que isso tem a ver com você, Koharun?
+Dialogue: 0,0:04:12.02,0:04:14.90,Main Dialogue,Koharu,0000,0000,0000,,Eu... Sou... Barras de ouro!
+Dialogue: 0,0:04:18.25,0:04:20.61,Main Dialogue,Koharu,0000,0000,0000,,Ah, estou sempre brilhando...
+Dialogue: 0,0:04:20.61,0:04:21.61,Main Dialogue,Aoi,0000,0000,0000,,Não diga isso!
+Dialogue: 0,0:04:21.61,0:04:23.24,Main Dialogue,Koharu,0000,0000,0000,,Eu brilho como barras de ouro...
+Dialogue: 0,0:04:23.24,0:04:24.07,Main Dialogue,Aoi,0000,0000,0000,,Não diga isso!
+Dialogue: 0,0:04:24.91,0:04:25.91,Main Dialogue,Aoi,0000,0000,0000,,Não diga isso!
+Dialogue: 0,0:04:26.95,0:04:27.65,Main Dialogue,Yua,0000,0000,0000,,Desculpa.
+Dialogue: 0,0:04:27.65,0:04:30.49,Main Dialogue,Yua,0000,0000,0000,,Isso é pior que qualquer trote, hein?
+Dialogue: 0,0:04:30.49,0:04:33.91,Main Dialogue,Hiina,0000,0000,0000,,Sim. Muita liberdade na resposta\N pode ser difícil.
+Dialogue: 0,0:04:33.91,0:04:37.15,Main Dialogue Top,Aoi,0000,0000,0000,,Mesmo quando treinam no inverno, pingam suor
+Dialogue: 0,0:04:34.50,0:04:40.67,Disclaimer Sign,Sign,0000,0000,0000,,{\fad(500,500)}Imagem meramente ilustrativa. Pode diferir da realidade.
+Dialogue: 0,0:04:37.15,0:04:39.74,Main Dialogue Top,Aoi,0000,0000,0000,,com vapor saindo de suas cabeças.
+Dialogue: 0,0:04:39.74,0:04:43.01,Main Dialogue Top,Aoi,0000,0000,0000,,Tipo "homem irritante fedorento com \Nsuor irritante ao máximo"!
+Dialogue: 0,0:04:43.47,0:04:46.51,Main Dialogue,Koharu,0000,0000,0000,,V-Você quis maximizar e voltou!
+Dialogue: 0,0:04:46.51,0:04:50.60,Main Dialogue,Hiina,0000,0000,0000,,Por algum motivo eles têm vários movimentos \Nnomeados a partir de crustáceos,
+Dialogue: 0,0:04:50.60,0:04:53.23,Main Dialogue,Hiina,0000,0000,0000,,tipo "caranguejo", "camarão" e "camarão opositor".
+Dialogue: 0,0:04:53.23,0:04:56.19,Rabbit Sign,Yua,0000,0000,0000,,Coelho
+Dialogue: 0,0:04:53.23,0:04:56.19,Main Dialogue,Yua,0000,0000,0000,,E eles querem "escapar para o lado" \Ne "arquear para trás".
+Dialogue: 0,0:04:56.19,0:04:57.71,Main Dialogue,Aoi,0000,0000,0000,,Credo! Não é muito indireto?
+Dialogue: 0,0:04:57.71,0:04:59.77,Main Dialogue,Aoi,0000,0000,0000,,É tipo, "e você se acha homem?"
+Dialogue: 0,0:04:59.77,0:05:03.32,Main Dialogue,Koharu,0000,0000,0000,,Mesmo você tendo reclamado do "suor masculino"?
+Dialogue: 0,0:05:03.32,0:05:05.45,Main Dialogue,Yua,0000,0000,0000,,Ok, e anime e mangá?
+Dialogue: 0,0:05:05.45,0:05:07.24,Main Dialogue,Aoi,0000,0000,0000,,Não tem suor masculino!
+Dialogue: 0,0:05:07.24,0:05:11.36,Main Dialogue,Koharu,0000,0000,0000,,Em compensação, a imagem do mangá é que \Ntem vários membros de cara limpa.
+Dialogue: 0,0:05:11.36,0:05:15.29,Main Dialogue,Yua,0000,0000,0000,,Mesmo com corpos pequenos, \Neles são flexíveis e rápidos.
+Dialogue: 0,0:05:15.29,0:05:19.13,Main Dialogue,Aoi,0000,0000,0000,,Mesmo assim, tem aqueles que não contam \Naos amigos que fazem judô.
+Dialogue: 0,0:05:19.13,0:05:22.08,Main Dialogue,Koharu,0000,0000,0000,,É mesmo! Então ele se envolve em \Num acidente de trânsito,
+Dialogue: 0,0:05:22.08,0:05:24.81,Main Dialogue,Koharu,0000,0000,0000,,mas por causa da sua incrível habilidade \Nde defesa, ele nem se arranha!
+Dialogue: 0,0:05:24.81,0:05:29.47,Main Dialogue,Koharu,0000,0000,0000,,"Foi sorte. Vamos sair daqui." \NEle tenta escapar assim.
+Dialogue: 0,0:05:29.47,0:05:32.75,Main Dialogue,Hiina,0000,0000,0000,,E no dia seguinte ele encontra \Num ladrão na cidade.
+Dialogue: 0,0:05:32.75,0:05:34.32,Main Dialogue,Hiina,0000,0000,0000,,Ele é flexível a ponto de aplicar um golpe,
+Dialogue: 0,0:05:34.32,0:05:38.31,Main Dialogue,Hiina,0000,0000,0000,,fazendo o cara desmaiar e revelando \Nseu segredo do judô.
+Dialogue: 0,0:05:38.31,0:05:39.61,Main Dialogue Top,Yua,0000,0000,0000,,"Você... O que foi..."
+Dialogue: 0,0:05:39.61,0:05:42.84,Main Dialogue Top,Hiina,0000,0000,0000,,"Por favor. Não conte a ninguém da escola."
+Dialogue: 0,0:05:39.61,0:05:47.40,Disclaimer Sign 2,Sign,0000,0000,0000,,{\fad(500,500)}Imagem meramente ilustrativa. Pode diferir da realidade.
+Dialogue: 0,0:05:42.84,0:05:46.40,Main Dialogue Top,Yua,0000,0000,0000,,...É o que ele diz, mas no dia seguinte\N a escola inteira sabe.
+Dialogue: 0,0:05:46.40,0:05:49.49,Main Dialogue Top,Hiina,0000,0000,0000,,Afinal, "não conte a ninguém" \Nsignifica "conte a todos".
+Dialogue: 0,0:05:49.49,0:05:52.42,Rabbit Sign,Sign,0000,0000,0000,,{\fs24}Coelho
+Dialogue: 0,0:05:49.67,0:05:54.68,Main Dialogue,Yua,0000,0000,0000,,Por algum motivo, toda série tem \Nalguém com "urso" no nome,
+Dialogue: 0,0:05:52.42,0:05:56.90,Black Signs,Sign,0000,0000,0000,,Iwakuma\N (Pedra-Urso)
+Dialogue: 0,0:05:54.68,0:05:57.02,Main Dialogue,Yua,0000,0000,0000,,ou um apelido com "urso".
+Dialogue: 0,0:05:57.02,0:06:00.65,Main Dialogue,Hiina,0000,0000,0000,,E não importa o quão liso ou inadequado \Npara lutas o corpo da pessoa seja,
+Dialogue: 0,0:06:00.65,0:06:02.46,Main Dialogue,Hiina,0000,0000,0000,,ele sempre ganha a medalha de ouro.
+Dialogue: 0,0:06:02.46,0:06:05.51,Main Dialogue,Yua,0000,0000,0000,,Ok! Vamos tentar pensar em \Num "clube de judô diferente"!
+Dialogue: 0,0:06:05.51,0:06:06.90,Main Dialogue,Hiina,0000,0000,0000,,Eu.
+Dialogue: 0,0:06:06.90,0:06:09.34,Main Dialogue,Yua,0000,0000,0000,,O "clube de judô diferente" da Hiina!
+Dialogue: 0,0:06:09.34,0:06:13.06,Main Dialogue,Hiina,0000,0000,0000,,Todos têm os nomes escritos à mão no uniforme.
+Dialogue: 0,0:06:13.06,0:06:17.69,Main Dialogue,Hiina,0000,0000,0000,,Escrevem como em caligrafia.
+Dialogue: 0,0:06:17.69,0:06:18.94,Main Dialogue,Aoi,0000,0000,0000,,Tipo "Donchiki Tanaka"?
+Dialogue: 0,0:06:22.36,0:06:24.44,Main Dialogue,Koharu,0000,0000,0000,,Esqueça o "donchiki"!
+Dialogue: 0,0:06:24.44,0:06:28.17,Main Dialogue,Koharu,0000,0000,0000,,E Tanaka é meu nome!
+Dialogue: 0,0:06:28.17,0:06:30.03,Main Dialogue,Yua,0000,0000,0000,,Você está irritadiça.
+Dialogue: 0,0:06:30.03,0:06:32.53,Main Dialogue,Koharu,0000,0000,0000,,É tipo "Donchiki Tanaka! \NEu amo caras bonitos".
+Dialogue: 0,0:06:30.12,0:06:32.53,Black Signs,Sign,0000,0000,0000,,{\an6}Donchiki Tanaka\NEu amo caras bonitos
+Dialogue: 0,0:06:32.98,0:06:33.43,Main Dialogue,Yua,0000,0000,0000,,Que má!
+Dialogue: 0,0:06:33.43,0:06:34.24,Main Dialogue,Aoi,0000,0000,0000,,Vá embora.
+Dialogue: 0,0:06:34.24,0:06:37.71,Main Dialogue,Koharu,0000,0000,0000,,"Que má." "Vá embora." Ei!
+Dialogue: 0,0:06:37.71,0:06:39.54,Main Dialogue,Hiina,0000,0000,0000,,Mas só membros faixa preta podem fazer isso.
+Dialogue: 0,0:06:40.20,0:06:40.91,Main Dialogue,Aoi,0000,0000,0000,,Que legal!
+Dialogue: 0,0:06:40.91,0:06:41.50,Main Dialogue,Yua,0000,0000,0000,,Consigo imaginar.
+Dialogue: 0,0:06:41.50,0:06:43.07,Main Dialogue,Koharu,0000,0000,0000,,É uma ótima diferença.
+Dialogue: 0,0:06:43.07,0:06:44.40,Main Dialogue,Yua,0000,0000,0000,,É diferente.
+Dialogue: 0,0:06:43.71,0:06:44.55,Main Dialogue Top,Aoi,0000,0000,0000,,Diferença
+Dialogue: 0,0:06:44.40,0:06:45.98,Main Dialogue,Yua,0000,0000,0000,,Então é assim.
+Dialogue: 0,0:06:45.50,0:06:46.13,Main Dialogue Top,Aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:45.98,0:06:48.25,Main Dialogue,Hiina,0000,0000,0000,,Donchiki Tanaka-san, alguma ideia?
+Dialogue: 0,0:06:48.25,0:06:52.01,Main Dialogue,Yua,0000,0000,0000,,Ok, o "clube de judô diferente" \Nda Donchiki Tanaka!
+Dialogue: 0,0:06:52.01,0:06:54.51,Main Dialogue,Koharu,0000,0000,0000,,Os nomes dos golpes são fofos!
+Dialogue: 0,0:06:54.51,0:06:55.06,Main Dialogue,Yua,0000,0000,0000,,Ok.
+Dialogue: 0,0:06:55.06,0:06:57.27,Main Dialogue,Koharu,0000,0000,0000,,Ah, "arremesso da alpaca"!
+Dialogue: 0,0:06:56.67,0:07:00.85,Black Signs,Sign,0000,0000,0000,,{\fs18}Arremesso da Alpaca\NChave do Clione \NCaída do Macaron
+Dialogue: 0,0:06:57.97,0:06:59.53,Main Dialogue,Koharu,0000,0000,0000,,"Chave do Clione"!
+Dialogue: 0,0:06:59.53,0:07:00.85,Main Dialogue,Koharu,0000,0000,0000,,"Caída do Macaron"!
+Dialogue: 0,0:07:01.35,0:07:03.40,Main Dialogue,Hiina,0000,0000,0000,,Como você derruba alguém com\N uma caída do macaron?
+Dialogue: 0,0:07:03.40,0:07:07.33,Main Dialogue,Koharu,0000,0000,0000,,Na caída do macaron, você segura os joelhos
+Dialogue: 0,0:07:07.33,0:07:09.90,Main Dialogue,Koharu,0000,0000,0000,,e boom! Derruba a pessoa de barriga.
+Dialogue: 0,0:07:12.29,0:07:14.86,Main Dialogue,Yua,0000,0000,0000,,Que golpe esquisito!
+Dialogue: 0,0:07:14.86,0:07:16.23,Main Dialogue,Yua,0000,0000,0000,,Você derruba o oponente de barriga?
+Dialogue: 0,0:07:16.23,0:07:17.83,Main Dialogue,Aoi,0000,0000,0000,,Surpreendente!
+Dialogue: 0,0:07:17.83,0:07:22.10,Main Dialogue,Koharu,0000,0000,0000,,O nome é fofo, mas o que você faz é violento.
+Dialogue: 0,0:07:22.10,0:07:22.86,Main Dialogue,Yua,0000,0000,0000,,É diferente.
+Dialogue: 0,0:07:22.86,0:07:24.70,Main Dialogue,Koharu,0000,0000,0000,,Sim, é diferente.
+Dialogue: 0,0:07:25.22,0:07:26.73,Main Dialogue,Yua,0000,0000,0000,,Ok, próximo... Alguém, ah...
+Dialogue: 0,0:07:26.73,0:07:27.68,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:07:27.68,0:07:30.05,Main Dialogue,Yua,0000,0000,0000,,O "clube de judô diferente" da Aoi!
+Dialogue: 0,0:07:30.05,0:07:33.76,Main Dialogue,Aoi,0000,0000,0000,,Todos têm que fazer seus arremessos \Ndo mesmo ângulo.
+Dialogue: 0,0:07:33.76,0:07:34.28,Main Dialogue,Yua,0000,0000,0000,,Ok.
+Dialogue: 0,0:07:34.28,0:07:35.51,Main Dialogue,Aoi,0000,0000,0000,,Que ângulo é esse?
+Dialogue: 0,0:07:35.51,0:07:36.56,Main Dialogue,Koharu,0000,0000,0000,,45 graus!
+Dialogue: 0,0:07:37.02,0:07:38.16,Main Dialogue,Hiina,0000,0000,0000,,Não é isso.
+Dialogue: 0,0:07:38.64,0:07:40.14,Main Dialogue,Aoi,0000,0000,0000,,Ju-dô! (Dez graus!)
+Dialogue: 0,0:07:41.60,0:07:42.47,Main Dialogue,Aoi,0000,0000,0000,,Porque é judô, entendeu?
+Dialogue: 0,0:07:42.47,0:07:44.20,Main Dialogue,Yua,0000,0000,0000,,Ótimo!
+Dialogue: 0,0:07:44.20,0:07:47.68,Main Dialogue,Koharu,0000,0000,0000,,Desculpa. Eu não entendi o \Nque Aoi-senpai quis dizer.
+Dialogue: 0,0:07:44.26,0:07:49.53,Black Signs,Sign,0000,0000,0000,,{\an7\pos(403,86)}Takahashi Aoi
+Dialogue: 0,0:07:47.68,0:07:48.65,Main Dialogue,Yua,0000,0000,0000,,Por que você disse "45 graus"?
+Dialogue: 0,0:07:48.65,0:07:49.53,Main Dialogue,Hiina,0000,0000,0000,,45 graus?
+Dialogue: 0,0:07:49.53,0:07:51.09,Main Dialogue,Koharu,0000,0000,0000,,Achei que era o maior...
+Dialogue: 0,0:07:51.09,0:07:51.77,Main Dialogue,Yua,0000,0000,0000,,Maior!
+Dialogue: 0,0:07:51.77,0:07:53.25,Main Dialogue,Aoi,0000,0000,0000,,45 graus é o maior?
+Dialogue: 0,0:07:53.25,0:07:56.01,Main Dialogue,Hiina,0000,0000,0000,,Na mente da Donchiki, é o maior.
+Dialogue: 0,0:07:56.01,0:07:58.67,Main Dialogue,Yua,0000,0000,0000,,Donchiki gosta de ângulos na metade, hã?
+Dialogue: 0,0:07:58.67,0:07:59.54,Main Dialogue,Aoi,0000,0000,0000,,Ju-dô!
+Dialogue: 0,0:07:59.54,0:08:01.04,Main Dialogue,Koharu,0000,0000,0000,,Entendi!
+Dialogue: 0,0:08:01.04,0:08:02.33,Main Dialogue,Yua,0000,0000,0000,,Ok, ok.
+Dialogue: 0,0:08:02.33,0:08:04.78,Main Dialogue,Yua,0000,0000,0000,,Meu "clube de judô diferente"!
+Dialogue: 0,0:08:04.78,0:08:06.97,Main Dialogue,Yua,0000,0000,0000,,Se o uniforme abrir e o peito aparecer,
+Dialogue: 0,0:08:06.97,0:08:12.08,Main Dialogue,Yua,0000,0000,0000,,você pode ver que estão usando adesivos \Nda cor da faixa nos mamilos.
+Dialogue: 0,0:08:15.79,0:08:16.60,Main Dialogue,Koharu,0000,0000,0000,,Eca!
+Dialogue: 0,0:08:16.60,0:08:20.22,Main Dialogue,Yua,0000,0000,0000,,Então quando o peito aparece, \No outro diz "Ah! Ele é faixa preta!"
+Dialogue: 0,0:08:20.98,0:08:22.31,Main Dialogue,Hiina,0000,0000,0000,,Eca!
+Dialogue: 0,0:08:23.11,0:08:25.86,Main Dialogue,Hiina,0000,0000,0000,,Pode dizer pelos adesivos que\N ele é faixa preta?
+Dialogue: 0,0:08:25.86,0:08:27.22,Main Dialogue,Aoi,0000,0000,0000,,Nojento.
+Dialogue: 0,0:08:27.22,0:08:29.26,Main Dialogue,Yua,0000,0000,0000,,Sim. Se ele é faixa marrom, \Nquando o peito aparece,
+Dialogue: 0,0:08:29.26,0:08:31.34,Main Dialogue,Yua,0000,0000,0000,,é tipo "E-Ele é faixa marrom!" Que tal?
+Dialogue: 0,0:08:32.03,0:08:33.07,Main Dialogue,Koharu,0000,0000,0000,,E branco?
+Dialogue: 0,0:08:33.07,0:08:35.02,Main Dialogue,Yua,0000,0000,0000,,Tipo, "Branco?! Vai ser fácil!"
+Dialogue: 0,0:08:35.74,0:08:37.78,Main Dialogue,Hiina,0000,0000,0000,,Donchiki Tanaka e Suzuki...
+Dialogue: 0,0:08:37.78,0:08:38.90,Main Dialogue,Hiina,0000,0000,0000,,Vamos dar um nome estranho.
+Dialogue: 0,0:08:38.90,0:08:40.17,Main Dialogue,Koharu,0000,0000,0000,,Donchiki Suzuki!
+Dialogue: 0,0:08:40.17,0:08:41.70,Main Dialogue,Yua,0000,0000,0000,,Esqueça!
+Dialogue: 0,0:08:41.70,0:08:42.87,Main Dialogue,Aoi,0000,0000,0000,,Adesivos Suzuki!
+Dialogue: 0,0:08:42.87,0:08:43.78,Main Dialogue,Yua,0000,0000,0000,,Não!
+Dialogue: 0,0:08:44.31,0:08:46.34,Main Dialogue,Aoi,0000,0000,0000,,Adesivos Suzuki! Adesivos Suzuki!
+Dialogue: 0,0:08:48.42,0:08:51.05,Main Dialogue,Hiina,0000,0000,0000,,Vamos colocar "Donchiki Tanaka \Ne Adesivos Suzuki" no final!
+Dialogue: 0,0:08:51.05,0:08:52.47,Main Dialogue,Yua,0000,0000,0000,,Não! Não mesmo!
+Dialogue: 0,0:08:51.78,0:08:54.54,Main Dialogue Top,Aoi,0000,0000,0000,,Adesivos Suzuki, eba!
+Dialogue: 0,0:08:55.93,0:08:58.45,Main Dialogue,Mobuko,0000,0000,0000,,Não consegui ler sua mensagem ontem.
+Dialogue: 0,0:08:58.45,0:09:01.89,Main Dialogue,Mobuko,0000,0000,0000,,Desculpa! Ficou embaixo de todos \Nos outros comentários.
+Dialogue: 0,0:09:01.89,0:09:05.83,Main Dialogue,Hiina,0000,0000,0000,,Os membros do clube de arte \Nfizeram isso para nós.
+Dialogue: 0,0:09:05.83,0:09:07.40,Main Dialogue,Koharu,0000,0000,0000,,O que é?
+Dialogue: 0,0:09:07.40,0:09:09.07,Main Dialogue,Yua,0000,0000,0000,,A Hiina teve a ideia de lutar judô
+Dialogue: 0,0:09:09.07,0:09:13.28,Main Dialogue,Yua,0000,0000,0000,,vestindo uniformes de coisas\N difíceis de arremessar.
+Dialogue: 0,0:09:13.28,0:09:14.24,Main Dialogue,Aoi,0000,0000,0000,,É diferente!
+Dialogue: 0,0:09:14.24,0:09:16.33,Main Dialogue,Yua,0000,0000,0000,,Ok, Koharun, tente arremessar a Hiina!
+Dialogue: 0,0:09:16.33,0:09:17.53,Main Dialogue,Koharu,0000,0000,0000,,Ok!
+Dialogue: 0,0:09:20.83,0:09:21.74,Main Dialogue,Koharu,0000,0000,0000,,Hã?
+Dialogue: 0,0:09:21.74,0:09:24.39,Main Dialogue,Koharu,0000,0000,0000,,Ela está pegajosa com algo, \Nnão consigo segurar.
+Dialogue: 0,0:09:24.39,0:09:28.46,Main Dialogue,Hiina,0000,0000,0000,,Estou vestindo um uniforme baseado\N em uma enguia.
+Dialogue: 0,0:09:28.93,0:09:31.13,Main Dialogue,Koharu,0000,0000,0000,,N-Não é justo!
+Dialogue: 0,0:09:31.13,0:09:33.12,Main Dialogue,Yua,0000,0000,0000,,Ok, tente me arremessar!
+Dialogue: 0,0:09:33.12,0:09:34.13,Main Dialogue,Koharu,0000,0000,0000,,Certo!
+Dialogue: 0,0:09:37.37,0:09:39.98,Main Dialogue,Koharu,0000,0000,0000,,O-O que é isso?!
+Dialogue: 0,0:09:39.98,0:09:44.60,Main Dialogue,Yua,0000,0000,0000,,Quando parece que serei arremessada, \Numa corrente elétrica passa pelo uniforme.
+Dialogue: 0,0:09:45.38,0:09:48.69,Main Dialogue,Koharu,0000,0000,0000,,Mas até você está sendo prejudicada \Npor vesti-lo, Yua-senpai!
+Dialogue: 0,0:09:48.69,0:09:51.17,Main Dialogue,Yua,0000,0000,0000,,Ok, Aoi, tente arremessar a Koharun.
+Dialogue: 0,0:09:51.17,0:09:51.93,Main Dialogue,Aoi,0000,0000,0000,,Certo!
+Dialogue: 0,0:09:54.52,0:09:56.06,Main Dialogue,Koharu,0000,0000,0000,,O-O que é isso?!
+Dialogue: 0,0:09:56.06,0:09:57.49,Main Dialogue,Aoi,0000,0000,0000,,Parece que rasgou.
+Dialogue: 0,0:09:57.49,0:09:59.55,Main Dialogue,Hiina,0000,0000,0000,,É um uniforme de judô feito de lenços.
+Dialogue: 0,0:09:59.55,0:10:01.29,Main Dialogue,Koharu,0000,0000,0000,,P-Por que lenços?!
+Dialogue: 0,0:10:03.15,0:10:05.08,Main Dialogue,Koharu,0000,0000,0000,,E-Ei, Aoi-senpai!
+Dialogue: 0,0:10:05.08,0:10:06.77,Main Dialogue,Yua,0000,0000,0000,,É difícil de arremessar, né?
+Dialogue: 0,0:10:07.89,0:10:09.17,Main Dialogue,Koharu,0000,0000,0000,,Ei, vamos...
+Dialogue: 0,0:10:09.17,0:10:11.12,Main Dialogue,Hiina,0000,0000,0000,,Segure-a por dentro!
+Dialogue: 0,0:10:11.89,0:10:15.01,Main Dialogue,Koharu,0000,0000,0000,,Parem de brincar!
+Dialogue: 0,0:10:58.22,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:10:58.22,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Revisão Episódio 4\N{\fs24}Você Não Pode Fingir
+Dialogue: 0,0:10:58.22,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
+Dialogue: 0,0:10:58.91,0:11:00.74,Main Dialogue,Koharu,0000,0000,0000,,Adesivos Suzuki!
+Dialogue: 0,0:11:00.74,0:11:02.36,Main Dialogue,Yua,0000,0000,0000,,Cale a boca, Donchiki!
+Dialogue: 0,0:11:02.36,0:11:04.79,Main Dialogue,Koharu,0000,0000,0000,,Eu sou donchiki, então cale-se você!

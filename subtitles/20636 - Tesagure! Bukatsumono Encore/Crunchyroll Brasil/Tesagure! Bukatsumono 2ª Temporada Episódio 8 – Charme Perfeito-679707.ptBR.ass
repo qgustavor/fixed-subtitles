@@ -1,0 +1,277 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Main Dialogue Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Flashback Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback Italics Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00400000,&H00400000,-1,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Episode Title,Arial,16,&H00FFFFFF,&H000000FF,&H002525BB,&H007A7A7A,0,0,0,0,100,100,0,0,1,2,0,3,0030,0060,0095,1
+Style: Next Episode 1,Arial,20,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0048,0020,0030,1
+Style: Next Episode 2,Arial,16,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0070,1
+Style: Next Episode 3,Arial,20,&H00FFFFFF,&H000000FF,&H00B963CF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0020,0100,0095,1
+Style: Black Signs,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Locust Sign,Arial,16,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0110,1
+Style: Festival Sign,Arial,20,&H00CD4FD3,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Tesagure Club Sign,Arial,18,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0020,0160,1
+Style: Song Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H0002662F,&H0002662F,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0055,1
+Style: Song Dialogue 2,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0002662F,&H0002662F,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0080,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:01.62,0:01:03.16,Main Dialogue Top,Yua,0000,0000,0000,,O festival escolar está chegando!
+Dialogue: 0,0:01:02.38,0:01:06.97,Episode Title,Sign,0000,0000,0000,,{\fad(500,500)}Revisão #8\N{\fs22}Charme Perfeito
+Dialogue: 0,0:01:03.16,0:01:06.82,Main Dialogue Top,Koharu,0000,0000,0000,,O Clube Tesaguri faz alguma \Ncoisa para o festival?
+Dialogue: 0,0:01:06.82,0:01:09.68,Main Dialogue Top,Yua,0000,0000,0000,,Acho que nunca fizemos algo especial...
+Dialogue: 0,0:01:09.68,0:01:11.63,Main Dialogue,Koharu,0000,0000,0000,,Eu gostaria de fazer algo.
+Dialogue: 0,0:01:11.63,0:01:12.92,Main Dialogue,Yua,0000,0000,0000,,Sim!
+Dialogue: 0,0:01:12.92,0:01:16.03,Main Dialogue,Hiina,0000,0000,0000,,Talvez não seja má ideia pensar \Nem algo que não seja clubes.
+Dialogue: 0,0:01:16.03,0:01:17.43,Main Dialogue,Yua,0000,0000,0000,,Você está certa.
+Dialogue: 0,0:01:17.43,0:01:20.60,Main Dialogue,Yua,0000,0000,0000,,Ok. Primeiro, que imagem vocês têm \Nde festivais escolares?
+Dialogue: 0,0:01:20.60,0:01:22.39,Main Dialogue,Aoi,0000,0000,0000,,Meninas controladoras são irritantes!
+Dialogue: 0,0:01:22.39,0:01:25.32,Main Dialogue,Yua,0000,0000,0000,,Sim, tem meninas controladoras que lideram
+Dialogue: 0,0:01:22.51,0:01:27.87,Signs,Sign,0000,0000,0000,,{\3c&H650585&}Festival Escolar
+Dialogue: 0,0:01:25.32,0:01:27.87,Main Dialogue,Yua,0000,0000,0000,,os preparativos da atividade da sala!
+Dialogue: 0,0:01:27.87,0:01:31.09,Main Dialogue,Aoi,0000,0000,0000,,Nessa época é irritante algumas \Nmeninas abusarem de maquiagem
+Dialogue: 0,0:01:31.09,0:01:34.67,Main Dialogue,Aoi,0000,0000,0000,,e trançarem os cabelos, não é?
+Dialogue: 0,0:01:34.67,0:01:37.11,Main Dialogue,Koharu,0000,0000,0000,,Bem, é um festival anual.
+Dialogue: 0,0:01:37.11,0:01:40.57,Main Dialogue,Yua,0000,0000,0000,,É raro meninas e meninos trabalharem juntos!
+Dialogue: 0,0:01:40.57,0:01:43.26,Main Dialogue,Koharu,0000,0000,0000,,É mesmo! Eles trabalham em algo
+Dialogue: 0,0:01:43.26,0:01:45.54,Main Dialogue,Koharu,0000,0000,0000,,que os aproxima de repente!
+Dialogue: 0,0:01:45.54,0:01:47.48,Main Dialogue,Aoi,0000,0000,0000,,É comum na empolgação do festival...
+Dialogue: 0,0:01:47.48,0:01:49.54,Main Dialogue,Aoi,0000,0000,0000,,Aí um acaba confessando seu amor!
+Dialogue: 0,0:01:49.54,0:01:51.52,Main Dialogue,Hiina,0000,0000,0000,,Aparentemente, 70% das vezes dá certo,
+Dialogue: 0,0:01:51.52,0:01:54.34,Main Dialogue,Hiina,0000,0000,0000,,mas a maioria dos casais \Ntermina em até dois meses.
+Dialogue: 0,0:01:54.34,0:01:57.20,Main Dialogue,Yua,0000,0000,0000,,A maioria dos clubes esportivos \Ntem barracas de comida!
+Dialogue: 0,0:01:57.20,0:01:59.62,Main Dialogue,Hiina,0000,0000,0000,,No começo eles vendem a um preço alto,
+Dialogue: 0,0:01:57.53,0:02:02.39,Black Signs,Sign,0000,0000,0000,,Yakisoba
+Dialogue: 0,0:01:59.62,0:02:02.81,Main Dialogue,Hiina,0000,0000,0000,,mas no último dia eles só \Nquerem zerar o estoque.
+Dialogue: 0,0:02:02.81,0:02:06.14,Main Dialogue,Koharu,0000,0000,0000,,E os meninos sempre se vestem de meninas \Npara alguma apresentação!
+Dialogue: 0,0:02:06.14,0:02:07.78,Main Dialogue,Yua,0000,0000,0000,,E alguns ficam mais bonitos!
+Dialogue: 0,0:02:07.78,0:02:11.31,Main Dialogue,Aoi,0000,0000,0000,,Também tem uma leitura estranha \Nde chinês no ginásio!
+Dialogue: 0,0:02:11.31,0:02:14.48,Main Dialogue,Hiina,0000,0000,0000,,Sempre tem uma paródia de um filme \Nou novela popular na época.
+Dialogue: 0,0:02:14.48,0:02:18.45,Main Dialogue,Yua,0000,0000,0000,,Sim, se for uma escola masculina eles fazem \Numa comédia com piadas obscenas!
+Dialogue: 0,0:02:18.45,0:02:21.28,Main Dialogue,Koharu,0000,0000,0000,,E-Espere, Yua-senpai! \NVocê não deveria gostar disso!
+Dialogue: 0,0:02:21.28,0:02:22.71,Main Dialogue,Yua,0000,0000,0000,,E em mangá e anime?
+Dialogue: 0,0:02:22.71,0:02:25.31,Main Dialogue,Aoi,0000,0000,0000,,São bem unidos, ao contrário da vida real!
+Dialogue: 0,0:02:25.31,0:02:26.37,Main Dialogue,Yua,0000,0000,0000,,É verdade!
+Dialogue: 0,0:02:26.37,0:02:30.75,Main Dialogue,Koharu,0000,0000,0000,,Eles sempre focam no café, na casa \Nmal assombrada e na dança folk!
+Dialogue: 0,0:02:30.75,0:02:34.06,Main Dialogue,Hiina,0000,0000,0000,,Várias crianças vão para o ensino \Nmédio com essa imagem
+Dialogue: 0,0:02:34.06,0:02:35.99,Main Dialogue,Hiina,0000,0000,0000,,e se desapontam com o festival escolar.
+Dialogue: 0,0:02:35.99,0:02:38.84,Main Dialogue,Koharu,0000,0000,0000,,É-É meio triste...
+Dialogue: 0,0:02:38.84,0:02:41.45,Main Dialogue,Yua,0000,0000,0000,,Certo! Agora que o estômago \Nda Koharun roncou...
+Dialogue: 0,0:02:41.45,0:02:42.32,Main Dialogue,Koharu,0000,0000,0000,,Desculpa!
+Dialogue: 0,0:02:42.32,0:02:44.81,Main Dialogue,Yua,0000,0000,0000,,Vamos pensar em um \N"festival escolar diferente"!
+Dialogue: 0,0:02:44.81,0:02:45.46,Main Dialogue,Yua,0000,0000,0000,,Alguém?
+Dialogue: 0,0:02:45.46,0:02:46.09,Main Dialogue,Aoi,0000,0000,0000,,Eu!
+Dialogue: 0,0:02:46.09,0:02:48.89,Main Dialogue,Yua,0000,0000,0000,,Ok, o "festival escolar diferente" da Aoi!
+Dialogue: 0,0:02:48.89,0:02:53.38,Main Dialogue,Aoi,0000,0000,0000,,Todos os anos eles são atacados \Npor um enxame de gafanhotos.
+Dialogue: 0,0:02:51.48,0:02:54.52,Locust Sign,Sign,0000,0000,0000,,Festival Escolar
+Dialogue: 0,0:02:55.74,0:02:57.71,Main Dialogue,Koharu,0000,0000,0000,,O que são gafanhotos?
+Dialogue: 0,0:02:57.71,0:03:01.17,Main Dialogue,Yua,0000,0000,0000,,O jeito que você falou foi muito engraçado.
+Dialogue: 0,0:03:01.17,0:03:06.50,Main Dialogue,Aoi,0000,0000,0000,,Ah, tem vários gafanhotos no outono, então...
+Dialogue: 0,0:03:06.50,0:03:11.42,Main Dialogue,Aoi,0000,0000,0000,,Se eles vierem, toda comida vai desaparecer.
+Dialogue: 0,0:03:11.42,0:03:12.44,Main Dialogue,Koharu,0000,0000,0000,,O que são gafanhotos?
+Dialogue: 0,0:03:12.44,0:03:13.48,Main Dialogue,Yua,0000,0000,0000,,Gafanhotos são...
+Dialogue: 0,0:03:13.48,0:03:14.41,Main Dialogue,Aoi,0000,0000,0000,,Como grilos.
+Dialogue: 0,0:03:14.41,0:03:14.92,Main Dialogue,Yua,0000,0000,0000,,Sim.
+Dialogue: 0,0:03:14.92,0:03:16.82,Main Dialogue,Koharu,0000,0000,0000,,Nojento!
+Dialogue: 0,0:03:17.59,0:03:20.34,Main Dialogue,Yua,0000,0000,0000,,Gafanhotos são larvas do quê?
+Dialogue: 0,0:03:20.34,0:03:21.31,Main Dialogue,Hiina,0000,0000,0000,,Eles não são larvas.
+Dialogue: 0,0:03:20.89,0:03:22.41,Main Dialogue Top,Aoi,0000,0000,0000,,Grilos!
+Dialogue: 0,0:03:22.41,0:03:23.69,Main Dialogue,Yua,0000,0000,0000,,Grilos. Grilos?
+Dialogue: 0,0:03:23.69,0:03:24.66,Main Dialogue,Hiina,0000,0000,0000,,Grilos também não.
+Dialogue: 0,0:03:24.66,0:03:25.16,Main Dialogue,Aoi,0000,0000,0000,,Camarão?
+Dialogue: 0,0:03:25.16,0:03:25.97,Main Dialogue Top,Yua,0000,0000,0000,,São de qual classe?
+Dialogue: 0,0:03:25.44,0:03:27.60,Main Dialogue,Hiina,0000,0000,0000,,Também não são camarões. São insetos.
+Dialogue: 0,0:03:28.20,0:03:29.65,Main Dialogue,Yua,0000,0000,0000,,Gafanhotos são o estágio adulto?
+Dialogue: 0,0:03:29.65,0:03:31.00,Main Dialogue,Hiina,0000,0000,0000,,Sim, estágio adulto.
+Dialogue: 0,0:03:31.00,0:03:32.72,Main Dialogue,Aoi,0000,0000,0000,,Ok, como são as crianças?
+Dialogue: 0,0:03:32.72,0:03:33.81,Main Dialogue,Hiina,0000,0000,0000,,Gafanhotos.
+Dialogue: 0,0:03:33.81,0:03:35.72,Main Dialogue,Yua,0000,0000,0000,,Gafanhotos não se transformam em libélulas?
+Dialogue: 0,0:03:35.72,0:03:36.56,Main Dialogue,Hiina,0000,0000,0000,,Não viram isso.
+Dialogue: 0,0:03:36.56,0:03:37.61,Main Dialogue,Yua,0000,0000,0000,,Sério?
+Dialogue: 0,0:03:37.61,0:03:40.90,Main Dialogue,Koharu,0000,0000,0000,,Libélulas... Estou pensando em \Naranhas d'água. O que são libélulas?
+Dialogue: 0,0:03:40.90,0:03:41.94,Main Dialogue,Yua,0000,0000,0000,,Aranhas d'água!
+Dialogue: 0,0:03:41.94,0:03:43.77,Main Dialogue,Koharu,0000,0000,0000,,Não são girinos?
+Dialogue: 0,0:03:43.77,0:03:45.66,Main Dialogue,Hiina,0000,0000,0000,,Esses são sapos!
+Dialogue: 0,0:03:45.66,0:03:46.75,Main Dialogue,Hiina,0000,0000,0000,,Nossa...
+Dialogue: 0,0:03:47.45,0:03:50.04,Main Dialogue,Koharu,0000,0000,0000,,Ei, eu não sei! O que são libélulas?!
+Dialogue: 0,0:03:50.04,0:03:52.04,Main Dialogue,Aoi,0000,0000,0000,,Elas saem do chão!
+Dialogue: 0,0:03:52.04,0:03:52.55,Main Dialogue,Yua,0000,0000,0000,,Sério?
+Dialogue: 0,0:03:52.55,0:03:53.14,Main Dialogue,Aoi,0000,0000,0000,,Tsuchinoko!
+Dialogue: 0,0:03:53.14,0:03:57.29,Main Dialogue,Yua,0000,0000,0000,,As libélulas sempre colocam\N seus ovos na piscina.
+Dialogue: 0,0:03:57.29,0:03:58.38,Main Dialogue,Hiina,0000,0000,0000,,Joguem no Google!
+Dialogue: 0,0:03:58.91,0:03:59.93,Main Dialogue,Yua,0000,0000,0000,,Larva de libélula!
+Dialogue: 0,0:03:59.44,0:04:01.15,Main Dialogue Top,Yua,0000,0000,0000,,Larva de libélula!
+Dialogue: 0,0:04:01.67,0:04:03.97,Main Dialogue,Aoi,0000,0000,0000,,Como são as larvas de libélula?
+Dialogue: 0,0:04:03.97,0:04:07.59,Main Dialogue,Hiina,0000,0000,0000,,Elas vivem embaixo d'água.
+Dialogue: 0,0:04:08.69,0:04:09.56,Main Dialogue,Aoi,0000,0000,0000,,Que nojento!
+Dialogue: 0,0:04:09.56,0:04:14.46,Main Dialogue,Yua,0000,0000,0000,,Se os ovos forem colocados na piscina \Nem julho ou agosto, elas são...
+Dialogue: 0,0:04:14.46,0:04:15.96,Main Dialogue,Aoi,0000,0000,0000,,É nojento!
+Dialogue: 0,0:04:16.52,0:04:18.23,Main Dialogue,Koharu,0000,0000,0000,,Você só precisa lavar.
+Dialogue: 0,0:04:18.23,0:04:19.45,Main Dialogue,Aoi,0000,0000,0000,,Entendi!
+Dialogue: 0,0:04:20.01,0:04:21.56,Main Dialogue,Aoi,0000,0000,0000,,Vamos lavar!
+Dialogue: 0,0:04:21.56,0:04:22.51,Main Dialogue,Koharu,0000,0000,0000,,Sim.
+Dialogue: 0,0:04:23.49,0:04:25.87,Main Dialogue,Yua,0000,0000,0000,,A Koharun fala como se fosse óbvio.
+Dialogue: 0,0:04:25.87,0:04:27.70,Main Dialogue,Yua,0000,0000,0000,,"Você só precisa lavar."
+Dialogue: 0,0:04:27.70,0:04:29.55,Main Dialogue,Hiina,0000,0000,0000,,Ela é a mais cruel daqui.
+Dialogue: 0,0:04:29.55,0:04:31.25,Main Dialogue,Yua,0000,0000,0000,,Ela propõe crueldade sem hesitar.
+Dialogue: 0,0:04:30.31,0:04:31.72,Main Dialogue Top,Hiina,0000,0000,0000,,Ela é sangue frio.
+Dialogue: 0,0:04:31.72,0:04:33.46,Main Dialogue,Koharu,0000,0000,0000,,Elas não vão morrer.
+Dialogue: 0,0:04:33.46,0:04:34.33,Main Dialogue Top,Yua,0000,0000,0000,,Elas morreriam!
+Dialogue: 0,0:04:33.46,0:04:34.33,Main Dialogue,Hiina,0000,0000,0000,,Elas morreriam!
+Dialogue: 0,0:04:34.33,0:04:37.68,Main Dialogue,Aoi,0000,0000,0000,,Mas se lavasse, elas viveriam no ralo.
+Dialogue: 0,0:04:37.68,0:04:39.63,Main Dialogue,Koharu,0000,0000,0000,,É verdade, então não morreriam.
+Dialogue: 0,0:04:39.63,0:04:42.06,Main Dialogue,Hiina,0000,0000,0000,,Por que estão falando como se fosse um jogo?
+Dialogue: 0,0:04:42.06,0:04:45.68,Main Dialogue,Hiina,0000,0000,0000,,Elas morreriam. Não tem "continuar".
+Dialogue: 0,0:04:45.68,0:04:49.72,Main Dialogue,Koharu,0000,0000,0000,,Elas só estão indo a outro lugar. \NNão tem problema lavar.
+Dialogue: 0,0:04:49.72,0:04:51.37,Main Dialogue,Yua,0000,0000,0000,,Afinal, elas iriam para o filtro, certo?
+Dialogue: 0,0:04:51.37,0:04:52.92,Main Dialogue,Koharu,0000,0000,0000,,Elas ficariam limpas, certo?
+Dialogue: 0,0:04:52.92,0:04:56.90,Main Dialogue,Yua,0000,0000,0000,,Elas seriam filtradas e destruídas lá.
+Dialogue: 0,0:04:53.63,0:04:54.83,Main Dialogue Top,Aoi,0000,0000,0000,,Filtradas, filtradas!
+Dialogue: 0,0:04:57.43,0:05:00.22,Main Dialogue,Aoi,0000,0000,0000,,Elas não sairiam das torneiras na nossa casa.
+Dialogue: 0,0:05:00.22,0:05:00.94,Main Dialogue,Yua,0000,0000,0000,,Não.
+Dialogue: 0,0:05:00.94,0:05:02.66,Main Dialogue,Hiina,0000,0000,0000,,Não saíram pelas torneiras, certo?
+Dialogue: 0,0:05:02.66,0:05:03.89,Main Dialogue,Aoi,0000,0000,0000,,Verdade.
+Dialogue: 0,0:05:03.89,0:05:06.91,Main Dialogue,Hiina,0000,0000,0000,,Isso dá medo! As crianças de hoje dão medo!
+Dialogue: 0,0:05:06.91,0:05:11.29,Festival Sign,Sign,0000,0000,0000,,Festival Tousei
+Dialogue: 0,0:05:07.59,0:05:10.91,Main Dialogue,Yua,0000,0000,0000,,A banda não pode tocar amanhã?
+Dialogue: 0,0:05:10.91,0:05:15.09,Main Dialogue,Member,0000,0000,0000,,Não. Nosso vocalista, Enozawa, \Nestá no hospital com amigdalite,
+Dialogue: 0,0:05:15.09,0:05:17.14,Main Dialogue,Member,0000,0000,0000,,e Okamoto e Zaitsu estão machucados.
+Dialogue: 0,0:05:17.14,0:05:18.27,Main Dialogue,Hiina,0000,0000,0000,,Que desastre...
+Dialogue: 0,0:05:18.27,0:05:22.10,Main Dialogue,Member,0000,0000,0000,,Me sinto mal porque agora tem \Num horário vago no palco.
+Dialogue: 0,0:05:22.10,0:05:25.51,Main Dialogue,Member,0000,0000,0000,,Yua-chan, o Clube Tesaguri \Npoderia fazer algo?
+Dialogue: 0,0:05:26.70,0:05:28.59,Main Dialogue,Yua,0000,0000,0000,,Certo! Deixa comigo!
+Dialogue: 0,0:05:28.59,0:05:31.26,Main Dialogue,Yua,0000,0000,0000,,Substituiremos sua banda!
+Dialogue: 0,0:05:31.26,0:05:33.58,Main Dialogue,Member,0000,0000,0000,,Sério?! Obrigada!
+Dialogue: 0,0:05:33.98,0:05:37.77,Tesagure Club Sign,Sign,0000,0000,0000,,Clube Tesaguri
+Dialogue: 0,0:05:34.60,0:05:37.77,Main Dialogue,Yua,0000,0000,0000,,Iremos ao palco hoje!
+Dialogue: 0,0:05:38.34,0:05:42.34,Main Dialogue,Koharu,0000,0000,0000,,E-Eu não consigo em cima da hora assim!
+Dialogue: 0,0:05:42.34,0:05:45.91,Main Dialogue,Yua,0000,0000,0000,,Tudo bem! Eu fiz uma música, \Nse começarmos a ensaiar agora,
+Dialogue: 0,0:05:45.91,0:05:47.07,Main Dialogue,Yua,0000,0000,0000,,a gente consegue!
+Dialogue: 0,0:05:47.07,0:05:49.15,Main Dialogue,Hiina,0000,0000,0000,,Nosso maior problema é conseguir material.
+Dialogue: 0,0:05:49.15,0:05:51.12,Main Dialogue,Koharu,0000,0000,0000,,Conseguir material?
+Dialogue: 0,0:05:51.12,0:05:55.05,Main Dialogue,Aoi,0000,0000,0000,,"Apresentação hilária anual da banda"?
+Dialogue: 0,0:05:55.05,0:05:56.76,Main Dialogue,Hiina,0000,0000,0000,,Seremos uma banda de comédia.
+Dialogue: 0,0:05:57.62,0:05:59.36,Main Dialogue,Yua,0000,0000,0000,,Somos Tesaguri! Vamos trabalhar juntas!
+Dialogue: 0,0:05:59.36,0:06:03.25,Main Dialogue,Koharu,0000,0000,0000,,T-T-Trabalhar juntas! Em uma comédia?
+Dialogue: 0,0:06:03.25,0:06:06.17,Main Dialogue,Aoi,0000,0000,0000,,Vejam! É nosso primeiro festival escolar \Ncomo Clube Tesaguri!
+Dialogue: 0,0:06:06.17,0:06:10.05,Main Dialogue,Yua,0000,0000,0000,,Muitas pessoas vão ver, é nossa chance \Nde causar uma boa impressão!
+Dialogue: 0,0:06:10.05,0:06:12.81,Main Dialogue,Koharu,0000,0000,0000,,P-Pode ser verdade, mas...
+Dialogue: 0,0:06:12.81,0:06:16.63,Main Dialogue,Hiina,0000,0000,0000,,Sobre o material, por que não usamos \No que Aoi fez ano passado?
+Dialogue: 0,0:06:16.63,0:06:18.61,Main Dialogue,Aoi,0000,0000,0000,,Eu disse algo ano passado?
+Dialogue: 0,0:06:20.55,0:06:25.09,Main Dialogue,Yua,0000,0000,0000,,Obrigada por terem vindo à nossa apresentação!
+Dialogue: 0,0:06:25.09,0:06:29.06,Main Dialogue,Yua,0000,0000,0000,,Apesar de nenhuma de nós ser daquele clube.
+Dialogue: 0,0:06:29.70,0:06:34.86,Main Dialogue,Yua,0000,0000,0000,,Todos os membros da banda estão \Nmachucados ou doentes,
+Dialogue: 0,0:06:34.86,0:06:36.62,Main Dialogue,Yua,0000,0000,0000,,então não conseguiram vir hoje.
+Dialogue: 0,0:06:36.62,0:06:39.63,Main Dialogue,Yua,0000,0000,0000,,Fomos escolhidas de repente para substituí-los
+Dialogue: 0,0:06:39.63,0:06:41.60,Main Dialogue,Yua,0000,0000,0000,,e conseguimos dar um jeito,
+Dialogue: 0,0:06:41.60,0:06:44.02,Main Dialogue,Yua,0000,0000,0000,,daremos nosso melhor para não \Nsujar o nome da banda.
+Dialogue: 0,0:06:44.02,0:06:46.17,Main Dialogue,Yua,0000,0000,0000,,Espero que gostem!
+Dialogue: 0,0:06:47.51,0:06:48.88,Main Dialogue,Yua,0000,0000,0000,,Primeiro...
+Dialogue: 0,0:06:49.84,0:06:51.44,Main Dialogue,Koharu,0000,0000,0000,,Bolinho!
+Dialogue: 0,0:06:51.97,0:06:53.71,Main Dialogue,Yua,0000,0000,0000,,Ei, vocês sabiam disso?
+Dialogue: 0,0:06:53.71,0:06:57.56,Main Dialogue,Yua,0000,0000,0000,,O dia 22 de todo mês é "Dia do Bolinho".
+Dialogue: 0,0:06:57.56,0:06:59.41,Main Dialogue,Aoi,0000,0000,0000,,É verdade?!
+Dialogue: 0,0:06:59.41,0:07:02.60,Main Dialogue,Aoi,0000,0000,0000,,Mas por que dia 22?
+Dialogue: 0,0:07:02.60,0:07:05.35,Main Dialogue,Koharu,0000,0000,0000,,Dois, dois... Quatro...
+Dialogue: 0,0:07:05.35,0:07:07.53,Main Dialogue,Koharu,0000,0000,0000,,Não tem a ver com isso, tem?
+Dialogue: 0,0:07:07.53,0:07:09.86,Main Dialogue,Yua,0000,0000,0000,,Bem, quando você olha o calendário,
+Dialogue: 0,0:07:09.86,0:07:13.74,Main Dialogue,Yua,0000,0000,0000,,o dia 15 está bem acima, certo?
+Dialogue: 0,0:07:13.74,0:07:16.82,Main Dialogue,Yua,0000,0000,0000,,Quinze, ichi-go... Ou... morangos e em cima!
+Dialogue: 0,0:07:16.82,0:07:18.58,Main Dialogue,Aoi,0000,0000,0000,,Então é isso!
+Dialogue: 0,0:07:18.58,0:07:20.37,Main Dialogue,Koharu,0000,0000,0000,,Que origem bonita!
+Dialogue: 0,0:07:20.37,0:07:21.47,Main Dialogue,Yua,0000,0000,0000,,Sim!
+Dialogue: 0,0:07:21.47,0:07:24.93,Main Dialogue,Hiina,0000,0000,0000,,Mas dia 29, ni-ku, ou carne, está bem abaixo...
+Dialogue: 0,0:07:24.93,0:07:27.89,Main Dialogue,Koharu,0000,0000,0000,,Bolinho na carne!
+Dialogue: 0,0:07:33.97,0:07:35.82,Main Dialogue,Yua,0000,0000,0000,,Prosseguindo...
+Dialogue: 0,0:07:35.82,0:07:37.42,Main Dialogue,Koharu,0000,0000,0000,,Fobia!
+Dialogue: 0,0:07:38.10,0:07:41.25,Main Dialogue,Hiina,0000,0000,0000,,Koharun, você tem alguma fobia?
+Dialogue: 0,0:07:41.25,0:07:42.62,Main Dialogue,Koharu,0000,0000,0000,,Fobia?
+Dialogue: 0,0:07:42.62,0:07:46.04,Main Dialogue,Yua,0000,0000,0000,,Algumas pessoas têm medo de altura
+Dialogue: 0,0:07:46.04,0:07:48.82,Main Dialogue,Yua,0000,0000,0000,,e algumas têm medo do escuro, certo?
+Dialogue: 0,0:07:50.15,0:07:56.37,Main Dialogue,Koharu,0000,0000,0000,,Eu tenho belonofobia, medo de objetos \Npontiagudos na minha direção.
+Dialogue: 0,0:07:56.37,0:07:59.40,Main Dialogue,Aoi,0000,0000,0000,,Entendo! Também sou assim!
+Dialogue: 0,0:07:59.40,0:08:01.80,Main Dialogue,Koharu,0000,0000,0000,,Você não entende!
+Dialogue: 0,0:08:12.55,0:08:14.72,Main Dialogue,Yua,0000,0000,0000,,Ok, uma música.
+Dialogue: 0,0:08:14.72,0:08:16.75,Main Dialogue,Yua,0000,0000,0000,,Daremos nosso melhor para tocar,
+Dialogue: 0,0:08:16.75,0:08:18.57,Main Dialogue,Yua,0000,0000,0000,,mas não conseguimos fazer \Nmuita coisa ainda,
+Dialogue: 0,0:08:18.57,0:08:21.31,Main Dialogue,Yua,0000,0000,0000,,então tocaremos uma música gravada!
+Dialogue: 0,0:08:21.31,0:08:24.06,Main Dialogue,Yua,0000,0000,0000,,"A Música do Clube Tesaguri"!
+Dialogue: 0,0:08:24.06,0:08:26.61,Festival Sign,Sign,0000,0000,0000,,{\c&H2525BB&}Festival Tousei
+Dialogue: 0,0:08:24.06,0:08:27.56,Main Dialogue,Aoi,0000,0000,0000,,Um! Dois! Um! Dois! Três! Quatro!
+Dialogue: 0,0:08:27.56,0:08:31.03,Song Dialogue,Yua,0000,0000,0000,,O Clube Tesaguri tentando dar um jeito!
+Dialogue: 0,0:08:44.29,0:08:46.00,Song Dialogue,Yua,0000,0000,0000,,Certo, a música do Clube Tesaguri começou!
+Dialogue: 0,0:08:46.00,0:08:47.84,Song Dialogue,Yua,0000,0000,0000,,Sobre qual clube devíamos pensar hoje?
+Dialogue: 0,0:08:47.84,0:08:51.30,Song Dialogue,Hiina,0000,0000,0000,,Devia ser um clube fácil de imaginar.
+Dialogue: 0,0:08:51.30,0:08:52.65,Song Dialogue,Aoi,0000,0000,0000,,Diga algo, Koharun.
+Dialogue: 0,0:08:52.65,0:08:54.63,Song Dialogue,Aoi,0000,0000,0000,,Vamos te mimar, mas só no começo.
+Dialogue: 0,0:08:54.63,0:08:55.04,Song Dialogue,Yua,0000,0000,0000,,É verdade!
+Dialogue: 0,0:08:55.04,0:08:55.95,Song Dialogue,Yua,0000,0000,0000,,Não seja tímida!
+Dialogue: 0,0:08:55.95,0:08:58.04,Song Dialogue,Yua,0000,0000,0000,,Se alguém tem uma ideia, diga!
+Dialogue: 0,0:08:58.04,0:09:04.64,Song Dialogue,Koharu,0000,0000,0000,,Não é um clube qualquer, \Nmas quero ser abraçada por trás.
+Dialogue: 0,0:09:04.64,0:09:09.89,Song Dialogue,Koharu,0000,0000,0000,,Se uma piada aparecer, \Né a paixão da juventude, né?
+Dialogue: 0,0:09:09.89,0:09:12.44,Song Dialogue,Aoi,0000,0000,0000,,Não é muito engraçadinha? E a Hii-na?
+Dialogue: 0,0:09:12.44,0:09:13.24,Song Dialogue,Hiina,0000,0000,0000,,Que repulsa...
+Dialogue: 0,0:09:13.24,0:09:14.78,Song Dialogue,Yua,0000,0000,0000,,Do meu jeito! (Tudo bem!)
+Dialogue: 0,0:09:14.78,0:09:16.57,Song Dialogue,Hiina,0000,0000,0000,,Mesmo se eu escorregar. (Tudo bem!)
+Dialogue: 0,0:09:16.57,0:09:18.24,Song Dialogue,Aoi,0000,0000,0000,,Mesmo se estiver errando. (Tudo bem!)
+Dialogue: 0,0:09:18.24,0:09:20.03,Song Dialogue,Koharu,0000,0000,0000,,Mesmo num mar de rosas. (Tudo bem!)
+Dialogue: 0,0:09:20.03,0:09:22.49,Song Dialogue,All,0000,0000,0000,,Pela tentativa e erro juntas,
+Dialogue: 0,0:09:22.49,0:09:26.92,Song Dialogue,All,0000,0000,0000,,é a única regra do clube. (Eba!)
+Dialogue: 0,0:09:26.92,0:09:28.38,Song Dialogue,Yua,0000,0000,0000,,Cha-cha-cha-cha. (Tudo bem!)
+Dialogue: 0,0:09:28.38,0:09:30.13,Song Dialogue,Hiina,0000,0000,0000,,Com língua afiada. (Tudo bem!)
+Dialogue: 0,0:09:30.13,0:09:31.92,Song Dialogue,Aoi,0000,0000,0000,,Com olhar arrogante. (Tudo bem!)
+Dialogue: 0,0:09:31.92,0:09:33.59,Song Dialogue,Koharu,0000,0000,0000,,Sem ter resposta. (Tudo bem!)
+Dialogue: 0,0:09:33.59,0:09:38.55,Song Dialogue,All,0000,0000,0000,,Nós quatro juntas somos capazes.
+Dialogue: 0,0:09:38.55,0:09:40.10,Song Dialogue 2,All,0000,0000,0000,,Sem pensar... (Ainda não.) \NPensando... (Adverbial.)
+Dialogue: 0,0:09:40.10,0:09:41.97,Song Dialogue 2,All,0000,0000,0000,,Quando pensar... (Atributivo.)\NPensou... (Conclusivo.)
+Dialogue: 0,0:09:41.97,0:09:45.48,Song Dialogue,Yua,0000,0000,0000,,O Clube Tesaguri consegue pensar em algo!
+Dialogue: 0,0:09:48.81,0:09:50.27,Song Dialogue,Yua,0000,0000,0000,,Certo, o segundo verso é igual ao primeiro,
+Dialogue: 0,0:09:50.27,0:09:52.27,Song Dialogue,Yua,0000,0000,0000,,vamos pensar em um clube diferente.
+Dialogue: 0,0:09:52.27,0:09:55.53,Song Dialogue,Hiina,0000,0000,0000,,Como fizemos no primeiro, \Nusando um clube como modelo...
+Dialogue: 0,0:09:55.53,0:09:59.03,Song Dialogue,Aoi,0000,0000,0000,,Galã! Normal! Rica mimada! Desconhecido! \NGalã e elegante ao máximo!
+Dialogue: 0,0:09:59.03,0:10:00.62,Song Dialogue,Yua,0000,0000,0000,,Quem tiver uma ideia, vá em frente!
+Dialogue: 0,0:10:00.62,0:10:02.37,Song Dialogue,Yua,0000,0000,0000,,Vamos! Alguém levante a mão!
+Dialogue: 0,0:10:02.37,0:10:09.04,Song Dialogue,Hiina,0000,0000,0000,,Se gravar demora muito, nós não notamos.
+Dialogue: 0,0:10:09.04,0:10:14.06,Song Dialogue,Yua,0000,0000,0000,,A conversa fica vulgar e não podemos apresentar.
+Dialogue: 0,0:10:14.06,0:10:16.59,Song Dialogue,Aoi,0000,0000,0000,,É divertido, mas e a Hiina?
+Dialogue: 0,0:10:16.59,0:10:17.55,Song Dialogue,Hiina,0000,0000,0000,,Que repulsa...
+Dialogue: 0,0:10:17.55,0:10:19.05,Song Dialogue,Yua,0000,0000,0000,,Até conversa suja. (Tudo bem!)
+Dialogue: 0,0:10:19.05,0:10:21.01,Song Dialogue,Hiina,0000,0000,0000,,Uma pessoa, quatro papéis. (Tudo bem!)
+Dialogue: 0,0:10:21.01,0:10:22.51,Song Dialogue,Aoi,0000,0000,0000,,Mesmo se for tudo trocadilho. (Tudo bem!)
+Dialogue: 0,0:10:22.51,0:10:24.22,Song Dialogue,Koharu,0000,0000,0000,,Mesmo se meu estômago roncar. (Tudo bem!)
+Dialogue: 0,0:10:24.22,0:10:30.60,Song Dialogue,All,0000,0000,0000,,Juntar nossas personalidades \Nfaz um milagre. (Eba!)
+Dialogue: 0,0:10:31.06,0:10:32.60,Song Dialogue,Yua,0000,0000,0000,,Coxas batendo. (Tudo bem!)
+Dialogue: 0,0:10:32.60,0:10:34.46,Song Dialogue,Hiina,0000,0000,0000,,Mesmo se você gosta de cogumelos. (Tudo bem!)
+Dialogue: 0,0:10:34.46,0:10:35.98,Song Dialogue,Aoi,0000,0000,0000,,Mesmo se você é reta. (Tudo bem!)
+Dialogue: 0,0:10:35.98,0:10:37.76,Song Dialogue,Koharu,0000,0000,0000,,Mesmo se brincam com você. (Tudo bem!)
+Dialogue: 0,0:10:37.76,0:10:42.99,Song Dialogue,Aoi,0000,0000,0000,,Vamos explorar coisas diferentes juntas.
+Dialogue: 0,0:10:42.99,0:10:46.20,Song Dialogue,Yua,0000,0000,0000,,O Clube Tesaguri dando um jeito.
+Dialogue: 0,0:10:46.20,0:10:47.89,Song Dialogue 2,All,0000,0000,0000,,Sem pensar... (Ainda não.)\NPensando... (Adverbialmente...)
+Dialogue: 0,0:10:47.89,0:10:49.46,Song Dialogue 2,All,0000,0000,0000,,Quando pensar... (Atributivo...)\NPensou... (Conclusivo.)
+Dialogue: 0,0:10:49.46,0:10:52.96,Song Dialogue,Yua,0000,0000,0000,,O Clube Tesaguri tentando dar um jeito!
+Dialogue: 0,0:10:52.96,0:10:53.62,Song Dialogue,Yua,0000,0000,0000,,Se eu pensar... (Condicional.)
+Dialogue: 0,0:10:53.62,0:10:54.42,Song Dialogue,Yua,0000,0000,0000,,Vamos pensar... (Ainda não.)
+Dialogue: 0,0:10:54.42,0:10:56.41,Song Dialogue,Aoi,0000,0000,0000,,Clube (Imperativo) Tesagure!
+Dialogue: 0,0:11:00.02,0:11:02.06,Main Dialogue,Yua,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:11:00.66,0:11:05.64,Next Episode 1,Sign,0000,0000,0000,,{\fad(500,1)}Próximo Episódio
+Dialogue: 0,0:11:00.66,0:11:05.64,Next Episode 2,Sign,0000,0000,0000,,{\fad(500,1)}Revisão Episódio 9\N{\fs24}Suspeita
+Dialogue: 0,0:11:00.66,0:11:05.64,Next Episode 3,Sign,0000,0000,0000,,{\fad(500,1)}Não perca!
