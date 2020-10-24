@@ -53,8 +53,8 @@ Dialogue: 1,0:23:22.29,0:23:24.34,Babacas,,0,0,0,,{\pos(320,304.167)\blur0.583\f
 Dialogue: 0,0:25:52.98,0:26:02.70,Hacchi,,0,0,0,,{\shad0\bord0.833\be1\pos(487.672,36.667)}PRÓXIMO EPISÓDIO
 Dialogue: 0,0:26:02.70,0:26:05.96,Titulo1,,0,0,0,,{\blur0.5\fad(485,0)\c&H000000&\1a&HFF&\t(440,485,\1a&H00&)}Ah! Nossa casa é a melhor!
 Dialogue: 1,0:26:02.70,0:26:05.96,Titulo1,,0,0,0,,{\bord0\blur0.5\fad(485,0)\4a&HFF&}Ah! Nossa casa é a melhor!
-Dialogue: 0,0:26:05.96,0:26:11.63,Intro1,,0,0,0,,{\blur0.5\c&H2906DC&}Proteja as calcinhas da Otae do pevertido!
-Dialogue: 1,0:26:05.96,0:26:11.63,Intro1,,0,0,0,,{\bord0\blur0.5\4a&HFF&}Proteja as calcinhas da Otae do pevertido!
+Dialogue: 0,0:26:05.96,0:26:11.63,Intro1,,0,0,0,,{\blur0.5\c&H2906DC&}Proteja as calcinhas da Otae do pervertido!
+Dialogue: 1,0:26:05.96,0:26:11.63,Intro1,,0,0,0,,{\bord0\blur0.5\4a&HFF&}Proteja as calcinhas da Otae do pervertido!
 Dialogue: 0,0:26:05.96,0:26:11.63,Intro2,,0,0,0,,{\blur0.5\c&H2906DC&}O orgulho dos homens: "Os Guardas das Calcinhas"
 Dialogue: 1,0:26:05.96,0:26:11.63,Intro2,,0,0,0,,{\bord0\blur0.5\4a&HFF&}O orgulho dos homens: "Os Guardas das Calcinhas"
 Dialogue: 0,0:26:11.63,0:26:15.97,Intro1,,0,0,0,,{\blur0.5\c&H2906DC&}Horário nobre o caramba!

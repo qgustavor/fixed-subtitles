@@ -77,7 +77,7 @@ Dialogue: 10,0:03:12.24,0:03:16.37,Hacchi,,0,0,0,,Me observem. Isso é como tira
 Dialogue: 10,0:03:16.37,0:03:19.91,Hacchi,,0,0,0,,Espere! \N Deixe o curry aqui, você vai derrubar.
 Dialogue: 10,0:03:19.91,0:03:24.81,Hacchi,,0,0,0,,Não deixe cair! \N Você vai morrer se ele cair, Curry Ninja!
 Dialogue: 10,0:03:24.81,0:03:25.94,Hacchi,,0,0,0,,Rouxger!
-Dialogue: 10,0:03:24.81,0:03:26.77,Notas,,0,0,0,,{\q2}Nota: Trcoadilho com "Roux" (base para molhos) e "Roger" (do inglês, "entendido").
+Dialogue: 10,0:03:24.81,0:03:26.77,Notas,,0,0,0,,{\q2}Nota: Trocadilho com "Roux" (base para molhos) e "Roger" (do inglês, "entendido").
 Dialogue: 10,0:03:25.94,0:03:26.77,Hacchi,,0,0,0,,Rouxger!
 Dialogue: 10,0:03:26.77,0:03:30.64,Hacchi,,0,0,0,,O que é "Rouxger"?! Você quer dizer "Roger"?! Eu nunca ouvi uma palavra tão absurda.
 Dialogue: 10,0:03:31.53,0:03:32.55,Hacchi,,0,0,0,,Ele é rápido!
@@ -306,7 +306,7 @@ Dialogue: 10,0:15:19.47,0:15:24.48,Hacchi,,0,0,0,,Que porra! Eles também têm! 
 Dialogue: 10,0:15:24.48,0:15:28.01,Hacchi,,0,0,0,,Infelizmente, nós já calculamos as chances.
 Dialogue: 10,0:15:28.01,0:15:31.76,Hacchi,,0,0,0,,Se vocês atacarem, a probabilidade de quebrarem a cara é de 99,8%.
 Dialogue: 10,0:15:31.76,0:15:35.89,Hacchi,,0,0,0,,Calado! Não vamos saber enquanto não fazer! Não subestime nosso Triple Curry!
-Dialogue: 10,0:15:35.89,0:15:39.00,Hacchi,,0,0,0,,Triple? Isso quer dizer que eu também fui inlcuso? \N Ei, eu também sou um membro?!
+Dialogue: 10,0:15:35.89,0:15:39.00,Hacchi,,0,0,0,,Triple? Isso quer dizer que eu também fui incluso? \N Ei, eu também sou um membro?!
 Dialogue: 10,0:15:39.00,0:15:41.80,Hacchi,,0,0,0,,Vamos te mostrar a diferença entre um ninja falso e um verdadeiro!
 Dialogue: 10,0:15:50.17,0:15:55.85,Hacchi,,0,0,0,,Quente! Tem uma batata nas minhas costas! Caiu uma batata nas minhas costas!
 Dialogue: 10,0:15:55.85,0:16:00.68,Hacchi,,0,0,0,,{\q2}Usamos a mesma técnica, mas com diferentes resultados... \N Essa é a diferença entre nossas habilidades!
@@ -417,7 +417,7 @@ Dialogue: 0,0:01:36.99,0:01:42.04,Intro1,,0,0,0,,Agora, os Goninjas começam seu
 Dialogue: 0,0:01:36.99,0:01:42.04,Intro2,,0,0,0,,Não é um pouco tarde?!
 Dialogue: 0,0:01:42.04,0:01:45.04,Titulo2,,0,0,0,,{\fad(350,0)\q2\fscx82}Mamãe está muito ocupada, então pare \N de reclamar sobre o que terá na janta
 Dialogue: 0,0:01:45.29,0:01:50.04,Notas,,0,0,0,,{\fad(200,0)}TOGAKUSHI GINZA
-Dialogue: 0,0:02:23.41,0:02:25.29,Notas,,0,0,0,,{\shad0\bord0\an4\blur0.6\fax0.27\c&H313332&\fnKozuka Mincho Pro BKozuka Mincho Pro B\frz355.1\fscx70\fscy200\pos(57.301,54.751)}LIVRARIA \N MINMEIDOU
+Dialogue: 0,0:02:23.41,0:02:25.29,Notas,,0,0,0,,{\shad0\bord0\an4\blur0.6\fax0.27\c&H313332&\fnKozuka Mincho Pro B\frz355.1\fscx70\fscy200\pos(57.301,54.751)}LIVRARIA \N MINMEIDOU
 Dialogue: 0,0:04:30.54,0:04:30.58,Notas,,0,0,0,,{\fscy100\c&H4A83DC&\be1\3c&HE4E4E7&\b0\bord2\fnKronika\fscx90\fs30\pos(287.22,305)\frz3.5}Consiga 10 vezes mais pontos
 Dialogue: 0,0:04:30.58,0:04:30.62,Notas,,0,0,0,,{\fscy100.05\c&H4A83DC&\be1\3c&HE4E4E7&\b0\bord2\fnKronika\fscx90.04\fs30\pos(287.53,305.11)\frz3.5}Consiga 10 vezes mais pontos
 Dialogue: 0,0:04:30.62,0:04:30.66,Notas,,0,0,0,,{\fscy100.04\c&H4A83DC&\be1\3c&HE4E4E7&\b0\bord2\fnKronika\fscx90.03\fs30\pos(287.88,305.3)\frz3.5}Consiga 10 vezes mais pontos

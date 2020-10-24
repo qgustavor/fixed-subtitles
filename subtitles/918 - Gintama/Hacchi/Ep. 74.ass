@@ -59,7 +59,7 @@ Dialogue: 0,0:00:00.00,0:00:04.98,Intro1,,0,0,0,,{\shad0\bord3\q2\c&H0F00B3&\fsc
 Dialogue: 0,0:01:33.99,0:01:39.12,Intro1,,0,0,0,,Monocelha apareceu nas ruas de Edo?!
 Dialogue: 0,0:01:33.99,0:01:39.12,Intro2,,0,0,0,,O que exatamente é o vírus RYO-II?!
 Dialogue: 0,0:01:39.12,0:01:43.98,Intro1,,0,0,0,,Sr. Akimoto, mesmo que seja atrasado...
-Dialogue: 0,0:01:39.12,0:01:43.98,Intro2,,0,0,0,,Feliz 30º aniversário.
+Dialogue: 0,0:01:39.12,0:01:43.98,Intro2,,0,0,0,,Feliz 30{\fnAd Hoc}º{\fn} aniversário.
 Dialogue: 0,0:01:44.00,0:01:50.04,Titulo2,,0,0,0,,{\fad(350,0)\fscx88\q2}Um mangaká se torna um profissional \N após praticar muita caligrafia
 Dialogue: 0,0:01:50.91,0:01:52.66,Hacchi,,0,0,0,,Este estranho incidente...
 Dialogue: 0,0:01:52.66,0:01:55.00,Hacchi,,0,0,0,,...originou-se no avarento Distrito Kabuki.
@@ -318,7 +318,7 @@ Dialogue: 0,0:13:53.76,0:13:57.00,Hacchi,,0,0,0,,Você acha que todo esse equipa
 Dialogue: 0,0:13:57.00,0:13:58.81,Hacchi,,0,0,0,,Não subestime o vírus, idiota!
 Dialogue: 0,0:13:58.81,0:13:59.55,Hacchi,,0,0,0,,Desculpe!
 Dialogue: 0,0:13:59.55,0:14:00.54,Hacchi,,0,0,0,,Entendeu?!
-Dialogue: 0,0:14:00.65,0:14:04.10,Hacchi,,0,0,0,,Quando você chegar em casa, enxague sua boca e lave as mãos, certo?
+Dialogue: 0,0:14:00.65,0:14:04.10,Hacchi,,0,0,0,,Quando você chegar em casa, enxágue sua boca e lave as mãos, certo?
 Dialogue: 0,0:14:04.10,0:14:05.84,Hacchi,,0,0,0,,Você está subestimando o vírus!
 Dialogue: 0,0:14:09.20,0:14:11.74,Hacchi,,0,0,0,,Não pode ser... \N Só pode ser brincadeira...
 Dialogue: 0,0:14:12.71,0:14:13.84,Hacchi,,0,0,0,,Irmã...
@@ -688,7 +688,7 @@ Dialogue: 0,0:22:46.01,0:22:50.47,TED6,,0,0,0,,{\blur0.4}Ao cair da tarde, subi 
 Dialogue: 0,0:22:50.47,0:22:55.43,TED6,,0,0,0,,{\blur0.4}fiquei de pé no lugar mais alto
 Dialogue: 0,0:22:55.72,0:23:02.93,TED6,,0,0,0,,{\blur0.4\fad(0,900)}e dei adeus ao sol que parecia estar afundando.
 Dialogue: 0,0:23:03.94,0:23:09.11,TED6,,0,0,0,,{\blur0.4}Existem histórias feitas só por coincidência.
-Dialogue: 0,0:23:09.11,0:23:14.03,TED6,,0,0,0,,{\blur0.4}Preste ateção ao atravessar a corda bamba.
+Dialogue: 0,0:23:09.11,0:23:14.03,TED6,,0,0,0,,{\blur0.4}Preste atenção ao atravessar a corda bamba.
 Dialogue: 0,0:23:14.03,0:23:22.96,TED6,,0,0,0,,{\blur0.4\q2}Corremos com a impureza e a contradição em cada mão.
 Dialogue: 0,0:23:24.96,0:23:29.17,TED6,,0,0,0,,{\blur0.4}Mesmo antes de você anunciar,
 Dialogue: 0,0:23:29.17,0:23:31.93,TED6,,0,0,0,,{\blur0.4}eu já sabia

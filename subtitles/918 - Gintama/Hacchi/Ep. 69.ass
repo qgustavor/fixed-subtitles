@@ -70,7 +70,7 @@ Dialogue: 0,0:03:08.45,0:03:10.29,TV TS,,0000,0000,0000,,{\c&H42351F&\3c&HDBCCBD
 Dialogue: 0,0:03:08.75,0:03:10.29,Rumbel,,0000,0000,0000,,{\4a&H80&}Se não seguir... Talvez eu apareça!
 Dialogue: 0,0:03:10.62,0:03:12.02,Rumbel,,0000,0000,0000,,{\4a&H80&}Um comercial?!
 Dialogue: 0,0:03:12.02,0:03:14.05,Rumbel,,0000,0000,0000,,{\4a&H80&}Eles não precisavam ter feito algo tão perturbador.
-Dialogue: 0,0:03:14.18,0:03:17.28,Rumbel,,0000,0000,0000,,{\4a&H80&}Não dá para fazer alguém seguir as instruções assustando-o .
+Dialogue: 0,0:03:14.18,0:03:17.28,Rumbel,,0000,0000,0000,,{\4a&H80&}Não dá para fazer alguém seguir as instruções assustando-o.
 Dialogue: 0,0:03:17.55,0:03:18.22,Rumbel,,0000,0000,0000,,{\4a&H80&}Ahn?
 Dialogue: 0,0:03:19.14,0:03:21.64,Rumbel,,0000,0000,0000,,{\4a&H80&}Amanhã é lixo não combustível,
 Dialogue: 0,0:03:21.64,0:03:23.34,Rumbel,,0000,0000,0000,,{\4a&H80&}e eu coloquei minhas velhas edições da Jump!
@@ -135,7 +135,7 @@ Dialogue: 0,0:05:46.56,0:05:47.60,Rumbel,,0000,0000,0000,,{\4a&H80&}Claro que n�
 Dialogue: 0,0:05:47.60,0:05:49.99,Rumbel,,0000,0000,0000,,{\4a&H80&}Por que você tem que incomodar as pessoas enquanto elas estão dormindo?!
 Dialogue: 0,0:05:51.76,0:05:53.07,Rumbel,,0000,0000,0000,,{\4a&H80&}Nossa.
 Dialogue: 0,0:05:53.59,0:05:56.10,Rumbel,,0000,0000,0000,,{\4a&H80&}Faz sentido, ter um pesadelo com isso.
-Dialogue: 0,0:05:54.91,0:05:56.10,Rumbel 2,,0000,0000,0000,,{\4a&H80&}Obrigado pela comida.
+Dialogue: 0,0:05:54.91,0:05:56.10,Rumbel 2,,0000,0000,0000,,{\4a&H80&}Obrigada pela comida.
 Dialogue: 0,0:05:56.28,0:05:57.81,Rumbel,,0000,0000,0000,,{\4a&H80&}É mesmo? Com o quê?
 Dialogue: 0,0:05:58.59,0:05:59.95,Rumbel,,0000,0000,0000,,{\4a&H80&}Uma cabeça decepada.
 Dialogue: 0,0:06:00.24,0:06:01.57,Rumbel,,0000,0000,0000,,{\4a&H80&}Bem, esquece.
@@ -146,7 +146,7 @@ Dialogue: 0,0:06:08.10,0:06:09.15,Rumbel,,0000,0000,0000,,{\4a&H80&}Como você s
 Dialogue: 0,0:06:09.36,0:06:10.71,Rumbel,,0000,0000,0000,,{\4a&H80&}Um passarinho me contou.
 Dialogue: 0,0:06:10.88,0:06:13.90,Rumbel,,0000,0000,0000,,{\4a&H80&}E você ainda tem esses sonhos de criança mesmo sendo um adulto??
 Dialogue: 0,0:06:13.90,0:06:15.59,Rumbel,,0000,0000,0000,,{\4a&H80&}Não conte pro Shinpachi.
-Dialogue: 0,0:06:15.62,0:06:17.44,Rumbel,,0000,0000,0000,,{\4a&H80&}Eu te dou 300 yens, certo?
+Dialogue: 0,0:06:15.62,0:06:17.44,Rumbel,,0000,0000,0000,,{\4a&H80&}Eu te dou 300 ienes, certo?
 Dialogue: 0,0:06:17.56,0:06:19.56,Rumbel,,0000,0000,0000,,{\4a&H80&}Eu realmente não consigo me lembrar o que eu estava fazendo antes de dormir.
 Dialogue: 0,0:06:19.56,0:06:20.57,Rumbel,,0000,0000,0000,,{\4a&H80&}O que eu fiz ontem?
 Dialogue: 0,0:06:20.83,0:06:23.70,Rumbel,,0000,0000,0000,,{\4a&H80&}Você foi na lixeira pra pegar suas Jumps velhas.
@@ -359,10 +359,10 @@ Dialogue: 0,0:13:47.94,0:13:49.64,Rumbel,,0000,0000,0000,,{\4a&H80&}Velocidade a
 Dialogue: 0,0:13:49.76,0:13:51.32,Rumbel,,0000,0000,0000,,{\4a&H80&}Letargia aumentou 5 pontos.
 Dialogue: 0,0:13:51.41,0:13:52.95,Rumbel,,0000,0000,0000,,{\4a&H80&}Preguiça aumentou 6 pontos.
 Dialogue: 0,0:13:52.95,0:13:54.33,Rumbel,,0000,0000,0000,,{\4a&H80&}Fadiga aumentou 7 pontos.
-Dialogue: 0,0:13:54.39,0:13:55.54,Rumbel,,0000,0000,0000,,{\4a&H80&}Tama aprendeu uma nova habilidade, Nihilismo.
+Dialogue: 0,0:13:54.39,0:13:55.54,Rumbel,,0000,0000,0000,,{\4a&H80&}Tama aprendeu uma nova habilidade, Niilismo.
 Dialogue: 0,0:13:55.54,0:13:58.46,Rumbel,,0000,0000,0000,,{\4a&H80&}Espere um momento, por que só os defeitos estão aumentando?
 Dialogue: 0,0:13:58.54,0:14:01.65,Rumbel,,0000,0000,0000,,{\4a&H80&}Preguiça aumentou 2 pontos. "Zuborosokusaremagurobaromi."
-Dialogue: 0,0:14:01.65,0:14:03.32,Rumbel,,0000,0000,0000,,{\4a&H80&}Ela interrompeu a si mesma com a Magia de Ressureição!
+Dialogue: 0,0:14:01.65,0:14:03.32,Rumbel,,0000,0000,0000,,{\4a&H80&}Ela interrompeu a si mesma com a Magia de Ressurreição!
 Dialogue: 0,0:14:03.32,0:14:04.45,Rumbel,,0000,0000,0000,,{\4a&H80&}Tama sente muita preguiça.
 Dialogue: 0,0:14:04.45,0:14:06.33,Rumbel,,0000,0000,0000,,{\4a&H80&}Tama não quer trabalhar, trabalho é muito difícil.
 Dialogue: 0,0:14:06.39,0:14:07.83,Rumbel,,0000,0000,0000,,{\4a&H80&}Agora você está apenas reclamando!
@@ -494,7 +494,7 @@ Dialogue: 0,0:19:06.55,0:19:10.18,Rumbel,,0000,0000,0000,,{\4a&H80&}O mais novo 
 Dialogue: 0,0:19:10.18,0:19:11.77,Rumbel,,0000,0000,0000,,{\4a&H80&}Isso não é uma doméstica!
 Dialogue: 0,0:19:11.77,0:19:13.39,Rumbel,,0000,0000,0000,,{\4a&H80&}É uma arma! Estou te dizendo, é uma arma!
 Dialogue: 0,0:19:10.18,0:19:13.43,Rumbel 2,,0000,0000,0000,,
-Dialogue: 0,0:19:13.43,0:19:14.58,Rumbel,,0000,0000,0000,,{\4a&H80&}Também conhecida como "Kurin-chan."
+Dialogue: 0,0:19:13.43,0:19:14.58,Rumbel,,0000,0000,0000,,{\4a&H80&}Também conhecida como "Kurin-chan".
 Dialogue: 0,0:19:14.64,0:19:16.72,Rumbel,,0000,0000,0000,,{\4a&H80&}Ela é uma robô especializada na área de limpeza.
 Dialogue: 0,0:19:16.75,0:19:18.67,Rumbel,,0000,0000,0000,,{\4a&H80&}E graças a sua obsessão por limpeza que beira a compulsão,
 Dialogue: 0,0:19:18.67,0:19:21.95,Rumbel,,0000,0000,0000,,{\4a&H80&}Kurin-chan foi considerada muito chata por seu dono, e foi devolvida.
@@ -584,5 +584,5 @@ Dialogue: 1,0:24:24.89,0:24:29.51,Intro1,Next episode,0000,0000,0000,,{\4a&H80&}
 Dialogue: 0,0:24:25.30,0:24:29.51,Intro1,Next episode,0000,0000,0000,,{\shad0\4a&H80&\c&H2C2DE9&\bord2\shad1\fs29\pos(792,304)}Próximo episódio
 Dialogue: 0,0:24:29.85,0:24:34.64,Preview,Next episode,0000,0000,0000,,O exército de empregadas-robô ataca!!
 Dialogue: 0,0:24:29.85,0:24:34.64,Preview2,Next episode,0000,0000,0000,,Irá o Yorozuya escapar com sucesso?!
-Dialogue: 0,0:24:34.64,0:24:39.79,Preview,,0000,0000,0000,,{\fad(0,500)}O que exatamente é o "Fuyou Project?!"
+Dialogue: 0,0:24:34.64,0:24:39.79,Preview,,0000,0000,0000,,{\fad(0,500)}O que exatamente é o "Fuyou Project"?!
 Dialogue: 0,0:24:34.64,0:24:39.79,Preview2,Next episode,0000,0000,0000,,{\fad(0,500)}E que significado se esconde atrás das lágrimas de Tama-san?!

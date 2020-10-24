@@ -95,7 +95,7 @@ Dialogue: 10,0:03:42.23,0:03:47.42,Hacchi,,0,0,0,,Se você não tem dinheiro, ga
 Dialogue: 10,0:03:48.61,0:03:49.61,Hacchi,,0,0,0,,Agora!
 Dialogue: 10,0:03:50.18,0:03:52.35,Hacchi,,0,0,0,,Otose-san! Otose-san!
 Dialogue: 10,0:03:57.23,0:04:00.06,Hacchi,,0,0,0,,Porra, pague o aluguel!
-Dialogue: 10,0:04:00.06,0:04:03.50,Hacchi,,0,0,0,,Gin-san, é verdade que podemos caçar \N cogumelos matsutake para pagar o alguel?
+Dialogue: 10,0:04:00.06,0:04:03.50,Hacchi,,0,0,0,,Gin-san, é verdade que podemos caçar \N cogumelos matsutake para pagar o aluguel?
 Dialogue: 10,0:04:03.50,0:04:06.18,Hacchi,,0,0,0,,Caso não seja possível, \N não poderemos voltar.
 Dialogue: 10,0:04:06.18,0:04:09.10,Hacchi,,0,0,0,,Não se preocupem. \N Acreditem no que eu digo.
 Dialogue: 10,0:04:11.20,0:04:13.72,Hacchi,,0,0,0,,Caçar cogumelos!
@@ -140,7 +140,7 @@ Dialogue: 10,0:06:59.82,0:07:04.11,Hacchi,,0,0,0,,Enfim, acreditem em mim. \N Vo
 Dialogue: 10,0:07:10.27,0:07:11.73,Hacchi,,0,0,0,,Quem é esse cara?
 Dialogue: 10,0:07:11.73,0:07:13.80,Hacchi,,0,0,0,,Ele estava tentando nos alertar sobre alguma coisa?
 Dialogue: 10,0:07:13.80,0:07:15.46,Hacchi,,0,0,0,,Eu nem imagino...
-Dialogue: 10,0:07:15.46,0:07:18.66,Hacchi,,0,0,0,,Esquecam esse cara, e vamos caçar cogumelos matsutake!
+Dialogue: 10,0:07:15.46,0:07:18.66,Hacchi,,0,0,0,,Esqueçam esse cara, e vamos caçar cogumelos matsutake!
 Dialogue: 10,0:07:18.66,0:07:20.03,Hacchi,,0,0,0,,Sim!
 Dialogue: 10,0:07:22.30,0:07:26.86,Hacchi,,0,0,0,,Não, não, não, não! Basta olhar para ele! \N Com certeza é venenoso!
 Dialogue: 10,0:07:26.86,0:07:29.25,Hacchi,,0,0,0,,Não me faça repetir.
@@ -328,7 +328,7 @@ Dialogue: 10,0:19:07.70,0:19:13.91,Hacchi,,0,0,0,,Eu acreditava que esta era a m
 Dialogue: 10,0:19:13.91,0:19:15.78,Hacchi,,0,0,0,,E, assim, eu poderia também...
 Dialogue: 10,0:19:15.78,0:19:19.69,Hacchi,,0,0,0,,Não seria ruim se eu morresse em alguma vala desta montanha.
 Dialogue: 10,0:19:19.69,0:19:21.19,Hacchi,,0,0,0,,Você entendeu errado.
-Dialogue: 10,0:19:22.47,0:19:29.06,Hacchi,,0,0,0,,Ningém sabe por onde voltar depois de ter escalado uma montanha, no entanto...
+Dialogue: 10,0:19:22.47,0:19:29.06,Hacchi,,0,0,0,,Ninguém sabe por onde voltar depois de ter escalado uma montanha, no entanto...
 Dialogue: 10,0:19:31.48,0:19:35.38,Hacchi,,0,0,0,,...se você não descer, você nunca saberá se será capaz de subir outra montanha.
 Dialogue: 10,0:19:38.01,0:19:41.56,Hacchi,,0,0,0,,Se você quer morrer em uma vala, você pode fazer isso depois de descer esta montanha, certo?
 Dialogue: 10,0:19:42.69,0:19:43.84,Hacchi,,0,0,0,,Você...
@@ -555,7 +555,7 @@ Dialogue: 0,0:22:01.96,0:22:06.42,TED6,,0,0,0,,{\blur0.4}Ao cair da tarde, subi 
 Dialogue: 0,0:22:06.42,0:22:11.38,TED6,,0,0,0,,{\blur0.4}fiquei de pé no lugar mais alto
 Dialogue: 0,0:22:11.67,0:22:18.88,TED6,,0,0,0,,{\blur0.4\fad(0,900)}e dei adeus ao sol que parecia estar afundando.
 Dialogue: 0,0:22:19.89,0:22:25.06,TED6,,0,0,0,,{\blur0.4}Existem histórias feitas só por coincidência.
-Dialogue: 0,0:22:25.06,0:22:29.98,TED6,,0,0,0,,{\blur0.4}Preste ateção ao atravessar a corda bamba.
+Dialogue: 0,0:22:25.06,0:22:29.98,TED6,,0,0,0,,{\blur0.4}Preste atenção ao atravessar a corda bamba.
 Dialogue: 0,0:22:29.98,0:22:38.91,TED6,,0,0,0,,{\blur0.4\q2}Corremos com a impureza e a contradição em cada mão.
 Dialogue: 0,0:22:40.91,0:22:45.12,TED6,,0,0,0,,{\blur0.4}Mesmo antes de você anunciar,
 Dialogue: 0,0:22:45.12,0:22:47.88,TED6,,0,0,0,,{\blur0.4}eu já sabia

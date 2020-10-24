@@ -75,7 +75,7 @@ Dialogue: 0,0:02:46.70,0:02:50.03,Rumbel,,0000,0000,0000,,{\fs26\b1\shad0\pos(20
 Dialogue: 0,0:02:46.70,0:02:50.03,Rumbel,,0000,0000,0000,,{\bord1\shad0\fnBarbedorTHea\i1\fs16\c&H181819&\3c&HF8F8FA&\pos(170,435)\b1}Cobertura Total de um dia todo...
 Dialogue: 0,0:02:46.70,0:02:50.03,Rumbel,,0000,0000,0000,,{\shad0\bord1\fnBarbedorTHea\fs16\i1\c&H212122&\3c&HF1F1F6&\pos(390,435)\b1}com O Jovem Nobre da Fúria
 Dialogue: 0,0:02:46.95,0:02:48.65,Rumbel,,0000,0000,0000,,{\4a&H80&}Ele voltará logo após isto.
-Dialogue: 0,0:02:50.01,0:02:55.06,Preview,,0000,0000,0000,,{\4a&H80&}Repórter Hanano entrevista o importante e tão falado membro d0 Joui...
+Dialogue: 0,0:02:50.01,0:02:55.06,Preview,,0000,0000,0000,,{\4a&H80&}Repórter Hanano entrevista o importante e tão falado membro do Joui...
 Dialogue: 0,0:02:50.01,0:02:55.06,Preview2,,0000,0000,0000,,{\4a&H80&}...durante todo o dia!!
 Dialogue: 0,0:02:55.06,0:02:59.93,Preview,,0000,0000,0000,,{\4a&H80&}K-san, o Jovem Nobre da fúria, faz sua aparição...
 Dialogue: 0,0:02:55.06,0:02:59.93,Preview2,,0000,0000,0000,,{\4a&H80&}...logo após isto!! Não mude de canal!!
@@ -127,7 +127,7 @@ Dialogue: 0,0:04:25.22,0:04:27.48,Rumbel,,0000,0000,0000,,{\4a&H80&}Então minha
 Dialogue: 0,0:04:27.48,0:04:30.79,Rumbel,,0000,0000,0000,,{\4a&H80&}Bem... você não só nos disse seu nome como também deixou vazar seu sobrenome...
 Dialogue: 0,0:04:31.16,0:04:34.46,Notes,,0000,0000,0000,,{\fad(150,150)}Katsura está entendendo como "shitakuchi", que quer dizer "Grandes lábios."
 Dialogue: 0,0:04:31.16,0:04:34.46,Rumbel,,0000,0000,0000,,{\4a&H80&}Uma garota não deveria dizer coisas como "Grandes lábios!"
-Dialogue: 0,0:04:34.46,0:04:36.60,Rumbel,,0000,0000,0000,,{\4a&H80&}Uhm, eu não faço idéia do que você está falando.
+Dialogue: 0,0:04:34.46,0:04:36.60,Rumbel,,0000,0000,0000,,{\4a&H80&}Uhm, eu não faço ideia do que você está falando.
 Dialogue: 0,0:04:36.60,0:04:38.28,Rumbel,,0000,0000,0000,,{\4a&H80&}Certo, vamos esquecer sobre tudo isso.
 Dialogue: 0,0:04:38.40,0:04:39.33,Rumbel,,0000,0000,0000,,{\4a&H80&}Desculpe, {\alpha&HFF&}removeremos o mosaico agora.
 Dialogue: 0,0:04:39.33,0:04:40.69,Rumbel,,0000,0000,0000,,{\4a&H80&}Desculpe, removeremos o mosaico agora.
@@ -210,6 +210,7 @@ Dialogue: 0,0:07:43.29,0:07:44.92,Rumbel,,0000,0000,0000,,{\4a&H80&}É o Shinsen
 Dialogue: 0,0:07:44.92,0:07:48.66,Rumbel,,0000,0000,0000,,{\4a&H80&}Oh não! Parece que eles rastrearam o local da entrevista!
 Dialogue: 0,0:07:48.78,0:07:50.50,Rumbel,,0000,0000,0000,,{\4a&H80&}Morra, Katsura!!
 Dialogue: 0,0:07:58.52,0:08:01.77,Rumbel,,0000,0000,0000,,{\4a&H80&}Então é assim que meu dia cheio começa.
+Dialogue: 0,0:08:03.27,0:08:07.70,Notes,,0000,0000,0000,,Nota: referência de Golgo 13.
 Dialogue: 0,0:08:03.27,0:08:04.49,Rumbel,,0000,0000,0000,,{\4a&H80&}Chegou na hora perfeita, {\alpha&HFF&}já é hora de sairmos daqui.
 Dialogue: 0,0:08:04.49,0:08:05.51,Rumbel,,0000,0000,0000,,{\4a&H80&}Chegou na hora perfeita, já é hora de sairmos daqui.
 Dialogue: 0,0:08:05.61,0:08:07.70,Rumbel,,0000,0000,0000,,{\4a&H80&}Eh, isso faz parte da sua rotina ?
@@ -522,8 +523,8 @@ Dialogue: 0,0:19:04.20,0:19:05.51,Rumbel,,0000,0000,0000,,{\4a&H80&}Bom.
 Dialogue: 0,0:19:17.44,0:19:18.55,Rumbel,,0000,0000,0000,,{\4a&H80&}Aonde estou?!
 Dialogue: 0,0:19:19.20,0:19:20.60,Rumbel,,0000,0000,0000,,{\4a&H80&}Oh, você acordou.
 Dialogue: 0,0:19:20.98,0:19:23.94,Rumbel,,0000,0000,0000,,{\4a&H80&}Agora mesmo, estamos gravando uma cena de ação que mais uma vez ultrapassa Jackie.
-Dialogue: 0,0:19:23.94,0:19:26.45,Rumbel,,0000,0000,0000,,{\4a&H80&}O que você quer dizer?! Eu não faço idéia do que você está falando!
-Dialogue: 0,0:19:26.45,0:19:31.90,Rumbel,,0000,0000,0000,,{\4a&H80&}Para tirar sua idéias de lá, você precisa adicionar um vídeo com suspense para combinar com elas.
+Dialogue: 0,0:19:23.94,0:19:26.45,Rumbel,,0000,0000,0000,,{\4a&H80&}O que você quer dizer?! Eu não faço ideia do que você está falando!
+Dialogue: 0,0:19:26.45,0:19:31.90,Rumbel,,0000,0000,0000,,{\4a&H80&}Para tirar sua ideias de lá, você precisa adicionar um vídeo com suspense para combinar com elas.
 Dialogue: 0,0:19:32.00,0:19:33.89,Rumbel,,0000,0000,0000,,{\4a&H80&}Você poderia gravar isso para mim mais tarde?
 Dialogue: 0,0:19:33.89,0:19:34.83,Rumbel,,0000,0000,0000,,{\4a&H80&}Eu queria enviar de volta para minha cidade natal.
 Dialogue: 0,0:19:34.83,0:19:37.25,Rumbel,,0000,0000,0000,,{\4a&H80&}Você tem uma cidade natal?! Você vai mandar isso pra eles?!

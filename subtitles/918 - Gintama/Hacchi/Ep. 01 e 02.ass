@@ -31,7 +31,7 @@ Dialogue: 0,0:00:13.97,0:00:15.19,Hacchi,,0000,0000,0000,,Lute honestamente...
 Dialogue: 0,0:00:16.78,0:00:17.88,Hacchi,,0000,0000,0000,,Honestamente?
 Dialogue: 0,0:00:17.94,0:00:19.93,Notas,,0000,0000,0000,,Na espada: Lago Touya
 Dialogue: 0,0:00:23.65,0:00:24.69,Hacchi,,0000,0000,0000,,Não brinquem comigo!
-Dialogue: 0,0:00:25.07,0:00:27.98,Hacchi,,0000,0000,0000,,Ah! Ele fugiu! Acorvadou-se e fugiu!
+Dialogue: 0,0:00:25.07,0:00:27.98,Hacchi,,0000,0000,0000,,Ah! Ele fugiu! Acovardou-se e fugiu!
 Dialogue: 0,0:00:27.98,0:00:28.98,Hacchi,,0000,0000,0000,,Peguem ele!
 Dialogue: 0,0:00:29.95,0:00:33.39,Hacchi,,0000,0000,0000,,Sabe, hoje em dia, é melhor correr do que ter um confronto de espadas.
 Dialogue: 0,0:00:33.50,0:00:43.38,Hacchi,,0000,0000,0000,,{\pos(320,380)\fs40\fnBolide\bord0.9\shad0\blur0.5\c&H0D0D15&\3c&HFFFFFF&}Sakata Gintoki
@@ -137,7 +137,7 @@ Dialogue: 0,0:07:19.49,0:07:20.50,Hacchi,,0000,0000,0000,,Aqui.
 Dialogue: 0,0:07:23.95,0:07:27.87,Hacchi,,0000,0000,0000,,{\be1\pos(320,370)\fs40\fnBolide\bord0.9\shad0\blur0.5\3c&HFFFFFF&\c&H1A1A21&}Shinsengumi
 Dialogue: 0,0:07:24.68,0:07:27.71,Hacchi,,0000,0000,0000,,Shinsengumi. A força de polícia especial do Shogunato.
 Dialogue: 0,0:07:27.87,0:07:31.37,Hacchi,,0000,0000,0000,,{\be1\pos(320,375)\fs40\fnBolide\bord0.9\shad0\blur0.5\3c&HFFFFFF&\c&H1A1A21&}Hijikata Toushirou
-Dialogue: 0,0:07:28.63,0:07:31.13,Hacchi,,0000,0000,0000,,O vice-comandate do Shinsengumi, Hijikata. Ele é o cabeça.
+Dialogue: 0,0:07:28.63,0:07:31.13,Hacchi,,0000,0000,0000,,O vice-comandante do Shinsengumi, Hijikata. Ele é o cabeça.
 Dialogue: 0,0:07:31.37,0:07:34.88,Hacchi,,0000,0000,0000,,{\be1\pos(320,372)\fs40\fnBolide\bord0.9\shad0\blur0.5\3c&HFFFFFF&\c&H1A1A21&}Okita Sougo
 Dialogue: 0,0:07:32.01,0:07:34.71,Hacchi,,0000,0000,0000,,Okita. Um dos homens mais habilidosos com a espada.
 Dialogue: 0,0:07:35.22,0:07:37.30,Hacchi,,0000,0000,0000,,Yamazaki, qual é a situação?
@@ -147,7 +147,7 @@ Dialogue: 0,0:07:45.63,0:07:47.08,Hacchi,,0000,0000,0000,,Ótimo...
 Dialogue: 0,0:07:47.08,0:07:48.04,Hacchi,,0000,0000,0000,,Vamos lá!
 Dialogue: 0,0:07:48.81,0:07:51.30,Hacchi,,0000,0000,0000,,Graças aos poderes que Kariya-sama tem...
 Dialogue: 0,0:07:51.30,0:07:57.82,Hacchi,,0000,0000,0000,,Nós pudemos juntar forças com os Amantos e terminar a fábrica secretamente.
-Dialogue: 0,0:07:59.86,0:08:03.62,Hacchi,,0000,0000,0000,,Se esse projeto for concluido, toda Edo estará em minhas mãos.
+Dialogue: 0,0:07:59.86,0:08:03.62,Hacchi,,0000,0000,0000,,Se esse projeto for concluído, toda Edo estará em minhas mãos.
 Dialogue: 0,0:08:03.62,0:08:05.98,Hacchi,,0000,0000,0000,,Com certeza, Kariya-sama.
 Dialogue: 0,0:08:11.31,0:08:12.81,Hacchi,,0000,0000,0000,,Procurem por toda a casa!
 Dialogue: 0,0:08:12.81,0:08:13.66,Hacchi,,0000,0000,0000,,É o Shinsengumi!
@@ -234,7 +234,7 @@ Dialogue: 0,0:12:18.51,0:12:19.70,Hacchi,,0000,0000,0000,,O que podemos fazer po
 Dialogue: 0,0:12:20.01,0:12:24.76,Hacchi,,0000,0000,0000,,Bem, eu queria recuperar algo que eu perdi.
 Dialogue: 0,0:12:25.09,0:12:28.43,Hacchi,,0000,0000,0000,,Algo muito importante pra mim.
 Dialogue: 0,0:12:29.78,0:12:33.18,Hacchi,,0000,0000,0000,,Bem, o que exatamente você perdeu?
-Dialogue: 0,0:12:33.18,0:12:36.57,Hacchi,,0000,0000,0000,,Bem... Eu preciso de trinta milhões de yens para ter de volta.
+Dialogue: 0,0:12:33.18,0:12:36.57,Hacchi,,0000,0000,0000,,Bem... Eu preciso de trinta milhões de ienes para ter de volta.
 Dialogue: 0,0:12:36.57,0:12:40.59,Hacchi,,0000,0000,0000,,Ei, careca, lembra que eu disse sem brincadeiras?!
 Dialogue: 0,0:12:41.36,0:12:46.64,Hacchi,,0000,0000,0000,,Uma maneira fácil de ganhar dinheiro? Toda vez que eu seguro, escorre pelos meus dedos...
 Dialogue: 0,0:12:46.96,0:12:51.20,Hacchi,,0000,0000,0000,,Porra, sempre que você passa a mão a conta fica no vermelho!
@@ -257,7 +257,7 @@ Dialogue: 0,0:14:02.28,0:14:04.09,Hacchi,,0000,0000,0000,,Onde estamos indo?
 Dialogue: 0,0:14:04.09,0:14:08.54,Hacchi,,0000,0000,0000,,Na verdade, a pergunta é: como conseguir dinheiro rápido?
 Dialogue: 0,0:14:09.69,0:14:12.58,Hacchi,,0000,0000,0000,,Bem-vind...  Ah, é só vocês.
 Dialogue: 0,0:14:12.65,0:14:18.03,Hacchi,,0000,0000,0000,,{\be1\pos(320,375)\fs40\fnBolide\bord0.9\shad0\blur0.5\3c&HFFFFFF&\c&H1A1A21&}Otose
-Dialogue: 0,0:14:13.22,0:14:17.63,Hacchi,,0000,0000,0000,,Otose-san. Dona do Bar Otose e locatória do Yorozuya Gin-chan.
+Dialogue: 0,0:14:13.22,0:14:17.63,Hacchi,,0000,0000,0000,,Otose-san. Dona do Bar Otose e locatária do Yorozuya Gin-chan.
 Dialogue: 0,0:14:20.12,0:14:21.82,Hacchi,,0000,0000,0000,,Entendo.
 Dialogue: 0,0:14:21.82,0:14:23.71,Hacchi,,0000,0000,0000,,Vocês são ingênuos.
 Dialogue: 0,0:14:23.71,0:14:29.45,Hacchi,,0000,0000,0000,,Se houvesse um jeito de fazer dinheiro depressa, não exisiria ladrões, seus idiotas!
@@ -329,7 +329,7 @@ Dialogue: 0,0:17:30.23,0:17:31.07,Hacchi,,0000,0000,0000,,Sim?
 Dialogue: 0,0:17:31.67,0:17:33.69,Hacchi,,0000,0000,0000,,Talvez você devesse repensar sua proposta.
 Dialogue: 0,0:17:33.69,0:17:37.43,Hacchi,,0000,0000,0000,,Eu sou uma assassina profissional, poderia matá-los rapidinho.
 Dialogue: 0,0:17:37.43,0:17:38.83,Hacchi,,0000,0000,0000,,Vamos matá-los!
-Dialogue: 0,0:17:38.83,0:17:41.69,Hacchi,,0000,0000,0000,,Por que não o enrrolamos e o jogamos em uma vala agora?!
+Dialogue: 0,0:17:38.83,0:17:41.69,Hacchi,,0000,0000,0000,,Por que não o enrolamos e o jogamos em uma vala agora?!
 Dialogue: 0,0:17:41.69,0:17:43.11,Hacchi,,0000,0000,0000,,Não, esperem um pouco.
 Dialogue: 0,0:17:44.22,0:17:46.30,Hacchi,,0000,0000,0000,,Eu estou mudando meu pedido.
 Dialogue: 0,0:17:47.04,0:17:49.75,Hacchi,,0000,0000,0000,,Mas, não para um assassinato.
@@ -646,7 +646,7 @@ Dialogue: 0,0:35:27.14,0:35:29.94,Hacchi,,0000,0000,0000,,Aqueles que estavam co
 Dialogue: 0,0:35:29.94,0:35:34.48,Hacchi,,0000,0000,0000,,Eles tomam as casas dos outros.
 Dialogue: 0,0:35:35.27,0:35:37.28,Hacchi,,0000,0000,0000,,E o objetivo deles é a cidade?
 Dialogue: 0,0:35:37.28,0:35:40.20,Hacchi,,0000,0000,0000,,As construções que não foram feitas pelos Amantos são fracas.
-Dialogue: 0,0:35:40.72,0:35:43.47,Hacchi,,0000,0000,0000,,Se tiver um terremtoo forte, todas cairão.
+Dialogue: 0,0:35:40.72,0:35:43.47,Hacchi,,0000,0000,0000,,Se tiver um terremoto forte, todas cairão.
 Dialogue: 0,0:35:43.93,0:35:46.64,Hacchi,,0000,0000,0000,,Ah não! Se continuar assim, Edo vai...
 Dialogue: 0,0:35:46.64,0:35:50.56,Hacchi,,0000,0000,0000,,Mas nós não sabemos onde é o ponto.
 Dialogue: 0,0:35:50.56,0:35:52.27,Hacchi,,0000,0000,0000,,Não existe nenhuma pista?
@@ -699,7 +699,7 @@ Dialogue: 0,0:37:50.75,0:37:51.81,Hacchi,,0000,0000,0000,,O quê?
 Dialogue: 0,0:37:53.83,0:37:55.26,Hacchi,,0000,0000,0000,,Rendam-se!
 Dialogue: 0,0:37:55.26,0:37:58.00,Hacchi,,0000,0000,0000,,É o Shinsengumi! É melhor começarem a rezar!
 Dialogue: 0,0:37:59.43,0:38:01.44,Hacchi,,0000,0000,0000,,Cães do Shogunato!
-Dialogue: 0,0:38:04.76,0:38:07.74,Hacchi,,0000,0000,0000,,Oh, você quer enfentar o Shinsengumi?
+Dialogue: 0,0:38:04.76,0:38:07.74,Hacchi,,0000,0000,0000,,Oh, você quer enfrentar o Shinsengumi?
 Dialogue: 0,0:38:07.74,0:38:08.41,Hacchi,,0000,0000,0000,,Interessante.
 Dialogue: 0,0:38:09.01,0:38:10.77,Hacchi,,0000,0000,0000,,Kondou Isao, em posição!
 Dialogue: 0,0:38:11.24,0:38:13.47,Hacchi,,0000,0000,0000,,Hijikata Toushirou, em posição!
@@ -710,7 +710,7 @@ Dialogue: 0,0:38:21.98,0:38:25.56,Hacchi,,0000,0000,0000,,Já chega o quê? O qu
 Dialogue: 0,0:38:25.96,0:38:27.39,Hacchi,,0000,0000,0000,,Deixe-me lembrá-los.
 Dialogue: 0,0:38:27.85,0:38:30.48,Hacchi,,0000,0000,0000,,Esse é um território da Embaixada Estrela.
 Dialogue: 0,0:38:30.48,0:38:34.43,Hacchi,,0000,0000,0000,,Se vocês moverem um dedo, será considerado um incidente internacional.
-Dialogue: 0,0:38:35.19,0:38:37.02,Hacchi,,0000,0000,0000,,Droga! Terrirótio estrangeiro?
+Dialogue: 0,0:38:35.19,0:38:37.02,Hacchi,,0000,0000,0000,,Droga! Território estrangeiro?
 Dialogue: 0,0:38:37.02,0:38:38.22,Hacchi,,0000,0000,0000,,Merda!
 Dialogue: 0,0:38:39.03,0:38:41.08,Hacchi,,0000,0000,0000,,É, o que significa "estrangeiro"?
 Dialogue: 0,0:38:42.03,0:38:46.31,Hacchi,,0000,0000,0000,,Se vocês quiserem entrar, vão precisar de um mandato policial.

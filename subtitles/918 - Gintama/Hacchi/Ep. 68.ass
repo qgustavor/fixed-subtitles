@@ -55,7 +55,7 @@ Dialogue: 0,0:00:31.92,0:00:35.42,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}Ent
 Dialogue: 0,0:00:35.91,0:00:37.67,Rumbel,,0000,0000,0000,,{\4a&H80&}Até o próximo episódio!
 Dialogue: 0,0:00:37.88,0:00:39.41,Rumbel,Gintoki,0000,0000,0000,,{\4a&H80&}Ah... {\alpha&HFF&}que preguiça.
 Dialogue: 0,0:00:39.41,0:00:39.99,Rumbel,Gintoki,0000,0000,0000,,{\4a&H80&}Ah... que preguiça.
-Dialogue: 0,0:02:08.93,0:02:14.00,Preview,Text 1,0000,0000,0000,,{\4a&H80&}Gente, não estamos fora essa semana.
+Dialogue: 0,0:02:08.93,0:02:14.00,Preview,Text 1,0000,0000,0000,,{\4a&H80&}Gente, não estamos de folga hoje.
 Dialogue: 0,0:02:08.93,0:02:14.00,Preview2,Text 1,0000,0000,0000,,{\4a&H80&}Sério, comecem a trabalhar!!
 Dialogue: 0,0:02:14.00,0:02:18.99,Preview,Text 2,0000,0000,0000,,{\4a&H80&}Ochi-san da associação comunitária...
 Dialogue: 0,0:02:14.00,0:02:18.99,Preview2,Text 2,0000,0000,0000,,{\4a&H80&}...nos pediu para vir, lembram?
@@ -180,7 +180,7 @@ Dialogue: 0,0:08:05.80,0:08:07.65,Rumbel,,0000,0000,0000,,{\4a&H80&}Eu disse par
 Dialogue: 0,0:08:07.75,0:08:09.79,Rumbel,Kagura,0000,0000,0000,,{\4a&H80&}Mas há tantos deles!
 Dialogue: 0,0:08:09.79,0:08:11.67,Rumbel,,0000,0000,0000,,{\4a&H80&}O que são esses? Pra que você os usa?
 Dialogue: 0,0:08:11.83,0:08:14.53,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}É como essa história de Banchou Sarayashiki, Kagura-chan.
-Dialogue: 0,0:08:11.83,0:08:14.53,Notes,Shinpachi,0000,0000,0000,,{\fs18}Banchou Sarayashiki - Lenda de uma garçonete japonesa que foi jogado em um buraco pelo seu patrão por ter quebrado um prato de uma coleção muito cara de 10 pratos.
+Dialogue: 0,0:08:11.83,0:08:14.53,Notes,Shinpachi,0000,0000,0000,,{\fs18}Banchou Sarayashiki - Lenda de uma garçonete japonesa que foi jogada em um buraco pelo seu patrão por ter quebrado um prato de uma coleção muito cara de 10 pratos.
 Dialogue: 0,0:08:14.91,0:08:18.11,Rumbel,,0000,0000,0000,,{\4a&H80&}Ela conta todos os pratos um por um e depois do 9º, ela diz...
 Dialogue: 0,0:08:14.91,0:08:21.16,Notes,,0000,0000,0000,,Nota: De acordo com a lenda, o fantasma da garçonete sai do buraco cada noite contando os pratos, mas nunca consegue contar o até o último porque falta um.
 Dialogue: 0,0:08:18.12,0:08:21.16,Rumbel,,0000,0000,0000,,{\4a&H80&}"Tem um faltando. Cadê?!"
@@ -207,7 +207,7 @@ Dialogue: 0,0:09:23.76,0:09:26.04,Rumbel,Ochi,0000,0000,0000,,{\4a&H80&}"Olhem, 
 Dialogue: 0,0:09:26.04,0:09:29.25,Rumbel,,0000,0000,0000,,{\4a&H80&}Que inferno! Que diabos você está fazendo aceitando isso?!
 Dialogue: 0,0:09:29.48,0:09:31.74,Rumbel,,0000,0000,0000,,{\4a&H80&}Pessoal, estou seriamente implorando pra vocês!
 Dialogue: 0,0:09:31.74,0:09:33.53,Rumbel,,0000,0000,0000,,{\4a&H80&}Isso estava realmente desarrumado!
-Dialogue: 0,0:09:33.76,0:09:37.55,Rumbel,,0000,0000,0000,,{\4a&H80&}Ainda mais bagunçado do que a torrada que eu dei no casamento do meu amigo!
+Dialogue: 0,0:09:33.76,0:09:37.55,Rumbel,,0000,0000,0000,,{\4a&H80&}Ainda mais bagunçado do que a saudação que eu dei no casamento do meu amigo!
 Dialogue: 0,0:09:37.64,0:09:40.92,Rumbel,Kagura,0000,0000,0000,,{\4a&H80&}Mas é muito difícil se movimentar com esses pratos que ficam se mechendo.
 Dialogue: 0,0:09:40.98,0:09:43.00,Rumbel,,0000,0000,0000,,{\4a&H80&}Não podemos usar um frisbee ou algo assim?
 Dialogue: 0,0:09:43.00,0:09:46.14,Rumbel,Ochi,0000,0000,0000,,{\4a&H80&}Que tipo de ódio um fantasma poderia ter para contar frisbees um por um?!
@@ -222,8 +222,8 @@ Dialogue: 0,0:10:04.99,0:10:05.65,Rumbel 2,,0000,0000,0000,,{\4a&H80&}Eh?
 Dialogue: 0,0:10:06.14,0:10:08.47,Rumbel,Gintoki,0000,0000,0000,,{\4a&H80&}Porque você está se esforçando tanto por isso?
 Dialogue: 0,0:10:08.69,0:10:09.04,Rumbel,Ochi,0000,0000,0000,,{\4a&H80&}Bem...
 Dialogue: 0,0:10:09.56,0:10:12.54,Rumbel,Kagura,0000,0000,0000,,{\4a&H80&}Isso deve ser dinheiro. Se não, então mulher.
-Dialogue: 0,0:10:14.94,0:10:15.90,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}Hey, Ochi-san!
-Dialogue: 0,0:10:16.89,0:10:18.58,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}O que você quer que agente faça?
+Dialogue: 0,0:10:14.94,0:10:15.90,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}Ei, Ochi-san!
+Dialogue: 0,0:10:16.89,0:10:18.58,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}O que você quer que a gente faça?
 Dialogue: 0,0:10:18.69,0:10:19.42,Rumbel,Ochi,0000,0000,0000,,{\4a&H80&}Uh... {\alpha&FF&}é... é, está certo.
 Dialogue: 0,0:10:19.42,0:10:20.34,Rumbel,,0000,0000,0000,,{\4a&H80&}Uh... é... {\alpha&FF&}é, está certo.
 Dialogue: 0,0:10:20.34,0:10:21.24,Rumbel,,0000,0000,0000,,{\4a&H80&}Uh... é... é, está certo.
@@ -283,7 +283,7 @@ Dialogue: 0,0:12:36.50,0:12:39.98,Rumbel,Kagura,0000,0000,0000,,{\4a&H80&}Como o
 Dialogue: 0,0:12:39.98,0:12:41.17,Rumbel,Ochi,0000,0000,0000,,{\4a&H80&}Oh, eu não posso aguentar isso!
 Dialogue: 0,0:12:41.17,0:12:43.02,Rumbel,,0000,0000,0000,,{\4a&H80&}O caminho desse ano foi horrível!
 Dialogue: 0,0:12:43.22,0:12:46.29,Rumbel,,0000,0000,0000,,{\4a&H80&}Tanto os organizadores e os convidados são uma coleção de aberrações!
-Dialogue: 0,0:12:46.65,0:12:50.19,Rumbel,Gintoki,0000,0000,0000,,{\4a&H80&}Ei, ei. Você não deveria dizer esse tipo de coisa perto na hora do Festival Obon.
+Dialogue: 0,0:12:46.65,0:12:50.19,Rumbel,Gintoki,0000,0000,0000,,{\4a&H80&}Ei, ei. Você não deveria dizer esse tipo de coisa perto da hora do Festival Obon.
 Dialogue: 0,0:12:50.39,0:12:52.47,Rumbel,,0000,0000,0000,,{\4a&H80&}Ainda tem alguns dias restantes no ano.
 Dialogue: 0,0:12:52.50,0:12:55.74,Rumbel,,0000,0000,0000,,{\4a&H80&}Faça tudo o que pode fazer primeiro e amaldiçoe tudo na véspera de Ano Novo.
 Dialogue: 0,0:12:55.76,0:12:59.97,Rumbel,Ochi,0000,0000,0000,,{\4a&H80&}Mesmo que você diga isso, todas as pessoas ouviram falar sobre o quão bagunçada é nossa atração!
@@ -301,7 +301,7 @@ Dialogue: 0,0:13:35.88,0:13:37.90,Rumbel,,0000,0000,0000,,{\4a&H80&}No escritór
 Dialogue: 0,0:13:37.90,0:13:39.09,Rumbel,,0000,0000,0000,,{\4a&H80&}Minha cadeira é proxima a uma janela.
 Dialogue: 0,0:13:39.72,0:13:42.18,Rumbel,,0000,0000,0000,,{\4a&H80&}Eu fui apelidado de "Ochimusha".
 Dialogue: 0,0:13:43.38,0:13:44.76,Rumbel,,0000,0000,0000,,{\4a&H80&}Sempre repreendido por meus superiores...
-Dialogue: 0,0:13:46.00,0:13:48.60,Rumbel,,0000,0000,0000,,{\4a&H80&}Feita a diversão por aqueles que não foram lá por mais tempo que eu todos os dias...
+Dialogue: 0,0:13:46.00,0:13:48.60,Rumbel,,0000,0000,0000,,{\4a&H80&}Fui a diversão daqueles que não foram lá por mais tempo que eu todos os dias...
 Dialogue: 0,0:13:49.54,0:13:51.38,Rumbel,,0000,0000,0000,,{\4a&H80&}A reconstrução da empresa levou-me a ser demitido...
 Dialogue: 0,0:13:52.62,0:13:54.53,Rumbel,,0000,0000,0000,,{\4a&H80&}E, minha esposa se afastou de mim...
 Dialogue: 0,0:13:55.43,0:13:56.93,Rumbel,,0000,0000,0000,,{\4a&H80&}...até que nos separamos.
@@ -408,7 +408,7 @@ Dialogue: 0,0:17:52.80,0:17:53.67,Rumbel,,0000,0000,0000,,{\4a&H80&}O que é iss
 Dialogue: 0,0:17:53.67,0:17:55.67,Rumbel,,0000,0000,0000,,{\4a&H80&}Está faltando um...
 Dialogue: 0,0:17:56.34,0:17:58.33,Rumbel,,0000,0000,0000,,{\4a&H80&}Onde ele está, eu ordeno?!
 Dialogue: 0,0:18:05.47,0:18:08.87,Rumbel,Hedoro,0000,0000,0000,,{\4a&H80&}Bem, essa foi uma interessante demonstração.
-Dialogue: 0,0:18:08.98,0:18:11.95,Rumbel,,0000,0000,0000,,{\4a&H80&}Um ovo tipo de Teste de Coragem, não era?
+Dialogue: 0,0:18:08.98,0:18:11.95,Rumbel,,0000,0000,0000,,{\4a&H80&}Um novo tipo de Teste de Coragem, não era?
 Dialogue: 0,0:18:12.35,0:18:13.22,Rumbel,,0000,0000,0000,,{\4a&H80&}Que seja, {\alpha&FF&}destruição de uma vida não pode ser tolerada.
 Dialogue: 0,0:18:13.22,0:18:15.27,Rumbel,,0000,0000,0000,,{\4a&H80&}Que seja, destruição de vida uma não pode ser tolerada.
 Dialogue: 0,0:18:15.42,0:18:18.31,Rumbel,,0000,0000,0000,,{\4a&H80&}Você estava quase pisando nessa joaninha.
@@ -465,7 +465,7 @@ Dialogue: 0,0:21:57.27,0:22:02.04,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}No 
 Dialogue: 0,0:22:02.19,0:22:05.05,Rumbel,Kagura,0000,0000,0000,,{\4a&H80&}Eles só estavam com medo de ser honestos um com o outro.
 Dialogue: 0,0:22:05.14,0:22:06.40,Rumbel,Gintoki,0000,0000,0000,,{\4a&H80&}Bem, parece que foi isso.
 Dialogue: 0,0:22:06.98,0:22:07.99,Rumbel,Kagura,0000,0000,0000,,{\4a&H80&}Bom para eles...
-Dialogue: 0,0:22:07.99,0:22:10.86,Rumbel,,0000,0000,0000,,{\4a&H80&} Gin-chan, eu quero ir ao vestival também!
+Dialogue: 0,0:22:07.99,0:22:10.86,Rumbel,,0000,0000,0000,,{\4a&H80&} Gin-chan, eu quero ir ao festival também!
 Dialogue: 0,0:22:10.93,0:22:12.16,Rumbel,Gintoki,0000,0000,0000,,{\4a&H80&}O que você está dizendo?
 Dialogue: 0,0:22:12.16,0:22:14.89,Rumbel,,0000,0000,0000,,{\4a&H80&}Nós ainda temos esse Teste de Coragem pra fazer.
 Dialogue: 0,0:22:14.89,0:22:16.45,Rumbel,Shinpachi,0000,0000,0000,,{\4a&H80&}Espere, o que? Nós continuamos fazendo isso?
@@ -486,4 +486,4 @@ Dialogue: 0,0:24:25.81,0:24:29.89,Intro2,Next Episode Title,0000,0000,0000,,{\4a
 Dialogue: 0,0:24:29.89,0:24:34.81,Preview,Text 1,0000,0000,0000,,Gintoki cometeu o erro de jogar fora...
 Dialogue: 0,0:24:29.89,0:24:34.81,Preview2,Text 1,0000,0000,0000,,...sua Jump no dia do lixo incombustível.
 Dialogue: 0,0:24:34.81,0:24:39.97,Preview,Text 2,0000,0000,0000,,{\fad(0,500)}Enquanto houver, Gintoki vê...
-Dialogue: 0,0:24:34.81,0:24:39.97,Preview2,Text 2,0000,0000,0000,,{\fad(0,500)}Próximo epidódio, O Arco Fuyou começa!!
+Dialogue: 0,0:24:34.81,0:24:39.97,Preview2,Text 2,0000,0000,0000,,{\fad(0,500)}Próximo episódio, O Arco Fuyou começa!!

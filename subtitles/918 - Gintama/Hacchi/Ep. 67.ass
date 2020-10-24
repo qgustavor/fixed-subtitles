@@ -198,7 +198,7 @@ Dialogue: 0,0:07:38.80,0:07:39.84,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}In
 Dialogue: 0,0:07:39.84,0:07:41.39,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Incrível! Falta apenas um!
 Dialogue: 0,0:07:41.58,0:07:43.71,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Estou surpreso de termos chegado tão longe.
 Dialogue: 0,0:07:43.71,0:07:47.02,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Não temos culpa se alguma encomenda sofrer um pouquinho de dano.
-Dialogue: 0,0:07:48.54,0:07:49.94,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ei, seus delinqüentes,
+Dialogue: 0,0:07:48.54,0:07:49.94,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ei, seus delinquentes,
 Dialogue: 0,0:07:49.94,0:07:51.11,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}podem estacionar.
 Dialogue: 0,0:07:51.28,0:07:52.41,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Cale a boca!
 Dialogue: 0,0:07:52.41,0:07:54.25,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&\}Se fôssemos delinquentes teríamos parado há muito tempo.
@@ -358,7 +358,7 @@ Dialogue: 0,0:13:27.25,0:13:30.40,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}É
 Dialogue: 0,0:13:30.40,0:13:31.79,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Não consigo nem trabalhar direito.
 Dialogue: 0,0:13:32.01,0:13:33.48,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}O que sinto não é algo temporário.
 Dialogue: 0,0:13:33.48,0:13:34.67,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Isso é bom.
-Dialogue: 0,0:13:35.10,0:13:35.92,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ah... {]\alpha&HFF&}É realmente bom?
+Dialogue: 0,0:13:35.10,0:13:35.92,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ah... {\alpha&HFF&}É realmente bom?
 Dialogue: 0,0:13:35.92,0:13:37.04,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ah... É realmente bom?
 Dialogue: 0,0:13:37.42,0:13:39.11,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ah, está bom.
 Dialogue: 0,0:13:39.11,0:13:40.51,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}O importante é manter o foco no trabalho.
@@ -410,7 +410,7 @@ Dialogue: 0,0:14:54.31,0:14:57.25,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ei
 Dialogue: 0,0:14:57.53,0:14:58.14,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ah, {\alpha&HFF&}desculpe, vá em frente.
 Dialogue: 0,0:14:58.14,0:14:59.59,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ah, desculpe, vá em frente.
 Dialogue: 0,0:15:00.13,0:15:02.72,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Está doendo desde ontem, e eu não aguento mais.
-Dialogue: 0,0:15:02.72,0:15:03.33,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Minhas hemorróidas.
+Dialogue: 0,0:15:02.72,0:15:03.33,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Minhas hemorroidas.
 Dialogue: 0,0:15:04.86,0:15:05.46,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ahn?
 Dialogue: 0,0:15:05.90,0:15:07.35,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Modo assassino...{\alpha&HFF&} Ligado.
 Dialogue: 0,0:15:07.35,0:15:08.05,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Modo assassino... Ligado.

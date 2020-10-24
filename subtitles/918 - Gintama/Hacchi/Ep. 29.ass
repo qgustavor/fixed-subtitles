@@ -299,7 +299,7 @@ Dialogue: 10,0:17:03.86,0:17:05.41,Hacchi,,0,0,0,,Não seja idiota.
 Dialogue: 10,0:17:05.41,0:17:07.16,Hacchi,,0,0,0,,É apenas uma barata enorme. \N Ela não faria isso.
 Dialogue: 10,0:17:10.82,0:17:12.38,Hacchi,,0,0,0,,Shinpachi!
 Dialogue: 10,0:17:12.38,0:17:13.97,Hacchi,,0,0,0,,Cuspa-o, inseto de merda!
-Dialogue: 10,0:17:13.97,0:17:17.32,Hacchi,,0,0,0,,Que gosto ele tinha?! Igual batata de milho? \n Ou ova de bacalhau salgada?!
+Dialogue: 10,0:17:13.97,0:17:17.32,Hacchi,,0,0,0,,Que gosto ele tinha?! Igual batata de milho? \N Ou ova de bacalhau salgada?!
 Dialogue: 10,0:17:19.19,0:17:21.86,Hacchi,,0,0,0,,Veja só! Está chorando. \N Que bebê chorão!
 Dialogue: 10,0:17:21.86,0:17:24.92,Hacchi,,0,0,0,,Se chorar resolvesse tudo, nós não precisaríamos da polícia, idiota!
 Dialogue: 10,0:17:24.92,0:17:27.73,Hacchi,,0,0,0,,Sério, o que nós devemos \N fazer com essa coisa?
@@ -411,7 +411,8 @@ Dialogue: 0,0:01:36.74,0:01:41.99,Intro2,,0,0,0,,Sente-se e aproveite o programa
 Dialogue: 0,0:03:21.18,0:03:27.14,Titulo2,,0,0,0,,{\fad(350,0)}Não Entre em Pânico! \N Existe a Política de Devolução!
 Dialogue: 0,0:12:29.89,0:12:33.02,Notas,,0,0,0,,{\shad0\bord0\c&H4A551B&\blur0.4\pos(320,37.619)}Espada encantada "Destruidora de Estrelas"
 Dialogue: 0,0:12:56.04,0:13:02.01,Titulo2,,0,0,0,,{\fad(350,0)}Eu disse para você prestar atenção nas notícias!
-Dialogue: 0,0:14:21.42,0:14:32.76,Notas,,0,0,0,,{\fad(300,0)\shad0\bord1\fs25\fnTimes\blur1\pos(317.544,381.111)\3c&H141415&}Especialista em criaturas do espaço, Príncipe Hata
+Dialogue: 0,0:14:21.42,0:14:25.00,Notas,,0,0,0,,{\fad(300,0)\shad0\bord1\fs25\fnTimes\blur1\pos(317.544,381.111)\3c&H141415&}Especialista em criaturas do espaço, Príncipe Idiota
+Dialogue: 0,0:14:25.00,0:14:32.76,Notas,,0,0,0,,{\fad(300,0)\shad0\bord1\fs25\fnTimes\blur1\pos(317.544,381.111)\3c&H141415&}Especialista em criaturas do espaço, Príncipe Hata
 Dialogue: 0,0:19:31.10,0:19:32.73,Notas,,0,0,0,,{\shad0\bord0.8\fnDiamond Girl\c&HD9C8A4&\3c&H735F32&\blur1\pos(221.834,350.952)}Por favor, aguarde.
 Dialogue: 0,0:24:10.05,0:24:22.06,Hacchi,,0,0,0,,{\shad0\bord1\be1\an7\fscx86\fscy101\c&HFCFCFC&\pos(392.938,14.475)}PRÓXIMO EPISÓDIO
 Dialogue: 0,0:24:25.06,0:24:29.98,Intro1,,0,0,0,,Como uma apresentação urbana ao vivo tocou o

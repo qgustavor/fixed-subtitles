@@ -107,7 +107,7 @@ Dialogue: 10,0:05:01.05,0:05:04.94,Pensamentos,,0,0,0,,isto é chamado de "A ver
 Dialogue: 10,0:05:05.53,0:05:08.00,Hacchi,,0,0,0,,Como está se saindo, Zenzou?
 Dialogue: 10,0:05:08.00,0:05:12.11,Hacchi,,0,0,0,,Mamão com açúcar. Alvo fácil. \N Consigo fazer o trabalho sem problemas.
 Dialogue: 10,0:05:12.75,0:05:16.00,Hacchi,,0,0,0,,Se quiser, posso até me infiltrar hoje à noite.
-Dialogue: 10,0:05:16.00,0:05:20.05,Hacchi,,0,0,0,,Não é à toa que seu codinimoe é "Marishiten". \N Você é mesmo um ninja entre os ninjas.
+Dialogue: 10,0:05:16.00,0:05:20.05,Hacchi,,0,0,0,,Não é à toa que seu codinome é "Marishiten". \N Você é mesmo um ninja entre os ninjas.
 Dialogue: 10,0:05:20.05,0:05:22.74,Hacchi,,0,0,0,,Eu estava certo em recrutá-lo.
 Dialogue: 10,0:05:22.74,0:05:26.36,Hacchi,,0,0,0,,Então... \N Quem exatamente é aquela criança, Saizou?
 Dialogue: 10,0:05:27.97,0:05:30.25,Hacchi,,0,0,0,,A clarividente Okuni.
@@ -368,7 +368,7 @@ Dialogue: 10,0:22:24.60,0:22:27.60,Pensamentos,,0,0,0,,Alguns podem dizer que ve
 Dialogue: 10,0:22:28.19,0:22:33.68,Pensamentos,,0,0,0,,Mas nós nos atemos a certas regras que os outros não conseguem entender.
 Dialogue: 10,0:22:39.41,0:22:43.33,Pensamentos,,0,0,0,,E então, o gato estará perambulando mais uma vez esta noite.
 Dialogue: 10,0:24:16.83,0:24:18.81,Hacchi,,0,0,0,,Uma cobertura televisiva \N sobre o disfarce do Zura?!
-Dialogue: 10,0:24:18.81,0:24:21.98,Hacchi,,0,0,0,,Como vocês se atravem a me deixar de fora, eu que sou a estrela?!
+Dialogue: 10,0:24:18.81,0:24:21.98,Hacchi,,0,0,0,,Como vocês se atrevem a me deixar de fora, eu que sou a estrela?!
 Dialogue: 10,0:24:21.98,0:24:25.70,Hacchi,,0,0,0,,Certo, eu não sou um fã da repórter Hanano Ana. \N Eu sou fã da Ketsuno Ana.
 Dialogue: 10,0:24:25.94,0:24:26.70,Hacchi,,0,0,0,,No próximo episódio:
 Dialogue: 10,0:24:26.70,0:24:29.96,Hacchi,,0,0,0,,"Comer Nmaibo pode te deixar cheio rapidinho!"
@@ -380,7 +380,7 @@ Dialogue: 0,0:01:34.99,0:01:39.32,Intro1,,0,0,0,,Uma menina que pode ver o futur
 Dialogue: 0,0:01:34.99,0:01:39.32,Intro2,,0,0,0,,O final desta história não pode ser alterado...
 Dialogue: 0,0:01:39.32,0:01:45.04,Intro1,,0,0,0,,{\fscx95}E estamos usando uma nova música de encerramento a partir deste episódio.
 Dialogue: 0,0:01:39.32,0:01:45.04,Intro2,,0,0,0,,Então, por favor, assista até o final.
-Dialogue: 0,0:02:53.31,0:02:59.32,Titulo2,,0,0,0,,{\fad(300,0)}A prévia da seção da JUMP é sempre inacreditável
+Dialogue: 0,0:02:53.31,0:02:59.32,Titulo2,,0,0,0,,{\fad(300,0)}A prévia da JUMP é sempre inacreditável
 Dialogue: 0,0:04:50.72,0:04:58.99,Notas,,0,0,0,,Nota: Ele está se referindo aos personagens, Jaian e Shizuka, de Doraemon
 Dialogue: 0,0:05:01.05,0:05:04.94,Notas,,0,0,0,,Nota: Referência ao Jaian, de Doraemon, e como na série televisiva, o Jaian é sempre o antagonista, mas mostra um lado redentor no filme.
 Dialogue: 0,0:05:16.00,0:05:20.05,Notas,,0,0,0,,Nota: Marishiten é uma deidade budista. Uma deusa matrona dos guerreiros.
@@ -577,7 +577,7 @@ Dialogue: 0,0:22:46.01,0:22:50.47,TED6,,0,0,0,,{\blur0.4}Ao cair da tarde, subi 
 Dialogue: 0,0:22:50.51,0:22:55.47,TED6,,0,0,0,,{\blur0.4}fiquei de pé no lugar mais alto
 Dialogue: 0,0:22:55.77,0:23:02.94,TED6,,0,0,0,,{\blur0.4\fad(0,900)}e dei adeus ao sol que parecia estar afundando.
 Dialogue: 0,0:23:03.98,0:23:09.11,TED6,,0,0,0,,{\blur0.4}Existem histórias feitas só por coincidência.
-Dialogue: 0,0:23:09.11,0:23:14.03,TED6,,0,0,0,,{\blur0.4}Preste ateção ao atravessar a corda bamba.
+Dialogue: 0,0:23:09.11,0:23:14.03,TED6,,0,0,0,,{\blur0.4}Preste atenção ao atravessar a corda bamba.
 Dialogue: 0,0:23:14.03,0:23:23.00,TED6,,0,0,0,,{\blur0.4\q2}Corremos com a impureza e a contradição em cada mão.
 Dialogue: 0,0:23:24.96,0:23:29.17,TED6,,0,0,0,,{\blur0.4}Mesmo antes de você anunciar,
 Dialogue: 0,0:23:29.17,0:23:31.97,TED6,,0,0,0,,{\blur0.4}eu já sabia

@@ -41,10 +41,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.58,0:00:03.21,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Personagens principais, também morrem.
 Dialogue: 0,0:00:03.21,0:00:04.98,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}É melhor eu ter cuidado-ttebayo.
 Dialogue: 0,0:00:03.21,0:00:05.06,Notes,NTP,0000,0000,0000,!Effect,Nota: TTEBAYO é o que o Naruto sempre fala, "DATTEBAYO".
-Dialogue: 0,0:01:33.97,0:01:38.19,Preview,NTP,0000,0000,0000,!Effect,{\4a&H80&}O velho mercado de Dango ‘’Konpeitou’’...
+Dialogue: 0,0:01:33.97,0:01:38.19,Preview,NTP,0000,0000,0000,!Effect,{\4a&H80&}O velho mercado de Dango “Konpeitou”...
 Dialogue: 0,0:01:33.97,0:01:38.19,Preview2,NTP,0000,0000,0000,!Effect,....Seus clientes foram roubados por um nova loja.
 Dialogue: 0,0:01:33.97,0:01:38.19,Preview,NTP,0000,0000,0000,!Effect,{\fs21\3c&H08732E&}Nota: Dango é um bolinho de arroz feito de Mochiko (Farinha de arroz).
-Dialogue: 0,0:01:38.19,0:01:43.95,Preview,NTP,0000,0000,0000,!Effect,As sobremesas da nova padaria ‘’Andrômeda’’..
+Dialogue: 0,0:01:38.19,0:01:43.95,Preview,NTP,0000,0000,0000,!Effect,As sobremesas da nova padaria “Andrômeda”..
 Dialogue: 0,0:01:38.19,0:01:43.95,Preview2,NTP,0000,0000,0000,!Effect,...Tem um gosto que vem de todas as galáxias.
 Dialogue: 0,0:01:49.56,0:01:52.28,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Sua loja está sempre vazia, Velho.
 Dialogue: 0,0:01:49.42,0:01:55.62,sign,NTP,0000,0000,0000,!Effect,{\frz-5\fs18\c&H343436&\pos(361,48)}Dango Shop
@@ -135,7 +135,7 @@ Dialogue: 0,0:04:08.91,0:04:08.99,menu,NTP,0000,0000,0000,!Effect,{\frz15\fs8\po
 Dialogue: 0,0:04:08.99,0:04:13.87,menu,NTP,0000,0000,0000,!Effect,{\frz16\fs8\pos(314,379)}Peitos de mulher.
 Dialogue: 0,0:04:13.87,0:04:13.96,menu,NTP,0000,0000,0000,!Effect,{\frz16\fs8\pos(321,380)}Peitos de mulher.
 Dialogue: 0,0:04:13.96,0:04:19.89,menu,NTP,0000,0000,0000,!Effect,{\frz16\fs8\pos(325,382)}Peitos de mulher.
-Dialogue: 0,0:04:00.35,0:04:03.62,Notes,NTP,0000,0000,0000,!Effect,Nota: Em kanji se lê ’’Peitos de mulher’’ mas poeticamente, isso pode ser lido como ‘’Menu’’.
+Dialogue: 0,0:04:00.35,0:04:03.62,Notes,NTP,0000,0000,0000,!Effect,Nota: Em kanji se lê “Peitos de mulher” mas poeticamente, isso pode ser lido como “Menu”.
 Dialogue: 0,0:04:00.35,0:04:02.75,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Aqui o menu.
 Dialogue: 0,0:04:02.75,0:04:03.63,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Muito Obrigado.
 Dialogue: 0,0:04:04.16,0:04:05.53,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Woo hoo!
@@ -171,7 +171,7 @@ Dialogue: 0,0:05:09.68,0:05:13.18,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ma
 Dialogue: 0,0:05:13.18,0:05:14.37,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ah! Eu vi uma calcinha!.
 Dialogue: 0,0:05:15.33,0:05:16.94,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Em outras palavras.
 Dialogue: 0,0:05:16.94,0:05:19.06,Rumbel,NTP,0000,0000,0000,!Effect,Os verdadeiros homens deveriam ficar quietos e se contentar com os Dangos.
-Dialogue: 0,0:05:16.94,0:05:19.06,Notes,NTP,0000,0000,0000,!Effect,Nota: O velho usou uma frase similar a Hana yori dango. Isso significa  ‘'Contente-se do que você já tem.’’
+Dialogue: 0,0:05:16.94,0:05:19.06,Notes,NTP,0000,0000,0000,!Effect,Nota: O velho usou uma frase similar a Hana yori dango. Isso significa  “Contente-se do que você já tem.”
 Dialogue: 0,0:05:19.06,0:05:20.46,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Eu acho que Ken-san disse isso!
 Dialogue: 0,0:05:19.06,0:05:22.11,Notes,NTP,0000,0000,0000,!Effect,Nota: Takakura Ken é um ator japonês conhecido por fazer papéis de Yakuza.
 Dialogue: 0,0:05:20.61,0:05:22.11,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ele não disse isso.
@@ -195,7 +195,7 @@ Dialogue: 0,0:06:01.14,0:06:03.50,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Da
 Dialogue: 0,0:06:04.32,0:06:08.03,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}É o dono da padaria Andrômeda.
 Dialogue: 0,0:06:08.20,0:06:11.32,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ora, ora, não seria o dono da Andrômeda?
 Dialogue: 0,0:06:11.32,0:06:15.04,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Bom, é que você é alguém tão ocupado, mas, obrigado por parar nesse humilde estabelecimento.
-Dialogue: 0,0:06:16.96,0:06:20.58,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}As vezes eu gosto de comer em um lugares modestos como esse.
+Dialogue: 0,0:06:16.96,0:06:20.58,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Às vezes eu gosto de comer em um lugares modestos como esse.
 Dialogue: 0,0:06:20.58,0:06:22.52,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Como vão os negócios?
 Dialogue: 0,0:06:22.67,0:06:25.30,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Como você pode ver, ruim por causa da sua loja.
 Dialogue: 0,0:06:25.30,0:06:27.75,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Nos deixe ficar com alguns de seus clientes...
@@ -207,7 +207,7 @@ Dialogue: 0,0:06:42.94,0:06:46.64,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Te
 Dialogue: 0,0:06:47.38,0:06:53.39,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Meu sonho é fazer um quarteirão de doces, começando pela Andrômeda.
 Dialogue: 0,0:06:48.90,0:06:53.39,sign2,NTP,0000,0000,0000,!Effect,{\frz13\fry-35\fs25\i1\move(700,86,234,86)\c&HD0D0DF&}Andrômeda
 Dialogue: 0,0:06:53.79,0:06:57.03,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}E depois abrir uma loja de doces e salgados em todo o país.
-Dialogue: 0,0:06:57.03,0:07:02.44,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}As receitas serão digitais, e todas as lojas poderam oferecer o mesmo sabor,
+Dialogue: 0,0:06:57.03,0:07:02.44,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}As receitas serão digitais, e todas as lojas poderão oferecer o mesmo sabor,
 Dialogue: 0,0:07:02.44,0:07:06.40,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}e divulgar a verdadeira doçura através desse país.
 Dialogue: 0,0:07:06.55,0:07:09.81,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Na verdade, mesmo que essa loja seja pobre, nós temos uma tradição de mais de 400 anos.
 Dialogue: 0,0:07:09.81,0:07:12.41,Rumbel,,0000,0000,0000,,{\4a&H80&}Em todas essas gerações, todos criaram uma loja de dangos.
@@ -277,7 +277,7 @@ Dialogue: 0,0:09:40.72,0:09:43.18,sign2,NTP,0000,0000,0000,!Effect,{\pos(293,344
 Dialogue: 0,0:09:43.75,0:09:45.08,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Pai..
 Dialogue: 0,0:09:45.83,0:09:47.96,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Você é uma má pessoa, Suitsu-sama.
 Dialogue: 0,0:09:47.96,0:09:50.59,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Você não acha que o resultado dessa competição, já não esta decidido ?
-Dialogue: 0,0:09:45.83,0:09:50.66,Notes,NTP,0000,0000,0000,!Effect,Nota: Se Suitsu é escrito em katakana, siginifa "Doçura. Mas se for em Kanji, significa "Saliva amarga".
+Dialogue: 0,0:09:45.83,0:09:50.66,Notes,NTP,0000,0000,0000,!Effect,Nota: Se Suitsu é escrito em katakana, significa "Doçura. Mas se for em Kanji, significa "Saliva amarga".
 Dialogue: 0,0:09:50.66,0:09:54.51,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Eu tentei duelar com eles, mais eles não aceitaram o duelo.
 Dialogue: 0,0:09:54.51,0:09:57.56,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Claro. Você está sendo justo, não é?
 Dialogue: 0,0:09:58.09,0:10:00.94,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Graças a esse evento, eu vou conseguir esse pedaço de terra.
@@ -436,7 +436,7 @@ Dialogue: 0,0:17:13.45,0:17:15.70,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}N�
 Dialogue: 0,0:17:17.32,0:17:19.09,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Ei, saiam! Saiam!
 Dialogue: 0,0:17:20.94,0:17:21.84,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Isso é...
 Dialogue: 0,0:17:22.08,0:17:23.97,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Sumôs! são sumôs!
-Dialogue: 0,0:17:24.49,0:17:28.82,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Derrepende, um grupo de sumôs chegaram para pegar a posição na mesa!
+Dialogue: 0,0:17:24.49,0:17:28.82,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}De repente, um grupo de sumôs chegaram para pegar a posição na mesa!
 Dialogue: 0,0:17:30.42,0:17:35.06,Rumbel,NTP,0000,0000,0000,!Effect,Eles estão comendo os dangos em uma rapidez impressionante! Os Dangos para eles não são nada!
 Dialogue: 0,0:17:35.06,0:17:37.21,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Monstros! Realmente parecem monstros!
 Dialogue: 0,0:17:37.21,0:17:41.58,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Andrômeda: 500 pratos. Konpeitou: 450 pratos. Já tem uma diferença de 50 pratos!
@@ -455,7 +455,7 @@ Dialogue: 0,0:18:11.34,0:18:12.96,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}O 
 Dialogue: 0,0:18:18.06,0:18:19.21,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Que porra é essa?!
 Dialogue: 0,0:18:19.57,0:18:21.91,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Um cara está atirando os dangos do espeto.
 Dialogue: 0,0:18:22.19,0:18:26.79,Rumbel,NTP,0000,0000,0000,!Effect,E o outro, está os lançando, com um controle perfeito dentro da boca da menina, sem fazer nenhuma hesitação!
-Dialogue: 0,0:18:26.92,0:18:30.16,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Combination! Uma performace realizada graças a uma perfeita combination!
+Dialogue: 0,0:18:26.92,0:18:30.16,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Combination! Uma performance realizada graças a uma perfeita combination!
 Dialogue: 0,0:18:26.92,0:18:30.16,Notes,NTP,0000,0000,0000,!Effect,Nota: Combination literalmente significa combinação.
 Dialogue: 0,0:18:30.44,0:18:34.30,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Esperem! Essa maneira de comer não está correta!
 Dialogue: 0,0:18:34.44,0:18:36.07,Rumbel,NTP,0000,0000,0000,!Effect,{\4a&H80&}Uma outra objeção!
@@ -576,7 +576,7 @@ Dialogue: 0,0:24:14.88,0:24:20.80,Rumbel,,0000,0000,0000,,{\c&H4748F5&\3c&H07034
 Dialogue: 0,0:24:14.88,0:24:20.80,Rumbel,,0000,0000,0000,,{\pos(390,165)\fnMyriad Pro Cond\fs36\b1\3c&H000000&\c&HFECE62&\bord3}Recrutamento {\c&H36F1F8&}Amanto
 Dialogue: 0,0:24:16.45,0:24:17.55,Rumbel,,0000,0000,0000,,Bem, todos,
 Dialogue: 0,0:24:17.63,0:24:20.81,Rumbel,,0000,0000,0000,,...agradeço pelas muitas entradas ao meu pequeno cérebro, o contestado Recrutamento Amanto.
-Dialogue: 0,0:24:20.81,0:24:24.36,Rumbel,,0000,0000,0000,,Os Amantos escolhram que este deve ser o primeiro concurso histórico em Mahha Noriko!
+Dialogue: 0,0:24:20.81,0:24:24.36,Rumbel,,0000,0000,0000,,Os Amantos escolheram que este deve ser o primeiro concurso histórico em Mahha Noriko!
 Dialogue: 0,0:24:24.36,0:24:27.00,Rumbel,,0000,0000,0000,,De Tóquio, Saito-san, parabéns.
 Dialogue: 0,0:24:27.00,0:24:29.80,Rumbel,,0000,0000,0000,,{\fad(500,0)}Próximo Episódio: Se Você Continuar Correndo, Com Certeza Irá Sobreviver
 Dialogue: 0,0:24:29.81,0:24:34.80,Preview,,0000,0000,0000,,Mahha Noriko, uma mensageira do planeta Speed.
