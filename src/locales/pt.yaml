@@ -6,6 +6,12 @@ not-found-title: Página não encontrada
 contact-link: Contato
 wip: Página em construção
 
+darkmode-tooltip: Trocar cores
+locale-tooltip: Trocar língua
+code-tooltip: |-
+  Abrir página do projeto
+  (você pode baixar todas as legendas lá)
+
 index:
   headline: Compartilhe legendas corrigidas
   description: Baixe legendas corrigidas. Compartilhe erros para serem corrigidos.

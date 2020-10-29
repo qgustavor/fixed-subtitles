@@ -6,17 +6,32 @@
     </router-link>
 
     <div class="flex items-center w-auto">
-      <div class="icon-btn mx-2" @click="isDark = !isDark">
-        <Icon :icon="isDark ? 'carbon:moon' : 'carbon:sun'" class="inline-block" />
-      </div>
+      <div
+        class="icon-btn mx-2"
+        @click="isDark = !isDark"
+        :aria-label="t('darkmode-tooltip')"
+        data-balloon-pos="down-right"
+        data-balloon-blunt
+      ><Icon :icon="isDark ? 'carbon:moon' : 'carbon:sun'" class="inline-block" /></div>
 
-      <div class="icon-btn mx-2" @click="toggleLocales">
-        <Icon icon="carbon:language" class="inline-block" />
-      </div>
+      <div
+        class="icon-btn mx-2"
+        @click="toggleLocales"
+        :aria-label="t('locale-tooltip')"
+        data-balloon-pos="down-right"
+        data-balloon-blunt
+      ><Icon icon="carbon:language" class="inline-block" /></div>
 
-      <a class="icon-btn mx-2" href="https://github.com/qgustavor/fixed-subtitles" target="_blank">
-        <Icon icon="carbon:code" class="inline-block" />
-      </a>
+      <a
+        class="icon-btn mx-2"
+        href="https://github.com/qgustavor/fixed-subtitles"
+        target="_blank"
+        :aria-label="t('code-tooltip')"
+        data-balloon-pos="down-right"
+        data-balloon-length="large"
+        data-balloon-blunt
+        data-balloon-break
+      ><Icon icon="carbon:code" class="inline-block" /></a>
     </div>
   </nav>
 </template>

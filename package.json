@@ -13,6 +13,7 @@
     "@iconify/iconify": "^2.0.0-beta.6",
     "@progress/jszip-esm": "^1.0.2",
     "@vueuse/core": "^4.0.0-beta.9",
+    "balloon-css": "^1.2.0",
     "insights-js": "^1.2.10",
     "uprogress": "^1.0.4",
     "vue": "^3.0.0-rc.8",

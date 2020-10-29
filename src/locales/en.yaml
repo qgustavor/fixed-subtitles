@@ -6,6 +6,12 @@ not-found-title: Page not found
 contact-link: Contact
 wip: Work in progress
 
+darkmode-tooltip: Change color scheme
+locale-tooltip: Change language
+code-tooltip: |-
+  Open project page
+  (you can download all subtitles there)
+
 index:
   headline: Share fixed subtitles
   description: Download fixed subtitles. Share errors to be fixed.
