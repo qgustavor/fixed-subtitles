@@ -61,9 +61,7 @@ export async function onSubmit () {
     return
   }
 
-  insights.track({
-    id: 'contact-form'
-  })
+  track({ id: 'contact-form' })
 
   const form = new URLSearchParams()
   form.append('name', name.value || 'Anonymous')
