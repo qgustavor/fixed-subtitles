@@ -62,6 +62,12 @@ download-modal:
   in-progress: Aguarde enquanto o download termina.
   fonts-prefix: O download terminou. Tente usar o vídeo original do grupo, senão você poderá precisar instalar
   fonts: '@:download-modal.fonts-prefix a seguinte fonte: | @:download-modal.fonts-prefix as seguintes fontes:'
+  font-variant-regular: 'regular'
+  font-variant-bold: 'negrito'
+  font-variant-italic: 'itálico'
+  font-variant-bolditalic: 'negrito itálico'
+  font-variant-and: ' e '
+  font-variant-comma: ', '
   download: Baixar
   cancel: Cancelar
   close: Fechar

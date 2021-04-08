@@ -62,6 +62,12 @@ download-modal:
   in-progress: Please while until the download finishes.
   fonts-prefix: Your download is finished. Try to use the original video from the group, otherwise you might need to install
   fonts: '@:download-modal.fonts-prefix the following font: | @:download-modal.fonts-prefix the following fonts:'
+  font-variant-regular: 'regular'
+  font-variant-bold: 'bold'
+  font-variant-italic: 'italic'
+  font-variant-bolditalic: 'bold italic'
+  font-variant-and: ' and '
+  font-variant-comma: ', '
   download: Download
   cancel: Cancel
   close: Close

@@ -22,7 +22,9 @@
                   {{ t('download-modal.fonts', fonts.size) }}
                 </p>
                 <ul class="list-disc list-inside pt-2 text-left">
-                  <li v-for="font of fonts" class="text-sm leading-5">{{ font }}</li>
+                  <li v-for="font of fonts" class="text-sm leading-5">
+                    {{ font.name }} ({{ formatVariants(font.variants) }})
+                  </li>
                 </ul>
               </div>
             </div>
@@ -85,4 +87,16 @@ onMounted(() => {
 
 const { t } = useI18n()
 export { t }
+
+export function formatVariants (variants) {
+  return variants.reduce((result, variant, index) => {
+    return result + t('download-modal.font-variant-' + variant) + (
+      index === variants.length - 2
+        ? t('download-modal.font-variant-and')
+        : index !== variants.length - 1
+          ? t('download-modal.font-variant-comma')
+          : ''
+    )
+  }, '')
+}
 </script>
