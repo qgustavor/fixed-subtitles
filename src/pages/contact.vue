@@ -47,7 +47,7 @@
 <script setup lang='ts'>
 import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { track } from './utils/user-stats'
+import { track } from '../utils/user-stats'
 
 const name = ref('')
 const message = ref('')
