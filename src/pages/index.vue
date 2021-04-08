@@ -80,19 +80,6 @@
         <Icon class="iconify text-4xl sm:text-6xl text-white" icon="carbon:group" />
       </div>
     </div>
-    <div class="flex items-center sm:flex-row flex-col">
-      <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-gray-800 flex-shrink-0">
-        <Icon class="iconify text-4xl sm:text-6xl text-white" icon="carbon:cloud-download" />
-      </div>
-      <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-        <h2 class="dark:text-white text-lg title-font font-medium mb-2">
-          {{ t('index.explainer.pluggable') }}
-        </h2>
-        <p class="leading-relaxed text-base">
-          {{ t('index.explainer.pluggable2') }}
-        </p>
-      </div>
-    </div>
   </div>
 
   <div class="container my-5 px-6 mx-auto lg:w-2/3">
