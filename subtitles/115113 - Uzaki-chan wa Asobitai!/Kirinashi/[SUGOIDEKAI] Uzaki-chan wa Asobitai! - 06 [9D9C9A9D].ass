@@ -117,7 +117,7 @@ Dialogue: 0,0:06:28.28,0:06:32.03,Sugoi Dekai main,,0,0,0,,Vi algo inacreditáve
 Dialogue: 0,0:06:32.32,0:06:36.91,Sugoi Dekai main,,0,0,0,,Eu e o senpai alugamos um guarda-sol e estendemos um tapete de praia, vamos, fique à vontade. {Alugamos um guarda-sol e \Nestendemos um tapete de praia?}{Por favor, Deca, me diz de onde você tirou essa pergunta...}
 Dialogue: 0,0:06:37.81,0:06:39.27,Sugoi Dekai main,,0,0,0,,Obrigada.
 Dialogue: 0,0:06:40.12,0:06:42.83,Sugoi Dekai main,,0,0,0,,Teria sido bom se o mestre tivesse vindo também, não?
-Dialogue: 0,0:06:42.83,0:06:45.00,Sugoi Dekai main,,0,0,0,,Depois do mal jeito nas costas, não tinha como.
+Dialogue: 0,0:06:42.83,0:06:45.00,Sugoi Dekai main,,0,0,0,,Depois do mau jeito nas costas, não tinha como.
 Dialogue: 0,0:06:45.89,0:06:47.77,Sugoi Dekai main,,0,0,0,,Ai que dor...
 Dialogue: 0,0:06:48.97,0:06:54.11,Sugoi Dekai main,,0,0,0,,Se está procurando o Sakaki-san, ele chegou mais cedo e disse que ia ver a pousada.
 Dialogue: 0,0:06:54.11,0:06:55.33,Sugoi Dekai main,,0,0,0,,Mesmo?
@@ -361,6 +361,7 @@ Dialogue: 0,0:21:36.64,0:21:38.48,Sugoi Dekai main,,0,0,0,,Esquece, não importa
 Dialogue: 0,0:21:44.15,0:21:47.74,Sugoi Dekai main,,0,0,0,,Sinto que perdemos algo muito importante.
 Dialogue: 0,0:21:48.40,0:21:51.25,Sugoi Dekai main,,0,0,0,,Vamos ficar grudados neles na próxima!
 Dialogue: 0,0:21:51.93,0:21:56.26,Sugoi Dekai main,,0,0,0,,Apostarei a alma do Kakyouin que falhará de novo.{https://i.kym-cdn.com/photos/images/original/001/195/575/abf.jpg}
+Dialogue: 0,0:23:36.39,0:23:38.87,Sugoi Dekai main,,0,0,0,,Uzaki Hana vai se tornar adulta!
 Dialogue: 0,0:00:25.50,0:00:25.54,Tenebris-signs,,0,0,0,,{\alpha&H00&\fnCopprplGoth Bd BT\xshad-1\yshad1\fry-5\fax0.03\fsp8\fs42\pos(338.2,214.65)\frz-1.74\c&HFFFDFF&\blur2.98219\4c&H575757&\4a&H91&}QUIOSQUE
 Dialogue: 0,0:00:25.54,0:00:25.58,Tenebris-signs,,0,0,0,,{\alpha&H00&\fnCopprplGoth Bd BT\xshad-1\yshad1\fry-5\fax0.03\fsp8\fs42\pos(343.25,214.65)\frz-1.74\c&HFFFDFF&\blur2.95411\4c&H575757&\4a&H8F&}QUIOSQUE
 Dialogue: 0,0:00:25.58,0:00:25.63,Tenebris-signs,,0,0,0,,{\alpha&H00&\fnCopprplGoth Bd BT\xshad-1\yshad1\fry-5\fax0.03\fsp8\fs42\pos(348.54,214.61)\frz-1.74\c&HFFFDFF&\blur2.92534\4c&H575757&\4a&H8D&}QUIOSQUE

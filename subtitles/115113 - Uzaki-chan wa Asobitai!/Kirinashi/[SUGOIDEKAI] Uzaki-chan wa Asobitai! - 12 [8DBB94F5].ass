@@ -60,8 +60,8 @@ Dialogue: 10,0:03:02.37,0:03:04.08,Sugoi Dekai main,,0,0,0,,Entendi...
 Dialogue: 10,0:03:04.08,0:03:06.79,Sugoi Dekai main,,0,0,0,,Mestre, deixe que eu cuido das coisas pesadas.
 Dialogue: 10,0:03:06.79,0:03:09.54,Sugoi Dekai main,,0,0,0,,Que isso, eu ainda dou conta.
 Dialogue: 10,0:03:13.67,0:03:15.63,Sugoi Dekai main,,0,0,0,,Mestre!
-Dialogue: 10,0:03:16.13,0:03:20.34,Sugoi Dekai main,,0,0,0,,Deu mal jeito nas costas?\NFaz tempo que isso não acontecia...
-Dialogue: 10,0:03:20.72,0:03:23.85,Sugoi Dekai main,,0,0,0,,V-Vamos encerrar as atividade por hoje.
+Dialogue: 10,0:03:16.13,0:03:20.34,Sugoi Dekai main,,0,0,0,,Deu mau jeito nas costas?\NFaz tempo que isso não acontecia...
+Dialogue: 10,0:03:20.72,0:03:23.85,Sugoi Dekai main,,0,0,0,,V-Vamos encerrar as atividades por hoje.
 Dialogue: 10,0:03:23.85,0:03:27.10,Sugoi Dekai main,,0,0,0,,Fechem a loja que eu vou a um osteopata. {整体 seitai; manipulative therapy based on Chinese and Japanese traditions, and encompassing osteopathy, massage and chiropractic​} {o inglês usou chiropractic​, mas logo mais o type diz 整骨院, que é clínica de osteopatia}{Sugoi}
 Dialogue: 10,0:03:28.47,0:03:30.60,Sugoi Dekai main,,0,0,0,,Acho que não temos escolha...
 Dialogue: 10,0:03:30.60,0:03:32.81,Sugoi Dekai main,,0,0,0,,Algum dos dois sabe dirigir?
@@ -226,7 +226,7 @@ Dialogue: 10,0:12:43.20,0:12:44.86,Sugoi Dekai main,,0,0,0,,Você parece feliz.
 Dialogue: 10,0:12:45.78,0:12:49.58,Sugoi Dekai main,,0,0,0,,Quando fica assim, ele não consegue mentir e esquece de tentar parecer forte.
 Dialogue: 10,0:12:49.58,0:12:53.08,Sugoi Dekai main,,0,0,0,,Ou seja, a defesa mental dele cai para zero.
 Dialogue: 10,0:12:53.91,0:12:58.67,Sugoi Dekai main,,0,0,0,,Ele nunca esquece dos seus limites porque não quer que ninguém veja esse seu lado.
-Dialogue: 10,0:13:00.80,0:13:05.51,Sugoi Dekai main,,0,0,0,,Senpai, você parece estar se sentido muito bem, né?
+Dialogue: 10,0:13:00.80,0:13:05.51,Sugoi Dekai main,,0,0,0,,Senpai, você parece estar se sentindo muito bem, né?
 Dialogue: 10,0:13:07.43,0:13:09.81,Sugoi Dekai main,,0,0,0,,Para com isso...
 Dialogue: 10,0:13:11.35,0:13:14.23,Sugoi Dekai main,,0,0,0,,Nunca pensei que fosse chegar a esse nível de vulnerabilidade!
 Dialogue: 10,0:13:15.35,0:13:16.85,Sugoi Dekai main,,0,0,0,,Uzaki...
@@ -334,7 +334,7 @@ Dialogue: 10,0:20:34.67,0:20:36.84,Sugoi Dekai main,,0,0,0,,Ah, Uzaki, bom dia.
 Dialogue: 10,0:20:38.09,0:20:40.13,Sugoi Dekai main,,0,0,0,,Que bom que conseguiu acordar e vir.
 Dialogue: 10,0:20:40.13,0:20:43.09,Sugoi Dekai main,,0,0,0,,{dividir} Pensei que chegaria reclamando sobre isso de novo.
 Dialogue: 10,0:20:43.09,0:20:45.76,Sugoi Dekai main,,0,0,0,,O que acha que eu sou?
-Dialogue: 10,0:20:46.51,0:20:52.39,Sugoi Dekai main,,0,0,0,,Embora eu ainda esteja sentido 90% do choque do fim das férias de verão.
+Dialogue: 10,0:20:46.51,0:20:52.39,Sugoi Dekai main,,0,0,0,,Embora eu ainda esteja sentindo 90% do choque do fim das férias de verão.
 Dialogue: 10,0:20:52.39,0:20:54.27,Sugoi Dekai main,,0,0,0,,Não parece nenhum pouco.
 Dialogue: 10,0:20:54.27,0:20:57.81,Sugoi Dekai main,,0,0,0,,Mas ainda nem nos divertimos muito!
 Dialogue: 10,0:20:57.81,0:21:01.74,Sugoi Dekai main,,0,0,0,,Se as férias durassem para sempre, \Neu poderia me divertir muito mais com você.
@@ -346,7 +346,7 @@ Dialogue: 10,0:21:14.41,0:21:16.29,Sugoi Dekai main,,0,0,0,,Ficaremos sempre jun
 Dialogue: 10,0:21:22.76,0:21:25.84,Sugoi Dekai main,,0,0,0,,Hã? O que foi, Uzaki?
 Dialogue: 10,0:21:30.93,0:21:33.27,Sugoi Dekai main,,0,0,0,,Espera! Não! Não é isso!
 Dialogue: 10,0:21:33.27,0:21:38.73,Sugoi Dekai main,,0,0,0,,Eu quis dizer que ainda vamos ficar \Nmuito tempo juntos até a formatura!
-Dialogue: 10,0:21:38.73,0:21:40.57,Sugoi Dekai main,,0,0,0,,Não foi nesse sentindo que está imaginando!
+Dialogue: 10,0:21:38.73,0:21:40.57,Sugoi Dekai main,,0,0,0,,Não foi nesse sentido que está imaginando!
 Dialogue: 10,0:21:41.98,0:21:45.86,Sugoi Dekai main,,0,0,0,,Oh? E que sentido seria esse, hein?
 Dialogue: 10,0:21:46.74,0:21:47.82,Sugoi Dekai main,,0,0,0,,Sua...
 Dialogue: 10,0:21:47.82,0:21:53.41,Sugoi Dekai main,,0,0,0,,Se quer tanto se divertir comigo, eu brinco com você!
