@@ -62,25 +62,31 @@ const GET_MEDIA_INFO = `
 async function fetchAniList (id) {
   if (!anilistToken) throw Error('Missing ANILIST_TOKEN environment variable')
 
-  // Slow down API requests
-  await new Promise(resolve => setTimeout(resolve, 5e3))
+  let response
+  for (let retries = 0; retries < 2; retries++) {
+    // Slow down API requests
+    await new Promise(resolve => setTimeout(resolve, 2e3 * (Math.random() + Math.pow(2, retries))))
 
-  const response = await fetch(ANILIST_ENDPOINT, {
-    method: 'post',
-    headers: {
-      authorization: 'Bearer ' + anilistToken,
-      'Content-Type': 'application/json',
-      Accept: 'application/json'
-    },
-    body: JSON.stringify({
-      query: GET_MEDIA_INFO,
-      variables: {
-        type: 'ANIME',
-        id
-      }
+    response = await fetch(ANILIST_ENDPOINT, {
+      method: 'post',
+      headers: {
+        authorization: 'Bearer ' + anilistToken,
+        'Content-Type': 'application/json',
+        Accept: 'application/json'
+      },
+      body: JSON.stringify({
+        query: GET_MEDIA_INFO,
+        variables: {
+          type: 'ANIME',
+          id
+        }
+      })
     })
-  })
-  if (!response.ok) throw Error(`AniList API response is ${response.status}`)
+    if (response.ok) break
+    console.error(`AniList API response is ${response.status}`)
+  }
+
+  if (!response.ok) throw Error('Retried AniList too many times')
 
   const mediaInfo = await response.json()
   const media = mediaInfo.data.Media

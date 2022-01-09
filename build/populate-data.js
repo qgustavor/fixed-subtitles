@@ -21,7 +21,14 @@ async function populateData () {
 
   for (const show of shows) {
     const showDir = path.resolve(subtitlesDir, show)
-    const showInfo = await getShowInfo(show)
+    let showInfo
+    try {
+      showInfo = await getShowInfo(show)
+    } catch (err) {
+      console.error('Error while getting show info:', err)
+      console.error('This show will not be listed until the next rebuild.')
+      continue
+    }
     const groups = orderBy(await fs.readdir(showDir))
 
     const [, service, id] = show.match(/^(?:([A-Z]+)-)?(\S+) - /)
