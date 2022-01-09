@@ -14,7 +14,7 @@ code-tooltip: |-
 
 index:
   headline: Share fixed subtitles
-  description: Download fixed subtitles. Share errors to be fixed.
+  description: '{totalFixedFiles} fixed subtitles, {totalChangedLines} issues gone'
   latest_updates: Latest updates
   actions:
     browse:
@@ -49,7 +49,7 @@ contact:
 full-season: '{seasonYear} {season}'
 episodes: '0 episodes | {n} episode | {n} episodes'
 show_list: Show list
-data-source: Anime data provided by {anilist}. Project hosted at GitHub.
+data-source: Anime data provided by {anilist}. Project hosted at GitHub. "{totalChangedLines} issues gone" means that {totalChangedLines} lines were changed in the files. The actual number of fixed issues may be lower in case fixing some issue required changing multiple lines.
 pagination-text: Page {current} of {total}
 select-group: Select one of the groups above.
 file-count: 'No files | {n} file | {n} files'

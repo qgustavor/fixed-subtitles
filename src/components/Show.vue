@@ -23,22 +23,16 @@
   </router-link>
 </template>
 
-<script setup="props" lang='ts'>
+<script setup lang='ts'>
 import { useI18n } from 'vue-i18n'
 import { ref } from 'vue'
 
-export default { props: ['show'] }
+const props = defineProps(['show'])
 
 import placeholderUrl from '../assets/placeholder.png'
 const imageUrl = ref(props.show.metadata.coverImage || placeholderUrl)
-export { imageUrl }
-
 const showName = ref('[Show name]')
-export { showName }
-
 const groups = ref(['[Group name]'])
-export { groups }
 
 const { t } = useI18n()
-export { t }
 </script>

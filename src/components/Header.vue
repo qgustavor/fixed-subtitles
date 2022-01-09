@@ -39,13 +39,12 @@
 <script setup lang='ts'>
 import { useI18n } from 'vue-i18n'
 import { locales } from '/~/messages'
-export { isDark } from '/~/utils'
+import { isDark } from '/~/utils'
 
 const i18n = useI18n()
 const { t } = i18n
-export { t }
 
-export const toggleLocales = () => {
+function toggleLocales () {
   // change to some real logic
   i18n.locale.value = locales[(locales.indexOf(i18n.locale.value) + 1) % locales.length]
 }

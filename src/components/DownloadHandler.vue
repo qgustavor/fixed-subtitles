@@ -42,23 +42,21 @@
   </div>
 </template>
 
-<script setup="props, { emit }" lang='ts'>
+<script setup lang='ts'>
 import { useI18n } from 'vue-i18n'
 import { ref, onMounted } from 'vue'
 import { track } from '/~/utils/user-stats'
 import { downloadRepoFiles, zipAndDownload } from '/~/utils/download-github.ts'
 import { getFontsFromSubtitle } from '/~/utils/subtitle-fonts.ts'
 
-export default {
-  props: [
-    'files',
-    'folder'
-  ]
-}
+const props = defineProps([
+  'files',
+  'folder'
+])
+const emit = defineEmits(['close'])
 
 const downloadData = ref([])
 const fonts = ref(new Set())
-export { downloadData, fonts }
 
 async function downloadFile (files) {
   if (import.meta.env.MODE !== 'development') {
@@ -86,9 +84,8 @@ onMounted(() => {
 })
 
 const { t } = useI18n()
-export { t }
 
-export function formatVariants (variants) {
+function formatVariants (variants) {
   return variants.reduce((result, variant, index) => {
     return result + t('download-modal.font-variant-' + variant) + (
       index === variants.length - 2

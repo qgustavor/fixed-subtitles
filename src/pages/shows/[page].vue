@@ -52,15 +52,13 @@ import { useI18n } from 'vue-i18n'
 import { useRoute } from 'vue-router'
 import { computed } from 'vue'
 
-export default { props: ['page'] }
+defineProps(['page'])
 
-export { shows } from '/~/utils/data-handler.ts'
+import { shows } from '/~/utils/data-handler.ts'
 
 const route = useRoute()
 const pageNumber = computed(() => Number(route.params.page || 0))
 const pageCount = computed(() => Math.ceil(shows.length / 24))
-export { pageNumber, pageCount }
 
 const { t } = useI18n()
-export { t }
 </script>

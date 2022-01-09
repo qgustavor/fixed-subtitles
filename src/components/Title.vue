@@ -8,11 +8,7 @@
 import { useI18n } from 'vue-i18n'
 import { Head } from '@egoist/vue-head'
 
-export default {
-  props: ['page'],
-  components: { Head }
-}
+defineProps(['page'])
 
 const { t } = useI18n()
-export { t }
 </script>

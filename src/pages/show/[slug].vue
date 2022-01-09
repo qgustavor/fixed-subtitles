@@ -107,23 +107,20 @@ import { useI18n } from 'vue-i18n'
 import { useRoute } from 'vue-router'
 import { computed, ref } from 'vue'
 
-export default { props: ['slug'] }
+defineProps(['slug'])
 
-export { shows } from '/~/utils/data-handler'
+import { shows } from '/~/utils/data-handler'
 import { track } from '/~/utils/user-stats'
 
 const route = useRoute()
 const show = computed(() => shows.find(e => e.slug === route.params.slug))
-export { show }
 
 const defaultGroup = show.value && show.value.groups.length === 1 ? show.value.groups[0] : null
 const selectedGroup = ref(defaultGroup)
-export { selectedGroup }
 
 const downloadFiles = ref(null)
-export { downloadFiles }
 
-export function downloadFile (file) {
+function downloadFile (file) {
   const files = file ? [file] : selectedGroup.value.files
   const pathPrefix = window.encodeURIComponent(show.value.folder) +
     '/' + window.encodeURIComponent(selectedGroup.value.name) + '/'
@@ -131,7 +128,7 @@ export function downloadFile (file) {
   downloadFiles.value = files
 }
 
-export function trackExternalLink (key) {
+function trackExternalLink (key) {
   track({
     id: 'external-link',
     parameters: { key }
@@ -139,5 +136,4 @@ export function trackExternalLink (key) {
 }
 
 const { t, d } = useI18n()
-export { t, d }
 </script>

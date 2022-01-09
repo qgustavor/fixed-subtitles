@@ -52,9 +52,8 @@ import { track } from '../utils/user-stats'
 const name = ref('')
 const message = ref('')
 const state = ref('idle')
-export {name, message, state}
 
-export async function onSubmit () {
+async function onSubmit () {
   if (state.value === 'submitting' || state.value === 'submitted') return
   if (!message.value) {
     state.value = 'missing-data'
@@ -83,5 +82,4 @@ export async function onSubmit () {
 }
 
 const { t } = useI18n()
-export { t }
 </script>

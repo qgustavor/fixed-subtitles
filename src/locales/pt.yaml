@@ -14,7 +14,7 @@ code-tooltip: |-
 
 index:
   headline: Compartilhe legendas corrigidas
-  description: Baixe legendas corrigidas. Compartilhe erros para serem corrigidos.
+  description: '{totalFixedFiles} legendas corrigidas, {totalChangedLines} problemas eliminados'
   latest_updates: Últimas atualizações
   actions:
     browse:
@@ -49,7 +49,7 @@ contact:
 full-season: ' {season} de {seasonYear}'
 episodes: 'Nenhum episódio | {n} episódio | {n} episódios'
 show_list: Conteúdos disponíveis
-data-source: Dados de animes fornecidos por {anilist}. Projeto hospedado no GitHub.
+data-source: Dados de animes fornecidos por {anilist}. Projeto hospedado no GitHub. "{totalChangedLines} problemas eliminados" significa que {totalChangedLines} linhas foram alteradas nos arquivos. O número atual de problemas corrigidos pode ser menor caso a correção de algum problema exigiu alterar múltiplas linhas.
 pagination-text: Página {current} de {total}
 select-group: Escolha um dos grupos acima.
 file-count: 'Nenhum arquivo | {n} arquivo | {n} arquivos'

@@ -6,7 +6,7 @@
       {{ t('index.headline') }}
     </h3>
     <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-      {{ t('index.description') }}
+      {{ t('index.description', { totalChangedLines, totalFixedFiles }) }}
     </p>
   </div>
 
@@ -67,7 +67,7 @@
         </p>
       </div>
     </div>
-    <div class="flex items-center border-b pb-10 mb-10 border-gray-400 dark:border-gray-800 sm:flex-row flex-col">
+    <div class="flex items-center sm:flex-row flex-col">
       <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
         <h2 class="dark:text-white text-lg title-font font-medium mb-2">
           {{ t('index.explainer.opensource') }}
@@ -85,6 +85,7 @@
   <div class="container my-5 px-6 mx-auto lg:w-2/3">
     <p class="py-5 border-t pb-10 border-gray-400 dark:border-gray-800">
       <i18n-t keypath="data-source">
+        <template #totalChangedLines>{{ totalChangedLines }}</template>
         <template #anilist><a class="external-link" href="https://anilist.co/">AniList</a></template>
       </i18n-t>
     </p>
@@ -95,8 +96,7 @@
 import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 
-export { lastUpdatedShows } from '/~/utils/data-handler.ts'
+import { lastUpdatedShows, totalChangedLines, totalFixedFiles } from '/~/utils/data-handler.ts'
 
 const { t } = useI18n()
-export { t }
 </script>
