@@ -1,22 +1,14 @@
 /* eslint-disable @typescript-eslint/no-var-requires */
 
 module.exports = {
-  purge: {
-    enabled: process.env.NODE_ENV === 'production',
-    content: [
-      './index.html',
-      './src/**/*.vue',
-      './src/**/*.js',
-      './src/**/*.ts',
-    ],
-    options: {
-      whitelist: [
-        'schema-dark',
-      ],
-    },
-  },
+  content: [
+    './index.html',
+    './src/**/*.vue',
+    './src/**/*.js',
+    './src/**/*.ts',
+  ],
+  darkMode: 'class',
   theme: {
-    darkSelector: '.schema-dark',
     extend: {
       opacity: {
         10: '0.1',
@@ -43,16 +35,7 @@ module.exports = {
       '9-14': [9, 14]
     },
   },
-  variants: {
-    cursor: ['responsive', 'disabled'],
-    backgroundColor: ['dark', 'dark-hover', 'dark-group-hover', 'hover', 'disabled'],
-    borderColor: ['dark', 'dark-disabled', 'dark-focus', 'dark-active', 'active', 'focus', 'disabled'],
-    textColor: ['dark', 'dark-hover', 'dark-active', 'hover', 'active', 'disabled'],
-    opacity: ['dark', 'hover', 'active', 'focus', 'disabled'],
-    aspectRatio: ['responsive']
-  },
   plugins: [
-    require('tailwindcss-dark-mode')(),
     require('tailwindcss-aspect-ratio')
   ],
   future: {

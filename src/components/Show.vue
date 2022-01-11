@@ -1,5 +1,5 @@
 <template>
-  <router-link :to="'/show/' + show.slug"
+  <Link :to="'/show/' + show.slug"
     class="flex bg-white overflow-hidden shadow dark:bg-gray-800 dark:text-white rounded"
   >
     <div class="relative w-1/3">
@@ -14,13 +14,13 @@
         ]"
       >{{ show.metadata.title }}</h1>
       <p class="mt-2 text-sm">
-        <i18n-t keypath="full-season">
+        <i18n-t keypath="full-season" scope="global">
           <template #season>{{ t(`seasons.${show.metadata.season}`) }}</template>
           <template #seasonYear>{{ show.metadata.seasonYear }}</template>
         </i18n-t>
       </p>
     </div>
-  </router-link>
+  </Link>
 </template>
 
 <script setup lang='ts'>

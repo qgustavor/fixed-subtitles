@@ -30,7 +30,7 @@
             </div>
           </div>
         </div>
-        <div class="bg-gray-50 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
+        <div class="bg-gray-50 dark:bg-gray-800 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
           <span class="mt-3 flex w-full rounded-md shadow-sm sm:mt-0 sm:w-auto">
             <button type="button" class="inline-flex justify-center w-full rounded-md border border-gray-300 px-4 py-2 bg-white text-base leading-6 font-medium text-gray-700 shadow-sm hover:text-gray-500 focus:outline-none focus:border-blue-300 focus:shadow-outline-blue transition ease-in-out duration-150 sm:text-sm sm:leading-5" @click="$emit('close')">
               {{ downloadData.length === files.length ? t('download-modal.close') : t('download-modal.cancel') }}
@@ -46,8 +46,6 @@
 import { useI18n } from 'vue-i18n'
 import { ref, onMounted } from 'vue'
 import { track } from '/~/utils/user-stats'
-import { downloadRepoFiles, zipAndDownload } from '/~/utils/download-github.ts'
-import { getFontsFromSubtitle } from '/~/utils/subtitle-fonts.ts'
 
 const props = defineProps([
   'files',
@@ -67,6 +65,9 @@ async function downloadFile (files) {
       }
     })
   }
+
+  const { downloadRepoFiles, zipAndDownload } = await import('/~/utils/download-github.ts')
+  const { getFontsFromSubtitle } = await import('/~/utils/subtitle-fonts.ts')
 
   for await (const file of downloadRepoFiles(files)) {
     const fileFonts = getFontsFromSubtitle(file.data)

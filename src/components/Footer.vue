@@ -4,13 +4,13 @@
       <a class="flex title-font font-medium items-center md:justify-start justify-center">
         <span class="ml-3 text-xl">{{ t('website-name') }}</span>
       </a>
-      <p class="text-sm sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-red-500 sm:py-2 sm:mt-0 mt-4">
+      <p class="text-sm sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-green-800 sm:dark:border-green-300 sm:py-2 sm:mt-0 mt-4">
         {{ t('index.headline') }}
       </p>
       <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
-        <router-link to="/contact" class="text-gray-600">
+        <Link to="/contact" class="text-gray-600">
           {{ t('contact-link') }}
-        </router-link>
+        </Link>
       </span>
     </div>
   </footer>

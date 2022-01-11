@@ -1,10 +1,10 @@
 <template>
-  <Title :page="show && show.metadata.title"></Title>
+  <Title :page="show && show.metadata.title" />
 
   <div class="dark:text-white text-center text-2xl py-20" v-if="!show">
     {{ t('not-found') }}
     <div class="text-8xl mt-2">
-      <Icon class="iconify inline-block" icon="carbon:document-unknown" />
+      <i-carbon-document-unknown class="iconify inline-block" />
     </div>
   </div>
 
@@ -12,24 +12,37 @@
     <div class="w-full md:w-1/3 lg:w-1/5 mr-6">
       <div class="flex md:flex-col">
         <div class="relative mb-3 w-2/5 md:w-full">
-          <div class="aspect-ratio-9-14"></div>
+          <div class="aspect-ratio-9-14" />
           <img class="absolute left-0 top-0 w-full h-full object-cover" :src="show.metadata.coverImage">
         </div>
         <div class="w-full ml-3 md:ml-0 lg:text-lg">
           <h1 class="leading-8 font-bold text-xl md:hidden">{{ show.metadata.title }}</h1>
           <ul>
             <li>
-              <i18n-t keypath="full-season">
+              <i18n-t keypath="full-season" scope="global">
                 <template #season>{{ t('seasons.' + show.metadata.season) }}</template>
                 <template #seasonYear>{{ show.metadata.seasonYear }}</template>
               </i18n-t>
             </li>
             <li>{{ t('episodes', show.metadata.episodes) }}</li>
             <li>{{ t('formats.' + show.metadata.format) }}</li>
-            <li v-for="link of show.metadata.externalLinks" class="lg:text-md">
-              <a :href="link.url" @click="trackExternalLink(link.url)" class="external-link">{{ link.site }}</a>
+            <li
+              v-for="link of show.metadata.externalLinks"
+              :key="link.url"
+              class="lg:text-md"
+            >
+              <a
+                :href="link.url"
+                class="external-link"
+                @click="trackExternalLink(link.url)"
+              >{{ link.site }}</a>
             </li>
-            <li><router-link to="/contact" class="external-link">{{ t('report-error') }}</router-link></li>
+            <li>
+              <Link
+                to="/contact"
+                class="external-link"
+              >{{ t('report-error') }}</Link>
+            </li>
           </ul>
         </div>
       </div>
@@ -38,11 +51,10 @@
     <div class="w-full">
       <h1 class="pb-4 font-bold text-2xl lg:text-3xl hidden md:block">{{ show.metadata.title }}</h1>
 
-      <!-- TODO: show content from README.md if existent -->
-
       <div v-if="show.groups.length > 1">
         <button
           v-for="group of show.groups"
+          :key="group.name"
           class="dark:text-white border-2 py-2 px-4 focus:outline-none rounded text-center mr-2 mb-2"
           :class="[
             selectedGroup && selectedGroup.name === group.name
@@ -56,14 +68,14 @@
       <div v-if="!selectedGroup">{{ t('select-group')}}</div>
       <div v-if="selectedGroup">
         <div class="pb-2 lg:text-lg">
-          <Icon class="iconify group-stat-icon mr-1" icon="carbon:language" />
+          <i-carbon-language class="iconify group-stat-icon mr-1" />
           {{ t('languages.' + selectedGroup.metadata.language, '?') }}
-          <Icon class="iconify group-stat-icon mx-1" icon="carbon:categories" />
+          <i-carbon-categories class="iconify group-stat-icon mx-1" />
           {{ t('file-count', selectedGroup.files.length) }}
-          <Icon class="iconify group-stat-icon mx-1" icon="carbon:clean" />
+          <i-carbon-clean class="iconify group-stat-icon mx-1" />
           {{ t('changed-lines-count', selectedGroup.changedLines) }}
           <button @click="downloadFile()" v-if="selectedGroup.files.length > 1">
-            <Icon class="iconify group-stat-icon mx-1" icon="carbon:download" />
+            <i-carbon-download class="iconify group-stat-icon mx-1" />
             <span class="external-link">{{ t('download-all') }}</span>
           </button>
         </div>
@@ -72,7 +84,7 @@
           v-if="selectedGroup.metadata.content"
           v-html="selectedGroup.metadata.content"
           class="group-info"
-        ></div>
+        />
 
         <table class="text-left w-full border-collapse">
           <thead>
@@ -104,16 +116,16 @@
 
 <script setup lang='ts'>
 import { useI18n } from 'vue-i18n'
-import { useRoute } from 'vue-router'
 import { computed, ref } from 'vue'
+import { usePageContext } from '../usePageContext.ts'
+const pageContext = usePageContext()
 
 defineProps(['slug'])
 
 import { shows } from '/~/utils/data-handler'
 import { track } from '/~/utils/user-stats'
 
-const route = useRoute()
-const show = computed(() => shows.find(e => e.slug === route.params.slug))
+const show = computed(() => shows.find(e => e.slug === pageContext.routeParams.id))
 
 const defaultGroup = show.value && show.value.groups.length === 1 ? show.value.groups[0] : null
 const selectedGroup = ref(defaultGroup)

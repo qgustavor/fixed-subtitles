@@ -34,7 +34,7 @@
         </div>
       </div>
       <div class="p-2 w-full pt-8 mt-8 border-t border-gray-800 text-center">
-        <i18n-t keypath="contact.extra">
+        <i18n-t keypath="contact.extra" scope="global">
           <template #project>
             <a class="external-link" href="https://github.com/qgustavor/fixed-subtitles">{{ t('contact.extra-project') }}</a>
           </template>

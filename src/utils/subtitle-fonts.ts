@@ -10,7 +10,10 @@ export function getFontsFromSubtitle (data) {
   for (const event of eventsSection.body) {
     if (event.key !== 'Dialogue') continue
 
-    const style = styleSection.body.find(e => e.value.Name === event.value.Style)
+    let style = styleSection.body.find(e => e.value.Name === event.value.Style)
+    if (!style) style = styleSection.body.find(e => e.value.Name === 'Default')
+    if (!style) style = styleSection.body.find(e => e.key === 'Style')
+    if (!style) continue
     let font = style.value.Fontname.trim()
     let isBold = Number(style.value.Bold) === -1
     let isItalic = Number(style.value.Italic) === -1

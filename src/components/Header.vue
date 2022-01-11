@@ -1,9 +1,9 @@
 <template>
   <nav class="flex items-center justify-between flex-wrap p-6 dark:text-white">
-    <router-link to="/" class="flex items-center flex-shrink-0 mr-6">
-      <Icon class="iconify inline-block mt-1" icon="carbon:text-annotation-toggle" />
+    <Link to="/" class="flex items-center flex-shrink-0 mr-6">
+      <i-carbon-text-annotation-toggle class="iconify inline-block mt-1" />
       <span class="font-semibold text-xl tracking-tight mx-2">{{ t('website-name') }}</span>
-    </router-link>
+    </Link>
 
     <div class="flex items-center w-auto">
       <div
@@ -12,7 +12,10 @@
         :aria-label="t('darkmode-tooltip')"
         data-balloon-pos="down-right"
         data-balloon-blunt
-      ><Icon :icon="isDark ? 'carbon:moon' : 'carbon:sun'" class="inline-block" /></div>
+      >
+        <i-carbon-moon v-if="isDark" class="inline-block" />
+        <i-carbon-sun v-else class="inline-block" />
+      </div>
 
       <div
         class="icon-btn mx-2"
@@ -20,7 +23,7 @@
         :aria-label="t('locale-tooltip')"
         data-balloon-pos="down-right"
         data-balloon-blunt
-      ><Icon icon="carbon:language" class="inline-block" /></div>
+      ><i-carbon-language class="inline-block" /></div>
 
       <a
         class="icon-btn mx-2"
@@ -31,7 +34,7 @@
         data-balloon-length="large"
         data-balloon-blunt
         data-balloon-break
-      ><Icon icon="carbon:code" class="inline-block" /></a>
+      ><i-carbon-code class="inline-block" /></a>
     </div>
   </nav>
 </template>
