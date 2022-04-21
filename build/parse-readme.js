@@ -32,6 +32,6 @@ module.exports = function parseReadme (markdown, schema) {
     schema: schemas[schema]
   })
   if (errors && errors.length !== 0) throw Error('Error while parsing readme: ' + errors)
-  if (content) data.content = marked(content)
+  if (content) data.content = marked.parse(content)
   return data
 }
