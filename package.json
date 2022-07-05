@@ -17,7 +17,6 @@
     "@vueuse/core": "^7.5.3",
     "balloon-css": "^1.2.0",
     "insights-js": "^1.2.10",
-    "uprogress": "^1.0.4",
     "vue": "^3.2.26",
     "vue-i18n": "^9.2.0-beta.26",
     "vue-router": "^4.0.0-beta.7"
