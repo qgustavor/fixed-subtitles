@@ -193,7 +193,7 @@ Dialogue: 0,0:04:15.85,0:04:20.73,osomatsu-kun red sign,sign,0,0,0,,Osomatsu-kun
 Dialogue: 0,0:04:25.78,0:04:28.12,Main - Top,totoko,0,0,0,,{\i1}Essa é a Academia Osomatsu,
 Dialogue: 0,0:04:28.12,0:04:30.02,Main - Top,totoko,0,0,0,,{\i1}uma escola especificamente criada para artistas.
 Dialogue: 0,0:04:30.54,0:04:32.23,Main - Top,totoko,0,0,0,,{\i1}A maior e a melhor do Japão...
-Dialogue: 0,0:04:32.23,0:04:35.37,Main - Top,totoko,0,0,0,,{\i1}"Escola Cheia de \NPessoas Assustadoramente Atraentes,"
+Dialogue: 0,0:04:32.23,0:04:35.37,Main - Top,totoko,0,0,0,,{\i1}"Escola Cheia de \NPessoas Assustadoramente Atraentes",
 Dialogue: 0,0:04:34.87,0:04:36.88,BL System,sign,0,0,0,,{\fad(530,1)}Sistema BL,
 Dialogue: 0,0:04:35.37,0:04:37.43,Main - Top,totoko,0,0,0,,{\i1}também conhecido como Sistema Escolar BL.
 Dialogue: 0,0:04:36.88,0:04:38.38,School Gate Signs,gates,0,0,0,,Academia Particular \NOsomatsu
@@ -202,7 +202,7 @@ Dialogue: 0,0:04:46.96,0:04:50.25,Main - Top,totoko,0,0,0,,{\i1}Eles são os sê
 Dialogue: 0,0:04:50.25,0:04:52.41,Main - Top,toto,0,0,0,,{\i1}Tirando o "F" de Fuijo,
 Dialogue: 0,0:04:52.41,0:04:54.52,Main - Top,toto,0,0,0,,{\i1}eles são conhecidos como "F6".
 Dialogue: 0,0:04:55.94,0:04:58.08,Main - Top,totoko,0,0,0,,{\i1}O mais velho dos sêxtuplos, \No líder entre eles...
-Dialogue: 0,0:04:58.08,0:05:00.34,Main - Top,totoko,0,0,0,,{\i1}... também conhecido como "A Justiça \NRevigorante," Matsuno Osomatsu.
+Dialogue: 0,0:04:58.08,0:05:00.34,Main - Top,totoko,0,0,0,,{\i1}... também conhecido como "A Justiça \NRevigorante", Matsuno Osomatsu.
 Dialogue: 0,0:05:00.34,0:05:02.76,Main,oso,0,0,0,,Obrigado. Prometo que lerei.
 Dialogue: 0,0:05:02.76,0:05:04.15,Main,girls,0,0,0,,Osomatsu!
 Dialogue: 0,0:05:04.15,0:05:08.01,Main - Top,toto,0,0,0,,{\i1}O segundo irmão, um carnívoro comedor de carne, \Nque gosta de comer carne envolta por mais carne,

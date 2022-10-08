@@ -403,7 +403,7 @@ Dialogue: 0,0:16:12.30,0:16:13.91,Main,ichi,0,0,0,,É um desperdício de energia
 Dialogue: 0,0:16:13.91,0:16:15.37,Main,cat,0,0,0,,Eu não tenho autoconfiança.
 Dialogue: 0,0:16:15.66,0:16:18.28,Main,ichi,0,0,0,,Essas pessoas me trairiam sem pensar duas vezes.
 Dialogue: 0,0:16:18.28,0:16:20.95,Main,cat,0,0,0,,Tavez eu não consiga corresponder às suas expectativas.
-Dialogue: 0,0:16:20.95,0:16:24.15,Main,ichi,0,0,0,,Na verdade, quem já ouviu falar de alguém que tem  um gato como amigo?
+Dialogue: 0,0:16:20.95,0:16:24.15,Main,ichi,0,0,0,,Na verdade, quem já ouviu falar de alguém que tem um gato como amigo?
 Dialogue: 0,0:16:24.15,0:16:26.62,Main,cat,0,0,0,,Na verdade, é mais fácil ter um gato como amigo.
 Dialogue: 0,0:16:26.62,0:16:28.04,Main,ichi,0,0,0,,Eles não entendem o que você diz.
 Dialogue: 0,0:16:28.04,0:16:29.66,Main,cat,0,0,0,,É por isso que eu não vou me machucar.
@@ -532,6 +532,6 @@ Dialogue: 0,0:23:29.30,0:23:32.43,Main,iyami,0,0,0,,Bom trabalho. Vocês podem i
 Dialogue: 0,0:23:32.43,0:23:35.39,Main,iyami,0,0,0,,Você tem pelo saido do nariz. Você fede atrás das orelhas.
 Dialogue: 0,0:23:36.59,0:23:39.62,Main,iyami,0,0,0,,E... semana que vem vocês terão o que estavam esperando!
 Dialogue: 0,0:23:39.62,0:23:41.56,Main,iyami,0,0,0,,Um episódio inteiro sobre mim!
-Dialogue: 0,0:23:41.56,0:23:44.57,Main,iyami,0,0,0,,Tenho certeza de que vocês não têm nada melhor para fazer, então dêem uma olhada!
+Dialogue: 0,0:23:41.56,0:23:44.57,Main,iyami,0,0,0,,Tenho certeza de que vocês não têm nada melhor para fazer, então deem uma olhada!
 Dialogue: 0,0:23:41.56,0:23:50.50,Next Ep Title,sign,0,0,0,,"É Uma Festa De Aniversário, {\i1}Dajo{\i0}"\N"A Grande Descoberta De Iyami"
 Dialogue: 0,0:23:44.57,0:23:46.21,Main,iyami,0,0,0,,Sheeeh!
