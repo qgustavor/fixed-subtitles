@@ -67,7 +67,7 @@ Dialogue: 0,0:01:30.63,0:01:33.71,Diálogo,,0,0,0,,{\i1}É por isso que preciso 
 Dialogue: 0,0:01:33.71,0:01:36.75,Diálogo,,0,0,0,,{\i1}Eu quero ir para a escola também.
 Dialogue: 0,0:01:38.96,0:01:40.88,Diálogo,,0,0,0,,Escola, hein...?
 Dialogue: 0,0:01:42.04,0:01:44.63,Diálogo,,0,0,0,,Gostaria de saber como meus amigos estão...
-Dialogue: 0,0:03:21.04,0:03:25.06,Diálogo,,0,0,0,,A Golden Week, o evento composto por dez feriados consecutivos, finalmente chegou!
+Dialogue: 0,0:03:21.04,0:03:25.06,Diálogo,,0,0,0,,A Golden Week, o feriado que dura dez dias consecutivos, finalmente chegou!
 Dialogue: 0,0:03:25.29,0:03:27.67,Diálogo,,0,0,0,,Ótimo. Isto deve ser o bastante.
 Dialogue: 0,0:03:27.67,0:03:30.06,Diálogo,,0,0,0,,É hora de chamar todas para cá...
 Dialogue: 0,0:03:31.17,0:03:32.71,Diálogo,,0,0,0,,Atena-san!
@@ -79,7 +79,7 @@ Dialogue: 0,0:03:42.08,0:03:43.58,Diálogo,,0,0,0,,Fale como se fosse um irmãoz
 Dialogue: 0,0:03:43.58,0:03:45.54,Diálogo,,0,0,0,,E não se esqueça de me chamar de irmãzona!
 Dialogue: 0,0:03:45.54,0:03:47.54,Diálogo,,0,0,0,,É-É sério?
 Dialogue: 0,0:03:47.71,0:03:48.75,Diálogo,,0,0,0,,Por favor?
-Dialogue: 0,0:03:49.96,0:03:54.46,Diálogo,,0,0,0,,I-Irmãzona... o café da manhã tá pronto.
+Dialogue: 0,0:03:49.96,0:03:54.46,Diálogo,,0,0,0,,O-Onee-chan... o café da manhã tá pronto.
 Dialogue: 0,0:03:59.54,0:04:01.29,Diálogo,,0,0,0,,Bom dia, Koushi-kun!
 Dialogue: 0,0:04:01.29,0:04:03.26,Diálogo,,0,0,0,,B-Bom dia...
 Dialogue: 0,0:04:03.26,0:04:06.38,Diálogo,,0,0,0,,Desculpe por sempre te fazer \Npreparar a comida para nós.
@@ -113,9 +113,9 @@ Dialogue: 0,0:05:13.88,0:05:15.17,Diálogo,,0,0,0,,Porque eu tô entediada.
 Dialogue: 0,0:05:16.13,0:05:18.17,Diálogo,,0,0,0,,Obrigada pela comida!
 Dialogue: 0,0:05:18.92,0:05:20.83,Diálogo,,0,0,0,,Certo...
 Dialogue: 0,0:05:20.83,0:05:22.40,Diálogo,,0,0,0,,Muito bem, Koushi-kun.
-Dialogue: 0,0:05:22.40,0:05:23.96,Diálogo,,0,0,0,,Me chame de "irmãzona".
+Dialogue: 0,0:05:22.40,0:05:23.96,Diálogo,,0,0,0,,Me chame de "onee-chan".
 Dialogue: 0,0:05:23.96,0:05:25.88,Diálogo,,0,0,0,,Ah, é que...
-Dialogue: 0,0:05:25.88,0:05:28.79,Diálogo,,0,0,0,,Será que você prefere "mana querida"?
+Dialogue: 0,0:05:25.88,0:05:28.79,Diálogo,,0,0,0,,Será que você prefere "onee-sama"?
 Dialogue: 0,0:05:28.79,0:05:30.29,Diálogo,,0,0,0,,Ou talvez "maninha"?
 Dialogue: 0,0:05:30.29,0:05:31.64,Diálogo,,0,0,0,,Não é disso que estou falando...
 Dialogue: 0,0:05:31.64,0:05:33.79,Diálogo,,0,0,0,,Por que diabos estou vestindo esta coisa?!
@@ -341,7 +341,8 @@ Dialogue: 0,0:19:19.83,0:19:20.88,Diálogo,,0,0,0,,Dormitório?
 Dialogue: 0,0:19:23.04,0:19:25.29,Diálogo,,0,0,0,,Deixe-me explicar desde o início...
 Dialogue: 0,0:19:26.13,0:19:27.13,Diálogo,,0,0,0,,Sei.
 Dialogue: 0,0:19:29.42,0:19:30.73,Diálogo,,0,0,0,,Oh...?
-Dialogue: 0,0:19:31.25,0:19:33.74,Diálogo,,0,100,0,,{\q2}Responsável por um\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hdormitório feminino?
+Dialogue: 1,0:19:31.25,0:19:33.74,Diálogo,,1,1180,0,,{\an3}Responsável por um
+Dialogue: 1,0:19:31.25,0:19:33.74,Diálogo,,1250,1,0,,{\an1}dormitório feminino?
 Dialogue: 0,0:19:33.74,0:19:35.75,Diálogo,,0,0,0,,Tenho que dizer que é bem criativo.
 Dialogue: 0,0:19:35.75,0:19:38.00,Diálogo,,0,0,0,,Ah, mas isso é verdadeiro! Eu juro!
 Dialogue: 0,0:19:40.67,0:19:42.33,Diálogo,,0,0,0,,Compreendo.
@@ -392,8 +393,6 @@ Dialogue: 0,0:23:59.63,0:24:00.88,Diálogo,,0,0,0,,Isso não é problema para mi
 Dialogue: 0,0:24:00.88,0:24:04.46,Diálogo,,0,0,0,,Você é quem você é, \Ne eu o apoio totalmente!
 Dialogue: 0,0:24:04.92,0:24:07.30,Diálogo,,0,0,0,,Mesmo que signifique gostar de se vestir como uma garota!
 Dialogue: 0,0:24:07.30,0:24:09.79,Diálogo,,0,0,0,,Não precisa me dar apoio nisso!
-Dialogue: 0,0:00:01.02,0:00:05.99,Typesetting [Nults],,0,0,0,,{\fade(482,484)\shad0\bord3\fnArial\fs40\c&HFFFFFF&\3c&H1B1B1A&\pos(958.17,896)}Esta é uma obra de ficção.
-Dialogue: 0,0:00:01.02,0:00:05.99,Typesetting [Nults],,0,0,0,,{\fade(482,484)\shad0\bord3\fnArial\fs38\c&HFFFFFF&\3c&H1B1B1A&\q2\fscx95\pos(961.6,1026.44)}Nomes, personagens, organizações e leis são fruto da imaginação do autor e serão usados ficticiamente.
 Dialogue: 0,0:03:15.97,0:03:21.01,Typesetting [Nults],,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx45\fscy45\c&H4094FB&\clip(m 453.56 734.31 b 455.54 729.51 464.75 708.66 488.43 697.98 507.3 689.47 524.5 692.31 530.5 693.59 530.5 693.34 530.5 693.08 530.5 692.83 530.53 686.3 531.39 664.55 545.19 643.64 561.63 618.73 586.37 610.27 593.35 608.14 l 593.35 561.54 438.62 573.12 375.5 716.54 375.5 783.4 453.56 734.31)\pos(507.46,661.72)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 1,0:03:15.97,0:03:21.01,Typesetting [Nults],,0,0,0,,{\bord0\shad0\frz35.74\fs25\fnArmWrestler\blur0.8\pos(496.57,647.91)}Episódio
 Dialogue: 0,0:03:15.97,0:03:21.01,Typesetting [Nults],,0,0,0,,{\blur0.6\shad0\bord8\fs55\c&HD4D960&\fn@A-OTF Shin Maru Go Pro B\b1\fscx82\4a&HFF&\3c&HD4D960&\pos(1247.26,961)}「KOUSHI NÃO SABE O QUE FAZER」

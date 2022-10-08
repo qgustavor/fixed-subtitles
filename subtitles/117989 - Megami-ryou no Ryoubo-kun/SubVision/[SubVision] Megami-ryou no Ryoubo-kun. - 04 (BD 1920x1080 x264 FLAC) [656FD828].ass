@@ -416,8 +416,6 @@ Dialogue: 99,0:24:02.42,0:24:04.50,Diálogo,,0,0,0,,que servem como proteção p
 Dialogue: 99,0:24:04.50,0:24:06.58,Diálogo,,0,0,0,,Como tal, ela atualmente permanece em um estado extremamente vulnerável...
 Dialogue: 99,0:24:06.59,0:24:08.42,Diálogo,,0,0,0,,O quê? Explique de um modo que \Neu consiga entender, por favor!
 Dialogue: 99,0:24:08.42,0:24:09.58,Diálogo,,0,0,0,,Eu perdi a minha calcinha.
-Dialogue: 0,0:00:00.98,0:00:05.99,Typesetting [Nults],,0,0,0,,{\fade(0,484)\shad0\bord3\fnArial\fs40\c&HFFFFFF&\3c&H1B1B1A&\pos(958.17,896)}Esta é uma obra de ficção.
-Dialogue: 0,0:00:00.98,0:00:05.99,Typesetting [Nults],,0,0,0,,{\fade(0,484)\shad0\bord3\fnArial\fs38\c&HFFFFFF&\3c&H1B1B1A&\q2\fscx95\pos(961.6,1026.44)}Nomes, personagens, organizações e leis são fruto da imaginação do autor e serão usados ficticiamente.
 Dialogue: 0,0:00:07.07,0:00:07.11,Typesetting [Nults],,0,0,0,,{=11}{\fscx102.22\fscy102.22\alpha&HED&\bord1.33\shad0\3c&HEEEEEE&\c&HEEEEEE&\fnCCJimLee\b0\blur0.51\fs50\frz351.22\pos(1680.5,258.3)}Encara
 Dialogue: 0,0:00:07.11,0:00:07.15,Typesetting [Nults],,0,0,0,,{=11}{\fscx101.91\fscy101.91\alpha&HDF&\bord1.32\shad0\3c&HEEEEEE&\c&HEEEEEE&\fnCCJimLee\b0\blur0.51\fs50\frz351.34\pos(1680.84,255.32)}Encara
 Dialogue: 0,0:00:07.15,0:00:07.19,Typesetting [Nults],,0,0,0,,{=11}{\fscx101.29\fscy101.29\alpha&HD1&\bord1.32\shad0\3c&HEEEEEE&\c&HEEEEEE&\fnCCJimLee\b0\blur0.51\fs50\frz351.57\pos(1680.24,251.19)}Encara

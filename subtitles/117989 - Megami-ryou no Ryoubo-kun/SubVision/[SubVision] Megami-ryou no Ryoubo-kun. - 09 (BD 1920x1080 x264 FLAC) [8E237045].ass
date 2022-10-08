@@ -444,8 +444,6 @@ Dialogue: 1,0:01:30.99,0:01:35.99,Typesetting [Nults],,0,0,0,,{\pos(496.57,647.9
 Dialogue: 0,0:01:30.99,0:01:35.99,Typesetting [Nults],,0,0,0,,{\pos(1245.66,961)\fscx82\fn@A-OTF Shin Maru Go Pro B\fs55\bord8\c&HE883C6&\3c&HE583C6&\4a&HFF&\blur0.6}「SUTEA PENSA DIANTE DO KOTATSU」
 Dialogue: 1,0:01:30.99,0:01:35.99,Typesetting [Nults],,0,0,0,,{\pos(1245.66,961)\fscx82\fn@A-OTF Shin Maru Go Pro B\fs55\bord4\c&HE883C6&\3c&HFFFFFA&\4a&HFF&\blur0.6}「SUTEA PENSA DIANTE DO KOTATSU」
 Dialogue: 2,0:01:30.99,0:01:35.99,Typesetting [Nults],,0,0,0,,{\pos(1245.66,961)\fscx82\fn@A-OTF Shin Maru Go Pro B\fs55\c&HE883C6&\3c&HD4D960&\4a&HFF&\blur0.6}「SUTEA PENSA DIANTE DO KOTATSU」
-Dialogue: 0,0:01:35.99,0:01:41.00,Typesetting [Nults],,0,0,0,,{\pos(958.17,896)\fnArial\fs40\bord3\3c&H1B1B1A&\fade(0,483)}Esta é uma obra de ficção.
-Dialogue: 0,0:01:35.99,0:01:41.00,Typesetting [Nults],,0,0,0,,{\pos(961.6,1026.44)\fscx95\fnArial\fs38\bord3\3c&H1B1B1A&\q2\fade(0,483)}Nomes, personagens, organizações e leis são fruto da imaginação do autor e serão usados ficticiamente.
 Dialogue: 0,0:02:02.06,0:02:02.10,Typesetting [Nults],,0,0,0,,{=0}{\pos(1612.16,286.36)\fscx101.84\fscy101.84\frz0.878\fnCCJimLee\bord2.04\c&HA496D5&\3c&HA496D5&\1a&HD8&\3a&HE6&\blur0.61}TREME
 Dialogue: 1,0:02:02.06,0:02:02.10,Typesetting [Nults],,0,0,0,,{=0}{\pos(1612.16,286.36)\fscx101.84\fscy101.84\frz0.878\fnCCJimLee\c&HE6D3FC&\1a&HD8&\3a&HE6&\4a&HFF&\blur0.61}TREME
 Dialogue: 0,0:02:02.10,0:02:02.14,Typesetting [Nults],,0,0,0,,{=0}{\pos(1602.88,283.83)\fscx101.84\fscy101.84\frz0.878\fnCCJimLee\bord2.04\c&HA496D5&\3c&HA496D5&\1a&HCB&\3a&HE0&\blur0.61}TREME

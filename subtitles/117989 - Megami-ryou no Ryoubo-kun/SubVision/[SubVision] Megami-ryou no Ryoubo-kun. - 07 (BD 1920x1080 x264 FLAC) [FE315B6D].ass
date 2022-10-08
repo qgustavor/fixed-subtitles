@@ -163,7 +163,7 @@ Dialogue: 99,0:07:00.92,0:07:03.38,Diálogo,,0,0,0,,A névoa está fazendo efeit
 Dialogue: 99,0:07:03.38,0:07:04.79,Diálogo,,0,0,0,,Não é uma gracinha?
 Dialogue: 99,0:07:04.79,0:07:06.49,Diálogo,,0,0,0,,É tão suave e delicado!
 Dialogue: 99,0:07:08.74,0:07:10.20,Diálogo,,0,0,0,,F-Ferrou!
-Dialogue: 99,0:07:11.41,0:07:14.41,Diálogo,,0,0,0,,Vem que a irmãzona aqui vai cuidar de você!
+Dialogue: 99,0:07:11.41,0:07:14.41,Diálogo,,0,0,0,,Vem que a onee-san aqui vai cuidar de você!
 Dialogue: 99,0:07:15.08,0:07:16.46,Diálogo,,0,0,0,,Que lindinho!
 Dialogue: 99,0:07:16.46,0:07:19.29,Diálogo,,0,0,0,,Não se preocupe. Eu prometo ser gentil!
 Dialogue: 99,0:07:23.13,0:07:25.13,Diálogo,,0,0,0,,P-Parem, ei!
@@ -204,7 +204,7 @@ Dialogue: 99,0:09:35.05,0:09:36.93,Diálogo,,0,0,0,,Não fique chateado.
 Dialogue: 99,0:09:36.93,0:09:39.93,Diálogo,,0,0,0,,Você não é o único servo meu que mora no dormitório.
 Dialogue: 99,0:09:39.93,0:09:43.19,Diálogo,,0,0,0,,O quê? Então isso significa...?
 Dialogue: 99,0:09:44.29,0:09:47.29,Diálogo,,0,0,0,,Enquanto estavam quase dormindo, \Nfiz um pacto com as outras.
-Dialogue: 99,0:09:47.29,0:09:48.83,Diálogo,,0,0,0,,Todas as noite, a gente...
+Dialogue: 99,0:09:47.29,0:09:48.83,Diálogo,,0,0,0,,Todas as noites, a gente...
 Dialogue: 99,0:09:49.17,0:09:50.65,Diálogo,,0,0,0,,Já entendi, já entendi!
 Dialogue: 99,0:09:50.65,0:09:51.86,Diálogo,,0,0,0,,Me poupe dos detalhes!
 Dialogue: 99,0:09:51.86,0:09:54.57,Diálogo,,0,0,0,,No entanto, você é o único aqui.
@@ -307,7 +307,7 @@ Dialogue: 99,0:14:28.97,0:14:29.88,Diálogo,,0,0,0,,Hã?!
 Dialogue: 99,0:14:29.88,0:14:32.39,Diálogo,,0,0,0,,Aposto que será legal. \NVão dar uma volta.
 Dialogue: 99,0:14:32.39,0:14:34.46,Diálogo,,0,0,0,,Mas você não vai ficar \Nsem pessoas por aqui?
 Dialogue: 99,0:14:34.46,0:14:35.81,Diálogo,,0,0,0,,Pode deixar isso comigo!
-Dialogue: 99,0:14:38.17,0:14:39.94,Diálogo,,0,0,0,,Enquanto você faz um pausa,
+Dialogue: 99,0:14:38.17,0:14:39.94,Diálogo,,0,0,0,,Enquanto você faz uma pausa,
 Dialogue: 99,0:14:39.94,0:14:42.24,Diálogo,,0,0,0,,esta empregada aqui vai assumir o seu turno!
 Dialogue: 99,0:14:42.24,0:14:44.61,Diálogo,,0,0,0,,Se a Atena-chan é a empregada adorável,
 Dialogue: 99,0:14:44.61,0:14:46.12,Diálogo,,0,0,0,,esta garota vai ser...
@@ -477,8 +477,6 @@ Dialogue: 1,0:01:41.00,0:01:46.00,Typesetting [Nults],,0,0,0,,{\bord0\shad0\frz3
 Dialogue: 0,0:01:41.00,0:01:46.00,Typesetting [Nults],,0,0,0,,{\blur0.6\shad0\bord8\fs55\c&HD0A7FB&\fn@A-OTF Shin Maru Go Pro B\b1\fscx82\4a&HFF&\3c&HCEA6FE&\pos(1245.66,961)}「FESTIVAL ESCOLAR NA UNIVERSIDADE FEMININA SEIKAN」
 Dialogue: 1,0:01:41.00,0:01:46.00,Typesetting [Nults],,0,0,0,,{\blur0.6\shad0\bord4\fs55\fn@A-OTF Shin Maru Go Pro B\b1\fscx82\4a&HFF&\3c&HFFFFFA&\c&HD0A7FB&\pos(1245.66,961)}「FESTIVAL ESCOLAR NA UNIVERSIDADE FEMININA SEIKAN」
 Dialogue: 2,0:01:41.00,0:01:46.00,Typesetting [Nults],,0,0,0,,{\blur0.6\shad0\bord0\fs55\c&HD0A7FB&\fn@A-OTF Shin Maru Go Pro B\b1\fscx82\4a&HFF&\3c&HD4D960&\pos(1245.66,961)}「FESTIVAL ESCOLAR NA UNIVERSIDADE FEMININA SEIKAN」
-Dialogue: 0,0:01:46.50,0:01:51.47,Typesetting [Nults],,0,0,0,,{\fade(482,484)\shad0\bord3\fnArial\fs40\c&HFFFFFF&\3c&H1B1B1A&\pos(958.17,896)}Esta é uma obra de ficção.
-Dialogue: 0,0:01:46.50,0:01:51.47,Typesetting [Nults],,0,0,0,,{\fade(482,484)\shad0\bord3\fnArial\fs38\c&HFFFFFF&\3c&H1B1B1A&\q2\fscx95\pos(961.6,1026.44)}Nomes, personagens, organizações e leis são fruto da imaginação do autor e serão usados ficticiamente.
 Dialogue: 0,0:00:05.98,0:00:06.02,Typesetting [Nults],,0,0,0,,{=13}{\alpha&H00&\an7\blur1\bord0\shad0\fscx100\fscy100\pos(956.78,925.84)\p1\c&HFD9320&}m -111 41 l -88 40 14 40 92 40 108 45 109 94 77 96 25 96 -2 96 -68 95 -113 95
 Dialogue: 0,0:00:06.02,0:00:06.06,Typesetting [Nults],,0,0,0,,{=13}{\alpha&H00&\an7\blur0.98\bord0\shad0\fscx97.76\fscy97.76\pos(956.84,905.67)\p1\c&HFD9320&}m -111 41 l -88 40 14 40 92 40 108 45 109 94 77 96 25 96 -2 96 -68 95 -113 95
 Dialogue: 0,0:00:06.06,0:00:06.11,Typesetting [Nults],,0,0,0,,{=13}{\alpha&H00&\an7\blur0.96\bord0\shad0\fscx95.61\fscy95.61\pos(956.9,886.3)\p1\c&HFD9320&}m -111 41 l -88 40 14 40 92 40 108 45 109 94 77 96 25 96 -2 96 -68 95 -113 95

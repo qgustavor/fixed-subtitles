@@ -395,8 +395,6 @@ Dialogue: 99,0:24:00.67,0:24:02.92,Diálogo,,0,0,0,,Nesse caso, vamos chamar de 
 Dialogue: 99,0:24:02.92,0:24:04.63,Diálogo,,0,0,0,,E o que tem de tão fantasioso nele?
 Dialogue: 99,0:24:04.63,0:24:07.68,Diálogo,,0,0,0,,Ele te deixa num humor louco e te dá {\i1}lindos{\i0} sonhos!
 Dialogue: 99,0:24:07.68,0:24:09.25,Diálogo,,0,0,0,,Eu que não vou beber essa coisa!
-Dialogue: 0,0:00:00.98,0:00:05.99,Typesetting [Nults],,0,0,0,,{\fade(0,484)\shad0\bord3\fnArial\fs40\c&HFFFFFF&\3c&H1B1B1A&\pos(958.17,896)}Esta é uma obra de ficção.
-Dialogue: 0,0:00:00.98,0:00:05.99,Typesetting [Nults],,0,0,0,,{\fade(0,484)\shad0\bord3\fnArial\fs38\c&HFFFFFF&\3c&H1B1B1A&\q2\fscx95\pos(961.6,1026.44)}Nomes, personagens, organizações e leis são fruto da imaginação do autor e serão usados ficticiamente.
 Dialogue: 0,0:02:23.00,0:02:28.00,Typesetting [Nults],,0,0,0,,{\an7\bord0\shad0\blur1\p1\fscx45\fscy45\c&H4094FB&\clip(m 453.56 734.31 b 455.54 729.51 464.75 708.66 488.43 697.98 507.3 689.47 524.5 692.31 530.5 693.59 530.5 693.34 530.5 693.08 530.5 692.83 530.53 686.3 531.39 664.55 545.19 643.64 561.63 618.73 586.37 610.27 593.35 608.14 l 593.35 561.54 438.62 573.12 375.5 716.54 375.5 783.4 453.56 734.31)\pos(507.46,661.72)}m -100 -100 b -45 -155 45 -155 100 -100 b 155 -45 155 45 100 100 b 46 155 -45 155 -100 100 b -155 45 -155 -45 -100 -100
 Dialogue: 1,0:02:23.00,0:02:28.00,Typesetting [Nults],,0,0,0,,{\bord0\shad0\frz35.74\fs25\fnArmWrestler\blur0.8\pos(496.57,647.91)}Episódio
 Dialogue: 0,0:02:23.00,0:02:28.00,Typesetting [Nults],,0,0,0,,{\blur0.6\shad0\bord8\fs55\c&H1097FE&\fn@A-OTF Shin Maru Go Pro B\b1\fscx82\4a&HFF&\3c&H0F96FF&\pos(1245.66,961)}「SUTEA PENSA DIANTE DO MAR」
