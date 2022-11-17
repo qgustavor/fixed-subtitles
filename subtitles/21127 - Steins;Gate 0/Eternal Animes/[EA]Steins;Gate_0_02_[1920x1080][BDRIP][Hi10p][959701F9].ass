@@ -46,7 +46,7 @@ Dialogue: 0,0:00:26.73,0:00:28.82,Default,,0,0,0,,O quê? Está quebrado?{é uma
 Dialogue: 0,0:00:28.82,0:00:32.82,Default,,0,0,0,,Sequer é possível armazenar memórias como dados?
 Dialogue: 0,0:00:32.82,0:00:35.99,Default,,0,0,0,,Como você acha que eles colhem as amostras de memória?
 Dialogue: 0,0:00:35.99,0:00:38.70,Default,,0,0,0,,Do ponto de vista médico, isso é um completo absurdo.
-Dialogue: 0,0:00:38.70,0:00:42.54,Default,,0,0,0,,É impossível reescrever dados digitais de volta no cérebro. {Quê?  " De volta no cerebro " ? Vai tirar e pôr de volta nele? }{yep}
+Dialogue: 0,0:00:38.70,0:00:42.54,Default,,0,0,0,,É impossível reescrever dados digitais de volta no cérebro. {Quê? " De volta no cerebro " ? Vai tirar e pôr de volta nele? }{yep}
 Dialogue: 0,0:00:42.54,0:00:44.37,Default,,0,0,0,,Isso é completamente insano.
 Dialogue: 0,0:00:44.37,0:00:48.88,Default,,0,0,0,,Eu li o artigo que foi publicado na {\i1}Science{\i}, mas não acredito numa palavra dele.
 Dialogue: 0,0:00:48.88,0:00:54.51,Default,,0,0,0,,Ainda mais quando o autor principal era uma menina de 17 anos.
@@ -65,9 +65,9 @@ Dialogue: 0,0:01:43.77,0:01:47.77,Default,,0,0,0,,"Gritos devem ser reservados a
 Dialogue: 0,0:01:51.61,0:01:53.19,Default,,0,0,0,,Obrigada pela sua paciência.
 Dialogue: 0,0:01:53.19,0:01:58.12,Default,,0,0,0,,Uma intérprete muito melhor tomará meu lugar na tela atrás de mim.
 Dialogue: 0,0:02:02.12,0:02:05.00,Default,,0,0,0,,É um prazer conhecê-los, senhoras e senhores.
-Dialogue: 0,0:02:05.00,0:02:07.75,Default,,0,0,0,,Eu sou Hiyajo Maho.
+Dialogue: 0,0:02:05.00,0:02:07.75,Default,,0,0,0,,Eu sou Hiyajou Maho.
 Dialogue: 0,0:02:07.75,0:02:14.73,Default,,0,0,0,,Mais especificamente, minha existência deriva da dela há 78 horas e 22 minutos. {o 'há'' já indica que é no passado}
-Dialogue: 0,0:02:16.13,0:02:23.06,Default,,0,0,0,,Em outras palavras, opero baseada nas memórias da Hiyajo Maho de aproximadamente quatro dias atrás.
+Dialogue: 0,0:02:16.13,0:02:23.06,Default,,0,0,0,,Em outras palavras, opero baseada nas memórias da Hiyajou Maho de aproximadamente quatro dias atrás.
 Dialogue: 0,0:02:23.06,0:02:25.77,Default,,0,0,0,,Percebi alguém rindo na quinta fileira.
 Dialogue: 0,0:02:25.77,0:02:28.48,Default,,0,0,0,,Sim, você vestindo uma camisa xadrez.
 Dialogue: 0,0:02:28.48,0:02:31.02,Default,,0,0,0,,Posso adivinhar o que você está pensando.
@@ -93,8 +93,8 @@ Dialogue: 0,0:05:14.33,0:05:17.18,Default,,0,0,0,,Hum? Ah, não {\i1}sorry{\i0}.
 Dialogue: 0,0:05:19.23,0:05:21.86,Default,,0,0,0,,Realmente não me dou bem neste tipo de festa.
 Dialogue: 0,0:05:25.20,0:05:28.20,Default,,0,0,0,,Você é aquele da recepção...
 Dialogue: 0,0:05:28.20,0:05:29.45,Default,,0,0,0,,Hum...
-Dialogue: 0,0:05:29.45,0:05:31.54,Default,,0,0,0,,Okabe Rintaro.
-Dialogue: 0,0:05:31.54,0:05:33.83,Default,,0,0,0,,Você é a Hiyajo-san, não é?
+Dialogue: 0,0:05:29.45,0:05:31.54,Default,,0,0,0,,Okabe Rintarou.
+Dialogue: 0,0:05:31.54,0:05:33.83,Default,,0,0,0,,Você é a Hiyajou-san, não é?
 Dialogue: 0,0:05:33.83,0:05:36.00,Default,,0,0,0,,É um nome estranho, não é?
 Dialogue: 0,0:05:36.00,0:05:38.29,Default,,0,0,0,,Embora seja bem comum em Okinawa.
 Dialogue: 0,0:05:38.29,0:05:39.63,Default,,0,0,0,,Hum...
@@ -132,7 +132,7 @@ Dialogue: 0,0:07:20.98,0:07:25.78,Default,,0,0,0,,Você chegou à mesma conclus�
 Dialogue: 0,0:07:25.78,0:07:27.24,Default,,0,0,0,,Uma coincidência?
 Dialogue: 0,0:07:31.03,0:07:32.12,Default,,0,0,0,,Não...
 Dialogue: 0,0:07:32.12,0:07:33.20,Default,,0,0,0,,Hã?
-Dialogue: 0,0:07:33.20,0:07:37.08,Default,,0,0,0,,Tudo o que eu disse agora, a \NKurisu me ensinou uma vez.
+Dialogue: 0,0:07:33.20,0:07:37.08,Default,,0,0,0,,Tudo o que eu disse agora,\N a Kurisu me ensinou uma vez.
 Dialogue: 0,0:07:37.08,0:07:39.96,Default,,0,0,0,,A Kurisu? Quando?! Onde?!
 Dialogue: 0,0:07:39.96,0:07:43.42,Default,,0,0,0,,Quando ela veio aqui como uma estudante de intercâmbio.
 Dialogue: 0,0:07:43.42,0:07:46.76,Default,,0,0,0,,Nos tornamos amigos e conversamos sobre coisas assim.
@@ -175,7 +175,7 @@ Dialogue: 0,0:09:32.82,0:09:37.20,Default,,0,0,0,,Está me dizendo que você e a
 Dialogue: 0,0:09:37.20,0:09:39.03,Default,,0,0,0,,H-Hum, sim.
 Dialogue: 0,0:09:41.33,0:09:42.83,Default,,0,0,0,,Entendo...
 Dialogue: 0,0:09:42.83,0:09:45.58,Default,,0,0,0,,Então você a conheceu quando ela ficou no Japão...
-Dialogue: 0,0:09:45.58,0:09:49.42,Default,,0,0,0,,Eu me chamo Okabe Rintaro, sou um estudante da Universidade Denki.
+Dialogue: 0,0:09:45.58,0:09:49.42,Default,,0,0,0,,Eu me chamo Okabe Rintarou, sou um estudante da Universidade Denki.
 Dialogue: 0,0:09:49.42,0:09:51.50,Default,,0,0,0,,Durante o seminário...
 Dialogue: 0,0:09:51.50,0:09:55.18,Default,,0,0,0,,Você ergueu sua voz em defesa da Kurisu?
 Dialogue: 0,0:09:55.18,0:09:57.04,Default,,0,0,0,,Não, aquilo foi...
@@ -187,7 +187,7 @@ Dialogue: 0,0:10:13.82,0:10:17.36,Default,,0,0,0,,Professor! Mas ele é um estra
 Dialogue: 0,0:10:17.36,0:10:21.03,Default,,0,0,0,,Se ele era amigo da Kurisu, então não é um estranho.
 Dialogue: 0,0:10:21.03,0:10:25.54,Default,,0,0,0,,Deveríamos nos sentir abençoados por termos o encontrado aqui.
 Dialogue: 0,0:10:25.54,0:10:26.87,Default,,0,0,0,,Esperem um pouco.
-Dialogue: 0,0:10:26.87,0:10:30.96,Default,,0,0,0,,Não estou conseguindo acompanhar.  Apresentar-me a quem?
+Dialogue: 0,0:10:26.87,0:10:30.96,Default,,0,0,0,,Não estou conseguindo acompanhar. Apresentar-me a quem?
 Dialogue: 0,0:10:30.96,0:10:32.50,Default,,0,0,0,,Não é uma pessoa.
 Dialogue: 0,0:10:32.50,0:10:34.76,Default,,0,0,0,,Ele se refere à Amadeus.
 Dialogue: 0,0:10:34.76,0:10:37.38,Default,,0,0,0,,Da demonstração mais cedo?
@@ -247,19 +247,19 @@ Dialogue: 0,0:14:15.44,0:14:17.64,Default,,0,0,0,,Bem ali... ao meu lado.
 Dialogue: 0,0:14:19.81,0:14:22.40,Default,,0,0,0,,Com aquela voz...
 Dialogue: 0,0:14:22.40,0:14:24.11,Default,,0,0,0,,Com aquela aparência...
 Dialogue: 0,0:14:26.74,0:14:27.82,Default,,0,0,0,,Vá em frente.
-Dialogue: 0,0:14:36.08,0:14:38.00,Default,,0,0,0,,Okabe Rintaro-san?
+Dialogue: 0,0:14:36.08,0:14:38.00,Default,,0,0,0,,Okabe Rintarou-san?
 Dialogue: 0,0:14:38.00,0:14:39.20,Default,,0,0,0,,Prazer em conhecê-lo.
 Dialogue: 0,0:14:41.13,0:14:42.88,Default,,0,0,0,,Eu sou a Makise Kurisu.
 Dialogue: 0,0:14:42.88,0:14:44.34,Default,,0,0,0,,Conto com você.
 Dialogue: 0,0:14:45.03,0:14:50.03,Titulo,,0,0,0,,{\blur1\pos(928,475)}Epígrafe da Curva Fechada{meio}
 Dialogue: 0,0:14:45.03,0:14:50.03,Titulo - Copy,,0,0,0,,{\fs22.9\blur0.7\pos(926,556)}Epigrafia Fechada
-Dialogue: 0,0:14:51.51,0:14:53.85,Default,,0,0,0,,Este é o Okabe Rintaro-san.
+Dialogue: 0,0:14:51.51,0:14:53.85,Default,,0,0,0,,Este é o Okabe Rintarou-san.
 Dialogue: 0,0:14:53.85,0:14:56.56,Default,,0,0,0,,Nós nos encontramos depois do seminário doutro dia. {por que ela está apresentando ele para alguém que supostamente o conhece? Lol}
 Dialogue: 0,0:14:56.56,0:15:00.48,Default,,0,0,0,,Ele parecia muito interessado na Amadeus, então pedimos para ele vir.
 Dialogue: 0,0:15:00.48,0:15:05.28,Default,,0,0,0,,É mesmo? Para você fazer isso, ele deve ser especial.
 Dialogue: 0,0:15:05.28,0:15:07.70,Default,,0,0,0,,Hum, Okabe-san?
 Dialogue: 0,0:15:09.41,0:15:12.08,Default,,0,0,0,,Você é um neurocientista também?
-Dialogue: 0,0:15:13.79,0:15:17.29,Default,,0,0,0,,A área dele é diferente, mas \Nele, com certeza, é talentoso.
+Dialogue: 0,0:15:13.79,0:15:17.29,Default,,0,0,0,,A área dele é diferente,\N mas ele, com certeza, é talentoso.
 Dialogue: 0,0:15:17.29,0:15:19.75,Default,,0,0,0,,Até o Professor parece ter gostado dele.
 Dialogue: 0,0:15:22.21,0:15:23.75,Default,,0,0,0,,Ei, Senpai.
 Dialogue: 0,0:15:23.75,0:15:24.80,Default,,0,0,0,,Hum?
@@ -312,7 +312,7 @@ Dialogue: 0,0:17:15.53,0:17:16.95,Default,,0,0,0,,E então?
 Dialogue: 0,0:17:16.95,0:17:21.12,Default,,0,0,0,,A resposta que ela me deu foi um pouco diferente de quando conversamos...
 Dialogue: 0,0:17:21.12,0:17:22.50,Default,,0,0,0,,{Hmm...}
 Dialogue: 0,0:17:22.50,0:17:26.67,Default,,0,0,0,,Isto é devido às diferenças entre as linhas do mundo alfa e beta?
-Dialogue: 0,0:17:28.26,0:17:29.65,Default,,0,0,0,,Rintaro!
+Dialogue: 0,0:17:28.26,0:17:29.65,Default,,0,0,0,,Rintarou!
 Dialogue: 0,0:17:29.75,0:17:31.41,Default,,0,0,0,,{\i1}Hey, boy! What's up?{\i0}
 Dialogue: 0,0:17:33.32,0:17:35.67,Default,,0,0,0,,{\i1}I'm fine, thank you. And you?{\i0}
 Dialogue: 0,0:17:35.67,0:17:37.49,Default,,0,0,0,,{\i1}Hum... What?{\i0}
@@ -329,7 +329,7 @@ Dialogue: 0,0:18:02.25,0:18:04.50,Default,,0,0,0,,Você poderia não se interess
 Dialogue: 0,0:18:04.50,0:18:05.54,Default,,0,0,0,,Responda-me.
 Dialogue: 0,0:18:05.54,0:18:06.75,Default,,0,0,0,,Dê-me um tempo!
 Dialogue: 0,0:18:06.75,0:18:08.50,Default,,0,0,0,,Não, eu estou curiosa.
-Dialogue: 0,0:18:10.42,0:18:14.01,Default,,0,0,0,,A Amadeus não é incrível, Rintaro?
+Dialogue: 0,0:18:10.42,0:18:14.01,Default,,0,0,0,,A Amadeus não é incrível, Rintarou?
 Dialogue: 0,0:18:16.38,0:18:17.68,Default,,0,0,0,,Um testador?{ou deixa tester}
 Dialogue: 0,0:18:17.68,0:18:18.68,Default,,0,0,0,,Sim.
 Dialogue: 0,0:18:18.68,0:18:23.39,Default,,0,0,0,,Queremos que você converse com a Amadeus de vez em quando para que possamos coletar dados.
@@ -350,7 +350,7 @@ Dialogue: 0,0:19:13.57,0:19:16.49,Default,,0,0,0,,Eu sabia que isso iria acontec
 Dialogue: 0,0:19:16.49,0:19:17.95,Default,,0,0,0,,É mesmo?
 Dialogue: 0,0:19:17.95,0:19:19.45,Default,,0,0,0,,Sim...
 Dialogue: 0,0:19:19.45,0:19:22.47,Default,,0,0,0,,No momento em que descobri que\N ele conhecia a Kurisu.
-Dialogue: 0,0:19:23.95,0:19:27.29,Default,,0,0,0,,Espero que possamos nos encontrar novamente, Okabe Rintaro-san.
+Dialogue: 0,0:19:23.95,0:19:27.29,Default,,0,0,0,,Espero que possamos nos encontrar novamente, Okabe Rintarou-san.
 Dialogue: 0,0:19:29.54,0:19:33.84,Default,,0,0,0,,Há alguém lá fora que conhece uma Kurisu que eu não conheço...
 Dialogue: 0,0:19:33.84,0:19:36.26,Default,,0,0,0,,Senpai? Senpai?
 Dialogue: 0,0:19:37.84,0:19:39.93,Default,,0,0,0,,Devo pegar para você?

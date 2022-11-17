@@ -210,7 +210,7 @@ Dialogue: 0,0:10:51.11,0:10:52.03,Default,,0,0,0,,Sim.
 Dialogue: 0,0:10:52.03,0:10:54.03,Default,,0,0,0,,Ah, antes disso...
 Dialogue: 0,0:10:54.03,0:10:56.82,Default,,0,0,0,,Estamos esquecendo de algo importante.
 Dialogue: 0,0:10:56.82,0:10:58.66,Default,,0,0,0,,Feliz...
-Dialogue: 0,0:10:58.66,0:11:00.73,Default,,0,0,0,,Ano-Novo! {acabei de descobrir que há 3 formas de se escrever ano novo, me mata} {creio que todos os "ano novo" aqui, referiam-se à festividade, certo? Então vai hífen e duas letras maisculas(Ano-Novo), se se referir ao primeiro dia do ano, mesma bosta,  só que sem letra maiscula(ano-novo), ano novo, sem nada = contrário de ano velho} {usei ctrl + H para mudar tudo :X}
+Dialogue: 0,0:10:58.66,0:11:00.73,Default,,0,0,0,,Ano-Novo! {acabei de descobrir que há 3 formas de se escrever ano novo, me mata} {creio que todos os "ano novo" aqui, referiam-se à festividade, certo? Então vai hífen e duas letras maisculas(Ano-Novo), se se referir ao primeiro dia do ano, mesma bosta, só que sem letra maiscula(ano-novo), ano novo, sem nada = contrário de ano velho} {usei ctrl + H para mudar tudo :X}
 Dialogue: 0,0:11:01.74,0:11:04.45,Default,,0,0,0,,Mal posso esperar para ver a Mayushii fantasiada de sacerdotisa!
 Dialogue: 0,0:11:04.45,0:11:08.08,Default,,0,0,0,,Boba! Não é uma fantasia, é o uniforme dela!
 Dialogue: 0,0:11:08.08,0:11:09.63,Default,,0,0,0,,Oh, é mesmo!
@@ -224,7 +224,7 @@ Dialogue: 0,0:11:24.85,0:11:27.64,Default,,0,0,0,,Hum... Desculpe-me por isso.
 Dialogue: 0,0:11:27.64,0:11:33.02,Default,,0,0,0,,Sei que foi ideia da Mayuri, mas ela foi recrutada para trabalhar como sacerdotisa do nada.
 Dialogue: 0,0:11:33.02,0:11:35.03,Default,,0,0,0,,Isso não me incomoda.
 Dialogue: 0,0:11:35.03,0:11:37.36,Default,,0,0,0,,Eu queria conversar com você mesmo.
-Dialogue: 0,0:11:38.74,0:11:43.41,Default,,0,0,0,,A propósito, você não está frequentando uma universidade americana, Hiyajo-san?
+Dialogue: 0,0:11:38.74,0:11:43.41,Default,,0,0,0,,A propósito, você não está frequentando uma universidade americana, Hiyajou-san?
 Dialogue: 0,0:11:43.41,0:11:44.87,Default,,0,0,0,,Hum? Sim...
 Dialogue: 0,0:11:44.87,0:11:46.87,Default,,0,0,0,,Você está pesquisando coisas incríveis!{Sua pesquisa soa incrível}
 Dialogue: 0,0:11:46.87,0:11:49.12,Default,,0,0,0,,Como era mesmo? Aie-aies?
@@ -247,13 +247,13 @@ Dialogue: 0,0:12:35.71,0:12:37.92,Default,,0,0,0,,Suzuha-san, você está adorá
 Dialogue: 0,0:12:37.92,0:12:40.01,Default,,0,0,0,,O-Obrigada.
 Dialogue: 0,0:12:40.01,0:12:43.55,Default,,0,0,0,,Ficou ótimo em você, não é mesmo?
 Dialogue: 0,0:12:44.93,0:12:46.85,Default,,0,0,0,,Suzuha...
-Dialogue: 0,0:12:46.85,0:12:52.56,Default,,0,0,0,,Tente dizer: "Curve-se, Onii-chan, \Né hora da sua injeção".
+Dialogue: 0,0:12:46.85,0:12:52.56,Default,,0,0,0,,Tente dizer: "Curve-se, Onii-chan,\N é hora da sua injeção".
 Dialogue: 0,0:12:54.36,0:12:56.32,Default,,0,0,0,,Pare de dizer essas asneiras!
 Dialogue: 0,0:12:56.32,0:12:59.24,Default,,0,0,0,,Não me surpreende que não esteja progredindo com a mãe!
 Dialogue: 0,0:12:59.24,0:13:01.20,Default,,0,0,0,,Erro meu!
 Dialogue: 0,0:13:02.49,0:13:05.41,Default,,0,0,0,,Vocês dois se dão muito bem.
 Dialogue: 0,0:13:09.87,0:13:12.79,Default,,0,0,0,,B-Bem, sim, já que ela é minha filh—
-Dialogue: 0,0:13:14.88,0:13:16.79,Default,,0,0,0,,Que tal um saquê?{Omiki na real, mas é saquê} {"G-Gostaria de oferecer saquê??? " Quem está oferecendo, é ela propria = o que acha de um  saque?}
+Dialogue: 0,0:13:14.88,0:13:16.79,Default,,0,0,0,,Que tal um saquê?{Omiki na real, mas é saquê} {"G-Gostaria de oferecer saquê??? " Quem está oferecendo, é ela propria = o que acha de um saque?}
 Dialogue: 0,0:13:16.79,0:13:18.48,Default,,0,0,0,,Nós temos omikuji também.{https://pt.wikipedia.org/wiki/Omikuji}
 Dialogue: 0,0:13:20.34,0:13:22.93,Default,,0,0,0,,Não... acredito.
 Dialogue: 0,0:13:22.93,0:13:25.30,Default,,0,0,0,,Hum, eu fiz alguma coisa?
@@ -310,7 +310,7 @@ Dialogue: 0,0:16:00.67,0:16:04.55,Default,,0,0,0,,Não! Você precisa lavar suas
 Dialogue: 0,0:16:02.70,0:16:04.14,Default,,0,0,0,,{\an8}Okarin!
 Dialogue: 0,0:16:04.55,0:16:08.72,Default,,0,0,0,,A mãe do Ruka-kun nos deu um monte de comida de Ano-Novo!
 Dialogue: 0,0:16:08.72,0:16:10.97,Default,,0,0,0,,Desculpe a demora.
-Dialogue: 0,0:16:10.97,0:16:13.43,Default,,0,0,0,,Rintaro! Até mais!
+Dialogue: 0,0:16:10.97,0:16:13.43,Default,,0,0,0,,Rintarou! Até mais!
 Dialogue: 0,0:16:13.43,0:16:16.43,Default,,0,0,0,,Hã? Vocês já estão indo?
 Dialogue: 0,0:16:16.43,0:16:19.39,Default,,0,0,0,,Ele disse que não há motivos para ficar se não há sacerdotisas.
 Dialogue: 0,0:16:19.39,0:16:21.85,Default,,0,0,0,,Até mais! {\i1}Bye!{\i0}
@@ -409,7 +409,7 @@ Dialogue: 0,0:21:21.70,0:21:25.32,Default,,0,0,0,,Meu relógio parou de funciona
 Dialogue: 0,0:21:25.32,0:21:30.00,Default,,0,0,0,,Que estranho... acabei de dar corda nele...
 Dialogue: 0,0:21:32.08,0:21:34.75,Default,,0,0,0,,Acha que o servidor está atualizando?
 Dialogue: 0,0:21:34.75,0:21:37.92,Default,,0,0,0,,Não fiquei sabendo de nada.
-Dialogue: 0,0:21:37.92,0:21:39.67,Default,,0,0,0,,Okabe Rintaro!
+Dialogue: 0,0:21:37.92,0:21:39.67,Default,,0,0,0,,Okabe Rintarou!
 Dialogue: 0,0:21:48.56,0:21:51.35,Default,,0,0,0,,O-O que está acontecendo?
 Dialogue: 0,0:21:51.35,0:21:52.23,Default,,0,0,0,,Uma surpresa?
 Dialogue: 0,0:21:52.23,0:21:53.60,Default,,0,0,0,,Não se mexa!

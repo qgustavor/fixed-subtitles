@@ -36,56 +36,56 @@ Style: Tela - Copy,Source Sans Pro Semibold,40,&H00343434,&H000000FF,&H00000000,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:08.88,0:00:13.55,Default,,0,0,0,,Ei, Suzuha! {\i1}Lovely, my daughter{\i0},\N você está aí?!
 Dialogue: 0,0:00:13.55,0:00:16.97,Default,,0,0,0,,Que história é essa de \N"{\i1}lovely, my daughter{\i1}"?
-Dialogue: 0,0:00:16.97,0:00:19.93,Default,,0,0,0,,Significa: "minha\N amada filha".
-Dialogue: 0,0:00:19.93,0:00:22.39,Default,,0,0,0,,Não é disso que \Nestou falando!
-Dialogue: 0,0:00:22.39,0:00:24.60,Default,,0,0,0,,O quê? Está tendo \Nproblemas aí?
+Dialogue: 0,0:00:16.97,0:00:19.93,Default,,0,0,0,,Significa: "minha amada filha".
+Dialogue: 0,0:00:19.93,0:00:22.39,Default,,0,0,0,,Não é disso que estou falando!
+Dialogue: 0,0:00:22.39,0:00:24.60,Default,,0,0,0,,O quê? Está tendo problemas aí?
 Dialogue: 0,0:00:24.60,0:00:26.23,Default,,0,0,0,,Não, não pergunte.
 Dialogue: 0,0:00:26.23,0:00:31.74,Default,,0,0,0,,Eu disse que, se você soubesse muitos detalhes, poderia ocorrer um paradoxo temporal, então...
-Dialogue: 0,0:00:31.74,0:00:33.28,Default,,0,0,0,,Você pode pegar \Nisto de volta.
-Dialogue: 0,0:00:33.28,0:00:35.36,Default,,0,0,0,,Droga... V-Você \Ndescobriu.
+Dialogue: 0,0:00:31.74,0:00:33.28,Default,,0,0,0,,Você pode pegar isto de volta.
+Dialogue: 0,0:00:33.28,0:00:35.36,Default,,0,0,0,,Droga... V-Você descobriu.
 Dialogue: 0,0:00:35.36,0:00:39.24,Default,,0,0,0,,Foi bem ao tentar escondê-lo, mas terá que fazer melhor do que isto.
 Dialogue: 0,0:00:39.24,0:00:40.29,Default,,0,0,0,,Bem...
 Dialogue: 0,0:00:40.29,0:00:44.92,Default,,0,0,0,,Se eu não fizer algo, não acho que serei capaz de construir isso no futuro.
 Dialogue: 0,0:00:44.92,0:00:46.75,Default,,0,0,0,,Não trapaceie.
-Dialogue: 0,0:00:52.80,0:00:57.14,Default,,0,0,0,,Você consegue. Se não conseguisse, \Neu não estaria aqui.
+Dialogue: 0,0:00:52.80,0:00:57.14,Default,,0,0,0,,Você consegue. Se não conseguisse,\N eu não estaria aqui.
 Dialogue: 0,0:00:59.51,0:01:01.14,Default,,0,0,0,,Você se decidiu?
 Dialogue: 0,0:01:02.85,0:01:04.43,Default,,0,0,0,,Sim...
 Dialogue: 0,0:01:04.43,0:01:05.98,Default,,0,0,0,,Entendo...
 Dialogue: 0,0:01:09.86,0:01:15.11,Default,,0,0,0,,O problema é que estou muito feliz aqui, nesta época e lugar.{época} {acrescentei o lugar, olhe ai}
-Dialogue: 0,0:01:15.11,0:01:17.57,Default,,0,0,0,,Isso me faz querer ficar\N aqui para sempre.
+Dialogue: 0,0:01:15.11,0:01:17.57,Default,,0,0,0,,Isso me faz querer ficar aqui para sempre.
 Dialogue: 0,0:01:17.57,0:01:22.24,Default,,0,0,0,,Sei que este sonho não pode se tornar realidade, mas me encontro pensando nele.
 Dialogue: 0,0:01:24.20,0:01:25.46,Default,,0,0,0,,Quem está aí?!
 Dialogue: 0,0:01:29.92,0:01:31.46,Default,,0,0,0,,Mayushii?
 Dialogue: 0,0:01:31.46,0:01:32.92,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:01:32.92,0:01:34.55,Default,,0,0,0,,Suzu-san...
 Dialogue: 0,0:01:34.55,0:01:36.47,Default,,0,0,0,,Aconteceu alguma coisa?
-Dialogue: 0,0:01:37.93,0:01:41.10,Default,,0,0,0,,Você veio do futuro, \Nnão é, Suzu-san?
-Dialogue: 0,0:01:41.10,0:01:44.22,Default,,0,0,0,,Todos sabem sobre o \Nfuturo, não é?
+Dialogue: 0,0:01:37.93,0:01:41.10,Default,,0,0,0,,Você veio do futuro, não é, Suzu-san?
+Dialogue: 0,0:01:41.10,0:01:44.22,Default,,0,0,0,,Todos sabem sobre o futuro, não é?
 Dialogue: 0,0:01:44.22,0:01:45.52,Default,,0,0,0,,Mayu-neesan...
 Dialogue: 0,0:01:45.52,0:01:51.11,Default,,0,0,0,,Quero que me conte... sobre a Mayushii... sobre a Makise Kurisu-san...
-Dialogue: 0,0:03:35.46,0:03:37.50,Default,,0,0,0,,Espero que goste do \NChá de Okinawa.{É Chá de Okinawa se não se importa.} {me importo}
+Dialogue: 0,0:03:35.46,0:03:37.50,Default,,0,0,0,,Espero que goste do Chá de Okinawa.{É Chá de Okinawa se não se importa.} {me importo}
 Dialogue: 0,0:03:37.50,0:03:38.96,Default,,0,0,0,,Para onde o Daru-kun foi?
 Dialogue: 0,0:03:38.96,0:03:42.09,Default,,0,0,0,,Já que não temos nada aqui, ele foi comprar algo para acompanhar o chá.
 Dialogue: 0,0:03:42.09,0:03:46.68,Default,,0,0,0,,Perfeito, não acha? Conversas assim, geralmente, são melhores com menos pessoas.
-Dialogue: 0,0:03:46.68,0:03:48.64,Default,,0,0,0,,Você vai participar\N também?
-Dialogue: 0,0:03:48.64,0:03:51.02,Default,,0,0,0,,Sim, eu sou uma \Ncientista.
+Dialogue: 0,0:03:46.68,0:03:48.64,Default,,0,0,0,,Você vai participar também?
+Dialogue: 0,0:03:48.64,0:03:51.02,Default,,0,0,0,,Sim, eu sou uma cientista.
 Dialogue: 0,0:03:51.02,0:03:54.48,Default,,0,0,0,,Posso ser capaz de ajudar a \Ndar uma explicação lógica.
-Dialogue: 0,0:03:54.48,0:03:57.23,Default,,0,0,0,,Então... a Maho-san\N também sabe.
+Dialogue: 0,0:03:54.48,0:03:57.23,Default,,0,0,0,,Então... a Maho-san também sabe.
 Dialogue: 0,0:03:57.23,0:04:00.32,Default,,0,0,0,,Tenho uma vaga ideia pelo \Nque os três me contaram.
-Dialogue: 0,0:04:00.32,0:04:03.41,Default,,0,0,0,,Antes disso, preciso \Nperguntar algo...
-Dialogue: 0,0:04:03.41,0:04:06.87,Default,,0,0,0,,Por que você quer saber \Nagora, de repente?
+Dialogue: 0,0:04:00.32,0:04:03.41,Default,,0,0,0,,Antes disso, preciso perguntar algo...
+Dialogue: 0,0:04:03.41,0:04:06.87,Default,,0,0,0,,Por que você quer saber agora, de repente?
 Dialogue: 0,0:04:06.87,0:04:08.95,Default,,0,0,0,,Bem...
 Dialogue: 0,0:04:08.95,0:04:12.83,Default,,0,0,0,,Até agora, eu estive com medo \Nde saber sobre o futuro.
 Dialogue: 0,0:04:12.83,0:04:13.92,Default,,0,0,0,,Mas...
 Dialogue: 0,0:04:13.92,0:04:15.08,Default,,0,0,0,,Mas?
 Dialogue: 0,0:04:15.08,0:04:19.34,Default,,0,0,0,,Ontem, eu encontrei o\N Okarin... e ele disse...
-Dialogue: 0,0:04:19.34,0:04:23.63,Default,,0,0,0,,Para não pensar em nada... Que\N as coisas estavam bem...
-Dialogue: 0,0:04:23.63,0:04:28.39,Default,,0,0,0,,Mas o Okarin parecia incrivelmente\N tristonho...
+Dialogue: 0,0:04:19.34,0:04:23.63,Default,,0,0,0,,Para não pensar em nada...\N Que as coisas estavam bem...
+Dialogue: 0,0:04:23.63,0:04:28.39,Default,,0,0,0,,Mas o Okarin parecia incrivelmente tristonho...
 Dialogue: 0,0:04:28.39,0:04:32.27,Default,,0,0,0,,Desde o último ano ele tem\N estado muito, muito triste...
 Dialogue: 0,0:04:32.27,0:04:34.06,Default,,0,0,0,,Então é por isso...
 Dialogue: 0,0:04:34.06,0:04:39.07,Default,,0,0,0,,Mesmo assim, não acho que algo vá se resolver mesmo que te contemos. O Okarin-ojisan...
 Dialogue: 0,0:04:39.07,0:04:41.44,Default,,0,0,0,,Eu sei, mas...
-Dialogue: 0,0:04:41.44,0:04:43.53,Default,,0,0,0,,Mesmo assim, eu\N quero ouvir.{saber}
+Dialogue: 0,0:04:41.44,0:04:43.53,Default,,0,0,0,,Mesmo assim, eu quero ouvir.{saber}
 Dialogue: 0,0:04:43.53,0:04:47.87,Default,,0,0,0,,Se eu não escutar agora, sei que me arrependerei algum dia.
 Dialogue: 0,0:04:49.58,0:04:55.50,Default,,0,0,0,,Tudo bem. Mas só para você saber, nenhuma de nós carrega nossas memórias de outras linhas do mundo.
 Dialogue: 0,0:04:55.50,0:04:59.75,Default,,0,0,0,,Na melhor das hipóteses, só posso resumir o que o Okarin-ojisan me disse.
@@ -98,18 +98,18 @@ Dialogue: 0,0:05:20.94,0:05:26.99,Default,,0,0,0,,E... a Makise Kurisu perde sua
 Dialogue: 0,0:05:26.99,0:05:31.79,Default,,0,0,0,,A linha do mundo em que\N estamos agora é a {linha do mundo}beta.
 Dialogue: 0,0:05:31.79,0:05:36.54,Default,,0,0,0,,São só essas? Só existem essas\N duas linhas do mundo?
 Dialogue: 0,0:05:36.54,0:05:37.71,Default,,0,0,0,,Há mais.
-Dialogue: 0,0:05:37.71,0:05:40.75,Default,,0,0,0,,Ou melhor, eu acredito\N que existam.
+Dialogue: 0,0:05:37.71,0:05:40.75,Default,,0,0,0,,Ou melhor, eu acredito que existam.
 Dialogue: 0,0:05:40.75,0:05:44.51,Default,,0,0,0,,A linha do mundo Steins Gate\N definitivamente existe.
 Dialogue: 0,0:05:44.51,0:05:46.68,Default,,0,0,0,,Steins Gate?
 Dialogue: 0,0:05:46.68,0:05:49.18,Default,,0,0,0,,Um mundo onde nenhuma \Nde vocês perde a vida,
 Dialogue: 0,0:05:49.18,0:05:54.47,Default,,0,0,0,,e o conflito sobre máquinas do tempo que dá início à Terceira Guerra Mundial nunca acontece.
-Dialogue: 0,0:05:54.47,0:05:56.77,Default,,0,0,0,,Meu pai, no futuro, contou-me\N sobre ela.
+Dialogue: 0,0:05:54.47,0:05:56.77,Default,,0,0,0,,Meu pai, no futuro, contou-me sobre ela.
 Dialogue: 0,0:05:56.77,0:05:59.77,Default,,0,0,0,,É a linha do mundo desconhecida que estamos tentando alcançar.
 Dialogue: 0,0:05:59.77,0:06:05.11,Default,,0,0,0,,O Okarin-ojisan viveu o mesmo verão diversas vezes tentando encontrar o caminho para lá.
 Dialogue: 0,0:06:05.11,0:06:08.91,Default,,0,0,0,,Ele pensou que tinha que haver\N um jeito de salvar ambas.
 Dialogue: 0,0:06:08.91,0:06:10.16,Default,,0,0,0,,Mas...
 Dialogue: 0,0:06:12.12,0:06:16.91,Default,,0,0,0,,Então... É tudo porque a Mayushii o parou naquele momento...
-Dialogue: 0,0:06:16.91,0:06:18.92,Default,,0,0,0,,Não é culpa sua, \NMayu-neesan.
+Dialogue: 0,0:06:16.91,0:06:18.92,Default,,0,0,0,,Não é culpa sua, Mayu-neesan.
 Dialogue: 0,0:06:18.92,0:06:23.00,Default,,0,0,0,,Honestamente, o Okarin-ojisan já estava acabado naquela época.
 Dialogue: 0,0:06:23.00,0:06:27.30,Default,,0,0,0,,Ele tem a habilidade de lembrar de todas as linhas do mundo, o Reading Steiner.
 Dialogue: 0,0:06:27.30,0:06:33.22,Default,,0,0,0,,Por causa disso, ele retém suas memórias de muitas pessoas, em diferentes linhas do mundo.
@@ -122,16 +122,16 @@ Dialogue: 0,0:06:58.41,0:07:00.62,Default,,0,0,0,,Okarin...
 Dialogue: 0,0:07:00.62,0:07:04.21,Default,,0,0,0,,Era exatamente assim que a Mayu-neesan era no futuro também.
 Dialogue: 0,0:07:04.21,0:07:06.92,Default,,0,0,0,,Você olhava tristemente \Npara o céu e dizia...
 Dialogue: 0,0:07:06.92,0:07:13.22,Default,,0,0,0,,"Naquele dia, se meu Hikoboshi tivesse ressuscitado, tudo poderia ter mudado."
-Dialogue: 0,0:07:16.06,0:07:17.72,Default,,0,0,0,,Desculpem por deixá-las \Nesperando!
-Dialogue: 0,0:07:17.72,0:07:20.77,Default,,0,0,0,,Você demorou bastante. \NAté onde foi?
-Dialogue: 0,0:07:20.77,0:07:23.73,Default,,0,0,0,,Eu esbanjei um pouco.\N Fui até Ginza.
-Dialogue: 0,0:07:23.73,0:07:27.03,Default,,0,0,0,,E por que isso? É o aniversário\N de alguém?
+Dialogue: 0,0:07:16.06,0:07:17.72,Default,,0,0,0,,Desculpem por deixá-las esperando!
+Dialogue: 0,0:07:17.72,0:07:20.77,Default,,0,0,0,,Você demorou bastante. Até onde foi?
+Dialogue: 0,0:07:20.77,0:07:23.73,Default,,0,0,0,,Eu esbanjei um pouco. Fui até Ginza.
+Dialogue: 0,0:07:23.73,0:07:27.03,Default,,0,0,0,,E por que isso? É o aniversário de alguém?
 Dialogue: 0,0:07:27.03,0:07:28.36,Default,,0,0,0,,É uma despedida.
 Dialogue: 0,0:07:28.36,0:07:29.47,Default,,0,0,0,,Despedida?
 Dialogue: 0,0:07:30.32,0:07:33.57,Default,,0,0,0,,Veja. Eu peguei os shortcakes{bolo} \Nque você adora, Suzuha.
 Dialogue: 0,0:07:33.57,0:07:35.24,Default,,0,0,0,,Conseguir dois foi moleza.
-Dialogue: 0,0:07:35.24,0:07:39.50,Default,,0,0,0,,N-Não diga que \Neu os adoro.
-Dialogue: 0,0:07:39.50,0:07:42.62,Default,,0,0,0,,Por despedida, você\N se refere à... {à suzuha}
+Dialogue: 0,0:07:35.24,0:07:39.50,Default,,0,0,0,,N-Não diga que eu os adoro.
+Dialogue: 0,0:07:39.50,0:07:42.62,Default,,0,0,0,,Por despedida, você se refere à... {à suzuha}
 Dialogue: 0,0:07:42.62,0:07:45.38,Default,,0,0,0,,Sim... Eu decidi ir hoje.
 Dialogue: 0,0:07:45.38,0:07:52.22,Default,,0,0,0,,Se eu ficar enrolando, não serei capaz de voltar ao dia 28 de julho do ano passado em que a Makise Kurisu morreu.
 Dialogue: 0,0:07:54.43,0:07:55.97,Default,,0,0,0,,Do ano passado...
@@ -142,10 +142,10 @@ Dialogue: 0,0:08:01.94,0:08:05.06,Default,,0,0,0,,Era por isso que eu queria dei
 Dialogue: 0,0:08:05.06,0:08:07.36,Default,,0,0,0,,Para que pudéssemos tentar \No quanto fosse necessário.
 Dialogue: 0,0:08:07.36,0:08:12.82,Default,,0,0,0,,Suzu-san, você vai voltar para o passado? O que acontecerá quando fizer isso?
 Dialogue: 0,0:08:12.82,0:08:14.32,Default,,0,0,0,,Quem sabe?
-Dialogue: 0,0:08:14.32,0:08:17.53,Default,,0,0,0,,Não voltarei mais para cá, \Nisso é certeza.
+Dialogue: 0,0:08:14.32,0:08:17.53,Default,,0,0,0,,Não voltarei mais para cá, isso é certeza.
 Dialogue: 0,0:08:17.53,0:08:22.54,Default,,0,0,0,,A convergência da linha do mundo pode significar que uma irregularidade como eu seja corrigida.
 Dialogue: 0,0:08:22.54,0:08:25.04,Default,,0,0,0,,Corrigida?
-Dialogue: 0,0:08:31.01,0:08:35.22,Default,,0,0,0,,Suzu-san, espere! Você \Nnão pode ir! Não!
+Dialogue: 0,0:08:31.01,0:08:35.22,Default,,0,0,0,,Suzu-san, espere! Você não pode ir! Não!
 Dialogue: 0,0:08:36.47,0:08:38.72,Default,,0,0,0,,Suzu-san! Daru-kun!
 Dialogue: 0,0:08:38.72,0:08:41.22,Default,,0,0,0,,Suzuha... Esforce-se.
 Dialogue: 0,0:08:41.22,0:08:42.89,Default,,0,0,0,,{\i1}Okey-dokey{\i0}!
@@ -154,7 +154,7 @@ Dialogue: 0,0:08:45.56,0:08:46.77,Default,,0,0,0,,Daru-kun...
 Dialogue: 0,0:08:46.77,0:08:49.90,Default,,0,0,0,,Então... Começar missão!
 Dialogue: 0,0:08:58.53,0:09:00.16,Default,,0,0,0,,Você tem certeza?
 Dialogue: 0,0:09:00.16,0:09:04.66,Default,,0,0,0,,É mesmo... Você é o pai \Nda Suzu-san, não é?
-Dialogue: 0,0:09:04.66,0:09:07.67,Default,,0,0,0,,Eu não gosto disso! Você\N precisa pará-la!
+Dialogue: 0,0:09:04.66,0:09:07.67,Default,,0,0,0,,Eu não gosto disso! Você precisa pará-la!
 Dialogue: 0,0:09:07.67,0:09:10.34,Default,,0,0,0,,Eu... não vou pará-la.
 Dialogue: 0,0:09:13.36,0:09:14.74,Tela,,0,0,0,,{\fad(485,0)\frz27.5\blur0.6\an1\pos(430,530)\fnConstantia\bord0\fs35\c&H817D7E&}Acha que podemos nos encontrar\N hoje? Há muitas coisas das quais\N eu gostaria de falar.
 Dialogue: 0,0:09:13.36,0:09:14.74,Tela,,0,0,0,,{\fad(485,0)\frz28.5\blur0.6\an1\pos(690,660)\fnConstantia\bord0\fs35\c&H666261&}Desculpe por ontem.
@@ -164,51 +164,51 @@ Dialogue: 0,0:09:20.89,0:09:22.22,Default,,0,0,0,,Alô?
 Dialogue: 0,0:09:22.22,0:09:25.60,Default,,0,0,0,,A Suzu-san... A Suzu-san \Nestá com problemas!
 Dialogue: 0,0:09:25.60,0:09:27.06,Default,,0,0,0,,A Suzuha?
 Dialogue: 0,0:09:27.06,0:09:31.86,Default,,0,0,0,,Sim! Ela está indo à máquina do tempo para voltar ao ano passado...
-Dialogue: 0,0:09:31.86,0:09:34.44,Default,,0,0,0,,Ela está indo, mas não\N poderá voltar!
+Dialogue: 0,0:09:31.86,0:09:34.44,Default,,0,0,0,,Ela está indo, mas não poderá voltar!
 Dialogue: 0,0:09:34.44,0:09:36.32,Default,,0,0,0,,Por que você...?
 Dialogue: 0,0:09:36.32,0:09:37.45,Default,,0,0,0,,Hum?
-Dialogue: 0,0:09:37.45,0:09:40.87,Default,,0,0,0,,Por que você está falando\N sobre isso?
-Dialogue: 0,0:09:40.87,0:09:43.95,Default,,0,0,0,,Você tentou descobrir! \NEu disse a você!
-Dialogue: 0,0:09:43.95,0:09:46.12,Default,,0,0,0,,É melhor que você não\N saiba de nada.
-Dialogue: 0,0:09:46.12,0:09:48.08,Default,,0,0,0,,O tempo em que\N estamos é—
+Dialogue: 0,0:09:37.45,0:09:40.87,Default,,0,0,0,,Por que você está falando sobre isso?
+Dialogue: 0,0:09:40.87,0:09:43.95,Default,,0,0,0,,Você tentou descobrir! Eu disse a você!
+Dialogue: 0,0:09:43.95,0:09:46.12,Default,,0,0,0,,É melhor que você não saiba de nada.
+Dialogue: 0,0:09:46.12,0:09:48.08,Default,,0,0,0,,O tempo em que estamos é—
 Dialogue: 0,0:09:51.80,0:09:53.25,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:09:52.94,0:09:54.15,Tela,,0,0,0,,{\blur0.5\frz6.8\bord0\fs70\pos(580,325)\c&HA9AD82&\1a&H9A&}Sem sinal
 Dialogue: 0,0:09:55.92,0:09:57.97,Default,,0,0,0,,Neste último ano...
-Dialogue: 0,0:09:59.01,0:10:02.22,Default,,0,0,0,,Sempre estive\N pensando...
+Dialogue: 0,0:09:59.01,0:10:02.22,Default,,0,0,0,,Sempre estive pensando...
 Dialogue: 0,0:10:02.22,0:10:08.44,Default,,0,0,0,,Por que o meu eu de 25 anos no futuro enviou a Suzuha para esta era? {acho que "de volta" nao se encaixava aí. ja que ela é do futuro, nunca esteve antes}
-Dialogue: 0,0:10:12.77,0:10:15.32,Default,,0,0,0,,Acho que eu queria\N mostrar a ela...
+Dialogue: 0,0:10:12.77,0:10:15.32,Default,,0,0,0,,Acho que eu queria mostrar a ela...
 Dialogue: 0,0:10:15.32,0:10:17.20,Default,,0,0,0,,Este mundo...
 Dialogue: 0,0:10:19.11,0:10:21.95,Default,,0,0,0,,Isso foi o que me ajudou a\N tomar minha decisão.
 Dialogue: 0,0:10:21.95,0:10:27.71,Default,,0,0,0,,Terminar o meu dever, como a Suzuha... Fazer as coisas que somente eu posso...
 Dialogue: 0,0:10:27.71,0:10:29.75,Default,,0,0,0,,Que coisas?
 Dialogue: 0,0:10:29.75,0:10:35.88,Default,,0,0,0,,Daqui 25 anos, este cara aqui fará a primeira máquina do tempo da humanidade.
-Dialogue: 0,0:10:38.68,0:10:42.80,Default,,0,0,0,,O que... a Mayushii \Ndeveria fazer? {morrer de uma  vez. menina inutil e irritante}{ROFL}
-Dialogue: 0,0:10:42.80,0:10:46.22,Default,,0,0,0,,Quero ajudar, mas não\N posso fazer nada...
+Dialogue: 0,0:10:38.68,0:10:42.80,Default,,0,0,0,,O que... a Mayushii deveria fazer? {morrer de uma vez. menina inutil e irritante}{ROFL}
+Dialogue: 0,0:10:42.80,0:10:46.22,Default,,0,0,0,,Quero ajudar, mas não posso fazer nada...
 Dialogue: 0,0:10:46.22,0:10:51.60,Default,,0,0,0,,Você foi aquela que fez o Okarin voltar a ficar em pé. Isso não é o suficiente?{Ajudou o okarin a se recuparar}
 Dialogue: 0,0:10:51.60,0:10:52.94,Default,,0,0,0,,Naquele dia...
 Dialogue: 0,0:10:52.94,0:10:53.94,Default,,0,0,0,,Hum?
-Dialogue: 0,0:10:53.94,0:10:57.57,Default,,0,0,0,,Se o meu Hikoboshi tivesse\N ressuscitado...
-Dialogue: 0,0:10:57.57,0:11:00.70,Default,,0,0,0,,...tudo poderia ter\N mudado.
+Dialogue: 0,0:10:53.94,0:10:57.57,Default,,0,0,0,,Se o meu Hikoboshi tivesse ressuscitado...
+Dialogue: 0,0:10:57.57,0:11:00.70,Default,,0,0,0,,...tudo poderia ter mudado.
 Dialogue: 0,0:11:00.70,0:11:02.66,Default,,0,0,0,,Isso é...
-Dialogue: 0,0:11:02.66,0:11:06.12,Default,,0,0,0,,O Hikoboshi da\N Mayushii é...
-Dialogue: 0,0:11:06.12,0:11:09.66,Default,,0,0,0,,...desde aquele momento, \Napenas um.{so very alone}
+Dialogue: 0,0:11:02.66,0:11:06.12,Default,,0,0,0,,O Hikoboshi da Mayushii é...
+Dialogue: 0,0:11:06.12,0:11:09.66,Default,,0,0,0,,...desde aquele momento, apenas um.{so very alone}
 Dialogue: 0,0:11:09.66,0:11:13.63,Default,,0,0,0,,Neste último ano, ele esteve\N com algo faltando...
 Dialogue: 0,0:11:13.63,0:11:19.26,Default,,0,0,0,,E eu quero que ele encontrasse isso... Quero vê-lo voltar a ser como antes...
-Dialogue: 0,0:11:19.26,0:11:21.84,Default,,0,0,0,,Eu quero tanto a ponto\N de chorar...
-Dialogue: 0,0:11:21.84,0:11:24.93,Default,,0,0,0,,Desejo tanto isso a\N ponto de gritar...
+Dialogue: 0,0:11:19.26,0:11:21.84,Default,,0,0,0,,Eu quero tanto a ponto de chorar...
+Dialogue: 0,0:11:21.84,0:11:24.93,Default,,0,0,0,,Desejo tanto isso a ponto de gritar...
 Dialogue: 0,0:11:24.93,0:11:28.68,Default,,0,0,0,,Eu... Eu amo o Okarin.
 Dialogue: 0,0:11:28.68,0:11:32.60,Default,,0,0,0,,Provavelmente o mesmo tanto\N que a Kurisu-san.
 Dialogue: 0,0:11:32.60,0:11:34.48,Default,,0,0,0,,Não, não é isso...
 Dialogue: 0,0:11:34.48,0:11:39.53,Default,,0,0,0,,Muito mais... O suficiente para que a Kurisu-san nunca pudesse se igualar.
 Dialogue: 0,0:11:39.53,0:11:42.16,Default,,0,0,0,,Eu o amo tanto assim!
 Dialogue: 0,0:11:42.16,0:11:43.99,Default,,0,0,0,,Mas...
-Dialogue: 0,0:11:43.99,0:11:48.49,Default,,0,0,0,,Mas... Eu amo o Hououin\N Kyouma ainda mais!
+Dialogue: 0,0:11:43.99,0:11:48.49,Default,,0,0,0,,Mas... Eu amo o Hououin Kyouma ainda mais!
 Dialogue: 0,0:11:48.49,0:11:54.42,Default,,0,0,0,,Quando senti vontade de desaparecer para sempre, ele me disse que eu tinha que ficar neste mundo.
-Dialogue: 0,0:11:54.42,0:11:58.88,Default,,0,0,0,,Eu... quero ver o Hououin\N Kyouma de novo!
-Dialogue: 0,0:11:58.88,0:12:02.84,Default,,0,0,0,,Quero escutar aquela \Nrisada arrogante!
+Dialogue: 0,0:11:54.42,0:11:58.88,Default,,0,0,0,,Eu... quero ver o Hououin Kyouma de novo!
+Dialogue: 0,0:11:58.88,0:12:02.84,Default,,0,0,0,,Quero escutar aquela risada arrogante!
 Dialogue: 0,0:12:02.84,0:12:07.35,Default,,0,0,0,,Mesmo sabendo que nunca \Nme tornarei a Orihime{-sama}.
 Dialogue: 0,0:12:07.35,0:12:09.06,Default,,0,0,0,,Mesmo assim...
-Dialogue: 0,0:12:10.81,0:12:17.36,Default,,0,0,0,,Para mim, só há um Hikoboshi{-sama}! É o Okabe Rintaro e ninguém mais!
+Dialogue: 0,0:12:10.81,0:12:17.36,Default,,0,0,0,,Para mim, só há um Hikoboshi{-sama}! É o Okabe Rintarou e ninguém mais!
 Dialogue: 0,0:12:19.48,0:12:21.40,Default,,0,0,0,,Nesse caso...
 Dialogue: 0,0:12:21.40,0:12:26.16,Default,,0,0,0,,Se essa é a escolha da Mayushii, então... você sabe o que precisa fazer.
 Dialogue: 0,0:12:26.16,0:12:27.49,Default,,0,0,0,,{Mmm.}
@@ -219,16 +219,16 @@ Dialogue: 0,0:12:43.99,0:12:48.99,Titulo,,0,0,0,,{\blur1\pos(894,470)\c&H5E5D68&
 Dialogue: 0,0:12:43.99,0:12:48.99,Titulo - Copy,,0,0,0,,{\fs22.9\blur1\pos(743,570)\c&H6C658C&}Pseudo-esfera de Beltrami{meio}
 Dialogue: 0,0:12:50.45,0:12:52.41,Tela,,0,0,75,,{\blur0.6\bord0\2c&HDCDFE0&}Taito - Chuo - Chiyoda - Bunkyo - Shinjuku - Minato{q q isso?}{areas do japao}
 Dialogue: 0,0:12:58.81,0:13:02.15,Default,,0,0,0,,O que está acontecendo? Todas as operadoras estão fora do ar...
-Dialogue: 0,0:13:02.15,0:13:06.59,Default,,0,0,0,,Hoje é o dia do duplo-sete{dois setes}! A Orihime-sama vai atendê-los de minissaia!{Tanabata, basicamente, acontece no dia 7/07 -> double sevens day , não sei se é verídico mas, http://www.japan-suite.com/blog/2014/7/6/tanabata-story-of-two-star-crossed-lovers     https://en.wikipedia.org/wiki/Qixi_Festival} {umu: não consegui achar regra de hifen após 'duplo'. mas procurando fui parar em dominó. lol. e lá tem uns bagulho que usa, duplo-seis, duplo-algumnumero. então acho que se aplica a mesma regra? segue aqui = https://image.prntscr.com/image/hfiubBS9SXGIprLSrIGRuA.png }
+Dialogue: 0,0:13:02.15,0:13:06.59,Default,,0,0,0,,Hoje é o dia do duplo-sete{dois setes}! A Orihime-sama vai atendê-los de minissaia!{Tanabata, basicamente, acontece no dia 7/07 -> double sevens day , não sei se é verídico mas, http://www.japan-suite.com/blog/2014/7/6/tanabata-story-of-two-star-crossed-lovers https://en.wikipedia.org/wiki/Qixi_Festival} {umu: não consegui achar regra de hifen após 'duplo'. mas procurando fui parar em dominó. lol. e lá tem uns bagulho que usa, duplo-seis, duplo-algumnumero. então acho que se aplica a mesma regra? segue aqui = https://image.prntscr.com/image/hfiubBS9SXGIprLSrIGRuA.png }
 Dialogue: 0,0:13:07.65,0:13:08.82,Default,,0,0,0,,Mayuri!
 Dialogue: 0,0:13:12.95,0:13:15.12,Default,,0,0,0,,O-Okabe-san?
-Dialogue: 0,0:13:16.91,0:13:19.00,Default,,0,0,0,,Daru! Onde está\N a Mayuri?!
+Dialogue: 0,0:13:16.91,0:13:19.00,Default,,0,0,0,,Daru! Onde está a Mayuri?!
 Dialogue: 0,0:13:19.00,0:13:21.75,Default,,0,0,0,,Hum? B-Bem, ela...
-Dialogue: 0,0:13:21.75,0:13:23.67,Default,,0,0,0,,Os celulares não estão\N funcionando!
+Dialogue: 0,0:13:21.75,0:13:23.67,Default,,0,0,0,,Os celulares não estão funcionando!
 Dialogue: 0,0:13:23.67,0:13:24.84,Default,,0,0,0,,Por quê?!
 Dialogue: 0,0:13:24.84,0:13:29.13,Default,,0,0,0,,Estive pesquisando e parece que há uma ruptura na área de Akihabara
-Dialogue: 0,0:13:29.13,0:13:31.59,Default,,0,0,0,,que ainda não foi \Nconsertada.
-Dialogue: 0,0:13:31.59,0:13:33.01,Default,,0,0,0,,A internet funciona, \Nnão é?
+Dialogue: 0,0:13:29.13,0:13:31.59,Default,,0,0,0,,que ainda não foi consertada.
+Dialogue: 0,0:13:31.59,0:13:33.01,Default,,0,0,0,,A internet funciona, não é?
 Dialogue: 0,0:13:33.01,0:13:39.27,Default,,0,0,0,,S-Sim... Mas isso deve estar sendo encobertado, nenhum site está falando sobre.
 Dialogue: 0,0:13:39.27,0:13:44.73,Default,,0,0,0,,E... Eu me conectei no @channel, mas o fórum de coisas ocultas foi hackeado...
 Dialogue: 0,0:13:44.73,0:13:46.61,Default,,0,0,0,,Hackeado?!
@@ -242,57 +242,57 @@ Dialogue: 0,0:14:07.17,0:14:09.80,Default,,0,0,0,,É... veja!
 Dialogue: 0,0:14:09.80,0:14:13.34,Default,,0,0,0,,"Por favor, transmita esta mensagem para aquele que eu mais respeito."
 Dialogue: 0,0:14:13.34,0:14:17.72,Default,,0,0,0,,"Sempre me considerei a própria definição de mediocridade.
 Dialogue: 0,0:14:17.72,0:14:23.10,Default,,0,0,0,,Entretanto, você era a pessoa que eu sempre me esforcei para ser, e você...
-Dialogue: 0,0:14:23.10,0:14:25.65,Default,,0,0,0,,Você é o verdadeiro \NAmadeus."
-Dialogue: 0,0:14:25.65,0:14:27.57,Default,,0,0,0,,E o que isso \Nquer dizer? {>Alguma ideia de quem fez isso?} {não é o que isso quer dizer?}
+Dialogue: 0,0:14:23.10,0:14:25.65,Default,,0,0,0,,Você é o verdadeiro Amadeus."
+Dialogue: 0,0:14:25.65,0:14:27.57,Default,,0,0,0,,E o que isso quer dizer? {>Alguma ideia de quem fez isso?} {não é o que isso quer dizer?}
 Dialogue: 0,0:14:27.57,0:14:31.19,Default,,0,0,0,,Sem dúvidas. A Amadeus\N da Kurisu escreveu isso.
 Dialogue: 0,0:14:31.19,0:14:32.90,Default,,0,0,0,,É sério?
 Dialogue: 0,0:14:32.90,0:14:35.28,Default,,0,0,0,,Você consegue acessá-la?!
 Dialogue: 0,0:14:35.28,0:14:37.33,Default,,0,0,0,,S-Sim...
 Dialogue: 0,0:14:41.41,0:14:42.66,Default,,0,0,0,,O que isto significa?
 Dialogue: 0,0:14:42.66,0:14:43.71,Default,,0,0,0,,O quê?!
-Dialogue: 0,0:14:43.71,0:14:46.42,Default,,0,0,0,,Todos os dados sumiram\N completamente!
-Dialogue: 0,0:14:46.42,0:14:48.75,Default,,0,0,0,,"Expulsos do lugar ao\N qual pertencemos"...
+Dialogue: 0,0:14:43.71,0:14:46.42,Default,,0,0,0,,Todos os dados sumiram completamente!
+Dialogue: 0,0:14:46.42,0:14:48.75,Default,,0,0,0,,"Expulsos do lugar ao qual pertencemos"...
 Dialogue: 0,0:14:48.75,0:14:50.12,Default,,0,0,0,,Assim como ela disse!
 Dialogue: 0,0:14:51.13,0:14:55.72,Default,,0,0,0,,Então "Os segredos de manipular o tempo e onde eles estão", significa...
-Dialogue: 0,0:14:55.72,0:14:57.72,Default,,0,0,0,,Não pode ser! As memórias\N da Kurisu?!
+Dialogue: 0,0:14:55.72,0:14:57.72,Default,,0,0,0,,Não pode ser! As memórias da Kurisu?!
 Dialogue: 0,0:14:57.72,0:15:02.52,Default,,0,0,0,,Impossível! Eles quebraram a\N proteção das memórias?!
-Dialogue: 0,0:15:02.52,0:15:04.77,Default,,0,0,0,,I-Isso não quer \Ndizer quê...?
+Dialogue: 0,0:15:02.52,0:15:04.77,Default,,0,0,0,,I-Isso não quer dizer quê...?
 Dialogue: 0,0:15:04.77,0:15:08.65,Default,,0,0,0,,Alguém sabe sobre a existência\N da máquina do tempo?!
-Dialogue: 0,0:15:08.65,0:15:11.23,Default,,0,0,0,,V-Você só pode estar \Nbrincando...
+Dialogue: 0,0:15:08.65,0:15:11.23,Default,,0,0,0,,V-Você só pode estar brincando...
 Dialogue: 0,0:15:11.23,0:15:13.95,Default,,0,0,0,,Daru? O que foi?
 Dialogue: 0,0:15:13.95,0:15:16.53,Default,,0,0,0,,O-Okarin!
 Dialogue: 0,0:15:21.91,0:15:23.37,Default,,0,0,0,,A Mayuri e a Suzuha?!
 Dialogue: 0,0:15:23.37,0:15:29.34,Default,,0,0,0,,A Suzuha foi mudar o futuro sozinha... e a Mayushii foi atrás dela.
 Dialogue: 0,0:15:32.76,0:15:34.38,Default,,0,0,0,,Mayuri!
 Dialogue: 0,0:15:34.38,0:15:39.22,Default,,0,0,0,,É inútil? Enquanto a máquina do tempo existir, isso continuará acontecendo?!
-Dialogue: 0,0:15:41.06,0:15:44.48,Default,,0,0,0,,Vamos começar a\N trabalhar, C203.{Vou te por para trabalhar}
+Dialogue: 0,0:15:41.06,0:15:44.48,Default,,0,0,0,,Vamos começar a trabalhar, C203.{Vou te por para trabalhar}
 Dialogue: 0,0:15:46.39,0:15:47.90,Default,,0,0,0,,Suzu-san!
-Dialogue: 0,0:15:47.90,0:15:50.77,Default,,0,0,0,,Não tente me\N parar, eu...
+Dialogue: 0,0:15:47.90,0:15:50.77,Default,,0,0,0,,Não tente me parar, eu...
 Dialogue: 0,0:15:50.77,0:15:52.11,Default,,0,0,0,,Não...
 Dialogue: 0,0:15:52.11,0:15:57.66,Default,,0,0,0,,Eu também vou. Leve-me com você. Para o dia 21 de agosto do ano passado.
 Dialogue: 0,0:15:57.66,0:15:59.57,Default,,0,0,0,,Agosto?
 Dialogue: 0,0:15:59.57,0:16:00.87,Default,,0,0,0,,Sim...
 Dialogue: 0,0:16:00.87,0:16:06.79,Default,,0,0,0,,Para quando o Okarin e a Suzu-san viajaram no tempo... Quero ir para logo depois daquilo.
-Dialogue: 0,0:16:06.79,0:16:10.54,Default,,0,0,0,,Se não for aquele momento, \Nnão há sentido.
-Dialogue: 0,0:16:10.54,0:16:13.21,Default,,0,0,0,,E você está confiante\N disso?
+Dialogue: 0,0:16:06.79,0:16:10.54,Default,,0,0,0,,Se não for aquele momento, não há sentido.
+Dialogue: 0,0:16:10.54,0:16:13.21,Default,,0,0,0,,E você está confiante disso?
 Dialogue: 0,0:16:13.21,0:16:14.42,Default,,0,0,0,,Sim.
-Dialogue: 0,0:16:14.42,0:16:17.93,Default,,0,0,0,,Não poderemos voltar.\N Você tem certeza?
+Dialogue: 0,0:16:14.42,0:16:17.93,Default,,0,0,0,,Não poderemos voltar. Você tem certeza?
 Dialogue: 0,0:16:17.93,0:16:21.93,Default,,0,0,0,,Não posso fingir que o meu Hikoboshi{-sama} nunca me encontrou...
 Dialogue: 0,0:16:21.93,0:16:26.10,Default,,0,0,0,,Não posso fingir que o meu eu do futuro não está coberto de arrependimentos.
 Dialogue: 0,0:16:29.94,0:16:31.52,Default,,0,0,0,,Tudo bem.
 Dialogue: 0,0:16:39.11,0:16:40.53,Default,,0,0,0,,Mayuri!
-Dialogue: 0,0:16:41.82,0:16:43.53,Default,,0,0,0,,Aonde pensa que \Nestá indo?!
-Dialogue: 0,0:16:44.74,0:16:46.70,Default,,0,0,0,,O que pensa que\N está fazendo?!
-Dialogue: 0,0:16:48.79,0:16:50.58,Default,,0,0,0,,Por que chegou \Na isto?!
-Dialogue: 0,0:16:50.58,0:16:53.96,Default,,0,0,0,,Eu tentei aceitar\N este desfecho!
-Dialogue: 0,0:16:53.96,0:16:56.71,Default,,0,0,0,,Por quê?! Por que isto\N acabou assim?!
-Dialogue: 0,0:16:56.71,0:17:00.13,Default,,0,0,0,,Se você se aproximar, \Nvou atirar.
+Dialogue: 0,0:16:41.82,0:16:43.53,Default,,0,0,0,,Aonde pensa que está indo?!
+Dialogue: 0,0:16:44.74,0:16:46.70,Default,,0,0,0,,O que pensa que está fazendo?!
+Dialogue: 0,0:16:48.79,0:16:50.58,Default,,0,0,0,,Por que chegou a isto?!
+Dialogue: 0,0:16:50.58,0:16:53.96,Default,,0,0,0,,Eu tentei aceitar este desfecho!
+Dialogue: 0,0:16:53.96,0:16:56.71,Default,,0,0,0,,Por quê?! Por que isto acabou assim?!
+Dialogue: 0,0:16:56.71,0:17:00.13,Default,,0,0,0,,Se você se aproximar, vou atirar.
 Dialogue: 0,0:17:00.13,0:17:04.43,Default,,0,0,0,,Mayuri, você não precisa fazer\N nada! Você não pode!{Não vá e arruine tudo}
 Dialogue: 0,0:17:04.43,0:17:08.27,Default,,0,0,0,,Se você fizer, os sacrifícios que todos fizeram serão em vão!
-Dialogue: 0,0:17:10.52,0:17:13.86,Default,,0,0,0,,A morte da Kurisu \Nserá em vão!
-Dialogue: 0,0:17:13.86,0:17:17.15,Default,,0,0,0,,Eu não posso... Eu não\N posso deixar—
+Dialogue: 0,0:17:10.52,0:17:13.86,Default,,0,0,0,,A morte da Kurisu será em vão!
+Dialogue: 0,0:17:13.86,0:17:17.15,Default,,0,0,0,,Eu não posso... Eu não posso deixar—
 Dialogue: 0,0:17:20.49,0:17:21.36,Default,,0,0,0,,Okarin!
-Dialogue: 0,0:17:21.36,0:17:24.24,Default,,0,0,0,,Ele está bem. Só \No arranhou.
+Dialogue: 0,0:17:21.36,0:17:24.24,Default,,0,0,0,,Ele está bem. Só o arranhou.
 Dialogue: 0,0:17:24.24,0:17:25.83,Default,,0,0,0,,Eu não posso...
 Dialogue: 0,0:17:25.83,0:17:28.16,Default,,0,0,0,,Eu... Eu...
 Dialogue: 0,0:17:28.16,0:17:29.33,Default,,0,0,0,,Okarin...
@@ -311,11 +311,11 @@ Dialogue: 0,0:18:05.07,0:18:06.49,Default,,0,0,0,,Mayuri!
 Dialogue: 0,0:18:06.49,0:18:08.62,Default,,0,0,0,,Você tem certeza?
 Dialogue: 0,0:18:08.62,0:18:09.75,Default,,0,0,0,,Sim.
 Dialogue: 0,0:18:16.92,0:18:18.30,Default,,0,0,0,,Desculpe.
-Dialogue: 0,0:18:18.30,0:18:21.67,Default,,0,0,0,,O sangramento já parou, \Nentão não se preocupe.
-Dialogue: 0,0:18:21.67,0:18:24.05,Default,,0,0,0,,O que você pretende\N fazer?
-Dialogue: 0,0:18:24.05,0:18:27.26,Default,,0,0,0,,Já disse inúmeras vezes. \NTerminar minha missão.
+Dialogue: 0,0:18:18.30,0:18:21.67,Default,,0,0,0,,O sangramento já parou,\N então não se preocupe.
+Dialogue: 0,0:18:21.67,0:18:24.05,Default,,0,0,0,,O que você pretende fazer?
+Dialogue: 0,0:18:24.05,0:18:27.26,Default,,0,0,0,,Já disse inúmeras vezes.\N Terminar minha missão.
 Dialogue: 0,0:18:27.26,0:18:32.35,Default,,0,0,0,,Vou mudar o futuro por todas \Nas pessoas que amo.
-Dialogue: 0,0:18:32.35,0:18:35.23,Default,,0,0,0,,Embora eu tenha \Nminhas dúvidas...
+Dialogue: 0,0:18:32.35,0:18:35.23,Default,,0,0,0,,Embora eu tenha minhas dúvidas...
 Dialogue: 0,0:18:35.23,0:18:36.94,Default,,0,0,0,,Okarin-ojisan...
 Dialogue: 0,0:18:39.19,0:18:40.99,Default,,0,0,0,,Adeus.
 Dialogue: 0,0:18:48.41,0:18:50.04,Default,,0,0,0,,Do meu pai?
@@ -325,7 +325,7 @@ Dialogue: 0,0:18:50.10,0:18:51.56,Tela,,0,0,0,,{\fax0.12\blur0.7\an1\pos(350,310
 Dialogue: 0,0:18:50.10,0:18:51.56,Tela,,0,0,0,,{\fax0.12\blur0.7\an1\pos(120,450)\frz1.3\fnConstantia\bord0\fs55\c&H828282&\1a&HC2&}(Sem texto)
 Dialogue: 0,0:18:50.10,0:18:51.56,Tela,,0,0,0,,{\fax0.12\blur0.7\an1\pos(435,645)\frz1\fnConstantia\bord0\fs35\c&H828282&\1a&H8D&}Arquivo de Vídeo
 Dialogue: 0,0:18:51.87,0:18:55.79,Default,,0,0,0,,Um D-mail de 2025?
-Dialogue: 0,0:18:55.79,0:18:58.59,Default,,0,0,0,,Olá, Suzuha. É\N o seu pai.
+Dialogue: 0,0:18:55.79,0:18:58.59,Default,,0,0,0,,Olá, Suzuha. É o seu pai.
 Dialogue: 0,0:18:58.59,0:19:00.75,Default,,0,0,0,,Este é o ano de 2025.
 Dialogue: 0,0:19:00.75,0:19:02.21,Default,,0,0,0,,Pai...
 Dialogue: 0,0:19:02.21,0:19:05.63,Default,,0,0,0,,Se este e-mail de vídeo chegou a você, isso significa que você...
@@ -337,7 +337,7 @@ Dialogue: 0,0:19:26.24,0:19:31.20,Default,,0,0,0,,Entretanto, meu amor pela minh
 Dialogue: 0,0:19:31.20,0:19:34.29,Default,,0,0,0,,Entrando no assunto deste\N e-mail de vídeo...
 Dialogue: 0,0:19:34.29,0:19:37.42,Default,,0,0,0,,Estarei dando detalhes da\N Operação Arc Light.
 Dialogue: 0,0:19:46.97,0:19:48.39,Default,,0,0,0,,Mayu-neesan!{¬¬}
-Dialogue: 0,0:19:48.39,0:19:51.22,Default,,0,0,0,,Abaixe sua arma e\N vá para o chão!
+Dialogue: 0,0:19:48.39,0:19:51.22,Default,,0,0,0,,Abaixe sua arma e vá para o chão!
 Dialogue: 0,0:19:55.14,0:19:56.64,Default,,0,0,0,,Suzu-san!
 Dialogue: 0,0:19:56.64,0:20:01.48,Default,,0,0,0,,Não fale. Se gritar, eles provavelmente\N atirarão em você.
 Dialogue: 0,0:20:09.37,0:20:12.66,Default,,0,0,0,,Eu sou uma garota, sabia? Seja\N um pouco mais delicado.
@@ -348,9 +348,9 @@ Dialogue: 0,0:20:18.71,0:20:21.42,Default,,0,0,0,,Biometria, é?
 Dialogue: 0,0:20:21.42,0:20:22.42,Default,,0,0,0,,Levante.
 Dialogue: 0,0:20:23.42,0:20:25.01,Default,,0,0,0,,Tudo bem.
 Dialogue: 0,0:20:28.76,0:20:30.64,Default,,0,0,0,,Suzu-san...
-Dialogue: 0,0:20:33.10,0:20:35.56,Default,,0,0,0,,Se tentar qualquer \Ncoisa, vou atirar.
+Dialogue: 0,0:20:33.10,0:20:35.56,Default,,0,0,0,,Se tentar qualquer coisa, vou atirar.
 Dialogue: 0,0:20:35.56,0:20:37.14,Default,,0,0,0,,Eu sei.
-Dialogue: 0,0:20:44.78,0:20:46.99,Default,,0,0,0,,Está ligado. Foi \Num sucesso!
+Dialogue: 0,0:20:44.78,0:20:46.99,Default,,0,0,0,,Está ligado. Foi um sucesso!
 Dialogue: 0,0:21:08.92,0:21:11.26,Default,,0,0,0,,Mayu-neesan, corra!
 Dialogue: 0,0:21:42.67,0:21:44.42,Default,,0,0,0,,Mayu-neesan...
 Dialogue: 0,0:21:53.84,0:21:56.81,Default,,0,0,0,,K-Kagari?

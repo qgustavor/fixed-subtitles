@@ -34,13 +34,13 @@ Style: OpBaixo,Candela Bold,54,&H00D3D3D3,&H009C9CFF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.54,0:00:03.38,Default,,0,0,0,,Eu recebi sua mensagem...
-Dialogue: 0,0:00:03.38,0:00:05.38,Default,,0,0,0,,Chamo-me Kiryu Moeka.
+Dialogue: 0,0:00:03.38,0:00:05.38,Default,,0,0,0,,Chamo-me Kiryuu Moeka.
 Dialogue: 0,0:00:06.80,0:00:09.09,Default,,0,0,0,,Hum...
 Dialogue: 0,0:00:09.09,0:00:10.47,Default,,0,0,0,,Oh, você chegou?
 Dialogue: 0,0:00:10.47,0:00:13.64,Default,,0,0,0,,O que você está fazendo, Okarin? Deixe-a entrar.
 Dialogue: 0,0:00:13.64,0:00:15.85,Default,,0,0,0,,S-Sim...
 Dialogue: 0,0:00:20.60,0:00:22.44,Default,,0,0,0,,Aqui está o chá.
-Dialogue: 0,0:00:26.02,0:00:28.40,Default,,0,0,0,,Kiryu Moeka...
+Dialogue: 0,0:00:26.02,0:00:28.40,Default,,0,0,0,,Kiryuu Moeka...
 Dialogue: 0,0:00:28.40,0:00:29.90,Default,,0,0,0,,Por quê?
 Dialogue: 0,0:00:29.90,0:00:32.03,Default,,0,0,0,,Por que ela e o Daru...?
 Dialogue: 0,0:02:02.97,0:02:07.94,Titulo,,0,0,0,,{\blur1\pos(959,485)}Solidão do Astigmatismo{Ficou horrível} {concordio}{nao tem nenhuma outra palavra pra hitenshuusa}
@@ -60,8 +60,8 @@ Dialogue: 0,0:02:29.90,0:02:33.40,Default,,0,0,0,,Oji-san? Você não parece bem
 Dialogue: 0,0:02:33.40,0:02:35.07,Default,,0,0,0,,Estou bem.
 Dialogue: 0,0:02:35.07,0:02:37.32,Default,,0,0,0,,Daru, importa-se de explicar?
 Dialogue: 0,0:02:37.32,0:02:38.82,Default,,0,0,0,,Quem é esta pessoa?
-Dialogue: 0,0:02:38.82,0:02:42.83,Default,,0,0,0,,Kiryu-shi, uma escritora de um editorial.{é assim que poe o -shi?}
-Dialogue: 0,0:02:42.83,0:02:45.79,Default,,0,0,0,,Eu sou Kiryu Moeka.
+Dialogue: 0,0:02:38.82,0:02:42.83,Default,,0,0,0,,Kiryuu-shi, uma escritora de um editorial.{é assim que poe o -shi?}
+Dialogue: 0,0:02:42.83,0:02:45.79,Default,,0,0,0,,Eu sou Kiryuu Moeka.
 Dialogue: 0,0:02:45.35,0:02:47.31,EndBaixo,,0,0,0,,{\blur0.4\frz-9.7\fs40\bord0\pos(540,125)\c&H252526&\1a&H76&}Empresa{de capital aberto} Arc Rewrite
 Dialogue: 0,0:02:45.35,0:02:47.31,EndBaixo,,0,0,0,,{\an1\blur0.4\frz-9.8\fs25\bord0\pos(362,205)\c&H252526&\1a&H84&}Departamento\N de Publicação
 Dialogue: 0,0:02:45.35,0:02:47.31,EndBaixo,,0,0,0,,{\an1\blur0.4\frz-9.9\fs25\bord0\pos(345,282)\c&H252526&\1a&H88&}Editora/Escritora
@@ -69,14 +69,14 @@ Dialogue: 0,0:02:45.79,0:02:50.38,Default,,0,0,0,,Um tempo atrás, tinha uma rev
 Dialogue: 0,0:02:50.38,0:02:54.63,Default,,0,0,0,,Foi quando ela me contatou querendo escrever sobre o meu trabalho de meio período.
 Dialogue: 0,0:02:54.63,0:02:55.59,Default,,0,0,0,,O seu trabalho?
 Dialogue: 0,0:02:55.59,0:02:59.68,Default,,0,0,0,,Você sabe, aquele{trabalho} que eu não posso falar em voz alta.
-Dialogue: 0,0:02:59.68,0:03:05.31,Default,,0,0,0,,Sempre fui cuidadoso para não deixar nenhum rastro, mas a Kiryu-shi, de alguma forma, conseguiu me encontrar.
+Dialogue: 0,0:02:59.68,0:03:05.31,Default,,0,0,0,,Sempre fui cuidadoso para não deixar nenhum rastro, mas a Kiryuu-shi, de alguma forma, conseguiu me encontrar.
 Dialogue: 0,0:03:05.31,0:03:08.06,Default,,0,0,0,,Isso explica seu interesse nela.
 Dialogue: 0,0:03:08.06,0:03:11.40,Default,,0,0,0,,Disseram-me que estão procurando por uma pessoa.
 Dialogue: 0,0:03:11.40,0:03:16.99,Default,,0,0,0,,Na verdade, estamos procurando uma garota que desapareceu em Akiba há 12 anos.
 Dialogue: 0,0:03:16.99,0:03:18.82,Default,,0,0,0,,Há 12 anos...
 Dialogue: 0,0:03:18.82,0:03:20.32,Default,,0,0,0,,Sim.
 Dialogue: 0,0:03:20.32,0:03:22.91,Default,,0,0,0,,O nome dela é Shiina Kagari.
-Dialogue: 0,0:03:22.91,0:03:28.58,Default,,0,0,0,, Há 12 anos, ela devia ter 10 anos, então isso a deixa com 22 agora.
+Dialogue: 0,0:03:22.91,0:03:28.58,Default,,0,0,0,,Há 12 anos, ela devia ter 10 anos, então isso a deixa com 22 agora.
 Dialogue: 0,0:03:28.58,0:03:30.08,Default,,0,0,0,,Ela está viva?
 Dialogue: 0,0:03:30.08,0:03:34.67,Default,,0,0,0,,Não sabemos ao certo, mas encontramos alguém parecida com ela numa foto recente.
 Dialogue: 0,0:03:38.67,0:03:41.30,Default,,0,0,0,,Deveríamos mesmo confiar nela?
@@ -88,7 +88,7 @@ Dialogue: 0,0:04:01.61,0:04:03.87,Default,,0,0,0,,Posso tentar.
 Dialogue: 0,0:04:03.87,0:04:04.78,Default,,0,0,0,,Sério?
 Dialogue: 0,0:04:04.78,0:04:07.37,Default,,0,0,0,,Entretanto, não sei se irei encontrá-la.
 Dialogue: 0,0:04:07.37,0:04:10.16,Default,,0,0,0,,Claro. Não há nada que possamos fazer quanto a isso.
-Dialogue: 0,0:04:10.16,0:04:12.21,Default,,0,0,0,,Você receberá uma recompensa se conseguir,  {compensado(a) = Que se compensou: dano compensado.\Diz-se de ou madeira formada por um número ímpar de camadas superpostas, coladas entre si por pressão e dispostas de modo que suas fibras se cruzem.} {:X}
+Dialogue: 0,0:04:10.16,0:04:12.21,Default,,0,0,0,,Você receberá uma recompensa se conseguir, {compensado(a) = Que se compensou: dano compensado.\Diz-se de ou madeira formada por um número ímpar de camadas superpostas, coladas entre si por pressão e dispostas de modo que suas fibras se cruzem.} {:X}
 Dialogue: 0,0:04:12.21,0:04:15.67,Default,,0,0,0,,mas vamos cobrir quaisquer despesas que precisar para o trabalho, tudo bem?
 Dialogue: 0,0:04:15.67,0:04:16.96,Default,,0,0,0,,Sem problemas.
 Dialogue: 0,0:04:16.96,0:04:18.88,Default,,0,0,0,,Você concorda, não é, Okarin?
@@ -116,7 +116,7 @@ Dialogue: 0,0:05:09.39,0:05:13.85,Default,,0,0,0,,Não vou me intrometer mais, m
 Dialogue: 0,0:05:15.90,0:05:18.86,Default,,0,0,0,,É o suficiente, por enquanto, ao menos.
 Dialogue: 0,0:05:18.86,0:05:20.28,Default,,0,0,0,,Como assim?
 Dialogue: 0,0:05:20.28,0:05:22.32,Default,,0,0,0,,Ela me deixa nervoso.
-Dialogue: 0,0:05:22.32,0:05:28.20,Default,,0,0,0,,Entendi! Já que a Kiryu-shi é bonita{"gostosa"}, elegante e cumpre todos os requisitos de fetiche de óculos!
+Dialogue: 0,0:05:22.32,0:05:28.20,Default,,0,0,0,,Entendi! Já que a Kiryuu-shi é bonita{"gostosa"}, elegante e cumpre todos os requisitos de fetiche de óculos!
 Dialogue: 1,0:05:32.97,0:05:36.14,Default,,0,0,0,,{\fad(985,0)\blur0.4\bord0\frz1.6\fax0.11\pos(685,225)\c&H7A6E6B&}Instituto de Neurociências
 Dialogue: 0,0:05:32.97,0:05:36.14,Default,,0,0,0,,{\fad(985,0)\blur0.4\bord0\frz1.6\fax0.11\pos(685,222)\c&H605552&}Instituto de Neurociências
 Dialogue: 0,0:05:42.13,0:05:45.63,Default,,0,0,0,,Eu deveria pedir ajuda a um profissional...
@@ -181,19 +181,19 @@ Dialogue: 0,0:08:44.31,0:08:45.77,Default,,0,0,0,,Qual é?
 Dialogue: 0,0:08:45.77,0:08:50.57,Default,,0,0,0,,Sabemos que a Shiina Kagari... está viva no presente.
 Dialogue: 0,0:08:50.57,0:08:52.53,Default,,0,0,0,,Um estrangeiro...?
 Dialogue: 0,0:08:55.37,0:08:58.37,Default,,0,0,0,,Tenho certeza de que era por aqui...
-Dialogue: 0,0:09:01.04,0:09:07.21,Default,,0,0,0,,Agora mesmo...  estou em Akihabara, então...
+Dialogue: 0,0:09:01.04,0:09:07.21,Default,,0,0,0,,Agora mesmo... estou em Akihabara, então...
 Dialogue: 0,0:09:07.21,0:09:10.46,Default,,0,0,0,,Vou passar no laboratório...
 Dialogue: 0,0:10:25.50,0:10:28.00,Default,,0,0,0,,Por favor, atenda!
 Dialogue: 0,0:10:29.00,0:10:30.50,Default,,0,0,0,,Alô?! Okabe-san?!
-Dialogue: 0,0:10:30.50,0:10:31.29,Default,,0,0,0,,Hiyajo-san?
+Dialogue: 0,0:10:30.50,0:10:31.29,Default,,0,0,0,,Hiyajou-san?
 Dialogue: 0,0:10:31.29,0:10:34.63,Default,,0,0,0,,No momento, estou correndo em direção ao laboratório, mas—
-Dialogue: 0,0:10:34.63,0:10:37.38,Default,,0,0,0,,Hiyajo-san? Hiyajo-san?!
+Dialogue: 0,0:10:34.63,0:10:37.38,Default,,0,0,0,,Hiyajou-san? Hiyajou-san?!
 Dialogue: 0,0:10:39.30,0:10:40.89,Default,,0,0,0,,Okarin?
-Dialogue: 0,0:10:42.01,0:10:43.52,Default,,0,0,0,,Hiyajo-san?!
+Dialogue: 0,0:10:42.01,0:10:43.52,Default,,0,0,0,,Hiyajou-san?!
 Dialogue: 0,0:10:43.52,0:10:44.60,Default,,0,0,0,,Hum?
 Dialogue: 0,0:10:44.60,0:10:48.85,Default,,0,0,0,,Não pode ser! Não pode ser isto!
 Dialogue: 0,0:10:48.85,0:10:51.52,Default,,0,0,0,,Isto não está acontecendo! Não está acontecendo!
-Dialogue: 0,0:10:58.78,0:11:00.02,Default,,0,0,0,,Hiyajo-san?!
+Dialogue: 0,0:10:58.78,0:11:00.02,Default,,0,0,0,,Hiyajou-san?!
 Dialogue: 0,0:11:03.12,0:11:04.08,Default,,0,0,0,,Uma mulher?
 Dialogue: 0,0:11:04.08,0:11:06.25,Default,,0,0,0,,Pare com isto! Solte-me!
 Dialogue: 0,0:11:06.25,0:11:07.62,Default,,0,0,0,,P-Pare!
@@ -202,7 +202,7 @@ Dialogue: 0,0:11:09.62,0:11:10.96,Default,,0,0,0,,Não é isso!
 Dialogue: 0,0:11:12.17,0:11:14.76,Default,,0,0,0,,{\i1}Oh, are you Maho's boyfriend?{\i0}
 Dialogue: 0,0:11:15.29,0:11:17.40,Default,,0,0,0,,{\i1}A-Ah...Y-Yes...{\i0}
 Dialogue: 0,0:11:18.47,0:11:20.43,Default,,0,0,0,,Ah! O qu—
-Dialogue: 0,0:11:20.43,0:11:21.55,Default,,0,0,0,,Hiyajo-san!
+Dialogue: 0,0:11:20.43,0:11:21.55,Default,,0,0,0,,Hiyajou-san!
 Dialogue: 0,0:11:21.55,0:11:24.81,Default,,0,0,0,,Eu já disse que não é isso...{se referindo ao que ela tava falando com a moça antes/ que não mostra}
 Dialogue: 0,0:11:25.65,0:11:27.75,Default,,0,0,0,,{\i1}I'm Judy Reyes.{\i0}
 Dialogue: 0,0:11:27.89,0:11:29.60,Default,,0,0,0,,Reyes?
@@ -215,7 +215,7 @@ Dialogue: 0,0:11:47.57,0:11:49.44,Default,,0,0,0,,{\i1}Nice to meet you...{\i0}
 Dialogue: 0,0:11:49.46,0:11:52.50,Default,,0,0,0,,H-Hum, {\i1}I-I...{\i0}
 Dialogue: 0,0:11:52.50,0:11:54.67,Default,,0,0,0,,Pode ser em japonês.
 Dialogue: 0,0:11:56.30,0:11:57.51,Default,,0,0,0,,Está surpreso?
-Dialogue: 0,0:11:57.51,0:12:00.76,Default,,0,0,0,,Então você é o Rintaro. Ouvi tudo sobre você pelo Alexis.{aparentemente ela pronuncia direito, ela também não usa o bagulho lá de tradução}
+Dialogue: 0,0:11:57.51,0:12:00.76,Default,,0,0,0,,Então você é o Rintarou. Ouvi tudo sobre você pelo Alexis.{aparentemente ela pronuncia direito, ela também não usa o bagulho lá de tradução}
 Dialogue: 0,0:12:00.76,0:12:02.18,Default,,0,0,0,,Alexis?
 Dialogue: 0,0:12:02.18,0:12:03.93,Default,,0,0,0,,Ah, o professor Leskinen.
 Dialogue: 0,0:12:03.93,0:12:06.64,Default,,0,0,0,,A especialidade dela é psicofisiologia.
@@ -234,7 +234,7 @@ Dialogue: 0,0:12:36.42,0:12:38.42,Default,,0,0,0,,Hã? Estou errada?
 Dialogue: 0,0:12:38.42,0:12:43.38,Default,,0,0,0,,Acabei de vê-la no beco e pensei em pular para surpreendê-la.
 Dialogue: 0,0:12:44.59,0:12:45.49,Default,,0,0,0,,Então...
 Dialogue: 0,0:12:47.97,0:12:49.60,Default,,0,0,0,,Foi minha imaginação?
-Dialogue: 0,0:12:52.69,0:12:56.40,Default,,0,0,0,,De qualquer forma, traga o Rintaro e teremos uma boa e longa conversa algum dia.
+Dialogue: 0,0:12:52.69,0:12:56.40,Default,,0,0,0,,De qualquer forma, traga o Rintarou e teremos uma boa e longa conversa algum dia.
 Dialogue: 0,0:12:56.40,0:12:57.86,Default,,0,0,0,,{\i1}Bye!{\i0}
 Dialogue: 0,0:12:57.86,0:12:59.36,Default,,0,0,0,,Não!
 Dialogue: 0,0:12:59.36,0:13:01.69,Default,,0,0,0,,Eu já disse que não é isso!
@@ -244,11 +244,11 @@ Dialogue: 0,0:13:04.49,0:13:06.70,Default,,0,0,0,,Nada...
 Dialogue: 0,0:13:06.70,0:13:08.74,Default,,0,0,0,,Okarin!
 Dialogue: 0,0:13:08.74,0:13:10.16,Default,,0,0,0,,O que aconteceu?
 Dialogue: 0,0:13:10.16,0:13:13.37,Default,,0,0,0,,Não, não foi nada.
-Dialogue: 0,0:13:13.37,0:13:15.33,Default,,0,0,0,,Oh, Hiyajo-shi!
+Dialogue: 0,0:13:13.37,0:13:15.33,Default,,0,0,0,,Oh, Hiyajou-shi!
 Dialogue: 0,0:13:17.34,0:13:21.05,Default,,0,0,0,,Impressão minha, ou você está menor desde a última vez que nos vimos?
 Dialogue: 0,0:13:21.05,0:13:23.22,Default,,0,0,0,,Você, honestamente, acredita em algo tão idiota?
 Dialogue: 0,0:13:23.22,0:13:27.26,Default,,0,0,0,,Sim! Ela está se tornando mais loli a cada minuto!
-Dialogue: 0,0:13:27.26,0:13:29.64,Default,,0,0,0,,Acionamos o evento para a Hiyajo-shi
+Dialogue: 0,0:13:27.26,0:13:29.64,Default,,0,0,0,,Acionamos o evento para a Hiyajou-shi
 Dialogue: 0,0:13:29.64,0:13:32.60,Default,,0,0,0,,ser introduzida ao laboratório como nossa personagem loli simbólica?
 Dialogue: 0,0:13:32.60,0:13:33.69,Default,,0,0,0,,Óbvio que não.
 Dialogue: 0,0:13:33.69,0:13:38.36,Default,,0,0,0,,Nesse caso, posso chamá-la de Maho-tan? Ou melhor, farei isso!
@@ -269,7 +269,7 @@ Dialogue: 0,0:14:28.03,0:14:30.16,Default,,0,0,0,,Posso dizer só de olhar para 
 Dialogue: 0,0:14:30.16,0:14:32.41,Default,,0,0,0,,A presença dela era grande...
 Dialogue: 0,0:14:32.41,0:14:36.96,Default,,0,0,0,,O que você está fazendo... é projetar seus sentimentos pela Kurisu na Amadeus.
 Dialogue: 0,0:14:36.96,0:14:41.34,Default,,0,0,0,,Quando a voz dela revive memórias antigas, revive você
-Dialogue: 0,0:14:41.34,0:14:44.42,Default,,0,0,0,, e, com isso, seus sentimentos florescem.
+Dialogue: 0,0:14:41.34,0:14:44.42,Default,,0,0,0,,e, com isso, seus sentimentos florescem.
 Dialogue: 0,0:14:44.42,0:14:48.38,Default,,0,0,0,,Mas a Amadeus não é nada além de um sistema.
 Dialogue: 0,0:14:48.38,0:14:51.10,Default,,0,0,0,,Tudo o que está lá são memórias feitas de dados.
 Dialogue: 0,0:14:51.10,0:14:53.51,Default,,0,0,0,,Ter sentimentos por isso...
@@ -291,7 +291,7 @@ Dialogue: 0,0:15:33.72,0:15:36.56,Default,,0,0,0,,Bem, por que não?
 Dialogue: 0,0:15:36.56,0:15:38.14,Default,,0,0,0,,Não é mesmo?
 Dialogue: 0,0:15:38.14,0:15:41.06,Default,,0,0,0,,Vou perguntar aos outros depois.
 Dialogue: 0,0:15:41.06,0:15:44.23,Default,,0,0,0,,Certo, a Mayushii vai às compras.
-Dialogue: 0,0:15:44.23,0:15:45.61,Default,,0,0,0,,Na ComiMa?  {irá às compras na ComiMa}
+Dialogue: 0,0:15:44.23,0:15:45.61,Default,,0,0,0,,Na ComiMa? {irá às compras na ComiMa}
 Dialogue: 0,0:15:45.61,0:15:48.53,Default,,0,0,0,,Sim! É para a fantasia da Fubuki-chan.
 Dialogue: 0,0:15:48.53,0:15:50.99,Default,,0,0,0,,Ela precisa de alguns acessórios.
 Dialogue: 0,0:15:50.99,0:15:52.99,Default,,0,0,0,,Ah, é mesmo. Faltam poucos dias.

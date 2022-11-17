@@ -184,7 +184,7 @@ Dialogue: 0,0:08:20.46,0:08:22.42,Default,,0,0,0,,Se eu for lá, minha mãe—
 Dialogue: 0,0:08:22.42,0:08:25.21,Default,,0,0,0,,Não, é mais relaxante ficar sozinha.
 Dialogue: 0,0:08:26.63,0:08:28.13,Default,,0,0,0,,Eu trouxe lanchinhos para você, nya!
 Dialogue: 0,0:08:28.13,0:08:31.09,Default,,0,0,0,,Os seus favoritos, nya!
-Dialogue: 0,0:08:31.09,0:08:35.01,Default,,0,0,0,,Eles não vão vencer até amanhã, \Nentão coma com calma!
+Dialogue: 0,0:08:31.09,0:08:35.01,Default,,0,0,0,,Eles não vão vencer até amanhã,\N então coma com calma!
 Dialogue: 0,0:08:35.01,0:08:36.72,Default,,0,0,0,,Obrigada.
 Dialogue: 0,0:08:36.72,0:08:40.27,Default,,0,0,0,,Como está indo a pesquisa de máquinas do tempo do Daru-nyan, nya?
 Dialogue: 0,0:08:40.27,0:08:43.19,Default,,0,0,0,,Ele está se esforçando, mas...
@@ -201,7 +201,7 @@ Dialogue: 0,0:09:10.55,0:09:11.84,Default,,0,0,0,,É-É mesmo?
 Dialogue: 0,0:09:11.84,0:09:14.43,Default,,0,0,0,,Não entendi direito, mas obrigada.
 Dialogue: 0,0:09:16.22,0:09:18.26,Default,,0,0,0,,Nee-san... Pai...
 Dialogue: 0,0:09:18.26,0:09:22.68,Default,,0,0,0,,Pelo bem de todos, eu preciso levar o Okarin-ojisan comigo...
-Dialogue: 0,0:09:22.68,0:09:24.94,Default,,0,0,0,,À entrada do Steins Gate. {quase pus " ; " aqui, mas fui checar uma anotaçao da avalon fansub, Steins;Gate seria um dos "delírios" do Okabe.  Já Steins Gate é referente à única linear do mundo não afetada pelo ''Campo de Atração''}
+Dialogue: 0,0:09:22.68,0:09:24.94,Default,,0,0,0,,À entrada do Steins Gate. {quase pus " ; " aqui, mas fui checar uma anotaçao da avalon fansub, Steins;Gate seria um dos "delírios" do Okabe. Já Steins Gate é referente à única linear do mundo não afetada pelo ''Campo de Atração''}
 Dialogue: 1,0:09:30.13,0:09:32.59,Default,,0,0,0,,{\blur0.4\bord0\frz1.5\fax0.11\pos(755,270)\c&H221D1A&}Instituto de Neurociências
 Dialogue: 0,0:09:30.13,0:09:32.59,Default,,0,0,0,,{\blur0.4\bord0\frz1.5\fax0.11\pos(755,270)\c&H605552&}Instituto de Neurociências
 Dialogue: 0,0:09:31.48,0:09:34.57,Default,,0,0,0,,No dia 24? A Véspera de Natal?
@@ -226,7 +226,7 @@ Dialogue: 0,0:10:26.08,0:10:28.67,Default,,0,0,0,,O que me preocupa é...
 Dialogue: 0,0:10:36.22,0:10:37.22,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:10:37.22,0:10:39.09,Default,,0,0,0,,Isso é tudo que você tem a dizer?
 Dialogue: 0,0:10:39.09,0:10:40.97,Default,,0,0,0,,O que me preocupa é...
-Dialogue: 0,0:10:44.60,0:10:46.56,Default,,0,0,0,,O Okabe Rintaro.
+Dialogue: 0,0:10:44.60,0:10:46.56,Default,,0,0,0,,O Okabe Rintarou.
 Dialogue: 0,0:10:54.40,0:10:56.15,Default,,0,0,0,,Não está começando a ficar cansado disso?
 Dialogue: 0,0:10:56.15,0:10:59.41,Default,,0,0,0,,Ah! Nós não fomos para aquele canto ainda.
 Dialogue: 0,0:10:59.41,0:11:02.62,Default,,0,0,0,,Não vou deixar você me atrasar para a reunião.
@@ -248,7 +248,7 @@ Dialogue: 0,0:11:41.07,0:11:43.03,Default,,0,0,0,,Suas piadas foram horríveis.{
 Dialogue: 0,0:11:43.03,0:11:46.04,Default,,0,0,0,,Quem foge quando os jogos de encontro começam?
 Dialogue: 0,0:11:46.04,0:11:47.66,Default,,0,0,0,,Você arruinou o Jogo do Rei.{mestre mandou, sei la, Ousama game} {ousama = rei, game = jogo (?)}{Jogo do Rei, tem até um anime excelente com este nome, assistam. Ótima comédia}
 Dialogue: 0,0:11:47.66,0:11:48.66,Default,,0,0,0,,Espere um pouco...
-Dialogue: 0,0:11:48.66,0:11:52.54,Default,,0,0,0,,Quando encontrarmos a Hiyajo-san e o professor, você dará a eles os seus registros?
+Dialogue: 0,0:11:48.66,0:11:52.54,Default,,0,0,0,,Quando encontrarmos a Hiyajou-san e o professor, você dará a eles os seus registros?
 Dialogue: 0,0:11:52.54,0:11:56.34,Default,,0,0,0,,É claro, e tudo que ouvi será incluído também.
 Dialogue: 0,0:11:57.34,0:11:58.51,Default,,0,0,0,,E também...
 Dialogue: 0,0:11:58.51,0:12:01.26,Default,,0,0,0,,Todas as nossas conversas estão gravadas nos registros.
@@ -259,7 +259,7 @@ Dialogue: 0,0:12:10.69,0:12:12.90,Default,,0,0,0,,E então? Por que "Christina"?
 Dialogue: 0,0:12:14.61,0:12:16.11,Default,,0,0,0,,Você é tão teimosa.
 Dialogue: 0,0:12:16.11,0:12:22.86,Default,,0,0,0,,As memórias humanas são imprecisas. Conforme o tempo passa, novas memórias entram e tudo se mistura.
 Dialogue: 0,0:12:22.86,0:12:23.82,Default,,0,0,0,,Ou seja?
-Dialogue: 0,0:12:23.82,0:12:27.70,Default,,0,0,0,,Infelizmente, o Amadeus é uma IA incompleta. {Um amigo com quem tiro eu (Um) tiro as dúvidas, percebeu que eu estava deixando/colocando ''A Amadeus'', mas aparentemnte está errado, Amadeus é o projeto (tanto que tem o Amadeus daquela Hiyajo, sla), então Amadeus não se refere somente a IA da Kurisu, que é como eu estava interpretando, mas sim, ao Projeto Amadeus = " O Projeto Amadeus é uma IA incompleta"...  tem que arrumar os 2 anteriores no BD}
+Dialogue: 0,0:12:23.82,0:12:27.70,Default,,0,0,0,,Infelizmente, o Amadeus é uma IA incompleta. {Um amigo com quem tiro eu (Um) tiro as dúvidas, percebeu que eu estava deixando/colocando ''A Amadeus'', mas aparentemnte está errado, Amadeus é o projeto (tanto que tem o Amadeus daquela Hiyajou, sla), então Amadeus não se refere somente a IA da Kurisu, que é como eu estava interpretando, mas sim, ao Projeto Amadeus = " O Projeto Amadeus é uma IA incompleta"... tem que arrumar os 2 anteriores no BD}
 Dialogue: 0,0:12:27.70,0:12:32.17,Default,,0,0,0,,Essa incerteza é perdida. Em outras palavras, não consigo esquecer.{imprecisão} {Não sei se é problema na minha interpretação... mas, no caso " incerteza", se refere ao Amadeus ser incompleto(linha anterior), certo?... Se ela AFIRMOU, que é incompleto, como é uma incerteza, e se a incerteza é *perdida*, como ela não consegue esquecer...?}{é por causa do vago ali em cima, vou trocar}
 Dialogue: 0,0:12:32.17,0:12:37.17,Default,,0,0,0,,Mas a{a ia da hiyajo} Amadeus não demonstrou esquecimento durante a apresentação?
 Dialogue: 0,0:12:37.17,0:12:42.63,Default,,0,0,0,,Isso é, simplesmente, um processo de tornar registros triviais inacessíveis do ponto de vista de dados.
@@ -290,10 +290,10 @@ Dialogue: 0,0:13:53.41,0:13:54.79,Default,,0,0,0,,{\i1}Party{\i0}?!
 Dialogue: 0,0:14:07.09,0:14:08.59,Default,,0,0,0,,Pai?
 Dialogue: 0,0:14:09.93,0:14:11.60,Default,,0,0,0,,{\i1}Wow{\i0}!
 Dialogue: 0,0:14:11.60,0:14:14.68,Default,,0,0,0,,Que laboratório adorável, Lintahlo!
-Dialogue: 0,0:14:14.68,0:14:17.44,Default,,0,0,0,,Muito obrigado por nos receber hoje! {no caso quem 'convidou' foi  o okarin , n tem sentido ele agradecer ela por isso :X}
+Dialogue: 0,0:14:14.68,0:14:17.44,Default,,0,0,0,,Muito obrigado por nos receber hoje! {no caso quem 'convidou' foi o okarin , n tem sentido ele agradecer ela por isso :X}
 Dialogue: 0,0:14:17.44,0:14:21.11,Default,,0,0,0,,{\i1}Japanese maid girl? Or... cat girl?{\i0}
 Dialogue: 0,0:14:21.11,0:14:23.03,Default,,0,0,0,,Hum, eles são...
-Dialogue: 0,0:14:23.03,0:14:26.78,Default,,0,0,0,,Eu contei pelo telefone. São a Hiyajo-san e o Professor Leskinen.
+Dialogue: 0,0:14:23.03,0:14:26.78,Default,,0,0,0,,Eu contei pelo telefone. São a Hiyajou-san e o Professor Leskinen.
 Dialogue: 0,0:14:26.78,0:14:28.66,Default,,0,0,0,,Eles me ajudam na Universidade.
 Dialogue: 0,0:14:28.66,0:14:32.79,Default,,0,0,0,,Está tudo bem mesmo? Nos intrometermos na sua festa de amigos?
 Dialogue: 0,0:14:32.79,0:14:36.79,Default,,0,0,0,,O Lintahlo disse que éramos bem-vindos, então por que não?
@@ -411,7 +411,7 @@ Dialogue: 0,0:20:56.04,0:20:58.92,Default,,0,0,0,,É... por essa parte de você 
 Dialogue: 0,0:20:58.92,0:21:00.80,Default,,0,0,0,,Hã? Você...
 Dialogue: 0,0:21:04.39,0:21:05.55,Default,,0,0,0,,O qu—
 Dialogue: 0,0:21:05.55,0:21:07.26,Default,,0,0,0,,Hã? Senpa—
-Dialogue: 0,0:21:08.06,0:21:11.31,Default,,0,0,0,,Hiyajo-san? O que você está fazendo?
+Dialogue: 0,0:21:08.06,0:21:11.31,Default,,0,0,0,,Hiyajou-san? O que você está fazendo?
 Dialogue: 0,0:21:11.31,0:21:13.06,Default,,0,0,0,,Eu disse.
 Dialogue: 0,0:21:13.06,0:21:16.19,Default,,0,0,0,,É fácil ser iludido.
 Dialogue: 0,0:21:16.19,0:21:18.32,Default,,0,0,0,,Não se engane...

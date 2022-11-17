@@ -34,7 +34,7 @@ Style: OpBaixo,Candela Bold,54,&H00D3D3D3,&H009C9CFF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.96,0:00:06.75,Default,,0,0,0,,Okabe Rintaro!
+Dialogue: 0,0:00:04.96,0:00:06.75,Default,,0,0,0,,Okabe Rintarou!
 Dialogue: 0,0:00:14.26,0:00:15.68,Default,,0,0,0,,Parados!
 Dialogue: 0,0:00:15.68,0:00:17.64,Default,,0,0,0,,O quê...?
 Dialogue: 0,0:00:18.85,0:00:20.35,Default,,0,0,0,,Okarin!
@@ -42,7 +42,7 @@ Dialogue: 0,0:00:28.32,0:00:31.78,Default,,0,0,0,,O-O que está acontecendo?
 Dialogue: 0,0:00:31.78,0:00:34.82,Default,,0,0,0,,Isto{a invasão?} é... algum tipo de surpresa?
 Dialogue: 0,0:00:50.67,0:00:52.26,Default,,0,0,0,,Não me diga quê...
 Dialogue: 0,0:00:52.26,0:00:54.34,Default,,0,0,0,,Era mesmo você?!{Era você afinal}
-Dialogue: 0,0:00:55.64,0:00:57.18,Default,,0,0,0,,Kiryu Moeka!
+Dialogue: 0,0:00:55.64,0:00:57.18,Default,,0,0,0,,Kiryuu Moeka!
 Dialogue: 0,0:02:43.04,0:02:44.37,Default,,0,0,0,,Não se mexam!
 Dialogue: 0,0:02:46.87,0:02:48.79,Default,,0,0,0,,K-6205.
 Dialogue: 0,0:02:48.79,0:02:49.92,Default,,0,0,0,,{\i1}Okay.{\i0}
@@ -92,7 +92,7 @@ Dialogue: 0,0:05:17.23,0:05:23.32,Default,,0,0,0,,{\q2}No passado, essa mesma or
 Dialogue: 0,0:05:25.20,0:05:26.74,Default,,0,0,0,,Espere um pouco...
 Dialogue: 0,0:05:26.74,0:05:32.00,Default,,0,0,0,,Mesmo que a linha do mundo tenha mudado, o Tennouji ainda deveria ser o comandante em Akihabara.
 Dialogue: 0,0:05:32.00,0:05:35.62,Default,,0,0,0,,Se ele é um inimigo, seria estranho ter nos ajudado.
-Dialogue: 0,0:05:35.62,0:05:40.00,Default,,0,0,0,,O que significa que aquela no traje de motociclista não era a Kiryu Moeka...
+Dialogue: 0,0:05:35.62,0:05:40.00,Default,,0,0,0,,O que significa que aquela no traje de motociclista não era a Kiryuu Moeka...
 Dialogue: 0,0:05:40.00,0:05:41.02,Default,,0,0,0,,Outra pessoa...?
 Dialogue: 0,0:05:42.26,0:05:44.88,Default,,0,0,0,,Ainda não consigo acreditar no que aconteceu...
 Dialogue: 0,0:05:44.88,0:05:50.06,Default,,0,0,0,,Em Akiba? No Japão? Sermos atacados por um grupo armado?
@@ -207,7 +207,7 @@ Dialogue: 0,0:12:49.39,0:12:51.56,Default,,0,0,0,,Coloque fones de ouvido enquan
 Dialogue: 0,0:12:51.56,0:12:54.35,Default,,0,0,0,,Posso mesmo? Oba!
 Dialogue: 0,0:12:54.35,0:12:58.02,Default,,0,0,0,,Eu sabia. Você não quer que ela descubra.
 Dialogue: 0,0:12:59.65,0:13:03.11,Default,,0,0,0,,A mulher no traje de motociclista que nos atacou ontem... {acho que kinou é ontem, sla se é assim que escreve, faltou aqui}
-Dialogue: 0,0:13:03.11,0:13:06.53,Default,,0,0,0,,Não era a sua subordinada, Kiryu Moeka.
+Dialogue: 0,0:13:03.11,0:13:06.53,Default,,0,0,0,,Não era a sua subordinada, Kiryuu Moeka.
 Dialogue: 0,0:13:06.53,0:13:10.24,Default,,0,0,0,,Ou seja, não foram os Rounders, e sim, outro grupo...
 Dialogue: 0,0:13:12.46,0:13:17.50,Default,,0,0,0,,Não posso deixar de perguntar... Que prova você tem sobre tudo isso?
 Dialogue: 0,0:13:17.50,0:13:20.63,Default,,0,0,0,,Se eu contar, você não acreditará.
@@ -230,7 +230,7 @@ Dialogue: 0,0:14:11.85,0:14:14.64,Default,,0,0,0,,De fato, mas...
 Dialogue: 0,0:14:14.64,0:14:16.89,Default,,0,0,0,,O que disse sobre mim é verdade.
 Dialogue: 0,0:14:16.89,0:14:21.98,Default,,0,0,0,,O que você disse está correto em sua maior parte, o suficiente para me assustar.
 Dialogue: 0,0:14:21.98,0:14:26.20,Default,,0,0,0,,Sei que os segredos da SERN são absolutamente confidenciais.
-Dialogue: 0,0:14:26.20,0:14:28.78,Default,,0,0,0,,Quer a missão falhe ou seja bem-sucedida, {dará na mesma} {na vdd,, pareceu bem errado a  tradução desta linha, hora de consultar meus anos de experiencia sendo weaboo }
+Dialogue: 0,0:14:26.20,0:14:28.78,Default,,0,0,0,,Quer a missão falhe ou seja bem-sucedida, {dará na mesma} {na vdd,, pareceu bem errado a tradução desta linha, hora de consultar meus anos de experiencia sendo weaboo }
 Dialogue: 0,0:14:28.78,0:14:31.91,Default,,0,0,0,,eles eliminam qualquer um que saiba dos seus segredos.
 Dialogue: 0,0:14:31.91,0:14:34.66,Default,,0,0,0,,Você também sabe disso? Nesse caso—
 Dialogue: 0,0:14:34.66,0:14:37.17,Default,,0,0,0,,Entretanto, isto não tem nada a ver com a sua missão!
@@ -270,7 +270,7 @@ Dialogue: 0,0:16:15.64,0:16:17.56,Default,,0,0,0,,Não entendi direito,
 Dialogue: 0,0:16:17.56,0:16:22.06,Default,,0,0,0,,mas ontem foi muito assustador e eu não gosto nada disso...
 Dialogue: 0,0:16:22.06,0:16:24.40,Default,,0,0,0,,Nae...
 Dialogue: 0,0:16:24.40,0:16:25.94,Default,,0,0,0,,Mas...
-Dialogue: 0,0:16:25.94,0:16:31.61,Default,,0,0,0,,O que realmente me assusta é pensar que você  pode se machucar tentando me proteger.
+Dialogue: 0,0:16:25.94,0:16:31.61,Default,,0,0,0,,O que realmente me assusta é pensar que você pode se machucar tentando me proteger.
 Dialogue: 0,0:16:31.61,0:16:36.16,Default,,0,0,0,,É por isso que... prefiro que a Suzuha-oneechan e os outros fiquem...
 Dialogue: 0,0:16:36.15,0:16:37.51,Default,,0,0,0,,Nae...
 Dialogue: 0,0:16:40.08,0:16:43.71,Default,,0,0,0,,Só para que fiquem sabendo, vocês duas vão dividir o salário de um só.
@@ -278,7 +278,7 @@ Dialogue: 0,0:16:43.71,0:16:46.50,Default,,0,0,0,,Não estamos nadando em dinhei
 Dialogue: 0,0:16:46.50,0:16:48.05,Default,,0,0,0,,Pai!
 Dialogue: 0,0:16:48.92,0:16:51.63,Default,,0,0,0,,Mesquinho.{Mão de vaca, pão duro}
 Dialogue: 0,0:16:51.63,0:16:54.47,Default,,0,0,0,,Hã? Se não gostou, posso subir o seu aluguel!
-Dialogue: 0,0:16:54.47,0:16:58.22,Default,,0,0,0,,N-Não! Muito obrigado, Tennoji-san!
+Dialogue: 0,0:16:54.47,0:16:58.22,Default,,0,0,0,,N-Não! Muito obrigado, Tennouji-san!
 Dialogue: 0,0:16:58.22,0:17:00.22,Default,,0,0,0,,{Hmph.} Mais importante, Okabe.
 Dialogue: 0,0:17:00.22,0:17:03.77,Default,,0,0,0,,É melhor você se apressar e descobrir quem eram aquelas pessoas.
 Dialogue: 0,0:17:03.77,0:17:07.27,Default,,0,0,0,,Caso contrário, não poderemos fazer nada sobre eles.
@@ -332,7 +332,7 @@ Dialogue: 0,0:19:50.35,0:19:57.11,Default,,0,0,0,,Hum... É famoso pelos element
 Dialogue: 0,0:19:57.11,0:19:59.07,Default,,0,0,0,,Amadeus?
 Dialogue: 0,0:19:59.07,0:20:02.95,Default,,0,0,0,,O que será que aconteceu? Não consigo me conectar com o servidor do Amadeus...{tava do no ep anterior, era pra ser do ou da?} {já falei lá no começo :X , não é a kurisu bloqueando ela, é o sistema, os gringos fizeram algo}
 Dialogue: 0,0:20:05.45,0:20:07.16,Default,,0,0,0,,Okarin?
-Dialogue: 0,0:20:09.12,0:20:10.66,Default,,0,0,0,,Oi, é a Hiyajo.
+Dialogue: 0,0:20:09.12,0:20:10.66,Default,,0,0,0,,Oi, é a Hiyajou.
 Dialogue: 0,0:20:10.66,0:20:12.42,Default,,0,0,0,,Alô? Sou eu.
 Dialogue: 0,0:20:12.42,0:20:15.21,Default,,0,0,0,,Okabe-san? Aconteceu alguma coisa de novo?
 Dialogue: 0,0:20:15.21,0:20:17.30,Default,,0,0,0,,Não, preciso fazer uma pergunta.

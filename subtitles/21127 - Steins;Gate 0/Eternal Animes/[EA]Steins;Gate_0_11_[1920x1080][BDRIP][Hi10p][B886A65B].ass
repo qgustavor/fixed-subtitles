@@ -84,7 +84,7 @@ Dialogue: 0,0:04:04.49,0:04:08.45,Default,,0,0,0,,Okarin, você não acha que pr
 Dialogue: 0,0:04:08.45,0:04:09.66,Default,,0,0,0,,Mas...
 Dialogue: 0,0:04:09.66,0:04:12.08,Default,,0,0,0,,Você quer tanto assim que ela não saiba? {tava estranho, parece que ela vai saber tanto, tipo, no sentido de saber muito}
 Dialogue: 0,0:04:13.21,0:04:14.58,Default,,0,0,0,,Não é isso...
-Dialogue: 0,0:04:14.58,0:04:19.17,Default,,0,0,0,,Entretanto, se eu contar à Hiyajo-san, ela irá...
+Dialogue: 0,0:04:14.58,0:04:19.17,Default,,0,0,0,,Entretanto, se eu contar à Hiyajou-san, ela irá...
 Dialogue: 0,0:04:21.72,0:04:23.80,Default,,0,0,0,,Máquina do tempo...
 Dialogue: 0,0:04:23.80,0:04:27.35,Default,,0,0,0,,E é provável que eles estejam atrás de qualquer traço dessa pesquisa.
 Dialogue: 0,0:04:27.35,0:04:31.10,Default,,0,0,0,,E, possivelmente, essa teoria está dentro da Amadeus.
@@ -143,7 +143,7 @@ Dialogue: 0,0:07:38.95,0:07:43.46,Default,,0,0,0,,Mesmo assim, estou dizendo que
 Dialogue: 0,0:07:45.50,0:07:47.25,Default,,0,0,0,,O que fará?
 Dialogue: 0,0:08:01.14,0:08:02.64,Default,,0,0,0,,Está bem.{Compreendo}{nah}
 Dialogue: 0,0:08:02.64,0:08:04.90,Default,,0,0,0,,Vamos destruir este PC.
-Dialogue: 0,0:08:04.90,0:08:06.52,Default,,0,0,0,,Hiyajo-san...
+Dialogue: 0,0:08:04.90,0:08:06.52,Default,,0,0,0,,Hiyajou-san...
 Dialogue: 0,0:08:06.52,0:08:08.27,Default,,0,0,0,,Sério?
 Dialogue: 0,0:08:08.27,0:08:10.11,Default,,0,0,0,,E o meu pagamento?
 Dialogue: 0,0:08:10.11,0:08:15.37,Default,,0,0,0,,Eu já encomendei um jogo erótico na pré-venda que irá lançar no final deste mês... {a gente deixou traduzido eroge num ep mais na frente, bom deixar igul}
@@ -164,13 +164,13 @@ Dialogue: 0,0:08:51.78,0:08:54.99,Default,,0,0,0,,Aquele era um dos meus esconde
 Dialogue: 0,0:09:09.42,0:09:10.59,Default,,0,0,0,,Onde estamos?
 Dialogue: 0,0:09:10.59,0:09:12.63,Default,,0,0,0,,Atrás do prédio de antes.
 Dialogue: 0,0:09:12.63,0:09:15.13,Default,,0,0,0,,Já chegamos bem longe...
-Dialogue: 0,0:09:16.97,0:09:18.76,Default,,0,0,0,,Hiyajo-san!
+Dialogue: 0,0:09:16.97,0:09:18.76,Default,,0,0,0,,Hiyajou-san!
 Dialogue: 0,0:09:19.72,0:09:21.72,Default,,0,0,0,,Façam exatamente o que eu disser.
 Dialogue: 0,0:09:23.60,0:09:26.98,Default,,0,0,0,,Espere! Vocês estão atrás disto, não é?!
 Dialogue: 0,0:09:29.19,0:09:31.98,Default,,0,0,0,,Solte-a primeiro!
 Dialogue: 0,0:09:31.98,0:09:34.03,Default,,0,0,0,,Troque pela garota.
 Dialogue: 0,0:09:35.28,0:09:37.95,Default,,0,0,0,,Não! Você não pode entregar!
-Dialogue: 0,0:09:37.95,0:09:40.53,Default,,0,0,0,,Hiyajo-san, não tente resistir.
+Dialogue: 0,0:09:37.95,0:09:40.53,Default,,0,0,0,,Hiyajou-san, não tente resistir.
 Dialogue: 0,0:09:40.53,0:09:44.58,Default,,0,0,0,,Não é um blefe. Você realmente morrerá caso o faça.{imagino que foi um erro que passou batido, mas por garantia: Blefe - substantivo masculino. Alterado}
 Dialogue: 0,0:09:44.58,0:09:45.71,Default,,0,0,0,,Mas...!
 Dialogue: 0,0:09:45.71,0:09:46.75,Default,,0,0,0,,Este computador...
@@ -191,7 +191,7 @@ Dialogue: 0,0:10:31.33,0:10:33.21,Default,,0,0,0,,Solte-a primeiro!
 Dialogue: 0,0:10:49.89,0:10:51.60,Default,,0,0,0,,Abaixem!
 Dialogue: 0,0:11:19.17,0:11:24.33,Default,,0,0,0,,{\an8}Moradores próximos relataram um possível tiroteio à polícia, e após uma investigação mais aprofundada—
 Dialogue: 0,0:11:21.11,0:11:24.33,Default,,0,0,120,,{\blur0.7\fs25\bord1\3c&HC44FBF&\c&HBEF5E3&}Tiroteio em Akihabara
-Dialogue: 0,0:11:25.60,0:11:27.93,Default,,0,0,0,,Você está bem, Hiyajo-san?
+Dialogue: 0,0:11:25.60,0:11:27.93,Default,,0,0,0,,Você está bem, Hiyajou-san?
 Dialogue: 0,0:11:27.93,0:11:32.10,Default,,0,0,0,,Sim, mas você tem certeza de que não precisa ir a um hospital?
 Dialogue: 0,0:11:32.10,0:11:36.23,Default,,0,0,0,,Eles perguntariam onde me machuquei. E além disso...
 Dialogue: 0,0:11:41.91,0:11:43.16,Default,,0,0,0,,Abra sua mão.
@@ -200,7 +200,7 @@ Dialogue: 0,0:11:47.16,0:11:51.58,Default,,0,0,0,,Hã? Que estranho... Não est�
 Dialogue: 0,0:12:04.89,0:12:08.01,Default,,0,0,0,,Isto é... parte do...
 Dialogue: 0,0:12:09.52,0:12:11.77,Default,,0,0,0,,Quando eu...?
 Dialogue: 0,0:12:19.86,0:12:21.74,Default,,0,0,0,,Sinto muito...
-Dialogue: 0,0:12:21.74,0:12:23.28,Default,,0,0,0,,Hiyajo-san.
+Dialogue: 0,0:12:21.74,0:12:23.28,Default,,0,0,0,,Hiyajou-san.
 Dialogue: 0,0:12:23.28,0:12:25.32,Default,,0,0,0,,Sinto muito.
 Dialogue: 0,0:12:25.32,0:12:29.24,Default,,0,0,0,,Eu não... pude protegê-lo.
 Dialogue: 0,0:12:29.24,0:12:30.70,Default,,0,0,0,,Desculpe-me...
@@ -257,7 +257,7 @@ Dialogue: 0,0:15:31.76,0:15:37.47,Default,,0,0,0,,Não se preocupe... Depois de 
 Dialogue: 0,0:15:39.10,0:15:41.39,Default,,0,0,0,,Acho que tem razão.
 Dialogue: 0,0:15:44.86,0:15:50.74,Default,,0,0,0,,Acha que Salieri ficou feliz? Ou acha que ele se arrependeu?
 Dialogue: 0,0:15:50.74,0:15:53.70,Default,,0,0,0,,Quando Mozart morreu...
-Dialogue: 0,0:15:53.70,0:15:55.41,Default,,0,0,0,,Hiyajo-san...
+Dialogue: 0,0:15:53.70,0:15:55.41,Default,,0,0,0,,Hiyajou-san...
 Dialogue: 0,0:15:55.41,0:15:58.87,Default,,0,0,0,,Você me disse para não desonrar os mortos.
 Dialogue: 0,0:15:58.87,0:16:02.00,Default,,0,0,0,,Quando ouvi isso, eu percebi...
 Dialogue: 0,0:16:02.00,0:16:04.54,Default,,0,0,0,,Que talvez eu tenha.
@@ -277,7 +277,7 @@ Dialogue: 0,0:16:49.46,0:16:50.67,Default,,0,0,0,,Será mesmo?
 Dialogue: 0,0:16:50.67,0:16:52.05,Default,,0,0,0,,É verdade.
 Dialogue: 0,0:16:52.05,0:16:56.47,Default,,0,0,0,,Mozart nunca perdeu sequer um segundo com Salieri.
 Dialogue: 0,0:16:56.47,0:17:01.02,Default,,0,0,0,,Ele se dedicou a fazer ótimas músicas, e só.
-Dialogue: 0,0:17:01.02,0:17:07.36,Default,,0,0,0,,Mas Hiyajo-san... No fim, você concordou em destruir o computador.
+Dialogue: 0,0:17:01.02,0:17:07.36,Default,,0,0,0,,Mas Hiyajou-san... No fim, você concordou em destruir o computador.
 Dialogue: 0,0:17:07.36,0:17:09.02,Default,,0,0,0,,Isso foi porque você—
 Dialogue: 0,0:17:09.02,0:17:12.11,Default,,0,0,0,,Além disso, você derramou lágrimas por ela.
 Dialogue: 0,0:17:12.11,0:17:15.86,Default,,0,0,0,,Disse que não pôde protegê-lo e que sentia muito.
@@ -340,7 +340,7 @@ Dialogue: 0,0:20:42.74,0:20:44.49,Default,,0,0,0,,Seu rosto está todo vermelho.
 Dialogue: 0,0:20:44.49,0:20:47.24,Default,,0,0,0,,Como a Kurisu é {\i1}shy{\i0}!{tímida}
 Dialogue: 0,0:20:47.24,0:20:48.74,Default,,0,0,0,,Professor, está na hora.
 Dialogue: 0,0:20:48.74,0:20:50.66,Default,,0,0,0,,Oh, é mesmo?
-Dialogue: 0,0:20:50.66,0:20:53.54,Default,,0,0,0,,Não provoque muito a Hiyajo-san, tudo bem?
+Dialogue: 0,0:20:50.66,0:20:53.54,Default,,0,0,0,,Não provoque muito a Hiyajou-san, tudo bem?
 Dialogue: 0,0:20:53.54,0:20:55.08,Default,,0,0,0,,Eu sei.
 Dialogue: 0,0:20:55.08,0:20:56.21,Default,,0,0,0,,Até mais.
 Dialogue: 0,0:20:57.67,0:20:58.71,Default,,0,0,0,,Algum dia...
@@ -354,7 +354,7 @@ Dialogue: 0,0:21:18.11,0:21:19.61,Default,,0,0,0,,Que exagero.
 Dialogue: 0,0:21:19.61,0:21:21.28,Default,,0,0,0,,Não, é a verdade.
 Dialogue: 0,0:21:21.28,0:21:23.36,Default,,0,0,0,,Estou extremamente agradecida.
 Dialogue: 0,0:21:23.36,0:21:25.78,Default,,0,0,0,,Estarei esperando-o lá.
-Dialogue: 0,0:21:30.95,0:21:36.58,Default,,0,0,0,,E assim, o Professor Leskinen e a Hiyajo-san voltaram para os EUA.{EUA}{America = EUA em JP}
+Dialogue: 0,0:21:30.95,0:21:36.58,Default,,0,0,0,,E assim, o Professor Leskinen e a Hiyajou-san voltaram para os EUA.{EUA}{America = EUA em JP}
 Dialogue: 0,0:21:36.58,0:21:38.88,Default,,0,0,0,,O tempo volta a fluir...
 Dialogue: 0,0:21:40.42,0:21:44.38,Default,,0,0,0,,Sem mudar...
 Dialogue: 0,0:21:44.38,0:21:46.55,Default,,0,0,0,,Sem voltar...{repetir}

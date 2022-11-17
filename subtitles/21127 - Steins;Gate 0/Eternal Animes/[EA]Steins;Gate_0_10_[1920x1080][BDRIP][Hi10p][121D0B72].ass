@@ -95,7 +95,7 @@ Dialogue: 0,0:05:16.44,0:05:17.04,Default,,0,0,0,,Claro!
 Dialogue: 0,0:05:22.28,0:05:24.57,Default,,0,0,0,,Mas o que é isto?
 Dialogue: 0,0:05:32.41,0:05:34.70,Default,,0,0,0,,Este quarto é inacreditável!
 Dialogue: 0,0:05:35.71,0:05:39.00,Default,,0,0,0,,Oh, Okabe-san? Você chegou cedo.
-Dialogue: 1,0:05:41.32,0:05:44.78,Tela,,0,0,0,,{\blur0.4\an1\pos(20,130)\fnConstantia\bord0\fs30\c&H535353&}"Por que você está aqui?"\N"Poxa! Eu já tinha dito ><"\N"Pediram-me para ser a\N guarda-costas da Dr.ª Hiyajo~"
+Dialogue: 1,0:05:41.32,0:05:44.78,Tela,,0,0,0,,{\blur0.4\an1\pos(20,130)\fnConstantia\bord0\fs30\c&H535353&}"Por que você está aqui?"\N"Poxa! Eu já tinha dito ><"\N"Pediram-me para ser a\N guarda-costas da Dr.ª Hiyajou~"
 Dialogue: 0,0:05:41.32,0:05:44.78,Default,,0,0,0,,{\blur1\shad0\bord0\bord0\p1\pos(182,150)\c&HE6E6E6&}m 0 0 l 395 0 395 140 0 140 c
 Dialogue: 0,0:05:47.76,0:05:50.18,Default,,0,0,0,,O que aconteceu com o quarto?
 Dialogue: 0,0:05:50.18,0:05:52.68,Default,,0,0,0,,Está pior do que estava há alguns dias.
@@ -114,7 +114,7 @@ Dialogue: 0,0:06:32.97,0:06:36.83,Default,,0,0,0,,Mas por que a Faris me disse p
 Dialogue: 0,0:06:38.94,0:06:41.81,Default,,0,0,0,,Porque a Mayushii tem uma mente brilhante!{"A Mayushii já sabe!" encaixa melhor, mas não sei se é o que ela fala}
 Dialogue: 0,0:06:41.81,0:06:46.82,Default,,0,0,0,,A Faris-chan provavelmente queria que este quarto fosse limpo!
 Dialogue: 0,0:06:46.82,0:06:49.11,Default,,0,0,0,,E se você estiver aqui, ele será limpo?
-Dialogue: 0,0:06:49.11,0:06:54.70,Default,,0,0,0,,É mais como: "Se a Mayushii viesse, ela pensaria em chamar aquela pessoa também!"{esse ela se refere a mayushii?}  {provavelmente}
+Dialogue: 0,0:06:49.11,0:06:54.70,Default,,0,0,0,,É mais como: "Se a Mayushii viesse, ela pensaria em chamar aquela pessoa também!"{esse ela se refere a mayushii?} {provavelmente}
 Dialogue: 0,0:06:54.70,0:06:56.37,Default,,0,0,0,,Aquela pessoa?
 Dialogue: 0,0:06:56.37,0:06:59.00,Default,,0,0,0,,A Sargento Limpeza!
 Dialogue: 0,0:07:02.50,0:07:06.76,Default,,0,0,0,,Eu serei a instrutora de vocês! Refiram-se a mim como Sargento Limpeza!
@@ -139,7 +139,7 @@ Dialogue: 0,0:08:00.31,0:08:03.81,Default,,0,0,0,,Agora vá varrer o corredor de
 Dialogue: 0,0:08:03.81,0:08:06.69,Default,,0,0,0,,Nae-sama! Sim, Nae-sama!{Sir, yes sir!}
 Dialogue: 0,0:08:08.07,0:08:10.69,Default,,0,0,0,,Ele está aproveitando cada segundo...
 Dialogue: 0,0:08:10.69,0:08:13.20,Default,,0,0,0,,O que exatamente estamos fazendo aqui?
-Dialogue: 0,0:08:13.20,0:08:17.33,Default,,0,0,0,,Até que tenhamos acabado, é melhor que a Hiyajo-san e a Kiryu-san saiam.
+Dialogue: 0,0:08:13.20,0:08:17.33,Default,,0,0,0,,Até que tenhamos acabado, é melhor que a Hiyajou-san e a Kiryuu-san saiam.
 Dialogue: 0,0:08:17.33,0:08:18.54,Default,,0,0,0,,Hã?{ou nada}
 Dialogue: 0,0:08:18.54,0:08:20.25,Default,,0,0,0,,Ninguém me disse isso.
 Dialogue: 0,0:08:20.25,0:08:23.58,Default,,0,0,0,,Ordens da dona da casa. Vocês não podem se opor.
@@ -167,7 +167,7 @@ Dialogue: 0,0:09:16.55,0:09:20.51,Default,,0,0,0,,Como no filme, não é? Já ou
 Dialogue: 0,0:09:20.51,0:09:24.23,Default,,0,0,0,,Salieri tinha um futuro promissor como músico,
 Dialogue: 0,0:09:24.23,0:09:28.65,Default,,0,0,0,,mas ficou com inveja dos talentos de Mozart e foi guiado ao desespero.
 Dialogue: 0,0:09:28.65,0:09:33.74,Default,,0,0,0,,No fim, a perseguição e a pressão que sofreu o levaram ao seu falecimento. {tá estranho, parece que a perseguição foi feita por ele, sendo que foi ele quem a sofreu}
-Dialogue: 0,0:09:35.99,0:09:37.61,Default,,0,0,0,,Hiyajo-san...
+Dialogue: 0,0:09:35.99,0:09:37.61,Default,,0,0,0,,Hiyajou-san...
 Dialogue: 0,0:09:37.61,0:09:42.45,Default,,0,0,0,,Não se preocupe. Eu não acredito que seja o meu caso, mas...
 Dialogue: 0,0:09:48.37,0:09:50.38,Default,,0,0,0,,Okabe-san?
 Dialogue: 0,0:09:50.38,0:09:52.09,Default,,0,0,0,,Há quanto tempo.
@@ -183,11 +183,11 @@ Dialogue: 0,0:10:15.99,0:10:18.32,Default,,0,0,0,,Okarin! Desculpe a demora!
 Dialogue: 0,0:10:18.32,0:10:20.24,Default,,0,0,0,,Ela caiu no sono?
 Dialogue: 0,0:10:20.24,0:10:24.79,Default,,0,0,0,,Sim! Ser a Sargento Limpeza deve consumir muita energia.
 Dialogue: 0,0:10:24.79,0:10:26.29,Default,,0,0,0,,Quer que eu a carregue?
-Dialogue: 0,0:10:26.29,0:10:30.54,Default,,0,0,0,,Claro, se você quiser levar um cruzado de direita com força total do Tennouji-san.  {direito de direita ficou feio, no wiki mostra:  direto ou cruzado[1] é um soco rápido lançado[,,,] entao vou mudar}
+Dialogue: 0,0:10:26.29,0:10:30.54,Default,,0,0,0,,Claro, se você quiser levar um cruzado de direita com força total do Tennouji-san. {direito de direita ficou feio, no wiki mostra: direto ou cruzado[1] é um soco rápido lançado[,,,] entao vou mudar}
 Dialogue: 0,0:10:30.54,0:10:32.95,Default,,0,0,0,,Um cruzado de direita com força total!
 Dialogue: 0,0:10:34.25,0:10:38.38,Default,,0,0,0,,Todo aquele treinamento do exército deve ter mexido com a cabeça dele...
 Dialogue: 0,0:10:38.38,0:10:42.05,Default,,0,0,0,,Então... Se não conseguir achar algo de que precise, avise-me!
-Dialogue: 0,0:10:42.05,0:10:45.31,Default,,0,0,0,,Tudo bem. Onde estão a Faris-san e a Kiryu-san?
+Dialogue: 0,0:10:42.05,0:10:45.31,Default,,0,0,0,,Tudo bem. Onde estão a Faris-san e a Kiryuu-san?
 Dialogue: 0,0:10:45.31,0:10:47.64,Default,,0,0,0,,Disseram-me que já iriam voltar.
 Dialogue: 0,0:10:49.98,0:10:51.10,Default,,0,0,0,,Kyouma!
 Dialogue: 0,0:10:51.10,0:10:53.36,Default,,0,0,0,,Já disse para não me chamar assim.
@@ -207,7 +207,7 @@ Dialogue: 0,0:11:33.56,0:11:35.61,Default,,0,0,0,,Mas a propósito, Maho-nyan,
 Dialogue: 0,0:11:35.61,0:11:39.19,Default,,0,0,0,,como você parece uma boneca, tudo fica bem em você, nya.
 Dialogue: 0,0:11:39.19,0:11:41.36,Default,,0,0,0,,Pare de me chamar assim.
 Dialogue: 0,0:11:42.16,0:11:43.07,Default,,0,0,0,,Hum?
-Dialogue: 0,0:11:43.07,0:11:44.20,Default,,0,0,0,,Kiryu-san?
+Dialogue: 0,0:11:43.07,0:11:44.20,Default,,0,0,0,,Kiryuu-san?
 Dialogue: 0,0:11:44.20,0:11:45.95,Default,,0,0,0,,A Moe-nyan finalmente riu, nya!
 Dialogue: 0,0:11:45.95,0:11:48.16,Default,,0,0,0,,P-Pare...
 Dialogue: 0,0:11:48.16,0:11:50.37,Default,,0,0,0,,Q-Que peitos incríveis, nya!
@@ -350,7 +350,7 @@ Dialogue: 0,0:20:01.36,0:20:03.57,Default,,0,0,0,,Sinto muito.
 Dialogue: 0,0:20:03.57,0:20:05.12,Default,,0,0,0,,Eu entendi.
 Dialogue: 0,0:20:05.12,0:20:08.74,Default,,0,0,0,,Percebo que há algo que você não quer contar.
 Dialogue: 0,0:20:08.74,0:20:10.79,Default,,0,0,0,,Isto é o suficiente para mim.
-Dialogue: 0,0:20:10.79,0:20:12.71,Default,,0,0,0,,Hiyajo-san...
+Dialogue: 0,0:20:10.79,0:20:12.71,Default,,0,0,0,,Hiyajou-san...
 Dialogue: 0,0:20:16.46,0:20:20.67,Default,,0,0,0,,Toda vez que o vejo, penso a mesma coisa:
 Dialogue: 0,0:20:20.67,0:20:24.43,Default,,0,0,0,,Por que você parece sempre tão tristonho?
 Dialogue: 0,0:20:24.43,0:20:27.39,Default,,0,0,0,,É o mesmo quando você fala sobre a Kurisu.

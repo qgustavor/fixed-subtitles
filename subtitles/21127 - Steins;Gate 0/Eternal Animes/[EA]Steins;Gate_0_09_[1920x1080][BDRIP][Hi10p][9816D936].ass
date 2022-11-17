@@ -180,7 +180,7 @@ Dialogue: 0,0:08:00.13,0:08:03.76,Default,,0,0,0,,Protegerei o mundo no qual a M
 Dialogue: 0,0:08:03.76,0:08:06.77,Default,,0,0,0,,Irei protegê-la sem usar a máquina do tempo!
 Dialogue: 0,0:08:06.77,0:08:10.52,Default,,0,0,0,,Estou certo de que era isso que ela queria também.
 Dialogue: 0,0:08:10.52,0:08:11.80,Default,,0,0,0,,É tudo que eu posso fazer...
-Dialogue: 0,0:08:14.36,0:08:15.69,Default,,0,0,0,,Hiyajo-san.
+Dialogue: 0,0:08:14.36,0:08:15.69,Default,,0,0,0,,Hiyajou-san.
 Dialogue: 0,0:08:16.57,0:08:20.36,Default,,0,0,0,,Você poderia adiar a busca por outro hotel?
 Dialogue: 0,0:08:20.36,0:08:22.86,Default,,0,0,0,,Eu tenho uma ideia.
 Dialogue: 0,0:08:22.86,0:08:25.78,Default,,0,0,0,,Então é por isso que vieram, nya?
@@ -218,7 +218,7 @@ Dialogue: 0,0:10:08.34,0:10:14.23,Default,,0,0,0,,Dada a situação atual, além
 Dialogue: 0,0:10:14.23,0:10:16.10,Default,,0,0,0,,O que você fará se eu disser?
 Dialogue: 0,0:10:19.23,0:10:22.69,Default,,0,0,0,,Você pode não achar, mas, para mim, isso é muito importante.
 Dialogue: 0,0:10:23.65,0:10:26.32,Default,,0,0,0,,Suzuha...
-Dialogue: 0,0:10:26.32,0:10:30.20,Default,,0,0,0,,Responda-me. Isto é uma ordem, Okabe Rintaro!
+Dialogue: 0,0:10:26.32,0:10:30.20,Default,,0,0,0,,Responda-me. Isto é uma ordem, Okabe Rintarou!
 Dialogue: 0,0:10:31.01,0:10:36.02,Titulo,,0,0,0,,{\blur1\pos(918,500)\c&H706F7B&}Pandora do Retorno Eterno{meio}
 Dialogue: 0,0:10:31.01,0:10:36.02,Titulo - Copy,,0,0,0,,{\fs22.9\blur1\pos(948,598)\c&H6C658C&}Caixa de Pandora
 Dialogue: 0,0:10:37.42,0:10:39.25,Default,,0,0,0,,Perguntarei mais uma vez:
@@ -244,7 +244,7 @@ Dialogue: 2,0:11:29.97,0:11:31.80,Default,,0,0,0,,Então é isso?!
 Dialogue: 1,0:11:31.45,0:11:33.03,Default,,0,0,0,,{\blur1\pos(350,724)\c&HCDCFC5&\3c&HA78C87&}Outro Terremoto na Rússia
 Dialogue: 2,0:11:31.80,0:11:33.72,Default,,0,0,0,,O que significa que naquela hora...
 Dialogue: 0,0:11:37.56,0:11:39.14,Default,,0,0,0,,Eu sou tão idiota...
-Dialogue: 0,0:11:39.14,0:11:43.02,Default,,0,0,0,,Não é hora para preocupações, \Nnão temos mais tempo!
+Dialogue: 0,0:11:39.14,0:11:43.02,Default,,0,0,0,,Não é hora para preocupações,\N não temos mais tempo!
 Dialogue: 0,0:11:43.02,0:11:44.52,Default,,0,0,0,,O que você pretende fazer?
 Dialogue: 0,0:11:44.52,0:11:48.24,Default,,0,0,0,,Você virá comigo. Voltaremos para o dia 28 de julho.
 Dialogue: 0,0:11:48.24,0:11:49.70,Default,,0,0,0,,E se eu recusar?
@@ -338,7 +338,7 @@ Dialogue: 0,0:17:41.92,0:17:44.22,Default,,0,0,0,,Por que eles teriam o trabalho
 Dialogue: 0,0:17:44.22,0:17:48.01,Default,,0,0,0,,Quando eles atacaram o laboratório, estavam atrás da Kagari...
 Dialogue: 0,0:17:48.01,0:17:51.02,Default,,0,0,0,,Porque ela veio do futuro?
 Dialogue: 0,0:17:51.02,0:17:53.64,Default,,0,0,0,,Eles estão procurando a máquina do tempo na qual ela veio?
-Dialogue: 0,0:17:53.64,0:17:56.60,Default,,0,0,0,,Mesmo que isso fosse verdade, \Neles não a encontrarão.
+Dialogue: 0,0:17:53.64,0:17:56.60,Default,,0,0,0,,Mesmo que isso fosse verdade,\N eles não a encontrarão.
 Dialogue: 0,0:17:56.60,0:17:57.86,Default,,0,0,0,,Por quê?
 Dialogue: 0,0:17:57.86,0:18:01.53,Default,,0,0,0,,Se a pesquisa sobre máquinas do tempo deles fosse baseada em uma máquina do tempo do futuro,
 Dialogue: 0,0:18:01.53,0:18:04.11,Default,,0,0,0,,isso causaria um grande paradoxo temporal.
@@ -389,7 +389,7 @@ Dialogue: 0,0:20:23.29,0:20:25.46,Default,,0,0,0,,{Mmm...}
 Dialogue: 0,0:20:34.55,0:20:38.02,Default,,0,0,0,,Mas me pergunto como seria...
 Dialogue: 0,0:20:40.60,0:20:45.77,Default,,0,0,0,,Seria pacífico como é agora, por toda a eternidade?
 Dialogue: 0,0:20:45.77,0:20:48.86,Default,,0,0,0,,Se fosse, não seria tão ruim...
-Dialogue: 0,0:20:54.28,0:20:55.53,Default,,0,0,0,,Hiyajo-san—
+Dialogue: 0,0:20:54.28,0:20:55.53,Default,,0,0,0,,Hiyajou-san—
 Dialogue: 0,0:20:58.87,0:21:00.33,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:21:01.66,0:21:04.88,Default,,0,0,0,,O que aconteceu aqui? Está um desastre...
 Dialogue: 0,0:21:04.88,0:21:06.42,Default,,0,0,0,,Desastre?

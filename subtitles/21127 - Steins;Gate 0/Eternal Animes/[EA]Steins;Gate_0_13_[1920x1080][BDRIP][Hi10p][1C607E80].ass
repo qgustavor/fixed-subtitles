@@ -49,14 +49,14 @@ Dialogue: 0,0:00:25.30,0:00:27.03,Default,,0,0,0,,O que foi, mamãe?
 Dialogue: 0,0:00:28.81,0:00:30.85,Default,,0,0,0,,Quer comer uma banana comigo?
 Dialogue: 0,0:00:30.85,0:00:32.14,Default,,0,0,0,,Banana?
 Dialogue: 0,0:00:32.14,0:00:34.27,Default,,0,0,0,,Que tal eu alimentá-la em vez disso?
-Dialogue: 0,0:00:34.27,0:00:38.48,Default,,0,0,0,,Hã? Está tudo bem, eu \Nconsigo sozinha...
-Dialogue: 0,0:00:39.82,0:00:44.87,Default,,0,0,0,,Quando eu a alimentava antes, \Na mamãe ficava tão feliz.
-Dialogue: 0,0:00:46.16,0:00:48.91,Default,,0,0,0,,E-Então, você poderia \Nfazer isso por mim?
+Dialogue: 0,0:00:34.27,0:00:38.48,Default,,0,0,0,,Hã? Está tudo bem, eu consigo sozinha...
+Dialogue: 0,0:00:39.82,0:00:44.87,Default,,0,0,0,,Quando eu a alimentava antes,\N a mamãe ficava tão feliz.
+Dialogue: 0,0:00:46.16,0:00:48.91,Default,,0,0,0,,E-Então, você poderia fazer isso por mim?
 Dialogue: 0,0:00:48.91,0:00:49.91,Default,,0,0,0,,Sim!
 Dialogue: 0,0:00:49.91,0:00:52.37,Default,,0,0,0,,Diga, "ah"!
 Dialogue: 0,0:00:52.37,0:00:53.54,Default,,0,0,0,,Okarin...
 Dialogue: 0,0:00:53.54,0:00:55.63,Default,,0,0,0,,O quê?
-Dialogue: 0,0:00:55.63,0:00:59.80,Default,,0,0,0,, Isto poderia ser um desenvolvimento \Nde yuri?
+Dialogue: 0,0:00:55.63,0:00:59.80,Default,,0,0,0,,Isto poderia ser um desenvolvimento \Nde yuri?
 Dialogue: 0,0:00:59.80,0:01:01.47,Default,,0,0,0,,É uma pergunta difícil...
 Dialogue: 0,0:01:01.47,0:01:03.51,Default,,0,0,0,,H-Hum...
 Dialogue: 0,0:01:03.51,0:01:07.18,Default,,0,0,0,,Eu poderia perguntar uma coisa?
@@ -71,8 +71,8 @@ Dialogue: 0,0:03:03.00,0:03:07.31,Default,,0,0,0,,Sinto que é mais como se ela 
 Dialogue: 0,0:03:09.18,0:03:12.18,Default,,0,0,0,,Filha da... Mayushii?
 Dialogue: 0,0:03:12.18,0:03:13.85,Default,,0,0,0,,Isso mesmo.
 Dialogue: 0,0:03:13.85,0:03:16.27,Default,,0,0,0,,Hã?! Isso não pode ser verdade!
-Dialogue: 0,0:03:16.27,0:03:19.85,Default,,0,0,0,,A Mayushii não deu à luz\N a um bebê ainda!
-Dialogue: 0,0:03:19.85,0:03:22.31,Default,,0,0,0,,Estou dizendo que não \Né essa a situação.
+Dialogue: 0,0:03:16.27,0:03:19.85,Default,,0,0,0,,A Mayushii não deu à luz a um bebê ainda!
+Dialogue: 0,0:03:19.85,0:03:22.31,Default,,0,0,0,,Estou dizendo que não é essa a situação.
 Dialogue: 0,0:03:22.31,0:03:25.90,Default,,0,0,0,,Ela veio do futuro até aqui\N junto com a Suzuha.
 Dialogue: 0,0:03:25.90,0:03:28.03,Default,,0,0,0,,Do futuro?
 Dialogue: 0,0:03:28.03,0:03:32.12,Default,,0,0,0,,A mamãe me adotou porque eu não tinha nem um parente vivo.
@@ -116,13 +116,13 @@ Dialogue: 0,0:05:24.81,0:05:29.07,Default,,0,0,0,,E a última coisa de que ela s
 Dialogue: 0,0:05:29.07,0:05:33.28,Default,,0,0,0,,Depois dela ter sido encontrada desmaiada na fronteira de Chiba.
 Dialogue: 0,0:05:33.28,0:05:34.49,Default,,0,0,0,,E, então, naquele dia,
 Dialogue: 0,0:05:34.49,0:05:39.66,Default,,0,0,0,,o choque do acidente pode ter trazido suas memórias de infância de volta.
-Dialogue: 0,0:05:39.66,0:05:43.54,Default,,0,0,0,,Mas, dos 10 aos 22, há\N um vácuo de 12 anos.
+Dialogue: 0,0:05:39.66,0:05:43.54,Default,,0,0,0,,Mas, dos 10 aos 22,\N há um vácuo de 12 anos.
 Dialogue: 0,0:05:43.54,0:05:44.54,Default,,0,0,0,,Sim...
-Dialogue: 0,0:05:44.54,0:05:47.08,Default,,0,0,0,,Mesmo o Japão sendo \Num lugar seguro,
+Dialogue: 0,0:05:44.54,0:05:47.08,Default,,0,0,0,,Mesmo o Japão sendo um lugar seguro,
 Dialogue: 0,0:05:47.08,0:05:50.84,Default,,0,0,0,,não tem como uma garota de 10 anos sobreviver aqui sozinha.
 Dialogue: 0,0:05:50.84,0:05:55.34,Default,,0,0,0,,É normal pensar que alguém, em algum lugar, esteve tomando conta dela.
 Dialogue: 0,0:05:55.34,0:05:58.09,Default,,0,0,0,,Mesmo assim, não temos informações o suficiente para seguir em frente.
-Dialogue: 0,0:05:58.09,0:06:04.27,Default,,0,0,0,,E a Kiryu-shi ainda está investigando, mas não está chegando a lugar algum...
+Dialogue: 0,0:05:58.09,0:06:04.27,Default,,0,0,0,,E a Kiryuu-shi ainda está investigando, mas não está chegando a lugar algum...
 Dialogue: 0,0:06:04.27,0:06:09.15,Default,,0,0,0,,Até que ela se lembre do que aconteceu sozinha, não há nada que possamos fazer?
 Dialogue: 0,0:06:09.15,0:06:13.61,Default,,0,0,0,,Se, pelo menos, houvesse uma pista ou algo que poderíamos investigar...
 Dialogue: 0,0:06:18.78,0:06:20.62,Default,,0,0,0,,Hum...
@@ -133,7 +133,7 @@ Dialogue: 0,0:06:27.67,0:06:29.29,Default,,0,0,0,,Ele saiu.
 Dialogue: 0,0:06:30.42,0:06:35.72,Default,,0,0,0,,Entendo! Nesse caso, eu podia ter passado mais tempo com a mamãe.
 Dialogue: 0,0:06:35.72,0:06:39.30,Default,,0,0,0,,E-Estou só brincando! Eu nunca\N iria faltar ao trabalho!
 Dialogue: 0,0:06:40.39,0:06:43.14,Default,,0,0,0,,Ah, é mesmo. Suzuha-oneechan.
-Dialogue: 0,0:06:43.14,0:06:46.60,Default,,0,0,0,,Ganhei uma capinha de \Ncelular da mamãe!{que combina}
+Dialogue: 0,0:06:43.14,0:06:46.60,Default,,0,0,0,,Ganhei uma capinha de celular da mamãe!{que combina}
 Dialogue: 0,0:06:46.60,0:06:48.58,Default,,0,0,0,,É mesmo? Bom para você.
 Dialogue: 0,0:06:49.85,0:06:53.40,Default,,0,0,0,,E, hum, ela disse que iremos \Nsair para nos divertir.
 Dialogue: 0,0:06:53.40,0:06:55.65,Default,,0,0,0,,Por que você não vem com a gente também, Suzuha-onee—
@@ -159,7 +159,7 @@ Dialogue: 0,0:07:51.79,0:07:55.80,Default,,0,0,0,,Mas quando se trata de mim, n�
 Dialogue: 0,0:07:55.80,0:07:59.97,Default,,0,0,0,,Sua...! Você tem ideia do quão\N difícil tem sido para mim?!
 Dialogue: 0,0:07:59.97,0:08:03.05,Default,,0,0,0,,Gastei muito combustível precioso só para procurar por você!
 Dialogue: 0,0:08:03.05,0:08:04.60,Default,,0,0,0,,Eu sinto muito, mas—
-Dialogue: 0,0:08:04.60,0:08:06.60,Default,,0,0,0,,Você não tentou me contatar\N nem uma vez!
+Dialogue: 0,0:08:04.60,0:08:06.60,Default,,0,0,0,,Você não tentou me contatar nem uma vez!
 Dialogue: 0,0:08:06.60,0:08:09.89,Default,,0,0,0,,E então você finalmente aparece, mas, convenientemente, esquece de tudo!
 Dialogue: 0,0:08:11.10,0:08:15.73,Default,,0,0,0,,Não é como se eu... Eu não \Nesqueci porque queria.
 Dialogue: 0,0:08:15.73,0:08:21.24,Default,,0,0,0,,Além disso, se é culpa de alguém, é sua por me abandonar!
@@ -169,10 +169,10 @@ Dialogue: 0,0:08:30.16,0:08:35.29,Default,,0,0,0,,Você me ouviu! Quando estáva
 Dialogue: 0,0:08:35.29,0:08:37.67,Default,,0,0,0,,E, depois disso, foi tão...
 Dialogue: 0,0:08:37.67,0:08:40.92,Default,,0,0,0,,Eu estava tão desamparada...
 Dialogue: 0,0:08:40.92,0:08:41.76,Default,,0,0,0,,Oh?
-Dialogue: 0,0:08:41.76,0:08:44.26,Default,,0,0,0,,Por que diabos vocês\N estão aí paradas?
+Dialogue: 0,0:08:41.76,0:08:44.26,Default,,0,0,0,,Por que diabos vocês estão aí paradas?
 Dialogue: 0,0:08:44.26,0:08:46.81,Default,,0,0,0,,Se suas mãos estão livres,\N vão limpar alguma coisa!
 Dialogue: 0,0:08:46.81,0:08:49.93,Default,,0,0,0,,Se ficarem vadiando assim não vão receber pagamento nenhum.
-Dialogue: 0,0:08:53.10,0:08:55.40,Default,,0,0,0,,As memórias da Kagari \Nparecem estranhas?
+Dialogue: 0,0:08:53.10,0:08:55.40,Default,,0,0,0,,As memórias da Kagari parecem estranhas?
 Dialogue: 0,0:08:55.40,0:08:58.73,Default,,0,0,0,,Bem, foi o que ouvi da Suzuha.
 Dialogue: 0,0:08:58.73,0:09:03.15,Default,,0,0,0,,Parece que as coisas das quais a Kagari-tan se lembra estão diferentes
 Dialogue: 0,0:09:03.15,0:09:05.03,Default,,0,0,0,,de como a Suzuha lembra.
@@ -237,8 +237,8 @@ Dialogue: 0,0:12:09.76,0:12:11.09,Default,,0,0,0,,Idiota.
 Dialogue: 0,0:12:11.09,0:12:12.16,Default,,0,0,0,,Mas...
 Dialogue: 0,0:12:13.85,0:12:18.10,Default,,0,0,0,,Se você se arrepende do que disse, por que apenas não se desculpa com ela?
 Dialogue: 0,0:12:18.10,0:12:23.69,Default,,0,0,0,,Não sou muito boa com esse tipo de coisa. Preciso do momento certo...
-Dialogue: 0,0:12:23.69,0:12:26.77,Default,,0,0,0,,Se apenas... eu tivesse\N uma oportunidade.
-Dialogue: 0,0:12:30.03,0:12:34.24,Default,,0,0,0,,Então eu estava pensando\N em dar uma festa!
+Dialogue: 0,0:12:23.69,0:12:26.77,Default,,0,0,0,,Se apenas... eu tivesse uma oportunidade.
+Dialogue: 0,0:12:30.03,0:12:34.24,Default,,0,0,0,,Então eu estava pensando em dar uma festa!
 Dialogue: 0,0:12:34.24,0:12:35.37,Default,,0,0,0,,Uma festa?
 Dialogue: 0,0:12:35.37,0:12:40.37,Default,,0,0,0,,Sim! Para comemorar a volta das memórias da Kagari-chan.
 Dialogue: 0,0:12:40.37,0:12:42.33,Default,,0,0,0,,Kagari-{\i1}chan{\i0}?
@@ -266,7 +266,7 @@ Dialogue: 0,0:13:53.82,0:13:56.99,Default,,0,0,0,,B-Bem, será...?
 Dialogue: 0,0:13:58.07,0:14:02.25,Default,,0,0,0,,D-De qualquer forma, você \Nnão pode ir antes das 17!
 Dialogue: 0,0:14:02.25,0:14:03.45,Default,,0,0,0,,Tudo bem.
 Dialogue: 0,0:14:03.45,0:14:05.83,Default,,0,0,0,,Ah, e...
-Dialogue: 0,0:14:05.83,0:14:08.38,Default,,0,0,0,,Importa-se de eu convidar\N a Suzu-san?
+Dialogue: 0,0:14:05.83,0:14:08.38,Default,,0,0,0,,Importa-se de eu convidar a Suzu-san?
 Dialogue: 0,0:14:11.96,0:14:15.47,Default,,0,0,0,,Por que está me perguntando isso?
 Dialogue: 0,0:14:15.47,0:14:20.47,Default,,0,0,0,,Você e a Suzu-san não tem conversado muito ultimamente, não é?
 Dialogue: 0,0:14:22.60,0:14:25.18,Default,,0,0,0,,Não sei o que aconteceu \Nentre vocês, mas...
@@ -274,10 +274,10 @@ Dialogue: 0,0:14:25.18,0:14:32.19,Default,,0,0,0,,Ambas, você e a Suzu-san, sã
 Dialogue: 0,0:14:34.28,0:14:35.99,Default,,0,0,0,,Mamãe...
 Dialogue: 0,0:14:41.16,0:14:42.79,Default,,0,0,0,,Tudo bem.
 Dialogue: 0,0:14:44.95,0:14:49.46,Default,,0,0,0,,A Suzuha-oneechan passou \Npor muita coisa também.
-Dialogue: 0,0:14:51.13,0:14:54.80,Default,,0,0,0,,Amanhã, quando eu vê-la, \Nvou me desculpar.
-Dialogue: 0,0:14:54.80,0:14:58.51,Default,,0,0,0,,E, talvez, poderemos \Nconversar direito.
+Dialogue: 0,0:14:51.13,0:14:54.80,Default,,0,0,0,,Amanhã, quando eu vê-la, vou me desculpar.
+Dialogue: 0,0:14:54.80,0:14:58.51,Default,,0,0,0,,E, talvez, poderemos conversar direito.
 Dialogue: 0,0:15:00.93,0:15:01.78,Default,,0,0,0,,Sim!
-Dialogue: 0,0:15:06.48,0:15:09.39,Default,,0,0,0,,Parece que alguém esbanjou \Nde novo, nya!
+Dialogue: 0,0:15:06.48,0:15:09.39,Default,,0,0,0,,Parece que alguém esbanjou de novo, nya!
 Dialogue: 0,0:15:11.56,0:15:14.07,Default,,0,0,0,,A comida e as bebidas já \Nestão prontas, nya!
 Dialogue: 0,0:15:14.07,0:15:16.82,Default,,0,0,0,,Eles vão entregar logo antes\N de começar, nya!
 Dialogue: 0,0:15:16.82,0:15:19.82,Default,,0,0,0,,E temos pratos e copos o suficiente.
@@ -298,17 +298,17 @@ Dialogue: 0,0:16:10.46,0:16:15.13,Default,,0,0,0,,Se houver{houverem é errado q
 Dialogue: 0,0:16:18.97,0:16:20.55,Default,,0,0,0,,Olá!
 Dialogue: 0,0:16:20.55,0:16:21.97,Default,,0,0,0,,Bem-vindos!
 Dialogue: 0,0:16:21.97,0:16:24.14,Default,,0,0,0,,Todos conseguiram vir, nya!
-Dialogue: 0,0:16:24.14,0:16:27.45,Default,,0,0,0,,Ufa... Sem mais compras, \Npor favor...
+Dialogue: 0,0:16:24.14,0:16:27.45,Default,,0,0,0,,Ufa... Sem mais compras, por favor...
 Dialogue: 0,0:16:28.60,0:16:30.60,Default,,0,0,0,,Oi{Yoo-hoo}! Nós viemos!
 Dialogue: 0,0:16:30.60,0:16:32.23,Default,,0,0,0,,Olá!
 Dialogue: 0,0:16:32.23,0:16:34.61,Default,,0,0,0,,Desculpe a intromissão!
 Dialogue: 0,0:16:36.52,0:16:39.49,Default,,0,0,0,,N-Nae-sama! Bem-vinda, Nae-sama!
 Dialogue: 0,0:16:39.49,0:16:42.20,Default,,0,0,0,,Olá, Urso Sorridente-san.
 Dialogue: 0,0:16:42.20,0:16:43.91,Default,,0,0,0,,Urso-san?
-Dialogue: 0,0:16:48.04,0:16:50.71,Default,,0,0,0,,E-Ei! Você não está indo\N rápido demais?!
-Dialogue: 0,0:16:50.71,0:16:52.46,Default,,0,0,0,,Dias nas montanhas são\N mais curtos.
+Dialogue: 0,0:16:48.04,0:16:50.71,Default,,0,0,0,,E-Ei! Você não está indo rápido demais?!
+Dialogue: 0,0:16:50.71,0:16:52.46,Default,,0,0,0,,Dias nas montanhas são mais curtos.
 Dialogue: 0,0:16:52.46,0:16:56.79,Default,,0,0,0,,Se não nos apressarmos, ficará escuro. E a escuridão... é perigosa.
-Dialogue: 0,0:17:01.22,0:17:04.51,Default,,0,0,0,,Você poderia ir de forma\N mais segura?! {'dirigir' não faz muita ligação com o mal entendido dela}
+Dialogue: 0,0:17:01.22,0:17:04.51,Default,,0,0,0,,Você poderia ir de forma mais segura?! {'dirigir' não faz muita ligação com o mal entendido dela}
 Dialogue: 0,0:17:04.51,0:17:07.14,Default,,0,0,0,,Entendido, é mais seguro \Nse chegarmos rápido.
 Dialogue: 0,0:17:07.14,0:17:10.43,Default,,0,0,0,,{\i1}No!{\i0}
 Dialogue: 0,0:17:20.51,0:17:20.96,Tela,,0,0,0,,{\fs35\pos(550,717)\b1\bord0\c&H505050&}Akihabara Doces
@@ -316,27 +316,27 @@ Dialogue: 0,0:17:33.83,0:17:34.83,Default,,0,0,0,,Por aqui.
 Dialogue: 0,0:17:34.83,0:17:35.45,Default,,0,0,0,,Hum?
 Dialogue: 0,0:18:00.44,0:18:03.32,Default,,0,0,0,,Está mesmo por aqui?
 Dialogue: 0,0:18:04.90,0:18:06.53,Default,,0,0,0,,Isto é...
-Dialogue: 0,0:18:35.64,0:18:39.44,Default,,0,0,0,,Parece que era usado\N até recentemente.
+Dialogue: 0,0:18:35.64,0:18:39.44,Default,,0,0,0,,Parece que era usado até recentemente.
 Dialogue: 0,0:18:39.44,0:18:42.02,Default,,0,0,0,,Hã? Não importa como eu veja, não é usado há muito tem—
 Dialogue: 0,0:18:42.02,0:18:42.90,Default,,0,0,0,,Um disfarce.
 Dialogue: 0,0:18:42.90,0:18:43.99,Default,,0,0,0,,Hã?
 Dialogue: 0,0:18:43.99,0:18:49.70,Default,,0,0,0,,Estão espalhados para parecer isso, mas o vidro e os fragmentos são relativamente novos.
-Dialogue: 0,0:18:49.70,0:18:54.08,Default,,0,0,0,,Faz meio ano, talvez um,\N no máximo.
+Dialogue: 0,0:18:49.70,0:18:54.08,Default,,0,0,0,,Faz meio ano, talvez um, no máximo.
 Dialogue: 0,0:18:57.42,0:18:59.88,Default,,0,0,0,,Quer investigar mais a fundo?
 Dialogue: 0,0:19:02.59,0:19:04.13,Default,,0,0,0,,Vamos.
 Dialogue: 0,0:19:05.17,0:19:07.34,Default,,0,0,0,,Muito obrigada.
 Dialogue: 0,0:19:10.80,0:19:12.45,Default,,0,0,0,,Está um pouco cedo, mas...
 Dialogue: 0,0:19:13.93,0:19:15.29,Default,,0,0,0,,Não tem problema!
-Dialogue: 0,0:19:16.56,0:19:20.60,Default,,0,0,0,,Será que a Suzuha-oneechan\N ficará feliz?
+Dialogue: 0,0:19:16.56,0:19:20.60,Default,,0,0,0,,Será que a Suzuha-oneechan ficará feliz?
 Dialogue: 0,0:19:44.25,0:19:47.80,Default,,0,0,0,,Então, o que está dizendo, Doutor?
-Dialogue: 0,0:19:47.80,0:19:50.51,Default,,0,0,0,,A Kagari-chan ainda precisa\N de tratamento?
+Dialogue: 0,0:19:47.80,0:19:50.51,Default,,0,0,0,,A Kagari-chan ainda precisa de tratamento?
 Dialogue: 0,0:19:50.51,0:19:53.47,Default,,0,0,0,,Ela pode parecer estar completamente \Ncurada, mas...
 Dialogue: 0,0:19:53.47,0:19:56.89,Default,,0,0,0,,Para curar completamente o TEPT \Ntrazido pela guerra,{Transtorno de estresse pós-traumático} {se for isso na nota, é o Transtorno, então... estava no feminino q}
 Dialogue: 0,0:19:56.89,0:19:59.98,Default,,0,0,0,,é necessário uma quantidade \Nsignificativa de tempo.
 Dialogue: 0,0:19:59.98,0:20:02.48,Default,,0,0,0,,Mas eu odeio o tratamento.
 Dialogue: 0,0:20:02.48,0:20:05.32,Default,,0,0,0,,Ele faz minha cabeça doer.
-Dialogue: 0,0:20:05.32,0:20:07.86,Default,,0,0,0,,Você pode suportar \Nmais um pouco?
-Dialogue: 0,0:20:07.86,0:20:11.28,Default,,0,0,0,,A mamãe vai estar com\N você, tudo bem?
+Dialogue: 0,0:20:05.32,0:20:07.86,Default,,0,0,0,,Você pode suportar mais um pouco?
+Dialogue: 0,0:20:07.86,0:20:11.28,Default,,0,0,0,,A mamãe vai estar com você, tudo bem?
 Dialogue: 0,0:20:11.28,0:20:14.33,Default,,0,0,0,,Sim... tudo bem.
 Dialogue: 0,0:20:14.33,0:20:18.54,Default,,0,0,0,,Nesse caso, Kagari-chan, vamos nos esforçar hoje novamente.
 Dialogue: 0,0:20:50.82,0:20:53.99,Default,,0,0,0,,Eu... consigo ouvir...
@@ -362,7 +362,7 @@ Dialogue: 0,0:22:45.39,0:22:47.39,Default,,0,0,0,,E por qual propósito?!
 Dialogue: 0,0:23:06.25,0:23:07.96,Default,,0,0,0,,Alô?
 Dialogue: 0,0:23:07.96,0:23:11.00,Default,,0,0,0,,Que bom, você atendeu! Okarin!
 Dialogue: 0,0:23:12.34,0:23:13.67,Default,,0,0,0,,O que foi, Mayuri?
-Dialogue: 0,0:23:13.67,0:23:16.84,Default,,0,0,0,,Ouça, a Kagari-chan! \NA Kagari-chan...
+Dialogue: 0,0:23:13.67,0:23:16.84,Default,,0,0,0,,Ouça, a Kagari-chan! A Kagari-chan...
 Dialogue: 0,0:23:18.97,0:23:20.76,Default,,0,0,0,,Ela desapareceu?!
 Dialogue: 0,0:21:30.50,0:21:32.74,EndBaixo,,0,0,0,,{\blur2\fad(150,150}Venha até mim.
 Dialogue: 0,0:21:33.59,0:21:36.13,EndBaixo,,0,0,0,,{\blur2\fad(150,150}Abrace minhas lágrimas.
