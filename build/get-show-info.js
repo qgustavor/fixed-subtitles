@@ -65,7 +65,9 @@ async function fetchAniList (id) {
   let response
   for (let retries = 0; retries < 2; retries++) {
     // Slow down API requests
-    await new Promise(resolve => setTimeout(resolve, 2e3 * (Math.random() + Math.pow(2, retries))))
+    // "Rate limiting is currently set to 90 requests per minute."
+    // https://anilist.gitbook.io/anilist-apiv2-docs/overview/rate-limiting
+    await new Promise(resolve => setTimeout(resolve, (60e3 / 90) * (Math.random() + Math.pow(2, retries))))
 
     response = await fetch(ANILIST_ENDPOINT, {
       method: 'post',
