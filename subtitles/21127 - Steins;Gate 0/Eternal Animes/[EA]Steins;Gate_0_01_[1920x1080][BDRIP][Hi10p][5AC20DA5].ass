@@ -113,7 +113,7 @@ Dialogue: 0,0:04:51.79,0:04:53.35,Default,,0,0,0,,O quê?!
 Dialogue: 0,0:04:54.37,0:04:58.08,Default,,0,0,0,,Porque meu professor adjunto da \Nfaculdade cuida do clube.{é o conselheiro do clube} { professor adjunto, que chique}
 Dialogue: 0,0:04:58.08,0:05:00.09,Default,,0,0,0,,Então agora você está jogando tênis.
 Dialogue: 0,0:05:00.09,0:05:02.50,Default,,0,0,0,,Tem que almejar o Wimbledon, não é?{ não é : almeje o wimbledom'' ?}{yep}
-Dialogue: 0,0:05:02.50,0:05:05.51,Default,,0,0,0,,Então, você tem estado ocupado\N por que está praticando?
+Dialogue: 0,0:05:02.50,0:05:05.51,Default,,0,0,0,,Então, você tem estado ocupado\N porque está praticando?
 Dialogue: 0,0:05:05.51,0:05:08.93,Default,,0,0,0,,N-Não, o treinamento não é tão intensivo assim.
 Dialogue: 0,0:05:08.93,0:05:10.68,Default,,0,0,0,,Então o que mais você tem feito, nya?
 Dialogue: 0,0:05:10.68,0:05:13.35,Default,,0,0,0,,Se quer mesmo saber, e-encontros em grupo e outras coisas.
@@ -429,5 +429,9 @@ Dialogue: 2,0:23:14.62,0:23:17.29,endCima,,0,0,0,,{\fad(150,150)}tsunagitometemi
 Dialogue: 2,0:23:17.56,0:23:19.97,endCima,,0,0,0,,{\fad(150,150)}ano jikan ano basho de
 Dialogue: 2,0:23:20.28,0:23:25.87,endCima,,0,0,0,,{\fad(150,150)}KIMI no "toki" ga mouichido
 Dialogue: 2,0:23:27.75,0:23:31.27,endCima,,0,0,0,,{\fad(150,150)}hajimaru
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\bord1.5\3c&HFFFFFF&\fs42\pos(1033.33,71)}Epígrafe da Curva Fechada{meio}
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\c&H000000&\fs42\pos(1033.33,71)}Epígrafe da Curva Fechada{meio}
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\bord1.5\3c&HFFFFFF&\pos(1030,127)}Epigrafia Fechada
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\c&H000000&\pos(1030,127)}Epigrafia Fechada
 Comment: 0,0:06:00.48,0:06:02.32,Default,,0,0,0,,"Oficina de Televisores CRT"
 

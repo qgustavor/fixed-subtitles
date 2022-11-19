@@ -139,10 +139,10 @@ Dialogue: 0,0:05:31.41,0:05:35.33,Default,,0,0,0,,Não, acho que todos têm esse
 Dialogue: 0,0:05:35.33,0:05:39.96,Default,,0,0,0,,Mas o Okarin usa-o para nos guiar.
 Dialogue: 0,0:05:39.96,0:05:45.76,Default,,0,0,0,,É por isso que quero dar um \Nempurrão nas costas dele.
 Dialogue: 0,0:05:45.76,0:05:50.18,Default,,0,0,0,,Se é só isso, até eu devo ser\N capaz de conseguir fazer.
-Dialogue: 0,0:05:50.18,0:05:54.31,Default,,0,0,0,,É a única coisa que a Mayushii pode fazer pelo meu Hikoboshi.
-Dialogue: 0,0:05:54.31,0:05:57.23,Default,,0,0,0,,Hikoboshi...?
-Dialogue: 0,0:05:57.23,0:06:02.44,Default,,0,0,0,,Naquele dia, se meu Hikoboshi \Ntivesse voltado à vida...
-Dialogue: 0,0:06:02.44,0:06:05.78,Default,,0,0,0,,O Hikoboshi... da mamãe?
+Dialogue: 0,0:05:50.18,0:05:54.31,Default,,0,0,0,,É a única coisa que a Mayushii pode fazer pelo meu Hikoboshi-sama.
+Dialogue: 0,0:05:54.31,0:05:57.23,Default,,0,0,0,,Hikoboshi...-sama...?
+Dialogue: 0,0:05:57.23,0:06:02.44,Default,,0,0,0,,Naquele dia, se meu Hikoboshi-sama \Ntivesse voltado à vida...
+Dialogue: 0,0:06:02.44,0:06:05.78,Default,,0,0,0,,O Hikoboshi-sama... da mamãe?
 Dialogue: 0,0:06:05.78,0:06:07.95,Default,,0,0,0,,Kagari.
 Dialogue: 0,0:06:07.95,0:06:09.78,Default,,0,0,0,,Venha conosco também.
 Dialogue: 0,0:06:10.99,0:06:14.41,Default,,0,0,0,,Volte conosco ao passado...\N para mudarmos o futuro.
@@ -227,8 +227,8 @@ Dialogue: 0,0:10:55.61,0:10:59.95,Default,,0,0,0,,Em um minuto a partir de agora
 Dialogue: 0,0:10:59.95,0:11:03.41,Default,,0,0,0,,mas ele terá falhado em \Nsalvar a Makise-san.
 Dialogue: 0,0:11:04.83,0:11:06.16,Default,,0,0,0,,Então...
 Dialogue: 0,0:11:07.45,0:11:09.33,Default,,0,0,0,,Custe o que custar...
-Dialogue: 0,0:11:09.33,0:11:13.67,Default,,0,0,0,,Você precisa confrontar o seu Hikoboshi e fazê-lo abrir os olhos.
-Dialogue: 0,0:11:13.67,0:11:17.01,Default,,0,0,0,,Meu Hikoboshi?
+Dialogue: 0,0:11:09.33,0:11:13.67,Default,,0,0,0,,Você precisa confrontar o seu Hikoboshi-sama e fazê-lo abrir os olhos.
+Dialogue: 0,0:11:13.67,0:11:17.01,Default,,0,0,0,,Meu Hikoboshi-sama?
 Dialogue: 0,0:11:17.01,0:11:18.80,Default,,0,0,0,,Sim.
 Dialogue: 0,0:11:18.80,0:11:21.97,Default,,0,0,0,,Hououin... Kyouma.
 Dialogue: 0,0:11:21.97,0:11:26.31,Default,,0,0,0,,O coração do Okarin estará despedaçado, mas você precisa fazê-lo se levantar.
@@ -263,7 +263,7 @@ Dialogue: 0,0:12:43.34,0:12:46.47,Default,,0,0,0,,Um ano depois... Um milhão\N 
 Dialogue: 0,0:12:47.35,0:12:51.06,Default,,0,0,0,,Suzu-san, obrigada.
 Dialogue: 0,0:12:51.06,0:12:52.56,Default,,0,0,0,,Mayu-neesan...?
 Dialogue: 0,0:12:52.56,0:12:55.90,Default,,0,0,0,,Por me trazer com você para este dia.
-Dialogue: 0,0:12:55.90,0:13:01.86,Default,,0,0,0,,Tenho certeza de que a outra Mayushii e meu Hikoboshi podem tomar conta do resto.
+Dialogue: 0,0:12:55.90,0:13:01.86,Default,,0,0,0,,Tenho certeza de que a outra Mayushii e meu Hikoboshi-sama podem tomar conta do resto.
 Dialogue: 0,0:13:04.78,0:13:07.99,Default,,0,0,0,,Estou com tanta inveja do Okarin-ojisan.
 Dialogue: 0,0:13:07.99,0:13:10.08,Default,,0,0,0,,Se eu tivesse o Reading Steiner,
 Dialogue: 0,0:13:10.08,0:13:14.21,Default,,0,0,0,,poderia me lembrar de tudo, mesmo quando as linhas do mundo mudassem.
@@ -498,4 +498,8 @@ Dialogue: 0,0:23:03.43,0:23:10.05,EndBaixo,,0,0,0,,{\fad(150,150)}Nós vagamos p
 Dialogue: 0,0:23:10.47,0:23:16.06,EndBaixo,,0,0,0,,{\fad(150,150)}Preenchido com o amor vindo de cima,
 Dialogue: 0,0:23:16.89,0:23:23.04,EndBaixo,,0,0,0,,{\fad(150,150)}ele guia as minhas viagens (a hora prometida se aproxima).
 Dialogue: 0,0:23:23.36,0:23:29.81,EndBaixo,,0,0,0,,{\fad(150,150)}Derrame uma lágrima e salte para um mundo novo.
-
+Dialogue: 0,0:23:17.85,0:23:29.61,EndBaixo2,,0,0,0,,{\fad(150,150)}naquele mesmo lugar, seu "tempo" recomeçará mais uma vez!
+Dialogue: 0,0:24:00.17,0:24:15.06,Titulo - Copy,,0,0,0,,{\fs18\blur1\bord1.5\3c&HFFFFFF&\pos(1055,668)}Intermediário Agridoce{meio}
+Dialogue: 0,0:24:00.17,0:24:15.06,Titulo,,0,0,0,,{\fs42\blur1\bord1.5\3c&HFFFFFF&\pos(1055,652)}Dia dos Namorados do\N Polimorfismo de Cristal
+Dialogue: 1,0:24:00.17,0:24:15.06,Titulo - Copy,,0,0,0,,{\fs18\blur1\c&H161622&\pos(1055,668)}Intermediário Agridoce{meio}
+Dialogue: 1,0:24:00.17,0:24:15.06,Titulo,,0,0,0,,{\fs42\blur1\c&H161622&\pos(1055,652)}Dia dos Namorados do\N Polimorfismo de Cristal

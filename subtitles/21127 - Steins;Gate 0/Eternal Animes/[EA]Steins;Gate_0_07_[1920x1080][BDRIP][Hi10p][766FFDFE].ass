@@ -220,7 +220,7 @@ Dialogue: 0,0:13:38.36,0:13:42.44,Default,,0,0,0,,Mas... Eles estavam usando arm
 Dialogue: 0,0:13:42.44,0:13:45.41,Default,,0,0,0,,De qualquer forma, ele tem algo a nos dizer.
 Dialogue: 0,0:13:45.41,0:13:47.32,Default,,0,0,0,,Vocês vão ao laboratório?
 Dialogue: 0,0:13:47.32,0:13:50.91,Default,,0,0,0,,O Hashida-san disse que ninguém é estúpido o suficiente para atacar duas vezes seguidas o mesmo lugar.
-Dialogue: 0,0:13:50.91,0:13:55.29,Default,,0,0,0,,É quê.. Não, eu gostaria de poder ir também...{Ela falou flag?} {acho que sim, ou então tava falando do meu placar no lol ontem, feedei pra krlho}{como ficou incompleto a fala... btw, vai jogar jogo de gente}
+Dialogue: 0,0:13:50.91,0:13:55.29,Default,,0,0,0,,É quê... Não, eu gostaria de poder ir também...{Ela falou flag?} {acho que sim, ou então tava falando do meu placar no lol ontem, feedei pra krlho}{como ficou incompleto a fala... btw, vai jogar jogo de gente}
 Dialogue: 0,0:13:55.29,0:13:57.21,Default,,0,0,0,,O que aconteceu com o seu braço?
 Dialogue: 0,0:13:57.21,0:14:01.30,Default,,0,0,0,,Hum... Eu tropecei e caí ontem.
 Dialogue: 0,0:14:03.05,0:14:06.43,Default,,0,0,0,,Máquinas do tempo e linhas do mundo, é?
@@ -3013,6 +3013,10 @@ Dialogue: 0,0:22:37.30,0:22:40.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:22:37.30,0:22:40.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:22:37.30,0:22:40.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:22:37.30,0:22:40.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(218.33,582)}Dupla de Antinomia
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000010&\pos(218.33,582)}Dupla de Antinomia
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\bord1.5\3c&HFFFFFF&\pos(114.67,642.33)}Dual Antinômico{meio}
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\c&H000010&\pos(114.67,642.33)}Dual Antinômico{meio}
 Comment: 0,0:11:43.78,0:11:46.74,Default,,0,0,0,,Feliz Ano-Novo\N"Aberto para negócios a partir do dia 3" {como já passou o dia da 'festa' com as sacerdotisa, devia ser Ano Novo, mas o cartaz provavelmente foi feito antes dela, então = boas festividades? :X}
 Comment: 0,0:18:46.58,0:18:49.04,Default,,0,0,0,,"Outro Terremoto na Rússia"
 Comment: 0,0:19:31.79,0:19:37.05,Default,,0,0,0,,"Wolfgang Amadeus Mozart"

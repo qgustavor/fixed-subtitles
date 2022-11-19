@@ -289,7 +289,7 @@ Dialogue: 0,0:14:49.30,0:14:52.43,Default,,0,0,0,,Eu... não posso dizer que con
 Dialogue: 0,0:14:54.27,0:14:57.35,Default,,0,0,0,,Acho que você sabe o que estou tentando dizer.
 Dialogue: 0,0:14:57.35,0:14:59.44,Default,,0,0,0,,Sobre a Amadeus{estão falando da kurisu, dado o dialogo seguinte, entao= feminono}, não é?
 Dialogue: 0,0:14:59.44,0:15:03.28,Default,,0,0,0,,As coisas não podem ficar como estão, ou você nunca encontrará um desfecho.
-Dialogue: 0,0:15:03.28,0:15:07.24,Default,,0,0,0,,Você precisa tomar uma decisão antes do ano chegar muito longe.
+Dialogue: 0,0:15:03.28,0:15:07.24,Default,,0,0,0,,Você precisa tomar uma decisão antes do ano terminar.
 Dialogue: 0,0:15:10.16,0:15:12.20,Default,,0,0,0,,Está brincando comigo?
 Dialogue: 0,0:15:18.50,0:15:20.38,Default,,0,0,0,,{Aww...}
 Dialogue: 0,0:15:20.38,0:15:23.13,Default,,0,0,0,,Acho que eles não chegaram a tempo.
@@ -3076,6 +3076,14 @@ Dialogue: 0,0:23:30.26,0:23:33.37,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.26,0:23:33.37,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:23:30.26,0:23:33.37,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.26,0:23:33.37,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(945.67,66)}Eclipse
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(945.67,66)}Eclipse
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(1017.67,50.67)}de
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(1017.67,50.67)}de
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(1161.67,84)}Transição Vibrônica
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(1161.67,84)}Transição Vibrônica
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(963.33,136)}Transição Vibrônica
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(963.33,136)}Transição Vibrônica
 Comment: 0,0:05:36.08,0:05:39.55,Default,,0,0,0,,"Armário de moeda"{Cacifo de moeda, "Coin Locker"}
 Comment: 0,0:06:22.92,0:06:24.05,Default,,0,0,0,,"Obrigado por me convidar à Festa de Natal.\NE deculpe pelo professor."\N"Não se preocupe."
 Comment: 0,0:14:33.62,0:14:35.71,Default,,0,0,0,,"Melhor sorte"

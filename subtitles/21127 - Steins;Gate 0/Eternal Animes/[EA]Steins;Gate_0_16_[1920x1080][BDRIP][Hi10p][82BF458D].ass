@@ -279,7 +279,7 @@ Dialogue: 0,0:15:27.55,0:15:32.64,Default,,0,0,0,,Só para você saber, não est
 Dialogue: 0,0:15:32.64,0:15:35.10,Default,,0,0,0,,Nunca consideramos enviar D-mails.
 Dialogue: 0,0:15:35.10,0:15:36.31,Default,,0,0,0,,Entendo...
 Dialogue: 0,0:15:36.31,0:15:39.10,Default,,0,0,0,,E, ainda assim, você continua desapontado.
-Dialogue: 0,0:15:40.73,0:15:44.81,Default,,0,0,0,,Acho que a chuva parou. Vamos\N tomar um ar fresco.
+Dialogue: 0,0:15:40.73,0:15:44.81,Default,,0,0,0,,Acho que a chuva parou.\NVamos tomar um ar fresco.
 Dialogue: 0,0:15:47.98,0:15:49.61,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:15:49.61,0:15:51.20,Default,,0,0,0,,Nada...
 Dialogue: 0,0:15:52.95,0:15:58.58,Default,,0,0,0,,Da maneira como eu vejo, este mundo existe por causa de uma escolha que a Kurisu fez.
@@ -336,7 +336,7 @@ Dialogue: 0,0:18:41.78,0:18:43.74,Default,,0,0,0,,Sinto muito...
 Dialogue: 0,0:18:46.75,0:18:49.50,Default,,0,0,0,,O Okarin... não tem jeito mesmo?
 Dialogue: 0,0:18:49.50,0:18:51.50,Default,,0,0,0,,Não, ainda há esperança.
 Dialogue: 0,0:18:51.50,0:18:52.63,Default,,0,0,0,,Sério?
-Dialogue: 0,0:18:52.63,0:18:58.22,Default,,0,0,0,,Eu perdi para a Kurisu em nosso experimentos, em nossas teorias e em fama...
+Dialogue: 0,0:18:52.63,0:18:58.22,Default,,0,0,0,,Eu perdi para a Kurisu em nossos experimentos, em nossas teorias e em fama...
 Dialogue: 0,0:18:58.22,0:19:02.72,Default,,0,0,0,,Mas olhei para mim mesma em um espelho e continuei em frente.
 Dialogue: 0,0:19:02.72,0:19:05.31,Default,,0,0,0,,Porque se eu desistisse,\N estaria tudo acabado.
 Dialogue: 0,0:19:05.31,0:19:09.39,Default,,0,0,0,,Nunca seria capaz de vencer.
@@ -349,7 +349,7 @@ Dialogue: 0,0:19:34.00,0:19:37.34,Default,,0,0,0,,É... Algo do tipo.
 Dialogue: 0,0:19:37.34,0:19:39.97,Default,,0,0,0,,Nós costumávamos vir bastante aqui.
 Dialogue: 0,0:19:39.97,0:19:41.09,Default,,0,0,0,,É...
 Dialogue: 0,0:19:41.09,0:19:44.22,Default,,0,0,0,,Isso era antes do Daru-kun aparecer.
-Dialogue: 0,0:19:44.22,0:19:50.73,Default,,0,0,0,,Quando a Mayushii saía da escola, eu costumava esperar sozinha no laboratório .
+Dialogue: 0,0:19:44.22,0:19:50.73,Default,,0,0,0,,Quando a Mayushii saía da escola, eu costumava esperar sozinha no laboratório.
 Dialogue: 0,0:19:50.73,0:19:56.19,Default,,0,0,0,,Mesmo estando sozinha,\N não parecia ser tão solitário.
 Dialogue: 0,0:19:56.19,0:19:58.73,Default,,0,0,0,,Eu me sentia feliz...
 Dialogue: 0,0:19:58.73,0:20:03.24,Default,,0,0,0,,Mas, agora, o laboratório...\N parece solitário.
@@ -2615,6 +2615,10 @@ Dialogue: 1,0:23:32.67,0:23:36.71,EndCima,,0,0,0,fx,{\an5\fscx0\fscy0\bord0\frx3
 Dialogue: 1,0:23:32.70,0:23:36.71,EndCima,,0,0,0,fx,{\an5\fscx0\fscy0\bord0\frx360\move(640,-32,1106,28,0,200)\t(0,500,\bord1.5\frx0)\t(0,200,\fscx100\fscy100)}r
 Dialogue: 1,0:23:36.71,0:23:38.65,EndCima,,0,0,0,fx,{\an5\blur6\bord6\pos(1011,28)\fad(0,100)\t(0,100,\3c&HFFFFFF&\fscx130\fscy130)\t(100,1640,\3c&H00000000&\fscx100\fscy100\bord3\blur3)}world-layer
 Dialogue: 0,0:23:36.62,0:23:39.00,EndCima,,0,0,0,fx,{\clip(116,-12,1164,88)\an5\move(-60,38,1640,38,0,6000)\fad(0,300)\bord0.2\blur3\3c&HA6A919&\c&HA6A919&\fscx50\fscy50\p1}m 0 0 m -1 31 l 0 31 l 3 30 l 5 32 l 6 31 l 8 24 l 10 45 l 11 33 l 14 32 l 18 32 l 22 30 l 25 32 l 33 31 l 43 30 l 46 26 l 49 30 l 51 31 l 53 3 l 55 33 l 58 33 l 63 36 l 68 28 l 74 29 l 83 30 l 88 29 l 90 28 l 93 30 l 96 30 l 98 0 l 101 32 l 105 29 l 122 29 l 122 30 l 105 30 l 101 33 l 98 8 l 97 31 l 93 31 l 90 29 l 83 31 l 73 30 l 68 29 l 63 37 l 58 34 l 54 34 l 53 13 l 52 32 l 49 31 l 46 27 l 43 31 l 33 32 l 25 33 l 22 31 l 18 33 l 14 33 l 11 34 l 10 48 l 8 28 l 7 32 l 5 33 l 3 31 l 0 32 l -4 30 l -33 30 l -33 29 l -4 29 m 122 29 l 126 20 l 133 44 l 138 23 l 144 36 l 149 31 l 151 27 l 153 29 l 157 31 l 161 29 l 175 8 l 181 31 l 187 47 l 195 40 l 198 32 l 199 23 l 209 26 l 221 17 l 222 23 l 236 22 l 244 27 l 247 24 l 250 24 l 261 1 l 263 41 l 270 27 l 271 34 l 275 1 l 280 29 l 286 12 l 289 31 l 294 12 l 307 29 l 329 29 l 339 7 l 339 39 l 341 29 l 377 29 l 377 30 l 342 30 l 339 43 l 338 11 l 329 30 l 306 30 l 294 14 l 289 34 l 286 15 l 280 32 l 275 7 l 271 36 l 270 29 l 263 43 l 260 4 l 251 25 l 247 25 l 244 28 l 236 23 l 221 24 l 220 19 l 209 27 l 200 24 l 199 32 l 196 41 l 187 49 l 180 31 l 175 10 l 162 30 l 157 32 l 153 30 l 151 29 l 150 32 l 144 37 l 138 25 l 133 46 l 126 22 l 123 30 l 122 30 "
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(1024.67,568.67)}Altair do Plano Hiperbólico
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(924.33,639.34)}Pseudo-esfera de Beltrami{meio}
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(1024.67,568.67)}Altair do Plano Hiperbólico
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(924.33,639.34)}Pseudo-esfera de Beltrami{meio}
 Comment: 0,0:01:16.91,0:01:22.14,OpCima,,0,0,0,karaoke,{\k54}ko{\k118}no {\k14}i{\k12}no{\k37}chi {\k14}to {\k8}i{\k28}u {\k153}mu{\k85}gen {\k0}
 Comment: 0,0:01:22.14,0:01:27.69,OpCima,,0,0,0,karaoke,{\k83}ma{\k84}da {\k51}sa{\k33}kka{\k16}ku {\k28}to {\k25}mo {\k124}shi{\k23}ra{\k88}zu
 Comment: 0,0:01:29.19,0:01:34.22,OpCima,,0,0,0,karaoke,{\k34}ni{\k9}ri{\k32}tsu {\k26}ha{\k28}i{\k36}ha{\k120}n {\k17}PA{\k14}RA{\k33}DO{\k14}KU{\k29}SU {\k39}sa{\k72}e

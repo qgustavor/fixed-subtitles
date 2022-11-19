@@ -1835,6 +1835,10 @@ Dialogue: 3,0:02:49.11,0:02:49.41,OpCima,,0,0,0,fx,{\an5\move(789,37,21,42)\fad(
 Dialogue: 3,0:02:49.11,0:02:49.41,OpCima,,0,0,0,fx,{\an5\move(802,37,467,63)\fad(0,600)\3c&H000000&\bord2\blur3\t(\frz-889\fsc21)}l
 Dialogue: 3,0:02:49.11,0:02:49.41,OpCima,,0,0,0,fx,{\an5\move(816,37,1070,25)\fad(0,600)\3c&H000000&\bord2\blur3\t(\frz-934\fsc85)}d
 Dialogue: 0,0:23:20.76,0:23:22.76,Default,,0,0,0,,
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(1036,574)}Reconhecimento do Limite Elástico
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(1036,574)}Reconhecimento do Limite Elástico
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs17\blur0.5\bord1.5\3c&HFFFFFF&\pos(1106.67,643.67)}Prever ou Identificar
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs17\blur0.5\c&H000000&\pos(1106.67,643.67)}Prever ou Identificar
 Comment: 0,0:02:57.58,0:02:58.67,Default,,0,0,0,,De nada! {nao ouvi palavra nenhuma aqui, mas acho que não cabe a minha função apagar a linha q}{realmente é um grande nada}
 Comment: 0,0:22:21.20,0:22:21.79,Default,,0,0,0,,"Mamãe Mamãe Mamãe Mamãe"\N"Sinto sua falta" {são types separados do que está na parede, certo? q então nem vou seprar por virgula}
 Comment: 0,0:22:21.79,0:22:22.37,Default,,0,0,0,,"Mamãe Mamãe Mamãe Mamãe"\N"Sinto sua falta"

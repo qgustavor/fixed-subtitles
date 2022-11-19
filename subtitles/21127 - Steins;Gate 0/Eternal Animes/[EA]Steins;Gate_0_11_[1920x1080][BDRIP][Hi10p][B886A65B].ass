@@ -3018,6 +3018,12 @@ Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
+Dialogue: 0,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(936.33,557.33)}Mãe Gansa
+Dialogue: 1,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(936.33,557.33)}Mãe Gansa
+Dialogue: 0,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(1117.67,568)}da Recursão Mútua
+Dialogue: 1,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(1117.67,568)}da Recursão Mútua
+Dialogue: 0,0:23:40.07,0:23:55.08,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(932,645.33)}Mãe Gansa Recursiva
+Dialogue: 1,0:23:40.07,0:23:55.08,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(932,645.33)}Mãe Gansa Recursiva
 Comment: 0,0:00:34.82,0:00:37.28,Default,,0,0,0,,"Manter limpo"
 Comment: 0,0:00:56.43,0:01:00.31,Default,,0,0,0,,"@channel"
 Comment: 0,0:05:28.62,0:05:29.62,Default,,0,0,0,,"Uau! 50% Menos!"

@@ -333,7 +333,7 @@ Dialogue: 0,0:18:10.42,0:18:14.01,Default,,0,0,0,,A Amadeus não é incrível, R
 Dialogue: 0,0:18:16.38,0:18:17.68,Default,,0,0,0,,Um testador?{ou deixa tester}
 Dialogue: 0,0:18:17.68,0:18:18.68,Default,,0,0,0,,Sim.
 Dialogue: 0,0:18:18.68,0:18:23.39,Default,,0,0,0,,Queremos que você converse com a Amadeus de vez em quando para que possamos coletar dados.
-Dialogue: 0,0:18:23.39,0:18:26.39,Default,,0,0,0,,Você poderá fazer isso até que eu retorne para a América.
+Dialogue: 0,0:18:23.39,0:18:26.39,Default,,0,0,0,,Você poderá fazer isso até que eu retorne para os EUA.
 Dialogue: 0,0:18:26.39,0:18:31.48,Default,,0,0,0,,Tudo que pedimos é que venha visitar duas vezes ao mês para entregar um relatório.
 Dialogue: 0,0:18:31.48,0:18:33.44,Default,,0,0,0,,Um relatório?
 Dialogue: 0,0:18:33.44,0:18:36.15,Default,,0,0,0,,Não há nenhuma cota ou coisa parecida para se preocupar.
@@ -3054,6 +3054,10 @@ Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\bord1.5\3c&HFFFFFF&\fs42\pos(238,545)}Protocolo do Evangelho de Dois Lados
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\c&H000000&\fs42\pos(238,545)}Protocolo do Evangelho de Dois Lados
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\bord1.5\3c&HFFFFFF&\pos(121,620)}Protocolo do Dia X
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\c&H000000&\pos(121,620)}Protocolo do Dia X
 Comment: 0,0:03:12.92,0:03:17.95,OpCima,,0,0,0,karaoke,{\k56}ko{\k96}no {\k35}se{\k17}ka{\k35}i {\k18}wa {\k31}hi {\k38}ge{\k112}n{\k15}ji{\k50}tsu
 Comment: 0,0:03:18.29,0:03:24.06,OpCima,,0,0,0,karaoke,{\k71}ta{\k84}da {\k33}su{\k16}ri{\k35}ko{\k17}ma{\k31}re{\k36}ta {\k113}BI{\k21}JO{\k120}N
 Comment: 0,0:03:25.25,0:03:30.38,OpCima,,0,0,0,karaoke,{\k30}mu{\k17}ge{\k30}n{\k25}e{\k25}n{\k34}te{\k118}n {\k15}ka{\k18}chi{\k39}ka{\k14}n {\k32}wo {\k20}i{\k96}ma

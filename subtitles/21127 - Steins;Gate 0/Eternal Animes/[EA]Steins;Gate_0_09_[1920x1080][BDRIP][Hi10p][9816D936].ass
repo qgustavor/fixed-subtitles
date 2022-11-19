@@ -128,7 +128,7 @@ Dialogue: 0,0:05:59.72,0:06:03.18,Default,,0,0,0,,Tudo bem! Mais tarde eu entro 
 Dialogue: 0,0:06:04.39,0:06:06.10,Default,,0,0,0,,Aqui está o seu café. {parecia que ela tava falando com alguém chamado "Café" shauhua}
 Dialogue: 0,0:06:06.10,0:06:07.69,Default,,0,0,0,,Obrigada.
 Dialogue: 0,0:06:07.69,0:06:12.32,Default,,0,0,0,,Agora que parei para pensar, com o ladrão entrando no meu hotel e o incidente do incêndio,
-Dialogue: 0,0:06:12.32,0:06:15.36,Default,,0,0,0,,não comi nada desda a noite passada.
+Dialogue: 0,0:06:12.32,0:06:15.36,Default,,0,0,0,,não comi nada desde a noite passada.
 Dialogue: 0,0:06:15.36,0:06:18.28,Default,,0,0,0,,Tudo que temos aqui é frango frito e banana...
 Dialogue: 0,0:06:18.28,0:06:20.87,Default,,0,0,0,,Oh, quer que eu vá comprar um bentou?
 Dialogue: 0,0:06:20.87,0:06:25.08,Default,,0,0,0,,Estou bem. Vou comer após voltar para o hotel.
@@ -3067,6 +3067,10 @@ Dialogue: 0,0:23:30.34,0:23:33.45,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.34,0:23:33.45,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:23:30.34,0:23:33.45,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.34,0:23:33.45,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs41\bord1.5\3c&HFFFFFF&\pos(1046,61)}Pandora da Existência Comprovável
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs41\c&H000000&\pos(1046,61)}Pandora da Existência Comprovável
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(1066.67,128.67)}Cubículo Proibido
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(1066.67,128.67)}Cubículo Proibido
 Comment: 0,0:16:57.84,0:17:01.05,Default,,0,0,0,,"Mostrar apenas páginas em japonês" "Usar opções de pesquisa"
 Comment: 0,0:01:07.91,0:01:12.94,OpCima,,0,0,0,karaoke,{\k56}ko{\k96}no {\k35}se{\k17}ka{\k35}i {\k18}wa {\k31}hi {\k38}ge{\k112}n{\k15}ji{\k50}tsu
 Comment: 0,0:01:13.28,0:01:19.05,OpCima,,0,0,0,karaoke,{\k71}ta{\k84}da {\k33}su{\k16}ri{\k35}ko{\k17}ma{\k31}re{\k36}ta {\k113}BI{\k21}JO{\k120}N

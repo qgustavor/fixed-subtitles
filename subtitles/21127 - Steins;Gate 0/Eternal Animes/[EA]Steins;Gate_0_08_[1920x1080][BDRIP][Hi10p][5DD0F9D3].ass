@@ -142,7 +142,7 @@ Dialogue: 0,0:08:31.30,0:08:36.89,Default,,0,0,0,,Fiquei bravo... Não consegui 
 Dialogue: 0,0:08:36.89,0:08:38.64,Default,,0,0,0,,Será quê...?
 Dialogue: 0,0:09:08.96,0:09:10.80,Default,,0,0,0,,Kurisu?
 Dialogue: 0,0:09:10.80,0:09:12.26,Default,,0,0,0,,Por que você sabia que eu estava aqui?
-Dialogue: 0,0:09:12.26,0:09:15.72,Default,,0,0,0,,É claro que sabia, é sobre você.
+Dialogue: 0,0:09:12.26,0:09:15.72,Default,,0,0,0,,É claro que sabia, é a sua cara.
 Dialogue: 0,0:09:15.72,0:09:17.05,Default,,0,0,0,,Entendo...
 Dialogue: 0,0:09:17.05,0:09:18.76,Default,,0,0,0,,Estou brincando.
 Dialogue: 0,0:09:22.27,0:09:23.52,Default,,0,0,0,,GPS.
@@ -1797,6 +1797,10 @@ Dialogue: 0,0:22:42.21,0:22:48.37,EndCima,,0,0,0,,{\fad(150,150}Naquela época, 
 Dialogue: 0,0:22:48.60,0:22:55.01,EndCima,,0,0,0,,{\fad(150,150}eu ri e chorei com as suas palavras.
 Dialogue: 0,0:22:55.69,0:23:01.56,EndCima,,0,0,0,,{\fad(150,150}Mesmo que eu tente reescrever todas as minhas memórias,
 Dialogue: 0,0:23:02.15,0:23:13.37,EndCima,,0,0,0,,{\fad(150,150}estou hesitando nas profundezas do meu coração, como um déjà-vu.
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(206,589.33)}Pandora do Retorno Eterno{meio}
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(206,589.33)}Pandora do Retorno Eterno{meio}
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\bord1.5\3c&HFFFFFF&\pos(223.67,660.67)}Caixa de Pandora
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\c&H000000&\pos(223.67,660.67)}Caixa de Pandora
 Comment: 0,0:04:39.32,0:04:42.53,Default,,0,0,0,,"De: Daru" "Para: Okabe Rintaro"\N"Ela está sendo levada para o hospital agora.\NDisseram que provavelmente é um ataque cardíaco. Pelo menos de acordo com os paramédicos. Os pais dela estão a caminho do hospital também."
 Comment: 0,0:01:05.92,0:01:10.95,OpCima,,0,0,0,karaoke,{\k56}ko{\k96}no {\k35}se{\k17}ka{\k35}i {\k18}wa {\k31}hi {\k38}ge{\k112}n{\k15}ji{\k50}tsu
 Comment: 0,0:01:11.29,0:01:17.06,OpCima,,0,0,0,karaoke,{\k71}ta{\k84}da {\k33}su{\k16}ri{\k35}ko{\k17}ma{\k31}re{\k36}ta {\k113}BI{\k21}JO{\k120}N

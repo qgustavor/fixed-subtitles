@@ -3066,7 +3066,137 @@ Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
-Comment: 0,0:02:10.21,0:02:11.88,Default,,0,0,0,,"Cadáveres de animais encontrados em massa na América"
+Dialogue: 0,0:17:01.82,0:17:02.87,Titulo,,0,0,0,,{\an7\pos(341.656,245.714)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H786665&\blur0.8}Mayuri
+Dialogue: 0,0:17:01.82,0:17:02.87,Titulo,,0,0,0,,{\an7\pos(340.656,439.714)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&HA477D8&\blur0.8}Daru
+Dialogue: 0,0:17:01.82,0:17:02.87,Titulo,,0,0,0,,{\an7\pos(339.656,635.714)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:01.82,0:17:02.87,Titulo,,0,0,0,,{\an7\pos(338.656,839.714)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:02.87,0:17:02.91,Titulo,,0,0,0,,{\an7\pos(341.66,245.71)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H786665&\blur0.8}Mayuri
+Dialogue: 0,0:17:02.91,0:17:02.94,Titulo,,0,0,0,,{\an7\pos(346.54,214.18)\org(972.39,783.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H786665&\blur0.8}Mayuri
+Dialogue: 0,0:17:02.94,0:17:03.00,Titulo,,0,0,0,,{\an7\pos(356.78,148.18)\org(982.62,717.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H786665&\blur0.8}Mayuri
+Dialogue: 0,0:17:02.87,0:17:02.91,Titulo,,0,0,0,,{\an7\pos(340.66,439.71)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&HA477D8&\blur0.8}Daru
+Dialogue: 0,0:17:02.91,0:17:02.94,Titulo,,0,0,0,,{\an7\pos(345.54,408.18)\org(972.39,783.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&HA477D8&\blur0.8}Daru
+Dialogue: 0,0:17:02.94,0:17:03.00,Titulo,,0,0,0,,{\an7\pos(355.78,342.18)\org(982.62,717.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&HA477D8&\blur0.8}Daru
+Dialogue: 0,0:17:03.00,0:17:03.04,Titulo,,0,0,0,,{\an7\pos(367.58,265.88)\org(994.42,640.76)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&HA477D8&\blur0.8}Daru
+Dialogue: 0,0:17:03.04,0:17:03.07,Titulo,,0,0,0,,{\an7\pos(379.33,189.9)\org(1006.18,564.78)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&HA477D8&\blur0.8}Daru
+Dialogue: 0,0:17:03.07,0:17:03.12,Titulo,,0,0,0,,{\an7\pos(390.31,118.96)\org(1017.16,493.85)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&HA477D8&\blur0.8}Daru
+Dialogue: 0,0:17:02.87,0:17:02.91,Titulo,,0,0,0,,{\an7\pos(339.66,635.71)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:02.91,0:17:02.94,Titulo,,0,0,0,,{\an7\pos(344.54,604.18)\org(972.39,783.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:02.94,0:17:03.00,Titulo,,0,0,0,,{\an7\pos(354.78,538.18)\org(982.62,717.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.00,0:17:03.04,Titulo,,0,0,0,,{\an7\pos(366.58,461.88)\org(994.42,640.76)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.04,0:17:03.07,Titulo,,0,0,0,,{\an7\pos(378.33,385.9)\org(1006.18,564.78)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.07,0:17:03.12,Titulo,,0,0,0,,{\an7\pos(389.31,314.96)\org(1017.16,493.85)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.12,0:17:03.16,Titulo,,0,0,0,,{\an7\pos(399.18,251.16)\org(1027.03,430.05)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.16,0:17:03.19,Titulo,,0,0,0,,{\an7\pos(407.84,195.28)\org(1035.68,374.16)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.19,0:17:03.25,Titulo,,0,0,0,,{\an7\pos(415.22,147.46)\org(1043.06,326.35)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.25,0:17:03.29,Titulo,,0,0,0,,{\an7\pos(421.39,107.58)\org(1049.23,286.46)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H635654&\blur0.8}Mayuri
+Dialogue: 0,0:17:02.87,0:17:02.91,Titulo,,0,0,0,,{\an7\pos(338.66,839.71)\org(967.5,814.6)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:02.91,0:17:02.94,Titulo,,0,0,0,,{\an7\pos(343.54,808.18)\org(972.39,783.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:02.94,0:17:03.00,Titulo,,0,0,0,,{\an7\pos(353.78,742.18)\org(982.62,717.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.00,0:17:03.04,Titulo,,0,0,0,,{\an7\pos(365.58,665.88)\org(994.42,640.76)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.04,0:17:03.07,Titulo,,0,0,0,,{\an7\pos(377.33,589.9)\org(1006.18,564.78)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.07,0:17:03.12,Titulo,,0,0,0,,{\an7\pos(388.31,518.96)\org(1017.16,493.85)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.12,0:17:03.16,Titulo,,0,0,0,,{\an7\pos(398.18,455.16)\org(1027.03,430.05)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.16,0:17:03.19,Titulo,,0,0,0,,{\an7\pos(406.84,399.28)\org(1035.68,374.16)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.19,0:17:03.25,Titulo,,0,0,0,,{\an7\pos(414.22,351.46)\org(1043.06,326.35)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.25,0:17:03.29,Titulo,,0,0,0,,{\an7\pos(420.39,311.58)\org(1049.23,286.46)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.29,0:17:03.32,Titulo,,0,0,0,,{\an7\pos(425.38,279.35)\org(1054.22,254.23)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.32,0:17:03.37,Titulo,,0,0,0,,{\an7\pos(429.22,254.38)\org(1058.07,229.27)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.37,0:17:03.41,Titulo,,0,0,0,,{\an7\pos(432.02,236.38)\org(1060.86,211.26)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.41,0:17:03.44,Titulo,,0,0,0,,{\an7\pos(434.11,222.85)\org(1062.95,197.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.44,0:17:03.50,Titulo,,0,0,0,,{\an7\pos(435.94,211.11)\org(1064.78,186)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.50,0:17:03.54,Titulo,,0,0,0,,{\an7\pos(437.54,200.67)\org(1066.38,175.55)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.54,0:17:03.57,Titulo,,0,0,0,,{\an7\pos(438.99,191.28)\org(1067.84,166.17)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.57,0:17:03.62,Titulo,,0,0,0,,{\an7\pos(440.3,182.76)\org(1069.14,157.65)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.62,0:17:03.66,Titulo,,0,0,0,,{\an7\pos(441.49,174.95)\org(1070.34,149.83)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.66,0:17:03.69,Titulo,,0,0,0,,{\an7\pos(442.58,167.85)\org(1071.43,142.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.69,0:17:03.75,Titulo,,0,0,0,,{\an7\pos(443.6,161.34)\org(1072.44,136.23)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.75,0:17:03.79,Titulo,,0,0,0,,{\an7\pos(444.55,155.33)\org(1073.39,130.22)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.79,0:17:03.82,Titulo,,0,0,0,,{\an7\pos(445.36,149.84)\org(1074.21,124.72)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.82,0:17:03.87,Titulo,,0,0,0,,{\an7\pos(446.12,144.85)\org(1074.97,119.73)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.87,0:17:03.91,Titulo,,0,0,0,,{\an7\pos(446.83,140.35)\org(1075.68,115.23)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.91,0:17:03.94,Titulo,,0,0,0,,{\an7\pos(447.48,136.26)\org(1076.33,111.14)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.94,0:17:04.00,Titulo,,0,0,0,,{\an7\pos(448.01,132.56)\org(1076.85,107.45)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.00,0:17:04.04,Titulo,,0,0,0,,{\an7\pos(448.52,129.25)\org(1077.37,104.13)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.04,0:17:04.07,Titulo,,0,0,0,,{\an7\pos(449.02,126.36)\org(1077.87,101.24)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.07,0:17:04.11,Titulo,,0,0,0,,{\an7\pos(449.41,123.8)\org(1078.25,98.69)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.11,0:17:04.15,Titulo,,0,0,0,,{\an7\pos(449.76,121.62)\org(1078.61,96.51)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.15,0:17:04.20,Titulo,,0,0,0,,{\an7\pos(450.04,119.79)\org(1078.88,94.68)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.20,0:17:04.25,Titulo,,0,0,0,,{\an7\pos(450.22,118.32)\org(1079.07,93.21)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.25,0:17:04.29,Titulo,,0,0,0,,{\an7\pos(450.37,117.17)\org(1079.21,92.05)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.29,0:17:04.32,Titulo,,0,0,0,,{\an7\pos(450.53,116.36)\org(1079.37,91.25)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:04.32,0:17:04.36,Titulo,,0,0,0,,{\an7\pos(450.63,115.88)\org(1079.48,90.76)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H514746&\blur0.8}Rukako
+Dialogue: 0,0:17:03.00,0:17:03.04,Titulo,,0,0,0,,{\an7\pos(360.58,865.88)\org(994.42,640.77)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.04,0:17:03.07,Titulo,,0,0,0,,{\an7\pos(372.34,789.9)\org(1006.18,564.79)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.07,0:17:03.12,Titulo,,0,0,0,,{\an7\pos(383.32,718.96)\org(1017.16,493.85)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.12,0:17:03.16,Titulo,,0,0,0,,{\an7\pos(393.19,655.16)\org(1027.03,430.05)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.16,0:17:03.19,Titulo,,0,0,0,,{\an7\pos(401.84,599.28)\org(1035.68,374.17)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.19,0:17:03.25,Titulo,,0,0,0,,{\an7\pos(409.22,551.46)\org(1043.06,326.35)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.25,0:17:03.29,Titulo,,0,0,0,,{\an7\pos(415.39,511.58)\org(1049.23,286.47)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.29,0:17:03.32,Titulo,,0,0,0,,{\an7\pos(420.38,479.35)\org(1054.22,254.24)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.32,0:17:03.37,Titulo,,0,0,0,,{\an7\pos(424.23,454.38)\org(1058.07,229.27)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.37,0:17:03.41,Titulo,,0,0,0,,{\an7\pos(427.02,436.38)\org(1060.86,211.27)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.41,0:17:03.44,Titulo,,0,0,0,,{\an7\pos(429.11,422.85)\org(1062.95,197.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.44,0:17:03.50,Titulo,,0,0,0,,{\an7\pos(430.94,411.11)\org(1064.78,186)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.50,0:17:03.54,Titulo,,0,0,0,,{\an7\pos(432.54,400.67)\org(1066.38,175.56)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.54,0:17:03.57,Titulo,,0,0,0,,{\an7\pos(434,391.28)\org(1067.84,166.17)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.57,0:17:03.62,Titulo,,0,0,0,,{\an7\pos(435.3,382.76)\org(1069.14,157.65)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.62,0:17:03.66,Titulo,,0,0,0,,{\an7\pos(436.5,374.95)\org(1070.34,149.84)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.66,0:17:03.69,Titulo,,0,0,0,,{\an7\pos(437.59,367.85)\org(1071.43,142.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.69,0:17:03.75,Titulo,,0,0,0,,{\an7\pos(438.6,361.34)\org(1072.44,136.23)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.75,0:17:03.79,Titulo,,0,0,0,,{\an7\pos(439.55,355.33)\org(1073.39,130.22)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.79,0:17:03.82,Titulo,,0,0,0,,{\an7\pos(440.37,349.84)\org(1074.21,124.73)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.82,0:17:03.87,Titulo,,0,0,0,,{\an7\pos(441.13,344.85)\org(1074.97,119.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.87,0:17:03.91,Titulo,,0,0,0,,{\an7\pos(441.84,340.35)\org(1075.68,115.24)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.91,0:17:03.94,Titulo,,0,0,0,,{\an7\pos(442.49,336.26)\org(1076.33,111.15)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.94,0:17:04.00,Titulo,,0,0,0,,{\an7\pos(443.01,332.56)\org(1076.85,107.45)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.00,0:17:04.04,Titulo,,0,0,0,,{\an7\pos(443.53,329.25)\org(1077.37,104.14)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.04,0:17:04.07,Titulo,,0,0,0,,{\an7\pos(444.03,326.36)\org(1077.87,101.25)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.07,0:17:04.11,Titulo,,0,0,0,,{\an7\pos(444.41,323.8)\org(1078.25,98.69)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.11,0:17:04.15,Titulo,,0,0,0,,{\an7\pos(444.77,321.62)\org(1078.61,96.51)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.15,0:17:04.20,Titulo,,0,0,0,,{\an7\pos(445.04,319.79)\org(1078.88,94.68)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.20,0:17:04.25,Titulo,,0,0,0,,{\an7\pos(445.23,318.32)\org(1079.07,93.21)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.25,0:17:04.29,Titulo,,0,0,0,,{\an7\pos(445.37,317.17)\org(1079.21,92.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.29,0:17:04.32,Titulo,,0,0,0,,{\an7\pos(445.53,316.36)\org(1079.37,91.25)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:04.32,0:17:04.86,Titulo,,0,0,0,,{\an7\pos(445.64,315.88)\org(1079.48,90.77)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H372E2D&\blur0.8}Professor Izaki
+Dialogue: 0,0:17:03.12,0:17:03.16,Titulo,,0,0,0,,{\an7\pos(398.19,855.16)\org(1027.03,430.05)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.16,0:17:03.19,Titulo,,0,0,0,,{\an7\pos(406.84,799.28)\org(1035.68,374.17)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.19,0:17:03.25,Titulo,,0,0,0,,{\an7\pos(414.22,751.46)\org(1043.06,326.35)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.25,0:17:03.29,Titulo,,0,0,0,,{\an7\pos(420.39,711.58)\org(1049.23,286.47)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.29,0:17:03.32,Titulo,,0,0,0,,{\an7\pos(425.38,679.35)\org(1054.22,254.24)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.32,0:17:03.37,Titulo,,0,0,0,,{\an7\pos(429.23,654.38)\org(1058.07,229.27)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.37,0:17:03.41,Titulo,,0,0,0,,{\an7\pos(432.02,636.38)\org(1060.86,211.27)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.41,0:17:03.44,Titulo,,0,0,0,,{\an7\pos(434.11,622.85)\org(1062.95,197.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.44,0:17:03.50,Titulo,,0,0,0,,{\an7\pos(435.94,611.11)\org(1064.78,186)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.50,0:17:03.54,Titulo,,0,0,0,,{\an7\pos(437.54,600.67)\org(1066.38,175.56)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.54,0:17:03.57,Titulo,,0,0,0,,{\an7\pos(439,591.28)\org(1067.84,166.17)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.57,0:17:03.62,Titulo,,0,0,0,,{\an7\pos(440.3,582.76)\org(1069.14,157.65)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.62,0:17:03.66,Titulo,,0,0,0,,{\an7\pos(441.5,574.95)\org(1070.34,149.84)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.66,0:17:03.69,Titulo,,0,0,0,,{\an7\pos(442.59,567.85)\org(1071.43,142.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.69,0:17:03.75,Titulo,,0,0,0,,{\an7\pos(443.6,561.34)\org(1072.44,136.23)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.75,0:17:03.79,Titulo,,0,0,0,,{\an7\pos(444.55,555.33)\org(1073.39,130.22)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.79,0:17:03.82,Titulo,,0,0,0,,{\an7\pos(445.37,549.84)\org(1074.21,124.73)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.82,0:17:03.87,Titulo,,0,0,0,,{\an7\pos(446.13,544.85)\org(1074.97,119.74)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.87,0:17:03.91,Titulo,,0,0,0,,{\an7\pos(446.84,540.35)\org(1075.68,115.24)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.91,0:17:03.94,Titulo,,0,0,0,,{\an7\pos(447.49,536.26)\org(1076.33,111.15)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:03.94,0:17:04.00,Titulo,,0,0,0,,{\an7\pos(448.01,532.56)\org(1076.85,107.45)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.00,0:17:04.04,Titulo,,0,0,0,,{\an7\pos(448.53,529.25)\org(1077.37,104.14)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.04,0:17:04.07,Titulo,,0,0,0,,{\an7\pos(449.03,526.36)\org(1077.87,101.25)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.07,0:17:04.11,Titulo,,0,0,0,,{\an7\pos(449.41,523.8)\org(1078.25,98.69)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.11,0:17:04.15,Titulo,,0,0,0,,{\an7\pos(449.77,521.62)\org(1078.61,96.51)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.15,0:17:04.20,Titulo,,0,0,0,,{\an7\pos(450.04,519.79)\org(1078.88,94.68)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.20,0:17:04.25,Titulo,,0,0,0,,{\an7\pos(450.23,518.32)\org(1079.07,93.21)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.25,0:17:04.29,Titulo,,0,0,0,,{\an7\pos(450.37,517.17)\org(1079.21,92.06)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.29,0:17:04.32,Titulo,,0,0,0,,{\an7\pos(450.53,516.36)\org(1079.37,91.25)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:17:04.32,0:17:04.86,Titulo,,0,0,0,,{\an7\pos(450.64,515.88)\org(1079.48,90.77)\frz-13.14\fry-0.18\frx0.01\fnB791-Roman\fs20\c&H462892&\blur0.8}Mayuri
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\bord1.5\3c&HFFFFFF&\fs42\pos(105,572.67)}Eclipse
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\c&H000000&\fs42\pos(105,572.67)}Eclipse
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(173,554.67)}da
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(173,554.67)}da
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\bord1.5\3c&HFFFFFF&\fs41\pos(291,583.34)}Ordenação Orbital{meio}
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\c&H000000&\fs41\pos(291,583.34)}Ordenação Orbital{meio}
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(123.34,639.33)}O Eclipse Orbital
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(123.34,639.33)}O Eclipse Orbital
+Comment: 0,0:02:10.21,0:02:11.88,Default,,0,0,0,,"Cadáveres de animais encontrados em massa nos EUA"
 Comment: 0,0:15:33.10,0:15:35.93,Default,,0,0,0,,"Inflamável"
 Comment: 0,0:16:07.92,0:16:11.13,Default,,0,0,0,,"Simulação de Treino Interativo"
 Comment: 0,0:17:01.81,0:17:03.31,Default,,0,0,0,,"Mayuri"\N"Daru"\N"Mayuri" "Rukako"

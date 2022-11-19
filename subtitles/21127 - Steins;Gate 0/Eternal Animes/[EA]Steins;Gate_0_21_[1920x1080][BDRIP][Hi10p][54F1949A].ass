@@ -79,12 +79,12 @@ Dialogue: 0,0:02:33.65,0:02:35.98,Default,,0,0,0,,Porque eu também quero carreg
 Dialogue: 0,0:02:35.98,0:02:37.90,Default,,0,0,0,,O futuro de todos.
 Dialogue: 0,0:02:43.08,0:02:44.20,Default,,0,0,0,,Pronto?
 Dialogue: 0,0:02:44.20,0:02:45.79,Default,,0,0,0,,Faça.
-Dialogue: 0,0:02:57.32,0:03:01.95,Titulo - Copy,,0,0,0,,{\bord1.5\blur1\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&H000000&\1a&HFF&}Eternal Animes
+Dialogue: 0,0:02:57.32,0:03:01.95,Titulo - Copy,,0,0,0,,{\bord1.5\blur0.5\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&H000000&\1a&HFF&}Eternal Animes
 Dialogue: 1,0:02:57.32,0:03:01.95,Titulo - Copy,,0,0,0,,{\blur0.7\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&HFBFAFB&}Eternal Animes
-Dialogue: 0,0:03:01.97,0:03:05.47,Titulo,,0,0,0,,{\fs45\blur1\pos(820,458)\c&H5E5D68&}Renascimento
-Dialogue: 0,0:03:01.97,0:03:05.47,Titulo,,0,0,0,,{\fs45\blur1\pos(914,490)\c&H5E5D68&}da
-Dialogue: 0,0:03:01.97,0:03:05.47,Titulo,,0,0,0,,{\fs45\blur1\pos(1045,445)\c&H5E5D68&}Formação de Imagens
-Dialogue: 0,0:03:01.97,0:03:05.47,Titulo - Copy,,0,0,0,,{\fs22.9\blur1\pos(872,552)\c&H6C658C&}Retorno da Fênix
+Dialogue: 0,0:03:01.97,0:03:05.47,Titulo,,0,0,0,,{\fs45\blur0.5\pos(820,458)\c&H5E5D68&}Renascimento
+Dialogue: 0,0:03:01.97,0:03:05.47,Titulo,,0,0,0,,{\fs45\blur0.5\pos(914,490)\c&H5E5D68&}da
+Dialogue: 0,0:03:01.97,0:03:05.47,Titulo,,0,0,0,,{\fs45\blur0.5\pos(1045,445)\c&H5E5D68&}Formação de Imagens
+Dialogue: 0,0:03:01.97,0:03:05.47,Titulo - Copy,,0,0,0,,{\fs22.9\blur0.5\pos(872,552)\c&H6C658C&}Retorno da Fênix
 Dialogue: 0,0:03:36.38,0:03:38.92,Default,,0,0,0,,Okabe? Você acordou?{Você recobrou a consciência?}
 Dialogue: 0,0:03:39.80,0:03:42.30,Default,,0,0,0,,Okabe, não se mexa muito.
 Dialogue: 0,0:03:42.30,0:03:46.10,Default,,0,0,0,,Pelos últimos 11 anos, você\N esteve em coma.
@@ -464,14 +464,13 @@ Dialogue: 0,0:11:16.40,0:11:19.99,EndBaixo,,0,0,0,,{\fad(150,150)}São várias c
 Dialogue: 0,0:11:20.31,0:11:22.69,EndBaixo,,0,0,0,,{\fad(150,150)}um milagre do tamanho do universo.
 Dialogue: 0,0:11:22.69,0:11:28.89,EndBaixo,,0,0,0,,{\fad(150,150)}As "regras" do portão que eram obedecidas acabaram.
 Dialogue: 0,0:11:28.98,0:11:30.06,EndBaixo,,0,0,0,,{\fad(150,150)}Abra os olhos.
-Dialogue: 0,0:11:30.06,0:11:35.64,EndBaixo,,0,0,0,,{\fad(150,150)}"Zero" é o passado, "um" é o futuro, "agora" não existe em lugar algum.
-Dialogue: 0,0:11:35.64,0:11:40.67,EndBaixo,,0,0,0,,{\fad(150,150)}Não posso desafiar a lógica.
-Dialogue: 0,0:11:40.67,0:11:41.50,EndBaixo,,0,0,0,,{\fad(150,150)}Abra os olhos.
-Dialogue: 0,0:11:41.50,0:11:44.18,EndBaixo,,0,0,0,,{\fad(150,150)}Incontáveis linhas seguem em paralelo
-Dialogue: 0,0:11:44.18,0:11:47.25,EndBaixo,,0,0,0,,{\fad(150,150)}e a escolha é a blasfêmia.
-Dialogue: 0,0:11:47.25,0:11:52.62,EndBaixo,,0,0,0,,{\fad(150,150)}O cenário refletido nos seus olhos
-Dialogue: 0,0:11:52.86,0:11:55.89,EndBaixo,,0,0,0,,{\fad(150,150)}que até duvida da nossa "existência"
-Dialogue: 0,0:11:55.89,0:11:58.85,EndBaixo,,0,0,0,,{\fad(150,150)}leva a uma conclusão.
+Dialogue: 0,0:11:30.06,0:11:32.68,EndBaixo,,0,0,0,,{\fad(150,150)}O pulso da minha memória
+Dialogue: 0,0:11:32.68,0:11:35.82,EndBaixo,,0,0,0,,{\fad(150,150)}estende-se na velocidade da luz,
+Dialogue: 0,0:11:35.82,0:11:40.66,EndBaixo,,0,0,0,,{\fad(150,150)}e se eleva em uma lógica insondável.
+Dialogue: 0,0:11:40.66,0:11:41.58,EndBaixo,,0,0,0,,{\fad(150,150)}Abra os olhos.
+Dialogue: 0,0:11:41.58,0:11:47.29,EndBaixo,,0,0,0,,{\fad(150,150)}O universo continua a manter em segredo essa teoria,
+Dialogue: 0,0:11:47.29,0:11:53.00,EndBaixo,,0,0,0,,{\fad(150,150)}onde cada um dos pontos que chamamos de infinito
+Dialogue: 0,0:11:53.00,0:11:59.34,EndBaixo,,0,0,0,,{\fad(150,150)}utilizam de um poder impróprio para "repetir" novamente.
 Dialogue: 0,0:12:08.92,0:12:12.06,EndBaixo,,0,0,0,,{\fad(150,150)}"Zero" é o passado, "um" é o futuro...
 Dialogue: 0,0:12:30.46,0:12:36.04,EndBaixo,,0,0,0,,{\fad(150,150)}"Zero" é o passado, "um" é o futuro, "agora" não existe em lugar algum.
 Dialogue: 0,0:12:36.04,0:12:41.07,EndBaixo,,0,0,0,,{\fad(150,150)}Não posso desafiar a lógica.
@@ -500,4 +499,11 @@ Dialogue: 0,0:22:59.95,0:23:02.57,EndBaixo,,0,0,0,,{\fad(150,150)}há uma cena i
 Dialogue: 0,0:23:02.81,0:23:07.83,EndBaixo,,0,0,0,,{\fad(150,150)}onde toda a luz criará o zero.
 Dialogue: 0,0:23:08.17,0:23:10.55,EndBaixo,,0,0,0,,{\fad(150,150)}Não há um deus.
 Dialogue: 0,0:23:10.77,0:23:13.67,EndBaixo,,0,0,0,,{\fad(150,150)}Maravilhoso mundo novo.
-
+Dialogue: 0,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\fs42\blur0.5\bord1.5\3c&HFFFFFF&\pos(997.33,66)}Renascimento
+Dialogue: 0,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\fs42\blur0.5\bord1.5\3c&HFFFFFF&\pos(1094,58)}da
+Dialogue: 0,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\fs42\blur0.5\bord1.5\3c&HFFFFFF&\pos(1164.33,61.33)}Projeção
+Dialogue: 0,0:23:39.94,0:23:54.96,Titulo - Copy,,0,0,0,,{\fs18\blur0.5\bord1.5\3c&HFFFFFFF&\pos(1020.66,136)}Projeto Amadeus
+Dialogue: 1,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\fs42\blur0.5\c&H000000&\pos(997.33,66)}Renascimento
+Dialogue: 1,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\fs42\blur0.5\c&H000000&\pos(1094,58)}da
+Dialogue: 1,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\fs42\blur0.5\c&H000000&\pos(1164.33,61.33)}Projeção
+Dialogue: 1,0:23:39.94,0:23:54.96,Titulo - Copy,,0,0,0,,{\fs18\blur0.5\c&H000000&\pos(1020.66,136)}Projeto Amadeus

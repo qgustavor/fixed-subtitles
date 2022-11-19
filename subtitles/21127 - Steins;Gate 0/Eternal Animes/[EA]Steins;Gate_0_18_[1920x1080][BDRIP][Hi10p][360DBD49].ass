@@ -311,7 +311,7 @@ Dialogue: 0,0:20:55.33,0:20:59.09,Default,,0,0,0,,Você provavelmente ficará br
 Dialogue: 0,0:20:59.09,0:21:03.38,Default,,0,0,0,,Mas isso é algo que eu tenho que fazer.
 Dialogue: 0,0:21:03.38,0:21:07.18,Default,,0,0,0,,Porque naquele dia,\N fui eu quem fez aquilo.
 Dialogue: 0,0:21:07.18,0:21:10.18,Default,,0,0,0,,Não importava o quanto as\N coisas estivessem ruins,
-Dialogue: 0,0:21:10.18,0:21:14.27,Default,,0,0,0,,meu forte, forte Hikoboshi se levantava com uma grande gargalhada.
+Dialogue: 0,0:21:10.18,0:21:14.27,Default,,0,0,0,,meu forte, forte Hikoboshi-sama se levantava com uma grande gargalhada.
 Dialogue: 0,0:21:14.27,0:21:19.11,Default,,0,0,0,,Mas fui eu que o escondi atrás de um monte de nuvens escuras.
 Dialogue: 0,0:21:19.11,0:21:22.28,Default,,0,0,0,,Sabe de uma coisa? Eu acho\N que estava errada.
 Dialogue: 0,0:21:22.28,0:21:28.03,Default,,0,0,0,,Todos não estavam empurrando o peso do futuro somente no Okarin.
@@ -330,7 +330,7 @@ Dialogue: 0,0:22:18.71,0:22:23.09,Default,,0,0,0,,Prometo que voltarei, então\N
 Dialogue: 0,0:22:25.17,0:22:29.93,Default,,0,0,0,,Eu... amo o Hououin Kyouma.
 Dialogue: 0,0:22:29.93,0:22:31.55,Default,,0,0,0,,Mas adivinha só?
 Dialogue: 0,0:22:31.55,0:22:35.85,Default,,0,0,0,,Eu amo ainda mais o Okabe Rintarou!
-Dialogue: 0,0:23:34.55,0:23:40.02,Default,,0,0,0,,{\blur0.6\fs37\pos(680,615)\frz-89\bord0\an3\c&H454E99&\fnHandwritten Crystal v2\1a&H00&\t(\fs39.2)}Desejo {\c&H444C94&}me {\c&H3E458A&}enc{\c&H383C7C&}ontrar com {\c&H31356E&}o meu Hikoboshi
+Dialogue: 0,0:23:34.55,0:23:40.02,Default,,0,0,0,,{\blur0.6\fs37\pos(680,615)\frz-89\bord0\an3\c&H454E99&\fnHandwritten Crystal v2\1a&H00&\t(\fs39.2)}Desejo {\c&H444C94&}me {\c&H3E458A&}enc{\c&H383C7C&}ontrar com {\c&H31356E&}o meu Hikoboshi-sama
 Dialogue: 0,0:23:34.55,0:23:40.02,Default,,0,0,0,,{\blur0.6\fs45\pos(600,635)\frz-89\bord0\an3\c&H2D3364&\fnHandwritten Crystal v2\1a&H00&\t(\fs47.2)}Mayushii
 Dialogue: 0,0:22:37.62,0:23:22.88,endCima,,0,0,0,,{\fad(0,0)\an7\bord0\pos(0,0)\p1\c&H000000&\blur2}m -15 -15 l 1300 -15 l 1300 70 l -15 70
 Dialogue: 0,0:22:37.62,0:23:22.88,endCima,,0,0,0,,{\fad(778,0)\an7\bord0\pos(0,0)\p1\c&H000000&\blur2}m -15 650 l 1300 650 l 1300 740 l -15 740
@@ -1788,6 +1788,10 @@ Dialogue: 0,0:22:40.21,0:22:46.37,endBaixo,,0,0,0,,{\fad(150,150}Naquela época,
 Dialogue: 0,0:22:46.56,0:22:53.26,endBaixo,,0,0,0,,{\fad(150,150}eu ri e chorei com as suas palavras.
 Dialogue: 0,0:22:53.75,0:23:00.16,endBaixo,,0,0,0,,{\fad(150,150}Mesmo que eu tente reescrever todas as minhas memórias,
 Dialogue: 0,0:23:00.16,0:23:12.54,endBaixo,,0,0,0,,{\fad(150,150}estou hesitando nas profundezas do meu coração, como um déjà-vu.
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\bord1.5\3c&HFFFFFF&\fs42\pos(1031,560.67)}Altair da Coordenada Cíclica
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs12\blur0.5\bord1.5\3c&HFFFFFF&\pos(915,628)}Máquina de Salto Temporal
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\c&H000000&\fs42\pos(1031,560.67)}Altair da Coordenada Cíclica
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs12\blur0.5\c&H000000&\pos(915,628)}Máquina de Salto Temporal
 Comment: 0,0:20:31.73,0:20:33.31,Default,,0,0,0,,"1 Nova mensagem"\N"Mayuri"
 Comment: 0,0:00:49.94,0:00:55.17,OpCima,,0,0,0,karaoke,{\k54}ko{\k118}no {\k14}i{\k12}no{\k37}chi {\k14}to {\k8}i{\k28}u {\k153}mu{\k85}gen {\k0}
 Comment: 0,0:00:55.17,0:01:00.72,OpCima,,0,0,0,karaoke,{\k83}ma{\k84}da {\k51}sa{\k33}kka{\k16}ku {\k28}to {\k25}mo {\k124}shi{\k23}ra{\k88}zu

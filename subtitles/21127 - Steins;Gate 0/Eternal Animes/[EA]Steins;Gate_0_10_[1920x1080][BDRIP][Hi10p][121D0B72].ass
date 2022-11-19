@@ -3046,6 +3046,10 @@ Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.39,0:23:33.50,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
+Dialogue: 0,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\blur0.5\fs41\bord1.5\3c&HFFFFFF&\pos(230.33,582.67)}Pandora da Existência Esquecida
+Dialogue: 1,0:23:39.94,0:23:54.96,Titulo,,0,0,0,,{\blur0.5\fs41\c&H000000&\pos(230.33,582.67)}Pandora da Existência Esquecida
+Dialogue: 0,0:23:39.94,0:23:54.96,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(242.33,654)}Relicário Selado
+Dialogue: 1,0:23:39.94,0:23:54.96,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(242.33,654)}Relicário Selado
 Comment: 0,0:01:52.19,0:01:56.07,Default,,0,0,0,,"Prédio de Rádio de Akihabara"
 Comment: 0,0:03:42.09,0:03:46.81,Default,,0,0,0,,"Oden"
 Comment: 0,0:02:11.90,0:02:16.93,OpCima,,0,0,0,karaoke,{\k56}ko{\k96}no {\k35}se{\k17}ka{\k35}i {\k18}wa {\k31}hi {\k38}ge{\k112}n{\k15}ji{\k50}tsu

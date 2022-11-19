@@ -53,7 +53,7 @@ Dialogue: 0,0:01:15.90,0:01:19.03,Default,,0,0,0,,A Mayuri e o Hashida também e
 Dialogue: 0,0:01:19.03,0:01:20.16,Default,,0,0,0,,{Hã?}
 Dialogue: 0,0:01:27.37,0:01:29.17,Default,,0,0,0,,A partir de agora,
 Dialogue: 0,0:01:29.17,0:01:34.38,Default,,0,0,0,,a 65536ª reunião da Távola\N Redonda começará!
-Dialogue: 0,0:01:47.00,0:01:53.00,Titulo - Copy,,0,0,0,,{\bord1.5\blur1\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&H000000&\1a&HFF&}Eternal Animes
+Dialogue: 0,0:01:47.00,0:01:53.00,Titulo - Copy,,0,0,0,,{\bord1.5\blur0.5\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&H000000&\1a&HFF&}Eternal Animes
 Dialogue: 1,0:01:47.00,0:01:53.00,Titulo - Copy,,0,0,0,,{\blur0.7\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&HFBFAFB&}Eternal Animes
 Dialogue: 0,0:02:04.87,0:02:06.75,Default,,0,0,0,,Onde estou?
 Dialogue: 0,0:02:08.17,0:02:11.42,Default,,0,0,0,,Meu corpo está... pesado.
@@ -191,11 +191,11 @@ Dialogue: 0,0:11:53.75,0:11:55.08,Default,,0,0,0,,Avisar?
 Dialogue: 0,0:11:55.08,0:11:56.38,Default,,0,0,0,,Sim.
 Dialogue: 0,0:11:56.38,0:11:58.63,Default,,0,0,0,,Você esteve fora por 11 anos.
 Dialogue: 0,0:11:58.63,0:12:01.80,Default,,0,0,0,,Os membros do laboratório estiveram esperando muito por este dia.
-Dialogue: 0,0:12:02.03,0:12:07.03,Titulo - Copy,,0,0,0,,{\fs22.9\blur1\pos(861,550)\c&H6C658C&}Rinascimento Prometido{meio}
-Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur1\pos(822,465)\c&H5E5D68&}Renascimento
-Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur1\pos(915,490)\c&H5E5D68&}da
-Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur1\pos(980,440)\c&H5E5D68&}Promessa
-Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur1\pos(1043,475)\c&H5E5D68&}Inabalável
+Dialogue: 0,0:12:02.03,0:12:07.03,Titulo - Copy,,0,0,0,,{\fs22.9\blur0.5\pos(861,550)\c&H6C658C&}Rinascimento Prometido{meio}
+Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur0.5\pos(822,465)\c&H5E5D68&}Renascimento
+Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur0.5\pos(915,490)\c&H5E5D68&}da
+Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur0.5\pos(980,440)\c&H5E5D68&}Promessa
+Dialogue: 0,0:12:02.03,0:12:07.03,Titulo,,0,0,0,,{\fs45\blur0.5\pos(1043,475)\c&H5E5D68&}Inabalável
 Dialogue: 0,0:12:09.64,0:12:12.23,Default,,0,0,0,,Sem problemas aqui, nya.
 Dialogue: 0,0:12:12.23,0:12:14.52,Default,,0,0,0,,Estamos bem.
 Dialogue: 0,0:12:14.52,0:12:17.36,Default,,0,0,0,,Este é o lugar, não é?
@@ -1134,4 +1134,11 @@ Dialogue: 1,0:23:32.76,0:23:36.80,EndCima,,0,0,0,fx,{\an5\fscx0\fscy0\bord0\frx3
 Dialogue: 1,0:23:32.79,0:23:36.80,EndCima,,0,0,0,fx,{\an5\fscx0\fscy0\bord0\frx360\move(640,-32,1106,28,0,200)\t(0,500,\bord1.5\frx0)\t(0,200,\fscx100\fscy100)}r
 Dialogue: 1,0:23:36.80,0:23:38.74,EndCima,,0,0,0,fx,{\an5\blur6\bord6\pos(1011,28)\fad(0,100)\t(0,100,\3c&HFFFFFF&\fscx130\fscy130)\t(100,1640,\3c&H00000000&\fscx100\fscy100\bord3\blur3)}world-layer
 Dialogue: 0,0:23:36.71,0:23:39.09,EndCima,,0,0,0,fx,{\clip(116,-12,1164,88)\an5\move(-60,38,1640,38,0,6000)\fad(0,300)\bord0.2\blur3\3c&HA6A919&\c&HA6A919&\fscx50\fscy50\p1}m 0 0 m -1 31 l 0 31 l 3 30 l 5 32 l 6 31 l 8 24 l 10 45 l 11 33 l 14 32 l 18 32 l 22 30 l 25 32 l 33 31 l 43 30 l 46 26 l 49 30 l 51 31 l 53 3 l 55 33 l 58 33 l 63 36 l 68 28 l 74 29 l 83 30 l 88 29 l 90 28 l 93 30 l 96 30 l 98 0 l 101 32 l 105 29 l 122 29 l 122 30 l 105 30 l 101 33 l 98 8 l 97 31 l 93 31 l 90 29 l 83 31 l 73 30 l 68 29 l 63 37 l 58 34 l 54 34 l 53 13 l 52 32 l 49 31 l 46 27 l 43 31 l 33 32 l 25 33 l 22 31 l 18 33 l 14 33 l 11 34 l 10 48 l 8 28 l 7 32 l 5 33 l 3 31 l 0 32 l -4 30 l -33 30 l -33 29 l -4 29 m 122 29 l 126 20 l 133 44 l 138 23 l 144 36 l 149 31 l 151 27 l 153 29 l 157 31 l 161 29 l 175 8 l 181 31 l 187 47 l 195 40 l 198 32 l 199 23 l 209 26 l 221 17 l 222 23 l 236 22 l 244 27 l 247 24 l 250 24 l 261 1 l 263 41 l 270 27 l 271 34 l 275 1 l 280 29 l 286 12 l 289 31 l 294 12 l 307 29 l 329 29 l 339 7 l 339 39 l 341 29 l 377 29 l 377 30 l 342 30 l 339 43 l 338 11 l 329 30 l 306 30 l 294 14 l 289 34 l 286 15 l 280 32 l 275 7 l 271 36 l 270 29 l 263 43 l 260 4 l 251 25 l 247 25 l 244 28 l 236 23 l 221 24 l 220 19 l 209 27 l 200 24 l 199 32 l 196 41 l 187 49 l 180 31 l 175 10 l 162 30 l 157 32 l 153 30 l 151 29 l 150 32 l 144 37 l 138 25 l 133 46 l 126 22 l 123 30 l 122 30 "
-
+Dialogue: 0,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\fs40\blur0.5\bord1.5\3c&HFFFFFF&\pos(104,546)}Renascimento
+Dialogue: 0,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\fs40\blur0.5\bord1.5\3c&HFFFFFF&\pos(191.34,554)}da
+Dialogue: 0,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\fs40\blur0.5\bord1.5\3c&HFFFFFF&\pos(311.66,533)}Formação de Imagens
+Dialogue: 0,0:23:40.07,0:23:55.08,Titulo - Copy,,0,0,0,,{\fs17\blur0.5\bord1.5\3c&HFFFFFF&\pos(177.33,614.67)}Retorno da Fênix
+Dialogue: 1,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\fs40\blur0.5\c&H000000&\pos(104,546)}Renascimento
+Dialogue: 1,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\fs40\blur0.5\c&H000000&\pos(191.34,554)}da
+Dialogue: 1,0:23:40.07,0:23:55.08,Titulo,,0,0,0,,{\fs40\blur0.5\c&H000000&\pos(311.66,533)}Formação de Imagens
+Dialogue: 1,0:23:40.07,0:23:55.08,Titulo - Copy,,0,0,0,,{\fs17\blur0.5\c&H000000&\pos(177.33,614.67)}Retorno da Fênix

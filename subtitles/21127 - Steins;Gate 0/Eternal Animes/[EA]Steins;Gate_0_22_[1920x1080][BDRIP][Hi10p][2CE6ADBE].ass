@@ -35,7 +35,7 @@ Style: EndBaixo2,B791-Roman,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:19.87,0:00:25.00,Titulo - Copy,,0,0,0,,{\bord1.5\blur1\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&H000000&\1a&HFF&}Eternal Animes
+Dialogue: 0,0:00:19.87,0:00:25.00,Titulo - Copy,,0,0,0,,{\bord1.5\blur0.5\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&H000000&\1a&HFF&}Eternal Animes
 Dialogue: 1,0:00:19.87,0:00:25.00,Titulo - Copy,,0,0,0,,{\blur0.7\fad(1025,0)\fs35\pos(945,262)\c&HF9F8F9&\3c&HFBFAFB&}Eternal Animes
 Dialogue: 0,0:00:25.94,0:00:31.78,Default,,0,0,0,,Basicamente, não importa quantas vezes você salte no tempo, a máquina do tempo continua sendo destruída?
 Dialogue: 0,0:00:31.78,0:00:32.74,Default,,0,0,0,,Sim.
@@ -278,10 +278,10 @@ Dialogue: 0,0:12:02.26,0:12:07.72,Default,,0,0,0,,Se tudo for apagado na primave
 Dialogue: 0,0:12:07.72,0:12:10.46,Default,,0,0,0,,Mas isso significa que você...
 Dialogue: 0,0:12:12.19,0:12:13.52,Default,,0,0,0,,Em outras palavras...
 Dialogue: 0,0:12:13.52,0:12:17.02,Default,,0,0,0,,Fazer com que a Amadeus...\N nunca tenha existido?
-Dialogue: 0,0:12:18.00,0:12:23.01,Titulo,,0,0,0,,{\fs45\blur1\pos(820,458)\c&H5E5D68&}Renascimento
-Dialogue: 0,0:12:18.00,0:12:23.01,Titulo,,0,0,0,,{\fs45\blur1\pos(914,490)\c&H5E5D68&}da
-Dialogue: 0,0:12:18.00,0:12:23.01,Titulo,,0,0,0,,{\fs45\blur1\pos(975,440)\c&H5E5D68&}Projeção
-Dialogue: 0,0:12:18.00,0:12:23.01,Titulo - Copy,,0,0,0,,{\fs22.9\blur1\pos(882,552)\c&H6C658C&}Projeto Amadeus
+Dialogue: 0,0:12:18.00,0:12:23.01,Titulo,,0,0,0,,{\fs45\blur0.5\pos(820,458)\c&H5E5D68&}Renascimento
+Dialogue: 0,0:12:18.00,0:12:23.01,Titulo,,0,0,0,,{\fs45\blur0.5\pos(914,490)\c&H5E5D68&}da
+Dialogue: 0,0:12:18.00,0:12:23.01,Titulo,,0,0,0,,{\fs45\blur0.5\pos(975,440)\c&H5E5D68&}Projeção
+Dialogue: 0,0:12:18.00,0:12:23.01,Titulo - Copy,,0,0,0,,{\fs22.9\blur0.5\pos(882,552)\c&H6C658C&}Projeto Amadeus
 Dialogue: 0,0:12:30.58,0:12:32.04,Default,,0,0,0,,O que está acontecendo?
 Dialogue: 0,0:12:32.04,0:12:34.29,Default,,0,0,0,,Não adianta me perguntar...
 Dialogue: 0,0:12:34.29,0:12:39.13,Default,,0,0,0,,Neste ritmo, a máquina do tempo será destruída amanhã novamente.
@@ -317,7 +317,7 @@ Dialogue: 0,0:14:59.52,0:15:02.11,Default,,0,0,0,,As outras cidades são assim t
 Dialogue: 0,0:15:02.11,0:15:04.94,Default,,0,0,0,,Não, depende do lugar.
 Dialogue: 0,0:15:04.94,0:15:08.86,Default,,0,0,0,,Shinjuku e Shibuya são bem\N animadas mesmo de noite.
 Dialogue: 0,0:15:08.86,0:15:12.37,Default,,0,0,0,,Mas ao redor de Ginza, aposto que está ainda mais quieto que aqui.
-Dialogue: 0,0:15:12.37,0:15:14.70,Default,,0,0,0,,É mesmo? Você acha?
+Dialogue: 0,0:15:12.37,0:15:14.70,Default,,0,0,0,,Ah, é mesmo?
 Dialogue: 0,0:15:20.46,0:15:21.83,Default,,0,0,0,,Para onde agora?
 Dialogue: 0,0:15:21.83,0:15:24.13,Default,,0,0,0,,Vejamos... Oh!
 Dialogue: 0,0:15:24.13,0:15:26.21,Default,,0,0,0,,Quero subir ali!
@@ -460,5 +460,9 @@ Dialogue: 0,0:23:04.63,0:23:08.80,EndBaixo2,,0,0,0,,{\fad(150,150)}Nós seremos 
 Dialogue: 0,0:23:08.80,0:23:15.18,EndBaixo2,,0,0,0,,{\fad(150,150)}Milagres serão reescritos como destino, risadas preencherão o ar
 Dialogue: 0,0:23:15.18,0:23:17.85,EndBaixo2,,0,0,0,,{\fad(150,150)}e vivendo esses mesmos momentos,
 Dialogue: 0,0:23:17.85,0:23:29.61,EndBaixo2,,0,0,0,,{\fad(150,150)}naquele mesmo lugar, seu "tempo" recomeçará mais uma vez!
-Comment: 0,0:13:25.59,0:13:27.68,Default,,0,0,0,,"De: Hiyajo-san"\N"Para: Okabe Rintaro"\N"Assunto: (Sem assunto)"
+Dialogue: 0,0:23:40.02,0:23:55.02,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(155,630)}Arc Light do Céu{meio}
+Dialogue: 0,0:23:40.02,0:23:55.02,Titulo,,0,0,0,,{\fs42\blur0.5\bord1.5\3c&HFFFFFF&\pos(262,554)}Arc Light do Ponto no Infinito
+Dialogue: 1,0:23:40.02,0:23:55.02,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(155,630)}Arc Light do Céu{meio}
+Dialogue: 1,0:23:40.02,0:23:55.02,Titulo,,0,0,0,,{\fs42\blur0.5\c&H000000&\pos(262,554)}Arc Light do Ponto no Infinito
+Comment: 0,0:13:25.59,0:13:27.68,Default,,0,0,0,,"De: Hiyajo-san"\N"Para: Okabe Rintaro Assunto: (Sem assunto)"
 

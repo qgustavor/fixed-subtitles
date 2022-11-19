@@ -63,6 +63,7 @@ Dialogue: 0,0:01:37.93,0:01:41.10,Default,,0,0,0,,Você veio do futuro, não é,
 Dialogue: 0,0:01:41.10,0:01:44.22,Default,,0,0,0,,Todos sabem sobre o futuro, não é?
 Dialogue: 0,0:01:44.22,0:01:45.52,Default,,0,0,0,,Mayu-neesan...
 Dialogue: 0,0:01:45.52,0:01:51.11,Default,,0,0,0,,Quero que me conte... sobre a Mayushii... sobre a Makise Kurisu-san...
+Dialogue: 0,0:03:30.34,0:03:33.05,Tela - Copy,,0,0,0,,{\an8}[Mensagem: Sei do que estou falando, quando falei "sei desse experimento" falava do que Einstein usou para derivar sua teoria da relatividade, que é o experimento de Fizeau e os fenômenos fotométricos das estrelas]
 Dialogue: 0,0:03:35.46,0:03:37.50,Default,,0,0,0,,Espero que goste do Chá de Okinawa.{É Chá de Okinawa se não se importa.} {me importo}
 Dialogue: 0,0:03:37.50,0:03:38.96,Default,,0,0,0,,Para onde o Daru-kun foi?
 Dialogue: 0,0:03:38.96,0:03:42.09,Default,,0,0,0,,Já que não temos nada aqui, ele foi comprar algo para acompanhar o chá.
@@ -121,7 +122,7 @@ Dialogue: 0,0:06:51.41,0:06:56.58,Default,,0,0,0,,Mas, se a Mayushii não o tive
 Dialogue: 0,0:06:58.41,0:07:00.62,Default,,0,0,0,,Okarin...
 Dialogue: 0,0:07:00.62,0:07:04.21,Default,,0,0,0,,Era exatamente assim que a Mayu-neesan era no futuro também.
 Dialogue: 0,0:07:04.21,0:07:06.92,Default,,0,0,0,,Você olhava tristemente \Npara o céu e dizia...
-Dialogue: 0,0:07:06.92,0:07:13.22,Default,,0,0,0,,"Naquele dia, se meu Hikoboshi tivesse ressuscitado, tudo poderia ter mudado."
+Dialogue: 0,0:07:06.92,0:07:13.22,Default,,0,0,0,,"Naquele dia, se meu Hikoboshi-sama tivesse ressuscitado, tudo poderia ter mudado."
 Dialogue: 0,0:07:16.06,0:07:17.72,Default,,0,0,0,,Desculpem por deixá-las esperando!
 Dialogue: 0,0:07:17.72,0:07:20.77,Default,,0,0,0,,Você demorou bastante. Até onde foi?
 Dialogue: 0,0:07:20.77,0:07:23.73,Default,,0,0,0,,Eu esbanjei um pouco. Fui até Ginza.
@@ -187,10 +188,10 @@ Dialogue: 0,0:10:42.80,0:10:46.22,Default,,0,0,0,,Quero ajudar, mas não posso f
 Dialogue: 0,0:10:46.22,0:10:51.60,Default,,0,0,0,,Você foi aquela que fez o Okarin voltar a ficar em pé. Isso não é o suficiente?{Ajudou o okarin a se recuparar}
 Dialogue: 0,0:10:51.60,0:10:52.94,Default,,0,0,0,,Naquele dia...
 Dialogue: 0,0:10:52.94,0:10:53.94,Default,,0,0,0,,Hum?
-Dialogue: 0,0:10:53.94,0:10:57.57,Default,,0,0,0,,Se o meu Hikoboshi tivesse ressuscitado...
+Dialogue: 0,0:10:53.94,0:10:57.57,Default,,0,0,0,,Se o meu Hikoboshi-sama tivesse ressuscitado...
 Dialogue: 0,0:10:57.57,0:11:00.70,Default,,0,0,0,,...tudo poderia ter mudado.
 Dialogue: 0,0:11:00.70,0:11:02.66,Default,,0,0,0,,Isso é...
-Dialogue: 0,0:11:02.66,0:11:06.12,Default,,0,0,0,,O Hikoboshi da Mayushii é...
+Dialogue: 0,0:11:02.66,0:11:06.12,Default,,0,0,0,,O Hikoboshi-sama da Mayushii é...
 Dialogue: 0,0:11:06.12,0:11:09.66,Default,,0,0,0,,...desde aquele momento, apenas um.{so very alone}
 Dialogue: 0,0:11:09.66,0:11:13.63,Default,,0,0,0,,Neste último ano, ele esteve\N com algo faltando...
 Dialogue: 0,0:11:13.63,0:11:19.26,Default,,0,0,0,,E eu quero que ele encontrasse isso... Quero vê-lo voltar a ser como antes...
@@ -206,9 +207,9 @@ Dialogue: 0,0:11:43.99,0:11:48.49,Default,,0,0,0,,Mas... Eu amo o Hououin Kyouma
 Dialogue: 0,0:11:48.49,0:11:54.42,Default,,0,0,0,,Quando senti vontade de desaparecer para sempre, ele me disse que eu tinha que ficar neste mundo.
 Dialogue: 0,0:11:54.42,0:11:58.88,Default,,0,0,0,,Eu... quero ver o Hououin Kyouma de novo!
 Dialogue: 0,0:11:58.88,0:12:02.84,Default,,0,0,0,,Quero escutar aquela risada arrogante!
-Dialogue: 0,0:12:02.84,0:12:07.35,Default,,0,0,0,,Mesmo sabendo que nunca \Nme tornarei a Orihime{-sama}.
+Dialogue: 0,0:12:02.84,0:12:07.35,Default,,0,0,0,,Mesmo sabendo que nunca \Nme tornarei a Orihime-sama.
 Dialogue: 0,0:12:07.35,0:12:09.06,Default,,0,0,0,,Mesmo assim...
-Dialogue: 0,0:12:10.81,0:12:17.36,Default,,0,0,0,,Para mim, só há um Hikoboshi{-sama}! É o Okabe Rintarou e ninguém mais!
+Dialogue: 0,0:12:10.81,0:12:17.36,Default,,0,0,0,,Para mim, só há um Hikoboshi-sama! É o Okabe Rintarou e ninguém mais!
 Dialogue: 0,0:12:19.48,0:12:21.40,Default,,0,0,0,,Nesse caso...
 Dialogue: 0,0:12:21.40,0:12:26.16,Default,,0,0,0,,Se essa é a escolha da Mayushii, então... você sabe o que precisa fazer.
 Dialogue: 0,0:12:26.16,0:12:27.49,Default,,0,0,0,,{Mmm.}
@@ -277,7 +278,7 @@ Dialogue: 0,0:16:06.79,0:16:10.54,Default,,0,0,0,,Se não for aquele momento, n�
 Dialogue: 0,0:16:10.54,0:16:13.21,Default,,0,0,0,,E você está confiante disso?
 Dialogue: 0,0:16:13.21,0:16:14.42,Default,,0,0,0,,Sim.
 Dialogue: 0,0:16:14.42,0:16:17.93,Default,,0,0,0,,Não poderemos voltar. Você tem certeza?
-Dialogue: 0,0:16:17.93,0:16:21.93,Default,,0,0,0,,Não posso fingir que o meu Hikoboshi{-sama} nunca me encontrou...
+Dialogue: 0,0:16:17.93,0:16:21.93,Default,,0,0,0,,Não posso fingir que o meu Hikoboshi-sama nunca me encontrou...
 Dialogue: 0,0:16:21.93,0:16:26.10,Default,,0,0,0,,Não posso fingir que o meu eu do futuro não está coberto de arrependimentos.
 Dialogue: 0,0:16:29.94,0:16:31.52,Default,,0,0,0,,Tudo bem.
 Dialogue: 0,0:16:39.11,0:16:40.53,Default,,0,0,0,,Mayuri!
@@ -2582,6 +2583,10 @@ Dialogue: 1,0:23:32.67,0:23:36.71,EndCima,,0,0,0,fx,{\an5\fscx0\fscy0\bord0\frx3
 Dialogue: 1,0:23:32.70,0:23:36.71,EndCima,,0,0,0,fx,{\an5\fscx0\fscy0\bord0\frx360\move(640,-32,1106,28,0,200)\t(0,500,\bord1.5\frx0)\t(0,200,\fscx100\fscy100)}r
 Dialogue: 1,0:23:36.71,0:23:38.65,EndCima,,0,0,0,fx,{\an5\blur6\bord6\pos(1011,28)\fad(0,100)\t(0,100,\3c&HFFFFFF&\fscx130\fscy130)\t(100,1640,\3c&H00000000&\fscx100\fscy100\bord3\blur3)}world-layer
 Dialogue: 0,0:23:36.62,0:23:39.00,EndCima,,0,0,0,fx,{\clip(116,-12,1164,88)\an5\move(-60,38,1640,38,0,6000)\fad(0,300)\bord0.2\blur3\3c&HA6A919&\c&HA6A919&\fscx50\fscy50\p1}m 0 0 m -1 31 l 0 31 l 3 30 l 5 32 l 6 31 l 8 24 l 10 45 l 11 33 l 14 32 l 18 32 l 22 30 l 25 32 l 33 31 l 43 30 l 46 26 l 49 30 l 51 31 l 53 3 l 55 33 l 58 33 l 63 36 l 68 28 l 74 29 l 83 30 l 88 29 l 90 28 l 93 30 l 96 30 l 98 0 l 101 32 l 105 29 l 122 29 l 122 30 l 105 30 l 101 33 l 98 8 l 97 31 l 93 31 l 90 29 l 83 31 l 73 30 l 68 29 l 63 37 l 58 34 l 54 34 l 53 13 l 52 32 l 49 31 l 46 27 l 43 31 l 33 32 l 25 33 l 22 31 l 18 33 l 14 33 l 11 34 l 10 48 l 8 28 l 7 32 l 5 33 l 3 31 l 0 32 l -4 30 l -33 30 l -33 29 l -4 29 m 122 29 l 126 20 l 133 44 l 138 23 l 144 36 l 149 31 l 151 27 l 153 29 l 157 31 l 161 29 l 175 8 l 181 31 l 187 47 l 195 40 l 198 32 l 199 23 l 209 26 l 221 17 l 222 23 l 236 22 l 244 27 l 247 24 l 250 24 l 261 1 l 263 41 l 270 27 l 271 34 l 275 1 l 280 29 l 286 12 l 289 31 l 294 12 l 307 29 l 329 29 l 339 7 l 339 39 l 341 29 l 377 29 l 377 30 l 342 30 l 339 43 l 338 11 l 329 30 l 306 30 l 294 14 l 289 34 l 286 15 l 280 32 l 275 7 l 271 36 l 270 29 l 263 43 l 260 4 l 251 25 l 247 25 l 244 28 l 236 23 l 221 24 l 220 19 l 209 27 l 200 24 l 199 32 l 196 41 l 187 49 l 180 31 l 175 10 l 162 30 l 157 32 l 153 30 l 151 29 l 150 32 l 144 37 l 138 25 l 133 46 l 126 22 l 123 30 l 122 30 "
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur1\fs42\bord1.5\3c&HFFFFFF&\pos(259.67,566)}Altair da Simetria Translacional
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\bord1.5\3c&HFFFFFF&\pos(116,631)}Simetria de Translação{meio}
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(259.67,566)}Altair da Simetria Translacional
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs16\blur0.5\c&H000000&\pos(116,631)}Simetria de Translação{meio}
 Comment: 0,0:13:52.49,0:13:54.95,Default,,0,0,0,,"002 KuriGohan e Kamehame-ha"\N"Parece que nós, gêmeos, seremos temporariamente expulsos do lugar ao qual pertencemos. Motivo pelo qual talvez não possamos mais voltar aqui."
 Comment: 0,0:13:54.95,0:13:57.33,Default,,0,0,0,,"003 KuriGohan e Kamehame-ha"\N"O nosso pai e deus, finalmente descobriu como revelar nossas posses{domínios} mais secretas. Além disso, somos crianças boazinhas que não podem mentir para nosso pai" {não entendi aqui: O Pai nosso e Deus finalmente...} {seria "nosso pai junto de deus, ou 'pai nosso" mesmo. se for pai nosso, já remete a deus ai n tem sentido} {mas como tá no singular > finalmente descobriu, e nao descobriram, acho que deve tar falando que o pai dela é um deus? ai n deve ir letra maiscula}
 Comment: 0,0:13:57.33,0:13:59.62,Default,,0,0,0,,"004 KuriGohan e Kamehame-ha"\N"Assim, podemos contar ao nosso pai os segredos de manipular o tempo e onde eles estão. Lamento profundamente por não ser capaz de protegê-los melhor."

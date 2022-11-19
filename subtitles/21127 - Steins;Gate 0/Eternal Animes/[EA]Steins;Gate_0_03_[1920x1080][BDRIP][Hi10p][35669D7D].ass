@@ -3084,6 +3084,10 @@ Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.30,0:23:33.41,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
 Dialogue: 0,0:21:57.61,0:21:59.61,Default,,0,0,0,,
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(1078,566)}Solidão do Fluxo dos Lamentos
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(1078,566)}Solidão do Fluxo dos Lamentos
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\bord1.5\3c&HFFFFFF&\pos(1084,644.67)}Uma Ovelha Perdida
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\c&H000000&\pos(1084,644.67)}Uma Ovelha Perdida
 Comment: 0,0:00:00.42,0:00:02.42,Default,,0,0,0,,O professor chama ele de Rintaro em inglês, dai deixaram "Lintahlo", que é usado na tradução oficial do jogo. )
 Comment: 0,0:03:05.93,0:03:10.15,Default,,0,0,0,,"Universidade Tokyo Denki - Prédio 7"
 Comment: 0,0:10:42.26,0:10:43.72,Default,,0,0,0,,"Comportamento de deslocamento. Encontrando a si mesmo depois da morte de um ente querido..."\N"Por que ocorre o descolamento? Uma abordagem ao enfrentamento..."

@@ -37,7 +37,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:09.25,0:00:11.50,Default,,0,0,0,,Estamos quase na base de Nerima!{"base", guarnição}
 Dialogue: 0,0:00:11.50,0:00:12.92,Default,,0,0,0,,Continue assim!
 Dialogue: 0,0:00:36.15,0:00:38.15,Default,,0,0,0,,Nos encontraram! Fuja!
-Dialogue: 0,0:00:51.62,0:00:57.34,Default,,0,0,0,,De qualquer forma, estamos felizes por termos nos assegurados de que você saísse vivo, Okabe-kun.
+Dialogue: 0,0:00:51.62,0:00:57.34,Default,,0,0,0,,De qualquer forma, estamos felizes por termos nos assegurado de que você saísse vivo, Okabe-kun.
 Dialogue: 0,0:01:00.13,0:01:02.67,Default,,0,0,0,,Aqui é...
 Dialogue: 0,0:01:02.67,0:01:04.93,Default,,0,0,0,,Onde estamos exatamente?
 Dialogue: 0,0:01:04.93,0:01:06.89,Default,,0,0,0,,Onde estão os meus amigos?
@@ -76,7 +76,7 @@ Dialogue: 0,0:05:25.81,0:05:27.52,Default,,0,0,0,,Você esqueceu?
 Dialogue: 0,0:05:28.52,0:05:31.86,Default,,0,0,0,,Eu... liguei de volta?
 Dialogue: 0,0:05:31.86,0:05:34.32,Default,,0,0,0,,Não tenho lembranças disso...
 Dialogue: 0,0:05:37.87,0:05:39.83,Default,,0,0,0,,Desculpe-nos por fazê-lo esperar.
-Dialogue: 0,0:05:40.87,0:05:46.25,Default,,0,0,0,,Tivemos uma ligação da América, mas o sinal deles deve estar bem fraco.
+Dialogue: 0,0:05:40.87,0:05:46.25,Default,,0,0,0,,Tivemos uma ligação dos EUA, mas o sinal deles deve estar bem fraco.
 Dialogue: 0,0:05:46.25,0:05:48.08,Default,,0,0,0,,Demorou mais do que o esperado.
 Dialogue: 0,0:05:48.08,0:05:53.63,Default,,0,0,0,,Peço desculpas por segurarmos você aqui até esta hora, Lintahlo. {por eu 'segurar''? mas aí 4 linhas dps ele fala 'nos deixou', então talvez aqui esteja falando pela maho tbm, afinal ele não tá segurando o okabe sozinho }
 Dialogue: 0,0:05:53.63,0:05:54.31,Default,,0,0,0,,Está tudo bem.
@@ -239,7 +239,7 @@ Dialogue: 0,0:13:55.53,0:13:57.99,Default,,0,0,0,,A melhor coisa seria ir pergun
 Dialogue: 0,0:13:57.99,0:13:59.74,Default,,0,0,0,,É, provavelmente...
 Dialogue: 0,0:13:59.74,0:14:02.54,Default,,0,0,0,,Seu rosto diz que você não pode fazer isso.
 Dialogue: 0,0:14:02.54,0:14:05.50,Default,,0,0,0,,Você poderia olhar em jornais ou contratar um detetive.
-Dialogue: 0,0:14:05.50,0:14:08.67,Default,,0,0,0,,Na América, ouvi dizer que eles usam radiestesia e clarividência...{https://pt.wikipedia.org/wiki/Radiestesia}
+Dialogue: 0,0:14:05.50,0:14:08.67,Default,,0,0,0,,Nos EUA, ouvi dizer que eles usam radiestesia e clarividência...{https://pt.wikipedia.org/wiki/Radiestesia}
 Dialogue: 0,0:14:08.67,0:14:13.05,Default,,0,0,0,,Se quiser entrar num daqueles programas de TV malucos, o professor pode ajudá-lo.
 Dialogue: 0,0:14:13.05,0:14:14.92,Default,,0,0,0,,Foi só uma ideia.
 Dialogue: 0,0:14:17.97,0:14:21.10,Default,,0,0,0,,A Makise Kurisu está morta.{ep anterior}
@@ -3044,6 +3044,10 @@ Dialogue: 0,0:23:30.29,0:23:33.40,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\m
 Dialogue: 0,0:23:30.29,0:23:33.40,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(702,38,2,-433,0,15000)\t(0,10000,\fry-1758)}a
 Dialogue: 0,0:23:30.29,0:23:33.40,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(731,38,31,-194,0,15000)\t(0,10000,\fry-4891)}m
 Dialogue: 0,0:23:30.29,0:23:33.40,EndCima,,0,0,0,fx,{\fad(0,50)\an5\c&HFFFFFF&\move(759,38,59,530,0,15000)\t(0,10000,\fry3229)}e
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\bord1.5\3c&HFFFFFF&\fs42\pos(195,50.33)}Solidão do Astigmatismo
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo,,0,0,0,,{\blur0.5\c&H000010&\fs42\pos(195,50.33)}Solidão do Astigmatismo
+Dialogue: 0,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\bord1.5\3c&HFFFFFF&\pos(189,132.67)}Ovelha Emaranhada
+Dialogue: 1,0:23:39.98,0:23:55.00,Titulo - Copy,,0,0,0,,{\fs15\blur0.5\c&H000010&\pos(189,132.67)}Ovelha Emaranhada
 Comment: 0,0:06:00.68,0:06:01.89,Default,,0,0,0,,Hu-hmm!{"Tem razão", "isso mesmo"}
 Comment: 0,0:13:18.41,0:13:23.12,Default,,0,0,0,,"Reunião de Gabinete Japão-Rússia "
 Comment: 0,0:16:09.08,0:16:11.79,Default,,0,0,0,,"Departamento de Polícia do Metrô" "Banco de Dados de Pessoas não Identificadas (Feminino)"

@@ -73,7 +73,7 @@ Dialogue: 0,0:02:10.96,0:02:16.97,Default,,0,0,0,,O riso das estrelas.
 Dialogue: 0,0:02:16.97,0:02:22.39,Default,,0,0,0,,Brilhando ao vento...
 Dialogue: 0,0:02:19.99,0:02:24.99,Titulo,,0,0,0,,{\blur1\pos(755,460)\c&H5E5D68&}Mãe Gansa
 Dialogue: 0,0:02:19.99,0:02:24.99,Titulo,,0,0,0,,{\blur1\pos(1015,480)\c&H5E5C67&}da Recursão Mútua
-Dialogue: 0,0:02:19.99,0:02:24.99,Titulo - Copy,,0,0,0,,{\fs22.9\blur1\pos(740,588)\c&H6C658C&}Mãe Gansa Recursiva{https://pt.wikipedia.org/wiki/Mamãe_Gansa}
+Dialogue: 0,0:02:19.99,0:02:24.99,Titulo - Copy,,0,0,0,,{\fs22.9\blur1\pos(740,588)\c&H6C658C&}Mãe Gansa Recursiva
 Dialogue: 0,0:02:22.39,0:02:24.47,Default,,0,0,0,,Brilhando ao...
 Dialogue: 0,0:03:58.65,0:04:00.15,Default,,0,0,0,,Okabe-kun!
 Dialogue: 0,0:04:00.15,0:04:01.74,Default,,0,0,0,,Izaki-sensei?
@@ -1875,6 +1875,12 @@ Dialogue: 3,0:03:54.14,0:03:54.44,OpCima,,0,0,0,fx,{\an5\move(769,37,174,49)\fad
 Dialogue: 3,0:03:54.14,0:03:54.44,OpCima,,0,0,0,fx,{\an5\move(789,37,21,42)\fad(0,600)\3c&H000000&\bord2\blur3\t(\frz-1148\fsc31)}r
 Dialogue: 3,0:03:54.14,0:03:54.44,OpCima,,0,0,0,fx,{\an5\move(802,37,467,63)\fad(0,600)\3c&H000000&\bord2\blur3\t(\frz-889\fsc21)}l
 Dialogue: 3,0:03:54.14,0:03:54.44,OpCima,,0,0,0,fx,{\an5\move(816,37,1070,25)\fad(0,600)\3c&H000000&\bord2\blur3\t(\frz-934\fsc85)}d
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(132,567.67)}Mãe Gansa
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(132,567.67)}Mãe Gansa
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\bord1.5\3c&HFFFFFF&\pos(332,582)}do Recitativo Difrativo
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo,,0,0,0,,{\blur0.5\fs42\c&H000000&\pos(332,582)}do Recitativo Difrativo
+Dialogue: 0,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs17\blur0.5\bord1.5\3c&HFFFFFF&\pos(120.67,655)}Difração Mãe Gansa
+Dialogue: 1,0:23:40.02,0:23:55.04,Titulo - Copy,,0,0,0,,{\fs17\blur0.5\c&H000000&\pos(120.67,655)}Difração Mãe Gansa
 Comment: 0,0:04:48.41,0:04:49.87,Default,,0,0,0,,"Encontro.com"\N"para o encontro"\N"recomendamos"
 Comment: 0,0:04:49.87,0:04:53.37,Default,,0,0,0,,"Akihabara Escolhas"
 Comment: 0,0:16:11.63,0:16:25.35,Default,,0,0,0,,"Okabe Mercearia"
