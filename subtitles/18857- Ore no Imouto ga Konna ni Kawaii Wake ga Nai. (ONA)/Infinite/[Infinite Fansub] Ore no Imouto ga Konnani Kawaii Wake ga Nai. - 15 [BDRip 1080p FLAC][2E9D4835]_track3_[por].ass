@@ -169,7 +169,7 @@ Dialogue: 0,0:07:19.12,0:07:21.85,Legenda,,0,0,0,,Hã?! O-O que quer dizer?!
 Dialogue: 0,0:07:21.85,0:07:23.09,Legenda,,0,0,0,,Exatamente o que eu disse!
 Dialogue: 0,0:07:23.43,0:07:27.69,Legenda,,0,0,0,,B-Bem... mas eu pensei que você com certeza fosse me rejeitar.
 Dialogue: 0,0:07:27.69,0:07:32.10,Legenda,,0,0,0,,Mas, mesmo assim, eu queria, de alguma forma, organizar meus sentimentos primeiro...
-Dialogue: 0,0:07:32.10,0:07:35.80,Legenda,,0,0,0,,Então quando você disse, "Eu gosto de alguém,"
+Dialogue: 0,0:07:32.10,0:07:35.80,Legenda,,0,0,0,,Então quando você disse, "Eu gosto de alguém",
 Dialogue: 0,0:07:35.80,0:07:38.51,Legenda,,0,0,0,,eu nunca considerei que poderia ser eu,
 Dialogue: 0,0:07:38.51,0:07:40.08,Legenda,,0,0,0,,e eu estava com tanto medo de ser rejeitada...
 Dialogue: 0,0:07:40.08,0:07:41.64,Legenda,,0,0,0,,Foi por isso que você fugiu?
@@ -245,7 +245,7 @@ Dialogue: 0,0:11:10.81,0:11:12.54,Legenda,,0,0,0,,então me chame quando termina
 Dialogue: 0,0:11:12.54,0:11:13.83,Legenda,,0,0,0,,Tá.
 Dialogue: 0,0:11:13.83,0:11:16.76,Legenda,,0,0,0,,Ei, você vai bagunçar meu cabelo! Droga...
 Dialogue: 0,0:12:02.89,0:12:06.25,Legenda,,0,0,0,,O canto e dança dela ficaram muito bons.
-Dialogue: 0,0:12:06.25,0:12:09.94,Legenda,,0,0,0,,Pessoal! Obrigado por virem hoje!
+Dialogue: 0,0:12:06.25,0:12:09.94,Legenda,,0,0,0,,Pessoal! Obrigada por virem hoje!
 Dialogue: 0,0:12:11.22,0:12:14.69,Legenda,,0,0,0,,Este é o lugar onde nos encontramos pela primeira vez, não é?
 Dialogue: 0,0:12:14.69,0:12:16.67,Legenda,,0,0,0,,Alguém se lembra?
 Dialogue: 0,0:12:17.86,0:12:20.86,Legenda,,0,0,0,,{\i1}Eu me lembro. Você foi incrível.{\i0}
@@ -304,9 +304,9 @@ Dialogue: 0,0:15:48.07,0:15:49.97,Legenda,,0,0,0,,Eu tenho que conversar com voc
 Dialogue: 0,0:15:53.20,0:15:56.49,Legenda,,0,0,0,,E então? O que você quer hoje?
 Dialogue: 0,0:15:56.49,0:15:58.01,Legenda,,0,0,0,,Uma "Cerimônia de Namorados".
 Dialogue: 0,0:15:59.16,0:16:01.99,Legenda,,0,0,0,,Você sabe como os namorados normalmente deixam
-Dialogue: 0,0:16:01.99,0:16:05.19,Legenda,,0,0,0,,coisas um no quarto do outro, certo?
-Dialogue: 0,0:16:05.57,0:16:08.87,Legenda,,0,0,0,,Eu coloquei muitas coisas no meu quarto ultimamente, certo?
-Dialogue: 0,0:16:08.87,0:16:10.45,Legenda,,0,0,0,,Então...
+Dialogue: 5,0:16:01.99,0:16:05.19,Legenda,,0,0,0,,coisas um no quarto do outro, certo?
+Dialogue: 5,0:16:05.57,0:16:08.87,Legenda,,0,0,0,,Eu coloquei muitas coisas no meu quarto ultimamente, certo?
+Dialogue: 5,0:16:08.87,0:16:10.45,Legenda,,0,0,0,,Então...
 Dialogue: 0,0:16:10.45,0:16:11.52,Legenda,,0,0,0,,Eu vou compartilhar alguns
 Dialogue: 0,0:16:11.52,0:16:14.02,Legenda,,0,0,0,,dos meus preciosos tesouros com você, para o seu quarto!
 Dialogue: 0,0:16:14.02,0:16:16.71,Legenda,,0,0,0,,Você está apenas tentando jogar suas coisas no meu quarto,
@@ -416,7 +416,7 @@ Dialogue: 0,0:21:42.29,0:21:45.04,Legenda,,0,0,0,,{\i1}O que eu posso fazer para
 Dialogue: 0,0:21:45.48,0:21:48.75,Legenda,,0,0,0,,{\i1}O que eu preciso fazer para fazer meu sonho virar realidade?
 Dialogue: 0,0:21:49.32,0:21:53.07,Legenda,,0,0,0,,{\i1}O que eu preciso fazer para fazer ele me amar?
 Dialogue: 0,0:21:53.54,0:21:56.55,Legenda,,0,0,0,,{\i1}O que eu preciso fazer para ficar com ele para sempre?
-Dialogue: 0,0:21:57.12,0:21:59.30,Legenda,,0,0,0,,{\i1}No momento, tenho uma ideia.
+Dialogue: 0,0:21:57.12,0:21:59.30,Legenda,,0,0,0,,{\i1}No momento, não faço ideia.
 Dialogue: 0,0:22:00.08,0:22:02.97,Legenda,,0,0,0,,{\i1}Então estou pedindo seu conselho, futuro eu.
 Dialogue: 0,0:22:04.14,0:22:06.17,Legenda,,0,0,0,,{\i1}O eu que se tornou incrível...
 Dialogue: 0,0:22:06.17,0:22:09.89,Legenda,,0,0,0,,{\i1}Não, o eu que está ouvindo isso agora.
@@ -1185,7 +1185,7 @@ Dialogue: 0,0:01:12.99,0:01:16.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:01:16.53,0:01:20.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:01:20.56,0:01:23.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:01:23.83,0:01:27.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:01:27.20,0:01:30.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:01:27.20,0:01:30.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:01:30.75,0:01:36.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:01:36.96,0:01:41.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:00:13.26,0:00:13.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k
@@ -1977,13 +1977,13 @@ Dialogue: 0,0:22:32.58,0:22:37.08,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bor
 Dialogue: 0,0:22:37.08,0:22:42.96,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Embora encarar meus sentimentos seja algo que não quero fazer,
 Dialogue: 0,0:22:42.96,0:22:47.55,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Eu quero abri-los com você.
 Dialogue: 0,0:22:47.55,0:22:53.14,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Você pode entender isso, se eu fizer isso, enquanto sorrio?
-Dialogue: 0,0:22:53.14,0:22:58.31,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Eu posso te odiar bastante, mas eu te amo ainda mais.
+Dialogue: 0,0:22:53.14,0:22:58.31,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Eu posso te odiar bastante, mas eu te amo o mesmo tanto.
 Dialogue: 0,0:22:58.31,0:23:00.73,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Meus sentimentos crescem
 Dialogue: 0,0:23:00.73,0:23:02.94,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}para você me empurrar para ir mais rápido.
 Dialogue: 0,0:23:02.94,0:23:08.36,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Por favor, diga que eu sou a pessoa mais importante para você.
 Dialogue: 0,0:23:08.36,0:23:13.33,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Eu não quero que você diga por dizer.
 Dialogue: 0,0:23:13.33,0:23:18.71,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}Eu planejei nosso futuro juntos
-Dialogue: 0,0:23:18.71,0:23:24.38,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}por que algum dia teremos um.
+Dialogue: 0,0:23:18.71,0:23:24.38,ED PTBR,,0,0,0,,{\fad(160,160)\3c&HE79F3D&\bord2\shad0\blur5}porque algum dia teremos um.
 Dialogue: 0,0:22:10.85,0:22:10.85,ED Romaji - 2,,0,0,0,fx,{\an5\pos(60,64)\1c&FFFFFFF&\3c&HE79F3D&\4c&HD7CAF7&\blur5\bord2\shad0\t(0,10,\fscy140\blur8\b1\bord4)\t(10,0,\fscy100\blur5\b0\bord2\shad0)}
 Dialogue: 0,0:22:10.85,0:22:10.97,ED Romaji - 2,,0,0,0,fx,{\an5\pos(60,64)\1c&FFFFFFF&\3c&HE79F3D&\4c&HD7CAF7&\blur5\bord2\shad0\t(0,10,\fscy140\blur8\b1\bord4)\t(10,120,\fscy100\blur5\b0\bord2\shad0)}
 Dialogue: 1,0:22:10.25,0:22:10.97,ED Romaji - 2,,0,0,0,fx,{\an5\pos(83,64)\fad(300,0)\1c&FFFFFFF&\3c&HE79F3D&\bord2\shad0\blur5\4c&HD7CAF7&}ki

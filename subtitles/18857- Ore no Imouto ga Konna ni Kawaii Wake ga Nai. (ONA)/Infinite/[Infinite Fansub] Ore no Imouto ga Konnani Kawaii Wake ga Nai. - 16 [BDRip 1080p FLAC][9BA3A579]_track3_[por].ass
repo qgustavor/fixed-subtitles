@@ -137,7 +137,7 @@ Dialogue: 0,0:05:25.08,0:05:28.78,Legenda,,0,0,0,,Desculpe, tenho algo important
 Dialogue: 0,0:05:50.01,0:05:50.81,Legenda,,0,0,0,,Adeus.
 Dialogue: 0,0:05:53.81,0:05:55.07,Legenda,,0,0,0,,Com quem está falando?
 Dialogue: 0,0:05:56.02,0:05:59.07,Legenda,,0,0,0,,N-Não me surpreenda! Você me assustou!
-Dialogue: 0,0:05:59.66,0:06:03.37,Legenda,,0,0,0,,Você estava dizendo adeus à sua escola?
+Dialogue: 5,0:05:59.66,0:06:03.37,Legenda,,0,0,0,,Você estava dizendo adeus à sua escola?
 Dialogue: 0,0:06:03.68,0:06:05.55,Legenda,,0,0,0,,Não tem nada a ver com você!
 Dialogue: 0,0:06:05.55,0:06:07.57,Legenda,,0,0,0,,E por que você está aqui?
 Dialogue: 0,0:06:07.57,0:06:09.62,Legenda,,0,0,0,,Não é aqui que deveríamos nos encontrar!
@@ -216,7 +216,7 @@ Dialogue: 0,0:10:31.68,0:10:34.43,Legenda,,0,0,0,,Amigas de infância não podem
 Dialogue: 0,0:10:34.43,0:10:36.46,Legenda,,0,0,0,,Ah! Pare com isso!
 Dialogue: 0,0:10:36.46,0:10:37.93,Legenda,,0,0,0,,Estou implorando para vocês pararem!
 Dialogue: 0,0:10:37.93,0:10:40.43,Legenda,,0,0,0,,Se vocês continuarem se batendo,
-Dialogue: 0,0:10:40.43,0:10:42.69,Legenda,,0,0,0,,não conseguiram se entender!
+Dialogue: 0,0:10:40.43,0:10:42.69,Legenda,,0,0,0,,não conseguirão se entender!
 Dialogue: 0,0:10:43.11,0:10:45.83,Legenda,,0,0,0,,Hã? Quem falou sobre se entender?
 Dialogue: 0,0:10:45.83,0:10:46.31,Legenda,,0,0,0,,Hã?
 Dialogue: 0,0:10:46.31,0:10:48.94,Legenda,,0,0,0,,Eu disse, "Eu estou aqui para brigar", não disse?
@@ -373,7 +373,7 @@ Dialogue: 0,0:19:19.91,0:19:21.01,Legenda,,0,0,0,,Não.
 Dialogue: 0,0:19:22.36,0:19:23.75,Legenda,,0,0,0,,Não estava!
 Dialogue: 0,0:19:24.22,0:19:27.42,Legenda,,0,0,0,,Estou feliz! Estou muito, muito feliz!
 Dialogue: 0,0:19:27.96,0:19:28.71,Legenda,,0,0,0,,Entendo.
-Dialogue: 0,0:19:30.11,0:19:31.21,Legenda,,0,0,0,,Irmão...
+Dialogue: 0,0:19:30.11,0:19:31.21,Legenda,,0,0,0,,Aniki...
 Dialogue: 0,0:19:32.91,0:19:33.91,Legenda,,0,0,0,,Kyousuke.
 Dialogue: 0,0:19:35.64,0:19:36.60,Legenda,,0,0,0,,O quê?
 Dialogue: 0,0:19:36.92,0:19:41.28,Legenda,,0,0,0,,Obrigada por ouvir todos os meus desejos por todo este tempo.
@@ -1656,7 +1656,7 @@ Dialogue: 0,0:05:16.00,0:05:16.04,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000
 Dialogue: 0,0:05:16.04,0:05:16.08,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fnAsap\b1\fs27\fscx85\fay-0.01\blur0.975\fax0.19\c&H2F2C28&\pos(276.21,169.455)\frz350.1}Cerimônia de Graduação do Colégio Chiba Benten
 Dialogue: 0,0:05:16.08,0:05:16.12,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fnAsap\b1\fs27\fscx85\fay-0.01\blur0.975\fax0.19\c&H2F2C28&\pos(272.13,169.455)\frz350.1}Cerimônia de Graduação do Colégio Chiba Benten
 Dialogue: 0,0:05:16.12,0:05:16.17,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fnAsap\b1\fs27\fscx85\fay-0.01\blur0.975\fax0.19\c&H2F2C28&\pos(268.02,169.47)\frz350.1}Cerimônia de Graduação do Colégio Chiba Benten
-Dialogue: 0,0:05:40.44,0:05:43.15,Signs,,0,0,0,,{\an5\3c&H00000000&\bord0\shad0\yshad1.5\xshad-4.5\blur0.9\fax0.06\fs33\fnBrushType-SemiBold\b0\frz358.7\pos(1181.183,374.454)\c&H96B0AF&\4c&H474C47&}C{*\fs32.967}e{*\fs32.935}r{*\fs32.902}i{*\fs32.87}m{*\fs32.837}ô{*\fs32.804}n{*\fs32.772}i{*\fs32.739}a {*\fs32.674}d{*\fs32.641}e {*\fs32.576}G{*\fs32.543}r{*\fs32.511}a{*\fs32.478}d{*\fs32.446}u{*\fs32.413}a{*\fs32.38}ç{*\fs32.348}ã{*\fs32.315}o {*\fs32.25}d{*\fs32.217}o {*\fs32.152}C{*\fs32.12}o{*\fs32.087}l{*\fs32.054}é{*\fs32.022}g{*\fs31.989}i{*\fs31.957}o {*\fs31.891}C{*\fs31.859}h{*\fs31.826}i{*\fs31.793}b{*\fs31.761}a {*\fs31.696}B{*\fs31.663}e{*\fs31.63}n{*\fs31.598}t{*\fs31.565}e{*\fs31.533}n{\fs31.5}l
+Dialogue: 0,0:05:40.44,0:05:43.15,Signs,,0,0,0,,{\an5\3c&H00000000&\bord0\shad0\yshad1.5\xshad-4.5\blur0.9\fax0.06\fs33\fnAsap\fscx80\b0\frz358.7\pos(1181.183,374.454)\c&H96B0AF&\4c&H474C47&}C{*\fs32.967}e{*\fs32.935}r{*\fs32.902}i{*\fs32.87}m{*\fs32.837}ô{*\fs32.804}n{*\fs32.772}i{*\fs32.739}a {*\fs32.674}d{*\fs32.641}e {*\fs32.576}G{*\fs32.543}r{*\fs32.511}a{*\fs32.478}d{*\fs32.446}u{*\fs32.413}a{*\fs32.38}ç{*\fs32.348}ã{*\fs32.315}o {*\fs32.25}d{*\fs32.217}o {*\fs32.152}C{*\fs32.12}o{*\fs32.087}l{*\fs32.054}é{*\fs32.022}g{*\fs31.989}i{*\fs31.957}o {*\fs31.891}C{*\fs31.859}h{*\fs31.826}i{*\fs31.793}b{*\fs31.761}a {*\fs31.696}B{*\fs31.663}e{*\fs31.63}n{*\fs31.598}t{*\fs31.565}e{*\fs31.533}n{\fs31.5}l
 Dialogue: 0,0:05:59.17,0:06:03.46,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\blur0.9\fnKozMinPro-Bold\b1\c&H89928E&\pos(261.204,369.837)}Heisei 25\N{\fs40.5}Cerimônia\N de Graduação
 Dialogue: 0,0:05:59.17,0:06:03.46,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fs42\blur0.9\fnKozMinPro-Bold\b1\c&H666060&\pos(317.5,974.866)}Colégio\N Chiba Benten
 Dialogue: 0,0:00:29.00,0:00:34.01,Infinite Fansub,,0,0,0,,{\fad(420,0)\bord3\blur1\c&H02E27D&\3c&HFBF8F0&\pos(1315.2,523.6)}Infinite Fansub
@@ -1674,7 +1674,7 @@ Dialogue: 0,0:23:08.44,0:23:11.98,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:23:11.98,0:23:16.01,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:23:16.01,0:23:19.28,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:23:19.28,0:23:22.65,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:23:22.65,0:23:26.20,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:23:22.65,0:23:26.20,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:23:26.20,0:23:32.41,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:23:32.41,0:23:36.57,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:22:08.71,0:22:09.19,OP Romaji,,0,0,0,fx,{\an5\move(1149,64,1069,64,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k
@@ -2475,7 +2475,7 @@ Dialogue: 0,0:25:34.22,0:25:36.93,ED PTBR,,0,0,0,,{\fad(200,200)\3c&H9123B1&\bor
 Dialogue: 0,0:25:37.18,0:25:41.35,ED PTBR,,0,0,0,,{\fad(200,200)\3c&H9123B1&\bord2\shad0\blur5}Eu não posso parecer ser honesta,
 Dialogue: 0,0:25:41.51,0:25:45.60,ED PTBR,,0,0,0,,{\fad(200,200)\3c&H9123B1&\bord2\shad0\blur5}mas posso ser quando eu for mais velha?
 Dialogue: 0,0:25:45.81,0:25:48.98,ED PTBR,,0,0,0,,{\fad(200,200)\3c&H9123B1&\bord2\shad0\blur5}Eu sei que eu posso dizer isso um dia.
-Dialogue: 0,0:25:49.19,0:25:55.86,ED PTBR,,0,0,0,,{\fad(200,200)\3c&H9123B1&\bord2\shad0\blur5}Obrigado. Eu tenho sorte de ter você.
+Dialogue: 0,0:25:49.19,0:25:55.86,ED PTBR,,0,0,0,,{\fad(200,200)\3c&H9123B1&\bord2\shad0\blur5}Obrigada. Eu tenho sorte de ter você.
 Dialogue: 0,0:24:39.20,0:24:39.20,ED Romaji,,0,0,0,fx,{\an5\pos(595,64)\1c&FFFFFFF&\3c&H9123B1&\4c&HD7CAF7&\blur5\bord2\shad0\t(0,10,\fscy140\blur8\b1\bord4)\t(10,0,\fscy100\blur5\b0\bord2\shad0)}
 Dialogue: 1,0:24:38.75,0:24:39.20,ED Romaji,,0,0,0,fx,{\an5\pos(654,64)\fad(300,0)\1c&FFFFFFF&\3c&H9123B1&\bord2\shad0\blur5\4c&HD7CAF7&}koto
 Dialogue: 0,0:24:39.20,0:24:40.10,ED Romaji,,0,0,0,fx,{\an5\pos(654,64)\1c&FFFFFFF&\3c&H9123B1&\4c&HD7CAF7&\blur5\bord2\shad0\t(0,10,\fscy140\blur8\b1\bord4)\t(10,900,\fscy100\blur5\b0\bord2\shad0)}koto
