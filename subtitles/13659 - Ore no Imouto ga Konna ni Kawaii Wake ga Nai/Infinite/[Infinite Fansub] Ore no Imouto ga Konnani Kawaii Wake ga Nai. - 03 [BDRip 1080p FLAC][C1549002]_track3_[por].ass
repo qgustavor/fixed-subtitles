@@ -79,7 +79,7 @@ Dialogue: 0,0:03:04.29,0:03:10.24,Legenda,,0,0,0,,{\i1}Como resultado, vivíamos
 Dialogue: 0,0:03:11.56,0:03:13.28,Legenda,,0,0,0,,Chegamos. Desça.
 Dialogue: 0,0:03:14.51,0:03:16.58,Legenda,,0,0,0,,Que lugar é esse?
 Dialogue: 0,0:03:17.27,0:03:19.53,Legenda,,0,0,0,,É a minha casa de coleções.
-Dialogue: 0,0:03:20.24,0:03:23.58,Legenda,,0,0,0,,Isso é um hobby bem estranho para você, não é?
+Dialogue: 0,0:03:20.24,0:03:23.58,Legenda,,0,0,0,,Isso é um hobby bem adulto para você, não é?
 Dialogue: 0,0:03:23.77,0:03:26.62,Legenda,,0,0,0,,Sim, a vida é curta.
 Dialogue: 0,0:03:27.20,0:03:27.91,Legenda,,0,0,0,,O quê?
 Dialogue: 0,0:03:28.51,0:03:30.33,Legenda,,0,0,0,,Ouça, Saori.
@@ -111,8 +111,8 @@ Dialogue: 0,0:04:57.74,0:05:00.13,Legenda,,0,0,0,,Não esperaria nada menos do n
 Dialogue: 0,0:05:00.13,0:05:02.59,Legenda,,0,0,0,,Não me chame pelo meu verdadeiro nome!
 Dialogue: 0,0:05:02.59,0:05:04.64,Legenda,,0,0,0,,Espere, é você, Kaori!
 Dialogue: 0,0:05:07.12,0:05:09.60,Legenda,,0,0,0,,Obrigada pela ótima reação!
-Dialogue: 0,0:05:10.32,0:05:12.14,Legenda,,0,0,0,,E esse rifle de assalto?
-Dialogue: 0,0:05:12.14,0:05:13.90,Legenda,,0,0,0,,Você vai começar um jogo de sobrevivência?
+Dialogue: 0,0:05:10.32,0:05:12.14,Legenda,,0,0,0,,E o que é esse rifle?
+Dialogue: 0,0:05:12.14,0:05:13.90,Legenda,,0,0,0,,Você agora está jogando airsoft?
 Dialogue: 0,0:05:13.90,0:05:15.15,Legenda,,0,0,0,,Sim.
 Dialogue: 0,0:05:16.70,0:05:19.91,Legenda,,0,0,0,,E eu aqui pensando que você podia ter \Ncomeçado uma coleção de armas reais...
 Dialogue: 0,0:05:21.70,0:05:24.41,Legenda,,0,0,0,,Quem é esta senhorita?
@@ -134,7 +134,7 @@ Dialogue: 0,0:06:07.77,0:06:11.22,Legenda,,0,0,0,,E eu estava aqui querendo apre
 Dialogue: 0,0:06:13.42,0:06:17.50,Legenda,,0,0,0,,H-Hum... Não sei o que está acontecendo...
 Dialogue: 0,0:06:18.01,0:06:18.88,Legenda,,0,0,0,,Saori.
 Dialogue: 0,0:06:19.25,0:06:20.00,Legenda,,0,0,0,,Sim?
-Dialogue: 0,0:06:24.92,0:06:28.73,Legenda,,0,0,0,,Bem-vinda ao meu grupo, o "Lindo Jardim!"
+Dialogue: 0,0:06:24.92,0:06:28.73,Legenda,,0,0,0,,Bem-vinda ao meu grupo, o "Lindo Jardim"!
 Dialogue: 0,0:06:29.22,0:06:31.07,Legenda,,0,0,0,,G-Grupo?
 Dialogue: 0,0:06:31.07,0:06:35.42,Legenda,,0,0,0,,Sim. Um grupo de companheiros que dividem um interesse na cultura otaku.{Popularmente conhecida como cultura virgem huehuehue}
 Dialogue: 0,0:06:36.40,0:06:37.10,Legenda,,0,0,0,,Hã?
@@ -356,7 +356,7 @@ Dialogue: 0,0:20:54.04,0:20:56.06,Legenda,,0,0,0,,"Pesadelo-chan?"
 Dialogue: 0,0:20:56.06,0:21:01.47,Legenda,,0,0,0,,Chamar a minha roupa de Rainha do Pesadelo por tal nome... Que desrespeitoso.
 Dialogue: 0,0:21:02.44,0:21:04.40,Legenda,,0,0,0,,Esqueci de perguntar algo.
 Dialogue: 0,0:21:05.95,0:21:09.36,Legenda,,0,0,0,,Você atingiu seu objetivo, Saorin-shi?
-Dialogue: 0,0:21:10.74,0:21:13.79,Legenda,,0,0,0,,Não sinto como se tivesse pego ela.
+Dialogue: 0,0:21:10.74,0:21:13.79,Legenda,,0,0,0,,Não sinto como se tivesse alcançado ela.
 Dialogue: 0,0:21:13.79,0:21:16.59,Legenda,,0,0,0,,Sou sempre tão impotente e inútil,
 Dialogue: 0,0:21:17.63,0:21:20.76,Legenda,,0,0,0,,mas eu encontrei meus próprios e preciosos amigos.
 Dialogue: 0,0:21:19.41,0:21:20.76,Legenda,,0,0,0,,{\an8}Isso é legal, não é?
@@ -1301,7 +1301,7 @@ Dialogue: 0,0:01:35.99,0:01:39.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:01:39.53,0:01:43.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:01:43.56,0:01:46.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:01:46.83,0:01:50.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:01:50.20,0:01:53.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:01:50.20,0:01:53.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:01:53.75,0:01:59.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:01:59.96,0:02:04.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:00:36.26,0:00:36.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k

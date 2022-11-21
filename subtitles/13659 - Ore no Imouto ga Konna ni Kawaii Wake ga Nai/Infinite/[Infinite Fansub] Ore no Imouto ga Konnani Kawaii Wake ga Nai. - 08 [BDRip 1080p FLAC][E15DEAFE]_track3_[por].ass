@@ -70,7 +70,7 @@ Dialogue: 0,0:03:06.92,0:03:08.98,Legenda,,0,0,0,,Decidi namorar com a Kuroneko.
 Dialogue: 0,0:03:12.40,0:03:13.27,Legenda,,0,0,0,,É mesmo?
 Dialogue: 0,0:03:13.99,0:03:14.95,Legenda,,0,0,0,,Ei...
 Dialogue: 0,0:03:14.95,0:03:15.57,Legenda,,0,0,0,,Hum?
-Dialogue: 0,0:03:15.57,0:03:19.95,Legenda,,0,0,0,,No outro dia, quando você mencionou "uma garota importante para mim,"
+Dialogue: 0,0:03:15.57,0:03:19.95,Legenda,,0,0,0,,No outro dia, quando você mencionou "uma garota importante para mim",
 Dialogue: 0,0:03:19.95,0:03:21.79,Legenda,,0,0,0,,falava da Kuroneko?
 Dialogue: 0,0:03:23.39,0:03:24.74,Legenda,,0,0,0,,Certo, está pronto!
 Dialogue: 0,0:03:24.74,0:03:25.98,Legenda,,0,0,0,,Ai!
@@ -339,7 +339,7 @@ Dialogue: 0,0:19:00.11,0:19:04.31,Legenda,,0,0,0,,Eu fiz um novo jogo, então se
 Dialogue: 0,0:19:06.19,0:19:08.02,Legenda,,0,0,0,,N-Na próxima vez, tudo bem?
 Dialogue: 0,0:19:08.89,0:19:09.72,Legenda,,0,0,0,,Tá.
 Dialogue: 0,0:19:12.49,0:19:13.70,Legenda,,0,0,0,,Eu sabia...
-Dialogue: 0,0:19:18.41,0:19:22.35,Legenda,,0,0,0,,Kousaka-kun, por que você chama a Ruri-nee de "Kuroneko?"
+Dialogue: 0,0:19:18.41,0:19:22.35,Legenda,,0,0,0,,Kousaka-kun, por que você chama a Ruri-nee de "Kuroneko"?
 Dialogue: 0,0:19:22.89,0:19:25.23,Legenda,,0,0,0,,É como ela se chama na internet.
 Dialogue: 0,0:19:25.23,0:19:26.82,Legenda,,0,0,0,,É o apelido dela.
 Dialogue: 0,0:19:26.82,0:19:29.46,Legenda,,0,0,0,,Nos conhecemos em um encontro real, então...
@@ -462,7 +462,7 @@ Dialogue: 1,0:17:51.00,0:17:51.67,Signs,,0,0,0,,{\3c&H002FCD71&\4c&H00000000&\sh
 Dialogue: 0,0:17:51.00,0:17:51.67,Signs,,0,0,0,,{\an2\blur1.5\fnDesignosaur\bord2.25\shad2.25\fs60\c&H45243B&\3c&H45243B&\4c&H3A1E19&\pos(305,650.5)}Miyabi
 Dialogue: 1,0:17:51.00,0:17:51.67,Signs,,0,0,0,,{\3c&H002FCD71&\4c&H00000000&\shad0\fnDesignosaur\an7\blur1.2\bord0\fs67.5\pos(265.5,847.5)\c&H674E4D&}Eu te amo, Onii-chan!
 Dialogue: 0,0:17:51.00,0:17:51.67,Signs,,0,0,0,,{\4c&H00000000&\shad0\fnDesignosaur\an7\bord2.25\blur1.2\fs67.5\pos(265.5,847.5)\c&H47272F&\3c&H47272F&}Eu te amo, Onii-chan!
-Dialogue: 0,0:20:10.18,0:20:12.19,Signs,,0,0,0,,{\q2\an5\3c&H002FCD71&\4c&H00000000&\shad0\fnKG Mullally\bord0\b0\c&H5E5D60&\blur1.65\fs185\move(1320,292.5,645,292.5)}Ver os fogo de artifício com o senpai
+Dialogue: 0,0:20:10.18,0:20:12.19,Signs,,0,0,0,,{\q2\an5\3c&H002FCD71&\4c&H00000000&\shad0\fnKG Mullally\bord0\b0\c&H5E5D60&\blur1.65\fs185\move(1320,292.5,645,292.5)}Ver os fogos de artifício com o senpai
 Dialogue: 0,0:22:02.00,0:22:02.13,Signs,,0,0,0,,{\an5\3c&H002FCD71&\4c&H00000000&\shad0\fnKG Mullally\bord0\b0\c&H4E3C32&\blur1.65\fs52.5\pos(596.001,185.001)\iclip(m 438 117 l 450 261 280.5 295.5)}Terminar com o senpai
 Dialogue: 0,0:22:02.13,0:22:02.50,Signs,,0,0,0,,{\an5\3c&H002FCD71&\4c&H00000000&\shad0\fnKG Mullally\bord0\b0\c&H4E3C32&\blur1.65\fs52.5\pos(596.001,185.001)}Terminar com o senpai
 Dialogue: 0,0:22:02.50,0:22:05.01,Signs,,0,0,0,,{\an5\3c&H002FCD71&\4c&H00000000&\shad0\fnKG Mullally\bord0\b0\c&H4E3C32&\blur1.8\pos(960,315)\fs195}Terminar com o senpai
@@ -482,7 +482,7 @@ Dialogue: 0,0:01:24.99,0:01:28.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:01:28.53,0:01:32.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:01:32.56,0:01:35.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:01:35.83,0:01:39.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:01:39.20,0:01:42.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:01:39.20,0:01:42.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:01:42.75,0:01:48.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:01:48.96,0:01:53.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:00:25.26,0:00:25.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k

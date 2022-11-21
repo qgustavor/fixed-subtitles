@@ -216,7 +216,7 @@ Dialogue: 0,0:04:09.99,0:04:11.96,Legenda,,0,0,0,,Por que está ficando tão bra
 Dialogue: 0,0:04:11.96,0:04:14.00,Legenda,,0,0,0,,É claro que vou ficar brava!
 Dialogue: 0,0:04:14.00,0:04:16.85,Legenda,,0,0,0,,Além disso, tudo isso aconteceu porque você disse,
 Dialogue: 0,0:04:16.85,0:04:19.59,Legenda,,0,0,0,,"Vim correndo do aeroporto para cá, então fiquei suada!"
-Dialogue: 0,0:04:19.84,0:04:23.23,Legenda,,0,0,0,,Mas foi você que sugeriu a gente tomar banho juntas, Kirino-chan.
+Dialogue: 0,0:04:19.84,0:04:23.23,Legenda,,0,0,0,,Mas foi você que sugeriu a gente tomar banho juntas, Kirino.
 Dialogue: 0,0:04:23.23,0:04:25.16,Legenda,,0,0,0,,É-É verdade...
 Dialogue: 0,0:04:25.16,0:04:27.68,Legenda,,0,0,0,,De qualquer forma, coloque logo uma roupa!
 Dialogue: 0,0:04:29.51,0:04:32.52,Legenda,,0,0,0,,Eu disse que sinto muito, Kirino, então me perdoe.
@@ -287,7 +287,7 @@ Dialogue: 0,0:07:45.68,0:07:47.40,Legenda,,0,0,0,,Prazer em conhecê-la.
 Dialogue: 0,0:07:52.90,0:07:56.57,Legenda,,0,0,0,,Delicioso! Você é um gênio na cozinha!
 Dialogue: 0,0:07:56.57,0:07:59.73,Legenda,,0,0,0,,Ora, obrigada. Que fofa!
 Dialogue: 0,0:07:59.73,0:08:02.58,Legenda,,0,0,0,,Você me lembra a Kirino quando ela era pequena.
-Dialogue: 0,0:08:02.58,0:08:06.03,Legenda,,0,0,0,,Hã? Eu nunca fui tão desajeitada.
+Dialogue: 0,0:08:02.58,0:08:06.03,Legenda,,0,0,0,,Hã? Eu nunca fui tão pegajosa.
 Dialogue: 0,0:08:07.41,0:08:09.87,Legenda,,0,0,0,,Vamos, fique parada.
 Dialogue: 0,0:08:11.10,0:08:12.53,Legenda,,0,0,0,,Obrigada, Kirino!
 Dialogue: 0,0:08:12.53,0:08:13.93,Legenda,,0,0,0,,Droga...
@@ -364,7 +364,7 @@ Dialogue: 0,0:11:57.30,0:11:59.88,Legenda,,0,0,0,,Eu preciso reservar os blu-ray
 Dialogue: 0,0:11:59.88,0:12:01.89,Legenda,,0,0,0,,Você já reservou, não?
 Dialogue: 0,0:12:01.89,0:12:04.21,Legenda,,0,0,0,,Qual é o problema de reservar mais?!
 Dialogue: 0,0:12:04.21,0:12:07.43,Legenda,,0,0,0,,O primeiro volume vem com cupons para reservar as entradas para um evento especial!
-Dialogue: 0,0:12:08.71,0:12:11.66,Legenda,,0,0,0,,Ria, ela era assim na América também—
+Dialogue: 0,0:12:08.71,0:12:11.66,Legenda,,0,0,0,,Ria, ela era assim nos EUA também—
 Dialogue: 0,0:12:11.66,0:12:12.96,Legenda,,0,0,0,,Hã? Ela sumiu!
 Dialogue: 0,0:12:21.07,0:12:22.03,Legenda,,0,0,0,,Ria!
 Dialogue: 0,0:12:22.29,0:12:24.40,Legenda,,0,0,0,,Ah, Kyousuke-oniichan!
@@ -863,7 +863,7 @@ Dialogue: 0,0:01:39.99,0:01:43.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:01:43.53,0:01:47.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:01:47.56,0:01:50.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:01:50.83,0:01:54.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:01:54.20,0:01:57.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:01:54.20,0:01:57.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:01:57.75,0:02:03.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:02:03.96,0:02:08.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:00:40.26,0:00:40.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k

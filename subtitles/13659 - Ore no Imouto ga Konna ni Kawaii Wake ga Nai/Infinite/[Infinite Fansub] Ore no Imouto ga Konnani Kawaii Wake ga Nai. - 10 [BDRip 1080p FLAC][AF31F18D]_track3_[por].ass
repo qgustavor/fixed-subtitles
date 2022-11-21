@@ -122,7 +122,7 @@ Dialogue: 0,0:04:52.38,0:04:54.36,Legenda,,0,0,0,,A Kiririn-shi vai estar presen
 Dialogue: 0,0:04:54.73,0:04:57.33,Legenda,,0,0,0,,{\i1}Ela está de mau humor por não conseguir um ingresso.
 Dialogue: 0,0:04:57.33,0:04:59.01,Legenda,,0,0,0,,{\i1}Um artista que ela quer ver estará lá,
 Dialogue: 0,0:04:59.01,0:05:01.38,Legenda,,0,0,0,,{\i1}então ela queria mesmo ir.
-Dialogue: 0,0:05:02.03,0:05:03.33,Legenda,,0,0,0,,{\pos(674.716,819)}Então é isso?
+Dialogue: 0,0:05:02.03,0:05:03.33,Legenda,,0,0,0,,Então é isso?
 Dialogue: 0,0:05:03.38,0:05:06.37,Legenda,,0,0,0,,O local é grande, então isso é uma vergonha.
 Dialogue: 0,0:05:08.13,0:05:10.45,Legenda,,0,0,0,,{\i1}Desculpe, o telefone. Até mais.
 Dialogue: 0,0:05:10.72,0:05:12.46,Legenda,,0,0,0,,{\i1}Sim, cuide-se.
@@ -250,7 +250,7 @@ Dialogue: 0,0:11:35.45,0:11:36.28,Legenda,,0,0,0,,Oh...
 Dialogue: 0,0:11:36.28,0:11:37.74,Legenda,,0,0,0,,"Oh"? Isso é tudo?
 Dialogue: 0,0:11:37.74,0:11:39.91,Legenda,,0,0,0,,Ayase-sama, você não entendeu!
 Dialogue: 0,0:11:40.32,0:11:44.86,Legenda,,0,0,0,,Ayase... você fez a Bridget-chan te chamar de "Ayase-sama"?
-Dialogue: 0,0:11:44.86,0:11:48.15,Legenda,,0,0,0,,N-Não! Não tem motivo...
+Dialogue: 0,0:11:44.86,0:11:48.15,Legenda,,0,0,0,,N-Não! Há um motivo...
 Dialogue: 0,0:11:48.15,0:11:51.50,Legenda,,0,0,0,,Ela me pegou um dia enquanto eu estava "punindo" a Kanako...
 Dialogue: 0,0:11:52.98,0:11:56.94,Legenda,,0,0,0,,Então, Bridget-chan, o que significa que eu não entendi?
 Dialogue: 0,0:11:57.63,0:12:00.06,Legenda,,0,0,0,,Ei, Ayase! Não intimide ela!
@@ -268,7 +268,7 @@ Dialogue: 0,0:12:23.99,0:12:28.53,Legenda,,0,0,0,,Ela esteve animada todo esse t
 Dialogue: 0,0:12:28.53,0:12:30.83,Legenda,,0,0,0,,esperando que pudesse se encontrar com a ClariS.
 Dialogue: 0,0:12:31.34,0:12:32.64,Legenda,,0,0,0,,Mas é idiotice.
 Dialogue: 0,0:12:32.64,0:12:35.86,Legenda,,0,0,0,,Eu canto melhor que a ClariS.
-Dialogue: 0,0:12:35.86,0:12:39.40,Legenda,,0,0,0,,Kanakana-chan! Você não pode falar mal da Claris!
+Dialogue: 0,0:12:35.86,0:12:39.40,Legenda,,0,0,0,,Kanakana-chan! Você não pode falar mal da ClariS!
 Dialogue: 0,0:12:40.76,0:12:42.90,Legenda,,0,0,0,,Kyousuke, outro!
 Dialogue: 0,0:12:42.90,0:12:44.46,Legenda,,0,0,0,,Mas acabei de te servir.
 Dialogue: 0,0:12:44.46,0:12:47.68,Legenda,,0,0,0,,Está morno! Eu quero um quente!
@@ -429,7 +429,7 @@ Dialogue: 0,0:21:46.72,0:21:47.36,Legenda,,0,0,0,,Sim?
 Dialogue: 0,0:21:48.37,0:21:49.53,Legenda,,0,0,0,,Obrigada.
 Dialogue: 0,0:21:50.45,0:21:51.53,Legenda,,0,0,0,,O que foi isso?
 Dialogue: 0,0:21:53.50,0:21:54.94,Legenda,,0,0,0,,Nada!
-Dialogue: 2,0:00:28.22,0:00:31.55,Dialog,,0,0,0,,Vejam! Meus maiores poderes!
+Dialogue: 2,0:00:28.22,0:00:31.55,Legenda,,0,0,0,,Vejam! Meus maiores poderes!
 Dialogue: 0,0:23:35.94,0:23:39.44,Legenda,,0,0,0,,Irmãs não podem invadir a casa de seus irmãos que moram sozinhos
 Dialogue: 0,0:01:57.26,0:01:59.51,Signs,,0,0,0,,{\fad(800,0)\fnEraserDust\c&H25B869&\fs108\pos(998.3,98.4)}Minha irmãzinha não pode usar um {\alphaff}vestido de noiva{\alpha0}!
 Dialogue: 0,0:01:56.63,0:01:59.55,Signs,,0,0,0,,{\fad(360,0)\fnEraserDust\c&H3E35C2&\fs108\t(600,1400,\c&H24B967&)\pos(1558,100)} vestido de noiva
@@ -475,7 +475,7 @@ Dialogue: 0,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\fnDosis\fs75\3c&H00000000&\4c&
 Dialogue: 0,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\fnDosis\fs75\3c&H00000000&\4c&H00000000&\bord0\shad0\pos(0,0)\an7\p1\c&HDDDDDE&\blur1.5}m 712.5 745.5 l 712.5 789 748.5 808.5 762 780 810 778.5 813 804 846 790.5 846 754.5 834 721.5 799.5 712.5 745.5 709.5
 Dialogue: 0,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\fnDosis\fs75\3c&H00000000&\4c&H00000000&\bord0\shad0\pos(0,0)\an7\p1\c&HDBD8E0&\blur1.5}m 235.5 877.5 l 294 852 408 858 412.5 909 385.5 915 276 918 b 267 918 249 912 244.5 906
 Dialogue: 1,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fs39\fsp1.5\fnKG Seven Sixteen\b0\c&H8787A8&\blur0.9\pos(1482.513,551.476)}Comi  ket
-Dialogue: 1,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fs42\fsp1.5\fnKG Seven Sixteen\b1\c&H5D6264&\blur0.9\pos(1604.145,511.429)}Atividades \Ndo Circulo
+Dialogue: 1,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fs42\fsp1.5\fnKG Seven Sixteen\b1\c&H5D6264&\blur0.9\pos(1604.145,511.429)}Atividades \Ndo Grupo
 Dialogue: 1,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\3c&H00000000&\4c&H00000000&\bord0\shad0\fs42\fsp0.75\fnKG Seven Sixteen\b1\c&H5D6264&\blur0.9\an1\pos(217.864,648.008)}c/ Kuroneko e clube
 Dialogue: 1,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\3c&H00000000&\4c&H00000000&\bord0\shad0\fs42\fsp0.75\fnKG Seven Sixteen\b1\c&H5D6264&\blur0.9\an1\pos(227.197,681.34)}de Desen. de jogos
 Dialogue: 1,0:05:42.15,0:05:49.91,Signs,,0,0,0,,{\an5\3c&H00000000&\4c&H00000000&\bord0\shad0\fs37.5\fnKG Seven Sixteen\b1\c&H5D6264&\blur0.9\pos(529.5,617)}Escola\N (Clube desen. de jogos)
@@ -1319,7 +1319,7 @@ Dialogue: 0,0:23:05.99,0:23:09.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:23:09.53,0:23:13.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:23:13.56,0:23:16.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:23:16.83,0:23:20.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:23:20.20,0:23:23.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:23:20.20,0:23:23.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:23:23.75,0:23:29.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:23:29.96,0:23:34.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:22:06.26,0:22:06.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k

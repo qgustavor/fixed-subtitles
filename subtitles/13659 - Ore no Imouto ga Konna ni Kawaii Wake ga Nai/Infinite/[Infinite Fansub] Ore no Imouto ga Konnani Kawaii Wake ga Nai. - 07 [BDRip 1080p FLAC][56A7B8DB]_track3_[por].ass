@@ -285,7 +285,7 @@ Dialogue: 0,0:14:29.88,0:14:31.37,Legenda,,0,0,0,,N-Não!
 Dialogue: 0,0:14:31.37,0:14:34.79,Legenda,,0,0,0,,E-Enfim, pare de bater na parede, entendeu?
 Dialogue: 0,0:14:37.13,0:14:39.67,Legenda,,0,0,0,,Eu queria que amanhã chegasse logo.
 Dialogue: 0,0:14:42.97,0:14:44.21,Legenda,,0,0,0,,Droga...
-Dialogue: 0,0:14:44.21,0:14:47.93,Legenda,,0,0,0,,Eu fiquei acordado a noite toda, mas não estou nem um pouco cansado!
+Dialogue: 0,0:14:44.21,0:14:47.93,Legenda,,0,0,0,,Eu fiquei acordado a noite toda, não consegui dormir nada!
 Dialogue: 0,0:14:47.93,0:14:51.93,Legenda,,0,0,0,,Então esta é a emoção de um cara do ensino médio que acabou de conseguir uma namorada!
 Dialogue: 0,0:14:52.76,0:14:54.15,Legenda,,0,0,0,,Será que eu ligo para ela?
 Dialogue: 0,0:14:55.04,0:14:57.56,Legenda,,0,0,0,,Ela pode estar pensando na mesma coisa...
@@ -363,7 +363,7 @@ Dialogue: 0,0:18:10.63,0:18:12.95,Legenda,,0,0,0,,N-Não, não é isso...
 Dialogue: 0,0:18:12.95,0:18:17.10,Legenda,,0,0,0,,É que nós começamos a namorar ontem...
 Dialogue: 0,0:18:20.77,0:18:25.44,Legenda,,0,0,0,,Kousaka-senpai, está falando sério que você não estava namorando a Gokou-san antes?!
 Dialogue: 0,0:18:25.44,0:18:27.78,Legenda,,0,0,0,,V-Vocês dois acabaram de começar a namorar?!
-Dialogue: 0,0:18:27.78,0:18:30.69,Legenda,,0,0,0,,Kyousuke-kun! Quer dizer que você não estava namorando a sua irmã?zinha!
+Dialogue: 0,0:18:27.78,0:18:30.69,Legenda,,0,0,0,,Kyousuke-kun! Quer dizer que você não estava namorando a sua irmãzinha!
 Dialogue: 0,0:18:30.69,0:18:32.35,Legenda,,0,0,0,,Mikagami!
 Dialogue: 0,0:18:32.35,0:18:35.52,Legenda,,0,0,0,,Você achou que eu estava preocupado sobre querer apertar os peitos da minha irmãzinha!
 Dialogue: 0,0:18:35.52,0:18:36.59,Legenda,,0,0,0,,Vou te matar!
@@ -425,7 +425,7 @@ Dialogue: 0,0:21:15.64,0:21:19.61,Legenda,,0,0,0,,Viu? Eu estava pensando mais e
 Dialogue: 0,0:21:20.15,0:21:23.08,Legenda,,0,0,0,,Sim. Estou feliz. É sério.
 Dialogue: 0,0:21:23.08,0:21:24.62,Legenda,,0,0,0,,E-Está?
 Dialogue: 0,0:21:24.94,0:21:27.10,Legenda,,0,0,0,,No entanto, isso deixa as coisas mais fáceis.
-Dialogue: 0,0:21:27.60,0:21:29.50,Legenda,,0,0,0,,Em outras palavra, o que está escrito no caderno
+Dialogue: 0,0:21:27.60,0:21:29.50,Legenda,,0,0,0,,Em outras palavras, o que está escrito no caderno
 Dialogue: 0,0:21:29.50,0:21:32.13,Legenda,,0,0,0,,são todas as coisas que você quer que façamos juntos, certo?
 Dialogue: 0,0:21:32.49,0:21:33.77,Legenda,,0,0,0,,Isso mesmo.
 Dialogue: 0,0:21:33.77,0:21:35.88,Legenda,,0,0,0,,Então, vamos fazê-las!
@@ -475,7 +475,7 @@ Dialogue: 0,0:01:46.99,0:01:50.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:01:50.53,0:01:54.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:01:54.56,0:01:57.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:01:57.83,0:02:01.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:02:01.20,0:02:04.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:02:01.20,0:02:04.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:02:04.75,0:02:10.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:02:10.96,0:02:15.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:00:47.26,0:00:47.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k

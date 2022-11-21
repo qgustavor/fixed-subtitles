@@ -154,7 +154,7 @@ Dialogue: 0,0:08:57.54,0:09:00.32,Legenda,,0,0,0,,Quero ir ver a competição de
 Dialogue: 0,0:09:00.91,0:09:03.29,Legenda,,0,0,0,,Entendo. Acho que não tem jeito.
 Dialogue: 0,0:09:04.51,0:09:09.87,Legenda,,0,0,0,,Ah, a propósito, eu fiquei em primeiro lugar na corrida do outro dia!
 Dialogue: 0,0:09:12.57,0:09:15.64,Legenda,,0,0,0,,Eu sempre era o primeiro quando eu estava no primário.
-Dialogue: 0,0:09:16.22,0:09:19.64,Legenda,,0,0,0,,Eu sei. Você era incrível, Aniki.
+Dialogue: 0,0:09:16.22,0:09:19.64,Legenda,,0,0,0,,Eu sei. Você era incrível, aniki.
 Dialogue: 0,0:09:21.03,0:09:22.10,Legenda,,0,0,0,,É mesmo.
 Dialogue: 0,0:09:23.03,0:09:25.45,Legenda,,0,0,0,,Por que não entrou para o clube de atletismo?
 Dialogue: 0,0:09:26.91,0:09:29.99,Legenda,,0,0,0,,Ai! P-Por que você me bateu?
@@ -250,12 +250,12 @@ Dialogue: 0,0:14:58.18,0:15:02.53,Legenda,,0,0,0,,{\i1}É nojento uma irmã se a
 Dialogue: 0,0:15:04.61,0:15:09.36,Legenda,,0,0,0,,{\i1}Eu sabia que tinha me esforçado nos esportes, nos estudos, em ser modelo e todo o resto,
 Dialogue: 0,0:15:09.79,0:15:12.79,Legenda,,0,0,0,,{\i1}mas percebi que não foi o suficiente.
 Dialogue: 0,0:15:14.52,0:15:17.19,Legenda,,0,0,0,,{\i1}Foi quando me deparei com eroge.
-Dialogue: 0,0:15:23.01,0:15:24.89,Dialog,,0,0,0,,O quê?
+Dialogue: 0,0:15:23.01,0:15:24.89,Legenda,,0,0,0,,O quê?
 Dialogue: 0,0:15:24.90,0:15:26.34,Legenda,,0,0,0,,{\i1}Onii-chan, eu te amo!
 Dialogue: 0,0:15:26.66,0:15:28.28,Legenda,,0,0,0,,{\i1}Onii-chan, eu te amo!
 Dialogue: 0,0:15:27.11,0:15:29.22,Legenda,,0,0,0,,{\a6}Que diabos é isso?!
 Dialogue: 0,0:15:28.45,0:15:29.96,Legenda,,0,0,0,,{\i1}Onii-chan, eu te amo!{\i0}
-Dialogue: 0,0:15:30.15,0:15:33.28,Legenda,,0,0,0,,{\i1}Onii-chan, eu te amo! onii-chan, eu te amo!{\i0}
+Dialogue: 0,0:15:30.15,0:15:33.28,Legenda,,0,0,0,,{\i1}Onii-chan, eu te amo! Onii-chan, eu te amo!{\i0}
 Dialogue: 0,0:15:32.31,0:15:33.72,Legenda,,0,0,0,,{\a6}Desculpa pela demora, Kirino.
 Dialogue: 0,0:15:35.01,0:15:36.72,Legenda,,0,0,0,,O-O que foi?
 Dialogue: 0,0:15:36.72,0:15:40.37,Legenda,,0,0,0,,Não me chame tão de repente. Você me assustou!
@@ -660,7 +660,7 @@ Dialogue: 0,0:01:34.99,0:01:38.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:01:38.53,0:01:42.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:01:42.56,0:01:45.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:01:45.83,0:01:49.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:01:49.20,0:01:52.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:01:49.20,0:01:52.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:01:52.75,0:01:58.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:01:58.96,0:02:03.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:00:35.26,0:00:35.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k

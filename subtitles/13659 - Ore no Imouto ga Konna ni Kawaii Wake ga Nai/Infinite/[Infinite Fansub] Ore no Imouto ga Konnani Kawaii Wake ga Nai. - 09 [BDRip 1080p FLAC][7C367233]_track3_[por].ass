@@ -141,7 +141,7 @@ Dialogue: 0,0:08:05.09,0:08:07.35,Legenda,,0,0,0,,"Escuridão branca" é o caram
 Dialogue: 0,0:08:07.35,0:08:08.70,Legenda,,0,0,0,,São só fontes termais!
 Dialogue: 0,0:08:08.70,0:08:10.69,Legenda,,0,0,0,,Então... o que faremos agora?
 Dialogue: 0,0:08:11.09,0:08:13.87,Legenda,,0,0,0,,O que aconteceu com a iniciativa que
-Dialogue: 0,0:08:13.87,0:08:16.31,Legenda,,0,0,0,, te levou a América me buscar?
+Dialogue: 0,0:08:13.87,0:08:16.31,Legenda,,0,0,0,, te levou os EUA me buscar?
 Dialogue: 0,0:08:16.31,0:08:18.29,Legenda,,0,0,0,,Você manda ver quando alguém está em problemas,
 Dialogue: 0,0:08:18.29,0:08:21.10,Legenda,,0,0,0,,mas é completamente inútil quando quem precisa de ajuda é você.
 Dialogue: 0,0:08:21.72,0:08:23.09,Legenda,,0,0,0,,Pode ser.
@@ -915,7 +915,7 @@ Dialogue: 0,0:01:31.99,0:01:35.53,OP PTBR,,0,0,0,,{\fad(200,200)}E nós podemos 
 Dialogue: 0,0:01:35.53,0:01:39.56,OP PTBR,,0,0,0,,{\fad(200,200)}Embora este presente seja doloroso, vamos continuar
 Dialogue: 0,0:01:39.56,0:01:42.83,OP PTBR,,0,0,0,,{\fad(200,200)}E começar mais uma vez
 Dialogue: 0,0:01:42.83,0:01:46.20,OP PTBR,,0,0,0,,{\fad(200,200)}Eu vou falar com você mais uma vez
-Dialogue: 0,0:01:46.20,0:01:49.75,OP PTBR,,0,0,0,,{\fad(200,200)}Você pode se encontrar comigo de novo
+Dialogue: 0,0:01:46.20,0:01:49.75,OP PTBR,,0,0,0,,{\fad(200,200)}Vamos rir juntos de novo
 Dialogue: 0,0:01:49.75,0:01:55.96,OP PTBR,,0,0,0,,{\fad(200,200)}Nós vamos fazer este botão de flor florescer amanhã
 Dialogue: 0,0:01:55.96,0:02:00.12,OP PTBR,,0,0,0,,{\fad(200,200)}Deixe-me estar perto de você
 Dialogue: 1,0:00:32.26,0:00:32.74,OP Romaji,,0,0,0,fx,{\an5\move(556,71,476,71,0,400)\blur0\bord2\3c&FFFFFFF&\c&H1AC98C&\shad0}k
@@ -1708,7 +1708,7 @@ Dialogue: 0,0:25:38.12,0:25:43.66,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bor
 Dialogue: 0,0:25:43.78,0:25:49.10,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}Quanto mais tempo que passo sozinha, deixando meus sentimentos de amor se agitarem dentro de mim,
 Dialogue: 0,0:25:49.42,0:25:54.39,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}Eu soltei minha raiva para escapar deste mundo que está enfraquecendo.
 Dialogue: 1,0:25:54.18,0:26:00.03,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}Eu deixei meu coração, uma vez congelado, queimar continuamente.
-Dialogue: 2,0:25:59.84,0:26:05.51,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}Eu quero pegar a bola e ir mais longe
+Dialogue: 2,0:25:59.84,0:26:05.51,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}Eu quero ir além da linha de chegada
 Dialogue: 3,0:26:05.46,0:26:09.14,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}do que qualquer outra pessoa.
 Dialogue: 0,0:26:09.19,0:26:14.72,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}Pelas palavras, "isto é simplesmente normal,"
 Dialogue: 0,0:26:14.85,0:26:20.15,ED PTBR,,0,0,0,,{\fad(120,120)\3c&H7DA8E3&\bord2\shad0\blur5}Eu começo a questionar onde o meu coração realmente está.
