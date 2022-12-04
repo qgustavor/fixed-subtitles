@@ -131,7 +131,7 @@ Dialogue: 10,0:07:10.94,0:07:14.60,Default,,0,0,0,,Você pode usar o Oni Kubi Hi
 Dialogue: 10,0:07:14.60,0:07:16.38,Default,,0,0,0,,Se você conseguir chegar perto, é claro.
 Dialogue: 10,0:07:16.66,0:07:21.73,Default,,0,0,0,,Nós sempre escolheremos Pyron contra você.
 Dialogue: 10,0:07:22.02,0:07:25.02,Default,,0,0,0,,Até você ficar cansado de lutar contra ele.
-Dialogue: 10,0:07:25.02,0:07:27.12,Default,,0,0,0,,Por que você estão me bulinando?
+Dialogue: 10,0:07:25.02,0:07:27.12,Default,,0,0,0,,Por que vocês estão me bulinando?
 Dialogue: 10,0:07:27.12,0:07:31.62,Default,,0,0,0,,Você cometeu um pecado... \NO pecado de apagar a luz no coração da nossa Hidaka-shi.
 Dialogue: 10,0:07:31.62,0:07:34.62,Default,,0,0,0,,Aceite a punição virtual dos seus pecados.
 Dialogue: 10,0:07:34.62,0:07:40.36,Default,,0,0,0,,Vocês são o Grupo Mizonokuchi liderados pela Nikotama Felicia, não é?
@@ -416,7 +416,7 @@ Dialogue: 10,0:21:38.06,0:21:39.69,Default,,0,0,0,,Tem algum peixe-lua?
 Dialogue: 10,0:21:39.70,0:21:40.80,Default,,0,0,0,,Ah, sim...
 Dialogue: 10,0:21:40.81,0:21:41.93,Default,,0,0,0,,Eu quero ver.
 Dialogue: 10,0:21:47.06,0:21:49.89,Default,,0,0,0,,O Yaguchi-kun é o primeiro jogador do Esquadrão Shibuya?
-Dialogue: 0,0:10:06.31,0:10:10.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro UB\fscx105\fscy150\fsp1.5\blur0.6\c&HE5E5E5&\3c&H020001&\bord5\pos(961.334,817.333)}SHIBUYA
+Dialogue: 0,0:10:06.31,0:10:10.02,Signs,,0,0,0,,{\fnFOT-Rodin Pro UB\fscx105\fscy150\fsp1.5\blur0.6\c&HE5E5E5&\3c&H020001&\bord5\pos(961.334,817.333)\shad3\4a&H00&}SHIBUYA
 Dialogue: 0,0:15:14.08,0:15:23.28,Signs,,0,0,0,,{\an5\bord0\shad0\blur1\p1\fscx210\fscy100\frz2.071\c&H16DDFF&\pos(584,592)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:15:14.08,0:15:23.28,Signs,,0,0,0,,{\fnJSL Ancient\fs80\fsp1\blur0.6\c&H1E353C&\frz2.071\pos(584,601.333)}Shibuya
 Dialogue: 0,0:15:14.08,0:15:14.10,Signs,,0,0,0,,{=1}{\1a&H00&\3a&H00&\4a&HBF&\an5\bord0\shad0\blur1\p1\fscx160\fscy100\frz12.66\pos(1213.33,478.67)\c&H16DDFF&\clip(m 1126 50 l 1126 63 1124 85 1124 101 1124 121 1124 138 1124 156 1125 177 1129 194 1430 219 1261 399 1272 427 1278 444 1284 465 1284 488 1275 502 1263 516 1244 527 1231 537 1227 557 1237 588 1497 893 930 1003 902 230 900 57)}m 0 0 l 100 0 100 100 0 100
@@ -2723,6 +2723,19 @@ Dialogue: 0,0:23:20.87,0:23:21.78,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HF
 Dialogue: 0,0:23:20.87,0:23:21.78,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1262,87,562,430,0,15000)\t(0,10000,\fry-2860)}p
 Dialogue: 0,0:23:20.87,0:23:21.78,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1299,87,599,-305,0,15000)\t(0,10000,\fry1352)}u
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:08:56.74,0:08:57.36,Default,,0,0,0,TS - Joy Meter,{\an1\pos(365,900)\fnFOT-Rodin Pro UB\fscx156\fscy156\bord6\shad8\c&H5AE3FA&\3c&HFDFCFC&\4c&H222424&\alpha&H00&}ALEGRIA
+Dialogue: 0,0:08:57.36,0:08:58.03,Default,,0,0,0,TS - Joy Meter,{\fnFOT-Rodin Pro UB\fscx187\fscy187\bord7\shad8\c&H31BEDE&\3c&HFDFCFC&\4c&H222424&\alpha&H00&\an1\pos(350,860)}ALEGRIA
+Dialogue: 0,0:08:58.03,0:08:58.70,Default,,0,0,0,TS - Joy Meter,{\fnFOT-Rodin Pro UB\fscx224\fscy224\bord8\shad8\c&H387CE1&\3c&HFDFCFC&\4c&H222424&\alpha&H00&\an1\pos(320,845)}ALEGRIA
+Dialogue: 0,0:08:58.70,0:08:59.37,Default,,0,0,0,TS - Joy Meter,{\fnFOT-Rodin Pro UB\fscx269\fscy269\bord8\shad8\c&H0700AE&\3c&H02002A&\4c&H070710&\alpha&H00&\an1\pos(270,800)}ALEGRIA
+Dialogue: 0,0:08:59.37,0:09:00.20,Default,,0,0,0,TS - Joy Meter,{\fnFOT-Rodin Pro UB\fscx300\fscy323\bord8\shad8\c&HEAEAEA&\3c&H02002A&\4c&H070710&\alpha&H00&\t(270,270,\c&H1B5DD8&)\t(520,520,\c&H0700B7&)\t(770,770,\c&HEAEAEA&)\an1\pos(155,755)}ALEGRIA
+Dialogue: 0,0:09:03.49,0:09:06.33,Default,,0,0,0,TS - Joy Meter,{\fnFOT-Rodin Pro UB\fscx300\fscy323\bord8\shad8\c&HEAEAEA&\3c&H02002A&\4c&H070710&\alpha&H00&\t(237,237,\c&H1B5DD8&)\t(487,487,\c&H0B00B2&)\t(738,738,\c&HEAEAEA&)\t(988,988,\c&H1B5DD8&)\t(1238,1238,\c&H0B00B2&)\t(1488,1488,\c&HEAEAEA&)\t(1739,1739,\c&H1B5DD8&)\t(1989,1989,\c&H0B00B2&)\t(2239,2239,\c&HEAEAEA&)\t(2489,2489,\c&H1B5DD8&)\t(2740,2740,\c&H0B00B2&)\an1\pos(155,755)}ALEGRIA
+Dialogue: 0,0:23:25.87,0:23:29.16,Default,,0,0,0,,Uma batalha entre duas equipes\Ncomeça no Centro Shibuya-Gai!
+Dialogue: 0,0:23:29.16,0:23:31.01,Default,,0,0,0,,Mas não se trata apenas de pontapés e socos.
+Dialogue: 0,0:23:31.01,0:23:32.83,Default,,0,0,0,,Eles até mesmo sacam as armas!
+Dialogue: 0,0:23:32.83,0:23:33.68,Default,,0,0,0,,Quê?
+Dialogue: 0,0:23:33.68,0:23:35.70,Default,,0,0,0,,Um skate e uma guitarra elétrica?!
+Dialogue: 0,0:23:35.70,0:23:37.40,Default,,0,0,0,,Isso são más notícias!\N{\i1}Péssimas{\i0} notícias!
+Dialogue: 0,0:23:37.40,0:23:39.98,Default,,0,0,0,,Preciso me preparar\Npara a farra também!
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Episódio
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TS
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,OP

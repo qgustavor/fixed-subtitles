@@ -116,7 +116,7 @@ Dialogue: 10,0:06:06.77,0:06:11.21,Default,,0,0,0,,Normalmente eu não me import
 Dialogue: 10,0:06:11.21,0:06:14.32,Default,,0,0,0,,E mesmo assim, ela tirou do meu corpo e queimou!
 Dialogue: 10,0:06:15.02,0:06:18.86,Italics,,0,0,0,,Pare aí mesmo!
 Dialogue: 10,0:06:19.20,0:06:23.28,Default,,0,0,0,,Não imaginava que Shibuya era um lugar tão encantador.
-Dialogue: 10,0:06:23.30,0:06:26.84,Default,,0,0,0,,Acho que entendo porque o Haruo-kun gasta tanto tempo lá.
+Dialogue: 10,0:06:23.30,0:06:26.84,Default,,0,0,0,,Acho que entendo por que o Haruo-kun gasta tanto tempo lá.
 Dialogue: 10,0:06:27.34,0:06:31.06,Default,,0,0,0,,Ele disse que se sentiu excluído pelos amigos...
 Dialogue: 10,0:06:31.06,0:06:34.55,Default,,0,0,0,,E quando se deu conta tinha tornado Shibuya sua casa.
 Dialogue: 10,0:06:35.01,0:06:39.80,Default,,0,0,0,,Apesar de continuar indo para os fliperamas, parece que vocês apenas não se encontraram.
@@ -1842,6 +1842,11 @@ Dialogue: 0,0:23:21.23,0:23:22.15,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HF
 Dialogue: 0,0:23:21.23,0:23:22.15,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1262,87,562,430,0,15000)\t(0,10000,\fry-2860)}p
 Dialogue: 0,0:23:21.23,0:23:22.15,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1299,87,599,-305,0,15000)\t(0,10000,\fry1352)}u
 Dialogue: 0,0:23:53.46,0:23:55.46,Default,,0,0,0,,
+Dialogue: 0,0:11:07.93,0:11:11.35,Default,,0,0,0,TS - Hidaka Victory,{\an9\fad(861,0)\q2\fnGranstander Clean\shad0\fscx62\fscy65\bord3\alpha&H00&\blur1\c&H1B1B1B&\3c&HE6E7E9&\frz60.03\pos(283.2,41)}Time \NMizonokuchi
+Dialogue: 0,0:11:07.93,0:11:11.35,Default,,0,0,0,TS - Hidaka Victory,{\an9\fad(861,0)\q2\fnGranstander Clean\shad0\fscx62\fscy65\bord3\alpha&H00&\blur1\c&H1B1B1B&\3c&HE6E7E9&\frz60.03\pos(882.2,392)}Time \NShibuya
+Dialogue: 0,0:11:07.93,0:11:11.35,Default,,0,0,0,TS - Hidaka Victory,{\an9\fad(861,0)\q2\fnGranstander Clean\shad0\fscx150\fscy190\bord5\alpha&H00&\blur1\c&H1B1B1B&\3c&HE6E7E9&\pos(1638,22)}Hidaka Koharu
+Dialogue: 0,0:11:07.93,0:11:11.35,Default,,0,0,0,TS - Hidaka Victory,{\an9\fad(861,0)\q2\fnGranstander Clean\shad0\fscx150\fscy190\bord5\alpha&H00&\blur1\c&H1B1B1B&\3c&HE6E7E9&\pos(1638,22)}Hidaka Koharu
+Dialogue: 0,0:11:08.52,0:11:11.35,Default,,0,0,0,TS - Hidaka Victory,{\q2\fs45\fnGranstander Clean\shad0\fscx440\fscy440\bord10\alpha&H00&\blur1\c&H1B1B1B&\3c&HE6E7E9&\t(0,229,1,\bord5\fscx280\fscy280)\t(230,230,\bord6\fscx308\fscy308)\t(312,312,\bord5\fscx290\fscy290)\t(354,354,\bord6\fscx312\fscy312)\t(396,396,\bord5\fscx281\fscy281)\t(437,437,\bord6\fscx300\fscy300)\t(479,479,\bord5\fscx281\fscy281)\t(521,521,\bord6\fscx295\fscy295)\t(562,562,\bord5\fscx280\fscy280)\t(604,604,\bord6\fscx295\fscy295)\t(646,646,\bord5\fscx285\fscy285)\t(687,687,\bord6\fscx290\fscy290)\t(729,729,\bord5\fscx285\fscy285)\t(771,771,\bord6\fscx290\fscy290)\t(813,813,\bord5\fscx285\fscy285)\t(854,854,\bord5\fscx287\fscy287)\t(896,896,\bord5\fscx285\fscy285)\pos(1052.8,731.6)}10 VITÓRIAS
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Diálogos
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TS
 Comment: 0,0:00:00.00,0:00:00.10,Default,,0,0,0,,Pré-ED

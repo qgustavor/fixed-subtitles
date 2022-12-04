@@ -1703,6 +1703,11 @@ Dialogue: 0,0:23:20.88,0:23:21.76,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HF
 Dialogue: 0,0:23:20.88,0:23:21.76,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1262,87,562,430,0,15000)\t(0,10000,\fry-2860)}p
 Dialogue: 0,0:23:20.88,0:23:21.76,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1299,87,599,-305,0,15000)\t(0,10000,\fry1352)}u
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:23:25.44,0:23:27.71,Default,,0,0,0,,O dano de apenas um soco é fatal!
+Dialogue: 0,0:23:27.71,0:23:29.40,Default,,0,0,0,,Quando ninguém poder fazer um movimento...
+Dialogue: 0,0:23:29.40,0:23:32.18,Default,,0,0,0,,A tensão que cresce\Nnaquele momento é insana!
+Dialogue: 0,0:23:32.18,0:23:35.24,Default,,0,0,0,,Você só tem um instante para ler\No seu oponente e escolher a melhor resposta...
+Dialogue: 0,0:23:35.24,0:23:39.98,Default,,0,0,0,,Mas se você não escolhe direito\Ntudo o que te sobra é a derrota!
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Episódio
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TS
 Comment: 0,0:01:09.70,0:01:09.70,Default,,0,0,0,,OP

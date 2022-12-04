@@ -361,10 +361,10 @@ Dialogue: 10,0:21:41.94,0:21:45.54,Default,,0,0,0,,Eu quero ter uma partida a s�
 Dialogue: 10,0:23:25.86,0:23:31.73,Default,,0,0,0,,Jogar uma partida com um personagem que você sabe que tem desvantagem te deixa um pouco nervoso, não é?
 Dialogue: 10,0:23:31.74,0:23:35.73,Default,,0,0,0,,Pelo contrário, quando é um personagem com o qual você sempre vence, te dá mais confiança.
 Dialogue: 10,0:23:36.21,0:23:39.38,Default,,0,0,0,,Nesse momento, um milagre pode acontecer.
-Dialogue: 1,0:02:19.02,0:02:22.30,Signs,,0,0,0,,{\fad(0,400)\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&HE8E6E7&\bord\pos(980.334,801.333)}Abril de 1996
-Dialogue: 0,0:02:19.02,0:02:22.30,Signs,,0,0,0,,{\fad(0,400)\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&H000000&\3c&H020001&\bord5\pos(983.334,804.333)}Abril de 1996
-Dialogue: 1,0:02:42.65,0:02:46.45,Signs,,0,0,0,,{\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&HE7E6E7&\bord\pos(980.334,801.333)}4 de Abril de 1996
-Dialogue: 0,0:02:42.65,0:02:46.45,Signs,,0,0,0,,{\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&H000000&\3c&H020001&\bord5\pos(982.334,803.333)}4 de Abril de 1996
+Dialogue: 1,0:02:19.02,0:02:22.30,Signs,,0,0,0,,{\fad(0,400)\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&HE8E6E7&\bord\pos(980.334,801.333)}abril de 1996
+Dialogue: 0,0:02:19.02,0:02:22.30,Signs,,0,0,0,,{\fad(0,400)\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&H000000&\3c&H020001&\bord5\pos(983.334,804.333)}abril de 1996
+Dialogue: 1,0:02:42.65,0:02:46.45,Signs,,0,0,0,,{\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&HE7E6E7&\bord\pos(980.334,801.333)}4 de abril de 1996
+Dialogue: 0,0:02:42.65,0:02:46.45,Signs,,0,0,0,,{\fnFOT-Rodin Pro UB\fscx170\fscy170\fsp1\blur0.6\c&H000000&\3c&H020001&\bord5\pos(982.334,803.333)}4 de abril de 1996
 Dialogue: 0,0:01:12.41,0:01:14.91,OP-Letra,,0,0,0,,Várias vezes,
 Dialogue: 0,0:01:14.91,0:01:21.79,OP-Letra,,0,0,0,,eu me lembro dos dias contínuos de batalhas.
 Dialogue: 0,0:01:22.37,0:01:26.69,OP-Letra,,0,0,0,,Em um lugar só meu e da minha felicidade,
@@ -1777,6 +1777,10 @@ Dialogue: 0,0:23:20.86,0:23:21.78,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HF
 Dialogue: 0,0:23:20.86,0:23:21.78,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1262,87,562,430,0,15000)\t(0,10000,\fry-2860)}p
 Dialogue: 0,0:23:20.86,0:23:21.78,ED-romaji,,0,0,0,fx,{\fad(0,50)\an5\blur0\c&HFFFFFF&\move(1299,87,599,-305,0,15000)\t(0,10000,\fry1352)}u
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:13:55.44,0:13:56.90,Default,,0,0,0,TS - Back to Your Roots,{\q2\blur0\fnFOT-Rodin Pro UB\b1\bord25\shad0\c&HFAF8F7&\move(960,1135,960,735,0,151)\3c&H3F3830&\fscx700\fscy700\alpha&HD0&\t(0,151,1,\alpha&H00&\bord10\fscx220\fscy220)}De Volta às Raízes
+Dialogue: 0,0:13:55.44,0:13:56.90,Default,,0,0,0,TS - Back to Your Roots,{\q2\blur0\fnFOT-Rodin Pro UB\b1\bord25\shad0\c&HFAF8F7&\move(960,1135,960,735,0,151)\3c&H3F3830&\fscx700\fscy700\alpha&HD0&\t(0,151,1,\alpha&H00&\bord10\fscx220\fscy220)\t(151,276,\3c&HF3D89C&\bord8\blur7)\t(442,618,\bord0\blur0)}De Volta às Raízes
+Dialogue: 0,0:17:03.04,0:17:05.46,Default,,0,0,0,TS - Hidaka Store Sign (Large) 2,{\an7\pos(0,0)\c&HF8F9F6&\p1\bord0\shad0\alpha&H00&}m 1194.15 389.07 b 1193.59 432.77 1193.05 475.68 1192.51 518.7 1044.98 509.63 898.09 500.61 750.36 491.53 752.35 486.75 754.26 481.37 756.79 476.29 772.02 445.67 787.48 415.17 802.61 384.5 804.4 380.87 806.39 379.9 810.2 379.99 888.3 381.97 966.41 383.82 1044.52 385.69 1092.31 386.83 1140.11 387.95 1187.91 389.06 1189.71 389.11 1191.51 389.07 1194.15 389.07 m 530.81 477.94 b 530.81 442.6 530.81 407.51 530.81 371.52 617.01 373.89 703.32 376.26 790.97 378.67 789.19 384.84 788.35 390.12 786.18 394.78 782.43 402.83 776.54 409.57 774.11 418.62 772.2 425.73 766.53 431.74 763.28 438.6 757.46 450.84 752.35 463.41 746.67 475.71 744.45 480.52 741.69 485.11 738.76 489.52 738.05 490.59 735.66 491.08 734.1 490.97 714.67 489.62 695.25 487.95 675.82 486.69 649.23 484.96 622.62 483.46 596.02 481.94 575.9 480.79 555.77 479.77 535.65 478.66 534.2 478.58 532.76 478.24 530.81 477.94{\p0}
+Dialogue: 0,0:17:03.04,0:17:05.46,Default,,0,0,0,TS - Hidaka Store Sign (Large) 2,{\an1\blur0\fnFOT-Rodin Pro UB\fscx99\fscy117\b1\bord2\shad0\c&H888E73&\3c&HB7BFA9&\frz-2.56\alpha&H00&\fax0.08\clip(m 1194 389 b 1193 432 1193 475 1192 518 1044 509 898 500 750 491 752 486 754 481 756 476 772 445 784 413 802 384 804 380 806 379 810 379 888 381 966 383 1044 385 1092 386 1140 387 1187 389 1189 389 1191 389 1194 389 m 530 477 b 530 442 530 407 530 371 617 373 703 376 790 378 789 384 788 390 786 394 782 402 776 409 774 418 772 425 766 431 763 438 757 450 752 463 746 475 744 480 741 485 738 489 738 490 735 491 734 490 714 489 695 487 675 486 649 484 622 483 596 481 575 480 555 479 535 478 534 478 532 478 530 477)\pos(599.86,470.5)}Armazém Hidaka
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Episódio
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TS
 Comment: 0,0:01:00.56,0:01:00.56,Default,,0,0,0,,OP
