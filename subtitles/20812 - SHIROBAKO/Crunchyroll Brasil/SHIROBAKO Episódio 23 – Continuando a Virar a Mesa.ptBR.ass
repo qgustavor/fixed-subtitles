@@ -1,0 +1,537 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Shirobako_Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Shirobako_Italics,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,1,2,0040,0040,0015,1
+Style: Shirobako_Ep_Title_(Ep23),Arial,24,&H0017CCFF,&H000000FF,&H00F5FCFF,&H0012042C,-1,0,0,0,100,100,0,0,1,4,2,8,0010,0010,0065,1
+Style: Shirobako_Next_Ep_Title_(Ep23),Arial,24,&H001B58FE,&H000000FF,&H00F5FCFF,&H0012042C,-1,0,0,0,100,100,0,0,1,3,2,3,0010,0040,0110,1
+Style: Body_10:12_(ep23),Arial,16,&H00B1B2AF,&H000000FF,&H00F2F4EF,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,1,0055,0010,0065,1
+Style: Ending_05:39_(ep23),Arial,24,&H00DBEEEC,&H000000FF,&H00000000,&H00BAA8EA,-1,0,0,0,100,100,0,2,1,2,0,8,0010,0010,0020,1
+Style: Ending_19:39_(ep23),Arial,14,&H00CAD1FD,&H000000FF,&H00180897,&H0065E9FF,-1,0,0,0,100,100,0,0,1,2,0,7,0185,0010,0050,1
+Style: Fresh_Bar_Tori_01:05_(ep23),Arial,16,&H00001395,&H000000FF,&H006DDCE7,&H005C6360,-1,0,0,0,100,100,0,-6,1,2,0,8,0010,0160,0032,1
+Style: Lucy_2126_(ep23),Arial,18,&H002E3F41,&H000000FF,&H0042D0FF,&H003A2B1E,-1,0,0,0,100,100,0,0,1,3,1,1,0480,0010,0025,1
+Style: Musashino_03:21_(ep23),Arial,14,&H00000000,&H000000FF,&H00C0A7AC,&H005C6360,0,0,0,0,100,100,0,0,1,2,0,7,0260,0010,0084,1
+Style: Nakabayashi_Wataru_19:49_(ep23),Arial,18,&H00FFFFFF,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,100,0,0,1,1,1,7,0145,0010,0208,1
+Style: Nogame_Takezou_09:37_(ep23),Arial,16,&H002B2A26,&H000000FF,&H00E7E7E2,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,1,0125,0010,0040,1
+Style: Nogame_Takezou_13:26_(ep23),Arial,18,&H00FFFFFF,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,100,0,0,1,1,1,7,0065,0010,0208,1
+Style: Nw_Unread_10:10_(ep23),Arial,14,&H00807C78,&H000000FF,&H00F2F4EF,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,7,0280,0010,0175,1
+Style: Papers_12:52_(ep23),Arial,14,&H00171710,&H000000FF,&H00EEE9E3,&H005C6360,0,0,0,0,100,100,0,0,1,4,0,7,0375,0010,0098,1
+Style: Send_10:01_(ep23),Arial,22,&H00060506,&H000000FF,&H00FEFEFE,&H005C6360,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0085,0250,1
+Style: TAGS-script_22:49_(ep23),Arial,14,&H00000000,&H000000FF,&H00B29A4D,&H003A2B1E,-1,0,0,0,100,100,0,0,1,3,1,8,0265,0010,0020,1
+Style: TAGS_#13_Add-on_AR_20:12_(ep23),Arial,14,&H00586265,&H000000FF,&H00F2F4EF,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0015,0140,1
+Style: To_Director_Kino_08:56_(ep23),Arial,16,&H00C1D2E2,&H000000FF,&H00181B27,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,8,0120,0010,0160,1
+Style: Top_10:12_(ep23),Arial,14,&H00B1B2AF,&H000000FF,&H00F2F4EF,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,7,0340,0010,0080,1
+Style: Under_Inspection_12:10_(ep23),Arial,16,&H00060506,&H000000FF,&H00F2F4EF,&H005C6360,-1,0,0,0,100,100,0,0,1,4,0,8,0010,0060,0020,1
+Style: Yotaka_HQ_11:02_(ep23),Arial,18,&H00A9A69F,&H000000FF,&H0034312B,&H005C6360,0,0,0,0,100,100,0,0,1,2,0,7,0230,0010,0068,1
+Style: You've_Got_Mail_10:10_(ep23),Arial,20,&H00D98846,&H000000FF,&H00FDFDFF,&H00BAA8EA,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0100,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.44,0:00:02.63,Shirobako_Main,person,0000,0000,0000,,Os storyboards do último \Nepisódio devem ir para o lixo...
+Dialogue: 0,0:00:02.63,0:00:03.91,Shirobako_Main,katsu,0000,0000,0000,,Disse algo ao diretor?
+Dialogue: 0,0:00:03.91,0:00:05.54,Shirobako_Main,nabe,0000,0000,0000,,Ainda não.
+Dialogue: 0,0:00:07.96,0:00:10.07,Shirobako_Main,katsu,0000,0000,0000,,Temos que reescrever o roteiro agora?!
+Dialogue: 0,0:00:10.07,0:00:12.16,Shirobako_Main,katsu,0000,0000,0000,,Vamos conseguir colocar no\N ar daqui a cinco semanas?
+Dialogue: 0,0:00:12.16,0:00:12.60,Shirobako_Main,nabe,0000,0000,0000,,Vamos conseguir.
+Dialogue: 0,0:00:12.60,0:00:13.50,Shirobako_Main,katsu,0000,0000,0000,,Vai dar tempo?
+Dialogue: 0,0:00:13.50,0:00:14.66,Shirobako_Main,nabe,0000,0000,0000,,Vamos fazer dar tempo.
+Dialogue: 0,0:00:15.78,0:00:18.61,Shirobako_Main,katsu,0000,0000,0000,,Acha que eu devo deixar pronto\N um episódio de recapitulação?
+Dialogue: 0,0:00:19.88,0:00:21.26,Shirobako_Main,nabe,0000,0000,0000,,Por favor.
+Dialogue: 0,0:00:22.06,0:00:23.75,Shirobako_Main,kino,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:00:23.75,0:00:26.56,Shirobako_Main,kino,0000,0000,0000,,O trabalho original ainda não foi terminado.
+Dialogue: 0,0:00:28.32,0:00:31.86,Shirobako_Main,kino,0000,0000,0000,,{\an8}A Aria levantou voo, mas a história pousou.
+Dialogue: 0,0:00:29.75,0:00:33.04,Shirobako_Main,mixer,0000,0000,0000,,Diretor, seu celular está \Ntocando há um bom tempo.
+Dialogue: 0,0:00:33.04,0:00:34.89,Shirobako_Main,kino,0000,0000,0000,,Está tudo bem! Eu atendo de—
+Dialogue: 0,0:00:34.89,0:00:37.77,Shirobako_Main,naka,0000,0000,0000,,Ah, o diretor? Ele está...
+Dialogue: 0,0:00:34.89,0:00:38.87,Shirobako_Main,kino,0000,0000,0000,,{\an8}Você sabe, eu sei como finalizar\N as coisas que são importantes.
+Dialogue: 0,0:00:38.72,0:00:39.82,Shirobako_Main,naka,0000,0000,0000,,Entendido!
+Dialogue: 0,0:00:38.87,0:00:40.87,Shirobako_Main,kino,0000,0000,0000,,{\an8}Frango frito também deve ser comido...
+Dialogue: 0,0:00:42.91,0:00:45.65,Shirobako_Main,kino,0000,0000,0000,,Ah, este tem sabor de \Ngengibre e shoyu.
+Dialogue: 0,0:00:45.65,0:00:47.45,Shirobako_Main,kino,0000,0000,0000,,Eles capricharam no gengibre.
+Dialogue: 0,0:00:47.45,0:00:49.62,Shirobako_Main,kino,0000,0000,0000,,Quando você pensa sobre esse\N ser o ponto da degustação,
+Dialogue: 0,0:00:49.62,0:00:52.18,Shirobako_Main,kino,0000,0000,0000,,você sente que a comida está completa.
+Dialogue: 0,0:00:50.59,0:00:52.18,Shirobako_Main,naka,0000,0000,0000,,Diretor, podemos conversar?
+Dialogue: 0,0:00:52.45,0:00:53.02,Shirobako_Main,kino,0000,0000,0000,,Hã?
+Dialogue: 0,0:00:54.68,0:00:56.76,Shirobako_Main,kino,0000,0000,0000,,O que foi, de repente?
+Dialogue: 0,0:00:56.76,0:00:58.77,Shirobako_Main,naka,0000,0000,0000,,Isto é um jogo.
+Dialogue: 0,0:00:58.77,0:01:02.02,Shirobako_Main,kino,0000,0000,0000,,Ah, como o jogo com geishas que\N te colocam vendas nos olhos?
+Dialogue: 0,0:01:02.02,0:01:03.54,Shirobako_Main,naka,0000,0000,0000,,Não pode tirar ainda.
+Dialogue: 0,0:01:03.54,0:01:04.54,Shirobako_Main,kino,0000,0000,0000,,Está bem!
+Dialogue: 0,0:01:04.54,0:01:09.29,Fresh_Bar_Tori_01:05_(ep23),sign,0000,0000,0000,,Bar de comidas frescas {\fs19.5\c&H2E60E7&}Tori
+Dialogue: 0,0:01:04.90,0:01:08.25,Shirobako_Main,kino,0000,0000,0000,,Talvez seja minha imaginação, mas\N estamos indo para o lado de fora?
+Dialogue: 0,0:01:08.25,0:01:09.29,Shirobako_Main,naka,0000,0000,0000,,É apenas sua imaginação.
+Dialogue: 0,0:01:09.29,0:01:10.87,Shirobako_Main,naka,0000,0000,0000,,Agora sente-se, por favor.
+Dialogue: 0,0:01:10.87,0:01:12.18,Shirobako_Main,kino,0000,0000,0000,,Está bem!
+Dialogue: 0,0:01:12.18,0:01:13.28,Shirobako_Main,naka,0000,0000,0000,,Vou colocar o cinto.
+Dialogue: 0,0:01:13.28,0:01:14.64,Shirobako_Main,kino,0000,0000,0000,,Está bem!
+Dialogue: 0,0:01:14.64,0:01:17.64,Shirobako_Main,naka,0000,0000,0000,,Alvo: Musashino Animation. Lançar!
+Dialogue: 0,0:01:19.85,0:01:22.20,Shirobako_Main,kino,0000,0000,0000,,Hã? O-O-O que é isso?!
+Dialogue: 0,0:01:22.47,0:01:24.39,Shirobako_Main,kino,0000,0000,0000,,Hein? Miyamori? Por quê?
+Dialogue: 0,0:01:24.39,0:01:25.90,Shirobako_Main,aoi,0000,0000,0000,,Vamos voltar à empresa.
+Dialogue: 0,0:01:25.90,0:01:26.41,Shirobako_Main,kino,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:26.72,0:01:28.84,Shirobako_Main,aoi,0000,0000,0000,,Temos a reunião para o episódio dez ainda.
+Dialogue: 0,0:01:29.62,0:01:32.64,Shirobako_Main,kino,0000,0000,0000,,Me enganaram!
+Dialogue: 0,0:01:32.97,0:01:35.97,Shirobako_Ep_Title_(Ep23),sign,0000,0000,0000,,Continuando a Virar a Mesa
+Dialogue: 0,0:01:33.96,0:01:35.65,Shirobako_Main,person,0000,0000,0000,,Continuando a Virar a Mesa.
+Dialogue: 0,0:01:35.97,0:01:38.35,Shirobako_Main,cha,0000,0000,0000,,Ah, mesmo que diga que \Nquerem se encontrar com ele,
+Dialogue: 0,0:01:38.35,0:01:41.19,Shirobako_Main,cha,0000,0000,0000,,agora não vão conseguir marcar \Nhora com ele. História esquisita.
+Dialogue: 0,0:01:41.60,0:01:45.03,Shirobako_Main,nabe,0000,0000,0000,,Então vamos subir. Estamos\N bem na frente do prédio.
+Dialogue: 0,0:01:45.03,0:01:45.91,Shirobako_Italics,cha,0000,0000,0000,,Como?
+Dialogue: 0,0:01:46.15,0:01:48.42,Shirobako_Main,katsu,0000,0000,0000,,Chazawa-san, o que quer dizer que\N o storyboard deve ir para o lixo?
+Dialogue: 0,0:01:48.42,0:01:50.50,Shirobako_Main,cha,0000,0000,0000,,Hein? Não sabe o que significa "ir para o lixo"?
+Dialogue: 0,0:01:50.78,0:01:51.72,Shirobako_Main,katsu,0000,0000,0000,,Eu sei...
+Dialogue: 0,0:01:51.72,0:01:53.26,Shirobako_Main,cha,0000,0000,0000,,Então não precisa perguntar.
+Dialogue: 0,0:01:53.54,0:01:56.47,Shirobako_Main,editor,0000,0000,0000,,Chazawa-kun, o que o Nogame-sensei disse?
+Dialogue: 0,0:01:56.70,0:01:59.29,Shirobako_Main,cha,0000,0000,0000,,Ah, o Sensei estava muito nervoso.
+Dialogue: 0,0:01:59.29,0:02:00.94,Shirobako_Main,cha,0000,0000,0000,,"Eu não aceito aquele episódio final."
+Dialogue: 0,0:02:00.94,0:02:04.21,Shirobako_Main,cha,0000,0000,0000,,Está dizendo para mudar tudo.
+Dialogue: 0,0:02:04.21,0:02:06.00,Shirobako_Main,nabe,0000,0000,0000,,Por que isso a essa altura?
+Dialogue: 0,0:02:06.00,0:02:09.08,Shirobako_Main,cha,0000,0000,0000,,Foi porque ele finalmente teve a chance\N de dar atenção a isso. História estranha.
+Dialogue: 0,0:02:09.08,0:02:11.94,Shirobako_Main,nabe,0000,0000,0000,,Chazawa-san, você disse que poderíamos\N continuar com o processo, não foi?
+Dialogue: 0,0:02:11.94,0:02:12.84,Shirobako_Main,nabe,0000,0000,0000,,Disse que não havia problemas.
+Dialogue: 0,0:02:12.84,0:02:15.37,Shirobako_Main,cha,0000,0000,0000,,Aquilo foi o que eu disse pessoalmente.
+Dialogue: 0,0:02:15.72,0:02:18.26,Shirobako_Main,cha,0000,0000,0000,,Eu jamais disse que o sensei\N falou que estava tudo bem.
+Dialogue: 0,0:02:18.93,0:02:20.85,Shirobako_Main,cha,0000,0000,0000,,A opinião dele é algo a parte.
+Dialogue: 0,0:02:22.14,0:02:25.62,Shirobako_Main,katsu,0000,0000,0000,,Por favor! Não há como permitir \Nque continuemos do jeito que está?
+Dialogue: 0,0:02:26.14,0:02:28.65,Shirobako_Main,katsu,0000,0000,0000,,Já terminamos as gravações\N para o último episódio!
+Dialogue: 0,0:02:28.65,0:02:31.84,Shirobako_Main,katsu,0000,0000,0000,,Se tivermos que refazer tudo, é \Nclaro que a qualidade vai cair!
+Dialogue: 0,0:02:31.84,0:02:35.15,Shirobako_Main,katsu,0000,0000,0000,,Ou pode ser pior, talvez não \Nvamos conseguir levar ao ar!
+Dialogue: 0,0:02:35.15,0:02:36.26,Shirobako_Main,cha,0000,0000,0000,,Está me ameaçando?
+Dialogue: 0,0:02:36.56,0:02:40.37,Shirobako_Main,katsu,0000,0000,0000,,Nós pedimos consistentemente \Npela confirmação no plot, roteiros,
+Dialogue: 0,0:02:40.37,0:02:42.63,Shirobako_Main,katsu,0000,0000,0000,,e storyboards até agora!
+Dialogue: 0,0:02:42.63,0:02:46.52,Shirobako_Main,katsu,0000,0000,0000,,De forma alguma ignoramos as \Ndiretrizes do criador nesse processo.
+Dialogue: 0,0:02:46.82,0:02:50.58,Shirobako_Main,nabe,0000,0000,0000,,Se possível, nós gostaríamos de \Nconversar diretamente com o sensei.
+Dialogue: 0,0:02:50.58,0:02:52.67,Shirobako_Main,cha,0000,0000,0000,,Vocês planejam falar com Deus?
+Dialogue: 0,0:02:53.50,0:02:56.75,Shirobako_Main,cha,0000,0000,0000,,Neste mundo, o autor é tudo.
+Dialogue: 0,0:02:56.75,0:03:00.75,Shirobako_Main,cha,0000,0000,0000,,Sem o Nogame-sensei, o "Sanjo" nunca iria nascer.
+Dialogue: 0,0:03:00.75,0:03:03.48,Shirobako_Main,cha,0000,0000,0000,,Ou seja, o Sensei é o Criador desse mundo!
+Dialogue: 0,0:03:03.97,0:03:07.65,Shirobako_Main,edit,0000,0000,0000,,Se Deus disse não, é não.
+Dialogue: 0,0:03:07.65,0:03:09.28,Shirobako_Main,edit,0000,0000,0000,,Espero que compreendam.
+Dialogue: 0,0:03:11.29,0:03:15.27,Shirobako_Main,katsu,0000,0000,0000,,Mesmo que nos digam para \Nrefazer, o que devemos refazer?
+Dialogue: 0,0:03:15.27,0:03:17.13,Shirobako_Main,nabe,0000,0000,0000,,Não conseguimos entender \Napenas com um "para o lixo".
+Dialogue: 0,0:03:18.07,0:03:20.76,Shirobako_Main,cha,0000,0000,0000,,Então eu vou perguntar ao Nogame-sensei.
+Dialogue: 0,0:03:20.76,0:03:23.15,Musashino_03:21_(ep23),sign,0000,0000,0000,,Musashino\N Animation
+Dialogue: 0,0:03:21.01,0:03:23.15,Shirobako_Main,aoi,0000,0000,0000,,Nós tentamos convencê-los...
+Dialogue: 0,0:03:23.60,0:03:25.15,Shirobako_Main,katsu,0000,0000,0000,,Nós tentamos convencê-los...
+Dialogue: 0,0:03:25.53,0:03:27.26,Shirobako_Main,katsu,0000,0000,0000,,Mas não deu certo.
+Dialogue: 0,0:03:27.26,0:03:29.50,Shirobako_Main,aoi,0000,0000,0000,,Ah, isso quer dizer "tudo"?
+Dialogue: 0,0:03:29.85,0:03:32.31,Shirobako_Main,nabe,0000,0000,0000,,Vamos ter as diretrizes do Nogame-sensei\N para o que deve ser arrumado.
+Dialogue: 0,0:03:32.63,0:03:35.17,Shirobako_Main,nabe,0000,0000,0000,,Depois de ver isso, vamos \Npensar no que podemos fazer.
+Dialogue: 0,0:03:35.17,0:03:36.63,Shirobako_Main,aoi,0000,0000,0000,,Então, a produção...
+Dialogue: 0,0:03:37.13,0:03:39.32,Shirobako_Italics,nabe,0000,0000,0000,,Tudo o que está sendo feito \Nno último episódio deve parar!
+Dialogue: 0,0:03:40.83,0:03:41.91,Shirobako_Main,mimu,0000,0000,0000,,Quem é você?
+Dialogue: 0,0:03:41.91,0:03:44.32,Shirobako_Main,god,0000,0000,0000,,Eu sou o autor.
+Dialogue: 0,0:03:44.32,0:03:48.28,Shirobako_Main,god,0000,0000,0000,,E agora temos a última pergunta!
+Dialogue: 0,0:03:48.28,0:03:50.74,Shirobako_Main,god,0000,0000,0000,,Qual deve ser o episódio final?
+Dialogue: 0,0:03:50.74,0:03:53.22,Shirobako_Main,god,0000,0000,0000,,Tic, tac, tic, tac...
+Dialogue: 0,0:03:53.22,0:03:53.88,Shirobako_Main,mimu/roro,0000,0000,0000,,Este!
+Dialogue: 0,0:03:55.09,0:03:56.36,Shirobako_Main,god,0000,0000,0000,,Errado!
+Dialogue: 0,0:03:56.36,0:03:58.51,Shirobako_Main,both,0000,0000,0000,,Estamos caindo!
+Dialogue: 0,0:03:59.17,0:04:00.01,Shirobako_Main,iguchi,0000,0000,0000,,Entendi.
+Dialogue: 0,0:04:00.54,0:04:02.73,Shirobako_Main,iguchi,0000,0000,0000,,Vou fazer o que podemos até o episódio doze.
+Dialogue: 0,0:04:03.08,0:04:05.02,Shirobako_Main,iguchi,0000,0000,0000,,Mas será que vai dar tempo?
+Dialogue: 0,0:04:05.45,0:04:07.61,Shirobako_Main,ogasa,0000,0000,0000,,A situação não muda com a nossa preocupação.
+Dialogue: 0,0:04:08.29,0:04:11.62,Shirobako_Main,ogasa,0000,0000,0000,,Vamos continuar despreocupados,\N apesar de esperar pelo pior.
+Dialogue: 0,0:04:11.62,0:04:16.00,Papers_12:52_(ep23),,0000,0000,0000,,Chazawa,\N\NÉ absolutamente errado que\Na Aria voe novamente.\NComo na história original,\Npor favor, termine no ponto\Nem que a Catherine morre.\N\N- Nogame
+Dialogue: 0,0:04:12.68,0:04:15.68,Shirobako_Main,aoi,0000,0000,0000,,"É absolutamente errado \Nque a Aria voe novamente.
+Dialogue: 0,0:04:16.00,0:04:17.16,Shirobako_Main,aoi,0000,0000,0000,,Como na história original,
+Dialogue: 0,0:04:17.16,0:04:20.62,Shirobako_Main,aoi,0000,0000,0000,,por favor termine no ponto em \Nque a Catherine morre. Nogame."
+Dialogue: 0,0:04:21.79,0:04:23.86,Shirobako_Main,mido,0000,0000,0000,,Então vai terminar
+Dialogue: 0,0:04:23.86,0:04:25.90,Shirobako_Main,mido,0000,0000,0000,,com a protagonista caindo?
+Dialogue: 0,0:04:25.90,0:04:28.23,Shirobako_Main,nabe,0000,0000,0000,,Isto é o grande final infeliz.
+Dialogue: 0,0:04:28.23,0:04:32.07,Shirobako_Main,mai,0000,0000,0000,,Foi por isso que tentamos fazer o \Nanime com um final diferente.
+Dialogue: 0,0:04:32.37,0:04:35.62,Shirobako_Main,nabe,0000,0000,0000,,Mas ele está dizendo que essa \Nparte diferente não está bom.
+Dialogue: 0,0:04:35.92,0:04:38.71,Shirobako_Main,mai,0000,0000,0000,,Eu posso entender o sentimento do autor,
+Dialogue: 0,0:04:39.32,0:04:42.88,Shirobako_Main,mai,0000,0000,0000,,mas eu tenho certeza de que as pessoas que\N vão começar pelo anime não vão aceitar.
+Dialogue: 0,0:04:43.96,0:04:46.55,Shirobako_Main,prez,0000,0000,0000,,Obrigado pelo bom trabalho. \NEstá sendo complicado, hein?
+Dialogue: 0,0:04:46.55,0:04:48.00,Shirobako_Main,prez,0000,0000,0000,,Comam isto.
+Dialogue: 0,0:04:48.00,0:04:49.77,Shirobako_Main,aoi,0000,0000,0000,,Bolinhos de arroz com carinhas?
+Dialogue: 0,0:04:50.18,0:04:51.39,Shirobako_Main,mai,0000,0000,0000,,Obrigado, eu aceito!
+Dialogue: 0,0:04:51.39,0:04:53.29,Shirobako_Main,prez,0000,0000,0000,,Então continuem com o bom trabalho.
+Dialogue: 0,0:04:54.11,0:04:55.75,Shirobako_Main,mai,0000,0000,0000,,O que acha, diretor?
+Dialogue: 0,0:04:56.06,0:04:58.79,Shirobako_Main,aoi,0000,0000,0000,,Hum... O que o diretor \Nprocurou fazer com a série
+Dialogue: 0,0:04:58.79,0:05:02.06,Shirobako_Main,aoi,0000,0000,0000,,é fazer a Aria procurar uma \Nrazão para voar, não é mesmo?
+Dialogue: 0,0:05:02.25,0:05:04.73,Shirobako_Main,mai,0000,0000,0000,,Por enquanto só nos resta escrever
+Dialogue: 0,0:05:04.73,0:05:06.52,Shirobako_Main,mai,0000,0000,0000,,um final em que a Aria não voa.
+Dialogue: 0,0:05:12.56,0:05:16.21,Shirobako_Main,tati,0000,0000,0000,,Ela usou suas últimas forças para voltar.
+Dialogue: 0,0:05:16.21,0:05:17.46,Shirobako_Main,noa,0000,0000,0000,,Para cá...
+Dialogue: 0,0:05:17.80,0:05:20.23,Shirobako_Main,kino,0000,0000,0000,,Ela desejou voltar para cá.
+Dialogue: 0,0:05:22.52,0:05:24.72,Shirobako_Main,kino,0000,0000,0000,,307º Esquadrão Aéreo, \Npreparem-se para levantar voo!
+Dialogue: 0,0:05:25.06,0:05:28.42,Shirobako_Italics,kino,0000,0000,0000,,Repito, 307º Esquadrão Aéreo, \Npreparem-se para levantar voo!
+Dialogue: 0,0:05:28.89,0:05:29.68,Shirobako_Main,tati,0000,0000,0000,,Vamos.
+Dialogue: 0,0:05:30.00,0:05:31.96,Shirobako_Main,noa,0000,0000,0000,,É mesmo, vamos.
+Dialogue: 0,0:05:34.29,0:05:35.33,Shirobako_Main,ari,0000,0000,0000,,Não posso.
+Dialogue: 0,0:05:35.94,0:05:38.41,Shirobako_Main,aria,0000,0000,0000,,Eu não consigo voar.
+Dialogue: 0,0:05:39.08,0:05:40.17,Ending_05:39_(ep23),sign,0000,0000,0000,,{\fs19.5}FIM
+Dialogue: 0,0:05:40.17,0:05:42.64,Shirobako_Main,kino,0000,0000,0000,,Que anticlímax é esse?!
+Dialogue: 0,0:05:42.90,0:05:45.10,Shirobako_Main,yama,0000,0000,0000,,Parece um filme ATG.
+Dialogue: 0,0:05:45.43,0:05:46.99,Shirobako_Main,ando,0000,0000,0000,,Ah, e como foi?
+Dialogue: 0,0:05:46.99,0:05:48.59,Shirobako_Main,sato,0000,0000,0000,,Decidiram o que fazer?
+Dialogue: 0,0:05:48.59,0:05:50.64,Shirobako_Main,aoi,0000,0000,0000,,Sim, vamos seguir a história original.
+Dialogue: 0,0:05:50.64,0:05:53.99,Shirobako_Main,taro,0000,0000,0000,,O quê?! Se eu fosse o diretor nunca iria aceitar!
+Dialogue: 0,0:05:53.99,0:05:56.41,Shirobako_Main,taro,0000,0000,0000,,Eu defenderia minha decisão até o fim.
+Dialogue: 0,0:05:56.41,0:05:58.25,Shirobako_Main,yano,0000,0000,0000,,Mesmo que não possa ir ao ar?
+Dialogue: 0,0:05:58.86,0:06:02.01,Shirobako_Main,yano,0000,0000,0000,,Não podemos fazer algo \Nque o autor não aceitou.
+Dialogue: 0,0:06:02.01,0:06:03.98,Shirobako_Main,taro,0000,0000,0000,,O que tem de bom em ceder?
+Dialogue: 0,0:06:03.98,0:06:07.80,Shirobako_Main,yano,0000,0000,0000,,Se ficarmos apenas colidindo opiniões\N opostas, nada vai ser resolvido.
+Dialogue: 0,0:06:08.54,0:06:10.96,Shirobako_Main,ando,0000,0000,0000,,Por acaso, este é a segunda vez \Nque o trabalho do Nogame-sensei
+Dialogue: 0,0:06:10.96,0:06:12.78,Shirobako_Main,ando,0000,0000,0000,,se tornou um anime.
+Dialogue: 0,0:06:13.02,0:06:16.09,Shirobako_Main,aoi,0000,0000,0000,,Sim, uma série chamada "Sailorfuku to F3"
+Dialogue: 0,0:06:16.09,0:06:17.93,Shirobako_Main,aoi,0000,0000,0000,,sobre carros de corrida.
+Dialogue: 0,0:06:17.93,0:06:19.54,Shirobako_Main,yano,0000,0000,0000,,Ah, tinha isso.
+Dialogue: 0,0:06:19.54,0:06:21.60,Shirobako_Main,taro,0000,0000,0000,,Aquilo era do Nogame-sensei?
+Dialogue: 0,0:06:21.60,0:06:22.68,Shirobako_Main,hira,0000,0000,0000,,Foi miserável.
+Dialogue: 0,0:06:22.94,0:06:23.60,Shirobako_Main,aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:06:24.68,0:06:27.51,Shirobako_Main,hira,0000,0000,0000,,Eu era apenas o assistente \Nde produção da Gloss, mas...
+Dialogue: 0,0:06:28.06,0:06:29.56,Shirobako_Main,aoi,0000,0000,0000,,Como assim miserável?
+Dialogue: 0,0:06:30.41,0:06:32.35,Shirobako_Main,hira,0000,0000,0000,,Eu amava a história original
+Dialogue: 0,0:06:32.60,0:06:34.85,Shirobako_Main,hira,0000,0000,0000,,e estava muito animado para\N poder fazer parte disso.
+Dialogue: 0,0:06:34.85,0:06:35.78,Shirobako_Main,hira,0000,0000,0000,,Quando vi as coisas de perto...
+Dialogue: 0,0:06:36.94,0:06:38.74,Shirobako_Main,hira,0000,0000,0000,,A personagem principal foi mudada.
+Dialogue: 0,0:06:39.11,0:06:41.30,Shirobako_Main,hira,0000,0000,0000,,Ela é um piloto e não se sabe \Npor que colocaram um biquíni nela.
+Dialogue: 0,0:06:41.71,0:06:43.59,Shirobako_Main,hira,0000,0000,0000,,Coisas inacreditáveis aconteciam toda hora.
+Dialogue: 0,0:06:44.12,0:06:46.13,Shirobako_Main,hira,0000,0000,0000,,Ignoraram a história original.
+Dialogue: 0,0:06:46.13,0:06:48.64,Shirobako_Main,hira,0000,0000,0000,,A qualidade foi baixa e foi bastante criticado.
+Dialogue: 0,0:06:49.07,0:06:50.81,Shirobako_Main,hira,0000,0000,0000,,Até o autor foi afetado.
+Dialogue: 0,0:06:51.31,0:06:53.74,Shirobako_Main,sato,0000,0000,0000,,Isso foi realmente miserável.
+Dialogue: 0,0:06:56.59,0:06:58.87,Shirobako_Main,kino,0000,0000,0000,,Sinto ter que dizer isso agora\N que escreveram de novo...
+Dialogue: 0,0:06:59.19,0:07:01.84,Shirobako_Main,kino,0000,0000,0000,,Mas eu quero terminar com \Num sentimento de esperança.
+Dialogue: 0,0:07:01.84,0:07:04.05,Shirobako_Main,katsu,0000,0000,0000,,Bem, eu também quero isso.
+Dialogue: 0,0:07:04.05,0:07:06.25,Shirobako_Main,kino,0000,0000,0000,,Temos alguma chance de\N negociação com o autor?
+Dialogue: 0,0:07:06.54,0:07:09.98,Shirobako_Main,katsu,0000,0000,0000,,O editor diz que não é necessário, \Nentão não nos deixam falar com ele.
+Dialogue: 0,0:07:11.69,0:07:13.94,Shirobako_Main,prez,0000,0000,0000,,Kinoshita-kun, podemos falar?
+Dialogue: 0,0:07:14.73,0:07:17.62,Shirobako_Main,prez,0000,0000,0000,,Pode me dizer qual é o tipo\N de trabalho de um diretor?
+Dialogue: 0,0:07:17.62,0:07:18.28,Shirobako_Main,kino,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:18.51,0:07:19.86,Shirobako_Main,prez,0000,0000,0000,,Se falarmos de um navio...
+Dialogue: 0,0:07:20.34,0:07:21.39,Shirobako_Main,kino,0000,0000,0000,,O capitão.
+Dialogue: 0,0:07:21.39,0:07:22.50,Shirobako_Main,prez,0000,0000,0000,,Um tanque de guerra?
+Dialogue: 0,0:07:22.50,0:07:23.39,Shirobako_Main,kino,0000,0000,0000,,O comandante.
+Dialogue: 0,0:07:23.39,0:07:24.54,Shirobako_Main,prez,0000,0000,0000,,Se for um avião?
+Dialogue: 0,0:07:24.54,0:07:25.26,Shirobako_Main,kino,0000,0000,0000,,O piloto.
+Dialogue: 0,0:07:25.46,0:07:26.73,Shirobako_Main,prez,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:07:26.73,0:07:30.68,Shirobako_Main,prez,0000,0000,0000,,É o diretor que lidera todos para o seu destino.
+Dialogue: 0,0:07:31.75,0:07:33.19,Shirobako_Main,kino,0000,0000,0000,,Eu tenho compreensão disso.
+Dialogue: 0,0:07:33.40,0:07:36.19,Shirobako_Main,prez,0000,0000,0000,,Quando você é capaz de chegar lá,
+Dialogue: 0,0:07:36.19,0:07:39.20,Shirobako_Main,prez,0000,0000,0000,,o senso de missão cumprida\N e satisfação vai ser obtida.
+Dialogue: 0,0:07:39.46,0:07:42.21,Shirobako_Main,prez,0000,0000,0000,,Todos acreditam nisso e \Ntrabalham o melhor que podem.
+Dialogue: 0,0:07:42.46,0:07:45.84,Shirobako_Main,prez,0000,0000,0000,,Estão contribuindo com horas \Nde suas vidas nesses projetos.
+Dialogue: 0,0:07:47.12,0:07:50.50,Shirobako_Main,prez,0000,0000,0000,,Eu acho que o lugar em que o\N diretor está tentando chegar
+Dialogue: 0,0:07:50.50,0:07:53.94,Shirobako_Main,prez,0000,0000,0000,,é onde todos os que trabalham e os que\N assistem poderão ser felizes, não acha?
+Dialogue: 0,0:07:54.41,0:07:56.98,Shirobako_Main,prez,0000,0000,0000,,Não foi você mesmo que \Ndisse o {\i1}win/win{\i0}?
+Dialogue: 0,0:07:57.73,0:07:59.32,Shirobako_Main,prez,0000,0000,0000,,Agora, {\i1}take off{\i0}!
+Dialogue: 0,0:08:01.21,0:08:05.50,Shirobako_Main,both,0000,0000,0000,,Vencer, vencer, vencer!
+Dialogue: 0,0:08:05.50,0:08:10.10,Shirobako_Main,kino,0000,0000,0000,,Vencer!
+Dialogue: 0,0:08:11.04,0:08:13.40,Shirobako_Main,kino,0000,0000,0000,,Mas o que eu tenho que fazer para\N chegar até o lugar aonde quero ir?
+Dialogue: 0,0:08:19.65,0:08:20.77,Shirobako_Main,honda,0000,0000,0000,,Olá.
+Dialogue: 0,0:08:21.21,0:08:22.44,Shirobako_Main,aoi,0000,0000,0000,,Ah, Honda-san.
+Dialogue: 0,0:08:22.88,0:08:24.37,Shirobako_Main,honda,0000,0000,0000,,Trouxe um presente.
+Dialogue: 0,0:08:24.37,0:08:28.21,Shirobako_Main,taro,0000,0000,0000,,Eu estou sentindo que preciso de um\N mont blanc hoje. Será que tem um?
+Dialogue: 0,0:08:28.21,0:08:29.78,Shirobako_Main,honda,0000,0000,0000,,Tem, mas não é para você.
+Dialogue: 0,0:08:29.78,0:08:31.19,Shirobako_Main,taro,0000,0000,0000,,O quê? Seu pão-duro.
+Dialogue: 0,0:08:31.19,0:08:32.91,Shirobako_Main,honda,0000,0000,0000,,Isto já tem dono.
+Dialogue: 0,0:08:33.35,0:08:36.69,Shirobako_Main,kino,0000,0000,0000,,Vencer... Ah, nenhum desses serve!
+Dialogue: 0,0:08:36.69,0:08:37.60,Shirobako_Main,honda,0000,0000,0000,,Diretor.
+Dialogue: 0,0:08:38.27,0:08:40.44,Shirobako_Main,honda,0000,0000,0000,,Eu já fiquei sabendo. Que coisa, hein?
+Dialogue: 0,0:08:40.72,0:08:42.92,Shirobako_Main,kino,0000,0000,0000,,Eu não quero ver o Honda-kun magro.
+Dialogue: 0,0:08:42.92,0:08:44.22,Shirobako_Main,kino,0000,0000,0000,,Eu não consigo te reconhecer.
+Dialogue: 0,0:08:44.71,0:08:48.12,Shirobako_Main,kino,0000,0000,0000,,Eu posso ter essa aparência, mas\N meu coração está muito magro.
+Dialogue: 0,0:08:48.65,0:08:50.98,Shirobako_Main,kino,0000,0000,0000,,E como devo dizer em horas como esta?
+Dialogue: 0,0:08:51.49,0:08:52.75,Shirobako_Main,kino,0000,0000,0000,,Ah sim. "Estou sem ideia—"
+Dialogue: 0,0:08:52.75,0:08:53.85,Shirobako_Main,honda,0000,0000,0000,,Ainda não está!
+Dialogue: 0,0:08:57.06,0:08:59.48,To_Director_Kino_08:56_(ep23),sign,0000,0000,0000,,Para o Diretor Kinoshita
+Dialogue: 0,0:08:58.79,0:09:00.97,Shirobako_Main,kino,0000,0000,0000,,Que enorme!
+Dialogue: 0,0:09:04.74,0:09:06.97,Shirobako_Main,kino,0000,0000,0000,,Que doce!
+Dialogue: 0,0:09:06.97,0:09:08.56,Shirobako_Main,kino,0000,0000,0000,,Está delicioso, Honda-kun!
+Dialogue: 0,0:09:08.56,0:09:10.85,Shirobako_Main,kino,0000,0000,0000,,Para mim, basta ter frango frito e mont blanc
+Dialogue: 0,0:09:10.85,0:09:13.07,Shirobako_Main,kino,0000,0000,0000,,neste mundo, que consigo continuar vivendo.
+Dialogue: 0,0:09:13.07,0:09:15.19,Shirobako_Main,honda,0000,0000,0000,,Agora a sua cabeça está rodando melhor?
+Dialogue: 0,0:09:15.19,0:09:15.97,Shirobako_Main,kino,0000,0000,0000,,Sim.
+Dialogue: 0,0:09:16.35,0:09:20.14,Shirobako_Main,honda,0000,0000,0000,,Não é nesse sentido! Por favor, \Npense sobre o que deve ser feito.
+Dialogue: 0,0:09:20.40,0:09:22.25,Shirobako_Main,kino,0000,0000,0000,,Mas eu fiquei sem ideias...
+Dialogue: 0,0:09:22.25,0:09:22.99,Shirobako_Main,honda,0000,0000,0000,,Ainda não ficou sem!
+Dialogue: 0,0:09:23.21,0:09:26.03,Shirobako_Main,honda,0000,0000,0000,,Eu posso afirmar isso, depois de tanto\N ficar sem ideias, todas as vezes.
+Dialogue: 0,0:09:26.03,0:09:27.41,Shirobako_Main,honda,0000,0000,0000,,Não tenho dúvidas!
+Dialogue: 0,0:09:28.82,0:09:31.70,Shirobako_Main,kino,0000,0000,0000,,Se ao menos eu pudesse falar com o autor...
+Dialogue: 0,0:09:31.70,0:09:34.58,Shirobako_Main,kino,0000,0000,0000,,Mas não tenho nenhum contato...
+Dialogue: 0,0:09:36.02,0:09:37.43,Shirobako_Main,honda,0000,0000,0000,,Ah! Isto aqui...
+Dialogue: 0,0:09:37.43,0:09:39.89,Nogame_Takezou_09:37_(ep23),sign,0000,0000,0000,,De: Nogame Takezou
+Dialogue: 0,0:09:40.18,0:09:40.89,Shirobako_Main,kino,0000,0000,0000,,É isso!
+Dialogue: 0,0:09:41.43,0:09:45.07,Shirobako_Main,kino,0000,0000,0000,,Por favor, me perdoe por este repentino e-mail.
+Dialogue: 0,0:09:45.58,0:09:48.58,Shirobako_Main,kino,0000,0000,0000,,Meu nome é Kinoshita \NSeiichi, e tenho a honra de
+Dialogue: 0,0:09:48.58,0:09:50.26,Shirobako_Main,kino,0000,0000,0000,,ser o diretor do "Dai San Hikou Shoujo Tai".
+Dialogue: 0,0:09:51.30,0:09:54.45,Shirobako_Main,kino,0000,0000,0000,,Sobre o assunto do último\N episódio, se for possível,
+Dialogue: 0,0:09:54.45,0:09:58.12,Shirobako_Main,kino,0000,0000,0000,,gostaria de encontrá-lo \Npessoalmente e conversar sobre isso.
+Dialogue: 0,0:09:58.12,0:10:00.65,Shirobako_Main,kino,0000,0000,0000,,Adoraria ouvir seus pensamentos.
+Dialogue: 0,0:10:00.65,0:10:02.35,Shirobako_Main,kino,0000,0000,0000,,Aguardo pela sua resposta.
+Dialogue: 0,0:10:02.35,0:10:04.32,Send_10:01_(ep23),sign,0000,0000,0000,,Enviar
+Dialogue: 0,0:10:02.62,0:10:03.46,Shirobako_Main,kino,0000,0000,0000,,Enviar.
+Dialogue: 0,0:10:05.09,0:10:06.84,Shirobako_Main,kino,0000,0000,0000,,Será que ele vai responder?
+Dialogue: 0,0:10:06.84,0:10:09.65,Shirobako_Main,kino,0000,0000,0000,,Parece que ele não é muito sociável.
+Dialogue: 0,0:10:10.87,0:10:12.62,You've_Got_Mail_10:10_(ep23),blue,0000,0000,0000,,Você recebeu um novo e-mail!
+Dialogue: 0,0:10:10.87,0:10:12.62,Nw_Unread_10:10_(ep23),black,0000,0000,0000,,Novo: 1 \NNão lido: 0
+Dialogue: 0,0:10:12.84,0:10:16.22,Top_10:12_(ep23),top,0000,0000,0000,,Nogame Takezou\NSobre o "Dai San Hikou Shoujo Tai"\N Para: Kinoshita Seiichi
+Dialogue: 0,0:10:12.84,0:10:16.22,Body_10:12_(ep23),body,0000,0000,0000,,É o Nogame.\NEntendido. Se puder, por favor venha até a sala de reuniões no\N35º andar da Editora Yotaka no dia 30 de novembro à tarde.\NVou te esperar.
+Dialogue: 0,0:10:13.82,0:10:14.82,Shirobako_Main,honda,0000,0000,0000,,Que rápido!
+Dialogue: 0,0:10:16.22,0:10:18.12,Shirobako_Main,kino,0000,0000,0000,,Obrigado, Honda-kun!
+Dialogue: 0,0:10:18.12,0:10:18.68,Shirobako_Main,honda,0000,0000,0000,,Não foi nada.
+Dialogue: 0,0:10:19.04,0:10:21.92,Shirobako_Main,kino,0000,0000,0000,,Vou chamar este dia como\N o "Big Mont Blanc Day".
+Dialogue: 0,0:10:21.92,0:10:23.55,Shirobako_Main,kino,0000,0000,0000,,E nunca vou esquecer!
+Dialogue: 0,0:10:24.32,0:10:26.45,Musashino_03:21_(ep23),,0000,0000,0000,,Musashino \NAnimation
+Dialogue: 0,0:10:25.62,0:10:26.45,Shirobako_Main,kino,0000,0000,0000,,Presidente,
+Dialogue: 0,0:10:26.72,0:10:27.79,Shirobako_Main,kino,0000,0000,0000,,estou indo.
+Dialogue: 0,0:10:27.79,0:10:29.47,Shirobako_Main,prez,0000,0000,0000,,Boa sorte.
+Dialogue: 0,0:10:29.91,0:10:32.18,Shirobako_Main,prez,0000,0000,0000,,Ah, espere um pouco.
+Dialogue: 0,0:10:33.36,0:10:34.01,Shirobako_Main,prez,0000,0000,0000,,Pegue.
+Dialogue: 0,0:10:34.49,0:10:35.83,Shirobako_Main,prez,0000,0000,0000,,É sua roupa para a batalha.
+Dialogue: 0,0:11:02.55,0:11:06.57,Yotaka_HQ_11:02_(ep23),sign,0000,0000,0000,,Editora Yotaka
+Dialogue: 0,0:11:14.44,0:11:15.55,Shirobako_Main,aoi,0000,0000,0000,,Vá com cuidado!
+Dialogue: 0,0:11:36.66,0:11:38.92,Shirobako_Main,recept,0000,0000,0000,,Senhor, não pode...
+Dialogue: 0,0:11:41.34,0:11:42.09,Nw_Unread_10:10_(ep23),sign,0000,0000,0000,,{\fs15}ID\N\NNome: Kinoshita Seiichi\N  Editora Yotaka\N\NIsto é um comprovante de que\NNesta pessoa trabalha na Editora Yotaka
+Dialogue: 0,0:11:46.83,0:11:47.40,Shirobako_Main,cha,0000,0000,0000,,Hein?!
+Dialogue: 0,0:11:48.15,0:11:50.26,Shirobako_Main,cha,0000,0000,0000,,Diretor! Onde pensa que vai?
+Dialogue: 0,0:11:50.26,0:11:52.03,Shirobako_Main,kino,0000,0000,0000,,Vim para encontrar o Nogame-sensei.
+Dialogue: 0,0:11:52.03,0:11:53.33,Shirobako_Main,kino,0000,0000,0000,,Eu tenho encontro marcado.
+Dialogue: 0,0:11:53.55,0:11:56.49,Shirobako_Main,cha,0000,0000,0000,,Mas não posso passar por cima do departamento\N editorial! O que pensa que está fazendo?!
+Dialogue: 0,0:11:56.49,0:11:59.17,Shirobako_Main,cha,0000,0000,0000,,É uma história estranha, mas aqui não\N é lugar para indesejados entrarem.
+Dialogue: 0,0:11:59.17,0:12:01.17,Shirobako_Main,cha,0000,0000,0000,,Vá embora agora mesmo, seu "Puruten"!
+Dialogue: 0,0:12:01.43,0:12:02.59,Shirobako_Main,kino,0000,0000,0000,,Hadoubara!{Hadouken + kobara (barriga)}
+Dialogue: 0,0:12:10.65,0:12:11.65,Under_Inspection_12:10_(ep23),sign,0000,0000,0000,,{\fs21}Desculpe a inconveniência.\NSob Inspeção.\NObrigado pela cooperação.
+Dialogue: 0,0:12:10.65,0:12:13.62,Shirobako_Main,person,0000,0000,0000,,Desculpe, vamos começar a inspeção.
+Dialogue: 0,0:12:18.57,0:12:21.13,Shirobako_Main,eic,0000,0000,0000,,Isto é um problema, diretor.
+Dialogue: 0,0:12:21.13,0:12:23.68,Shirobako_Main,eic,0000,0000,0000,,Este é o último andar da \Npoderosa Editora Yotaka.
+Dialogue: 0,0:12:24.21,0:12:26.89,Shirobako_Main,eic,0000,0000,0000,,É o lugar em que apenas \Nos escolhidos podem entrar.
+Dialogue: 0,0:12:26.89,0:12:29.07,Shirobako_Main,eic,0000,0000,0000,,Eu não acredito em violência.
+Dialogue: 0,0:12:29.07,0:12:31.69,Shirobako_Main,eic,0000,0000,0000,,Estou apenas praticando golfe.
+Dialogue: 0,0:12:35.71,0:12:36.84,Shirobako_Main,eic,0000,0000,0000,,Consegui!
+Dialogue: 0,0:12:37.16,0:12:39.46,Shirobako_Main,kino,0000,0000,0000,,Shouryuubara!{Shouryuuken + kobara}
+Dialogue: 0,0:12:49.17,0:12:50.02,Shirobako_Main,person,0000,0000,0000,,Quem é você?
+Dialogue: 0,0:12:50.02,0:12:53.23,Shirobako_Main,kino,0000,0000,0000,,Sou o diretor do "Dai San Hikou Shoujo Tai",
+Dialogue: 0,0:12:53.23,0:12:54.45,Shirobako_Main,kino,0000,0000,0000,,Kinoshita Seiichi!
+Dialogue: 0,0:12:57.12,0:12:59.87,Shirobako_Main,kino,0000,0000,0000,,Tatsumaki Senpuubara!
+Dialogue: 0,0:13:12.70,0:13:14.49,Shirobako_Main,person,0000,0000,0000,,Que determinação impressionante.
+Dialogue: 0,0:13:22.19,0:13:24.30,Shirobako_Main,nogame,0000,0000,0000,,Kinoshita Seiichi-san, eu presumo.
+Dialogue: 0,0:13:24.80,0:13:25.43,Shirobako_Main,kino,0000,0000,0000,,Sim.
+Dialogue: 0,0:13:25.74,0:13:28.83,Shirobako_Main,nogame,0000,0000,0000,,Estava te esperando. Eu sou o Nogame Takezou.
+Dialogue: 0,0:13:27.22,0:13:30.85,Nogame_Takezou_13:26_(ep23),sign,0000,0000,0000,,Nogame Takezou\N  Autor do "Dai San Hikou Shoujo Tai"
+Dialogue: 0,0:13:29.37,0:13:30.85,Shirobako_Main,nogame,0000,0000,0000,,Por favor, sente-se.
+Dialogue: 0,0:13:37.89,0:13:40.29,Shirobako_Main,nogame,0000,0000,0000,,E então, sobre o assunto do último episódio.
+Dialogue: 0,0:13:41.57,0:13:42.75,Shirobako_Main,nogame,0000,0000,0000,,Por favor, conserte isso.
+Dialogue: 0,0:13:44.62,0:13:47.30,Shirobako_Main,nogame,0000,0000,0000,,Eu pessoalmente não me decidi se a Aria vai
+Dialogue: 0,0:13:47.30,0:13:50.41,Shirobako_Main,nogame,0000,0000,0000,,se recuperar ou escolher um outro caminho.
+Dialogue: 0,0:13:51.89,0:13:53.68,Shirobako_Main,nogaome,0000,0000,0000,,A Aria é diferente das outras
+Dialogue: 0,0:13:53.68,0:13:56.85,Shirobako_Main,nogaome,0000,0000,0000,,e percebeu que não é capaz \Nde achar uma razão para voar.
+Dialogue: 0,0:13:56.85,0:13:58.68,Shirobako_Main,nogame,0000,0000,0000,,E então acontece a morte da Catherine.
+Dialogue: 0,0:13:59.12,0:14:01.27,Shirobako_Main,nogame,0000,0000,0000,,Ela não vai ser capaz de se\N recuperar tão facilmente.
+Dialogue: 0,0:14:01.39,0:14:02.64,Shirobako_Main,nogame,0000,0000,0000,,Deve haver uma possibilidade
+Dialogue: 0,0:14:02.64,0:14:05.69,Shirobako_Main,nogame,0000,0000,0000,,que a Aria nunca mais voe, e encontre um
+Dialogue: 0,0:14:05.69,0:14:08.07,Shirobako_Main,nogame,0000,0000,0000,,caminho diferente, que é onde a história acaba.
+Dialogue: 0,0:14:08.33,0:14:09.95,Shirobako_Main,nogame,0000,0000,0000,,É o que penso agora.
+Dialogue: 0,0:14:09.95,0:14:11.92,Shirobako_Main,nogame,0000,0000,0000,,Por isso, mesmo no anime,
+Dialogue: 0,0:14:11.92,0:14:15.66,Shirobako_Main,nogame,0000,0000,0000,,não quero que façam ela voar por \Nconveniência da parte da produção.
+Dialogue: 0,0:14:18.10,0:14:19.84,Shirobako_Main,kino,0000,0000,0000,,Mas não podemos terminar desse jeito.
+Dialogue: 0,0:14:20.54,0:14:24.14,Shirobako_Main,kino,0000,0000,0000,,O tema do "Dai San Hikou Shoujo Tai" não é
+Dialogue: 0,0:14:24.14,0:14:27.77,Shirobako_Main,kino,0000,0000,0000,,a procura do significado \Nde voar para as garotas?
+Dialogue: 0,0:14:28.39,0:14:32.07,Shirobako_Main,kino,0000,0000,0000,,Elas têm seu inimigo gigante e sua\N incrível falta de poder de fogo.
+Dialogue: 0,0:14:32.07,0:14:34.28,Shirobako_Main,kino,0000,0000,0000,,A contagem regressiva para\N o tempo limite do mundo.
+Dialogue: 0,0:14:34.69,0:14:38.27,Shirobako_Main,kino,0000,0000,0000,,E mesmo assim elas continuam\N a voar, continuam a lutar.
+Dialogue: 0,0:14:38.27,0:14:41.96,Shirobako_Main,kino,0000,0000,0000,,Porque elas têm a esperança nesse\N mundo que está a se despedaçar.
+Dialogue: 0,0:14:41.96,0:14:45.80,Shirobako_Main,kino,0000,0000,0000,,A Aria e suas companheiras\N precisam alcançar isso.
+Dialogue: 0,0:14:46.64,0:14:49.49,Shirobako_Main,kino,0000,0000,0000,,É o que eu pretendia
+Dialogue: 0,0:14:49.49,0:14:51.39,Shirobako_Main,kino,0000,0000,0000,,expressar nesse anime.
+Dialogue: 0,0:14:51.86,0:14:55.17,Shirobako_Main,kino,0000,0000,0000,,Nossa vida diária é igual a da Aria.
+Dialogue: 0,0:14:55.17,0:14:59.08,Shirobako_Main,kino,0000,0000,0000,,Não importa o quão duras as batalhas sejam, \Na luta continua por causa de nossos companheiros.
+Dialogue: 0,0:14:59.08,0:15:01.12,Shirobako_Main,kino,0000,0000,0000,,Por isso, pela protagonista,
+Dialogue: 0,0:15:01.12,0:15:03.31,Shirobako_Main,kino,0000,0000,0000,,pela Aria, eu desejo que ela volte a voar.
+Dialogue: 0,0:15:03.31,0:15:04.87,Shirobako_Main,kino,0000,0000,0000,,Acreditando em suas companheiras.
+Dialogue: 0,0:15:04.87,0:15:08.39,Shirobako_Main,kino,0000,0000,0000,,Esse é o último episódio que eu quero alcançar.
+Dialogue: 0,0:15:09.46,0:15:10.85,Shirobako_Main,nogame,0000,0000,0000,,Kinoshita-san...
+Dialogue: 0,0:15:11.07,0:15:13.51,Shirobako_Main,nogame,0000,0000,0000,,Para você o time de produção
+Dialogue: 0,0:15:13.51,0:15:15.57,Shirobako_Main,nogame,0000,0000,0000,,é o "Dai San Hikou Shoujo Tai".
+Dialogue: 0,0:15:15.87,0:15:19.08,Shirobako_Main,nogame,0000,0000,0000,,Por isso a Aria deve liderar suas\N companheiras e voltar a voar.
+Dialogue: 0,0:15:19.60,0:15:21.99,Shirobako_Main,nogame,0000,0000,0000,,Eu entendo o seu senso de responsabilidade.
+Dialogue: 0,0:15:23.98,0:15:26.30,Shirobako_Main,nogame,0000,0000,0000,,Mas é diferente para mim.
+Dialogue: 0,0:15:27.06,0:15:28.68,Shirobako_Main,kino,0000,0000,0000,,Diferente como?
+Dialogue: 0,0:15:28.68,0:15:31.05,Shirobako_Main,nogame,0000,0000,0000,,Para mim a Aria e os inimigos que ela enfrenta
+Dialogue: 0,0:15:31.05,0:15:34.20,Shirobako_Main,nogame,0000,0000,0000,,são uma metáfora de mim e dos\N problemas que me afligem.
+Dialogue: 0,0:15:34.20,0:15:38.02,Shirobako_Main,nogame,0000,0000,0000,,As cinco garotas de "Sanjo" são feitas\N de divisões da minha personalidade.
+Dialogue: 0,0:15:38.51,0:15:41.33,Shirobako_Main,nogame,0000,0000,0000,,São diferentes do time \Nque você imagina que são.
+Dialogue: 0,0:15:42.60,0:15:45.44,Shirobako_Main,kino,0000,0000,0000,,Entendo. Então para você
+Dialogue: 0,0:15:45.44,0:15:47.79,Shirobako_Main,kino,0000,0000,0000,,o "Sanjo" não é sobre um time que deve se unir,
+Dialogue: 0,0:15:47.79,0:15:50.93,Shirobako_Main,kino,0000,0000,0000,,mas uma história pessoal \Nsobre morrer e renascer.
+Dialogue: 0,0:15:52.03,0:15:55.55,Shirobako_Main,kino,0000,0000,0000,,Por isso a Aria não pode voar apenas pelo\N seu senso de responsabilidade e culpa.
+Dialogue: 0,0:15:56.24,0:15:58.05,Shirobako_Main,kino,0000,0000,0000,,Ela não é capaz de voar antes que
+Dialogue: 0,0:15:58.05,0:16:01.03,Shirobako_Main,kino,0000,0000,0000,,ela resolva seus problemas interiores.
+Dialogue: 0,0:16:01.03,0:16:02.03,Shirobako_Main,nogame,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:16:02.03,0:16:05.78,Shirobako_Main,kino,0000,0000,0000,,A Aria não pode voar antes que \Nencontre sua própria razão, certo?
+Dialogue: 0,0:16:05.78,0:16:06.92,Shirobako_Main,nogame,0000,0000,0000,,Exatamente!
+Dialogue: 0,0:16:06.92,0:16:10.59,Shirobako_Main,kino,0000,0000,0000,,Deve deixar de lado a esperança e sonhos,\N ela deve encontrar uma razão pessoal.
+Dialogue: 0,0:16:10.59,0:16:12.42,Shirobako_Main,nogame,0000,0000,0000,,O fato de ela não ter uma razão
+Dialogue: 0,0:16:12.42,0:16:14.75,Shirobako_Main,nogame,0000,0000,0000,,é um outro problema que ela enfrenta.
+Dialogue: 0,0:16:15.86,0:16:19.32,Shirobako_Main,kino,0000,0000,0000,,Então pode ser uma boa ideia criar\N esperanças e sonhos para a Aria.
+Dialogue: 0,0:16:19.32,0:16:21.75,Shirobako_Main,nogame,0000,0000,0000,,Ou talvez alguém que possa dar isso a ela!
+Dialogue: 0,0:16:25.45,0:16:26.70,Shirobako_Main,kino,0000,0000,0000,,Nogame-sensei...
+Dialogue: 0,0:16:27.05,0:16:28.76,Shirobako_Main,nogame,0000,0000,0000,,Por favor, não me chame de sensei.
+Dialogue: 0,0:16:29.03,0:16:30.43,Shirobako_Main,kino,0000,0000,0000,,Então, Nogame-san.
+Dialogue: 0,0:16:30.75,0:16:33.61,Shirobako_Main,kino,0000,0000,0000,,Que tal fazer com que a Aria cumpra\N sua promessa com a Catherine?
+Dialogue: 0,0:16:33.61,0:16:35.71,Shirobako_Main,kino,0000,0000,0000,,A de ver um bezerro que acaba de nascer.
+Dialogue: 0,0:16:35.71,0:16:39.01,Shirobako_Main,nogame,0000,0000,0000,,Não, acho que isso não é o \Nbastante, diretor Kinoshita.
+Dialogue: 0,0:16:39.01,0:16:41.21,Shirobako_Main,nogame,0000,0000,0000,,Deve ser algo mais... Alguém mais...
+Dialogue: 0,0:16:41.48,0:16:42.62,Shirobako_Main,kino,0000,0000,0000,,Os pais da Catherine?
+Dialogue: 0,0:16:42.86,0:16:45.83,Shirobako_Main,nogame,0000,0000,0000,,Não, alguém que possa ser\N a luz de uma esperança.
+Dialogue: 0,0:16:46.36,0:16:47.13,Shirobako_Main,nogame,0000,0000,0000,,Como uma irmã mais nova!
+Dialogue: 0,0:16:47.13,0:16:49.59,Shirobako_Main,kino,0000,0000,0000,,A irmã mais nova da Catherine? Isso é ótimo!
+Dialogue: 0,0:16:49.59,0:16:50.57,Shirobako_Main,,0000,0000,0000,,É.
+Dialogue: 0,0:16:50.57,0:16:53.35,Shirobako_Main,nogame,0000,0000,0000,,É a nova vida que ela encontra depois\N de lidar com a morte de sua amiga.
+Dialogue: 0,0:16:53.35,0:16:56.31,Shirobako_Main,nogame,0000,0000,0000,,Uma garota pura. No belo lugar em que ela vive!
+Dialogue: 0,0:16:56.31,0:16:59.78,Shirobako_Main,kino,0000,0000,0000,,Isso tudo vai se tornar algo que\N a Aria vai querer proteger!
+Dialogue: 0,0:17:03.19,0:17:04.95,Shirobako_Main,nogame,0000,0000,0000,,Esta é a primeira vez
+Dialogue: 0,0:17:04.95,0:17:08.04,Shirobako_Main,nogame,0000,0000,0000,,que sinto esperança e \Nanimação com outra pessoa
+Dialogue: 0,0:17:08.04,0:17:10.29,Shirobako_Main,nogame,0000,0000,0000,,trabalhando em minha criação.
+Dialogue: 0,0:17:11.05,0:17:12.56,Shirobako_Main,kino,0000,0000,0000,,Muito obrigado.
+Dialogue: 0,0:17:12.86,0:17:16.31,Shirobako_Main,nogame,0000,0000,0000,,Enviarei imediatamente os detalhes\N da irmã mais nova da Catherine.
+Dialogue: 0,0:17:16.58,0:17:17.56,Shirobako_Main,kino,0000,0000,0000,,Sim, por favor!
+Dialogue: 0,0:17:19.82,0:17:22.51,Shirobako_Main,nogame,0000,0000,0000,,Queria ter conhecido você antes.
+Dialogue: 0,0:17:22.51,0:17:23.92,Shirobako_Main,kino,0000,0000,0000,,Eu também.
+Dialogue: 0,0:17:23.92,0:17:27.92,Shirobako_Main,kino,0000,0000,0000,,Eu pedi muito para que o pessoal editorial \Nme deixasse encontrá-lo pessoalmente, mas...
+Dialogue: 0,0:17:28.40,0:17:30.53,Shirobako_Main,nogame,0000,0000,0000,,Eu não ouvi nada sobre isso.
+Dialogue: 0,0:17:30.53,0:17:31.02,Shirobako_Main,kino,0000,0000,0000,,Hã?
+Dialogue: 0,0:17:31.02,0:17:32.24,Shirobako_Main,nogame,0000,0000,0000,,Isso que dizer...
+Dialogue: 0,0:17:32.24,0:17:35.48,Shirobako_Main,cha,0000,0000,0000,,Ei! Sua barriga balançadora gigante,\N saia daqui! Que história estranha—
+Dialogue: 0,0:17:35.48,0:17:37.93,Shirobako_Main,nogame,0000,0000,0000,,Não é uma história estranha!
+Dialogue: 0,0:17:38.48,0:17:42.16,Shirobako_Main,nogame,0000,0000,0000,,Chazawa-san parece que você\N interferiu em muitas coisas.
+Dialogue: 0,0:17:42.16,0:17:44.26,Shirobako_Main,eic,0000,0000,0000,,O que isso significa, Chazawa-kun?
+Dialogue: 0,0:17:44.26,0:17:45.54,Shirobako_Main,cha,0000,0000,0000,,Ah, é que...
+Dialogue: 0,0:17:45.54,0:17:48.47,Shirobako_Main,cha,0000,0000,0000,,Eu tentei fazer o possível para diminuir\N o peso do trabalho do sensei...
+Dialogue: 0,0:17:48.47,0:17:51.39,Shirobako_Main,cha,0000,0000,0000,,Então eu me tornei seu escudo e \No protegi. Que história estranha.
+Dialogue: 0,0:17:51.39,0:17:53.93,Shirobako_Main,nogame,0000,0000,0000,,Essa história não é nada estranha!
+Dialogue: 0,0:17:55.36,0:17:58.43,Shirobako_Main,ono,0000,0000,0000,,Parece que você não serve \Npara ser o editor do sensei.
+Dialogue: 0,0:17:58.43,0:18:00.03,Shirobako_Main,eic,0000,0000,0000,,Concordo, chefe.
+Dialogue: 0,0:18:02.75,0:18:05.29,Shirobako_Main,aoi,0000,0000,0000,,Ah, diretor! Como foi?
+Dialogue: 0,0:18:05.70,0:18:09.10,Shirobako_Main,kino,0000,0000,0000,,A Aria vai voar!
+Dialogue: 0,0:18:11.57,0:18:13.68,Shirobako_Main,kino,0000,0000,0000,,Vamos, temos que voltar à base!
+Dialogue: 0,0:18:14.19,0:18:16.33,Shirobako_Main,kino,0000,0000,0000,,Sim, eu acho que vai ficar bom.
+Dialogue: 0,0:18:16.33,0:18:18.33,Shirobako_Main,kino,0000,0000,0000,,Então, sobre a cena adicionada...
+Dialogue: 0,0:18:18.54,0:18:20.31,Shirobako_Main,aoi,0000,0000,0000,,O que acha, Maitake-san?
+Dialogue: 0,0:18:20.31,0:18:22.70,Shirobako_Main,maitake,0000,0000,0000,,Tudo bem, mas só temos esta noite.
+Dialogue: 0,0:18:22.98,0:18:24.49,Shirobako_Main,mai,0000,0000,0000,,Você tem tempo agora?
+Dialogue: 0,0:18:24.49,0:18:26.29,Shirobako_Main,mido,0000,0000,0000,,Hã? Sim, eu tenho.
+Dialogue: 0,0:18:26.48,0:18:30.06,Shirobako_Main,mai,0000,0000,0000,,Então vou explicar coisas \Nverbalmente, pode juntar tudo isso?
+Dialogue: 0,0:18:30.43,0:18:32.99,Shirobako_Main,mai,0000,0000,0000,,Depois que escrever tudo, mande isso \Npara mim. Eu ajusto tudo até de manhã.
+Dialogue: 0,0:18:32.99,0:18:34.15,Shirobako_Main,mido,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:18:34.15,0:18:35.55,Shirobako_Main,mai,0000,0000,0000,,Então vamos fazer isso em um restaurante.
+Dialogue: 0,0:18:35.55,0:18:36.76,Shirobako_Main,mido,0000,0000,0000,,Entendido!
+Dialogue: 0,0:18:37.06,0:18:39.78,Shirobako_Main,aoi,0000,0000,0000,,Vou pedir para a Iguchi-san fazer \No design de personagem da Lucy.
+Dialogue: 0,0:18:40.48,0:18:42.74,Shirobako_Main,nabe,0000,0000,0000,,Então, se conseguirmos fazer todo\N esse trabalho extra até quinta...
+Dialogue: 0,0:18:42.74,0:18:44.06,Shirobako_Main,kino,0000,0000,0000,,Vamos fazer!
+Dialogue: 0,0:18:44.06,0:18:45.62,Shirobako_Main,nabe,0000,0000,0000,,Eu gostaria de reeditar no sábado.
+Dialogue: 0,0:18:45.82,0:18:47.75,Shirobako_Main,katsu,0000,0000,0000,,Então o pós-gravação vai ser no domingo.
+Dialogue: 0,0:18:47.75,0:18:50.02,Shirobako_Main,katsu,0000,0000,0000,,Precisamos apenas da Aria e da Lucy, certo?
+Dialogue: 0,0:18:50.33,0:18:52.28,Shirobako_Main,katsu,0000,0000,0000,,E sobre a pessoa que vai interpretar a Lucy,
+Dialogue: 0,0:18:52.28,0:18:56.27,Shirobako_Main,katsu,0000,0000,0000,,já que é a irmã da Catherine, ela \Ndeveria ter algo que se assemelhe.
+Dialogue: 0,0:18:56.27,0:18:59.72,Shirobako_Main,kino,0000,0000,0000,,Se fizermos a Catherine soar\N um pouco mais jovem...
+Dialogue: 0,0:19:01.91,0:19:03.82,Shirobako_Main,kino,0000,0000,0000,,Ainda temos as gravações da audição?
+Dialogue: 0,0:19:04.52,0:19:06.28,Shirobako_Main,aoi,0000,0000,0000,,Rii-chan, obrigada pelo bom trabalho!
+Dialogue: 0,0:19:06.28,0:19:07.49,Shirobako_Main,mido,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:19:07.49,0:19:10.37,Shirobako_Main,mido,0000,0000,0000,,Ele usou uma das linhas que eu escrevi!
+Dialogue: 0,0:19:10.37,0:19:11.80,Shirobako_Main,aoi,0000,0000,0000,,Que legal!
+Dialogue: 0,0:19:11.80,0:19:14.86,Shirobako_Main,nabe,0000,0000,0000,,Já recebemos o "OK" do \NNogame-sensei pelo roteiro.
+Dialogue: 0,0:19:14.86,0:19:16.76,Shirobako_Main,aoi,0000,0000,0000,,Vou pedir para o diretor começar o storyboard!
+Dialogue: 0,0:19:18.98,0:19:21.10,Shirobako_Main,kino,0000,0000,0000,,"O storyboard estava muito bom.
+Dialogue: 0,0:19:21.10,0:19:23.11,Shirobako_Main,kino,0000,0000,0000,,Fiquei emocionado. Nogame."
+Dialogue: 0,0:19:23.82,0:19:26.30,Shirobako_Main,aoi,0000,0000,0000,,Se tirarmos cinquenta cenas \Ne adicionarmos cem outras...
+Dialogue: 0,0:19:26.30,0:19:29.65,Shirobako_Main,aoi,0000,0000,0000,,Não vamos conseguir fazer tudo internamente,\N precisamos procurar por outros animadores.
+Dialogue: 0,0:19:29.65,0:19:30.28,Shirobako_Main,both,0000,0000,0000,,Entendido!
+Dialogue: 0,0:19:36.15,0:19:36.91,Shirobako_Main,shizu,0000,0000,0000,,Sim?
+Dialogue: 0,0:19:38.84,0:19:41.68,Shirobako_Main,kino,0000,0000,0000,,Temos que cortar mais três minutos?
+Dialogue: 0,0:19:39.76,0:19:47.74,Ending_19:39_(ep23),sign,0000,0000,0000,,Encerramento
+Dialogue: 0,0:19:41.68,0:19:43.91,Shirobako_Main,kino,0000,0000,0000,,Mas não posso cortar mais nada!
+Dialogue: 0,0:19:43.91,0:19:46.90,Shirobako_Main,edit,0000,0000,0000,,Que tal cortar a cena em\N que a Aria entra no jato?
+Dialogue: 0,0:19:46.90,0:19:47.74,Shirobako_Main,kino,0000,0000,0000,,Hã? Assim de repente?
+Dialogue: 0,0:19:48.11,0:19:51.60,Shirobako_Main,edit,0000,0000,0000,,Acho que isso vale para \Nsurpreender quem está assistindo.
+Dialogue: 0,0:19:50.07,0:19:53.05,Nakabayashi_Wataru_19:49_(ep23),sign,0000,0000,0000,,Nakabayashi Wataru \N Editor
+Dialogue: 0,0:19:51.60,0:19:53.05,Shirobako_Main,edit,0000,0000,0000,,Assim podemos cortar vinte segundos.
+Dialogue: 0,0:19:54.21,0:19:55.69,Shirobako_Main,edit,0000,0000,0000,,A cena de batalha na parte A,
+Dialogue: 0,0:19:55.69,0:19:58.36,Shirobako_Main,edit,0000,0000,0000,,eu cortei a cena para a Aria incapaz de voar.
+Dialogue: 0,0:20:00.16,0:20:01.52,Shirobako_Main,kino,0000,0000,0000,,Não acha que o ritmo fica estranho?
+Dialogue: 0,0:20:01.52,0:20:04.08,Shirobako_Main,edit,0000,0000,0000,,Se deixarmos essas cenas mais curtas,
+Dialogue: 0,0:20:04.08,0:20:05.73,Shirobako_Main,edit,0000,0000,0000,,eu acho que o ritmo vai ficar fluido.
+Dialogue: 0,0:20:06.04,0:20:07.57,Shirobako_Main,kino,0000,0000,0000,,Então vamos fazer isso.
+Dialogue: 0,0:20:07.57,0:20:09.26,Shirobako_Main,edit,0000,0000,0000,,Com isso terminamos.
+Dialogue: 0,0:20:09.26,0:20:13.00,Shirobako_Main,kino,0000,0000,0000,,Acabou!
+Dialogue: 0,0:20:10.42,0:20:13.00,Shirobako_Main,girls,0000,0000,0000,,Não acabou! Na verdade apenas começamos.
+Dialogue: 0,0:20:13.00,0:20:15.00,TAGS_#13_Add-on_AR_20:12_(ep23),sign,0000,0000,0000,,Dai San Hikou Shoujo Tai\N#13 Add-on AR
+Dialogue: 0,0:20:17.46,0:20:19.84,Shirobako_Main,suzuki,0000,0000,0000,,Sou a Suzuki Kyouko. É um prazer\N trabalhar com vocês novamente.
+Dialogue: 0,0:20:19.84,0:20:21.06,Shirobako_Main,aoi,0000,0000,0000,,Obrigada por vir.
+Dialogue: 0,0:20:21.06,0:20:23.38,Shirobako_Main,kino,0000,0000,0000,,Desculpe pela correria de hoje.
+Dialogue: 0,0:20:23.38,0:20:25.83,Shirobako_Main,suzu,0000,0000,0000,,Tudo bem! Fico feliz em \Ncontinuar a interpretar a Aria.
+Dialogue: 0,0:20:25.83,0:20:26.91,Shirobako_Main,kino,0000,0000,0000,,Contamos com você.
+Dialogue: 0,0:20:28.52,0:20:29.86,Shirobako_Main,katsu,0000,0000,0000,,A Lucy ainda não chegou?
+Dialogue: 0,0:20:31.37,0:20:32.39,Shirobako_Main,shizu,0000,0000,0000,,Com licença.
+Dialogue: 0,0:20:34.25,0:20:36.51,Shirobako_Main,shizu,0000,0000,0000,,Vou participar interpretando a Lucy.
+Dialogue: 0,0:20:36.51,0:20:39.26,Shirobako_Main,shizu,0000,0000,0000,,Meu nome é Sakaki Shizuka,\N da Aka Oni Productions.
+Dialogue: 0,0:20:39.26,0:20:40.79,Shirobako_Main,shizu,0000,0000,0000,,É um prazer trabalhar com todos vocês.
+Dialogue: 0,0:20:41.09,0:20:42.32,Shirobako_Main,kino,0000,0000,0000,,Prazer.
+Dialogue: 0,0:20:42.57,0:20:43.77,Shirobako_Main,kino,0000,0000,0000,,Ah, Sakaki-san.
+Dialogue: 0,0:20:43.77,0:20:47.45,Shirobako_Main,kino,0000,0000,0000,,Ainda se lembra de como \Ninterpretou a Catherine na audição?
+Dialogue: 0,0:20:47.45,0:20:48.28,Shirobako_Main,shizu,0000,0000,0000,,Sim.
+Dialogue: 0,0:20:49.03,0:20:52.25,Shirobako_Main,shizu,0000,0000,0000,,Obrigada, Aria... Por me salvar.
+Dialogue: 0,0:20:52.54,0:20:55.21,Shirobako_Main,kino,0000,0000,0000,,Isso. Mas faça isso soando mais jovem.
+Dialogue: 0,0:20:55.46,0:20:59.23,Shirobako_Main,kino,0000,0000,0000,,É jovem, mas com o sentimento de \Nalguém que cresceu com a natureza.
+Dialogue: 0,0:20:59.53,0:21:01.15,Shirobako_Main,kino,0000,0000,0000,,Por favor, pode manter sua confiança!
+Dialogue: 0,0:21:01.46,0:21:04.00,Shirobako_Main,shizu,0000,0000,0000,,Entendi. Muito obrigada!
+Dialogue: 0,0:21:08.59,0:21:10.95,Shirobako_Main,kino,0000,0000,0000,,Quando ela interpretou a Catherine na audição
+Dialogue: 0,0:21:10.95,0:21:12.95,Shirobako_Main,kino,0000,0000,0000,,ela ficou em minha mente até o fim.
+Dialogue: 0,0:21:12.95,0:21:15.08,Shirobako_Main,kino,0000,0000,0000,,Mas ela faz soar um pouco jovem demais.
+Dialogue: 0,0:21:15.08,0:21:17.58,Shirobako_Main,katsu,0000,0000,0000,,Mas para este trabalho ela é perfeita.
+Dialogue: 0,0:21:17.58,0:21:18.46,Shirobako_Main,kino,0000,0000,0000,,Sim.
+Dialogue: 0,0:21:19.27,0:21:21.72,Shirobako_Main,ina,0000,0000,0000,,Bem, vamos começar \Ngravando a cena na fazenda.
+Dialogue: 0,0:21:21.72,0:21:22.73,Shirobako_Main,suzuki,0000,0000,0000,,Está bem!
+Dialogue: 0,0:21:22.73,0:21:24.23,Shirobako_Main,shizu,0000,0000,0000,,Por favor.
+Dialogue: 0,0:21:24.46,0:21:25.82,Shirobako_Main,mixer,0000,0000,0000,,Estamos rodando.
+Dialogue: 0,0:21:27.06,0:21:29.40,Lucy_2126_(ep23),sign,0000,0000,0000,,Lucy
+Dialogue: 0,0:21:33.20,0:21:36.34,Shirobako_Main,lucy,0000,0000,0000,,Ah, por acaso você é a Aria-san?
+Dialogue: 0,0:21:37.30,0:21:39.73,Shirobako_Main,lucy,0000,0000,0000,,É exatamente como a Onee-chan me disse.
+Dialogue: 0,0:21:40.39,0:21:42.38,Shirobako_Main,lucy,0000,0000,0000,,Eu sou a irmã da Catherine,
+Dialogue: 0,0:21:42.38,0:21:43.62,Shirobako_Main,lucy,0000,0000,0000,,sou a Lucy.
+Dialogue: 0,0:21:43.62,0:21:45.03,Shirobako_Main,lucy,0000,0000,0000,,O que a traz aqui?
+Dialogue: 0,0:21:45.03,0:21:46.69,Shirobako_Main,aria,0000,0000,0000,,Eu vim para ver um bezerro.
+Dialogue: 0,0:21:47.05,0:21:48.02,Shirobako_Main,lucy,0000,0000,0000,,Um bezerro?
+Dialogue: 0,0:21:48.28,0:21:50.31,Shirobako_Main,aria,0000,0000,0000,,Pois fiz uma promessa para a Catherine.
+Dialogue: 0,0:21:50.31,0:21:52.33,Shirobako_Main,lucy,0000,0000,0000,,Ah, então venha por aqui!
+Dialogue: 0,0:21:53.06,0:21:55.95,Shirobako_Main,lucy,0000,0000,0000,,A minha irmã foi para bem longe,
+Dialogue: 0,0:21:55.95,0:21:58.43,Shirobako_Main,lucy,0000,0000,0000,,mas eu acho que vou ficar aqui para sempre.
+Dialogue: 0,0:21:58.76,0:21:59.54,Shirobako_Main,aria,0000,0000,0000,,Por quê?
+Dialogue: 0,0:22:00.10,0:22:02.65,Shirobako_Main,lucy,0000,0000,0000,,Vou criar muitos bezerros no mundo em que
+Dialogue: 0,0:22:03.08,0:22:05.47,Shirobako_Main,lucy,0000,0000,0000,,você e as outras pessoas \Nlutam para proteger, Aria-san.
+Dialogue: 0,0:22:05.92,0:22:09.30,Shirobako_Main,aria,0000,0000,0000,,O mundo que nós lutamos para proteger...
+Dialogue: 0,0:22:09.60,0:22:13.58,Shirobako_Main,lucy,0000,0000,0000,,Isso é o que eu posso fazer.\N Pois é este o meu sonho.
+Dialogue: 0,0:22:14.59,0:22:15.61,Shirobako_Main,lucy,0000,0000,0000,,Aria-san?
+Dialogue: 0,0:22:17.39,0:22:18.28,Shirobako_Main,aria,0000,0000,0000,,Eu vou voltar.
+Dialogue: 0,0:22:19.01,0:22:21.00,Shirobako_Main,aria,0000,0000,0000,,Para poder proteger tudo isto.
+Dialogue: 0,0:22:21.35,0:22:23.24,Shirobako_Main,lucy,0000,0000,0000,,Obrigada, Aria-san.
+Dialogue: 0,0:22:23.60,0:22:24.96,Shirobako_Main,lucy,0000,0000,0000,,Eu sinto que dei
+Dialogue: 0,0:22:25.45,0:22:27.81,Shirobako_Main,lucy,0000,0000,0000,,um passo para mais perto de meus sonhos.
+Dialogue: 0,0:22:30.81,0:22:33.28,Shirobako_Italics,ina,0000,0000,0000,,Muito bem, a cena da Lucy está boa.
+Dialogue: 0,0:22:36.51,0:22:37.95,Shirobako_Main,shizu,0000,0000,0000,,Muito obrigada.
+Dialogue: 0,0:22:50.10,0:22:55.07,TAGS-script_22:49_(ep23),script,0000,0000,0000,,Dai San Hikou Shoujo Tai
+Dialogue: 0,0:24:30.04,0:24:31.73,Shirobako_Main,aoi,0000,0000,0000,,Sim, aqui é a da Musashino Animation.
+Dialogue: 0,0:24:31.73,0:24:32.88,Shirobako_Main,aoi,0000,0000,0000,,Oh, Honda-san.
+Dialogue: 0,0:24:32.88,0:24:35.16,Shirobako_Main,aoi,0000,0000,0000,,Na próxima semana temos a edição\N de video do último episódio,
+Dialogue: 0,0:24:35.16,0:24:36.99,Shirobako_Main,aoi,0000,0000,0000,,mas parece que isso vai ser\N bem no dia que vai ao ar.
+Dialogue: 0,0:24:36.99,0:24:39.24,Shirobako_Main,aoi,0000,0000,0000,,{\an8}O episódio final de Shirobako: A \NEntrega Do Produto Era Longe Demais.
+Dialogue: 0,0:24:37.32,0:24:39.24,Shirobako_Next_Ep_Title_(Ep23),sign,0000,0000,0000,,A Entrega Do Produto Era Longe Demais

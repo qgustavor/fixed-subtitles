@@ -1,0 +1,538 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Shirobako_Main,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0015,1
+Style: Shirobako_Ep_Title_(Ep21),Arial,24,&H00FFBA40,&H000000FF,&H00F5FCFF,&H0012042C,-1,0,0,0,100,100,0,0,1,4,2,8,0010,0010,0065,1
+Style: e-mail_message_04:13_(ep21),Arial,14,&H00756164,&H000000FF,&H00FEFEFE,&H005C6360,0,0,0,0,100,100,0,0,1,2,0,7,0305,0010,0208,1
+Style: scenario_text_05:11_(ep21),Arial,14,&H00756164,&H000000FF,&H00FEFEFE,&H005C6360,0,0,0,0,100,100,0,0,1,2,0,7,0450,0010,0070,1
+Style: Pumpkin_11:46_(ep21),Arial,14,&H004C7BED,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,100,0,0,1,0,0,7,0138,0005,0185,1
+Style: Sponsors_12:04_(ep21),Arial,16,&H00FFFFFF,&H000000FF,&H005B6261,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0265,1
+Style: Incoming_call_12:57_(ep21),Arial,14,&H00F8F0D5,&H000000FF,&H00AEA365,&H0065E9FF,-1,0,0,0,100,100,0,15,1,3,0,5,0010,0090,0068,1
+Style: A.C_Tsuchinoko_16:26_(ep21),Arial,16,&H00060506,&H000000FF,&H00FEFEFF,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0010,0155,1
+Style: Combustible_16:33_(ep21),Arial,14,&H00060506,&H000000FF,&H005D625B,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,2,0440,0015,0030,1
+Style: Bathroom_(ep21),Arial,14,&H009DCBCF,&H000000FF,&H00D0FFFF,&H00BAA8EA,-1,0,0,0,100,100,0,0,1,1,0,8,0097,0010,0050,1
+Style: Bathroom_21:47_(ep21),Arial,18,&H0069999D,&H000000FF,&H00D0FFFF,&H00BAA8EA,-1,0,0,0,100,100,0,0,1,1,0,8,0350,0010,0065,1
+Style: Shirobako_Next_Ep_Title_(Ep21),Arial,24,&H004FB945,&H000000FF,&H00F5FCFF,&H0012042C,-1,0,0,0,100,100,0,0,1,3,2,2,0150,0010,0110,1
+Style: Studio_Kanabun_16:17_(ep15),Arial,16,&H00E3433E,&H000000FF,&H00FEFEFF,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0115,1
+Style: Isokawa,Arial,20,&H00FFFEF9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,0065,0010,0130,1
+Style: Shirobako_Main - Top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0015,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.84,0:00:03.57,Shirobako_Main,kisa,0000,0000,0000,,Hum... Uma expressão pessoal?
+Dialogue: 0,0:00:03.57,0:00:06.78,Shirobako_Main,ochiai,0000,0000,0000,,No fim, eu só quero assistir algo que eu fiz.
+Dialogue: 0,0:00:07.01,0:00:09.77,Shirobako_Main,tomi,0000,0000,0000,,Eu quero criar uma companhia\N como a Pexar no Japão.
+Dialogue: 0,0:00:09.77,0:00:11.24,Shirobako_Main,tomi,0000,0000,0000,,Um dia vou fazer isso sozinho!
+Dialogue: 0,0:00:11.24,0:00:14.54,Shirobako_Main,shin,0000,0000,0000,,Desde criança, eu sempre \Ngostei de colorir desenhos.
+Dialogue: 0,0:00:14.54,0:00:16.62,Shirobako_Main,dou,0000,0000,0000,,Só estou continuando algo que gosto.
+Dialogue: 0,0:00:16.62,0:00:20.33,Shirobako_Main,person,0000,0000,0000,,Foi ficando cada vez mais \Ndivertido, não consegui parar.
+Dialogue: 0,0:00:20.62,0:00:22.07,Shirobako_Main,ookura,0000,0000,0000,,Um garoto de dez anos
+Dialogue: 0,0:00:22.07,0:00:24.67,Shirobako_Main,ookura,0000,0000,0000,,continua a viver até hoje no meu coração.
+Dialogue: 0,0:00:25.90,0:00:26.88,Shirobako_Main,kuno,0000,0000,0000,,Anima—
+Dialogue: 0,0:00:26.88,0:00:28.30,Shirobako_Main,mimu,0000,0000,0000,,E você?
+Dialogue: 0,0:00:28.30,0:00:30.04,Shirobako_Main,mimu,0000,0000,0000,,Qual a sua razão?
+Dialogue: 0,0:00:30.04,0:00:32.20,Shirobako_Main,roro,0000,0000,0000,,Foi porque comeu donuts demais.
+Dialogue: 0,0:00:32.20,0:00:33.81,Shirobako_Main,mimu,0000,0000,0000,,Isso não tem nada a ver!
+Dialogue: 0,0:02:09.14,0:02:10.97,Shirobako_Main,yano,0000,0000,0000,,Obrigada pelo bom trabalho.
+Dialogue: 0,0:02:30.84,0:02:33.84,Shirobako_Ep_Title_(Ep21),sign,0000,0000,0000,,Não Faça a Qualidade de Refém!
+Dialogue: 0,0:02:31.86,0:02:33.84,Shirobako_Main,aoi,0000,0000,0000,,Não Faça a Qualidade de Refém!
+Dialogue: 0,0:02:36.70,0:02:40.52,Shirobako_Main,ike,0000,0000,0000,,Eu já terminei o dubbing, não posso ir embora?
+Dialogue: 0,0:02:40.82,0:02:44.54,Shirobako_Main,yano,0000,0000,0000,,Ainda tem retakes para fazer \Ndepois do dubbing, não é mesmo?
+Dialogue: 0,0:02:48.90,0:02:50.57,Shirobako_Main,yano,0000,0000,0000,,Terminamos o dubbing do episódio cinco.
+Dialogue: 0,0:02:50.96,0:02:52.62,Shirobako_Main,aoi,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:02:50.96,0:02:52.62,Shirobako_Main,sato,0000,0000,0000,,Obrigada pelo bom trabalho!
+Dialogue: 0,0:02:51.83,0:02:52.62,Shirobako_Main,taro,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:02:52.62,0:02:54.53,Shirobako_Main,yano,0000,0000,0000,,Estou exausta agora,
+Dialogue: 0,0:02:54.53,0:02:57.95,Shirobako_Main,yano,0000,0000,0000,,por ficar tentando controlar o \Nnavio para não esbarrar no iceberg.
+Dialogue: 0,0:02:57.95,0:02:58.66,Shirobako_Main,sato,0000,0000,0000,,Iceberg?
+Dialogue: 0,0:02:58.91,0:03:01.10,Shirobako_Main,ando,0000,0000,0000,,Ah, o episódio cinco foi feito no Taitanic!
+Dialogue: 0,0:03:01.10,0:03:03.42,Shirobako_Main,yano,0000,0000,0000,,As pessoas daquele lugar \Nnão conseguem entender.
+Dialogue: 0,0:03:03.42,0:03:06.01,Shirobako_Main,yano,0000,0000,0000,,Sobre a importância de aplicar\N a coloração no dubbing.
+Dialogue: 0,0:03:06.01,0:03:08.08,Shirobako_Main,ando,0000,0000,0000,,E qual é a importância?
+Dialogue: 0,0:03:08.08,0:03:10.74,Shirobako_Main,yano,0000,0000,0000,,Se não há cores, é difícil de aplicar a sonorização
+Dialogue: 0,0:03:10.74,0:03:12.80,Shirobako_Main,yano,0000,0000,0000,,por falta de informação visual.
+Dialogue: 0,0:03:12.80,0:03:16.68,Shirobako_Main,yano,0000,0000,0000,,O som é diferente quando alguém caminha\N na terra e no concreto, não é mesmo?
+Dialogue: 0,0:03:16.68,0:03:18.29,Shirobako_Main,sato,0000,0000,0000,,Ah, é verdade!
+Dialogue: 0,0:03:18.29,0:03:22.29,Shirobako_Main,yano,0000,0000,0000,,É dificil de fazer o timing de \Nmovimentos usando apenas os esboços.
+Dialogue: 0,0:03:22.29,0:03:25.11,Shirobako_Main,sato,0000,0000,0000,,A imagem e o som se tornam\N confusos, não é mesmo?
+Dialogue: 0,0:03:25.11,0:03:27.27,Shirobako_Main,yanon,0000,0000,0000,,Exatamente. Aqui está, Myamori.
+Dialogue: 0,0:03:27.89,0:03:30.15,Shirobako_Main,,0000,0000,0000,,Está quentinho, acabou de sair do \Nforno o storyboard do episódio 11.
+Dialogue: 0,0:03:30.95,0:03:32.32,Shirobako_Main,aoi,0000,0000,0000,,Já está terminado?!
+Dialogue: 0,0:03:32.61,0:03:34.07,Shirobako_Main,aoi,0000,0000,0000,,Estamos falando do Iketani-san, não é mesmo?
+Dialogue: 0,0:03:34.07,0:03:37.92,Shirobako_Main,taro,0000,0000,0000,,Ele é famoso por levar três meses\N para terminar um episódio!
+Dialogue: 0,0:03:37.92,0:03:40.12,Shirobako_Main,yano,0000,0000,0000,,Ele mesmo disse que foi um recorde pessoal.
+Dialogue: 0,0:03:40.12,0:03:41.48,Shirobako_Main,taro,0000,0000,0000,,Que método você usou?!
+Dialogue: 0,0:03:41.48,0:03:43.79,Shirobako_Main,yano,0000,0000,0000,,Eu só sorri para ele.
+Dialogue: 0,0:03:43.79,0:03:45.85,Shirobako_Main,satou,0000,0000,0000,,Como a fábula do vento do norte e o sol.
+Dialogue: 0,0:03:45.85,0:03:48.30,Shirobako_Main,sato,0000,0000,0000,,As pessoas são mais acessíveis\N quando se usa gentilezas.
+Dialogue: 0,0:03:48.30,0:03:51.50,Shirobako_Main,taro,0000,0000,0000,,Se tratando da Yano-san,\N o medo é multiplicado.
+Dialogue: 0,0:03:52.81,0:03:53.92,Shirobako_Main,yano,0000,0000,0000,,Acha mesmo?
+Dialogue: 0,0:03:53.92,0:03:57.01,Shirobako_Main,taro,0000,0000,0000,,Me desculpe! Tomarei cuidado com o que digo!
+Dialogue: 0,0:03:57.01,0:04:00.83,Shirobako_Main,aoi,0000,0000,0000,,Com isso, passando pela checagem do \Ndiretor, o episódio 11 vai estar preparado.
+Dialogue: 0,0:04:00.83,0:04:03.63,Shirobako_Main,aoi,0000,0000,0000,,Para chegar até a coloração antes do dubbing...
+Dialogue: 0,0:04:04.01,0:04:07.02,Shirobako_Main,aoi,0000,0000,0000,,Vai precisar de algumas \Nboas táticas de infiltração.
+Dialogue: 0,0:04:07.02,0:04:08.52,Shirobako_Main,nabe,0000,0000,0000,,Ei, Miyamori.
+Dialogue: 0,0:04:09.23,0:04:12.82,Shirobako_Main,nabe,0000,0000,0000,,O Chazawa-san enviou a sua reação\N pelo roteiro do episódio 13.
+Dialogue: 0,0:04:12.82,0:04:14.79,Shirobako_Main,nabe,0000,0000,0000,,Ele disse que podemos continuar.
+Dialogue: 0,0:04:12.82,0:04:17.28,e-mail_message_04:13_(ep21),sign right side,0000,0000,0000,,Editora Yotaka Chazawa \N Re: Roteiro do Episódio 13 \N To: Musashino Animation Watanabe \N Eu acho que está bom. É uma história estranha, podem continuar. \N Chazawa
+Dialogue: 0,0:04:14.79,0:04:17.28,Shirobako_Main,aoi,0000,0000,0000,,Então vou pedir para \Ncomeçarem agora o storyboard!
+Dialogue: 0,0:04:17.72,0:04:19.95,Shirobako_Main,nabe,0000,0000,0000,,Finalmente estamos \Nconseguindo enxergar o final.
+Dialogue: 0,0:04:19.95,0:04:22.27,Shirobako_Main,aoi,0000,0000,0000,,Vou pedir para o diretor \Ntentar terminar o storyboard
+Dialogue: 0,0:04:22.27,0:04:24.91,Shirobako_Main,aoi,0000,0000,0000,,durante as próximas quatro \Nsemanas, até o fim do mês que vem.
+Dialogue: 0,0:04:24.91,0:04:28.71,Shirobako_Main,nabe,0000,0000,0000,,Mesmo que termine conforme previsto, teremos\N cerca de seis semanas para o produto final.
+Dialogue: 0,0:04:28.71,0:04:29.75,Shirobako_Main,sato,0000,0000,0000,,Hum...
+Dialogue: 0,0:04:29.75,0:04:32.69,Shirobako_Main,sato,0000,0000,0000,,Vamos conseguir terminar a tempo, o \Núltimo episódio com esse cronograma?
+Dialogue: 0,0:04:32.69,0:04:35.73,Shirobako_Main,taro,0000,0000,0000,,Fazer com que dê tempo é o \Ntrabalho do assistente de produção.
+Dialogue: 0,0:04:36.05,0:04:38.87,Shirobako_Main,sato,0000,0000,0000,,As pessoas que devem trabalhar\N duro para que dê tempo
+Dialogue: 0,0:04:38.87,0:04:41.80,Shirobako_Main,sato,0000,0000,0000,,são os diretores de animação e todos\N os que trabalham no anime, certo?
+Dialogue: 0,0:04:42.04,0:04:45.50,Shirobako_Main,sato,0000,0000,0000,,Eu só estou me esforçando \Npara fazer com que as pessoas
+Dialogue: 0,0:04:45.95,0:04:46.68,Shirobako_Main,sato,0000,0000,0000,,se esforcem...
+Dialogue: 0,0:04:47.39,0:04:48.68,Shirobako_Main,taro,0000,0000,0000,,Ei, Miyamori.
+Dialogue: 0,0:04:48.68,0:04:51.49,Shirobako_Main,taro,0000,0000,0000,,Quem vai ficar com a responsabilidade\N do honrado episódio final?
+Dialogue: 0,0:04:51.49,0:04:54.27,Shirobako_Main,taro,0000,0000,0000,,Normalmente seria eu, o líder\N dos assistentes de produção,
+Dialogue: 0,0:04:54.27,0:04:56.14,Shirobako_Main,taro,0000,0000,0000,,mas eu ainda tenho o episódio 12.
+Dialogue: 0,0:04:56.14,0:04:57.72,Shirobako_Main,taro,0000,0000,0000,,Se usarmos a rotação, vai ser a Satou-san?
+Dialogue: 0,0:04:57.72,0:04:58.19,Shirobako_Main,sato,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:58.19,0:05:00.70,Shirobako_Main,taro,0000,0000,0000,,Não poderei ajudar, mas posso te aconselhar.
+Dialogue: 0,0:05:00.96,0:05:03.68,Shirobako_Main,sato,0000,0000,0000,,Não precisa disso, apenas me ajude.
+Dialogue: 0,0:05:03.68,0:05:04.76,Shirobako_Main,taro,0000,0000,0000,,Sim, senhora.
+Dialogue: 0,0:05:04.76,0:05:07.93,Shirobako_Main,aoi,0000,0000,0000,,Vou pensar mais um pouco \Nsobre quem vai ficar com o episódio final.
+Dialogue: 0,0:05:08.25,0:05:10.96,Studio_Kanabun_16:17_(ep15),sign,0000,0000,0000,,Estúdio Kanabu
+Dialogue: 0,0:05:08.71,0:05:10.96,Shirobako_Main,person,0000,0000,0000,,Recebemos um contato do Shimoyanagi-san.
+Dialogue: 0,0:05:10.96,0:05:13.11,Shirobako_Main,person,0000,0000,0000,,Eles perguntaram se podemos fazer esta cena.
+Dialogue: 0,0:05:10.96,0:05:17.96,scenario_text_05:11_(ep21),sign,0000,0000,0000,,O filhote de javali se move para frente\N e não entende o que está acontecendo.\N\NSe possível, apenas em 3D.\NO F1 acelera.
+Dialogue: 0,0:05:13.11,0:05:14.01,Shirobako_Main,misa,0000,0000,0000,,Um filhote de javali?
+Dialogue: 0,0:05:14.01,0:05:17.96,Shirobako_Main,person,0000,0000,0000,,Isso mesmo. A cena que o filhote de \Njavali que a Aria salvou está no caça.
+Dialogue: 0,0:05:18.44,0:05:20.88,Shirobako_Main,person,0000,0000,0000,,Eu gostaria que você criasse\N essa animação, Toudou-san.
+Dialogue: 0,0:05:20.88,0:05:21.43,Shirobako_Main,misa,0000,0000,0000,,Hein?!
+Dialogue: 0,0:05:21.71,0:05:24.67,Shirobako_Main,misa,0000,0000,0000,,Não apenas a animação dos caças, \Nmas também a de um personagem?
+Dialogue: 0,0:05:24.67,0:05:27.83,Shirobako_Main,person,0000,0000,0000,,Vai estar distante, pode ser \Napenas movimentos básicos.
+Dialogue: 0,0:05:27.83,0:05:31.39,Shirobako_Main,misa,0000,0000,0000,,A Aria é a protagonista, não é mesmo?\N Tem certeza que quer que eu faça?
+Dialogue: 0,0:05:31.39,0:05:33.40,Shirobako_Main,person,0000,0000,0000,,Na verdade, eu quero muito que faça.
+Dialogue: 0,0:05:33.40,0:05:35.59,Shirobako_Main,misa,0000,0000,0000,,Está bem! Me deixe fazer!
+Dialogue: 0,0:05:35.59,0:05:36.40,Shirobako_Main,person,0000,0000,0000,,Conto com você.
+Dialogue: 0,0:05:39.34,0:05:42.45,Shirobako_Main,yano,0000,0000,0000,,A cena onde o filhote de javali fica \Ndescontrolado no cockpit da Aria...
+Dialogue: 0,0:05:42.45,0:05:45.12,Shirobako_Main,yano,0000,0000,0000,,Gostaria que trabalhasse nisto, Sugie-san.
+Dialogue: 0,0:05:45.12,0:05:46.45,Shirobako_Main,sugi,0000,0000,0000,,Ah, claro.
+Dialogue: 0,0:05:46.45,0:05:49.03,Shirobako_Main,sugi,0000,0000,0000,,Apesar que faz anos que não desenho um javali.
+Dialogue: 0,0:05:49.94,0:05:52.46,Shirobako_Main,sugi,0000,0000,0000,,Tem cenas com apenas as personagens também?
+Dialogue: 0,0:05:52.97,0:05:54.54,Shirobako_Main,sugi,0000,0000,0000,,Não acha que os jovens
+Dialogue: 0,0:05:54.54,0:05:57.13,Shirobako_Main,sugi,0000,0000,0000,,devem desenhar melhor as personagens que eu?
+Dialogue: 0,0:05:58.23,0:06:00.30,Shirobako_Main,sugi,0000,0000,0000,,Yasuhara-san, quer desenhar comigo?
+Dialogue: 0,0:06:00.30,0:06:01.76,Shirobako_Main,ema,0000,0000,0000,,Hã? Posso?
+Dialogue: 0,0:06:01.76,0:06:03.88,Shirobako_Main,yano,0000,0000,0000,,Eu adoraria que fizesse,
+Dialogue: 0,0:06:03.88,0:06:06.68,Shirobako_Main,yano,0000,0000,0000,,mas você tem as cenas do episódio 9\N também, não é, Yasuhara-san?
+Dialogue: 0,0:06:06.68,0:06:08.68,Shirobako_Main,ema,0000,0000,0000,,Estou esperando pelos \Nlayouts dos planos de fundo.
+Dialogue: 0,0:06:08.68,0:06:11.14,Shirobako_Main,ema,0000,0000,0000,,Então posso usar esse tempo para fazer.
+Dialogue: 0,0:06:11.14,0:06:13.11,Shirobako_Main,taro,0000,0000,0000,,Obrigado!
+Dialogue: 0,0:06:13.38,0:06:15.52,Shirobako_Main,taro,0000,0000,0000,,Como está indo a Parte A, Madoka-san?
+Dialogue: 0,0:06:15.86,0:06:18.74,Shirobako_Main,taro,0000,0000,0000,,O Yamada-san já terminou\N a Parte B do episódio 12.
+Dialogue: 0,0:06:18.74,0:06:21.07,Shirobako_Main,mado,0000,0000,0000,,Acho que vou terminar ainda hoje... Talvez.
+Dialogue: 0,0:06:21.07,0:06:24.06,Shirobako_Main,taro,0000,0000,0000,,Então amanhã teremos completo\N o storyboard do episódio 12.
+Dialogue: 0,0:06:24.06,0:06:26.48,Shirobako_Main,yamda,0000,0000,0000,,Os responsáveis são você e o Hiraoka?
+Dialogue: 0,0:06:26.48,0:06:29.95,Shirobako_Main,taro,0000,0000,0000,,Isso mesmo! Eu fiquei com a Parte \NA e o Dai-chan ficou com a Parte B!
+Dialogue: 0,0:06:29.95,0:06:31.08,Shirobako_Main,mado,0000,0000,0000,,Será que vai dar certo?
+Dialogue: 0,0:06:31.08,0:06:33.83,Shirobako_Main,taro,0000,0000,0000,,Vamos lá, somos a dupla de ouro da Musani!
+Dialogue: 0,0:06:34.18,0:06:36.17,Shirobako_Main,taro,0000,0000,0000,,Os {\i1}buddies{\i0} perfeitos!
+Dialogue: 0,0:06:37.47,0:06:39.81,Shirobako_Main,person,0000,0000,0000,,Ei, a Miyamori-san está?
+Dialogue: 0,0:06:39.81,0:06:41.92,Shirobako_Main,sato,0000,0000,0000,,Está ausente no momento.
+Dialogue: 0,0:06:42.22,0:06:44.35,Shirobako_Main,sato,0000,0000,0000,,Se não se importar, pode\N me dizer quem é você?
+Dialogue: 0,0:06:44.35,0:06:45.58,Shirobako_Main,person,0000,0000,0000,,Eu sou o namorado da Miyamori-san.
+Dialogue: 0,0:06:45.58,0:06:46.01,Shirobako_Main,both,0000,0000,0000,,Hein?!
+Dialogue: 0,0:06:46.01,0:06:48.46,Shirobako_Main,person,0000,0000,0000,,Brincadeira. Sou o Isokawa, do AC Tsuchinoko.
+Dialogue: 0,0:06:48.46,0:06:50.52,Shirobako_Main,ando,0000,0000,0000,,Ah, é onde estão produzindo o episódio 10.
+Dialogue: 0,0:06:50.52,0:06:52.72,Shirobako_Main,aoi,0000,0000,0000,,Olá, Isokawa-san.
+Dialogue: 0,0:06:52.72,0:06:54.64,Shirobako_Main,person,0000,0000,0000,,Aqui estão as cenas com a supervisão\N de animação do episódio 10.
+Dialogue: 0,0:06:54.64,0:06:56.55,Shirobako_Main,aoi,0000,0000,0000,,Que trabalho o próprio Presidente vir.
+Dialogue: 0,0:06:56.55,0:06:57.55,Shirobako_Main,both,0000,0000,0000,,Presidente?!
+Dialogue: 0,0:06:57.55,0:07:00.30,Shirobako_Main,person,0000,0000,0000,,Isso mesmo. Eu sou o responsável na \Nprodução e Presidente da AC Tsuchinoko.
+Dialogue: 0,0:06:58.48,0:07:02.11,Isokawa,sign,0000,0000,0000,,Isokawa Hisamitsu \N {\fs16}Presidente da AC Tsuchinoko
+Dialogue: 0,0:07:00.62,0:07:03.80,Shirobako_Main,person,0000,0000,0000,,Começamos com a empresa há 1 ano, \Nainda estou com falta de funcionários.
+Dialogue: 0,0:07:03.80,0:07:06.45,Shirobako_Main,person,0000,0000,0000,,Não somos uma grande \Ncompanhia como a Musani.
+Dialogue: 0,0:07:06.45,0:07:08.21,Shirobako_Main,sato,0000,0000,0000,,Creio que não somos uma grande companhia.
+Dialogue: 0,0:07:08.21,0:07:11.15,Shirobako_Main,person,0000,0000,0000,,Ei, você parece uma pessoa\N que trabalha a sério.
+Dialogue: 0,0:07:11.45,0:07:13.96,Shirobako_Main,person,0000,0000,0000,,Estou procurando pessoas para trabalhar\N como assistente de produção, que tal?
+Dialogue: 0,0:07:14.26,0:07:15.25,Shirobako_Main,person,0000,0000,0000,,Mas é trabalho de graça.
+Dialogue: 0,0:07:15.25,0:07:16.58,Shirobako_Main,sato,0000,0000,0000,,Permita-me declinar a oferta.
+Dialogue: 0,0:07:16.58,0:07:17.71,Shirobako_Main,person,0000,0000,0000,,Estou brincando.
+Dialogue: 0,0:07:19.00,0:07:20.92,Shirobako_Main,person,0000,0000,0000,,Ei, se não é o Daisuke.
+Dialogue: 0,0:07:20.92,0:07:21.61,Shirobako_Main,aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:21.61,0:07:22.31,Shirobako_Main,hira,0000,0000,0000,,Ei...
+Dialogue: 0,0:07:22.31,0:07:25.42,Shirobako_Main,person,0000,0000,0000,,Você não estava na Kimon Pro?
+Dialogue: 0,0:07:25.42,0:07:27.75,Shirobako_Main,hira,0000,0000,0000,,Essa foi outra empresa, que estava\N antes de outra, antes desta.
+Dialogue: 0,0:07:28.07,0:07:30.52,Shirobako_Main,aoi,0000,0000,0000,,Ah, vocês se conhecem?
+Dialogue: 0,0:07:30.52,0:07:32.14,Shirobako_Main,person,0000,0000,0000,,Estudamos juntos na escola vocacional.
+Dialogue: 0,0:07:32.14,0:07:32.64,Shirobako_Main,aoi,0000,0000,0000,,O quê?
+Dialogue: 0,0:07:32.64,0:07:35.02,Shirobako_Main,person,0000,0000,0000,,Fizemos um projeto de produção \Njuntos  quando nos formamos.
+Dialogue: 0,0:07:35.49,0:07:36.30,Shirobako_Main,hira,0000,0000,0000,,Sim...
+Dialogue: 0,0:07:36.30,0:07:38.75,Shirobako_Main,person,0000,0000,0000,,Hum? Quer dizer que você e a
+Dialogue: 0,0:07:38.75,0:07:41.52,Shirobako_Main,person,0000,0000,0000,,Erika estão agora na Musani?
+Dialogue: 0,0:07:41.52,0:07:44.08,Shirobako_Main,aoi,0000,0000,0000,,Erika? Está falando da Yano-san?
+Dialogue: 0,0:07:44.08,0:07:46.50,Shirobako_Main,person,0000,0000,0000,,Isso mesmo. Ela estudou \Nna mesma escola que nós.
+Dialogue: 0,0:07:46.50,0:07:48.28,Shirobako_Main,aoi,0000,0000,0000,,Não sabia disso!
+Dialogue: 0,0:07:48.28,0:07:49.76,Shirobako_Main,person,0000,0000,0000,,E então, Daisuke,
+Dialogue: 0,0:07:49.76,0:07:53.37,Shirobako_Main,person,0000,0000,0000,,eu não lembro se te falei, mas \Nabri uma empresa ano passado.
+Dialogue: 0,0:07:53.79,0:07:54.99,Shirobako_Main,hira,0000,0000,0000,,Eu sei.
+Dialogue: 0,0:07:55.29,0:07:56.76,Shirobako_Main,person,0000,0000,0000,,Quero seu cartão de visitas também.
+Dialogue: 0,0:07:57.73,0:07:59.00,Shirobako_Main,hira,0000,0000,0000,,Estou sem agora.
+Dialogue: 0,0:08:00.10,0:08:01.78,Shirobako_Main,yano,0000,0000,0000,,Ah, Isokawa-kun!
+Dialogue: 0,0:08:01.78,0:08:03.21,Shirobako_Main,person,0000,0000,0000,,Ah, falando nela.
+Dialogue: 0,0:08:03.64,0:08:05.36,Shirobako_Main,person,0000,0000,0000,,Erika, como está?
+Dialogue: 0,0:08:05.36,0:08:07.12,Shirobako_Main,yano,0000,0000,0000,,Bem, e você, Presidente?
+Dialogue: 0,0:08:07.12,0:08:10.63,Shirobako_Main,person,0000,0000,0000,,Não me chame de Presidente,\N nem estamos no bar.
+Dialogue: 0,0:08:11.21,0:08:13.95,Shirobako_Main,person,0000,0000,0000,,Soube que seu pai adoeceu, ele está bem?
+Dialogue: 0,0:08:14.25,0:08:16.06,Shirobako_Main,yano,0000,0000,0000,,Ele conseguiu se recuperar.
+Dialogue: 0,0:08:16.06,0:08:17.78,Shirobako_Main,person,0000,0000,0000,,Entendi. Que bom!
+Dialogue: 0,0:08:17.78,0:08:20.48,Shirobako_Main,person,0000,0000,0000,,Mas eu imaginei que você voltaria.
+Dialogue: 0,0:08:20.48,0:08:22.91,Shirobako_Main,yano,0000,0000,0000,,Não tem mais nada que eu consiga fazer.
+Dialogue: 0,0:08:22.91,0:08:25.84,Shirobako_Main,yano,0000,0000,0000,,Quando as coisas se acalmarem\N vou visitar sua empresa.
+Dialogue: 0,0:08:25.84,0:08:28.03,Shirobako_Main,person,0000,0000,0000,,Isso mesmo. Leve junto o Daisuke.
+Dialogue: 0,0:08:28.03,0:08:30.41,Shirobako_Main,hira,0000,0000,0000,,Infelizmente, eu não tenho tanto tempo
+Dialogue: 0,0:08:30.41,0:08:32.73,Shirobako_Main,hira,0000,0000,0000,,como o senhor, Presidente.
+Dialogue: 0,0:08:32.73,0:08:34.14,Shirobako_Main,person,0000,0000,0000,,Que é isso?
+Dialogue: 0,0:08:34.14,0:08:35.91,Shirobako_Main,person,0000,0000,0000,,Venha me ajudar. De graça.
+Dialogue: 0,0:08:35.91,0:08:37.59,Shirobako_Main,sato,0000,0000,0000,,Hum, parece que é brincadeira.
+Dialogue: 0,0:08:37.59,0:08:38.41,Shirobako_Main,hira,0000,0000,0000,,Eu sei.
+Dialogue: 0,0:08:38.81,0:08:41.08,Shirobako_Main,person,0000,0000,0000,,Bem, quando tiverem tempo,\N vamos sair para comer.
+Dialogue: 0,0:08:41.50,0:08:43.92,Shirobako_Main,yano,0000,0000,0000,,É mesmo, vou esperar por isso.
+Dialogue: 0,0:08:44.32,0:08:45.55,Shirobako_Main,yano,0000,0000,0000,,Já que você que vai pagar.
+Dialogue: 0,0:08:45.55,0:08:47.92,Shirobako_Main,person,0000,0000,0000,,Ei, não seja malvada.
+Dialogue: 0,0:08:49.00,0:08:51.29,Shirobako_Main,misa,0000,0000,0000,,Ema-senpai, Zuka-chan-senpai,
+Dialogue: 0,0:08:51.29,0:08:53.14,Shirobako_Main,misa,0000,0000,0000,,desculpem por pedir isso em um domingo.
+Dialogue: 0,0:08:53.14,0:08:56.23,Shirobako_Main,zuka,0000,0000,0000,,Não tem problema. Domingos\N não fazem diferença
+Dialogue: 0,0:08:56.23,0:08:58.45,Shirobako_Main,zuka,0000,0000,0000,,no meu trabalho e nem tinha o que fazer.
+Dialogue: 0,0:08:58.45,0:09:01.34,Shirobako_Main,shizu,0000,0000,0000,,Mas por que veio a um parque de \Ndiversões para criar uma animação—
+Dialogue: 0,0:09:03.92,0:09:06.55,Shirobako_Main,misa,0000,0000,0000,,É porque é a cena em que \Na protagonista e seu avião
+Dialogue: 0,0:09:06.55,0:09:09.04,Shirobako_Main,misa,0000,0000,0000,,aceleram de repente e fazem curvas e rodopiam.
+Dialogue: 0,0:09:09.04,0:09:15.88,Shirobako_Main,shizu,0000,0000,0000,,É-É mesmo??
+Dialogue: 0,0:09:19.44,0:09:22.41,Shirobako_Main,ema,0000,0000,0000,,Estou feliz por trabalhar em uma\N mesma cena que você, Mii-chan.
+Dialogue: 0,0:09:22.84,0:09:24.88,Shirobako_Main,shizu,0000,0000,0000,,É a primeira vez que \Nfazemos um trabalho juntas.
+Dialogue: 0,0:09:25.14,0:09:26.61,Shirobako_Main,shizu,0000,0000,0000,,Ajudou?
+Dialogue: 0,0:09:31.38,0:09:33.34,Shirobako_Main,misa,0000,0000,0000,,Me desculpem por termos que ir duas vezes.
+Dialogue: 0,0:09:33.34,0:09:34.39,Shirobako_Main,shizu,0000,0000,0000,,Não tem problema.
+Dialogue: 0,0:09:34.39,0:09:37.77,Shirobako_Main,shizu,0000,0000,0000,,Para nós, não tem graça ir\N apenas uma vez, não é?
+Dialogue: 0,0:09:37.99,0:09:39.35,Shirobako_Main,ema,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:09:39.35,0:09:41.66,Shirobako_Main,shizu,0000,0000,0000,,Ah, Ema, pode dizer as falas da Aria?
+Dialogue: 0,0:09:41.96,0:09:43.48,Shirobako_Main,ema,0000,0000,0000,,Eu não consigo enxergar a frente, javalizinho.
+Dialogue: 0,0:09:43.74,0:09:45.40,Shirobako_Main,shizu,0000,0000,0000,,Eu não consigo enxergar a frente, javalizinho.
+Dialogue: 0,0:09:49.36,0:09:52.36,Shirobako_Main,shizu,0000,0000,0000,,Eu não consigo enxergar a frente, javalizinho!!
+Dialogue: 0,0:09:57.40,0:09:58.49,Shirobako_Main,misa,0000,0000,0000,,Me desculpem.
+Dialogue: 0,0:09:58.77,0:10:00.16,Shirobako_Main,misa,0000,0000,0000,,Estão bem?
+Dialogue: 0,0:10:00.16,0:10:03.56,Shirobako_Main,shizu,0000,0000,0000,,Obrigada. Não precisa mesmo\N se preocupar, Mii-chan.
+Dialogue: 0,0:10:03.56,0:10:07.00,Shirobako_Main,shizu,0000,0000,0000,,Eu nunca fiquei enjoada andando \Nem algum veículo em movimento.
+Dialogue: 0,0:10:07.00,0:10:10.17,Shirobako_Main,shizu,0000,0000,0000,,Mas se uma cena assim aparecer, já\N teremos algo para nos basearmos!
+Dialogue: 0,0:10:10.17,0:10:13.68,Shirobako_Main,ema,0000,0000,0000,,E eu sei bem agora como é\N uma expressão de medo!
+Dialogue: 0,0:10:13.68,0:10:15.55,Shirobako_Main,shizu,0000,0000,0000,,Espero que consiga criar uma boa cena.
+Dialogue: 0,0:10:17.10,0:10:19.02,Shirobako_Main,misa,0000,0000,0000,,Vou sim! Farei o melhor!
+Dialogue: 0,0:10:19.41,0:10:21.27,Shirobako_Main,ema,0000,0000,0000,,Eu também vou me esforçar para desenhar.
+Dialogue: 0,0:10:21.27,0:10:22.80,Shirobako_Main,misa,0000,0000,0000,,Então podemos andar naquilo mais uma vez?
+Dialogue: 0,0:10:22.80,0:10:23.52,Shirobako_Main,both,0000,0000,0000,,Hein?
+Dialogue: 0,0:10:30.78,0:10:32.70,Shirobako_Main,ando,0000,0000,0000,,O que acham que vai ser o hit dessa temporada?
+Dialogue: 0,0:10:33.00,0:10:34.53,Shirobako_Main,mido,0000,0000,0000,,Acho que vai ser o Guncolle.
+Dialogue: 0,0:10:34.53,0:10:37.70,Shirobako_Main,taro,0000,0000,0000,,Ei, vamos dizer que é com\N certeza o nosso {\i1}Sanjo{\i0}!
+Dialogue: 0,0:10:37.94,0:10:40.16,Shirobako_Main,shimo,0000,0000,0000,,Então trabalhou naquele estúdio antes?
+Dialogue: 0,0:10:40.16,0:10:43.33,Shirobako_Main,dou,0000,0000,0000,,Ah sim, o aparelho de micro-ondas explodiu e...
+Dialogue: 0,0:10:43.33,0:10:46.25,Shirobako_Main,iguchi,0000,0000,0000,,Eu acho que vou comprar uma bicicross.
+Dialogue: 0,0:10:46.25,0:10:48.50,Shirobako_Main,oga,0000,0000,0000,,Penso em comprar um bastão de beisebol.
+Dialogue: 0,0:10:49.60,0:10:50.25,Shirobako_Main,kuno,0000,0000,0000,,Ner—
+Dialogue: 0,0:10:50.53,0:10:53.09,Shirobako_Main,ema,0000,0000,0000,,Sim, causa nervosismo \Nesperar o episódio ir ao ar.
+Dialogue: 0,0:10:53.09,0:10:55.51,Shirobako_Main,uchi,0000,0000,0000,,Só isso nunca muda, não é mesmo?
+Dialogue: 0,0:10:55.51,0:10:57.60,Shirobako_Main,sakura,0000,0000,0000,,Hum? E onde está o Nabe-P?
+Dialogue: 0,0:10:57.60,0:10:59.68,Shirobako_Main,person,0000,0000,0000,,No Tenpai, provavelmente. Que coisa.
+Dialogue: 0,0:10:59.68,0:11:01.66,Shirobako_Main,yano,0000,0000,0000,,Deixem ele para lá.
+Dialogue: 0,0:11:01.66,0:11:03.73,Shirobako_Main,yano,0000,0000,0000,,Se ele trouxer trabalho para nós, isso já basta.
+Dialogue: 0,0:11:04.12,0:11:07.40,Shirobako_Main,mado,0000,0000,0000,,Por que está criando por conta um\N curry com frango frito, diretor?
+Dialogue: 0,0:11:07.64,0:11:09.46,Shirobako_Main,mado,0000,0000,0000,,Os comentários já começaram.
+Dialogue: 0,0:11:09.46,0:11:10.82,Shirobako_Main,kino,0000,0000,0000,,Não precisa ficar me avisando isso.
+Dialogue: 0,0:11:11.04,0:11:13.40,Shirobako_Main,yama,0000,0000,0000,,Madoka, você olha demais para a internet.
+Dialogue: 0,0:11:13.40,0:11:17.16,Shirobako_Main,prez,0000,0000,0000,,Satou-san, Andou-san, ainda tem mais curry.
+Dialogue: 0,0:11:17.16,0:11:18.37,Shirobako_Main,both,0000,0000,0000,,Aceito!
+Dialogue: 0,0:11:18.37,0:11:21.95,Shirobako_Main,mado,0000,0000,0000,,Faltam 20 segundos. Devemos\N criar uma hashtag e tweetar?
+Dialogue: 0,0:11:21.95,0:11:23.12,Shirobako_Main,kino,0000,0000,0000,,Já disse que não preciso da internet!
+Dialogue: 0,0:11:23.12,0:11:26.66,Shirobako_Main,iguchi,0000,0000,0000,,Será que vão dizer que os \Nquadros-chave estão malfeitos?
+Dialogue: 0,0:11:26.66,0:11:29.17,Shirobako_Main,oga,0000,0000,0000,,Se fizemos tudo que era \Npossível, é o que importa.
+Dialogue: 0,0:11:29.17,0:11:32.64,Shirobako_Main,taro,0000,0000,0000,,O que está dizendo? \NO episódio um está muito bom!
+Dialogue: 0,0:11:32.64,0:11:35.05,Shirobako_Main,taro,0000,0000,0000,,É o melhor projeto de todos da Musani!
+Dialogue: 0,0:11:35.05,0:11:37.62,Shirobako_Main,taro,0000,0000,0000,,O episódio um que eu,
+Dialogue: 0,0:11:37.62,0:11:41.10,Shirobako_Main,taro,0000,0000,0000,,Takanashi Tarou, fui responsável \Nestá preenchido pela minha paixão,
+Dialogue: 0,0:11:41.10,0:11:43.20,Shirobako_Main,taro,0000,0000,0000,,sangue, suor e lágri—
+Dialogue: 0,0:11:42.32,0:11:43.52,Shirobako_Main,mado,0000,0000,0000,,Fique quieto!
+Dialogue: 0,0:11:43.75,0:11:45.27,Shirobako_Main,yano,0000,0000,0000,,Pode se calar eternamente.
+Dialogue: 0,0:11:45.27,0:11:45.70,Shirobako_Main,taro,0000,0000,0000,,O que quis dizer...
+Dialogue: 0,0:11:45.52,0:11:47.27,Pumpkin_11:46_(ep21),sign,0000,0000,0000,,Um Certo Templo de Abóbora{To Aru...}
+Dialogue: 0,0:11:45.70,0:11:46.85,Shirobako_Main,tv,0000,0000,0000,,{\a6}Já à venda!
+Dialogue: 0,0:11:48.54,0:11:49.95,Shirobako_Main,aoi,0000,0000,0000,,Começou!
+Dialogue: 0,0:11:49.95,0:11:50.77,Shirobako_Main,kino,0000,0000,0000,,Sim!
+Dialogue: 0,0:11:52.20,0:11:54.06,Shirobako_Main,aria,0000,0000,0000,,Vou confirmar e recolher.
+Dialogue: 0,0:11:54.06,0:11:55.18,Shirobako_Main,girl,0000,0000,0000,,Recolher?
+Dialogue: 0,0:11:55.18,0:11:56.52,Shirobako_Main,girl,0000,0000,0000,,Pretende pousar?
+Dialogue: 0,0:11:56.52,0:11:58.72,Shirobako_Main,girl,0000,0000,0000,,É impossível nessa situação!
+Dialogue: 0,0:12:03.54,0:12:05.75,Sponsors_12:04_(ep21),sign,0000,0000,0000,,Patrocinadores: \NWestern Entertainment \NBukkomi Games \NGorioshi Music
+Dialogue: 0,0:12:03.54,0:12:06.73,Shirobako_Main,nar,0000,0000,0000,,{\a6}Este programa é trazido a vocês \Npelos seguintes patrocinadores.
+Dialogue: 0,0:12:07.71,0:12:09.88,Shirobako_Main,mado,0000,0000,0000,,Ficamos em primeiro no ranking\Nde palavras-chave.
+Dialogue: 0,0:12:09.88,0:12:13.08,Shirobako_Main,kkino,0000,0000,0000,,Eu me desliguei de todas as outras \Ninformações, então não me diga nada!
+Dialogue: 0,0:12:10.79,0:12:14.27,Shirobako_Main,prez,0000,0000,0000,,{\a6}Ainda tem bastante curry, comam bastante.
+Dialogue: 0,0:12:13.71,0:12:15.26,Shirobako_Main,taro,0000,0000,0000,,Sim, sim, eu aceito!
+Dialogue: 0,0:12:15.26,0:12:16.80,Shirobako_Main,kino,0000,0000,0000,,Ah, eu também aceito.
+Dialogue: 0,0:12:17.06,0:12:19.44,Shirobako_Main,yano,0000,0000,0000,,Na semana que vem já é o \Nepisódio dois? Como passa rápido.
+Dialogue: 0,0:12:19.82,0:12:20.72,Shirobako_Main,aoi,0000,0000,0000,,O que achou?
+Dialogue: 0,0:12:20.72,0:12:21.76,Shirobako_Main,ando,0000,0000,0000,,Estava se movendo!
+Dialogue: 0,0:12:21.76,0:12:22.86,Shirobako_Main,sato,0000,0000,0000,,Foi incrível!
+Dialogue: 0,0:12:22.86,0:12:25.25,Shirobako_Main,yano,0000,0000,0000,,Disseram a mesma coisa que a Myamori.
+Dialogue: 0,0:12:25.25,0:12:29.10,Shirobako_Main,ando,0000,0000,0000,,Agora, milhares, milhões de pessoas \Nestavam assistindo juntas, não é mesmo?
+Dialogue: 0,0:12:29.10,0:12:31.41,Shirobako_Main,sato,0000,0000,0000,,Acredito que não foram tantas.
+Dialogue: 0,0:12:33.50,0:12:36.59,Shirobako_Main,taro,0000,0000,0000,,Oh, a razão para o primeiro episódio ter ido ao ar
+Dialogue: 0,0:12:36.59,0:12:39.18,Shirobako_Main,taro,0000,0000,0000,,sem problemas foi graças ao meu bom trabalho.
+Dialogue: 0,0:12:39.18,0:12:40.81,Shirobako_Main,taro,0000,0000,0000,,Para qualquer coisa que eu pedir
+Dialogue: 0,0:12:40.81,0:12:43.04,Shirobako_Main,taro,0000,0000,0000,,as pessoas dizem "oh, se é o Tarou-chan\N que está pedindo, não posso recusar".
+Dialogue: 0,0:12:43.04,0:12:45.67,Shirobako_Main,taro,0000,0000,0000,,Sem dizer que eles vão fazer\N dentro do tempo limite,
+Dialogue: 0,0:12:45.67,0:12:49.04,Shirobako_Main,taro,0000,0000,0000,,terminarão mais cedo e dirão \N"Tarou-chan, venha recolher logo!"
+Dialogue: 0,0:12:49.04,0:12:51.33,Shirobako_Main,taro,0000,0000,0000,,Vão ter chamados por todos os lados.
+Dialogue: 0,0:12:51.33,0:12:53.38,Shirobako_Main,taro,0000,0000,0000,,É esse tipo de pessoa que eu quero ser.
+Dialogue: 0,0:12:53.38,0:12:54.26,Shirobako_Main,sato,0000,0000,0000,,Seja, por favor.
+Dialogue: 0,0:12:54.26,0:12:55.42,Shirobako_Main,ando,0000,0000,0000,,Vamos nos tornar!
+Dialogue: 0,0:12:56.80,0:12:58.30,Incoming_call_12:57_(ep21),sign,0000,0000,0000,,{\fs18}Segawa-san\N\N{\fs12}Recebendo chamada
+Dialogue: 0,0:12:58.30,0:13:01.72,Shirobako_Main,sega,0000,0000,0000,,Poderia trocar o Hiraoka-kun dos\N episódios que estou cuidando?
+Dialogue: 0,0:13:01.72,0:13:02.24,Shirobako_Main,aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:02.24,0:13:05.46,Shirobako_Main,sega,0000,0000,0000,,Ele faz de qualquer jeito o trabalho\N para juntar as animações feitas,
+Dialogue: 0,0:13:05.46,0:13:06.90,Shirobako_Main,sega,0000,0000,0000,,e não aparece por dois ou três dias,
+Dialogue: 0,0:13:06.90,0:13:08.78,Shirobako_Main,sega,0000,0000,0000,,em seguida traz tudo o que\N está pronto de uma vez só.
+Dialogue: 0,0:13:08.78,0:13:10.69,Shirobako_Main,sega,0000,0000,0000,,Quando eu peço retakes, ele não aceita.
+Dialogue: 0,0:13:11.03,0:13:12.90,Shirobako_Main,sega,0000,0000,0000,,O que eu mais detesto é que ele age como se
+Dialogue: 0,0:13:12.90,0:13:14.68,Shirobako_Main,sega,0000,0000,0000,,o que importasse fosse apenas a \Nquantidade, e não o conteúdo.
+Dialogue: 0,0:13:14.68,0:13:17.49,Shirobako_Main,sega,0000,0000,0000,,Desse jeito, acabo achando\N o Tarou-kun bem melhor.
+Dialogue: 0,0:13:17.49,0:13:21.02,Shirobako_Main,sega,0000,0000,0000,,Ah, isso se fosse ter que escolher entre os dois.
+Dialogue: 0,0:13:21.02,0:13:24.16,Shirobako_Main,sega,0000,0000,0000,,Seja como for, peço que \Nnão o envie mais para cá.
+Dialogue: 0,0:13:26.27,0:13:28.63,Shirobako_Main,aoi,0000,0000,0000,,Eu entendo o que está dizendo, Segawa-san.
+Dialogue: 0,0:13:28.63,0:13:31.30,Shirobako_Main,aoi,0000,0000,0000,,Mas me deixe primeiro \Nconversar com o Hiraoka-kun.
+Dialogue: 0,0:13:32.26,0:13:33.88,Shirobako_Main,hira,0000,0000,0000,,O que quer falar comigo?
+Dialogue: 0,0:13:34.32,0:13:37.64,Shirobako_Main,aoi,0000,0000,0000,,Tenho reclamações de você dos supervisores\N de animação e diretores de episódios.
+Dialogue: 0,0:13:40.39,0:13:41.45,Shirobako_Main,hira,0000,0000,0000,,E o que tem isso?
+Dialogue: 0,0:13:41.45,0:13:43.84,Shirobako_Main,aoi,0000,0000,0000,,Por favor, entregue todos os dias\N as cenas que estiverem prontas.
+Dialogue: 0,0:13:43.84,0:13:46.46,Shirobako_Main,aoi,0000,0000,0000,,Se estiver faltando animadores, fale comigo.
+Dialogue: 0,0:13:46.46,0:13:48.81,Shirobako_Main,hira,0000,0000,0000,,Tem o bastante! O que quer dizer com isso?
+Dialogue: 0,0:13:49.15,0:13:51.18,Shirobako_Main,aoi,0000,0000,0000,,Significa que não há animações suficientes
+Dialogue: 0,0:13:51.18,0:13:52.99,Shirobako_Main,aoi,0000,0000,0000,,para os supervisores de animação\N e diretores ficarem satisfeitos.
+Dialogue: 0,0:13:52.99,0:13:54.57,Shirobako_Main,hira,0000,0000,0000,,Não fale comigo como se fosse a veterana.
+Dialogue: 0,0:13:54.57,0:13:57.32,Shirobako_Main,hira,0000,0000,0000,,Você só é a secretária de produção\N porque não tinha outra pessoa.
+Dialogue: 0,0:13:58.77,0:14:01.78,Shirobako_Main,aoi,0000,0000,0000,,Por favor, não basta estar pronto,\N pense na qualidade também.
+Dialogue: 0,0:14:01.78,0:14:04.02,Shirobako_Main,hira,0000,0000,0000,,Não faça a qualidade de refém!
+Dialogue: 0,0:14:04.02,0:14:07.56,Shirobako_Main,hira,0000,0000,0000,,Todos só pensam em usar\N o tempo para si mesmos!
+Dialogue: 0,0:14:07.56,0:14:10.14,Shirobako_Main,hira,0000,0000,0000,,Mas não pensam em nada pelo trabalho alheio!
+Dialogue: 0,0:14:10.14,0:14:14.00,Shirobako_Main,hira,0000,0000,0000,,Mesmo assim, se o cronograma atrasar, colocam\N toda a culpa no assistente de produção!
+Dialogue: 0,0:14:15.08,0:14:18.15,Shirobako_Main,aoi,0000,0000,0000,,Se pensar desse jeito, vai\N refletir no produto final.
+Dialogue: 0,0:14:18.15,0:14:19.38,Shirobako_Main,hira,0000,0000,0000,,Não vai!
+Dialogue: 0,0:14:19.38,0:14:21.85,Shirobako_Main,hira,0000,0000,0000,,Se tentar fazer esse trabalho com\N tanto cuidado, logo você desiste!
+Dialogue: 0,0:14:22.21,0:14:24.60,Shirobako_Main,aoi,0000,0000,0000,,Então por que você continua, Hiraoka-san?
+Dialogue: 0,0:14:26.87,0:14:29.04,Shirobako_Main,hira,0000,0000,0000,,Bem, se recebi reclamações,
+Dialogue: 0,0:14:29.04,0:14:31.36,Shirobako_Main,hira,0000,0000,0000,,pode colocar outra pessoa no meu lugar.
+Dialogue: 0,0:14:54.59,0:14:56.26,Shirobako_Main,hira,0000,0000,0000,,Já entendi.
+Dialogue: 0,0:14:56.52,0:14:58.36,Shirobako_Main,hira,0000,0000,0000,,Hora de comer, não é, Kemeko.
+Dialogue: 0,0:14:59.01,0:15:01.14,Shirobako_Main,yano,0000,0000,0000,,Como era o Hiraoka-kun na escola técnica?
+Dialogue: 0,0:15:01.37,0:15:02.10,Shirobako_Main,aoi,0000,0000,0000,,Sim.
+Dialogue: 0,0:15:02.10,0:15:03.78,Shirobako_Main,aoi,0000,0000,0000,,Como ele era?
+Dialogue: 0,0:15:03.78,0:15:05.60,Shirobako_Main,yano,0000,0000,0000,,O Hiraoka-kun e o Isakawa-kun queriam mesmo
+Dialogue: 0,0:15:05.60,0:15:08.10,Shirobako_Main,yano,0000,0000,0000,,trabalhar com animes, não importa como.
+Dialogue: 0,0:15:08.10,0:15:08.82,Shirobako_Main,aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:15:08.82,0:15:12.45,Shirobako_Main,yano,0000,0000,0000,,Ambos foram para a universidade,\N são mais velhos que eu...
+Dialogue: 0,0:15:13.05,0:15:16.21,Shirobako_Main,yano,0000,0000,0000,,O Isokawa-kun quase não aparecia nas aulas,
+Dialogue: 0,0:15:16.21,0:15:18.14,Shirobako_Main,yano,0000,0000,0000,,mas o Hiraoka-kun era responsável.
+Dialogue: 0,0:15:18.14,0:15:19.36,Shirobako_Main,aoi,0000,0000,0000,,Responsável?
+Dialogue: 0,0:15:21.37,0:15:22.82,Shirobako_Main,yano,0000,0000,0000,,Sim. Ele tinha jeito para liderança.
+Dialogue: 0,0:15:22.82,0:15:25.06,Shirobako_Main,yano,0000,0000,0000,,Nos festivais culturais ele coordenava a todos.
+Dialogue: 0,0:15:25.06,0:15:27.22,Shirobako_Main,yano,0000,0000,0000,,Ele era tão determinado para isso e sempre
+Dialogue: 0,0:15:27.22,0:15:29.46,Shirobako_Main,yano,0000,0000,0000,,falava com bastante animação qual\N o tipo de projeto queria fazer.
+Dialogue: 0,0:15:30.48,0:15:32.53,Shirobako_Main,yano,0000,0000,0000,,E agora você deve pensar:\N "Por que é assim agora?"
+Dialogue: 0,0:15:32.53,0:15:33.96,Shirobako_Main,aoi,0000,0000,0000,,Ah! Não...
+Dialogue: 0,0:15:34.26,0:15:36.01,Shirobako_Main,yano,0000,0000,0000,,Bem, quanto mais sério você leva o que faz
+Dialogue: 0,0:15:36.01,0:15:39.68,Shirobako_Main,yano,0000,0000,0000,,mais se desespera e se \Ndecepciona com a realidade.
+Dialogue: 0,0:15:41.44,0:15:44.42,Shirobako_Main,yano,0000,0000,0000,,Eu apenas consegui entrar nessa área,
+Dialogue: 0,0:15:44.42,0:15:46.06,Shirobako_Main,yano,0000,0000,0000,,e só estou conseguindo me manter.
+Dialogue: 0,0:15:46.36,0:15:49.52,Shirobako_Main,yano,0000,0000,0000,,Por isso não posso repreender\N o Hiraoka-kun agora.
+Dialogue: 0,0:15:49.83,0:15:51.67,Shirobako_Main,yano,0000,0000,0000,,Pois eu sei como ele era.
+Dialogue: 0,0:15:54.67,0:15:56.86,Shirobako_Main,yano,0000,0000,0000,,Se você dispensar o Hiraoka-kun agora
+Dialogue: 0,0:15:56.86,0:15:58.65,Shirobako_Main,yano,0000,0000,0000,,eu sinto que tudo vai acabar para ele.
+Dialogue: 0,0:15:58.65,0:15:59.49,Shirobako_Main,aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:15:59.49,0:16:02.77,Shirobako_Main,yano,0000,0000,0000,,Para ser da produção é melhor\N ter uns parafusos a menos.
+Dialogue: 0,0:16:02.77,0:16:04.95,Shirobako_Main,yano,0000,0000,0000,,Isso ajuda a si mesmo e as pessoas à sua volta.
+Dialogue: 0,0:16:04.95,0:16:08.70,Shirobako_Main,yano,0000,0000,0000,,Apesar que acho um problema, pessoas como \No Tarou, que tem uns três ou quatro a menos.
+Dialogue: 0,0:16:08.70,0:16:09.57,Shirobako_Main,taro,0000,0000,0000,,Me chamou?
+Dialogue: 0,0:16:09.57,0:16:10.70,Shirobako_Main,yano,0000,0000,0000,,Não chamei.
+Dialogue: 0,0:16:26.43,0:16:27.35,A.C_Tsuchinoko_16:26_(ep21),sign,0000,0000,0000,,A.C Tsuchinoko
+Dialogue: 0,0:16:28.20,0:16:29.87,A.C_Tsuchinoko_16:26_(ep21),sign,0000,0000,0000,,A.C Tsuchinoko
+Dialogue: 0,0:16:31.45,0:16:32.81,Shirobako_Main,aoi,0000,0000,0000,,Com licença.
+Dialogue: 0,0:16:33.04,0:16:34.24,Shirobako_Main,person,0000,0000,0000,,Oh, Miyamori-san?
+Dialogue: 0,0:16:34.54,0:16:36.94,Shirobako_Main,person,0000,0000,0000,,Que foi? Vai trocar de emprego?\N Vai trabalhar conosco?
+Dialogue: 0,0:16:36.94,0:16:39.60,Shirobako_Main,aoi,0000,0000,0000,,Não, eu trouxe a lista de correções.
+Dialogue: 0,0:16:39.60,0:16:42.61,Shirobako_Main,person,0000,0000,0000,,Ah, obrigado. Bem, vamos tomar um chá.
+Dialogue: 0,0:16:42.61,0:16:42.95,Shirobako_Main,aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:16:43.24,0:16:46.05,Shirobako_Main,person,0000,0000,0000,,Se fez questão de vir, tem\N uma razão, não é mesmo?
+Dialogue: 0,0:16:47.38,0:16:49.00,Shirobako_Main,person,0000,0000,0000,,Desculpe não ter um lugar melhor.
+Dialogue: 0,0:16:49.00,0:16:50.87,Shirobako_Main,aoi,0000,0000,0000,,Que nada, obrigada.
+Dialogue: 0,0:16:51.22,0:16:53.90,Shirobako_Main,person,0000,0000,0000,,Por acaso, aquele rapaz saiu\N da Musani, não é mesmo?
+Dialogue: 0,0:16:54.20,0:16:55.88,Shirobako_Main,aoi,0000,0000,0000,,Fala do Ochiai-san?
+Dialogue: 0,0:16:55.88,0:16:58.02,Shirobako_Main,person,0000,0000,0000,,O do "estou sem ideias"!
+Dialogue: 0,0:16:58.02,0:17:00.01,Shirobako_Main,aoi,0000,0000,0000,,Ah, fala do Honda-san?
+Dialogue: 0,0:17:00.01,0:17:01.35,Shirobako_Main,person,0000,0000,0000,,Isso mesmo, o Honda-san.
+Dialogue: 0,0:17:01.35,0:17:03.88,Shirobako_Main,aoi,0000,0000,0000,,Ele está trabalhando em uma\N confeitaria da vizinhança.
+Dialogue: 0,0:17:03.88,0:17:05.82,Shirobako_Main,person,0000,0000,0000,,Ah, ele falava sério mesmo?
+Dialogue: 0,0:17:05.82,0:17:07.21,Shirobako_Main,aoi,0000,0000,0000,,Conhece ele?
+Dialogue: 0,0:17:07.21,0:17:11.05,Shirobako_Main,person,0000,0000,0000,,Sim. Bem, quando ia começar com\N a empresa, ele me deu conselhos.
+Dialogue: 0,0:17:11.05,0:17:13.44,Shirobako_Main,person,0000,0000,0000,,E me apresentou pessoas para trabalhar.
+Dialogue: 0,0:17:13.89,0:17:15.35,Shirobako_Main,aoi,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:17:15.63,0:17:17.35,Shirobako_Main,person,0000,0000,0000,,Assim como o Honda-san,
+Dialogue: 0,0:17:17.35,0:17:21.19,Shirobako_Main,person,0000,0000,0000,,no começo, trabalhamos concentrados,\N mas depois começamos a pensar
+Dialogue: 0,0:17:21.40,0:17:23.01,Shirobako_Main,person,0000,0000,0000,,se é isso mesmo o que queremos.
+Dialogue: 0,0:17:23.70,0:17:26.66,Shirobako_Main,aoi,0000,0000,0000,,Eu também penso nisso ultimamente.
+Dialogue: 0,0:17:26.89,0:17:29.81,Shirobako_Main,person,0000,0000,0000,,O quê? Sério? Se for trocar de \Nemprego é melhor que seja logo!
+Dialogue: 0,0:17:29.81,0:17:32.27,Shirobako_Main,aoi,0000,0000,0000,,Não, não! Não penso em pedir demissão.
+Dialogue: 0,0:17:32.27,0:17:35.15,Shirobako_Main,aoi,0000,0000,0000,,Eu entrei nessa área porque
+Dialogue: 0,0:17:35.15,0:17:36.67,Shirobako_Main,aoi,0000,0000,0000,,queria realizar um sonho.
+Dialogue: 0,0:17:36.67,0:17:39.59,Shirobako_Main,aoi,0000,0000,0000,,E me pergunto o que eu \Ndeveria fazer a partir de agora.
+Dialogue: 0,0:17:39.59,0:17:41.17,Shirobako_Main,person,0000,0000,0000,,Ah, é exatamente o mesmo.
+Dialogue: 0,0:17:41.17,0:17:44.16,Shirobako_Main,person,0000,0000,0000,,Eu não consigo desenhar, \Nmas queria produzir animes.
+Dialogue: 0,0:17:44.44,0:17:48.45,Shirobako_Main,person,0000,0000,0000,,No começo, fui assistente de produção\N e conseguia dar conta do trabalho,
+Dialogue: 0,0:17:48.45,0:17:52.14,Shirobako_Main,person,0000,0000,0000,,mas fiquei tocado no quão incríveis e apaixonadas\Nas pessoas que produziam tudo eram.
+Dialogue: 0,0:17:52.80,0:17:56.50,Shirobako_Main,person,0000,0000,0000,,Foi quando quis ajudar a avaliarem de\N maneira apropriada o talento deles.
+Dialogue: 0,0:17:56.50,0:18:00.08,Shirobako_Main,,0000,0000,0000,,Foi assim que comecei a pensar\N no que eu seria capaz de fazer.
+Dialogue: 0,0:18:00.08,0:18:02.76,Shirobako_Main,person,0000,0000,0000,,E então, o que eu era capaz\N de fazer para essas pessoas
+Dialogue: 0,0:18:02.76,0:18:04.52,Shirobako_Main,person,0000,0000,0000,,era criar um espaço para elas.
+Dialogue: 0,0:18:04.80,0:18:06.85,Shirobako_Main,person,0000,0000,0000,,Por isso eu abri esta empresa.
+Dialogue: 0,0:18:07.73,0:18:10.49,Shirobako_Main,person,0000,0000,0000,,Hum? Estou falando coisas sérias?
+Dialogue: 0,0:18:12.15,0:18:15.16,Shirobako_Main,aoi,0000,0000,0000,,Você é exatamente o oposto \Ndo Hiraoka-san, não é mesmo?
+Dialogue: 0,0:18:15.16,0:18:15.82,Shirobako_Main,person,0000,0000,0000,,Hein?
+Dialogue: 0,0:18:17.30,0:18:18.65,Shirobako_Main,aoi,0000,0000,0000,,O Hiraoka-san...
+Dialogue: 0,0:18:19.10,0:18:21.75,Shirobako_Main,aoi,0000,0000,0000,,tem muita raiva das
+Dialogue: 0,0:18:22.50,0:18:23.67,Shirobako_Main,aoi,0000,0000,0000,,pessoas que criam.
+Dialogue: 0,0:18:23.67,0:18:27.54,Shirobako_Main,person,0000,0000,0000,,Se fosse apenas raiva ele já \Nteria desistido deste trabalho.
+Dialogue: 0,0:18:27.54,0:18:30.55,Shirobako_Main,person,0000,0000,0000,,Mas eu acho que ele entende.
+Dialogue: 0,0:18:31.00,0:18:33.68,Shirobako_Main,person,0000,0000,0000,,Que sem essas pessoas não \Ntem como criar animações.
+Dialogue: 0,0:18:33.68,0:18:37.45,Shirobako_Main,person,0000,0000,0000,,Além disso deve ter ainda \Nalgum sentimento de respeito.
+Dialogue: 0,0:18:37.94,0:18:41.90,Shirobako_Main,person,0000,0000,0000,,Respeito por suas habilidades de fazer\N algo impactante e de alta qualidade.
+Dialogue: 0,0:18:41.90,0:18:43.23,Shirobako_Main,aoi,0000,0000,0000,,Qualidade...
+Dialogue: 0,0:18:44.08,0:18:47.86,Shirobako_Main,aoi,0000,0000,0000,,Como você consegue o equilíbrio entre a\N qualidade e o cronograma, Isokawa-san?
+Dialogue: 0,0:18:47.86,0:18:50.91,Shirobako_Main,person,0000,0000,0000,,Procuro por um objetivo que
+Dialogue: 0,0:18:50.91,0:18:52.87,Shirobako_Main,person,0000,0000,0000,,os criadores e a produção concordem
+Dialogue: 0,0:18:53.29,0:18:55.87,Shirobako_Main,person,0000,0000,0000,,e acho importante procurar por falhas também.
+Dialogue: 0,0:18:56.69,0:18:59.74,Shirobako_Main,person,0000,0000,0000,,Criadores podem sentir se os outros
+Dialogue: 0,0:18:59.74,0:19:02.44,Shirobako_Main,person,0000,0000,0000,,estão levando a qualidade a sério.
+Dialogue: 0,0:19:02.89,0:19:06.49,Shirobako_Main,person,0000,0000,0000,,Todos estão lutando para\N fazer um bom projeto.
+Dialogue: 0,0:19:06.82,0:19:09.26,Shirobako_Main,person,0000,0000,0000,,Hum? Estou dizendo coisas sérias de novo?
+Dialogue: 0,0:19:14.51,0:19:16.47,Shirobako_Main,mimu,0000,0000,0000,,Termine logo esse serviço!
+Dialogue: 0,0:19:16.79,0:19:18.73,Shirobako_Main,roro,0000,0000,0000,,Eu não consigo mais!
+Dialogue: 0,0:19:18.97,0:19:22.62,Shirobako_Main,roro,0000,0000,0000,,Sempre traz cronogramas \Nimpossíveis! Já não aguento mais!
+Dialogue: 0,0:19:22.62,0:19:24.23,Shirobako_Main,mimu,0000,0000,0000,,Pegue. É café.
+Dialogue: 0,0:19:24.56,0:19:26.69,Shirobako_Main,mimu,0000,0000,0000,,Me desculpe. Vamos nos esforçar juntos.
+Dialogue: 0,0:19:26.69,0:19:27.58,Shirobako_Main,roro,0000,0000,0000,,Está bem!
+Dialogue: 0,0:19:28.21,0:19:31.06,Shirobako_Main,mimu,0000,0000,0000,,Se fosse sempre assim seria ótimo.
+Dialogue: 0,0:19:32.12,0:19:34.59,Shirobako_Main,aoi,0000,0000,0000,,O que será que posso fazer?
+Dialogue: 0,0:19:36.39,0:19:39.50,Shirobako_Main,aoi,0000,0000,0000,,Vou tentar convencer a Segawa-san,\N quero que o episódio 12
+Dialogue: 0,0:19:39.50,0:19:41.71,Shirobako_Main,aoi,0000,0000,0000,,continue com o Hiraoka-san \Ne o Takanashi-san, por favor.
+Dialogue: 0,0:19:42.76,0:19:46.76,Shirobako_Main,aoi,0000,0000,0000,,Contudo, se os quadros-chave tiverem problemas,\N fale com a Segawa-san e com Yamada-san.
+Dialogue: 0,0:19:46.76,0:19:49.30,Shirobako_Main,aoi,0000,0000,0000,,Entregue todos os dias as \Ncenas que estiverem prontas.
+Dialogue: 0,0:19:49.59,0:19:52.59,Shirobako_Main,aoi,0000,0000,0000,,Além disso, por favor, comunique-se mais
+Dialogue: 0,0:19:52.59,0:19:54.09,Shirobako_Main,aoi,0000,0000,0000,,com a Segawa-san e os outros.
+Dialogue: 0,0:19:55.26,0:19:56.56,Shirobako_Main,hira,0000,0000,0000,,Entendi.
+Dialogue: 0,0:19:57.86,0:20:01.69,Shirobako_Main,inami,0000,0000,0000,,Sabia que queríamos muito trabalhar no{\i1} Sanjo{\i0}?
+Dialogue: 0,0:20:01.90,0:20:03.60,Shirobako_Main,person,0000,0000,0000,,Roubou de nós.
+Dialogue: 0,0:20:03.60,0:20:05.42,Shirobako_Main,nabe,0000,0000,0000,,Antes de reclamarem comigo,
+Dialogue: 0,0:20:05.42,0:20:07.98,Shirobako_Main,nabe,0000,0000,0000,,não é melhor pensarem em um novo projeto?
+Dialogue: 0,0:20:07.98,0:20:11.17,Shirobako_Main,inami,0000,0000,0000,,Que foi? Vai me dar um sermão?
+Dialogue: 0,0:20:11.17,0:20:12.99,Shirobako_Main,person,0000,0000,0000,,Ficou importante, hein, Watanabe?
+Dialogue: 0,0:20:12.99,0:20:16.39,Shirobako_Main,nabe,0000,0000,0000,,Se eu fosse mesmo importante poderia\N recusar o convite de vocês, Inami-san.
+Dialogue: 0,0:20:16.39,0:20:19.07,Shirobako_Main,inami,0000,0000,0000,,O quê?! Não quer beber comigo?!
+Dialogue: 0,0:20:19.07,0:20:20.48,Shirobako_Main,nabe,0000,0000,0000,,Não é nada disso.
+Dialogue: 0,0:20:20.48,0:20:23.25,Shirobako_Main,person,0000,0000,0000,,Depois de tudo que fiz por\N você quando era novato.
+Dialogue: 0,0:20:23.25,0:20:26.86,Shirobako_Main,inami,0000,0000,0000,,E por acaso eu assisti todo o {\i1}Exodus{\i0}.
+Dialogue: 0,0:20:26.86,0:20:30.26,Shirobako_Main,inami,0000,0000,0000,,Eu pude ver o diretor ali,\N mas não te enxerguei lá.
+Dialogue: 0,0:20:30.26,0:20:32.97,Shirobako_Main,person,0000,0000,0000,,Precisa colocar mais da sua alma no que faz.
+Dialogue: 0,0:20:33.18,0:20:36.11,Shirobako_Main,inami,0000,0000,0000,,E ouvi falar que algumas \Npessoas da produção saíram,
+Dialogue: 0,0:20:36.11,0:20:38.54,Shirobako_Main,inami,0000,0000,0000,,mas o primeiro episódio do {\i1}Sanjo{\i0} \Nmanteve uma consistência de qualidade.
+Dialogue: 0,0:20:38.54,0:20:40.52,Shirobako_Main,nabe,0000,0000,0000,,Nossa secretária de produção\N está trabalhando bem.
+Dialogue: 0,0:20:40.82,0:20:42.98,Shirobako_Main,nabe,0000,0000,0000,,Apesar de ainda ser uma novata \Ncom dois anos em nossa empresa.
+Dialogue: 0,0:20:43.44,0:20:46.68,Shirobako_Main,nabe,0000,0000,0000,,Oh, se não me engano ela não \Nconseguiu ser aceita no The Born.
+Dialogue: 0,0:20:46.68,0:20:48.16,Shirobako_Main,inami,0000,0000,0000,,Hã? Como ela se chama?
+Dialogue: 0,0:20:48.46,0:20:50.23,Shirobako_Main,nabe,0000,0000,0000,,Se chama Miyamori Aoi.
+Dialogue: 0,0:20:50.23,0:20:52.73,Shirobako_Main,person,0000,0000,0000,,Ah, acho que lembro dela.
+Dialogue: 0,0:20:52.73,0:20:54.40,Shirobako_Main,inami,0000,0000,0000,,Não lembro...
+Dialogue: 0,0:20:54.40,0:20:57.19,Shirobako_Main,person,0000,0000,0000,,É a garota que ficou tremendo depois\N que você a apavorou, Inami-san.
+Dialogue: 0,0:20:57.19,0:20:59.65,Shirobako_Main,inami,0000,0000,0000,,Eu não apavorei ninguém! Não é?
+Dialogue: 0,0:20:59.65,0:21:01.14,Shirobako_Main,nabe,0000,0000,0000,,Não adianta me dizer isso.
+Dialogue: 0,0:21:01.14,0:21:02.87,Shirobako_Main,inami,0000,0000,0000,,Está bem, vamos perguntar para ela.
+Dialogue: 0,0:21:02.87,0:21:03.71,Shirobako_Main,nabe,0000,0000,0000,,O quê?
+Dialogue: 0,0:21:02.87,0:21:04.42,Shirobako_Main,person,0000,0000,0000,,Vamos perguntar!
+Dialogue: 0,0:21:04.42,0:21:06.50,Shirobako_Main,inami,0000,0000,0000,,Traga ela aqui.
+Dialogue: 0,0:21:09.24,0:21:10.10,Shirobako_Main,inami,0000,0000,0000,,Quem é?
+Dialogue: 0,0:21:10.10,0:21:11.68,Shirobako_Main,nabe,0000,0000,0000,,Ela é a Miyamori!
+Dialogue: 0,0:21:11.68,0:21:13.92,Shirobako_Main,person,0000,0000,0000,,Ah, aquela garota que faz qualquer coisa.
+Dialogue: 0,0:21:13.92,0:21:16.38,Shirobako_Main,inami,0000,0000,0000,,Oh, você entrou na Musani?
+Dialogue: 0,0:21:13.92,0:21:36.78,Bathroom_(ep21),sign,0000,0000,0000,,Banheiro
+Dialogue: 0,0:21:16.38,0:21:18.12,Shirobako_Main,person,0000,0000,0000,,Nem sabia.
+Dialogue: 0,0:21:18.42,0:21:21.73,Shirobako_Main,aoi,0000,0000,0000,,Nos vimos no The Born no ano passado.
+Dialogue: 0,0:21:22.00,0:21:23.66,Shirobako_Main,inami,0000,0000,0000,,Eu não lembro mesmo.
+Dialogue: 0,0:21:23.66,0:21:25.81,Shirobako_Main,person,0000,0000,0000,,Você mudou bastante.
+Dialogue: 0,0:21:25.81,0:21:27.60,Shirobako_Main,aoi,0000,0000,0000,,Hã? É mesmo?
+Dialogue: 0,0:21:27.60,0:21:30.77,Shirobako_Main,person,0000,0000,0000,,Quando participou da entrevista\N estava nervosa e tremia.
+Dialogue: 0,0:21:30.77,0:21:32.57,Shirobako_Main,nabe,0000,0000,0000,,Foi porque o Inami-san a apavorou.
+Dialogue: 0,0:21:32.57,0:21:35.03,Shirobako_Main,inami,0000,0000,0000,,Eu não fiz isso! Não é mesmo?
+Dialogue: 0,0:21:35.67,0:21:38.19,Shirobako_Main,aoi,0000,0000,0000,,Ah... Eu estava com um pouco de medo.
+Dialogue: 0,0:21:38.19,0:21:39.77,Shirobako_Main,inami,0000,0000,0000,,Desculpa, tá?
+Dialogue: 0,0:21:39.77,0:21:40.87,Shirobako_Main,shizu,0000,0000,0000,,Aqui está, Oi-chan.
+Dialogue: 0,0:21:41.17,0:21:42.32,Shirobako_Main,aoi,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:21:42.32,0:21:43.76,Shirobako_Main,person,0000,0000,0000,,Que foi? Se conhecem?
+Dialogue: 0,0:21:44.16,0:21:46.79,Shirobako_Main,aoi,0000,0000,0000,,Ah, sim. Ela é uma du—
+Dialogue: 0,0:21:47.27,0:21:50.19,Bathroom_21:47_(ep21),sign,0000,0000,0000,,Banheiro
+Dialogue: 0,0:21:49.38,0:21:50.21,Shirobako_Main,shizu,0000,0000,0000,,Fiquem à vontade.
+Dialogue: 0,0:21:50.56,0:21:51.27,Shirobako_Main,person,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:21:52.39,0:21:54.70,Shirobako_Main,inami,0000,0000,0000,,E então, o que consegue fazer agora?
+Dialogue: 0,0:21:54.70,0:21:55.23,Shirobako_Main,aoi,0000,0000,0000,,Hã?
+Dialogue: 0,0:21:55.53,0:21:58.24,Shirobako_Main,aoi,0000,0000,0000,,Eu... Eu não acho que haja algo que
+Dialogue: 0,0:21:58.24,0:22:00.47,Shirobako_Main,aoi,0000,0000,0000,,eu posso fazer agora ou no futuro.
+Dialogue: 0,0:22:00.47,0:22:02.33,Shirobako_Main,inami,0000,0000,0000,,Nada?
+Dialogue: 0,0:22:02.33,0:22:03.16,Shirobako_Main,aoi,0000,0000,0000,,Mas...
+Dialogue: 0,0:22:03.74,0:22:07.52,Shirobako_Main,aoi,0000,0000,0000,,Eu quero me esforçar para que\N todos assistam um bom anime!
+Dialogue: 0,0:22:07.52,0:22:09.39,Shirobako_Main,inami,0000,0000,0000,,C-Certo.
+Dialogue: 0,0:22:10.67,0:22:12.98,Shirobako_Main,inami,0000,0000,0000,,Agora você parece mesmo \Ncom uma pessoa da produção.
+Dialogue: 0,0:22:12.98,0:22:16.34,Shirobako_Main,inami,0000,0000,0000,,Agora eu me lembro do \Nseu nome, Miyamori Asari!
+Dialogue: 0,0:22:16.34,0:22:17.73,Shirobako_Main,aoi,0000,0000,0000,,É Aoi.
+Dialogue: 0,0:22:19.45,0:22:22.74,Shirobako_Main,kino,0000,0000,0000,,Eu terminei!!
+Dialogue: 0,0:22:21.10,0:22:22.74,Shirobako_Main,mido,0000,0000,0000,,Meu parabéns!
+Dialogue: 0,0:22:22.97,0:22:23.54,Shirobako_Main,nabe,0000,0000,0000,,O quê?!
+Dialogue: 0,0:22:23.54,0:22:24.95,Shirobako_Main,taro,0000,0000,0000,,O storyboard do último episódio...
+Dialogue: 0,0:22:24.95,0:22:25.96,Shirobako_Main,eri,0000,0000,0000,,...foi terminado?!
+Dialogue: 0,0:22:25.96,0:22:28.14,Shirobako_Main,taro,0000,0000,0000,,Nossa! Ele finalizou em três semanas!
+Dialogue: 0,0:22:28.14,0:22:30.23,Shirobako_Main,taro,0000,0000,0000,,Demorou três meses com o {\i1}Exodus!{\i0}
+Dialogue: 0,0:22:30.23,0:22:31.46,Shirobako_Main,yano,0000,0000,0000,,Foi quatro vezes mais rápido!
+Dialogue: 0,0:22:31.93,0:22:34.56,Shirobako_Main,aoi,0000,0000,0000,,Isso mostra o quanto o diretor estava animado!
+Dialogue: 0,0:22:34.56,0:22:36.51,Shirobako_Main,aoi,0000,0000,0000,,Além do roteiro ser bem divertido.
+Dialogue: 0,0:22:36.51,0:22:38.64,Shirobako_Main,nabe,0000,0000,0000,,Então envie logo para a Editora Yotaka.
+Dialogue: 0,0:22:38.64,0:22:39.50,Shirobako_Main,aoi,0000,0000,0000,,Está bem!
+Dialogue: 0,0:22:39.50,0:22:40.71,Shirobako_Main,yano,0000,0000,0000,,Quem vai ser o diretor de episódio?
+Dialogue: 0,0:22:40.71,0:22:44.53,Shirobako_Main,aoi,0000,0000,0000,,Ainda não temos o cronograma, então a \NParte A fica com o Yamada-san e Madoka-san.
+Dialogue: 0,0:22:44.53,0:22:47.88,Shirobako_Main,aoi,0000,0000,0000,,A Parte B serão os dois e o \Ndiretor trabalhando juntos.
+Dialogue: 0,0:22:48.15,0:22:51.15,Shirobako_Main,aoi,0000,0000,0000,,E para a produção eu acho que teremos
+Dialogue: 0,0:22:51.15,0:22:53.58,Shirobako_Main,aoi,0000,0000,0000,,a Satou-san, Andou-san e eu trabalhando.
+Dialogue: 0,0:22:54.42,0:22:57.86,Shirobako_Main,aoi,0000,0000,0000,,Não temos um cronograma, mas \Nvamos nós três nos esforçar juntar!
+Dialogue: 0,0:22:57.86,0:22:58.96,Shirobako_Main,both,0000,0000,0000,,Está bem!
+Dialogue: 0,0:24:30.55,0:24:32.40,Shirobako_Main,yano,0000,0000,0000,,Alô, é a Yano, da Musani.
+Dialogue: 0,0:24:32.40,0:24:33.41,Shirobako_Main,yano,0000,0000,0000,,Oh, Iketani-san.
+Dialogue: 0,0:24:33.41,0:24:34.82,Shirobako_Main,yano,0000,0000,0000,,O quê? Acordou agora?
+Dialogue: 0,0:24:34.82,0:24:37.45,Shirobako_Main,yano,0000,0000,0000,,Vou agora mesmo até aí, não se mexa!
+Dialogue: 0,0:24:37.45,0:24:38.58,Shirobako_Main - Top,yano,0000,0000,0000,,Na próxima em Shirobako:
+Dialogue: 0,0:24:38.38,0:24:39.67,Shirobako_Next_Ep_Title_(Ep21),sign,0000,0000,0000,,Isso É Uma Roupa Íntima Para a Noa
+Dialogue: 0,0:24:38.58,0:24:39.67,Shirobako_Main - Top,yano,0000,0000,0000,,"Isso É Uma Roupa Íntima Para a Noa"
