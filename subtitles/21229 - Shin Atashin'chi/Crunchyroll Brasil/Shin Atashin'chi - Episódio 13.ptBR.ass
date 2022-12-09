@@ -1,0 +1,488 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Signs - Copy,Arial,22,&H00FFFFFF,&H000000FF,&H00AD1BCC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0060,0020,0090,1
+Style: Signs - Copy (2),Arial,20,&H002C2C2E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,1
+Style: Signs - Copy (3),Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0020,0020,0070,1
+Style: italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Atashinchi 2,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0090,0080,0120,1
+Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0060,0040,0005,1
+Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0070,0080,0080,1
+Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0110,0080,0010,1
+Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0002,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:55.03,0:00:57.03,Atashinchi 9,txt,0000,0000,0000,,Feliz{keep this for the first 2 kanji as there are 4 kanji but only 3 words}
+Dialogue: 0,0:00:57.03,0:00:58.06,Atashinchi 9,txt,0000,0000,0000,,Ano
+Dialogue: 0,0:00:58.06,0:00:59.07,Atashinchi 9,txt,0000,0000,0000,,Novo
+Dialogue: 0,0:00:59.07,0:01:03.04,Atashinchi 9,txt,0000,0000,0000,,Feliz Ano Novo
+Dialogue: 0,0:01:01.02,0:01:03.04,Atashinchi 2,txt,0000,0000,0000,,Novo Atashinchi
+Dialogue: 0,0:01:04.05,0:01:05.87,italic,Ann,0000,0000,0000,,Feliz Ano Novo!
+Dialogue: 0,0:01:06.19,0:01:09.46,italic,Ann,0000,0000,0000,,É 1º de Janeiro de 2016 e gostaríamos\N de desejar um bom dia a todos!
+Dialogue: 0,0:01:09.46,0:01:10.89,Main Dialogue,Dad,0000,0000,0000,,Estou com fome.
+Dialogue: 0,0:01:11.51,0:01:12.55,Main Dialogue,Dad,0000,0000,0000,,Querem sopa zouni?
+Dialogue: 0,0:01:24.20,0:01:28.94,title,Titl,0000,0000,0000,,{\fad(400,1)\c&H66AA60&\3c&HA9EAD3&}Ano Novo na Família Tachibana
+Dialogue: 0,0:01:29.37,0:01:31.90,italic,Ann,0000,0000,0000,,E Feliz Ano Novo para todos!
+Dialogue: 0,0:01:32.20,0:01:34.18,italic,Ann,0000,0000,0000,,Isso, isso, isso!
+Dialogue: 0,0:01:34.18,0:01:35.11,Main Dialogue,Mom,0000,0000,0000,,Ora!
+Dialogue: 0,0:01:35.33,0:01:37.76,Main Dialogue,Mom,0000,0000,0000,,Olha como eles cresceram!
+Dialogue: 0,0:01:37.76,0:01:38.37,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:38.37,0:01:39.72,Main Dialogue,Mom,0000,0000,0000,,Essa é a garota dos Tanaka!
+Dialogue: 0,0:01:39.72,0:01:42.79,Main Dialogue,Mom,0000,0000,0000,,Olha como ela cresceu! Achei\N que ela tinha recém-nascido.
+Dialogue: 0,0:01:43.08,0:01:44.19,Main Dialogue,Mik,0000,0000,0000,,Uau...
+Dialogue: 0,0:01:44.19,0:01:45.46,Main Dialogue,Mik,0000,0000,0000,,Qual era o nome dela mesmo?
+Dialogue: 0,0:01:45.46,0:01:46.25,Main Dialogue,Mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:46.96,0:01:48.21,Main Dialogue,Mom,0000,0000,0000,,Não sei ler...
+Dialogue: 0,0:01:49.74,0:01:51.71,Main Dialogue,Mom,0000,0000,0000,,O nome dela é Tanaka...
+Dialogue: 0,0:01:51.71,0:01:53.35,Main Dialogue,Mik,0000,0000,0000,,Eu sei disso.
+Dialogue: 0,0:01:53.35,0:01:54.96,Main Dialogue,Mik,0000,0000,0000,,Mas qual o primeiro nome? É o que Tanaka?
+Dialogue: 0,0:01:55.28,0:01:56.40,Main Dialogue,Mom,0000,0000,0000,,Ela é a Tanakinha.
+Dialogue: 0,0:01:57.07,0:02:01.69,Main Dialogue,Mom,0000,0000,0000,,Olha, querido, o Sr. Ichiro Yamakawa nos \Nmandou outro cartão de Ano Novo este ano.
+Dialogue: 0,0:02:01.69,0:02:05.40,Main Dialogue,Mom,0000,0000,0000,,Ichiro Yamakawa!
+Dialogue: 0,0:02:05.40,0:02:06.81,Main Dialogue,Mik,0000,0000,0000,,Só porque você sabe ler esse...
+Dialogue: 0,0:02:06.81,0:02:08.77,Main Dialogue,Dad,0000,0000,0000,,Essa pessoa...
+Dialogue: 0,0:02:09.56,0:02:10.73,Main Dialogue,Dad,0000,0000,0000,,Quem é ele mesmo?
+Dialogue: 0,0:02:11.04,0:02:11.66,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:02:12.89,0:02:15.12,Main Dialogue,Mom,0000,0000,0000,,Mas nós já enviamos cartões de Ano\N Novo uns para os outros há anos.
+Dialogue: 0,0:02:15.12,0:02:17.90,Main Dialogue,Dad,0000,0000,0000,,Nós perdemos o momento\N para deixar de enviar.
+Dialogue: 0,0:02:17.90,0:02:19.49,Main Dialogue,Mom,0000,0000,0000,,Você também recebeu um cartão, Mikan.
+Dialogue: 0,0:02:19.49,0:02:21.45,Main Dialogue,Mik,0000,0000,0000,,Não é só um cartão de \Numa loja com propaganda?
+Dialogue: 0,0:02:24.16,0:02:25.37,italic,Mik,0000,0000,0000,,Iwaki!
+Dialogue: 0,0:02:26.31,0:02:28.01,italic,Card,0000,0000,0000,,Feliz Ano Novo.
+Dialogue: 0,0:02:29.17,0:02:34.13,italic,Card,0000,0000,0000,,Você me mostrou o Hashed\N Noel e foi muito delicioso.
+Dialogue: 0,0:02:35.10,0:02:38.97,italic,Mik,0000,0000,0000,,Iwaki, não é Hashed Noel, é \NBûche de Noel e a culpa é minha
+Dialogue: 0,0:02:38.97,0:02:41.89,italic,Mik,0000,0000,0000,,porque eu me lembrei errado. Me desculpe.
+Dialogue: 0,0:02:42.66,0:02:47.50,Main Dialogue,Mom,0000,0000,0000,,Você também recebeu um, \NYuzinho, mas não tem remetente.
+Dialogue: 0,0:02:47.50,0:02:48.31,Main Dialogue,Yuu,0000,0000,0000,,Hã?
+Dialogue: 0,0:02:47.85,0:02:49.60,Signs - Copy (2),Card,0000,0000,0000,,FeliAnVo!
+Dialogue: 0,0:02:47.85,0:02:49.60,Signs - Copy (2),Card,0000,0000,0000,,E aí!
+Dialogue: 0,0:02:47.85,0:02:49.60,Signs - Copy (2),Card,0000,0000,0000,,Vamos comer 100 mais esse ano!
+Dialogue: 0,0:02:49.60,0:02:51.81,Signs - Copy (2),To,0000,0000,0000,,Para: Sr. Yuzuhiko Tachibana
+Dialogue: 0,0:02:49.60,0:02:51.81,Signs - Copy (2),txt,0000,0000,0000,,Se ganhar, me dê!
+Dialogue: 0,0:02:52.34,0:02:53.52,italic,Yuu,0000,0000,0000,,Deve ser do Fujino...
+Dialogue: 0,0:02:53.90,0:02:54.91,Main Dialogue,Dad,0000,0000,0000,,Estou com fome.
+Dialogue: 0,0:02:54.91,0:02:55.94,Main Dialogue,Dad,0000,0000,0000,,Querem comer zouni?
+Dialogue: 0,0:03:04.55,0:03:07.15,italic,Ann,0000,0000,0000,,Esperamos que estejam \Naproveitando o Ano Novo.
+Dialogue: 0,0:03:07.15,0:03:08.91,italic,Ann,0000,0000,0000,,A seguir, teremos...
+Dialogue: 0,0:03:08.91,0:03:10.51,Main Dialogue,Mik,0000,0000,0000,,Opa, recebi uma mensagem.
+Dialogue: 0,0:03:12.17,0:03:13.21,Main Dialogue,Mik,0000,0000,0000,,É do Yoshioka.
+Dialogue: 0,0:03:13.86,0:03:15.16,Signs - Copy (2),Text,0000,0000,0000,,Feliz Ano Novo!
+Dialogue: 0,0:03:15.16,0:03:16.84,Signs - Copy (2),Text,0000,0000,0000,,Aqui é o primeiro amanhecer do Ano!
+Dialogue: 0,0:03:17.14,0:03:19.09,Main Dialogue,Mik,0000,0000,0000,,O primeiro amanhecer?
+Dialogue: 0,0:03:19.09,0:03:20.30,Main Dialogue,Mik,0000,0000,0000,,A Shimi também me mandou.
+Dialogue: 0,0:03:20.78,0:03:22.24,italic,Shi,0000,0000,0000,,Feliz Ano Novo!
+Dialogue: 0,0:03:22.24,0:03:23.76,italic,Shi,0000,0000,0000,,Vamos nos ajudar de novo este ano.
+Dialogue: 0,0:03:23.76,0:03:25.05,italic,Shi,0000,0000,0000,,Olha, eu coloquei um quimono!
+Dialogue: 0,0:03:25.51,0:03:28.01,Main Dialogue,Mik,0000,0000,0000,,Uau, que bonita.
+Dialogue: 0,0:03:32.38,0:03:33.52,Main Dialogue,Mik,0000,0000,0000,,Ah, a Riyo também.
+Dialogue: 0,0:03:33.52,0:03:34.91,italic,Riy,0000,0000,0000,,Boa sorte este ano!
+Dialogue: 0,0:03:34.91,0:03:37.11,italic,Riy,0000,0000,0000,,Olha, eu fiz osechi com a minha mãe!
+Dialogue: 0,0:03:40.48,0:03:44.70,Main Dialogue,Mik,0000,0000,0000,,Ei, por que o nosso osechi se parece com isso?
+Dialogue: 0,0:03:42.52,0:03:43.38,Main Dialogue,Mom,0000,0000,0000,,Sim?
+Dialogue: 0,0:03:48.97,0:03:50.37,Main Dialogue,Mom,0000,0000,0000,,Qual o problema?
+Dialogue: 0,0:03:50.71,0:03:53.58,Main Dialogue,Mik,0000,0000,0000,,Não devia ser servido em caixas?
+Dialogue: 0,0:03:53.58,0:03:57.00,Main Dialogue,Mom,0000,0000,0000,,Mas, se colocar em caixas, você vai ter\N porções pequenas e sem graça.
+Dialogue: 0,0:03:57.00,0:03:59.59,Main Dialogue,Mom,0000,0000,0000,,Não é melhor ter uma pilha bem \Ngrande para pegar o quanto quiser?
+Dialogue: 0,0:04:01.80,0:04:04.01,Main Dialogue,Mom,0000,0000,0000,,Nós temos um buffet de osechi!
+Dialogue: 0,0:04:04.01,0:04:05.49,Main Dialogue,Dad,0000,0000,0000,,Hum, salsichão...
+Dialogue: 0,0:04:06.42,0:04:09.64,Main Dialogue,Mom,0000,0000,0000,,Buffets osechi tem uma variedade incrível.
+Dialogue: 0,0:04:25.32,0:04:27.99,Main Dialogue,Mik,0000,0000,0000,,Não devíamos nos vestir ou coisa assim?
+Dialogue: 0,0:04:28.42,0:04:29.99,Main Dialogue,Yuz,0000,0000,0000,,Nós estamos aproveitando a folga.
+Dialogue: 0,0:04:30.22,0:04:34.06,Main Dialogue,Mik,0000,0000,0000,,Claro, mas o Ano Novo é um feriado especial.
+Dialogue: 0,0:04:34.06,0:04:36.25,Main Dialogue,Mik,0000,0000,0000,,Devíamos tentar fazê-lo especial.
+Dialogue: 0,0:04:36.25,0:04:37.76,Main Dialogue,Mom,0000,0000,0000,,O que você quer dizer com isso?
+Dialogue: 0,0:04:39.61,0:04:43.47,Main Dialogue,Mik,0000,0000,0000,,Tipo assistir o sol nascer juntos, \Nvestidos com roupas tradicionais,
+Dialogue: 0,0:04:43.83,0:04:46.76,Main Dialogue,Mik,0000,0000,0000,,comendo osechi colocado em caixas.
+Dialogue: 0,0:04:47.44,0:04:49.19,Main Dialogue,Dad,0000,0000,0000,,Você está assistindo muita TV.
+Dialogue: 0,0:04:49.19,0:04:50.24,Main Dialogue,mom,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:04:50.24,0:04:52.68,Main Dialogue,mom,0000,0000,0000,,A verdade é que todos passam\N na frente da TV e de pijamas.
+Dialogue: 0,0:04:56.44,0:05:00.11,Main Dialogue,Mik,0000,0000,0000,,Alguém na nossa família já desejou\N Feliz Ano Novo em voz alta?
+Dialogue: 0,0:05:00.50,0:05:03.03,Main Dialogue,Mom,0000,0000,0000,,Acho que não.
+Dialogue: 0,0:05:03.03,0:05:04.89,Main Dialogue,Mik,0000,0000,0000,,É isso que as pessoas dizem.
+Dialogue: 0,0:05:04.89,0:05:07.42,Main Dialogue,Mik,0000,0000,0000,,Eu tive uma conversa sobre\N isso na escola ano passado.
+Dialogue: 0,0:05:08.65,0:05:10.12,flashback,Shi,0000,0000,0000,,Vocês não dizem isso na sua casa?
+Dialogue: 0,0:05:10.54,0:05:11.20,flashback,Mik,0000,0000,0000,,Não.
+Dialogue: 0,0:05:11.20,0:05:14.78,flashback,Shi,0000,0000,0000,,Vocês não desejam um Feliz Ano Novo?
+Dialogue: 0,0:05:17.00,0:05:19.17,Main Dialogue,Mik,0000,0000,0000,,Ela ficou muito assustada!
+Dialogue: 0,0:05:19.17,0:05:23.51,Main Dialogue,Mom,0000,0000,0000,,Somos uma família, por que teríamos que \Nusar uma frase tão formal uns com os outros?
+Dialogue: 0,0:05:23.51,0:05:24.87,Main Dialogue,Mom,0000,0000,0000,,Não é, querido?
+Dialogue: 0,0:05:26.11,0:05:30.22,Main Dialogue,Mik,0000,0000,0000,,Todos ficaram muito surpresos quando\N eu disse que nem tiramos os pijamas!
+Dialogue: 0,0:05:30.22,0:05:32.61,Main Dialogue,Mom,0000,0000,0000,,Quem são "todos"? A Shimi?
+Dialogue: 0,0:05:32.61,0:05:34.74,Main Dialogue,Mik,0000,0000,0000,,Claro, mas pessoas normais
+Dialogue: 0,0:05:34.74,0:05:37.78,Main Dialogue,Mik,0000,0000,0000,,realmente fazem algum tipo\N de esforço no Ano Novo.
+Dialogue: 0,0:05:37.78,0:05:39.66,Main Dialogue,Mom,0000,0000,0000,,Pessoas normais...
+Dialogue: 0,0:05:39.66,0:05:42.54,Main Dialogue,Mik,0000,0000,0000,,Não que nossa família seja "normal".
+Dialogue: 0,0:05:43.86,0:05:45.28,Main Dialogue,Mom,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:05:45.51,0:05:47.29,Main Dialogue,Mom,0000,0000,0000,,Vamos! Querido, Yuzu!
+Dialogue: 0,0:05:47.29,0:05:48.45,Main Dialogue,Mom,0000,0000,0000,,Sentem-se!
+Dialogue: 0,0:05:50.21,0:05:52.70,Main Dialogue,Mom,0000,0000,0000,,Nós vamos nos desejar um Feliz Ano Novo.
+Dialogue: 0,0:05:54.00,0:05:55.20,Main Dialogue,Mom,0000,0000,0000,,Então, por favor!
+Dialogue: 0,0:05:57.69,0:05:59.12,Main Dialogue,Mik,0000,0000,0000,,E-Eu?
+Dialogue: 0,0:05:59.12,0:06:01.41,Main Dialogue,Mom,0000,0000,0000,,Você que inventou tudo isso.
+Dialogue: 0,0:06:01.41,0:06:03.89,Main Dialogue,Mik,0000,0000,0000,,Não é uma coisa que o papai devia fazer?
+Dialogue: 0,0:06:03.89,0:06:04.59,Main Dialogue,Dad,0000,0000,0000,,Depressa.
+Dialogue: 0,0:06:05.95,0:06:07.22,Main Dialogue,Mik,0000,0000,0000,,Então você, Yuzu.
+Dialogue: 0,0:06:07.22,0:06:08.67,Main Dialogue,Yuz,0000,0000,0000,,Por que eu?
+Dialogue: 0,0:06:08.67,0:06:10.04,Main Dialogue,Mik,0000,0000,0000,,Você é o filho mais velho.
+Dialogue: 0,0:06:10.04,0:06:11.86,Main Dialogue,Yuz,0000,0000,0000,,Mas você é a filha mais velha!
+Dialogue: 0,0:06:11.86,0:06:13.31,Main Dialogue,Mik,0000,0000,0000,,Mas isso é coisa que o filho\N mais velho devia fazer!
+Dialogue: 0,0:06:13.74,0:06:14.84,Main Dialogue,Yuz,0000,0000,0000,,Então, mãe.
+Dialogue: 0,0:06:14.84,0:06:16.80,Main Dialogue,Mom,0000,0000,0000,,Mikan, vai logo.
+Dialogue: 0,0:06:17.41,0:06:19.22,Main Dialogue,Mik,0000,0000,0000,,Ah, tudo bem...
+Dialogue: 0,0:06:19.65,0:06:23.32,Main Dialogue,Mik,0000,0000,0000,,Feliz Ano Novo.
+Dialogue: 0,0:06:23.32,0:06:25.61,Main Dialogue,Yuz,0000,0000,0000,,Feliz Ano Novo.
+Dialogue: 0,0:06:25.61,0:06:26.58,Main Dialogue,Dad,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:26.58,0:06:28.30,Main Dialogue,Mom,0000,0000,0000,,Sim, Feliz... Hã...
+Dialogue: 0,0:06:42.83,0:06:46.27,italic,Mik,0000,0000,0000,,Percebi a falta de habilidade da \Nfamília Tachibana com formalidades.
+Dialogue: 0,0:06:48.92,0:06:50.13,Main Dialogue,Yuz,0000,0000,0000,,Poxa, hein...
+Dialogue: 0,0:06:51.67,0:06:53.64,Main Dialogue,Mik,0000,0000,0000,,Isso não foi muito satisfatório.
+Dialogue: 0,0:06:54.04,0:06:57.29,Main Dialogue,Mik,0000,0000,0000,,Ah, mãe, por que não nos\N dá dinheiro de Ano Novo?
+Dialogue: 0,0:06:57.29,0:06:58.20,Main Dialogue,Mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:06:58.20,0:06:59.47,Main Dialogue,Mik,0000,0000,0000,,É Ano Novo.
+Dialogue: 0,0:06:59.47,0:07:00.41,Main Dialogue,Mik,0000,0000,0000,,Apenas tente.
+Dialogue: 0,0:07:00.41,0:07:02.34,Main Dialogue,Mom,0000,0000,0000,,Para que objetivo?
+Dialogue: 0,0:07:02.34,0:07:03.65,Main Dialogue,Mik,0000,0000,0000,,Nada de mais.
+Dialogue: 0,0:07:03.65,0:07:04.97,Main Dialogue,Mik,0000,0000,0000,,Poderia fazer?
+Dialogue: 0,0:07:06.04,0:07:07.11,Main Dialogue,Mom,0000,0000,0000,,Acho que sim.
+Dialogue: 0,0:07:08.57,0:07:09.67,Main Dialogue,Yuz,0000,0000,0000,,Ei, o que é isto?
+Dialogue: 0,0:07:09.67,0:07:11.53,Main Dialogue,Mom,0000,0000,0000,,Aqui, o seu dinheiro de Ano Novo.
+Dialogue: 0,0:07:12.13,0:07:16.99,Main Dialogue,Yuz,0000,0000,0000,,Desejo um ano novo muito \Nfeliz! Conto com a sua cooperação!
+Dialogue: 0,0:07:17.29,0:07:18.66,Main Dialogue,Mik,0000,0000,0000,,Era isso que ele precisava.
+Dialogue: 0,0:07:18.66,0:07:21.46,Main Dialogue,Mik,0000,0000,0000,,Agora que ele está com esse \Nespírito, está parecendo Ano Novo.
+Dialogue: 0,0:07:22.51,0:07:23.42,Main Dialogue,Dad,0000,0000,0000,,Ei!
+Dialogue: 0,0:07:23.42,0:07:24.31,Main Dialogue,Mik,0000,0000,0000,,O que foi?
+Dialogue: 0,0:07:24.31,0:07:26.28,Main Dialogue,Dad,0000,0000,0000,,É o primeiro pôr do sol do Ano Novo.
+Dialogue: 0,0:07:26.28,0:07:27.85,Main Dialogue,Mik,0000,0000,0000,,O primeiro pôr do sol?
+Dialogue: 0,0:07:27.85,0:07:29.51,Main Dialogue,Mik,0000,0000,0000,,Não deveria ser o primeiro nascer do sol?
+Dialogue: 0,0:07:29.51,0:07:31.59,Main Dialogue,Dad,0000,0000,0000,,Tanto faz.
+Dialogue: 0,0:07:32.07,0:07:33.47,Main Dialogue,Mik,0000,0000,0000,,Bem, acho que é isso mesmo.
+Dialogue: 0,0:07:35.65,0:07:38.97,Main Dialogue,Mom,0000,0000,0000,,Feliz Ano Novo!
+Dialogue: 0,0:07:38.97,0:07:41.61,Main Dialogue,Mom,0000,0000,0000,,Que esse ano também seja maravilhoso!
+Dialogue: 0,0:07:42.19,0:07:43.52,Main Dialogue,Yuz,0000,0000,0000,,Você está gritando muito alto!
+Dialogue: 0,0:07:43.52,0:07:44.44,Main Dialogue,Yuz,0000,0000,0000,,Que vergonha!
+Dialogue: 0,0:07:44.95,0:07:46.49,Main Dialogue,Dad,0000,0000,0000,,Estou com fome.
+Dialogue: 0,0:07:46.49,0:07:47.78,Main Dialogue,Dad,0000,0000,0000,,Querem comer zouni?
+Dialogue: 0,0:07:47.78,0:07:49.15,Main Dialogue,Mik,0000,0000,0000,,Zouni de novo?
+Dialogue: 0,0:07:49.47,0:07:52.11,Main Dialogue,Mom,0000,0000,0000,,Nós também temos o buffet de osechi!
+Dialogue: 0,0:07:53.06,0:07:54.99,Atashinchi 4,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:54.99,0:07:57.40,Atashinchi 9,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:57.56,0:08:01.46,Signs - Copy (2),txt,0000,0000,0000,,Competição de Bolinhos de Arroz
+Dialogue: 0,0:07:57.75,0:07:59.82,Main Dialogue,People,0000,0000,0000,,Feliz Ano Novo!
+Dialogue: 0,0:07:59.88,0:08:01.46,Main Dialogue,People,0000,0000,0000,,Feliz Ano Novo!
+Dialogue: 0,0:08:01.79,0:08:02.47,Main Dialogue,Guy,0000,0000,0000,,E um!
+Dialogue: 0,0:08:02.83,0:08:03.43,Main Dialogue,Guy,0000,0000,0000,,E dois!
+Dialogue: 0,0:08:12.19,0:08:14.51,Main Dialogue,Mom,0000,0000,0000,,Feliz Ano Novo, Sra. Toyama!
+Dialogue: 0,0:08:14.51,0:08:16.00,Main Dialogue,Fam,0000,0000,0000,,Feliz Ano Novo!
+Dialogue: 0,0:08:16.00,0:08:17.82,Main Dialogue,Toy,0000,0000,0000,,Ah, vocês todos vieram!
+Dialogue: 0,0:08:17.82,0:08:18.99,Main Dialogue,Toy,0000,0000,0000,,Aqui, peguem uns pauzinhos.
+Dialogue: 0,0:08:18.99,0:08:20.02,Main Dialogue,mom,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:08:20.02,0:08:22.30,Main Dialogue,toy,0000,0000,0000,,Por favor, comam o quanto quiserem.
+Dialogue: 0,0:08:22.30,0:08:23.96,Main Dialogue,Mik,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:08:23.96,0:08:24.73,Main Dialogue,Yuz,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:08:25.09,0:08:29.73,title,Titl,0000,0000,0000,,{\fad(400,1)}A Competição de Bolinhos de Arroz
+Dialogue: 0,0:08:37.42,0:08:40.59,Main Dialogue,Man,0000,0000,0000,,E tem alguém aqui que gostaria de\N tentar amassar bolinhos de arroz?
+Dialogue: 0,0:08:40.59,0:08:41.63,Main Dialogue,Guy,0000,0000,0000,,Sim!
+Dialogue: 0,0:08:44.23,0:08:47.42,Main Dialogue,Guy,0000,0000,0000,,Ah, que pesado!
+Dialogue: 0,0:08:48.81,0:08:50.38,Main Dialogue,Mom,0000,0000,0000,,Ah, aquele garoto está em perigo!
+Dialogue: 0,0:08:55.01,0:08:56.46,Main Dialogue,Guy2,0000,0000,0000,,O martelo?
+Dialogue: 0,0:08:56.46,0:08:57.30,Main Dialogue,Guy2,0000,0000,0000,,Ei, você!
+Dialogue: 0,0:08:57.82,0:09:00.09,Main Dialogue,Guy2,0000,0000,0000,,Você não devia levantar o martelo tão alto.
+Dialogue: 0,0:09:00.09,0:09:01.52,Main Dialogue,Guy,0000,0000,0000,,Ah, sim...
+Dialogue: 0,0:09:01.89,0:09:03.99,Main Dialogue,Mik,0000,0000,0000,,Ele é tipo um mestre?
+Dialogue: 0,0:09:05.48,0:09:07.78,Main Dialogue,Yuz,0000,0000,0000,,Ele é meio inflexível ao \Nmodo de fazer os bolinhos.
+Dialogue: 0,0:09:08.10,0:09:10.99,Main Dialogue,Guy2,0000,0000,0000,,Use o peso do martelo e solte.
+Dialogue: 0,0:09:10.99,0:09:11.86,Main Dialogue,Guy,0000,0000,0000,,Certo.
+Dialogue: 0,0:09:12.85,0:09:13.82,Main Dialogue,Guy,0000,0000,0000,,Assim?
+Dialogue: 0,0:09:19.78,0:09:21.05,Main Dialogue,Guy2,0000,0000,0000,,Ah, mestre!
+Dialogue: 0,0:09:26.33,0:09:28.42,Main Dialogue,Guy2,0000,0000,0000,,O mestre disse que vai mostrar.
+Dialogue: 0,0:09:28.42,0:09:29.79,Main Dialogue,Guy2,0000,0000,0000,,Afaste-se um pouco.
+Dialogue: 0,0:09:29.79,0:09:31.29,Main Dialogue,Guy,0000,0000,0000,,Sim...
+Dialogue: 0,0:09:31.57,0:09:32.42,Main Dialogue,Guy2,0000,0000,0000,,Por favor.
+Dialogue: 0,0:09:44.36,0:09:46.14,Main Dialogue,Mom,0000,0000,0000,,Ele é mesmo um mestre.
+Dialogue: 0,0:09:46.56,0:09:48.48,Main Dialogue,Guy,0000,0000,0000,,Alguém mais gostaria de tentar?
+Dialogue: 0,0:09:48.79,0:09:50.60,Main Dialogue,Mom,0000,0000,0000,,Querido, quer tentar?
+Dialogue: 0,0:09:51.75,0:09:52.73,Main Dialogue,Dad,0000,0000,0000,,Yuzu...
+Dialogue: 0,0:09:52.73,0:09:54.05,Main Dialogue,Yuz,0000,0000,0000,,Eu não quero.
+Dialogue: 0,0:09:54.05,0:09:56.45,Main Dialogue,Mom,0000,0000,0000,,Qual o problema com os \Nhomens da nossa família?
+Dialogue: 0,0:09:56.87,0:09:59.43,Main Dialogue,Guy,0000,0000,0000,,Uma mulher também pode tentar!
+Dialogue: 0,0:09:59.43,0:10:00.66,Main Dialogue,Guy,0000,0000,0000,,Que tal a senhorita?
+Dialogue: 0,0:10:00.66,0:10:01.61,Main Dialogue,Guy,0000,0000,0000,,Quer tentar?
+Dialogue: 0,0:10:02.16,0:10:04.26,Main Dialogue,Mom,0000,0000,0000,,Vá em frente, Mikan!
+Dialogue: 0,0:10:05.16,0:10:06.88,Main Dialogue,Guy,0000,0000,0000,,Não tem problema!
+Dialogue: 0,0:10:07.15,0:10:08.88,Main Dialogue,Mom,0000,0000,0000,,Tente!
+Dialogue: 0,0:10:09.28,0:10:10.92,Main Dialogue,Mom,0000,0000,0000,,Eu seguro para você.
+Dialogue: 0,0:10:11.63,0:10:13.21,Main Dialogue,Mik,0000,0000,0000,,Que pesado.
+Dialogue: 0,0:10:13.47,0:10:14.67,Main Dialogue,Mom,0000,0000,0000,,Boa sorte!
+Dialogue: 0,0:10:25.02,0:10:25.92,Main Dialogue,Mom,0000,0000,0000,,Olha só!
+Dialogue: 0,0:10:25.92,0:10:27.77,Main Dialogue,Mom,0000,0000,0000,,Ela não parece nada mal!
+Dialogue: 0,0:10:32.93,0:10:34.36,italic,Mom,0000,0000,0000,,Eu também quero tentar.
+Dialogue: 0,0:10:38.10,0:10:39.54,Main Dialogue,Guy,0000,0000,0000,,Essa é a primeira vez que você\N amassou bolinhos de arroz?
+Dialogue: 0,0:10:39.54,0:10:40.45,Main Dialogue,Mik,0000,0000,0000,,Sim.
+Dialogue: 0,0:10:42.69,0:10:44.33,Main Dialogue,Guy,0000,0000,0000,,O mestre disse que você tem talento.
+Dialogue: 0,0:10:44.72,0:10:46.70,Main Dialogue,Mik,0000,0000,0000,,Ah, obrigada.
+Dialogue: 0,0:10:51.47,0:10:53.96,italic,Mom,0000,0000,0000,,Eu posso fazer ainda melhor.
+Dialogue: 0,0:10:54.45,0:10:56.34,Main Dialogue,Guy,0000,0000,0000,,Quem é o próximo?
+Dialogue: 0,0:10:56.91,0:10:57.76,Main Dialogue,Mom,0000,0000,0000,,Aqui!
+Dialogue: 0,0:10:57.80,0:10:58.59,Main Dialogue,Guy,0000,0000,0000,,Aqui!
+Dialogue: 0,0:10:59.67,0:11:00.51,Main Dialogue,Wom,0000,0000,0000,,Eu pego.
+Dialogue: 0,0:11:00.80,0:11:02.93,Main Dialogue,Wom,0000,0000,0000,,Aqui tem um novo para você.
+Dialogue: 0,0:11:05.33,0:11:06.43,Main Dialogue,Guy,0000,0000,0000,,Lá vou eu!
+Dialogue: 0,0:11:08.25,0:11:09.94,Main Dialogue,Yuz,0000,0000,0000,,Vou comprar uma bebida.
+Dialogue: 0,0:11:10.46,0:11:13.98,Main Dialogue,Guy,0000,0000,0000,,Solte a cabeça e reforce o seu traseiro.
+Dialogue: 0,0:11:14.34,0:11:16.19,Main Dialogue,Guy2,0000,0000,0000,,Assim?
+Dialogue: 0,0:11:17.62,0:11:18.55,Main Dialogue,Guy,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:11:18.55,0:11:20.15,Main Dialogue,Guy,0000,0000,0000,,Use como se fosse uma enxada.
+Dialogue: 0,0:11:20.15,0:11:21.71,Main Dialogue,Mom,0000,0000,0000,,Enxada?
+Dialogue: 0,0:11:26.76,0:11:27.35,Main Dialogue,Guy,0000,0000,0000,,E um!
+Dialogue: 0,0:11:27.47,0:11:27.95,Main Dialogue,Mom,0000,0000,0000,,E um!
+Dialogue: 0,0:11:28.15,0:11:28.83,Main Dialogue,Guy,0000,0000,0000,,E dois!
+Dialogue: 0,0:11:28.83,0:11:29.48,Main Dialogue,Mom,0000,0000,0000,,E dois!
+Dialogue: 0,0:11:30.24,0:11:32.12,Main Dialogue,Guy2,0000,0000,0000,,Quem é o próximo?
+Dialogue: 0,0:11:33.07,0:11:33.92,Main Dialogue,Mom,0000,0000,0000,,Aqui!
+Dialogue: 0,0:11:33.92,0:11:35.00,Main Dialogue,Guy,0000,0000,0000,,Eu!
+Dialogue: 0,0:11:35.66,0:11:38.29,Main Dialogue,Wom,0000,0000,0000,,Certo, mais um pouco de bolinhos de arroz.
+Dialogue: 0,0:11:40.38,0:11:42.84,Signs - Copy,Sign,0000,0000,0000,,{\c&H2B30BD&\3c&H55DDF1&}Saquê doce
+Dialogue: 0,0:11:41.74,0:11:42.84,Main Dialogue,Nas,0000,0000,0000,,Ei, Yuzupi!
+Dialogue: 0,0:11:43.08,0:11:44.93,Main Dialogue,Yuz,0000,0000,0000,,Nasuo, você está sozinho?
+Dialogue: 0,0:11:44.93,0:11:46.56,Main Dialogue,Nas,0000,0000,0000,,Sim, e você?
+Dialogue: 0,0:11:46.84,0:11:47.85,Main Dialogue,Guy,0000,0000,0000,,E um!
+Dialogue: 0,0:11:48.37,0:11:48.93,Main Dialogue,Guy,0000,0000,0000,,E dois!
+Dialogue: 0,0:11:49.98,0:11:50.90,Main Dialogue,Guy,0000,0000,0000,,E um!
+Dialogue: 0,0:11:51.26,0:11:53.84,Main Dialogue,Mom,0000,0000,0000,,Essa não, você está balançando demais!
+Dialogue: 0,0:11:51.62,0:11:52.23,Main Dialogue,Guy,0000,0000,0000,,{\an8}E dois!
+Dialogue: 0,0:11:53.84,0:11:55.69,Main Dialogue,Mom,0000,0000,0000,,Você devia deixar o peso do \Nmartelo fazer o trabalho para você.
+Dialogue: 0,0:11:57.59,0:12:00.36,Main Dialogue,Mom,0000,0000,0000,,Segure firme com a mão esquerda\N e a direita deve só acompanhar.
+Dialogue: 0,0:12:14.53,0:12:16.96,Main Dialogue,Nas,0000,0000,0000,,O que sua mãe está fazendo?
+Dialogue: 0,0:12:16.96,0:12:18.17,Main Dialogue,Yuz,0000,0000,0000,,Não olhe!
+Dialogue: 0,0:12:18.56,0:12:20.26,Main Dialogue,Guy,0000,0000,0000,,Quem é o próximo?
+Dialogue: 0,0:12:21.75,0:12:23.71,Main Dialogue,Guy,0000,0000,0000,,Que tal vocês, garotos?
+Dialogue: 0,0:12:23.71,0:12:24.62,Main Dialogue,Yuz,0000,0000,0000,,Não precisa.
+Dialogue: 0,0:12:24.62,0:12:28.30,Main Dialogue,Mom,0000,0000,0000,,Yuzinho, você devia aproveitar a oportunidade!
+Dialogue: 0,0:12:28.30,0:12:29.43,Main Dialogue,Yuz,0000,0000,0000,,Não quero.
+Dialogue: 0,0:12:31.08,0:12:32.76,Main Dialogue,,0000,0000,0000,,Essas crianças...
+Dialogue: 0,0:12:32.97,0:12:33.89,Main Dialogue,Mom,0000,0000,0000,,Então eu vou—
+Dialogue: 0,0:12:33.89,0:12:35.82,Main Dialogue,Nao,0000,0000,0000,,Eu quero!
+Dialogue: 0,0:12:39.18,0:12:40.56,Main Dialogue,Nao,0000,0000,0000,,Amassar bolinho de arroz!
+Dialogue: 0,0:12:40.63,0:12:42.15,Main Dialogue,Nao,0000,0000,0000,,Amassar bolinho de arroz!
+Dialogue: 0,0:12:44.28,0:12:45.86,Main Dialogue,Mom,0000,0000,0000,,Pare de balançar o martelo!
+Dialogue: 0,0:12:48.40,0:12:50.34,Main Dialogue,Mom,0000,0000,0000,,Deixo o peso fazer o martelo cair.
+Dialogue: 0,0:12:52.70,0:12:53.41,Main Dialogue,Nao,0000,0000,0000,,Certo!
+Dialogue: 0,0:12:55.00,0:12:57.79,Main Dialogue,Mom,0000,0000,0000,,Segure firme o cabo e deixe\N a cabeça do martelo solta!
+Dialogue: 0,0:13:00.54,0:13:02.02,Main Dialogue,mom,0000,0000,0000,,Faça movimentos de enxada!
+Dialogue: 0,0:13:02.02,0:13:03.22,Main Dialogue,mom,0000,0000,0000,,Vá com vontade!
+Dialogue: 0,0:13:04.13,0:13:05.18,Main Dialogue,mom,0000,0000,0000,,Não use as mãos demais!
+Dialogue: 0,0:13:05.52,0:13:07.72,Main Dialogue,mom,0000,0000,0000,,Não coloque força na hora de descer!
+Dialogue: 0,0:13:07.72,0:13:09.18,Main Dialogue,mom,0000,0000,0000,,Coloque o pé direito mais para frente!
+Dialogue: 0,0:13:09.18,0:13:11.14,Main Dialogue,mom,0000,0000,0000,,Mantenha os joelhos e tornozelos soltos!
+Dialogue: 0,0:13:11.34,0:13:13.60,Main Dialogue,mom,0000,0000,0000,,Concentre sua energia embaixo do umbigo!
+Dialogue: 0,0:13:13.78,0:13:15.81,Main Dialogue,Guy,0000,0000,0000,,Quem é essa mulher?
+Dialogue: 0,0:13:18.06,0:13:21.98,Main Dialogue,Guy,0000,0000,0000,,Alguém mais gostaria de \Namassar bolinhos de arroz?
+Dialogue: 0,0:13:25.10,0:13:26.64,Main Dialogue,Guy2,0000,0000,0000,,O que foi, mestre?
+Dialogue: 0,0:13:30.83,0:13:33.29,Main Dialogue,Guy2,0000,0000,0000,,O próprio mestre gostaria que você tentasse.
+Dialogue: 0,0:13:35.84,0:13:36.75,Main Dialogue,Mom,0000,0000,0000,,Certo, então.
+Dialogue: 0,0:13:43.97,0:13:45.25,Main Dialogue,Guy2,0000,0000,0000,,Entendi o que você quis dizer,
+Dialogue: 0,0:13:45.25,0:13:46.72,Main Dialogue,Guy2,0000,0000,0000,,ela segura firme.
+Dialogue: 0,0:13:51.39,0:13:52.64,italic,Mom,0000,0000,0000,,Eu consigo.
+Dialogue: 0,0:14:08.36,0:14:09.27,Main Dialogue,Guy,0000,0000,0000,,Essa não...
+Dialogue: 0,0:14:09.27,0:14:10.43,Main Dialogue,Guy,0000,0000,0000,,Quebrou o amassador?
+Dialogue: 0,0:14:11.66,0:14:13.00,Main Dialogue,Guy,0000,0000,0000,,Mestre!
+Dialogue: 0,0:14:14.38,0:14:15.75,Main Dialogue,Guy,0000,0000,0000,,O bolinho...
+Dialogue: 0,0:14:15.75,0:14:17.01,Main Dialogue,Guy,0000,0000,0000,,Você está bem, senhor?
+Dialogue: 0,0:14:19.20,0:14:23.43,Main Dialogue,Mas,0000,0000,0000,,O bolinho está... acabado...
+Dialogue: 0,0:14:26.41,0:14:28.30,Atashinchi 3,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:30.13,0:14:32.20,Main Dialogue,Yuz,0000,0000,0000,,Foi uma exibição maestral...
+Dialogue: 0,0:14:32.20,0:14:34.04,Main Dialogue,Mik,0000,0000,0000,,Ao menos o amassador está bem.
+Dialogue: 0,0:14:34.04,0:14:35.27,Main Dialogue,Mom,0000,0000,0000,,Me desculpem...
+Dialogue: 0,0:14:35.27,0:14:38.37,Main Dialogue,Wom,0000,0000,0000,,Alguém quer mais bolinho?
+Dialogue: 0,0:14:38.69,0:14:39.40,Main Dialogue,Mom,0000,0000,0000,,Sim!
+Dialogue: 0,0:14:42.79,0:14:45.28,Main Dialogue,Mik,0000,0000,0000,,Acho que isso deve ser o que você é melhor.
+Dialogue: 0,0:14:45.28,0:14:45.97,Main Dialogue,Yuz,0000,0000,0000,,Sim.
+Dialogue: 0,0:14:50.04,0:14:51.29,Main Dialogue,Mom,0000,0000,0000,,Que delícia!
+Dialogue: 0,0:14:52.11,0:14:55.04,Atashinchi 9,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:56.35,0:14:58.00,Atashinchi 9,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:58.00,0:15:02.47,top,mik,0000,0000,0000,,A rosa vermelha da paixão...
+Dialogue: 0,0:15:02.47,0:15:06.21,top,mik,0000,0000,0000,,E a inveja...
+Dialogue: 0,0:15:04.42,0:15:07.92,Signs - Copy (3),txt,0000,0000,0000,,31 de Dezembro, 18h05
+Dialogue: 0,0:15:06.27,0:15:07.55,italic,mik,0000,0000,0000,,{\a6}Véspera de Ano Novo.
+Dialogue: 0,0:15:11.59,0:15:14.89,Main Dialogue,mik,0000,0000,0000,,Vou assistir um monte\N de filmes no Ano Novo!
+Dialogue: 0,0:15:16.40,0:15:17.75,italic,mik,0000,0000,0000,,Foi o que eu disse...
+Dialogue: 0,0:15:18.89,0:15:21.94,Main Dialogue,mik,0000,0000,0000,,Já acabou o feriadão?
+Dialogue: 0,0:15:21.94,0:15:24.45,top,mik,0000,0000,0000,,O Ano Novo acabou!
+Dialogue: 0,0:15:24.38,0:15:26.94,Signs - Copy (3),txt,0000,0000,0000,,3 de Janeiro, 9h37
+Dialogue: 0,0:15:24.45,0:15:26.94,top,mom,0000,0000,0000,,Ah, falando nisso, você \Nterminou a lição de casa?
+Dialogue: 0,0:15:27.28,0:15:31.95,title,titl,0000,0000,0000,,{\fad(400,1)\c&H4586EB&\3c&HA5DFFA&}O Ano Novo é Curto Demais
+Dialogue: 0,0:15:32.19,0:15:34.41,Signs - Copy (3),txt,0000,0000,0000,,3 de Janeiro, 11h11
+Dialogue: 0,0:15:38.58,0:15:40.00,Main Dialogue,yuz,0000,0000,0000,,Ei, mana.
+Dialogue: 0,0:15:40.45,0:15:41.21,Main Dialogue,Mik,0000,0000,0000,,O que foi?
+Dialogue: 0,0:15:41.48,0:15:45.88,Main Dialogue,yuz,0000,0000,0000,,Ao invés de assistir DVDs, eu preferiria que \Nvocê assistisse os programas que você gravou.
+Dialogue: 0,0:15:46.12,0:15:46.96,Main Dialogue,mik,0000,0000,0000,,Por quê?
+Dialogue: 0,0:15:47.70,0:15:50.55,Main Dialogue,yuz,0000,0000,0000,,O HD está tão cheio que não\N dá para gravar mais nada!
+Dialogue: 0,0:15:50.81,0:15:53.25,Main Dialogue,yuz,0000,0000,0000,,Se você não vai assistir, por favor, delete!
+Dialogue: 0,0:15:53.89,0:15:55.77,Main Dialogue,mik,0000,0000,0000,,Não posso fazer isso.
+Dialogue: 0,0:15:55.95,0:15:56.60,Main Dialogue,Yuz,0000,0000,0000,,Por exemplo...
+Dialogue: 0,0:15:57.02,0:15:58.85,italic,tv,0000,0000,0000,,Eu sou Gojuro Chabatake.
+Dialogue: 0,0:16:00.41,0:16:02.56,Main Dialogue,yuz,0000,0000,0000,,Você vai mesmo assistir essa\N novela de três anos atrás?
+Dialogue: 0,0:16:02.85,0:16:05.10,Main Dialogue,yuz,0000,0000,0000,,Ou esse programa de saúde?
+Dialogue: 0,0:16:05.10,0:16:06.99,Main Dialogue,mik,0000,0000,0000,,Eu vou! Eu vou! Me empreste aqui!
+Dialogue: 0,0:16:06.99,0:16:08.57,Main Dialogue,Yuz,0000,0000,0000,,Não, jamais!
+Dialogue: 0,0:16:08.57,0:16:10.03,Main Dialogue,mik,0000,0000,0000,,Eu gravei porque eu vou assistir!
+Dialogue: 0,0:16:10.03,0:16:12.86,Main Dialogue,yuz,0000,0000,0000,,Então grave em um DVD e delete daqui!
+Dialogue: 0,0:16:12.86,0:16:13.42,Main Dialogue,mik,0000,0000,0000,,Eu não quero fazer isso!
+Dialogue: 0,0:16:13.42,0:16:14.85,Main Dialogue,yuz,0000,0000,0000,,Por que não?
+Dialogue: 0,0:16:15.12,0:16:17.91,Main Dialogue,mik,0000,0000,0000,,Quer dizer, se eu colocar em um DVD...
+Dialogue: 0,0:16:17.91,0:16:19.33,Main Dialogue,Yuz,0000,0000,0000,,E então...
+Dialogue: 0,0:16:20.33,0:16:22.04,Main Dialogue,mik,0000,0000,0000,,Será ainda mais provável que eu não assista!
+Dialogue: 0,0:16:26.73,0:16:28.92,Signs - Copy (3),txt,0000,0000,0000,,3 de Janeiro, 13h46
+Dialogue: 0,0:16:27.50,0:16:30.86,top,mik,0000,0000,0000,,Acabei sendo forçada a \Ndeletar 48h de programas hoje.
+Dialogue: 0,0:16:31.93,0:16:32.49,italic,han,0000,0000,0000,,Adeus!
+Dialogue: 0,0:16:32.49,0:16:33.11,italic,guy,0000,0000,0000,,Espere, Hanako!
+Dialogue: 0,0:16:33.11,0:16:34.65,italic,guy,0000,0000,0000,,Hanako!
+Dialogue: 0,0:16:37.63,0:16:38.89,italic,wom,0000,0000,0000,,Você não é o Ichigo?
+Dialogue: 0,0:16:38.57,0:16:40.72,italic,mik,0000,0000,0000,,Natal, hein?!
+Dialogue: 0,0:16:40.12,0:16:40.82,italic,guy,0000,0000,0000,,Como você sabia?
+Dialogue: 0,0:16:42.02,0:16:45.53,italic,mik,0000,0000,0000,,O Natal do ano passado foi tão divertido.
+Dialogue: 0,0:16:47.86,0:16:51.32,italic,mik,0000,0000,0000,,Acho que existem \Nsurpresas agradáveis na vida.
+Dialogue: 0,0:16:56.53,0:16:58.41,italic,guy,0000,0000,0000,,Feliz Natal. Eu amo você, Hanako!
+Dialogue: 0,0:16:58.14,0:17:01.04,Main Dialogue,mik,0000,0000,0000,,{\an8}O que é isso? Por que isso está acontecendo?
+Dialogue: 0,0:17:01.04,0:17:02.33,Main Dialogue,mom,0000,0000,0000,,Você está na frente.
+Dialogue: 0,0:17:04.03,0:17:06.04,Main Dialogue,mik,0000,0000,0000,,Já chega disso, eu vou assistir outra coisa.
+Dialogue: 0,0:17:06.04,0:17:07.51,Main Dialogue,mom,0000,0000,0000,,Essa parte estava tão boa.
+Dialogue: 0,0:17:07.82,0:17:08.42,italic,guy,0000,0000,0000,,Você se atrasou, parceiro.
+Dialogue: 0,0:17:08.42,0:17:09.21,italic,ken,0000,0000,0000,,Cale a boca, parceiro.
+Dialogue: 0,0:17:09.21,0:17:09.67,Signs - Copy (2),txt,0000,0000,0000,,{\3c&H6A5437&\c&HFFFDFE&}Parceiro
+Dialogue: 0,0:17:09.67,0:17:10.23,italic,yas,0000,0000,0000,,Nada?
+Dialogue: 0,0:17:10.23,0:17:11.69,italic,ken,0000,0000,0000,,Sim, não tinha nada no corpo.
+Dialogue: 0,0:17:11.69,0:17:15.03,italic,mik,0000,0000,0000,,Ah, sim, o mangá que eu peguei\N emprestado com a Shimi...
+Dialogue: 0,0:17:17.73,0:17:20.34,Signs - Copy (3),txt,0000,0000,0000,,21 de Dezembro, 14h16
+Dialogue: 0,0:17:17.80,0:17:20.03,flashback,shi,0000,0000,0000,,{\a6}Aqui estão todos os 31 volumes\N de Deusa Peixinho Dourado.
+Dialogue: 0,0:17:20.03,0:17:20.97,flashback,shi,0000,0000,0000,,{\a6}É muito divertido!
+Dialogue: 0,0:17:20.97,0:17:22.14,flashback,mik,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:17:22.14,0:17:24.26,flashback,gir,0000,0000,0000,,Eu também quero ler! Posso ser a próxima?
+Dialogue: 0,0:17:24.26,0:17:27.27,flashback,mik,0000,0000,0000,,Claro, vou ler no Ano Novo.
+Dialogue: 0,0:17:27.50,0:17:30.49,italic,mik,0000,0000,0000,,O que eu devo fazer? Eu não li nada ainda.
+Dialogue: 0,0:17:30.49,0:17:33.59,italic,mik,0000,0000,0000,,Eu deveria devolver enquanto\N ainda estou no meio?
+Dialogue: 0,0:17:33.59,0:17:34.45,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:17:34.45,0:17:35.51,italic,ken,0000,0000,0000,,Isso foi inesperado.
+Dialogue: 0,0:17:35.51,0:17:36.14,italic,yas,0000,0000,0000,,Vamos voltar para a delegacia.
+Dialogue: 0,0:17:36.14,0:17:37.46,italic,ken,0000,0000,0000,,O que vamos jantar? Lámen ou curry?
+Dialogue: 0,0:17:37.46,0:17:38.32,italic,yas,0000,0000,0000,,Pare de ser idiota.
+Dialogue: 0,0:17:38.32,0:17:40.46,Main Dialogue,mom,0000,0000,0000,,Foi tão divertido.
+Dialogue: 0,0:17:38.34,0:17:40.16,italic,yas,0000,0000,0000,,{\an8}O dia está pedindo um hambúrguer.
+Dialogue: 0,0:17:40.16,0:17:41.16,italic,ken,0000,0000,0000,,{\an8}É mesmo.
+Dialogue: 0,0:17:40.46,0:17:43.12,italic,mik,0000,0000,0000,,Essa não, eu não consegui assistir nada.
+Dialogue: 0,0:17:43.12,0:17:45.17,Signs,txt,0000,0000,0000,,{\c&H2A3820&\3c&H79C5F8&}Os item selecionados serão apagados
+Dialogue: 0,0:17:43.12,0:17:45.17,Signs,txt,0000,0000,0000,,{\c&H2A3820&\3c&H79C5F8&}[Confirmar]      [Cancelar]
+Dialogue: 0,0:17:43.44,0:17:47.58,italic,mik,0000,0000,0000,,Acabei apagando esses programas \Nque eu tinha gravado sem nem assistir.
+Dialogue: 0,0:17:45.17,0:17:46.52,Signs,txt,0000,0000,0000,,{\c&H2A3820&\3c&H79C5F8&}Por favor, aguarde
+Dialogue: 0,0:17:47.76,0:17:51.35,Signs - Copy (3),txt,0000,0000,0000,,3 de Janeiro, 15h51
+Dialogue: 0,0:17:49.03,0:17:50.69,top,mik,0000,0000,0000,,Vou ler primeiro.
+Dialogue: 0,0:17:54.49,0:17:55.80,Main Dialogue,mik,0000,0000,0000,,Certo, terminei o volume 16!
+Dialogue: 0,0:17:55.80,0:17:56.59,Main Dialogue,mik,0000,0000,0000,,Próximo!
+Dialogue: 0,0:17:58.76,0:18:03.39,Main Dialogue,mik,0000,0000,0000,,17, 18, 19, 20!
+Dialogue: 0,0:18:06.35,0:18:09.81,Signs,txt,0000,0000,0000,,{\an9}Eu amo você!
+Dialogue: 0,0:18:11.39,0:18:12.36,italic,mik,0000,0000,0000,,Quem é esse cara?
+Dialogue: 0,0:18:12.89,0:18:16.99,Main Dialogue,mik,0000,0000,0000,,20, 19, 18... hã?
+Dialogue: 0,0:18:18.39,0:18:20.53,Signs,txt,0000,0000,0000,,3 de Janeiro, 16h16
+Dialogue: 0,0:18:20.75,0:18:22.60,Main Dialogue,mik,0000,0000,0000,,Eu não tenho mais tempo!
+Dialogue: 0,0:18:31.12,0:18:33.38,Signs - Copy (3),txt,0000,0000,0000,,3 de Janeiro, 19h33
+Dialogue: 0,0:18:35.27,0:18:38.59,Main Dialogue,mik,0000,0000,0000,,Assisti tudo!
+Dialogue: 0,0:18:38.59,0:18:40.30,Main Dialogue,mik,0000,0000,0000,,E eu li tudo!
+Dialogue: 0,0:18:41.80,0:18:43.66,Main Dialogue,yuz,0000,0000,0000,,Algum deles foi divertido?
+Dialogue: 0,0:18:54.69,0:18:56.15,Main Dialogue,guy,0000,0000,0000,,Eu amo você!
+Dialogue: 0,0:18:57.36,0:18:59.28,Main Dialogue,ken,0000,0000,0000,,Isso foi inesperado!
+Dialogue: 0,0:19:01.00,0:19:02.62,Main Dialogue,cha,0000,0000,0000,,Gojuro Chabatake!
+Dialogue: 0,0:19:06.41,0:19:10.31,Main Dialogue,mik,0000,0000,0000,,Não tem nada aqui.
+Dialogue: 0,0:19:11.76,0:19:13.29,Main Dialogue,mik,0000,0000,0000,,Apenas um vácuo.
+Dialogue: 0,0:19:19.19,0:19:20.94,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an1}Leite do Ano Passado
+Dialogue: 0,0:19:19.89,0:19:21.49,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an4}Ovos do Ano Passado
+Dialogue: 0,0:19:20.27,0:19:22.21,Main Dialogue,mom,0000,0000,0000,,Eu sempre faço isso.
+Dialogue: 0,0:19:20.29,0:19:21.49,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an5}Tofu do Ano Passado
+Dialogue: 0,0:19:20.65,0:19:22.85,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an7}Iogurte do Ano Passado
+Dialogue: 0,0:19:20.99,0:19:22.85,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an5}Presunto do Ano Passado
+Dialogue: 0,0:19:21.54,0:19:22.85,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an8}Ovas do Ano Novo
+Dialogue: 0,0:19:21.87,0:19:22.85,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an9}Bolinho de Peixe do Ano Novo
+Dialogue: 0,0:19:22.21,0:19:24.51,Main Dialogue,mom,0000,0000,0000,,Todas as lojas estão fechadas no Ano Novo,
+Dialogue: 0,0:19:24.51,0:19:29.06,Main Dialogue,mom,0000,0000,0000,,então eu devia ter feito compras para uma semana.
+Dialogue: 0,0:19:29.06,0:19:33.55,Main Dialogue,mom,0000,0000,0000,,Mas, sabe, hoje em dia, os supermercados\N só ficam fechados por um dia.
+Dialogue: 0,0:19:33.55,0:19:35.81,Main Dialogue,mom,0000,0000,0000,,Então coma ovo cozido.
+Dialogue: 0,0:19:35.81,0:19:36.82,Main Dialogue,yuz,0000,0000,0000,,Eu não vou comer!
+Dialogue: 0,0:19:37.15,0:19:39.48,Main Dialogue,mom,0000,0000,0000,,Mas, olha, o Ano Novo é curto demais.
+Dialogue: 0,0:19:39.75,0:19:42.65,Main Dialogue,dad,0000,0000,0000,,Eu ainda não abri isso.
+Dialogue: 0,0:19:43.30,0:19:45.49,Signs - Copy (3),txt,0000,0000,0000,,31 de Dezembro, 18h59
+Dialogue: 0,0:19:49.12,0:19:51.37,flashback,dad,0000,0000,0000,,Vou montar isso no Ano Novo.
+Dialogue: 0,0:19:51.37,0:19:55.87,Main Dialogue,dad,0000,0000,0000,,Mas o Ano Novo foi gasto escrevendo\N respostas para os cartões.
+Dialogue: 0,0:19:56.35,0:19:58.46,Main Dialogue,dad,0000,0000,0000,,Quem sabe no próximo Ano Novo.
+Dialogue: 0,0:20:00.22,0:20:01.67,Main Dialogue,dad,0000,0000,0000,,Tem isso também.
+Dialogue: 0,0:20:01.99,0:20:05.51,Signs - Copy (3),txt,0000,0000,0000,,{\fad(333,1)}25 de Dezembro, 19h03
+Dialogue: 0,0:20:02.84,0:20:06.02,flashback,dad,0000,0000,0000,,{\a6}Certo, esse Ano Novo eu vou beber!
+Dialogue: 0,0:20:16.02,0:20:16.94,Main Dialogue,dad,0000,0000,0000,,Vejamos...
+Dialogue: 0,0:20:18.51,0:20:20.65,Main Dialogue,yuz,0000,0000,0000,,Não vou falar também.
+Dialogue: 0,0:20:21.61,0:20:23.11,Main Dialogue,yuz,0000,0000,0000,,Esses pesos...
+Dialogue: 0,0:20:25.12,0:20:29.12,Main Dialogue,yuz,0000,0000,0000,,Olha o corpo que eu cultivei no Ano Novo!
+Dialogue: 0,0:20:29.62,0:20:30.70,Main Dialogue,nasu,0000,0000,0000,,Músculos! Músculos!
+Dialogue: 0,0:20:30.70,0:20:31.68,Main Dialogue,fuj,0000,0000,0000,,Tão definido!
+Dialogue: 0,0:20:31.68,0:20:32.28,Main Dialogue,nas,0000,0000,0000,,Uau!
+Dialogue: 0,0:20:32.28,0:20:33.08,Main Dialogue,nasu,0000,0000,0000,,Músculos! Músculos!
+Dialogue: 0,0:20:33.35,0:20:35.92,Main Dialogue,yuz,0000,0000,0000,,No fim, eu não fiz nada.
+Dialogue: 0,0:20:37.16,0:20:40.44,Main Dialogue,yuz,0000,0000,0000,,Não, o importante é começar no Ano Novo!
+Dialogue: 0,0:20:45.54,0:20:47.81,Signs - Copy (3),txt,0000,0000,0000,,3 de Janeiro, 20h37
+Dialogue: 0,0:20:48.14,0:20:50.57,Main Dialogue,nom,0000,0000,0000,,Certo, o jantar está pronto!
+Dialogue: 0,0:20:50.57,0:20:51.27,Main Dialogue,nom,0000,0000,0000,,Hã?
+Dialogue: 0,0:20:57.02,0:20:58.30,Main Dialogue,nom,0000,0000,0000,,O que deu em vocês?
+Dialogue: 0,0:20:58.30,0:21:00.90,Main Dialogue,nom,0000,0000,0000,,Hoje vamos ter um curry especial de Ano Novo!
+Dialogue: 0,0:21:01.60,0:21:03.74,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}Ovo do Ano Passado
+Dialogue: 0,0:21:01.97,0:21:03.74,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an9}Ovas
+Dialogue: 0,0:21:02.21,0:21:03.74,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an7}Bolinho de Peixe \Ndo Ano Passado
+Dialogue: 0,0:21:02.43,0:21:03.74,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an9}Tofu do Ano Passado
+Dialogue: 0,0:21:02.70,0:21:03.74,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an9}Rocambole de omelete
+Dialogue: 0,0:21:03.03,0:21:03.74,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an3}Salsichão
+Dialogue: 0,0:21:03.14,0:21:03.74,Signs,txt,0000,0000,0000,,{\c&H533181&\3c&HCFAAF5&}{\an1}Feijão Preto
+Dialogue: 0,0:21:03.94,0:21:05.14,Main Dialogue,yuz,0000,0000,0000,,Não me diga que...
+Dialogue: 0,0:21:05.14,0:21:09.61,Main Dialogue,mom,0000,0000,0000,,Sim, eu usei tudo que não \Nterminamos de comer no Ano Novo!
+Dialogue: 0,0:21:09.61,0:21:11.04,Main Dialogue,mom,0000,0000,0000,,Bem na hora!
+Dialogue: 0,0:21:12.32,0:21:13.82,Main Dialogue,mik,0000,0000,0000,,Obrigada pela comida.
+Dialogue: 0,0:21:15.12,0:21:17.43,Main Dialogue,mom,0000,0000,0000,,Esse tipo de sinfonia de ingredientes\N elaborados é um sonho que
+Dialogue: 0,0:21:17.43,0:21:19.04,Main Dialogue,mom,0000,0000,0000,,só pode ser realizado no Ano Novo!
+Dialogue: 0,0:21:19.79,0:21:21.83,Main Dialogue,mik,0000,0000,0000,,Bem, tem coisa demais aqui...
+Dialogue: 0,0:21:21.83,0:21:22.84,Main Dialogue,yuz,0000,0000,0000,,Chega a ser estranho.
+Dialogue: 0,0:21:24.63,0:21:27.07,Main Dialogue,dad,0000,0000,0000,,As ovas não estavam boas...
+Dialogue: 0,0:21:27.51,0:21:29.56,Signs - Copy (3),txt,0000,0000,0000,,3 de Janeiro, 22h55
+Dialogue: 0,0:21:29.96,0:21:31.61,Main Dialogue,mom,0000,0000,0000,,Ainda sobrou um monte.
+Dialogue: 0,0:21:31.61,0:21:35.02,Main Dialogue,mik,0000,0000,0000,,Acho que o problema é que \Nesperamos demais do Ano Novo.
+Dialogue: 0,0:21:35.47,0:21:39.82,Main Dialogue,mom,0000,0000,0000,,É mesmo, o Ano Novo acabou\N em um piscar de olhos.
+Dialogue: 0,0:21:39.82,0:21:42.73,Main Dialogue,mom,0000,0000,0000,,Certo, no próximo eu não vou fazer nada!
+Dialogue: 0,0:21:42.73,0:21:44.00,Main Dialogue,mik,0000,0000,0000,,Talvez eu devesse fazer isso também.
+Dialogue: 0,0:21:46.23,0:21:47.34,Main Dialogue,mik,0000,0000,0000,,Mas...
+Dialogue: 0,0:21:48.38,0:21:50.66,Main Dialogue,both,0000,0000,0000,,É meio triste também...
+Dialogue: 0,0:21:52.58,0:21:55.04,Atashinchi 8,txt,0000,0000,0000,,{\3c&H5DA269&}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HAE469B&}"Papai não Consulta"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HCD9F3C&}"O Treinamento de Cérebro da Mamãe"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H1D28FA&}"Garotos? Nem pensar."
+Dialogue: 0,0:22:55.52,0:22:57.74,Main Dialogue,mik,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
+Dialogue: 0,0:22:57.74,0:22:59.82,Main Dialogue,,0000,0000,0000,,"O Treinamento de Cérebro da Mamãe" \Ne outros dois episódios!
+Dialogue: 0,0:22:59.82,0:23:01.62,Main Dialogue,guys,0000,0000,0000,,Investida Dupla!
+Dialogue: 0,0:23:01.62,0:23:03.86,Main Dialogue,nas,0000,0000,0000,,Não, mesmo!

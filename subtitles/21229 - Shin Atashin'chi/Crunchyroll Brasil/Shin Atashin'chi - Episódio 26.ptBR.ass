@@ -1,0 +1,442 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Show Title 1,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Show Title 2,Arial,26,&H00CB606C,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: My Castle,Times New Roman,20,&H00000000,&H000000FF,&H00EAF2F7,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Another Day,Arial,20,&H00F05FE0,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Packed,Arial,28,&H003D2ED5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Show Title 1 3,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Poem,Times New Roman,20,&H0046CEE7,&H000000FF,&H0015597D,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,0020,0020,0014,1
+Style: Taskforce,Arial,20,&H00FFFFFF,&H000000FF,&H00A321C5,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Sizzle,Arial,26,&H004D29B7,&H000000FF,&H00A4A6CC,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Peerless,Times New Roman,28,&H0040B3DC,&H000000FF,&H00034F08,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Go Ka Bou,Arial,20,&H00E0E6E2,&H000000FF,&H0051368C,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Candy Corner,Arial,20,&H00000000,&H000000FF,&H00A2A5ED,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: Last Title,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0014,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:55.53,0:00:57.74,Show Title 1,txt,0462,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:00:57.74,0:00:59.16,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:00.54,0:01:01.70,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:03.04,0:01:04.87,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:08.57,0:01:11.40,Main Dialogue,mom,0000,0000,0000,,Esta casa é...
+Dialogue: 0,0:01:13.06,0:01:14.74,Main Dialogue,mom,0000,0000,0000,,o meu castelo!
+Dialogue: 0,0:01:14.74,0:01:17.22,Main Dialogue,mik,0000,0000,0000,,É isso que minha mãe acha.
+Dialogue: 0,0:01:17.47,0:01:22.22,title,titl,0000,0000,0000,,{\fad(400,1)\c&H4DA420&\3c&HF0F0F0&}Minha casa é o meu castelo!
+Dialogue: 0,0:01:25.92,0:01:27.47,Main Dialogue,mik,0000,0000,0000,,Alô? Casa dos Tachibana.
+Dialogue: 0,0:01:28.23,0:01:30.29,Main Dialogue,mik,0000,0000,0000,,Sim, sim...
+Dialogue: 0,0:01:30.29,0:01:31.90,Main Dialogue,mik,0000,0000,0000,,Ah, sim..
+Dialogue: 0,0:01:32.31,0:01:33.61,Main Dialogue,mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:34.65,0:01:36.57,Italic,mik,0000,0000,0000,,É difícil escrever com o telefone no caminho.
+Dialogue: 0,0:01:37.10,0:01:39.72,Main Dialogue,mik,0000,0000,0000,,Ah, certo.
+Dialogue: 0,0:01:40.16,0:01:40.80,Main Dialogue,mik,0000,0000,0000,,Sim.
+Dialogue: 0,0:01:41.61,0:01:43.37,Main Dialogue,mik,0000,0000,0000,,Tudo bem, entendido.
+Dialogue: 0,0:01:43.37,0:01:44.72,Main Dialogue,mik,0000,0000,0000,,Até mais.
+Dialogue: 0,0:01:46.89,0:01:48.54,Main Dialogue,mik,0000,0000,0000,,O bloco de anotações fica\N em um lugar estranho.
+Dialogue: 0,0:01:49.05,0:01:51.25,Main Dialogue,mik,0000,0000,0000,,Precisa ficar desse lado do telefone.
+Dialogue: 0,0:01:51.62,0:01:54.67,Main Dialogue,mom,0000,0000,0000,,Mikan, quem era no telefone?
+Dialogue: 0,0:01:54.94,0:01:55.63,Main Dialogue,mom,0000,0000,0000,,Ei!
+Dialogue: 0,0:01:55.84,0:01:56.53,Main Dialogue,mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:57.02,0:01:58.84,Main Dialogue,mom,0000,0000,0000,,Não mexa no bloco de anotações!
+Dialogue: 0,0:01:58.84,0:02:02.18,Main Dialogue,mik,0000,0000,0000,,Por que não? É tão difícil escrever\N com o telefone no caminho.
+Dialogue: 0,0:02:02.18,0:02:03.89,Main Dialogue,mom,0000,0000,0000,,Isso não é importante!
+Dialogue: 0,0:02:03.89,0:02:05.10,Main Dialogue,mik,0000,0000,0000,,Ela colocou de volta.
+Dialogue: 0,0:02:05.10,0:02:06.69,Main Dialogue,mom,0000,0000,0000,,Se o bloco de anotações estiver aqui,
+Dialogue: 0,0:02:06.69,0:02:10.31,Main Dialogue,mom,0000,0000,0000,,vai cair água no papel quando eu regar a planta.
+Dialogue: 0,0:02:10.31,0:02:12.50,Main Dialogue,mik,0000,0000,0000,,Hã? Mas isso é tão—
+Dialogue: 0,0:02:12.50,0:02:16.16,Main Dialogue,mom,0000,0000,0000,,Cada objeto nesta casa está \Ncolocado em um local perfeito.
+Dialogue: 0,0:02:16.16,0:02:17.81,Main Dialogue,mom,0000,0000,0000,,Então não mexa neles sem pedir.
+Dialogue: 0,0:02:21.70,0:02:24.05,Italic,mik,0000,0000,0000,,Minha mãe entra no modo "Meu Castelo"
+Dialogue: 0,0:02:24.05,0:02:26.08,Italic,mik,0000,0000,0000,,pela menor das coisas.
+Dialogue: 0,0:02:26.08,0:02:29.29,My Castle,txt,0426,0001,15,,Meu Castelo
+Dialogue: 0,0:02:26.91,0:02:29.29,Show Title 1,txt,0001,0292,0014,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:02:29.29,0:02:31.25,Another Day,txt,0001,0306,15,,Outro dia
+Dialogue: 0,0:02:35.18,0:02:36.92,Italic,yuz,0000,0000,0000,,Não tem papel higiênico...
+Dialogue: 0,0:02:41.39,0:02:42.64,Packed,txt,0000,0000,0000,,{\fad(300,300)}Cheio
+Dialogue: 0,0:02:42.97,0:02:45.18,Italic,yuz,0000,0000,0000,,Eu não alcanço...
+Dialogue: 0,0:02:45.57,0:02:48.07,Italic,yuz,0000,0000,0000,,Por que alguém colocaria eles tão alto?
+Dialogue: 0,0:02:49.12,0:02:51.28,Italic,yuz,0000,0000,0000,,Eu não tenho escolha, a não ser retirar...
+Dialogue: 0,0:02:51.99,0:02:52.73,Italic,yuz,0000,0000,0000,,De baixo...
+Dialogue: 0,0:02:55.02,0:02:56.36,Italic,yuz,0000,0000,0000,,Eu não consigo.
+Dialogue: 0,0:02:57.83,0:02:58.86,Italic,yuz,0000,0000,0000,,Certo, eu vou conseguir!
+Dialogue: 0,0:03:03.78,0:03:04.66,Italic,yuz,0000,0000,0000,,Por quê?
+Dialogue: 0,0:03:04.87,0:03:06.62,Show Title 1,txt,0001,0230,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:03:06.88,0:03:09.83,Main Dialogue,yuz,0000,0000,0000,,Por que você faz uma pilha tão alta \Nde papel higiênico naquela prateleira?
+Dialogue: 0,0:03:09.83,0:03:11.58,Main Dialogue,mom,0000,0000,0000,,Como assim, por quê?
+Dialogue: 0,0:03:11.58,0:03:14.04,Main Dialogue,yuz,0000,0000,0000,,Se você colocar todos empilhados\N assim, não dá para tirar!
+Dialogue: 0,0:03:15.10,0:03:19.38,Main Dialogue,mom,0000,0000,0000,,Mas se o papel higiênico ficar empilhado \Ndaquele jeito, transmite um senso de segurança.
+Dialogue: 0,0:03:19.66,0:03:21.84,Main Dialogue,yuz,0000,0000,0000,,Que maneira mais errada de empilhar as coisas!
+Dialogue: 0,0:03:22.43,0:03:25.26,Main Dialogue,mom,0000,0000,0000,,Eu que decido o que é certo ou errado!
+Dialogue: 0,0:03:29.77,0:03:31.69,Main Dialogue,yuz,0000,0000,0000,,{\i1}Com certeza{\i0} é errado.
+Dialogue: 0,0:03:36.41,0:03:38.69,Italic,mik,0000,0000,0000,,A senhora do nosso castelo\N é bem encrenqueira.
+Dialogue: 0,0:03:42.04,0:03:43.26,Main Dialogue,yuz,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:03:43.50,0:03:45.25,Main Dialogue,mik,0000,0000,0000,,Acho que é para colocar cartas.
+Dialogue: 0,0:03:45.25,0:03:48.29,Main Dialogue,mik,0000,0000,0000,,Você pode colocar cartas e recibos nele, sabia?
+Dialogue: 0,0:03:48.29,0:03:49.65,Main Dialogue,yuz,0000,0000,0000,,Mas é meio...
+Dialogue: 0,0:03:49.65,0:03:50.45,Main Dialogue,mik,0000,0000,0000,,Feio.
+Dialogue: 0,0:03:51.74,0:03:52.54,Main Dialogue,mom,0000,0000,0000,,E então?
+Dialogue: 0,0:03:52.54,0:03:54.37,Main Dialogue,mom,0000,0000,0000,,Gostaram dele?
+Dialogue: 0,0:03:54.37,0:03:55.20,Main Dialogue,both,0000,0000,0000,,Hã?
+Dialogue: 0,0:03:55.20,0:03:57.13,Main Dialogue,mom,0000,0000,0000,,Que ótima compra que eu fiz!
+Dialogue: 0,0:03:57.13,0:03:58.34,Main Dialogue,mom,0000,0000,0000,,Ah!
+Dialogue: 0,0:03:58.80,0:03:59.51,Main Dialogue,mik,0000,0000,0000,,Eu diria—
+Dialogue: 0,0:03:59.51,0:04:01.41,Main Dialogue,mom,0000,0000,0000,,Isso mesmo, você entende, Mikan.
+Dialogue: 0,0:04:01.41,0:04:03.12,Main Dialogue,mom,0000,0000,0000,,Você sabe o que é bom e o que é ruim.
+Dialogue: 0,0:04:03.12,0:04:04.60,Main Dialogue,mik,0000,0000,0000,,Não foi isso que eu quis dizer.
+Dialogue: 0,0:04:04.60,0:04:05.21,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:05.60,0:04:07.93,Main Dialogue,mik,0000,0000,0000,,Isso não é nem um pouco bonito.
+Dialogue: 0,0:04:07.93,0:04:09.14,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:09.67,0:04:12.63,Main Dialogue,yuz,0000,0000,0000,,O local também é estranho e desconfortável.
+Dialogue: 0,0:04:12.63,0:04:13.74,Main Dialogue,yuz,0000,0000,0000,,E se trocássemos de lugar—
+Dialogue: 0,0:04:13.74,0:04:15.19,Main Dialogue,mom,0000,0000,0000,,Está perfeito aí!
+Dialogue: 0,0:04:15.42,0:04:16.43,Main Dialogue,both,0000,0000,0000,,Hã?
+Dialogue: 0,0:04:16.43,0:04:18.58,Main Dialogue,mom,0000,0000,0000,,Sim, está bom aí.
+Dialogue: 0,0:04:18.58,0:04:20.66,Main Dialogue,mom,0000,0000,0000,,Ótimo, não mexam.
+Dialogue: 0,0:04:21.83,0:04:25.86,Main Dialogue,mik,0000,0000,0000,,Minha mãe acredita mesmo que \Nesta casa é o castelo dela, não é?
+Dialogue: 0,0:04:26.22,0:04:27.77,Main Dialogue,yuz,0000,0000,0000,,Mas, sabe,
+Dialogue: 0,0:04:27.77,0:04:30.46,Main Dialogue,yuz,0000,0000,0000,,só de mexer um pouquinho já \Nficaria muito melhor, não acha?
+Dialogue: 0,0:04:30.46,0:04:31.41,Main Dialogue,yuz,0000,0000,0000,,Ah...
+Dialogue: 0,0:04:31.94,0:04:33.37,Main Dialogue,yuz,0000,0000,0000,,Era para esconder isso...
+Dialogue: 0,0:04:36.46,0:04:39.42,flashback,mom,0000,0000,0000,,Ah, isto devia ser removível!
+Dialogue: 0,0:04:39.80,0:04:41.88,Show Title 2,txt,0402,0001,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:04:44.14,0:04:45.99,Main Dialogue,mom,0000,0000,0000,,Sra. Mizushima! Quanto tempo!
+Dialogue: 0,0:04:45.99,0:04:49.05,Main Dialogue,miz,0000,0000,0000,,Sim, é mesmo! A propósito, eu\N queria conversar com você.
+Dialogue: 0,0:04:49.97,0:04:50.76,Main Dialogue,mom,0000,0000,0000,,Espere um pouco.
+Dialogue: 0,0:04:51.09,0:04:52.73,Main Dialogue,mom,0000,0000,0000,,Só vou mexer nisso aqui um pouco.
+Dialogue: 0,0:05:01.01,0:05:05.36,Main Dialogue,mik,0000,0000,0000,,Mamãe também pode entrar no \Nmodo "Meu Castelo" longe de casa.
+Dialogue: 0,0:05:05.58,0:05:08.01,Main Dialogue,mom,0000,0000,0000,,Sim, agora estou muito melhor.
+Dialogue: 0,0:05:08.01,0:05:09.87,Main Dialogue,mom,0000,0000,0000,,Agora o meio da mesa está ótimo e espaçoso.
+Dialogue: 0,0:05:09.87,0:05:11.54,Main Dialogue,mom,0000,0000,0000,,Eu concordo, concordo.
+Dialogue: 0,0:05:12.30,0:05:13.42,Main Dialogue,mom,0000,0000,0000,,Desculpe a demora.
+Dialogue: 0,0:05:13.42,0:05:14.72,Main Dialogue,mom,0000,0000,0000,,Hã? Do que você estava falando?
+Dialogue: 0,0:05:15.18,0:05:16.25,Main Dialogue,miz,0000,0000,0000,,Hã? O que era?
+Dialogue: 0,0:05:17.96,0:05:19.92,Show Title 1,txt,0380,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:06:09.00,0:06:10.01,Main Dialogue,dad,0000,0000,0000,,Ei!
+Dialogue: 0,0:06:09.48,0:06:10.01,Main Dialogue,mom,0000,0000,0000,,{\an8}Sim?
+Dialogue: 0,0:06:10.61,0:06:12.47,Main Dialogue,dad,0000,0000,0000,,Coloque a almofada deste lado.
+Dialogue: 0,0:06:12.47,0:06:15.81,Main Dialogue,mom,0000,0000,0000,,Mas aí fica no caminho quando\N eu trouxer a roupa lavada...
+Dialogue: 0,0:06:20.36,0:06:21.41,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:06:27.92,0:06:29.36,Main Dialogue,mom,0000,0000,0000,,Tá bom...
+Dialogue: 0,0:06:30.18,0:06:32.98,Italic,mik,0000,0000,0000,,Nem mesmo a senhora do castelo\N pode vencer contra o papai.
+Dialogue: 0,0:06:33.45,0:06:35.20,Another Day,txt,0340,0001,15,,No dia seguinte
+Dialogue: 0,0:06:38.65,0:06:40.83,Main Dialogue,mom,0000,0000,0000,,Sim, fica mesmo desse lado!
+Dialogue: 0,0:06:41.38,0:06:43.04,Show Title 1,txt,0454,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:06:44.38,0:06:45.53,Main Dialogue,yuz,0000,0000,0000,,Cheguei!
+Dialogue: 0,0:06:49.87,0:06:51.97,Main Dialogue,yuz,0000,0000,0000,,Hã? Isso é um sapo?
+Dialogue: 0,0:06:53.27,0:06:54.65,Main Dialogue,mik,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:06:55.03,0:06:56.20,Main Dialogue,mik,0000,0000,0000,,O que foi?
+Dialogue: 0,0:06:56.89,0:06:59.04,Main Dialogue,mik,0000,0000,0000,,Quem colocou essa coisa estranha aqui?
+Dialogue: 0,0:06:59.04,0:07:00.35,Main Dialogue,yuz,0000,0000,0000,,É óbvio, não é?
+Dialogue: 0,0:07:00.35,0:07:01.19,Main Dialogue,mik,0000,0000,0000,,De novo?
+Dialogue: 0,0:07:02.95,0:07:04.86,Main Dialogue,mom,0000,0000,0000,,Ah, vocês estão todos em casa!
+Dialogue: 0,0:07:05.90,0:07:08.21,Main Dialogue,mik,0000,0000,0000,,Mãe, esse sapo...
+Dialogue: 0,0:07:08.21,0:07:10.07,Main Dialogue,mom,0000,0000,0000,,Não é ótimo?
+Dialogue: 0,0:07:10.41,0:07:13.29,Main Dialogue,mom,0000,0000,0000,,É o nosso novo porta-chaves.
+Dialogue: 0,0:07:13.29,0:07:14.20,Main Dialogue,both,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:14.20,0:07:16.04,Main Dialogue,mom,0000,0000,0000,,Vocês têm algo contra?
+Dialogue: 0,0:07:16.42,0:07:18.44,Main Dialogue,mik,0000,0000,0000,,Bem, não precisava ser um sapo, não é?
+Dialogue: 0,0:07:18.44,0:07:19.87,Main Dialogue,mom,0000,0000,0000,,Mas essa é a parte boa!
+Dialogue: 0,0:07:19.87,0:07:20.62,Main Dialogue,both,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:20.62,0:07:23.37,Main Dialogue,Mom,0000,0000,0000,,Este sapo também simboliza
+Dialogue: 0,0:07:23.37,0:07:25.84,Main Dialogue,Mom,0000,0000,0000,,o meu desejo que vocês todos \Nvoltem para casa em segurança!
+Dialogue: 0,0:07:26.62,0:07:27.54,Main Dialogue,yuz,0000,0000,0000,,Voltar para casa...
+Dialogue: 0,0:07:27.54,0:07:28.64,Main Dialogue,mik,0000,0000,0000,,...em segurança?
+Dialogue: 0,0:07:30.80,0:07:33.26,Main Dialogue,mom,0000,0000,0000,,Hora do jantar.
+Dialogue: 0,0:07:35.65,0:07:36.91,Main Dialogue,yuz,0000,0000,0000,,O que foi agora?
+Dialogue: 0,0:07:36.91,0:07:38.90,Main Dialogue,dad,0000,0000,0000,,Ah, deixa assim.
+Dialogue: 0,0:07:38.90,0:07:39.77,Main Dialogue,mik,0000,0000,0000,,É melhor mesmo.
+Dialogue: 0,0:07:39.77,0:07:40.48,Main Dialogue,yuz,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:44.29,0:07:46.23,Main Dialogue,mom,0000,0000,0000,,Esta casa é...
+Dialogue: 0,0:07:47.41,0:07:49.03,Main Dialogue,mom,0000,0000,0000,,o meu castelo!
+Dialogue: 0,0:07:51.60,0:07:53.30,Main Dialogue,mom,0000,0000,0000,,Fabuloso! Fabuloso!
+Dialogue: 0,0:07:53.03,0:07:54.99,Show Title 1 3,txt,0001,0370,15,,{\fad(200,1)}Novo Atashinchi
+Dialogue: 0,0:08:22.54,0:08:31.03,Poem,miktxt,0000,0000,0000,,Essa visão de cerejeiras
+Dialogue: 0,0:08:23.94,0:08:31.03,Poem,miktxt,0000,0000,0000,,que outras pessoas fazem
+Dialogue: 0,0:08:25.64,0:08:31.03,Poem,miktxt,0000,0000,0000,,também é uma coisa que eu
+Dialogue: 0,0:08:27.02,0:08:31.03,Poem,miktxt,0000,0000,0000,,deveria tentar!
+Dialogue: 0,0:08:28.45,0:08:31.03,Show Title 1 3,txt,0001,0462,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:08:31.36,0:08:36.03,title,titl,0000,0000,0000,,{\fad(400,1)\c&H4272F1&\3c&HEBE7E9&}Mikan e a festa das cerejeiras
+Dialogue: 0,0:08:38.24,0:08:40.20,Main Dialogue,nii,0000,0000,0000,,Desculpe por fazê-la esperar!
+Dialogue: 0,0:08:46.75,0:08:49.88,Main Dialogue,mik,0000,0000,0000,,Já pegaram todos os melhores lugares.
+Dialogue: 0,0:08:49.88,0:08:52.09,Main Dialogue,nii,0000,0000,0000,,Que bom que chegamos cedo.
+Dialogue: 0,0:08:52.46,0:08:54.09,Taskforce,txt,0001,0406,0010,,{\fad(200,1)}Encarregadas de guardar lugar
+Dialogue: 0,0:08:54.30,0:08:55.08,Main Dialogue,mik,0000,0000,0000,,Ah!
+Dialogue: 0,0:08:57.39,0:08:58.43,Main Dialogue,mik,0000,0000,0000,,Que tal aqui?
+Dialogue: 0,0:09:00.18,0:09:02.27,Main Dialogue,nii,0000,0000,0000,,É perto demais do lixo.
+Dialogue: 0,0:09:04.29,0:09:05.94,Main Dialogue,nii,0000,0000,0000,,E que tal aqui?
+Dialogue: 0,0:09:07.38,0:09:08.90,Main Dialogue,mik,0000,0000,0000,,Não podemos sentar num barranco.
+Dialogue: 0,0:09:10.10,0:09:11.80,Main Dialogue,mik,0000,0000,0000,,E aqui?
+Dialogue: 0,0:09:13.92,0:09:15.17,Main Dialogue,mik,0000,0000,0000,,Os banheiros...
+Dialogue: 0,0:09:15.51,0:09:18.03,Main Dialogue,nii,0000,0000,0000,,Todos os lugares livres \Ndevem ter algum problema.
+Dialogue: 0,0:09:21.42,0:09:23.25,Main Dialogue,nii,0000,0000,0000,,E aqui?
+Dialogue: 0,0:09:23.25,0:09:25.25,Main Dialogue,mik,0000,0000,0000,,Bem, não está nem um pouco cheio...
+Dialogue: 0,0:09:25.79,0:09:29.54,Main Dialogue,mik,0000,0000,0000,,Mas não é meio longe demais das cerejeiras?
+Dialogue: 0,0:09:31.52,0:09:35.63,Main Dialogue,mik,0000,0000,0000,,Ao invés de cerejeiras floridas, \Nestamos debaixo de um pinheiro.
+Dialogue: 0,0:09:36.15,0:09:38.63,Main Dialogue,nii,0000,0000,0000,,Mas também tem cerejeiras!
+Dialogue: 0,0:09:39.89,0:09:42.49,Main Dialogue,mik,0000,0000,0000,,Eu gostaria que estivéssemos em um lugar
+Dialogue: 0,0:09:42.49,0:09:45.73,Main Dialogue,mik,0000,0000,0000,,onde desse quase para alcançar um\N galho se esticássemos bastante.
+Dialogue: 0,0:09:45.73,0:09:48.10,Main Dialogue,nii,0000,0000,0000,,Você não vai encontrar um lugar perfeito assim.
+Dialogue: 0,0:09:48.90,0:09:51.74,Main Dialogue,mik,0000,0000,0000,,Ei, que tal lá?
+Dialogue: 0,0:09:52.75,0:09:56.52,Main Dialogue,nii,0000,0000,0000,,Mikan, isso é a mesma coisa que dizer
+Dialogue: 0,0:09:56.52,0:09:59.16,Main Dialogue,nii,0000,0000,0000,,que as cerejeiras do outro lado são mais rosas.
+Dialogue: 0,0:10:01.84,0:10:03.66,Main Dialogue,nii,0000,0000,0000,,Esse é o melhor lugar para nós.
+Dialogue: 0,0:10:04.15,0:10:05.83,Main Dialogue,asa,0000,0000,0000,,Ei, pessoal!
+Dialogue: 0,0:10:05.75,0:10:07.12,Taskforce,txt,0434,0001,15,,{\fad(200,1)}Encarregadas dos bolinhos de cerejeira
+Dialogue: 0,0:10:08.66,0:10:09.99,Main Dialogue,rio,0000,0000,0000,,Que pesado...
+Dialogue: 0,0:10:09.46,0:10:10.83,Taskforce,txt,0001,0440,15,,{\fad(200,1)}Encarregadas do chá
+Dialogue: 0,0:10:15.47,0:10:17.32,Main Dialogue,mik,0000,0000,0000,,Essa é a nossa primeira comemoração,
+Dialogue: 0,0:10:17.32,0:10:19.89,Main Dialogue,mik,0000,0000,0000,,então me desculpem por \Nestarmos longe das cerejeiras.
+Dialogue: 0,0:10:21.92,0:10:23.85,Main Dialogue,rio,0000,0000,0000,,Mas eu acho...
+Dialogue: 0,0:10:24.42,0:10:25.98,Main Dialogue,girl,0000,0000,0000,,Bem, ainda dá para ver.
+Dialogue: 0,0:10:25.98,0:10:27.81,Main Dialogue,asa,0000,0000,0000,,Claro que sim.
+Dialogue: 0,0:10:28.00,0:10:29.94,Main Dialogue,rio,0000,0000,0000,,Vamos fazer um brinde!
+Dialogue: 0,0:10:30.24,0:10:31.90,Main Dialogue,all,0000,0000,0000,,Um brinde!
+Dialogue: 0,0:10:32.49,0:10:34.15,Main Dialogue,girl,0000,0000,0000,,Trouxe bolinhos.
+Dialogue: 0,0:10:34.15,0:10:36.40,Main Dialogue,asa,0000,0000,0000,,Mas estou um pouco preocupada.
+Dialogue: 0,0:10:36.40,0:10:37.36,Main Dialogue,mik,0000,0000,0000,,Com o quê?
+Dialogue: 0,0:10:37.58,0:10:40.07,Main Dialogue,asa,0000,0000,0000,,Eu estava com medo que você \Ndissesse que eles não estão bons.
+Dialogue: 0,0:10:40.07,0:10:42.93,Main Dialogue,girl,0000,0000,0000,,Bem, mesmo assim, era só isso que eles tinham.
+Dialogue: 0,0:10:43.56,0:10:44.52,Main Dialogue,both,0000,0000,0000,,Ah...
+Dialogue: 0,0:10:45.47,0:10:46.92,Main Dialogue,rio,0000,0000,0000,,Não está normal.
+Dialogue: 0,0:10:46.92,0:10:47.72,Main Dialogue,mik,0000,0000,0000,,É verdade.
+Dialogue: 0,0:10:47.72,0:10:49.54,Main Dialogue,nii,0000,0000,0000,,Hã? É com esses que estou acostumada.
+Dialogue: 0,0:10:49.83,0:10:53.35,Main Dialogue,rio,0000,0000,0000,,Quando eu penso em bolinho de \Ncerejeira, penso em bolinho de arroz.
+Dialogue: 0,0:10:54.26,0:10:56.51,Main Dialogue,mik,0000,0000,0000,,Isso, com aquela textura rugosa.
+Dialogue: 0,0:10:56.78,0:10:58.58,Main Dialogue,both,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:10:58.17,0:11:01.39,Sizzle,sfx,0000,0000,0000,,{\fad(200,200)}Shiiiiii
+Dialogue: 0,0:10:59.61,0:11:01.84,Main Dialogue,asa,0000,0000,0000,,Sinceramente, o que vocês querem comer?
+Dialogue: 0,0:11:02.19,0:11:03.60,Main Dialogue,mik,0000,0000,0000,,Honestamente?
+Dialogue: 0,0:11:05.49,0:11:06.81,Main Dialogue,mik,0000,0000,0000,,Yakisoba.
+Dialogue: 0,0:11:12.84,0:11:15.65,Main Dialogue,yos,0000,0000,0000,,Eu não venho a uma festa das \Ncerejeiras desde que eu era pequeno.
+Dialogue: 0,0:11:16.13,0:11:18.18,Main Dialogue,iwa,0000,0000,0000,,Acho que essa deve ser \Nminha primeira vez na vida.
+Dialogue: 0,0:11:18.18,0:11:19.19,Main Dialogue,yos,0000,0000,0000,,Sério?
+Dialogue: 0,0:11:19.42,0:11:22.57,Main Dialogue,iwa,0000,0000,0000,,Eu posso ter me esquecido, \Nmas acho que nunca vim a uma.
+Dialogue: 0,0:11:22.57,0:11:23.23,Main Dialogue,yos,0000,0000,0000,,Sim.
+Dialogue: 0,0:11:23.23,0:11:24.16,Main Dialogue,iwa,0000,0000,0000,,O que foi?
+Dialogue: 0,0:11:24.85,0:11:27.13,Main Dialogue,yos,0000,0000,0000,,Para onde você está olhando tão atentamente?
+Dialogue: 0,0:11:27.13,0:11:30.37,Main Dialogue,iwa,0000,0000,0000,,Ah, é que eu achei que tivesse\N visto alguém conhecido.
+Dialogue: 0,0:11:30.98,0:11:31.83,Main Dialogue,yos,0000,0000,0000,,Hã? É mesmo?
+Dialogue: 0,0:11:32.31,0:11:34.26,Main Dialogue,iwa,0000,0000,0000,,Mesmo quando eu vou ao cinema,
+Dialogue: 0,0:11:35.06,0:11:38.88,Main Dialogue,iwa,0000,0000,0000,,eu não consigo evitar de olhar em \Nvolta procurando alguém conhecido.
+Dialogue: 0,0:11:40.25,0:11:41.34,Main Dialogue,iwa,0000,0000,0000,,Até mesmo no caminho para cá.
+Dialogue: 0,0:11:42.48,0:11:44.22,flashback italic,iwa,0000,0000,0000,,Essas pessoas vão todas \Npara a festa das cerejeiras?
+Dialogue: 0,0:11:45.03,0:11:46.85,flashback italic,iwa,0000,0000,0000,,Será que tem alguém que eu conheça?
+Dialogue: 0,0:11:47.27,0:11:49.28,Main Dialogue,iwa,0000,0000,0000,,É o que eu fico pensando.
+Dialogue: 0,0:11:50.71,0:11:52.81,Main Dialogue,yos,0000,0000,0000,,Não sabia que você era tão solitário.
+Dialogue: 0,0:11:53.40,0:11:55.56,Main Dialogue,iwa,0000,0000,0000,,O que isso quer dizer?
+Dialogue: 0,0:11:55.56,0:11:57.12,Main Dialogue,iwa,0000,0000,0000,,De qualquer forma, você não faz isso?
+Dialogue: 0,0:11:57.12,0:11:58.78,Main Dialogue,yos,0000,0000,0000,,Bem, eu entendo o que você quer dizer.
+Dialogue: 0,0:11:59.36,0:12:00.74,Main Dialogue,iwa,0000,0000,0000,,Ah, é mesmo?
+Dialogue: 0,0:12:01.18,0:12:04.08,Main Dialogue,yos,0000,0000,0000,,O que você estava dizendo é...
+Dialogue: 0,0:12:04.08,0:12:05.07,Main Dialogue,iwa,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:12:05.94,0:12:07.79,Main Dialogue,yos,0000,0000,0000,,Você está procurando uma {\i1}\Ngarota{\i0} que você conheça, não é?
+Dialogue: 0,0:12:08.22,0:12:09.91,Main Dialogue,iwa,0000,0000,0000,,Nada disso!
+Dialogue: 0,0:12:09.91,0:12:13.25,Main Dialogue,yos,0000,0000,0000,,Eu entendo, somos só nós dois, pode falar.
+Dialogue: 0,0:12:13.72,0:12:15.40,Main Dialogue,iwa,0000,0000,0000,,Eu nunca disse isso!
+Dialogue: 0,0:12:15.40,0:12:18.30,Main Dialogue,yos,0000,0000,0000,,Não me importo se for uma \Ncolega! Tem mais alguém aqui?
+Dialogue: 0,0:12:18.30,0:12:19.46,Main Dialogue,iwa,0000,0000,0000,,Ouça o que eu digo!
+Dialogue: 0,0:12:20.59,0:12:21.30,Main Dialogue,nii,0000,0000,0000,,A toalha!
+Dialogue: 0,0:12:22.47,0:12:24.18,Main Dialogue,asa,0000,0000,0000,,Os bolinhos!
+Dialogue: 0,0:12:24.64,0:12:25.89,Main Dialogue,gir,0000,0000,0000,,Tudo está saindo voando!
+Dialogue: 0,0:12:26.25,0:12:27.76,Main Dialogue,mik,0000,0000,0000,,Que frio!
+Dialogue: 0,0:12:27.76,0:12:29.64,Main Dialogue,rio,0000,0000,0000,,Pessoal, coloquem os seus sapatos para segurar.
+Dialogue: 0,0:12:32.24,0:12:34.27,Main Dialogue,rio,0000,0000,0000,,Vamos só segurar a toalha enquanto comemos.
+Dialogue: 0,0:12:37.10,0:12:38.25,Main Dialogue,rio,0000,0000,0000,,Que gostoso!
+Dialogue: 0,0:12:38.25,0:12:39.40,Main Dialogue,asa,0000,0000,0000,,Sim, uma delícia!
+Dialogue: 0,0:12:40.03,0:12:41.57,Main Dialogue,mik,0000,0000,0000,,Nitta, o seu nariz está escorrendo.
+Dialogue: 0,0:12:41.57,0:12:42.79,Main Dialogue,nii,0000,0000,0000,,O seu também.
+Dialogue: 0,0:12:46.83,0:12:49.33,Main Dialogue,mik,0000,0000,0000,,Que tipo de festa das cerejeiras é essa?
+Dialogue: 0,0:12:51.72,0:12:54.00,Main Dialogue,both,0000,0000,0000,,Uau!
+Dialogue: 0,0:12:55.88,0:12:58.63,Main Dialogue,iwa,0000,0000,0000,,Essa chuva de pétalas é incrível.
+Dialogue: 0,0:12:59.41,0:13:01.29,Main Dialogue,yos,0000,0000,0000,,Isso não lembra você de nada?
+Dialogue: 0,0:13:01.84,0:13:03.98,Main Dialogue,iwa,0000,0000,0000,,Essa paisagem?
+Dialogue: 0,0:13:06.24,0:13:07.74,Main Dialogue,iwa,0000,0000,0000,,Ah, teatro kabuki, talvez.
+Dialogue: 0,0:13:07.74,0:13:09.67,Main Dialogue,yos,0000,0000,0000,,Ou o fim de uma música de enka.
+Dialogue: 0,0:13:11.45,0:13:16.85,Main Dialogue,yos,0000,0000,0000,,Aliás, você não tem nenhuma comparação\Nmelhor, não? Para essa chuva de pétalas incrível.
+Dialogue: 0,0:13:17.35,0:13:20.11,Italic,iwa,0000,0000,0000,,Até a sua imagem de costas, Yoshioka,\Ndentro dessa paisagem,
+Dialogue: 0,0:13:20.94,0:13:24.43,Italic,,0000,0000,0000,,parece ser uma daquelas\Ncenas iniciais de um filme.
+Dialogue: 0,0:13:25.01,0:13:27.36,Main Dialogue,mik,0000,0000,0000,,Então é assim que são as festas das cerejeiras?
+Dialogue: 0,0:13:27.66,0:13:29.15,Main Dialogue,girl,0000,0000,0000,,Acho que sim.
+Dialogue: 0,0:13:29.15,0:13:30.70,Main Dialogue,asa,0000,0000,0000,,Sim, é assim.
+Dialogue: 0,0:13:31.48,0:13:34.96,Main Dialogue,mik,0000,0000,0000,,Achei que seria muito mais \Ndivertido, como se fosse um sonho.
+Dialogue: 0,0:13:34.96,0:13:38.37,Main Dialogue,rio,0000,0000,0000,,Eu apreciei a vista.
+Dialogue: 0,0:13:38.37,0:13:40.50,Main Dialogue,niit,0000,0000,0000,,Os bolinhos também estavam gostosos.
+Dialogue: 0,0:13:40.86,0:13:41.92,Main Dialogue,mik,0000,0000,0000,,Mas, sabe...
+Dialogue: 0,0:13:48.47,0:13:50.22,Main Dialogue,niit,0000,0000,0000,,Agora eu entendo.
+Dialogue: 0,0:13:50.22,0:13:53.85,Main Dialogue,niit,0000,0000,0000,,Nós conseguimos vir juntas e \Nver todas as árvores floridas.
+Dialogue: 0,0:13:54.06,0:13:55.36,Main Dialogue,asa,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:13:58.65,0:13:59.27,Main Dialogue,yos,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:59.61,0:14:01.34,Main Dialogue,yos,0000,0000,0000,,É a Tachibana e as amigas dela.
+Dialogue: 0,0:14:02.75,0:14:05.69,Main Dialogue,yos,0000,0000,0000,,Ei, solitário, encontramos \Nalguém que você conhece.
+Dialogue: 0,0:14:06.68,0:14:08.66,Main Dialogue,yos,0000,0000,0000,,Quer ir dar um oi?
+Dialogue: 0,0:14:11.39,0:14:13.53,Italic,iwa,0000,0000,0000,,Parece uma cena de algum lugar.
+Dialogue: 0,0:14:14.00,0:14:15.62,Italic,iwa,0000,0000,0000,,É tão lindo.
+Dialogue: 0,0:14:19.17,0:14:20.31,Main Dialogue,yos,0000,0000,0000,,Tachibana.
+Dialogue: 0,0:14:20.31,0:14:20.94,Main Dialogue,mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:14:21.53,0:14:22.36,Main Dialogue,yos,0000,0000,0000,,E aí.
+Dialogue: 0,0:14:22.36,0:14:24.96,Main Dialogue,mik,0000,0000,0000,,Ah, é você, Yoshioka—
+Dialogue: 0,0:14:25.54,0:14:28.34,Main Dialogue,mik,0000,0000,0000,,I-I-Iwaki?
+Dialogue: 0,0:14:28.59,0:14:30.01,Main Dialogue,nit,0000,0000,0000,,Mikan?
+Dialogue: 0,0:14:46.23,0:14:55.04,Poem,miktxt,0000,0000,0000,,Essa visão de cerejeiras
+Dialogue: 0,0:14:47.64,0:14:55.04,Poem,miktxt,0000,0000,0000,,que outras pessoas fazem
+Dialogue: 0,0:14:49.42,0:14:55.04,Poem,miktxt,0000,0000,0000,,também é uma coisa que eu
+Dialogue: 0,0:14:50.82,0:14:55.04,Poem,miktxt,0000,0000,0000,,deveria tentar!
+Dialogue: 0,0:14:52.16,0:14:55.04,Show Title 1 3,txt,0001,0454,15,,{\fad(200,1)}Novo Atashinchi
+Dialogue: 0,0:14:56.45,0:14:58.25,Show Title 1,txt,0284,0001,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:15:01.79,0:15:03.46,Main Dialogue,Mom,0000,0000,0000,,Outro bichinho de pelúcia.
+Dialogue: 0,0:15:03.46,0:15:04.22,Main Dialogue,Mik,0000,0000,0000,,Sim.
+Dialogue: 0,0:15:04.67,0:15:07.01,Main Dialogue,Mom,0000,0000,0000,,Você só faz isso.
+Dialogue: 0,0:15:07.01,0:15:08.18,Main Dialogue,Mik,0000,0000,0000,,Eles são ursinhos de pelúcia.
+Dialogue: 0,0:15:08.18,0:15:10.65,Main Dialogue,Mom,0000,0000,0000,,Você tem o vestibular ano que vem.
+Dialogue: 0,0:15:10.65,0:15:11.98,Main Dialogue,Mik,0000,0000,0000,,Sim, e?
+Dialogue: 0,0:15:13.78,0:15:16.67,Main Dialogue,Mom,0000,0000,0000,,Você não deveria começar\N a pensar sobre o futuro?
+Dialogue: 0,0:15:16.67,0:15:18.73,Main Dialogue,Mik,0000,0000,0000,,Não é como se eu não fizesse isso.
+Dialogue: 0,0:15:18.73,0:15:20.19,Main Dialogue,Mom,0000,0000,0000,,O que você pensou?
+Dialogue: 0,0:15:20.50,0:15:24.02,Main Dialogue,Mik,0000,0000,0000,,Ah, bem, um monte de coisas.
+Dialogue: 0,0:15:24.23,0:15:25.98,Main Dialogue,Mom,0000,0000,0000,,Anda, pode me dizer.
+Dialogue: 0,0:15:27.28,0:15:30.18,Main Dialogue,Mom,0000,0000,0000,,Se você não tem nada a dizer, \Nentão você não pensou direito.
+Dialogue: 0,0:15:30.18,0:15:30.87,Main Dialogue,Mom,0000,0000,0000,,Anda, anda.
+Dialogue: 0,0:15:30.87,0:15:31.82,Main Dialogue,Mom,0000,0000,0000,,E os seus planos para o futuro?
+Dialogue: 0,0:15:33.25,0:15:34.41,Main Dialogue,Mik,0000,0000,0000,,Fazer ursinhos de pelúcia.
+Dialogue: 0,0:15:35.46,0:15:37.04,Main Dialogue,Mom,0000,0000,0000,,Fazer ursinhos de pelúcia?
+Dialogue: 0,0:15:39.19,0:15:40.82,Main Dialogue,Mik,0000,0000,0000,,É o que eu mais gosto de fazer.
+Dialogue: 0,0:15:40.82,0:15:43.30,Main Dialogue,Mom,0000,0000,0000,,Você consegue se alimentar com ursinhos?
+Dialogue: 0,0:15:43.30,0:15:45.96,Main Dialogue,Mik,0000,0000,0000,,Tem livros sobre isso! E \Ntem até uma pessoa na TV!
+Dialogue: 0,0:15:45.96,0:15:50.05,Main Dialogue,Mom,0000,0000,0000,,Deve ser porque são celebridades que\N já podem se dar ao luxo de fazer isso.
+Dialogue: 0,0:15:50.89,0:15:52.76,Main Dialogue,Mik,0000,0000,0000,,Claro, tem esses também.
+Dialogue: 0,0:15:54.95,0:15:57.89,Main Dialogue,Mom,0000,0000,0000,,Você precisa pensar sério mesmo.
+Dialogue: 0,0:15:57.89,0:15:59.73,Main Dialogue,Mom,0000,0000,0000,,Você deveria tentar ser funcionária pública.
+Dialogue: 0,0:15:59.73,0:16:01.60,Main Dialogue,Mom,0000,0000,0000,,Ou conseguir uma posição\N em uma grande empresa.
+Dialogue: 0,0:16:03.50,0:16:05.60,Main Dialogue,Mik,0000,0000,0000,,Você não tem sonhos, não é?
+Dialogue: 0,0:16:05.60,0:16:07.86,Main Dialogue,Mom,0000,0000,0000,,Hã? Sonhos?
+Dialogue: 0,0:16:07.86,0:16:11.09,Main Dialogue,Mik,0000,0000,0000,,Você nunca teve um trabalho dos sonhos?
+Dialogue: 0,0:16:11.09,0:16:12.36,Main Dialogue,Mom,0000,0000,0000,,Claro que sim.
+Dialogue: 0,0:16:12.36,0:16:13.61,Main Dialogue,Mik,0000,0000,0000,,O que era?
+Dialogue: 0,0:16:15.37,0:16:16.03,Main Dialogue,Mom,0000,0000,0000,,Ser mãe.
+Dialogue: 0,0:16:17.12,0:16:18.11,Main Dialogue,Mik,0000,0000,0000,,Mãe?
+Dialogue: 0,0:16:18.78,0:16:19.50,Main Dialogue,Mom,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:16:20.28,0:16:23.45,Main Dialogue,Mik,0000,0000,0000,,Então o seu sonho, mãe, era ser mãe?
+Dialogue: 0,0:16:23.45,0:16:24.55,Main Dialogue,Mom,0000,0000,0000,,E também...
+Dialogue: 0,0:16:24.55,0:16:25.21,Main Dialogue,mik,0000,0000,0000,,Sim?
+Dialogue: 0,0:16:25.21,0:16:27.30,Main Dialogue,Mom,0000,0000,0000,,Eu queria ser a melhor em caligráfica.
+Dialogue: 0,0:16:27.13,0:16:28.67,Peerless,txt,0001,0424,15,,{\fad(300,1)}Insuperável
+Dialogue: 0,0:16:29.95,0:16:31.71,Main Dialogue,Mik,0000,0000,0000,,Caligrafia? Você queria?
+Dialogue: 0,0:16:32.31,0:16:34.89,Main Dialogue,Mik,0000,0000,0000,,Você está falando sério mesmo sobre caligrafia?
+Dialogue: 0,0:16:35.34,0:16:38.40,Main Dialogue,Mik,0000,0000,0000,,Então eu sei que eu posso fazer o\N mesmo com ursinhos de pelúcia.
+Dialogue: 0,0:16:38.40,0:16:40.56,Main Dialogue,Mik,0000,0000,0000,,Eu vou fazer ursinhos de pelúcia!
+Dialogue: 0,0:16:41.05,0:16:42.56,Main Dialogue,Mom,0000,0000,0000,,Eu vou ser a melhor em caligrafia!
+Dialogue: 0,0:16:42.56,0:16:44.52,Main Dialogue,Mik,0000,0000,0000,,Eu vou ser a melhor em \Nfazer ursinhos de pelúcia!
+Dialogue: 0,0:16:47.05,0:16:48.62,Italic,Dad,0000,0000,0000,,Vocês têm sonhos.
+Dialogue: 0,0:16:49.15,0:16:54.03,title,titl,0000,0000,0000,,{\fad(400,1)\c&HF3FFFB&\3c&H3796A8&}Sonho de Todos
+Dialogue: 0,0:16:54.92,0:16:56.43,Main Dialogue,Yuz,0000,0000,0000,,Eu estou com fome.
+Dialogue: 0,0:17:01.14,0:17:01.75,Main Dialogue,Yuz,0000,0000,0000,,Hã?
+Dialogue: 0,0:17:01.95,0:17:03.71,Go Ka Bou,Wrap,0001,0092,15,,Gokabo
+Dialogue: 0,0:17:02.68,0:17:03.71,Main Dialogue,Yuz,0000,0000,0000,,O que é isto?
+Dialogue: 0,0:17:04.12,0:17:05.31,Main Dialogue,Mom,0000,0000,0000,,É gokabo.
+Dialogue: 0,0:17:05.31,0:17:06.55,Main Dialogue,Yuz,0000,0000,0000,,Gokabo?
+Dialogue: 0,0:17:06.55,0:17:08.12,Main Dialogue,Mom,0000,0000,0000,,É um doce de kinako.
+Dialogue: 0,0:17:09.16,0:17:11.74,Main Dialogue,Yuz,0000,0000,0000,,Gokabo. Gokabo.
+Dialogue: 0,0:17:11.74,0:17:12.26,Main Dialogue,Yuz,0000,0000,0000,,Goka—
+Dialogue: 0,0:17:12.83,0:17:14.16,Main Dialogue,Yuz,0000,0000,0000,,Já não chega de gokabo?
+Dialogue: 0,0:17:14.16,0:17:16.54,Main Dialogue,Mik,0000,0000,0000,,Mãe, você gosta mesmo de gokabo.
+Dialogue: 0,0:17:16.54,0:17:19.19,Main Dialogue,Mom,0000,0000,0000,,Eu me empolgo demais quando temos gokabo!
+Dialogue: 0,0:17:19.19,0:17:21.22,Main Dialogue,Mik,0000,0000,0000,,Acho que você é a única.
+Dialogue: 0,0:17:21.65,0:17:23.71,Main Dialogue,Mik,0000,0000,0000,,Você devia pegar uns \Nmarshmallows da próxima vez.
+Dialogue: 0,0:17:23.71,0:17:25.44,Main Dialogue,Mik,0000,0000,0000,,Aqueles bem coloridos.
+Dialogue: 0,0:17:25.84,0:17:27.30,Main Dialogue,Mom,0000,0000,0000,,Você gosta de marshmallow?
+Dialogue: 0,0:17:27.30,0:17:28.64,Main Dialogue,Mik,0000,0000,0000,,Adoro!
+Dialogue: 0,0:17:28.64,0:17:31.03,Main Dialogue,Mik,0000,0000,0000,,Eu fico tão empolgada \Nquando temos marshmallows.
+Dialogue: 0,0:17:31.65,0:17:32.92,Italic,Dad,0000,0000,0000,,Vocês têm sonhos.
+Dialogue: 0,0:17:33.67,0:17:36.06,Main Dialogue,Mom,0000,0000,0000,,Yuzinho, algum pedido?
+Dialogue: 0,0:17:36.52,0:17:37.31,Main Dialogue,Yuu,0000,0000,0000,,Nada de mais.
+Dialogue: 0,0:17:37.31,0:17:38.30,Main Dialogue,Mom,0000,0000,0000,,Nada?
+Dialogue: 0,0:17:38.30,0:17:41.16,Main Dialogue,Mom,0000,0000,0000,,Eu compro o doce que deixa você feliz.
+Dialogue: 0,0:17:41.16,0:17:43.25,Main Dialogue,Yuu,0000,0000,0000,,Eu não fico feliz com doces.
+Dialogue: 0,0:17:43.74,0:17:46.59,Main Dialogue,Yuu,0000,0000,0000,,Vocês podem ficar encarregadas do\N cantinho de doces aqui em casa.
+Dialogue: 0,0:17:48.73,0:17:51.00,Main Dialogue,Mik,0000,0000,0000,,Do cantinho de doces?
+Dialogue: 0,0:17:51.00,0:17:52.08,Main Dialogue,Yuu,0000,0000,0000,,Que foi?
+Dialogue: 0,0:17:52.44,0:17:56.97,Main Dialogue,Mik,0000,0000,0000,,Você está chamando essa coisa de\N cantinho de doces aqui de casa?
+Dialogue: 0,0:17:56.97,0:17:58.34,Main Dialogue,Yuu,0000,0000,0000,,Qual o problema?
+Dialogue: 0,0:17:59.57,0:18:01.40,Main Dialogue,Mom,0000,0000,0000,,Eu gostei, Yuzinho!
+Dialogue: 0,0:18:01.40,0:18:05.02,Main Dialogue,Mom,0000,0000,0000,,De agora em diante, essa caixa será\N o cantinho de doces da nossa casa.
+Dialogue: 0,0:18:05.57,0:18:06.88,Main Dialogue,Mom,0000,0000,0000,,Vou escrever.
+Dialogue: 0,0:18:06.88,0:18:08.22,Main Dialogue,Mom,0000,0000,0000,,Preciso de alguma coisa para escrever.
+Dialogue: 0,0:18:08.22,0:18:09.77,Main Dialogue,Yuu,0000,0000,0000,,Você não precisa escrever.
+Dialogue: 0,0:18:11.48,0:18:13.94,Candy Corner,txt,0022,0001,15,,Cantinho de Doces da Nossa Casa
+Dialogue: 0,0:18:14.36,0:18:16.74,Main Dialogue,Mom,0000,0000,0000,,O cantinho de doces da \Nnossa casa está completo.
+Dialogue: 0,0:18:16.74,0:18:18.16,Main Dialogue,Yuu,0000,0000,0000,,Parem com isso.
+Dialogue: 0,0:18:18.66,0:18:21.66,Main Dialogue,Mom,0000,0000,0000,,Isso me lembra, em que você quer ser melhor?
+Dialogue: 0,0:18:22.67,0:18:23.62,Main Dialogue,Yuu,0000,0000,0000,,Em que eu quero ser melhor?
+Dialogue: 0,0:18:23.90,0:18:26.20,Main Dialogue,Mom,0000,0000,0000,,A Mikan quer ser a melhor em fazer ursinhos.
+Dialogue: 0,0:18:26.20,0:18:27.96,Main Dialogue,Mik,0000,0000,0000,,A mamãe quer ser a melhor em caligrafia.
+Dialogue: 0,0:18:28.70,0:18:29.79,Main Dialogue,Yuu,0000,0000,0000,,Do que vocês estão falando?
+Dialogue: 0,0:18:30.25,0:18:33.75,Main Dialogue,Mik,0000,0000,0000,,Sério, o que você sonha para o futuro?
+Dialogue: 0,0:18:36.68,0:18:37.72,Main Dialogue,Yuu,0000,0000,0000,,Eu...
+Dialogue: 0,0:18:37.91,0:18:38.68,Main Dialogue,Both,0000,0000,0000,,Sim?
+Dialogue: 0,0:18:40.54,0:18:42.24,Main Dialogue,Yuu,0000,0000,0000,,Acho que ainda é cedo para isso.
+Dialogue: 0,0:18:43.17,0:18:46.67,Main Dialogue,Mom,0000,0000,0000,,Ah, para, não tem nada que deixe\N você realmente empolgado?
+Dialogue: 0,0:18:46.67,0:18:49.65,Main Dialogue,Mik,0000,0000,0000,,Alguma coisa que, só de \Npensar, você já fica empolgado?
+Dialogue: 0,0:18:51.87,0:18:52.77,Main Dialogue,Yuz,0000,0000,0000,,Curry?
+Dialogue: 0,0:18:52.77,0:18:53.61,Main Dialogue,Both,0000,0000,0000,,Hã?
+Dialogue: 0,0:18:54.06,0:18:56.69,Main Dialogue,Yuz,0000,0000,0000,,Só de pensar em curry para \Njantar, eu já fico empolgado.
+Dialogue: 0,0:18:58.45,0:19:01.27,Main Dialogue,Mik,0000,0000,0000,,Acho que você vai ter futuro no curry.
+Dialogue: 0,0:19:01.27,0:19:02.20,Main Dialogue,Mom,0000,0000,0000,,Dono de restaurante de curry?
+Dialogue: 0,0:19:02.20,0:19:03.98,Main Dialogue,Mik,0000,0000,0000,,Não, como curry mesmo.
+Dialogue: 0,0:19:03.98,0:19:05.31,Main Dialogue,Yuz,0000,0000,0000,,O que você quer dizer?
+Dialogue: 0,0:19:05.74,0:19:08.04,Main Dialogue,Mom,0000,0000,0000,,Você poderia dar nomes para caixas.
+Dialogue: 0,0:19:08.04,0:19:09.67,Main Dialogue,Yuz,0000,0000,0000,,O que você quer dizer?
+Dialogue: 0,0:19:09.87,0:19:11.38,Main Dialogue,Mik,0000,0000,0000,,Tanto faz.
+Dialogue: 0,0:19:11.38,0:19:14.38,Main Dialogue,Mik,0000,0000,0000,,Só se torne alguma coisa e pegue o\N autógrafo de uma pessoa famosa.
+Dialogue: 0,0:19:14.38,0:19:15.50,Main Dialogue,Yuz,0000,0000,0000,,Eu acabei de dizer!
+Dialogue: 0,0:19:17.72,0:19:19.19,Main Dialogue,Yuz,0000,0000,0000,,Mesmo que eu não tenha nada em mente...
+Dialogue: 0,0:19:19.67,0:19:21.47,Main Dialogue,Yuz,0000,0000,0000,,Vou decidir quando chegar a hora.
+Dialogue: 0,0:19:24.33,0:19:25.89,Italic,Dad,0000,0000,0000,,Que bom.
+Dialogue: 0,0:19:27.93,0:19:29.33,Main Dialogue,Mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:19:30.69,0:19:32.65,Show Title 1,txt,0258,0001,15,,Bouillabaisse Fácil
+Dialogue: 0,0:19:30.98,0:19:32.65,Main Dialogue,Mom,0000,0000,0000,,Essa receita parece uma delícia.
+Dialogue: 0,0:19:33.06,0:19:35.90,Main Dialogue,Mom,0000,0000,0000,,Bouillabaisse é basicamente uma\N sopa de frutos do mar, não é?
+Dialogue: 0,0:19:36.90,0:19:38.67,Main Dialogue,Mom,0000,0000,0000,,Vou fazer uma qualquer dia desses.
+Dialogue: 0,0:19:40.06,0:19:40.82,Main Dialogue,Mom,0000,0000,0000,,Beleza!
+Dialogue: 0,0:19:42.71,0:19:44.28,Italic,Dad,0000,0000,0000,,Não vai nada.
+Dialogue: 0,0:19:55.37,0:19:56.67,Main Dialogue,Mik,0000,0000,0000,,Está ótimo.
+Dialogue: 0,0:19:58.75,0:20:00.80,Italic,Dad,0000,0000,0000,,Ela tem um sonho.
+Dialogue: 0,0:20:43.09,0:20:44.55,Main Dialogue,Yuz,0000,0000,0000,,Ah, e aí.
+Dialogue: 0,0:20:53.99,0:20:55.17,Main Dialogue,Yuz,0000,0000,0000,,Esse cheiro...
+Dialogue: 0,0:20:57.30,0:21:00.20,Main Dialogue,Yuz,0000,0000,0000,,Beleza, vamos comer curry hoje!
+Dialogue: 0,0:21:03.95,0:21:05.66,Main Dialogue,yuz,0000,0000,0000,,Uau!
+Dialogue: 0,0:21:06.07,0:21:07.75,Main Dialogue,all,0000,0000,0000,,Vamos comer!
+Dialogue: 0,0:21:08.85,0:21:10.12,Main Dialogue,yuz,0000,0000,0000,,Que delícia!
+Dialogue: 0,0:21:18.21,0:21:20.55,Show Title 1,txt,0000,0000,0000,,{\fad(400,1)}Bouillabaisse Fácil
+Dialogue: 0,0:21:20.55,0:21:24.63,Candy Corner,txt,0286,0001,15,,{\an2}Cantinho de doces da nossa casa
+Dialogue: 0,0:21:22.26,0:21:23.19,Main Dialogue,Yuz,0000,0000,0000,,Mais!
+Dialogue: 0,0:21:23.19,0:21:24.63,Main Dialogue,Mom,0000,0000,0000,,Já vai.
+Dialogue: 0,0:21:27.44,0:21:29.54,Main Dialogue,Mik,0000,0000,0000,,Então, voltando ao assunto de ontem...
+Dialogue: 0,0:21:30.35,0:21:32.86,Main Dialogue,Mik,0000,0000,0000,,Você tem sonhos, pai?
+Dialogue: 0,0:21:32.86,0:21:33.65,Main Dialogue,dad,0000,0000,0000,,Sim.
+Dialogue: 0,0:21:33.65,0:21:34.39,Main Dialogue,mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:21:34.39,0:21:35.56,Main Dialogue,Yuz,0000,0000,0000,,Você tem?
+Dialogue: 0,0:21:41.04,0:21:42.11,Main Dialogue,Dad,0000,0000,0000,,É segredo.
+Dialogue: 0,0:21:43.71,0:21:45.53,Main Dialogue,Mom,0000,0000,0000,,É bem a sua cara.
+Dialogue: 0,0:21:51.99,0:21:55.04,Last Title,txt,0022,0001,15,,{\fad(400,1)}Novo Atashinchi

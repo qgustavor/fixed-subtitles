@@ -1,0 +1,378 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0020,0080,0100,1
+Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0060,0040,0005,1
+Style: Atashinchi 3-1,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0060,0150,0005,1
+Style: Atashinchi 3-2,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,0060,0050,0005,1
+Style: Atashinchi 3-3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0000,0060,0000,1
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Main Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0040,0040,0015,1
+Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0110,1
+Style: Next title 1.1,Comic Sans MS,26,&H00FFFFFF,&H000000FF,&H00BAB4A0,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,8,0020,0010,0110,1
+Style: Next title 2,Comic Sans MS,26,&H004FA82C,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0135,1
+Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:56.54,0:00:58.24,Atashinchi,txt,0000,0000,0000,,{\an6}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:00:58.93,0:01:00.92,Main Dialogue,mom,0000,0000,0000,,Aqui estão os livros que você pediu.
+Dialogue: 0,0:01:00.92,0:01:03.91,Main Dialogue,miz,0000,0000,0000,,Ah, obrigada! Mas tem certeza de que\Neu posso ficar com todos eles?
+Dialogue: 0,0:01:04.25,0:01:08.88,Main Dialogue,mom,0000,0000,0000,,Não se preocupe, meu marido fica comprando\Ne nunca lê, tenho que me livrar de alguns.
+Dialogue: 0,0:01:09.37,0:01:12.61,Main Dialogue,mom,0000,0000,0000,,Mas como você começou a colecionar\Nlivros antigos do nada?
+Dialogue: 0,0:01:12.61,0:01:15.13,Main Dialogue,miz,0000,0000,0000,,Eu estou interessada\Npor banhos de quadril.
+Dialogue: 0,0:01:15.44,0:01:16.34,Main Dialogue,mom,0000,0000,0000,,Banhos de quadril?
+Dialogue: 0,0:01:16.73,0:01:19.96,Main Dialogue,miz,0000,0000,0000,,Você enche a banheira pela metade
+Dialogue: 0,0:01:19.96,0:01:22.01,Main Dialogue,miz,0000,0000,0000,,e fica deitada por cerca de 20 minutos.
+Dialogue: 0,0:01:22.01,0:01:22.81,Main Dialogue,Mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:01:23.05,0:01:26.52,Main Dialogue,miz,0000,0000,0000,,É ótimo! Faz maravilhas\Npara a sua saúde.
+Dialogue: 0,0:01:26.98,0:01:31.63,Main Dialogue,Mom,0000,0000,0000,,É bom para a dieta, limpa a pele\Ne ainda dá para ler muito.
+Dialogue: 0,0:01:31.63,0:01:34.74,Main Dialogue,Mom,0000,0000,0000,,Mas se ler livros novos,\Neles ficam todos úmidos,
+Dialogue: 0,0:01:34.74,0:01:37.63,Main Dialogue,Mom,0000,0000,0000,,então estou pedindo para minhas amigas\Nlivros que elas não precisam.
+Dialogue: 0,0:01:37.63,0:01:39.66,Main Dialogue,mom,0000,0000,0000,,Entendi... Banho de quadril...
+Dialogue: 0,0:01:40.22,0:01:42.20,Main Dialogue,mom,0000,0000,0000,,Talvez eu devesse experimentar.
+Dialogue: 0,0:01:43.38,0:01:43.91,Main Dialogue,mom,0000,0000,0000,,Mas...
+Dialogue: 0,0:01:47.63,0:01:49.88,Main Dialogue,gran,0000,0000,0000,,Você e água não tem sorte juntas!
+Dialogue: 0,0:01:50.86,0:01:51.84,Signs,text,0000,0000,0000,,{\c&H2618BB&\3c&HFFFFFF&}Propensa a se afogar
+Dialogue: 0,0:01:52.16,0:01:56.30,Main Dialogue,mom,0000,0000,0000,,Sempre me disseram que tenho cara de alguém\Nque vai encontrar seu destino final na água...
+Dialogue: 0,0:01:56.52,0:01:58.22,Main Dialogue,miz,0000,0000,0000,,Quer dizer que você\Né propensa a se afogar?
+Dialogue: 0,0:01:58.67,0:02:01.04,Main Dialogue,miz,0000,0000,0000,,Nada disso! Você toma banho, não é?
+Dialogue: 0,0:02:01.04,0:02:02.39,Main Dialogue,miz,0000,0000,0000,,Vai ficar tudo bem.
+Dialogue: 0,0:02:02.87,0:02:05.17,Main Dialogue,miz,0000,0000,0000,,Vou ensinar um método ótimo.
+Dialogue: 0,0:02:05.39,0:02:06.37,Main Dialogue,mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:02:06.85,0:02:11.65,Next title 1,titl,0000,0000,0000,,{\fad(400,1)}Mamãe e o Banho de Quadril
+Dialogue: 0,0:02:15.58,0:02:19.07,Main Dialogue,mom,0000,0000,0000,,A Sra. Mizushima sempre me\Nconvence com suas ideias.
+Dialogue: 0,0:02:19.75,0:02:23.27,Main Dialogue,miz,0000,0000,0000,,Use um saco de lixo em volta do\Ntorso, para não refrescar.
+Dialogue: 0,0:02:23.27,0:02:25.58,Main Dialogue,miz,0000,0000,0000,,É essencialmente uma sauna!
+Dialogue: 0,0:02:27.85,0:02:30.67,Main Dialogue,mom,0000,0000,0000,,Eu adoro esses truques\Npé no chão da Sra. Mizushima!
+Dialogue: 0,0:02:35.19,0:02:36.59,Main Dialogue,mom,0000,0000,0000,,Isso parece tão estranho.
+Dialogue: 0,0:02:36.95,0:02:40.22,Main Dialogue,mom,0000,0000,0000,,Ótimo, até o Shosuke Ohara\Nficaria surpreso.
+Dialogue: 0,0:02:40.22,0:02:42.95,Main Dialogue,mom,0000,0000,0000,,Ele não ia nem me reconhecer,\Nparecendo tão mais jovem.
+Dialogue: 0,0:02:42.95,0:02:47.46,Main Dialogue,mom,0000,0000,0000,,Shosuke Ohara, por que não\Ndilapida o seu patrimônio?
+Dialogue: 0,0:02:47.46,0:02:52.61,Main Dialogue,mom,0000,0000,0000,,Porque ele adorava banhos de\Nquadril, saquê e sonecas...
+Dialogue: 0,0:02:52.61,0:02:54.24,Main Dialogue,mom,0000,0000,0000,,Ah, é mesmo!
+Dialogue: 0,0:02:54.75,0:02:57.89,Main Dialogue,mom,0000,0000,0000,,A Sra. Mizushima disse\Nalguma coisa sobre ler.
+Dialogue: 0,0:02:59.35,0:03:01.14,Main Dialogue,mom,0000,0000,0000,,Lendo!
+Dialogue: 0,0:03:09.92,0:03:12.25,Main Dialogue,maiL,0000,0000,0000,,Sra. Tachibana,\Nentrega para a senhora.
+Dialogue: 0,0:03:22.81,0:03:24.76,Main Dialogue,maiL,0000,0000,0000,,S-Sra. Tachibana?
+Dialogue: 0,0:04:12.51,0:04:14.36,Main Dialogue,maiL,0000,0000,0000,,Muito obrigado!
+Dialogue: 0,0:04:17.42,0:04:19.88,Main Dialogue,mom,0000,0000,0000,,É tão chato quando isso\Nacontece durante o dia...
+Dialogue: 0,0:04:23.35,0:04:25.28,Main Dialogue,mom,0000,0000,0000,,Meio que perdi a concentração.
+Dialogue: 0,0:04:25.83,0:04:28.78,Main Dialogue,miz,0000,0000,0000,,Para ajudar a se concentrar,\Nrecomendo velas aromáticas!
+Dialogue: 0,0:04:29.19,0:04:30.31,Main Dialogue,mom,0000,0000,0000,,Aromáticas...
+Dialogue: 0,0:04:30.95,0:04:31.75,Main Dialogue,mom,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:04:35.04,0:04:36.17,Main Dialogue,mom,0000,0000,0000,,Achei, achei!
+Dialogue: 0,0:04:37.15,0:04:40.68,Main Dialogue,mom,0000,0000,0000,,A Misumi trouxe isso para mim,\Né alguma coisa aromática!
+Dialogue: 0,0:04:42.58,0:04:44.38,Main Dialogue,mom,0000,0000,0000,,Alecrim!
+Dialogue: 0,0:04:45.27,0:04:46.72,Main Dialogue,mom,0000,0000,0000,,Que cheiro bom!
+Dialogue: 0,0:04:47.24,0:04:51.22,Main Dialogue,miz,0000,0000,0000,,Flores flutuando na água ou\Nouvir música também é divertido!
+Dialogue: 0,0:04:51.49,0:04:52.68,Main Dialogue,mom,0000,0000,0000,,Entendido!
+Dialogue: 0,0:05:11.17,0:05:12.54,Main Dialogue,mom,0000,0000,0000,,Que ótimo!
+Dialogue: 0,0:05:12.54,0:05:17.15,Main Dialogue,mom,0000,0000,0000,,As flores secas da Sra. Toyama e o CD de música\Nhavaiana que comprei na frente da estação.
+Dialogue: 0,0:05:17.15,0:05:20.46,Main Dialogue,mom,0000,0000,0000,,Estou pronta para relaxar! Vamos ler!
+Dialogue: 0,0:05:26.49,0:05:27.89,Main Dialogue,mom,0000,0000,0000,,Não...
+Dialogue: 0,0:05:28.47,0:05:33.39,Main Dialogue,miz,0000,0000,0000,,Se isso acontecer, tente ajudar sua imaginação\Ntrocando a iluminação para luz de velas.
+Dialogue: 0,0:05:34.06,0:05:35.27,Main Dialogue,mom,0000,0000,0000,,Velas?
+Dialogue: 0,0:05:37.69,0:05:40.51,Main Dialogue,mom,0000,0000,0000,,Acho que eu trouxe\Nalgumas para emergências...
+Dialogue: 0,0:05:40.51,0:05:41.27,Main Dialogue,mom,0000,0000,0000,,Achei!
+Dialogue: 0,0:05:45.76,0:05:49.24,Main Dialogue,mom,0000,0000,0000,,Ótimo, luz de velas é tão relaxante.
+Dialogue: 0,0:05:49.71,0:05:53.74,Main Dialogue,miz,0000,0000,0000,,Quando se sentir calma, feche\Nos olhos e medite silenciosamente.
+Dialogue: 0,0:05:54.53,0:05:55.77,Main Dialogue,mom,0000,0000,0000,,Meditar...
+Dialogue: 0,0:05:58.87,0:06:02.17,Main Dialogue,mom,0000,0000,0000,,Ótimo... Sinto minha alma ser limpa.
+Dialogue: 0,0:06:05.45,0:06:07.54,Main Dialogue,mom,0000,0000,0000,,Eu me sinto próxima da iluminação.
+Dialogue: 0,0:06:11.16,0:06:12.46,Main Dialogue,yuz,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:06:14.70,0:06:16.48,Main Dialogue,yuz,0000,0000,0000,,Que cheiro é esse?
+Dialogue: 0,0:06:16.75,0:06:18.94,Main Dialogue,yuz,0000,0000,0000,,E que barulho é esse?
+Dialogue: 0,0:06:20.19,0:06:21.35,Main Dialogue,yuz,0000,0000,0000,,Água?
+Dialogue: 0,0:06:24.30,0:06:26.07,Main Dialogue,yuz,0000,0000,0000,,Está tudo coberto de água...
+Dialogue: 0,0:06:53.06,0:06:58.02,Main Dialogue,mom,0000,0000,0000,,Nada mal em meditar, estou aliviada,\Nacho que vai virar um hábito.
+Dialogue: 0,0:06:58.32,0:06:59.40,Main Dialogue,yuz,0000,0000,0000,,Por favor, não.
+Dialogue: 0,0:06:59.40,0:07:00.11,Main Dialogue,mom,0000,0000,0000,,Por que não?
+Dialogue: 0,0:07:00.11,0:07:02.28,Main Dialogue,yuz,0000,0000,0000,,Achei que ia ter um ataque cardíaco!
+Dialogue: 0,0:07:02.28,0:07:04.67,Main Dialogue,mom,0000,0000,0000,,Você que enlouqueceu por nada.
+Dialogue: 0,0:07:04.67,0:07:06.64,Main Dialogue,mom,0000,0000,0000,,"Ahhhhh!"
+Dialogue: 0,0:07:06.64,0:07:08.90,Main Dialogue,mom,0000,0000,0000,,Foi como se tivesse visto\Num fantasma ou coisa assim.
+Dialogue: 0,0:07:09.33,0:07:11.57,Main Dialogue,yuz,0000,0000,0000,,Vi uma coisa muito próxima disso.
+Dialogue: 0,0:07:11.85,0:07:14.78,Main Dialogue,mom,0000,0000,0000,,Falando nisso, o entregador\Ntambém gritou hoje...
+Dialogue: 0,0:07:15.63,0:07:19.64,Main Dialogue,yuz,0000,0000,0000,,O quê? Você saiu daquele\Njeito de cadáver inchado?
+Dialogue: 0,0:07:19.64,0:07:22.17,Main Dialogue,mom,0000,0000,0000,,Não é como se\Neu tivesse ido pelada.
+Dialogue: 0,0:07:22.17,0:07:23.29,Main Dialogue,yuz,0000,0000,0000,,Claro que não!
+Dialogue: 0,0:07:23.93,0:07:27.38,Main Dialogue,mom,0000,0000,0000,,Talvez eu não esteja mais amaldiçoada\Ncom a maldição da água.
+Dialogue: 0,0:07:27.73,0:07:30.84,Main Italic,yuz,0000,0000,0000,,Mas, na verdade, você estava causando\Nproblemas para todos ao redor.
+Dialogue: 0,0:07:35.35,0:07:36.01,Main Dialogue,yuz,0000,0000,0000,,Pai?
+Dialogue: 0,0:07:37.22,0:07:38.27,Main Dialogue,yuz,0000,0000,0000,,Você está bem?
+Dialogue: 0,0:07:43.02,0:07:44.65,Main Dialogue,gran,0000,0000,0000,,É a maldição da água!
+Dialogue: 0,0:07:52.57,0:07:54.99,Atashinchi 3,txt,0000,0000,0000,,{\an3}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:55.32,0:07:57.45,Atashinchi 3-1,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:57.45,0:07:59.41,Signs,bag,0000,0000,0000,,{\c&H6BE9E9&\3c&H9C2E68&}Extra grande
+Dialogue: 0,0:07:59.41,0:08:04.12,Signs,sign,0000,0000,0000,,{\3c&HA5958E&}Clínica Dental Yamada
+Dialogue: 0,0:07:59.68,0:08:01.99,Main Dialogue,Shi,0000,0000,0000,,Você gosta mesmo dessas\Nbalas enormes, não é?
+Dialogue: 0,0:08:01.99,0:08:02.89,Main Dialogue,Mik,0000,0000,0000,,Sim.
+Dialogue: 0,0:08:02.89,0:08:07.73,Main Dialogue,Mik,0000,0000,0000,,Quando você estiver no meu nível, vai comer\Ntrês ou quatro dessas de uma vez.
+Dialogue: 0,0:08:07.73,0:08:09.52,Main Dialogue,Shi,0000,0000,0000,,Nem pensar...
+Dialogue: 0,0:08:10.69,0:08:12.66,Main Dialogue,Mik,0000,0000,0000,,Que delícia!
+Dialogue: 0,0:08:13.76,0:08:15.33,Main Italic,Yosh,0000,0000,0000,,Ah, é a Tachibana.
+Dialogue: 0,0:08:16.42,0:08:17.32,Main Dialogue,Yosh,0000,0000,0000,,E aí.
+Dialogue: 0,0:08:17.79,0:08:18.94,Main Dialogue,Shi,0000,0000,0000,,Yoshioka.
+Dialogue: 0,0:08:19.83,0:08:20.94,Main Dialogue,Yosh,0000,0000,0000,,O que você está fazendo?
+Dialogue: 0,0:08:21.33,0:08:22.89,Main Dialogue,Mik,0000,0000,0000,,Cobendo mala de geratina.
+Dialogue: 0,0:08:24.22,0:08:25.39,Main Dialogue,Mik,0000,0000,0000,,Cobendo...
+Dialogue: 0,0:08:26.66,0:08:27.90,Main Dialogue,Mik,0000,0000,0000,,Estou comendo bala de gelatina.
+Dialogue: 0,0:08:28.50,0:08:31.57,Main Dialogue,Mik,0000,0000,0000,,Poderia não interromper meu\Nmomento sagrado das balas?
+Dialogue: 0,0:08:32.07,0:08:33.36,Main Dialogue,Yosh,0000,0000,0000,,Foi mal, foi mal.
+Dialogue: 0,0:08:33.76,0:08:36.53,Main Italic,Mik,0000,0000,0000,,Conheço o Yoshioka desde o ginásio.
+Dialogue: 0,0:08:36.53,0:08:38.12,Main Italic,Mik,0000,0000,0000,,Ainda nos damos bem.
+Dialogue: 0,0:08:38.61,0:08:39.83,Main Dialogue,Mik,0000,0000,0000,,Quer uma?
+Dialogue: 0,0:08:39.83,0:08:41.34,Main Dialogue,Yosh,0000,0000,0000,,Claro!
+Dialogue: 0,0:08:43.63,0:08:48.69,Main Italic,Mik,0000,0000,0000,,Eu acho que ele é o único garoto que\Ncom quem consigo conversar facilmente.
+Dialogue: 0,0:08:49.66,0:08:50.25,Main Italic,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:50.95,0:08:52.90,Main Italic,Mik,0000,0000,0000,,Iwaki!
+Dialogue: 0,0:08:56.73,0:08:57.78,Main Dialogue,Yosh,0000,0000,0000,,Ah, o Iwaki está aqui.
+Dialogue: 0,0:08:58.07,0:08:59.06,Main Dialogue,Yosh,0000,0000,0000,,Até mais.
+Dialogue: 0,0:08:59.06,0:09:00.51,Main Dialogue,Yosh,0000,0000,0000,,Obrigado pela bala.
+Dialogue: 0,0:09:03.36,0:09:04.76,Main Dialogue,Shi,0000,0000,0000,,E ele foi embora.
+Dialogue: 0,0:09:05.69,0:09:06.37,Main Dialogue,yos,0000,0000,0000,,Ei, Iwaki.
+Dialogue: 0,0:09:06.37,0:09:06.83,Main Dialogue,iwa,0000,0000,0000,,Olá.
+Dialogue: 0,0:09:06.83,0:09:08.17,Main Dialogue,yos,0000,0000,0000,,Que incrível, não é?
+Dialogue: 0,0:09:08.17,0:09:08.94,Main Dialogue,iwa,0000,0000,0000,,Que ótimo.
+Dialogue: 0,0:09:08.94,0:09:10.56,Main Dialogue,yos,0000,0000,0000,,E então vire.
+Dialogue: 0,0:09:09.75,0:09:11.61,Main Italic,Mik,0000,0000,0000,,{\an8}Parece que o Iwaki está se divertindo.
+Dialogue: 0,0:09:12.34,0:09:14.57,Main Italic,Mik,0000,0000,0000,,Do que será que eles estão conversando?
+Dialogue: 0,0:09:14.82,0:09:19.58,Next title 1.1,Tit,0000,0000,0000,,{\fad(400,1)}A Inveja de Yoshioka{\i1}!{\i0}
+Dialogue: 0,0:09:20.01,0:09:21.09,Main Dialogue,Iwa,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:09:21.44,0:09:23.90,Main Dialogue,Iwa,0000,0000,0000,,Bem, essa foi por pouco.
+Dialogue: 0,0:09:23.90,0:09:24.50,Main Dialogue,Yosh,0000,0000,0000,,Foi mesmo.
+Dialogue: 0,0:09:24.50,0:09:26.79,Main Italic,Mik,0000,0000,0000,,O Yoshioka tem tanta sorte.
+Dialogue: 0,0:09:26.79,0:09:29.22,Main Italic,Mik,0000,0000,0000,,Eu queria estar nessa conversa.
+Dialogue: 0,0:09:29.22,0:09:30.53,Main Italic,Mik,0000,0000,0000,,Entrar nela, que nem o Yoshioka faz.
+Dialogue: 0,0:09:30.53,0:09:34.10,Main Italic,Mik,0000,0000,0000,,Só chegar e perguntar do que\Neles estão conversando.
+Dialogue: 0,0:09:34.10,0:09:35.82,Main Italic,Mik,0000,0000,0000,,É, impossível.
+Dialogue: 0,0:09:36.30,0:09:40.23,Main Italic,Mik,0000,0000,0000,,Eu devia ao menos encontrar uma forma\Nde descobrir do que eles estão falando.
+Dialogue: 0,0:09:41.87,0:09:43.59,Main Dialogue,Yosh,0000,0000,0000,,Mas, futebol—
+Dialogue: 0,0:09:43.59,0:09:44.48,Main Dialogue,Yosh,0000,0000,0000,,Hã?
+Dialogue: 0,0:09:51.72,0:09:52.88,Main Italic,Yosh,0000,0000,0000,,Tachibana?
+Dialogue: 0,0:09:56.85,0:09:58.82,Main Italic,Mik,0000,0000,0000,,Futebol?
+Dialogue: 0,0:10:01.65,0:10:04.64,Main Italic,Mik,0000,0000,0000,,Um tema que eu não\Nconseguia dizer nada.
+Dialogue: 0,0:10:06.00,0:10:07.96,Signs,txt,0000,0000,0000,,{\c&H44402F&\bord1}Futebol
+Dialogue: 0,0:10:08.26,0:10:12.17,Main Italic,mik,0000,0000,0000,,Tudo que eu sei sobre futebol\Npode ser encontrado aqui.
+Dialogue: 0,0:10:15.96,0:10:17.84,Signs,txtmik,0000,0000,0000,,{\c&H000000&\3c&HFFFFFF&}Zico
+Dialogue: 0,0:10:19.89,0:10:21.96,Main Italic,mik,0000,0000,0000,,Isso é tudo que eu sei.
+Dialogue: 0,0:10:22.30,0:10:24.81,Atashinchi 3-2,txt,0000,0000,0000,,Novo Atashinchi
+Dialogue: 0,0:10:26.47,0:10:27.23,Main Dialogue,Yosh,0000,0000,0000,,Ei.
+Dialogue: 0,0:10:27.23,0:10:27.95,Main Dialogue,Mik,0000,0000,0000,,Ei.
+Dialogue: 0,0:10:30.71,0:10:31.61,Main Dialogue,Mik,0000,0000,0000,,E então.
+Dialogue: 0,0:10:31.61,0:10:32.33,Main Dialogue,Yosh,0000,0000,0000,,Hã?
+Dialogue: 0,0:10:32.62,0:10:34.82,Main Dialogue,Mik,0000,0000,0000,,Tem alguma coisa grande acontecendo\Nno futebol ultimamente?
+Dialogue: 0,0:10:34.98,0:10:38.62,Main Dialogue,Yosh,0000,0000,0000,,Agora? Não, nada em especial.
+Dialogue: 0,0:10:44.36,0:10:47.57,Main Dialogue,Mik,0000,0000,0000,,Você parecia estar se divertindo tanto\Nfalando de futebol com o Iwaki.
+Dialogue: 0,0:10:48.65,0:10:52.04,Main Dialogue,Mik,0000,0000,0000,,Eu não sei nada sobre futebol.
+Dialogue: 0,0:10:54.31,0:10:56.42,Main Dialogue,Mik,0000,0000,0000,,O Zico é bom mesmo?
+Dialogue: 0,0:10:56.42,0:10:58.38,Signs,txt,0000,0000,0000,,{\c&H9632B8&\3c&H8A2848&}O Zico é bom mesmo?
+Dialogue: 0,0:10:56.74,0:10:57.92,Main Dialogue,Yosh,0000,0000,0000,,Hã?
+Dialogue: 0,0:11:02.48,0:11:05.60,Main Dialogue,Yosh,0000,0000,0000,,O Zico era um herói do Brasil,
+Dialogue: 0,0:11:05.60,0:11:10.06,Main Dialogue,Yosh,0000,0000,0000,,mas ele foi o técnico da seleção, muito,\Nmuito, muito, muito, {\i1}muito{\i0} tempo atrás.
+Dialogue: 0,0:11:11.69,0:11:13.03,Main Dialogue,Yosh,0000,0000,0000,,{\an8}Que ótimo.
+Dialogue: 0,0:11:11.97,0:11:16.03,Main Italic,Mik,0000,0000,0000,,Yoshioka, algum dia eu vou arrancar essa meia\Ndúzia de fios de cabelo da sua cabeça...
+Dialogue: 0,0:11:16.80,0:11:18.49,Signs,txt,0000,0000,0000,,{\an9}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:11:18.49,0:11:20.45,Signs,Mag,0000,0000,0000,,{\an7}Diário Semanal
+Dialogue: 0,0:11:18.49,0:11:20.45,Signs,Mag,0000,0000,0000,,{\an7}Futebol:\NTudo que precisa saber\Nsobre os jogadores\Nda Seleção japonesa
+Dialogue: 0,0:11:20.89,0:11:22.98,Main Dialogue,Mik,0000,0000,0000,,De onde veio essa revista?
+Dialogue: 0,0:11:24.18,0:11:27.48,Main Dialogue,Mom,0000,0000,0000,,Acho que o seu pai comprou na loja\Nde conveniências quando estava bêbado.
+Dialogue: 0,0:11:30.71,0:11:33.80,Main Dialogue,Mik,0000,0000,0000,,O papai continua preso ao Japão do Zico?
+Dialogue: 0,0:11:33.80,0:11:37.13,Main Dialogue,Mik,0000,0000,0000,,Ele precisa saber mais\Nsobre o Japão de hoje.
+Dialogue: 0,0:11:37.59,0:11:38.92,Main Dialogue,Mik,0000,0000,0000,,Endo.
+Dialogue: 0,0:11:38.92,0:11:39.83,Main Dialogue,Mik,0000,0000,0000,,Honda.
+Dialogue: 0,0:11:39.83,0:11:40.97,Main Dialogue,Mik,0000,0000,0000,,Ucchii...
+Dialogue: 0,0:11:43.02,0:11:44.56,Main Dialogue,Mik,0000,0000,0000,,Oshimu Japan.
+Dialogue: 0,0:11:45.05,0:11:49.06,Main Dialogue,Mik,0000,0000,0000,,Nossa estratégia é 4-2-3-1.
+Dialogue: 0,0:11:50.34,0:11:52.51,Main Italic,Mik,0000,0000,0000,,Eu só tenho que me lembrar!
+Dialogue: 0,0:11:54.57,0:11:57.85,Main Italic,Shi,0000,0000,0000,,Ela está queimando de paixão por\Nalguma coisa desnecessária de novo.
+Dialogue: 0,0:12:01.98,0:12:03.53,Signs,Manga,0000,0000,0000,,Vai!
+Dialogue: 0,0:12:03.53,0:12:05.76,Signs,Manga,0000,0000,0000,,Certo! Agora estamos empatados!
+Dialogue: 0,0:12:07.51,0:12:10.83,Signs,Manga,0000,0000,0000,,Impedido
+Dialogue: 0,0:12:09.55,0:12:10.83,Main Italic,Manga,0000,0000,0000,,Impedido?
+Dialogue: 0,0:12:11.92,0:12:13.27,Main Dialogue,Mik,0000,0000,0000,,Ei, Yoshioka.
+Dialogue: 0,0:12:13.27,0:12:14.12,Main Dialogue,Yosh,0000,0000,0000,,Hã?
+Dialogue: 0,0:12:14.64,0:12:16.59,Main Dialogue,Mik,0000,0000,0000,,O que "impedido" significa?
+Dialogue: 0,0:12:16.59,0:12:17.46,Main Dialogue,Yosh,0000,0000,0000,,Hã?
+Dialogue: 0,0:12:17.76,0:12:19.10,Main Dialogue,Mik,0000,0000,0000,,Impedido!
+Dialogue: 0,0:12:19.64,0:12:20.84,Main Dialogue,Yosh,0000,0000,0000,,Que surpresa!
+Dialogue: 0,0:12:21.98,0:12:25.92,Main Dialogue,Yosh,0000,0000,0000,,Dia desses você estava me\Nperguntando se o Zico era bom.
+Dialogue: 0,0:12:25.92,0:12:27.93,Main Dialogue,Mik,0000,0000,0000,,Tanto faz. Só me diz!
+Dialogue: 0,0:12:29.62,0:12:30.89,Main Dialogue,Yosh,0000,0000,0000,,Certo, você está acompanhando?
+Dialogue: 0,0:12:30.89,0:12:32.85,Main Dialogue,Yosh,0000,0000,0000,,Você está atacando daqui.
+Dialogue: 0,0:12:32.85,0:12:36.54,Main Dialogue,Yosh,0000,0000,0000,,A bola vem por aqui e\Nvocê decide ir atrás dela.
+Dialogue: 0,0:12:36.54,0:12:37.05,Main Dialogue,Mik,0000,0000,0000,,Sim.
+Dialogue: 0,0:12:37.05,0:12:38.77,Main Dialogue,Yosh,0000,0000,0000,,Mas a pessoa que recebe o passe...
+Dialogue: 0,0:12:43.95,0:12:46.57,Main Dialogue,Yosh,0000,0000,0000,,O que deu na Tachibana de repente?
+Dialogue: 0,0:12:47.52,0:12:48.29,Main Dialogue,Yosh,0000,0000,0000,,Espere...
+Dialogue: 0,0:12:53.25,0:12:55.40,Main Italic,Yosh,0000,0000,0000,,Foi uma conversa divertida.
+Dialogue: 0,0:12:55.92,0:12:58.25,Main Italic,Yosh,0000,0000,0000,,O Zico é bom mesmo?
+Dialogue: 0,0:12:58.25,0:12:59.34,Main Italic,Yosh,0000,0000,0000,,Bom mesmo...
+Dialogue: 0,0:12:59.34,0:13:00.68,Main Italic,Yosh,0000,0000,0000,,Bom mesmo...
+Dialogue: 0,0:13:02.02,0:13:04.68,Main Dialogue,Yosh,0000,0000,0000,,Será que ela está estudando\Nfutebol porque ela quer...
+Dialogue: 0,0:13:07.85,0:13:10.64,Main Dialogue,Yosh,0000,0000,0000,,Ela quer uma desculpa\Npara conversar comigo?
+Dialogue: 0,0:13:10.64,0:13:13.10,Signs,Text,0000,0000,0000,,Errado
+Dialogue: 0,0:13:15.26,0:13:17.06,Main Dialogue,Yosh,0000,0000,0000,,Essa não!
+Dialogue: 0,0:13:17.06,0:13:20.02,Signs,Text,0000,0000,0000,,Mas não é isso!
+Dialogue: 0,0:13:25.30,0:13:27.45,Main Dialogue,Shi,0000,0000,0000,,Essas árvores ginkgo são tão bonitas.
+Dialogue: 0,0:13:28.07,0:13:29.41,Main Dialogue,Mik,0000,0000,0000,,Claro...
+Dialogue: 0,0:13:30.26,0:13:31.56,Main Dialogue,Shi,0000,0000,0000,,Sabe, Mikan.
+Dialogue: 0,0:13:31.56,0:13:35.40,Main Dialogue,Shi,0000,0000,0000,,Se você está interessada em futebol,\Nnão devia assistir a um jogo ou outro?
+Dialogue: 0,0:13:35.40,0:13:38.49,Main Dialogue,Mik,0000,0000,0000,,Não, eu não me interesso por jogos.
+Dialogue: 0,0:13:39.69,0:13:43.05,Main Dialogue,Mik,0000,0000,0000,,Eu só queria ser mais como o Yoshioka.
+Dialogue: 0,0:13:43.05,0:13:44.07,Main Dialogue,Shi,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:44.07,0:13:45.92,Main Dialogue,Shi,0000,0000,0000,,Você quer ser mais como o Yoshioka?
+Dialogue: 0,0:13:46.31,0:13:47.76,Main Dialogue,Shi,0000,0000,0000,,Do que você está falando?
+Dialogue: 0,0:13:48.15,0:13:52.43,Main Dialogue,Mik,0000,0000,0000,,O Iwaki sempre parece feliz\Nquando conversa com o Yoshioka.
+Dialogue: 0,0:13:52.43,0:13:53.36,Main Dialogue,Shi,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:53.36,0:13:55.89,Main Dialogue,Shi,0000,0000,0000,,Ah... Isso que você quer dizer...
+Dialogue: 0,0:13:56.70,0:13:58.77,Main Dialogue,Mik,0000,0000,0000,,Por isso eu queria ser como ele também.
+Dialogue: 0,0:13:59.45,0:14:00.26,Main Dialogue,Mik,0000,0000,0000,,Ei!
+Dialogue: 0,0:14:00.26,0:14:01.03,Main Dialogue,Iwa,0000,0000,0000,,E aí.
+Dialogue: 0,0:14:01.96,0:14:03.45,Main Dialogue,Mik,0000,0000,0000,,O Japão venceu.
+Dialogue: 0,0:14:03.45,0:14:04.84,Main Dialogue,Iwa,0000,0000,0000,,Venceu mesmo.
+Dialogue: 0,0:14:05.23,0:14:07.16,Main Dialogue,Mik,0000,0000,0000,,Acha que a chave da vitória foi o Zico?
+Dialogue: 0,0:14:07.16,0:14:09.35,Main Dialogue,Mik,0000,0000,0000,,Ou blá blá blá...
+Dialogue: 0,0:14:09.79,0:14:12.66,Main Dialogue,Iwa,0000,0000,0000,,Blá blá blá e blá blá blá.
+Dialogue: 0,0:14:13.21,0:14:15.57,Main Dialogue,Mik,0000,0000,0000,,E você pode falar sobre\No melhor do Japão...
+Dialogue: 0,0:14:15.57,0:14:17.02,Main Dialogue,Iwa,0000,0000,0000,,...sem falar...
+Dialogue: 0,0:14:17.02,0:14:18.34,Main Dialogue,Both,0000,0000,0000,,Impedimento!
+Dialogue: 0,0:14:18.62,0:14:19.90,Main Dialogue,Both,0000,0000,0000,,Não é?
+Dialogue: 0,0:14:21.99,0:14:24.38,Main Dialogue,Mik,0000,0000,0000,,Como eu queria conversar com ele.
+Dialogue: 0,0:14:25.03,0:14:26.82,Main Dialogue,Shi,0000,0000,0000,,Mikan, isso...
+Dialogue: 0,0:14:26.82,0:14:29.98,Main Dialogue,Shi,0000,0000,0000,,...é estranho demais.
+Dialogue: 0,0:14:34.62,0:14:36.31,Main Dialogue,Yosh,0000,0000,0000,,Me desculpe, Tachibana...
+Dialogue: 0,0:14:36.71,0:14:39.14,Main Dialogue,Yosh,0000,0000,0000,,Espero que ainda possamos ser amigos.
+Dialogue: 0,0:14:40.02,0:14:41.00,Main Dialogue,Yosh,0000,0000,0000,,Brincadeira.
+Dialogue: 0,0:14:42.94,0:14:44.01,Main Dialogue,mot,0000,0000,0000,,Não olhe!
+Dialogue: 0,0:14:44.51,0:14:46.11,Main Dialogue,Yosh,0000,0000,0000,,Ah, cara!
+Dialogue: 0,0:14:46.52,0:14:49.57,Main Dialogue,yosh,0000,0000,0000,,O que eu vou fazer?
+Dialogue: 0,0:14:49.57,0:14:52.03,Signs,Text,0000,0000,0000,,Eu não sei{\i1}!{\i0}
+Dialogue: 0,0:14:52.03,0:14:55.02,Signs,Text,0000,0000,0000,,{\c&H000000&\3c&HFFFFFF&}Zico
+Dialogue: 0,0:14:53.80,0:14:55.02,Atashinchi 3,txt,0000,0000,0000,,{\an9}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:56.06,0:14:58.04,Atashinchi 3,txt,0000,0000,0000,,{\an9}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:58.42,0:15:00.43,Main Dialogue,Mik,0000,0000,0000,,Estou atrasada!
+Dialogue: 0,0:15:01.83,0:15:02.57,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:15:02.57,0:15:03.80,Main Dialogue,Mik,0000,0000,0000,,Onde está o café da manhã?
+Dialogue: 0,0:15:04.49,0:15:06.88,Main Dialogue,Yuz,0000,0000,0000,,Não está pronto ainda.
+Dialogue: 0,0:15:07.80,0:15:09.94,Main Dialogue,Dad,0000,0000,0000,,Preciso pegar o trem\Nque sai depois das 11h.
+Dialogue: 0,0:15:09.94,0:15:11.14,Main Dialogue,Dad,0000,0000,0000,,Ei, onde está o café da manhã?
+Dialogue: 0,0:15:16.27,0:15:17.75,Main Dialogue,Mom,0000,0000,0000,,Nihao!
+Dialogue: 0,0:15:17.75,0:15:21.18,Main Dialogue,Mom,0000,0000,0000,,Hoje vamos ter um delicioso\Ncongee de arroz!
+Dialogue: 0,0:15:19.48,0:15:21.94,Signs,ttxt,0000,0000,0000,,{\c&H000000&\bord0}Congee
+Dialogue: 0,0:15:28.74,0:15:33.41,Next title 2,Tit,0000,0000,0000,,{\fad(400,1)}O Método de Rejuvenescimento da Mamãe
+Dialogue: 0,0:15:42.17,0:15:42.71,Main Dialogue,Yuz,0000,0000,0000,,Ai!
+Dialogue: 0,0:15:48.04,0:15:48.63,Main Dialogue,Mik,0000,0000,0000,,Ai!
+Dialogue: 0,0:15:49.09,0:15:50.93,Main Dialogue,Mik,0000,0000,0000,,Mãe, está quente demais!
+Dialogue: 0,0:15:50.93,0:15:52.07,Main Dialogue,Mom,0000,0000,0000,,É claro que sim!
+Dialogue: 0,0:15:52.07,0:15:53.01,Main Dialogue,Mom,0000,0000,0000,,Congee de arroz é quente!
+Dialogue: 0,0:15:53.37,0:15:55.48,Main Dialogue,Mik,0000,0000,0000,,Por que você fez isso\N para o café da manhã?
+Dialogue: 0,0:15:55.48,0:15:57.66,Main Dialogue,Mom,0000,0000,0000,,Porque é isso que\N se come no café da manhã!
+Dialogue: 0,0:15:57.66,0:15:59.25,Main Dialogue,Mik,0000,0000,0000,,Não entendo você.
+Dialogue: 0,0:16:01.77,0:16:02.95,Main Dialogue,Dad,0000,0000,0000,,Estou saindo.
+Dialogue: 0,0:16:03.46,0:16:04.84,Main Dialogue,Mom,0000,0000,0000,,E o seu congee de arroz?
+Dialogue: 0,0:16:04.84,0:16:05.94,Main Dialogue,Dad,0000,0000,0000,,Ele não esfria.
+Dialogue: 0,0:16:08.43,0:16:11.07,Main Dialogue,Mom,0000,0000,0000,,Olha, está delicioso!
+Dialogue: 0,0:16:15.92,0:16:17.28,Main Dialogue,Yuu,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:16:17.28,0:16:18.20,Main Dialogue,Mom,0000,0000,0000,,Yuzinho?
+Dialogue: 0,0:16:18.20,0:16:20.17,Main Dialogue,Yuu,0000,0000,0000,,Estava quente demais.
+Dialogue: 0,0:16:20.17,0:16:22.28,Main Dialogue,Yuu,0000,0000,0000,,Tenho que chegar logo.
+Dialogue: 0,0:16:24.33,0:16:27.06,Main Dialogue,Mom,0000,0000,0000,,Queria fazer algo\Ndiferente e agora isso.
+Dialogue: 0,0:16:27.06,0:16:28.06,Main Dialogue,Mik,0000,0000,0000,,Ai!
+Dialogue: 0,0:16:28.06,0:16:31.31,Main Dialogue,Mik,0000,0000,0000,,Aposto que você só se\Nesqueceu de comprar pão ontem.
+Dialogue: 0,0:16:32.37,0:16:34.69,Main Dialogue,Mik,0000,0000,0000,,Eu não consigo comer nada muito\Nquente, então vou indo também.
+Dialogue: 0,0:16:35.76,0:16:37.33,Main Dialogue,Mik,0000,0000,0000,,Até mais!
+Dialogue: 0,0:16:45.61,0:16:46.36,Main Dialogue,Mom,0000,0000,0000,,Pessoal...
+Dialogue: 0,0:16:47.67,0:16:49.66,Main Dialogue,Mom,0000,0000,0000,,Eu achei que ficariam felizes.
+Dialogue: 0,0:16:53.51,0:16:56.32,Signs,txt,0000,0000,0000,,{\c&H55C2C9&}Deprimida
+Dialogue: 0,0:16:56.32,0:17:04.54,Signs,txt,0000,0000,0000,,{\c&HFCC5BE&}Triste{\c&HFC7E77&} Triste{\c&H8F8359&} Triste
+Dialogue: 0,0:16:56.94,0:16:59.36,Main Italic,mom,0000,0000,0000,,Mãe é uma posição onde\Nnão se recebe perdão.
+Dialogue: 0,0:16:59.36,0:17:01.46,Main Italic,mom,0000,0000,0000,,Todos são tão frios.
+Dialogue: 0,0:17:02.84,0:17:04.54,Main Italic,mom,0000,0000,0000,,O papel de mãe...
+Dialogue: 0,0:17:06.98,0:17:09.59,Main Italic,mom,0000,0000,0000,,Não é nada além de um trabalho de\Num robô doméstico para a família,
+Dialogue: 0,0:17:09.83,0:17:11.55,Signs,txt,0000,0000,0000,,{\an9\c&H000000&\bord0}Estou com fome
+Dialogue: 0,0:17:09.96,0:17:11.55,Main Dialogue,Mik,0000,0000,0000,,Estou com fome!
+Dialogue: 0,0:17:11.55,0:17:13.01,Signs,Buton,0000,0000,0000,,{\c&H000000&\3c&HFFD99A&}Lavar               {\c&H000000&\3c&HB1FF98&}Compras
+Dialogue: 0,0:17:11.55,0:17:13.01,Signs,Buton,0000,0000,0000,,{\c&H000000&\3c&H676AEF&}Comida             {\c&H000000&\3c&H6EA4EF&}Limpar
+Dialogue: 0,0:17:13.22,0:17:14.37,Main Italic,Mom,0000,0000,0000,,Você é uma ferramenta.
+Dialogue: 0,0:17:14.02,0:17:15.71,Signs,txt,0000,0000,0000,,{\an9\c&H000000&\bord0}Sua comida\Nestá pronta.
+Dialogue: 0,0:17:14.22,0:17:16.04,Main Dialogue,Rob,0000,0000,0000,,{\an8}Sua comida está pronta.
+Dialogue: 0,0:17:15.18,0:17:16.89,Main Italic,Mom,0000,0000,0000,,Sua família não tem amor nem gratidão.
+Dialogue: 0,0:17:15.89,0:17:17.47,Signs,txt,0000,0000,0000,,{\an7\c&H000000&\bord0}Coloque aí
+Dialogue: 0,0:17:16.19,0:17:17.47,Main Dialogue,Mik,0000,0000,0000,,{\an8}Coloque aí.
+Dialogue: 0,0:17:18.32,0:17:20.43,Main Italic,MOm,0000,0000,0000,,Não, eu não posso\Nme deixar afundar mais.
+Dialogue: 0,0:17:22.09,0:17:24.77,Main Italic,MOm,0000,0000,0000,,Se eu fizer isso, a única coisa que poderei fazer\Npara me tirar de uma situação como essa é...
+Dialogue: 0,0:17:27.30,0:17:29.72,Main Italic,Mom,0000,0000,0000,,Olhar para a caderneta de\Npoupança até eu me acalmar.
+Dialogue: 0,0:17:31.69,0:17:34.19,Main Italic,Mom,0000,0000,0000,,Colocar três colheres \Nde açúcar no meu café.
+Dialogue: 0,0:17:36.39,0:17:37.21,Main Italic,Mom,0000,0000,0000,,Beber.
+Dialogue: 0,0:17:44.84,0:17:50.00,Main Italic,Mom,0000,0000,0000,,Tomar aquele sorvete chique que eu\Nescondi para uma hora como essa.
+Dialogue: 0,0:17:56.77,0:17:58.07,Main Italic,Mom,0000,0000,0000,,Tomar um banho.
+Dialogue: 0,0:17:59.82,0:18:01.97,Main Italic,Mom,0000,0000,0000,,Me enrolar em alguma coisa fofa.
+Dialogue: 0,0:18:04.25,0:18:05.71,Main Italic,Mom,0000,0000,0000,,Acender incenso.
+Dialogue: 0,0:18:14.80,0:18:16.36,Main Italic,Mom,0000,0000,0000,,Dançar a dança do rejuvenescimento.
+Dialogue: 0,0:18:19.00,0:18:20.43,Main Italic,Mom,0000,0000,0000,,Tomar banho.
+Dialogue: 0,0:18:21.90,0:18:24.18,Main Italic,Mom,0000,0000,0000,,Olhar para fotos que\Nsempre me fizeram rir.
+Dialogue: 0,0:18:25.80,0:18:30.25,Main Italic,Mom,0000,0000,0000,,E dançar! Dançar!\NDançar violentamente! Violentamente!
+Dialogue: 0,0:18:32.80,0:18:34.80,Main Italic,Mom,0000,0000,0000,,Dança intensa de rejuvenescimento!
+Dialogue: 0,0:18:36.10,0:18:37.01,Main Italic,Mom,0000,0000,0000,,Tomar banho.
+Dialogue: 0,0:18:38.07,0:18:42.88,Main Italic,Mom,0000,0000,0000,,Dança mais uma vez!\NViolentamente! Violentamente!
+Dialogue: 0,0:18:42.88,0:18:45.18,Main Italic,Mom,0000,0000,0000,,Minha dança do rejuvenescimento!
+Dialogue: 0,0:18:49.31,0:18:51.11,Main Italic,Mom,0000,0000,0000,,Meditar em silêncio.
+Dialogue: 0,0:18:51.89,0:18:53.58,Main Italic,Mom,0000,0000,0000,,E acender um fogo no meu coração.
+Dialogue: 0,0:19:00.89,0:19:02.02,Main Italic,heart,0000,0000,0000,,Acendi!
+Dialogue: 0,0:19:04.24,0:19:06.21,Main Italic,mom,0000,0000,0000,,FOGO!
+Dialogue: 0,0:19:15.17,0:19:18.26,Main Italic,Mik,0000,0000,0000,,Eu fui tão má com a mamãe hoje.
+Dialogue: 0,0:19:20.61,0:19:22.18,Main Dialogue,Mom,0000,0000,0000,,Queria fazer algo\Ndiferente e agora isso.
+Dialogue: 0,0:19:22.66,0:19:26.35,Main Dialogue,Mik,0000,0000,0000,,Aposto que você só\Nesqueceu de comprar pão ontem.
+Dialogue: 0,0:19:27.77,0:19:30.14,Main Italic,Mik,0000,0000,0000,,Não acredito que eu disse aquilo.
+Dialogue: 0,0:19:35.75,0:19:36.66,Main Dialogue,Mom,0000,0000,0000,,Yuzinho?
+Dialogue: 0,0:19:36.66,0:19:38.92,Main Dialogue,Yuu,0000,0000,0000,,Tenho que chegar logo.
+Dialogue: 0,0:19:40.07,0:19:44.53,Signs,Sign,0000,0000,0000,,{\c&H91C890&\3c&H68A373&}Loja 24h de Conveniências
+Dialogue: 0,0:19:42.60,0:19:44.53,Main Italic,Yuz,0000,0000,0000,,Ela fez aquilo especialmente para nós.
+Dialogue: 0,0:19:45.18,0:19:48.20,Main Italic,Yuz,0000,0000,0000,,Ela parecia chocada.
+Dialogue: 0,0:19:51.44,0:19:52.75,Main Dialogue,Dad,0000,0000,0000,,Isso não esfria.
+Dialogue: 0,0:19:57.97,0:19:59.30,Main Dialogue,Dad,0000,0000,0000,,Devo comprar alguma coisa.
+Dialogue: 0,0:20:08.98,0:20:09.97,Main Dialogue,Yuz,0000,0000,0000,,Então...
+Dialogue: 0,0:20:10.48,0:20:11.60,Main Dialogue,Mik,0000,0000,0000,,Olha o papai.
+Dialogue: 0,0:20:18.84,0:20:21.49,Main Italic,Mik,0000,0000,0000,,Aposto que ela está\Ncompletamente deprimida.
+Dialogue: 0,0:20:25.24,0:20:27.14,Main Italic,Mik,0000,0000,0000,,O que podemos dizer?
+Dialogue: 0,0:20:28.37,0:20:29.16,Main Dialogue,Dad,0000,0000,0000,,Anda.
+Dialogue: 0,0:20:31.83,0:20:33.24,Main Dialogue,Mik,0000,0000,0000,,Voltamos!
+Dialogue: 0,0:20:33.58,0:20:35.30,Main Dialogue,Mik,0000,0000,0000,,Ei, mãe... Então...
+Dialogue: 0,0:20:36.21,0:20:38.29,Main Dialogue,Mom,0000,0000,0000,,Sejam bem-vindos!
+Dialogue: 0,0:20:38.29,0:20:41.33,Main Dialogue,mom,0000,0000,0000,,Hoje vamos ter um\Ndelicioso congee de arroz!
+Dialogue: 0,0:20:39.55,0:20:42.01,Signs,txt,0000,0000,0000,,{\c&H000000&\bord0}Congee
+Dialogue: 0,0:20:50.99,0:20:52.22,Main Dialogue,Dad,0000,0000,0000,,Que gostoso!
+Dialogue: 0,0:20:52.22,0:20:55.36,Main Dialogue,Yuz,0000,0000,0000,,Esse é o mesmo de hoje de manhã?
+Dialogue: 0,0:20:55.36,0:20:57.15,Main Dialogue,Mik,0000,0000,0000,,Aposto que esse é o gostinho da China.
+Dialogue: 0,0:20:57.45,0:21:01.45,Main Dialogue,Mom,0000,0000,0000,,Bem, acrescentei tudo que\Nencontrei na geladeira.
+Dialogue: 0,0:21:08.62,0:21:11.00,Main Dialogue,Mik,0000,0000,0000,,Eu me encontrei com o Yuzu\Nno caminho para casa...
+Dialogue: 0,0:21:14.56,0:21:15.55,Main Dialogue,Mik,0000,0000,0000,,E então...
+Dialogue: 0,0:21:32.93,0:21:33.95,Main Dialogue,mik,0000,0000,0000,,Mãe...
+Dialogue: 0,0:21:35.69,0:21:38.42,Main Dialogue,mik,0000,0000,0000,,Queria pedir desculpas...\NSobre hoje de manhã.
+Dialogue: 0,0:21:38.42,0:21:39.49,Main Dialogue,Mom,0000,0000,0000,,Do que você está falando?
+Dialogue: 0,0:21:48.27,0:21:51.46,Main Italic,mik,0000,0000,0000,,A mamãe não levou para o lado errado...
+Dialogue: 0,0:21:52.03,0:21:55.04,Atashinchi 3-3,sign,0000,0000,0000,,{\an6}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:22:56.98,Main Dialogue,yos,0000,0000,0000,,No próximo episódio de Novo Atashinchi:
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HA3439A&}Os Óculos da Sudo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HE1A51D&}O Boom dos Donuts
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H454CE5&}O que me Interessa Ultimamente
+Dialogue: 0,0:22:56.98,0:22:59.27,Main Dialogue,yos,0000,0000,0000,,"Os Óculos da Sudo" e outros dois episódios!
+Dialogue: 0,0:22:59.27,0:23:00.50,Main Dialogue,mik,0000,0000,0000,,Ursinho!

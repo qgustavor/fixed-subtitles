@@ -1,0 +1,373 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0015,1
+Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0080,0010,1
+Style: Atashinchi 2,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0090,0080,0120,1
+Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0130,1
+Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0060,0040,0005,1
+Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0110,0080,0080,1
+Style: Atashinchi 5,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0080,0060,1
+Style: Atashinchi 6,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0030,1
+Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0110,0050,0130,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0100,0020,0010,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0100,0010,1
+Style: Next title 1,Comic Sans MS,26,&H00B23F9B,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H00D9A11A,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H003F4CEB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:56.18,0:00:57.99,Atashinchi,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:00:58.55,0:01:00.44,Default,Mik,0000,0000,0000,,Obrigada pela comida.
+Dialogue: 0,0:01:05.73,0:01:07.25,Default,Mik,0000,0000,0000,,Estou atrasada!
+Dialogue: 0,0:01:09.35,0:01:10.72,Default,Mik,0000,0000,0000,,Isso me lembra...
+Dialogue: 0,0:01:11.44,0:01:16.13,title,Tit,0000,0000,0000,,{\fad(666,1)}Mikan É Resetada Para Configurações de Fábrica
+Dialogue: 0,0:01:16.47,0:01:18.05,Default,Mik,0000,0000,0000,,Deixa eu ver...
+Dialogue: 0,0:01:18.05,0:01:19.26,Default,Mom,0000,0000,0000,,O que você está fazendo?
+Dialogue: 0,0:01:19.26,0:01:22.25,Default,Mik,0000,0000,0000,,Eu queria ver se o programa\N de ontem gravou direitinho.
+Dialogue: 0,0:01:22.25,0:01:24.49,Default,Mom,0000,0000,0000,,Ah, anda logo!
+Dialogue: 0,0:01:24.49,0:01:26.06,Default,Mom,0000,0000,0000,,Você vai se atrasar para a escola.
+Dialogue: 0,0:01:27.02,0:01:30.06,Default,Mom,0000,0000,0000,,Já que você está saindo, pode deixar\N essas garrafas plásticas no lixo?
+Dialogue: 0,0:01:30.48,0:01:31.22,Default,Mik,0000,0000,0000,,Claro.
+Dialogue: 0,0:01:32.45,0:01:33.98,Default,Mik,0000,0000,0000,,Estou saindo!
+Dialogue: 0,0:01:36.47,0:01:38.86,italic,Mik,0000,0000,0000,,John, Manjiro...
+Dialogue: 0,0:01:40.85,0:01:44.50,italic,Mik,0000,0000,0000,,Se for John Manjiro, eu acho \Nque os dois são primeiros nomes.
+Dialogue: 0,0:01:46.42,0:01:49.43,italic,Mik,0000,0000,0000,,Então qual é o sobrenome?
+Dialogue: 0,0:01:52.31,0:01:54.15,Default,Girl,0000,0000,0000,,Mikan... Bom dia.
+Dialogue: 0,0:01:54.15,0:01:55.47,Default,Mik,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:01:55.83,0:01:57.36,Default,Girl,0000,0000,0000,,O que são essas garrafas plásticas?
+Dialogue: 0,0:01:58.65,0:02:00.72,Default,Girl,0000,0000,0000,,Essa não, sua braguilha está aberta.
+Dialogue: 0,0:02:02.68,0:02:05.35,Signs,Text,0000,0000,0000,,{\an9\c&H262616&}{\bord0}Manjiro Nakahama
+Dialogue: 0,0:02:02.68,0:02:05.35,Signs,Text,0000,0000,0000,,{\an9\c&H262616&}{\bord0}(1827 - 1898)
+Dialogue: 0,0:02:03.86,0:02:05.35,Atashinchi 2,Text,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:02:07.19,0:02:10.06,Default,Girl,0000,0000,0000,,Acho que você ficou com a \Ncabeça ocupada com o John Manjiro.
+Dialogue: 0,0:02:14.68,0:02:16.99,italic,Mik,0000,0000,0000,,Vou jogar isso fora no caminho para casa.
+Dialogue: 0,0:02:18.13,0:02:22.18,italic,Mik,0000,0000,0000,,Eu não consigo fazer duas\N coisas ao mesmo tempo.
+Dialogue: 0,0:02:22.18,0:02:26.66,italic,Mik,0000,0000,0000,,É como se tudo que eu estivesse fazendo fosse\N apagado quando eu começo uma coisa nova.
+Dialogue: 0,0:02:27.00,0:02:28.25,Signs,Sign,0000,0000,0000,,{\3c&H3F4E2A&\bord2}Biblioteca
+Dialogue: 0,0:02:29.29,0:02:33.17,Default,Mik,0000,0000,0000,,Bem... Eu acho que é na página 1378.
+Dialogue: 0,0:02:33.17,0:02:38.42,Default,Mik,0000,0000,0000,,Página 1378. Página 1378.
+Dialogue: 0,0:02:38.42,0:02:39.31,Default,Girl,0000,0000,0000,,Mikan.
+Dialogue: 0,0:02:39.31,0:02:41.00,Default,Girl,0000,0000,0000,,Você poderia me emprestar 100 ienes?
+Dialogue: 0,0:02:41.00,0:02:41.51,Default,Mik,0000,0000,0000,,Claro.
+Dialogue: 0,0:02:44.72,0:02:45.91,Default,Girl,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:02:47.43,0:02:48.20,Default,Mik,0000,0000,0000,,Certo...
+Dialogue: 0,0:02:50.73,0:02:51.85,Default,Mik,0000,0000,0000,,Onde eu estava?
+Dialogue: 0,0:02:52.26,0:02:53.84,Default,Mik,0000,0000,0000,,Ah, eu me lembro.
+Dialogue: 0,0:02:53.84,0:02:55.94,Default,Mik,0000,0000,0000,,Página 1378.
+Dialogue: 0,0:02:56.09,0:02:58.19,Default,Mik,0000,0000,0000,,Página 1378.
+Dialogue: 0,0:02:58.42,0:03:01.40,Default,Mik,0000,0000,0000,,Página 1378.
+Dialogue: 0,0:03:02.93,0:03:04.12,Default,Lib,0000,0000,0000,,Silêncio, estamos na biblioteca.
+Dialogue: 0,0:03:04.12,0:03:07.08,Default,Mik,0000,0000,0000,,Silêncio. Silêncio. Silêncio.
+Dialogue: 0,0:03:08.63,0:03:12.50,Default,Girl,0000,0000,0000,,Obrigada, Mikan. Vou deixar os 100 ienes aqui.
+Dialogue: 0,0:03:13.94,0:03:17.65,Default,Mik,0000,0000,0000,,100 ienes. 100 ienes. 100 ienes.
+Dialogue: 0,0:03:20.20,0:03:21.97,Atashinchi,Text,0000,0000,0000,,{\fad(333,1)\c&HF0F0F0&}Novo Atashinchi
+Dialogue: 0,0:03:21.97,0:03:25.05,Default,Mik,0000,0000,0000,,Não foi tão engraçado, Shimi!
+Dialogue: 0,0:03:26.38,0:03:27.43,Default,Hos,0000,0000,0000,,Foi mal.
+Dialogue: 0,0:03:28.05,0:03:31.97,Default,Mik,0000,0000,0000,,Fico impressionada com pessoas que conseguem\N fazer mais de uma coisa ao mesmo tempo.
+Dialogue: 0,0:03:31.97,0:03:34.78,Default,Mik,0000,0000,0000,,Quero dizer, agora eu estou falando \Nno telefone com as pernas cruzadas.
+Dialogue: 0,0:03:35.19,0:03:38.28,Default,Mik,0000,0000,0000,,Eu não acho que existam pessoas que consigam \Nfazer outras coisas enquanto estão no telefone.
+Dialogue: 0,0:03:39.25,0:03:40.24,Default,Mom,0000,0000,0000,,Mikan!
+Dialogue: 0,0:03:40.80,0:03:41.43,Default,Mik,0000,0000,0000,,Sim?
+Dialogue: 0,0:03:41.77,0:03:46.00,Default,Mom,0000,0000,0000,,É que... Sabe... Aquela coisa...
+Dialogue: 0,0:03:47.82,0:03:48.33,Default,Mik,0000,0000,0000,,O quê?
+Dialogue: 0,0:03:48.56,0:03:50.79,Default,Girl,0000,0000,0000,,Mikan? O que está acontecendo?
+Dialogue: 0,0:03:56.53,0:03:57.71,Default,Girl,0000,0000,0000,,Mikan?!
+Dialogue: 0,0:03:58.69,0:04:01.17,Default,Mik,0000,0000,0000,,M-Me desculpe! Eu já ligo de volta!
+Dialogue: 0,0:04:03.77,0:04:04.99,Default,Mik,0000,0000,0000,,O que foi?
+Dialogue: 0,0:04:05.76,0:04:07.10,Default,Mom,0000,0000,0000,,Eu comprei uns bolinhos de carne.
+Dialogue: 0,0:04:10.06,0:04:14.44,Default,Mik,0000,0000,0000,,Ah, para! Não me interrompa no \Ntelefone por uma bobagem dessas!
+Dialogue: 0,0:04:14.97,0:04:18.02,Default,Mom,0000,0000,0000,,Me desculpe, mas são bolinhos de carne.
+Dialogue: 0,0:04:32.38,0:04:34.91,Default,Mom,0000,0000,0000,,O que você quer jantar hoje?
+Dialogue: 0,0:04:34.91,0:04:35.87,Default,Mik,0000,0000,0000,,Jantar?
+Dialogue: 0,0:04:36.44,0:04:38.29,Default,Mom,0000,0000,0000,,Nós temos carne de porco.
+Dialogue: 0,0:04:38.29,0:04:40.53,Default,Mom,0000,0000,0000,,Temos que comer logo.
+Dialogue: 0,0:04:41.73,0:04:43.21,Default,Mom,0000,0000,0000,,Talvez eu faça frita com gengibre...
+Dialogue: 0,0:04:43.21,0:04:46.72,Default,Mom,0000,0000,0000,,Ou então... Carne com batatas!
+Dialogue: 0,0:04:47.11,0:04:49.27,Default,Mom,0000,0000,0000,,Eu também poderia fazer curry!
+Dialogue: 0,0:04:49.87,0:04:52.09,Default,Mom,0000,0000,0000,,Ou sopa de porco...
+Dialogue: 0,0:04:53.67,0:04:55.10,Default,Mom,0000,0000,0000,,O que você quer comer?
+Dialogue: 0,0:04:56.02,0:04:57.50,Default,Mik,0000,0000,0000,,O quê?
+Dialogue: 0,0:04:57.50,0:05:00.60,Default,Mik,0000,0000,0000,,Curry... Carne com batatas...
+Dialogue: 0,0:05:01.71,0:05:03.07,Default,Mik,0000,0000,0000,,Espera, o que era o resto?
+Dialogue: 0,0:05:03.57,0:05:04.64,Default,Mom,0000,0000,0000,,Já sei!
+Dialogue: 0,0:05:04.64,0:05:07.03,Default,Mom,0000,0000,0000,,Eu tenho que consertar o pneu da bicicleta!
+Dialogue: 0,0:05:07.38,0:05:09.08,Default,Mom,0000,0000,0000,,Ué? Onde eu deixei a chave!
+Dialogue: 0,0:05:09.08,0:05:11.81,Default,Mom,0000,0000,0000,,Ei, Mikan, não sabe onde \Nestá a chave da bicicleta?
+Dialogue: 0,0:05:11.81,0:05:12.60,Default,Mom,0000,0000,0000,,Ué?
+Dialogue: 0,0:05:12.60,0:05:14.07,Default,Mik,0000,0000,0000,,Não está aí?
+Dialogue: 0,0:05:14.78,0:05:15.93,Default,Mom,0000,0000,0000,,Onde? Onde?
+Dialogue: 0,0:05:17.42,0:05:22.51,Default,Mik,0000,0000,0000,,A chave da bicicleta...
+Dialogue: 0,0:05:23.20,0:05:24.88,Default,Mik,0000,0000,0000,,Chave...
+Dialogue: 0,0:05:25.97,0:05:27.59,Default,Mom,0000,0000,0000,,E então, o que vamos jantar?
+Dialogue: 0,0:05:28.11,0:05:30.05,Default,Mik,0000,0000,0000,,Chave... Chave...
+Dialogue: 0,0:05:30.33,0:05:32.64,Default,Mom,0000,0000,0000,,Carne frita com gengibre? Carne com batatas?
+Dialogue: 0,0:05:33.08,0:05:35.35,Default,Mik,0000,0000,0000,,Carne... Carne...
+Dialogue: 0,0:05:35.35,0:05:37.85,Default,Mom,0000,0000,0000,,Curry? Sopa de porco?
+Dialogue: 0,0:05:38.25,0:05:42.45,Default,Mik,0000,0000,0000,,Sopa... Sopa... Sopa... Sopa...
+Dialogue: 0,0:05:42.93,0:05:44.44,Default,Mom,0000,0000,0000,,Espere, o que eu estava procurando?
+Dialogue: 0,0:05:44.65,0:05:48.30,Default,Mom,0000,0000,0000,,Ah, é... Me dê a sua marmita!
+Dialogue: 0,0:05:49.20,0:05:50.58,Default,Text,0000,0000,0000,,Ding!
+Dialogue: 0,0:05:51.30,0:05:55.08,Default,Mik,0000,0000,0000,,Pare de falar esse monte de \Ncoisas ao mesmo tempo!
+Dialogue: 0,0:05:55.08,0:05:55.79,Default,Mom,0000,0000,0000,,Por quê?
+Dialogue: 0,0:05:56.20,0:05:59.29,Default,Mik,0000,0000,0000,,Porque eu só consigo processar\N uma coisa de cada vez!
+Dialogue: 0,0:06:00.99,0:06:02.35,Default,Mom,0000,0000,0000,,Que inconveniente.
+Dialogue: 0,0:06:03.10,0:06:05.27,Default,Mom,0000,0000,0000,,Então, o que você gostaria de jantar?
+Dialogue: 0,0:06:05.54,0:06:08.63,Default,Mom,0000,0000,0000,,Carne frita com gengibre? Carne \Ncom batatas? Curry? Sopa de porco?
+Dialogue: 0,0:06:09.33,0:06:14.10,Default,Mik,0000,0000,0000,,Bem... Carne frita com gengibre!
+Dialogue: 0,0:06:14.60,0:06:16.21,Default,Mom,0000,0000,0000,,Então será carne frita com gengibre.
+Dialogue: 0,0:06:16.21,0:06:18.31,Default,Mom,0000,0000,0000,,Em seguida, a chave da bicicleta.
+Dialogue: 0,0:06:18.83,0:06:21.02,Default,Mom,0000,0000,0000,,A chave da bicicleta.
+Dialogue: 0,0:06:22.18,0:06:24.07,Default,Mom,0000,0000,0000,,Ei, eu acho que...
+Dialogue: 0,0:06:24.61,0:06:28.03,Default,Mom,0000,0000,0000,,A chave da bicicleta...
+Dialogue: 0,0:06:29.38,0:06:30.99,Default,Mom,0000,0000,0000,,Ah! Achei!
+Dialogue: 0,0:06:31.28,0:06:37.58,Default,Mom,0000,0000,0000,,Mikan, temos cenouras e batatas, então acho \Nque vou fazer curry, carne com batatas ou sopa.
+Dialogue: 0,0:06:37.58,0:06:38.97,Default,Mom,0000,0000,0000,,O que eu devo fazer?
+Dialogue: 0,0:06:39.47,0:06:41.00,Default,Mik,0000,0000,0000,,O quê?
+Dialogue: 0,0:06:41.35,0:06:43.76,Default,Mom,0000,0000,0000,,Sim, e me dê sua marmita para eu lavar.
+Dialogue: 0,0:06:46.20,0:06:49.54,Default,Mom,0000,0000,0000,,Será que eu devia passar o aspirador? \NParece que tem borracha em todo o chão.
+Dialogue: 0,0:06:51.14,0:06:53.60,Default,Mom,0000,0000,0000,,Então? O que vai ser para o jantar?
+Dialogue: 0,0:06:53.60,0:06:57.94,Default,Mom,0000,0000,0000,,Curry? Carne com batatas? \NSopa de porco? O que eu faço?
+Dialogue: 0,0:07:03.16,0:07:07.32,Default,Mik,0000,0000,0000,,Ei, eu já disse para não \Nfalar tudo de uma vez!
+Dialogue: 0,0:07:07.80,0:07:12.79,Default,Mik,0000,0000,0000,,Olha só! As garrafas que você me deu \Nessa manhã e eu esqueci de jogar fora!
+Dialogue: 0,0:07:12.79,0:07:16.18,Default,Mom,0000,0000,0000,,Ah! Aí está a chave da bicicleta!
+Dialogue: 0,0:07:17.62,0:07:19.07,Default,Mom,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:07:19.07,0:07:22.32,Default,Mom,0000,0000,0000,,Eu vou cuidar do pneu furado, então\N eu jogo as garrafas fora no caminho.
+Dialogue: 0,0:07:22.32,0:07:23.96,Default,Mom,0000,0000,0000,,Vou levar sua marmita também.
+Dialogue: 0,0:07:24.24,0:07:25.55,Default,Mik,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:07:25.92,0:07:27.13,Default,Mom,0000,0000,0000,,E o jantar vai ser?
+Dialogue: 0,0:07:27.13,0:07:27.97,Default,Mik,0000,0000,0000,,Curry, por favor.
+Dialogue: 0,0:07:27.97,0:07:28.93,Default,Mom,0000,0000,0000,,Entendido.
+Dialogue: 0,0:07:31.64,0:07:34.28,Default,Mik,0000,0000,0000,,As pessoas deviam falar uma coisa de cada vez.
+Dialogue: 0,0:07:34.64,0:07:35.34,Default,Mik,0000,0000,0000,,Ué?
+Dialogue: 0,0:07:36.12,0:07:38.06,Default,Mik,0000,0000,0000,,Eu sinto como se estivesse \Nesquecendo de alguma coisa.
+Dialogue: 0,0:07:39.89,0:07:43.48,Default,Girl,0000,0000,0000,,Ela disse que ia me ligar de volta, não é?
+Dialogue: 0,0:07:46.48,0:07:49.07,Default,Meat,0000,0000,0000,,Eu fui completamente esquecido.
+Dialogue: 0,0:07:52.03,0:07:54.99,Signs,Text,0000,0000,0000,,{\c&H6135E8&\3c&H351C4D&}Ding!
+Dialogue: 0,0:07:53.35,0:07:54.99,Atashinchi 7,Text,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:07:58.35,0:07:59.95,Atashinchi 6,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:08:03.98,0:08:05.11,Default,Mik,0000,0000,0000,,Mãe?
+Dialogue: 0,0:08:05.11,0:08:05.63,Default,Mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:05.63,0:08:07.15,Default,Mik,0000,0000,0000,,Podemos entrar um pouco?
+Dialogue: 0,0:08:07.15,0:08:08.09,Default,Mom,0000,0000,0000,,Claro.
+Dialogue: 0,0:08:13.93,0:08:15.48,Default,Mom,0000,0000,0000,,Aquela pessoa...
+Dialogue: 0,0:08:15.48,0:08:17.35,Default,Mik,0000,0000,0000,,Sim, qual era o nome dela?
+Dialogue: 0,0:08:17.35,0:08:18.95,Default,Mik,0000,0000,0000,,Nós a conhecemos, não é?
+Dialogue: 0,0:08:19.70,0:08:21.44,Default,Mom,0000,0000,0000,,Qual era o nome...
+Dialogue: 0,0:08:22.15,0:08:27.02,title,Tit,0000,0000,0000,,{\fad(666,1)\c&HFCFEFC&\3c&H777673&}Já Faz Tempo Que Estamos Aqui
+Dialogue: 0,0:08:28.25,0:08:29.53,Default,Mom,0000,0000,0000,,Isso está me incomodando.
+Dialogue: 0,0:08:29.53,0:08:30.48,Default,Mom,0000,0000,0000,,Quem era ela?
+Dialogue: 0,0:08:30.90,0:08:32.75,Default,Mik,0000,0000,0000,,Alguém da nossa antiga vizinhança?
+Dialogue: 0,0:08:32.75,0:08:35.36,Default,Mom,0000,0000,0000,,Não, alguém que conhecemos há pouco tempo.
+Dialogue: 0,0:08:35.36,0:08:36.88,Default,Mik,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:08:37.98,0:08:41.41,Default,Mom,0000,0000,0000,,Está na ponta da minha língua!
+Dialogue: 0,0:08:41.41,0:08:46.38,Signs,Sign,0000,0000,0000,,{\3c&HE78050&\bord2}Caixa
+Dialogue: 0,0:08:43.48,0:08:44.66,Default,Cash,0000,0000,0000,,Próximo!
+Dialogue: 0,0:08:44.66,0:08:45.78,Default,Mom,0000,0000,0000,,É ela!
+Dialogue: 0,0:08:49.64,0:08:52.03,Default,Mom,0000,0000,0000,,É verdade, ela trabalha aqui!
+Dialogue: 0,0:08:52.03,0:08:55.05,Default,Mik,0000,0000,0000,,Eu nem a reconheci sem o casaco branco.
+Dialogue: 0,0:08:55.05,0:08:56.18,Default,Mom,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:08:56.18,0:08:57.95,Default,Mom,0000,0000,0000,,Que bom que descobrimos.
+Dialogue: 0,0:09:01.80,0:09:03.29,Default,Mom,0000,0000,0000,,Hã? Me desculpe.
+Dialogue: 0,0:09:10.74,0:09:12.70,Default,Mom,0000,0000,0000,,Eu conheço aquela pessoa.
+Dialogue: 0,0:09:13.18,0:09:14.32,Default,Mik,0000,0000,0000,,Quem era mesmo?
+Dialogue: 0,0:09:14.32,0:09:15.44,Default,Mom,0000,0000,0000,,Quem será?
+Dialogue: 0,0:09:17.85,0:09:19.46,Default,mom,0000,0000,0000,,Mas é complicado.
+Dialogue: 0,0:09:19.46,0:09:21.70,Default,mom,0000,0000,0000,,Agora temos muitos rostos conhecidos aqui.
+Dialogue: 0,0:09:21.91,0:09:24.54,Default,Mik,0000,0000,0000,,Quando nos mudamos para cá?
+Dialogue: 0,0:09:24.54,0:09:27.35,Default,Mom,0000,0000,0000,,Já faz quase dez anos.
+Dialogue: 0,0:09:27.65,0:09:29.17,Default,Mom,0000,0000,0000,,Como o tempo passa.
+Dialogue: 0,0:09:30.06,0:09:32.63,Default,Mom,0000,0000,0000,,O quê? Isso era um terreno\N baldio há muito tempo.
+Dialogue: 0,0:09:33.00,0:09:34.66,Default,Mik,0000,0000,0000,,Ficou pronto faz pouco tempo.
+Dialogue: 0,0:09:34.66,0:09:36.80,Default,Mom,0000,0000,0000,,Que chique!
+Dialogue: 0,0:09:37.09,0:09:39.08,Default,Mik,0000,0000,0000,,E a comida parece uma delicia.
+Dialogue: 0,0:09:39.08,0:09:40.80,Default,Mik,0000,0000,0000,,Ei, por que não damos uma olhada?
+Dialogue: 0,0:09:41.03,0:09:42.18,Default,Mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:09:42.18,0:09:44.30,Default,Mik,0000,0000,0000,,Ah, só um pouquinho!
+Dialogue: 0,0:09:44.30,0:09:44.96,Default,Mik,0000,0000,0000,,E então?
+Dialogue: 0,0:09:45.36,0:09:48.42,Default,Mom,0000,0000,0000,,Você sabia que você costumava\N usar esse lugar de banheiro?
+Dialogue: 0,0:09:48.42,0:09:49.27,Default,Mik,0000,0000,0000,,O quê?
+Dialogue: 0,0:09:49.27,0:09:53.60,Default,Mom,0000,0000,0000,,Quando você era pequena, nós \Nsempre parávamos aqui com você.
+Dialogue: 0,0:09:56.36,0:09:57.95,flashback,Mik,0000,0000,0000,,Quero fazer xixi!
+Dialogue: 0,0:09:58.78,0:10:00.75,flashback,Mom,0000,0000,0000,,Hã? Aqui?
+Dialogue: 0,0:10:01.64,0:10:03.11,flashback,Mik,0000,0000,0000,,Eu não consigo me segurar!
+Dialogue: 0,0:10:03.11,0:10:06.20,flashback,Mom,0000,0000,0000,,Bem, não temos escolha, faça ali.
+Dialogue: 0,0:10:06.20,0:10:07.60,flashback,Mom,0000,0000,0000,,Eu vou ficar olhando.
+Dialogue: 0,0:10:10.76,0:10:13.71,Default,Mom,0000,0000,0000,,Esse terreno baldio nos ajudou muitas vezes!
+Dialogue: 0,0:10:13.71,0:10:16.67,Default,Mik,0000,0000,0000,,Eu não me lembro de nada disso!
+Dialogue: 0,0:10:16.67,0:10:20.12,top,Mom,0000,0000,0000,,A Mikan era tão pequena...
+Dialogue: 0,0:10:16.84,0:10:19.87,flashback,Mik,0000,0000,0000,,Quero fazer xixi!
+Dialogue: 0,0:10:20.12,0:10:23.14,top,Mom,0000,0000,0000,,Olha como ela cresceu!
+Dialogue: 0,0:10:24.08,0:10:28.10,Default,Mom,0000,0000,0000,,Parece que o seu antigo banheiro \Nvirou uma cafeteria chique agora.
+Dialogue: 0,0:10:28.52,0:10:30.56,Default,Mik,0000,0000,0000,,Pare com isso!
+Dialogue: 0,0:10:32.39,0:10:35.35,Default,Mom,0000,0000,0000,,Eu já moro aqui faz algum tempo.
+Dialogue: 0,0:10:37.91,0:10:41.20,Atashinchi 4,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:10:42.00,0:10:44.19,Default,Mom,0000,0000,0000,,Nós costumávamos vir brincar muito aqui.
+Dialogue: 0,0:10:44.19,0:10:45.13,Default,Mik,0000,0000,0000,,Sim.
+Dialogue: 0,0:10:45.92,0:10:47.61,Default,Mom,0000,0000,0000,,Olha aquelas barras!
+Dialogue: 0,0:10:48.12,0:10:51.34,Default,Mom,0000,0000,0000,,Foi lá a primeira vez que \Nvocê girou em uma barra.
+Dialogue: 0,0:10:52.02,0:10:54.50,Default,Mom,0000,0000,0000,,Você consegue!
+Dialogue: 0,0:11:00.86,0:11:05.01,Default,mom,0000,0000,0000,,Como essas árvores de Ginkgo cresceram.
+Dialogue: 0,0:11:05.01,0:11:07.97,Default,Mik,0000,0000,0000,,Nós costumávamos colher nozes.
+Dialogue: 0,0:11:12.17,0:11:18.86,Signs,txt,0000,0000,0000,,{\c&HC37B57&\3c&HF6E5BA&}Clinica Pediátrica Takehara
+Dialogue: 0,0:11:13.58,0:11:16.85,Default,Mom,0000,0000,0000,,E o jovem médico que trabalhava\N aqui se casou faz pouco tempo.
+Dialogue: 0,0:11:16.85,0:11:18.33,Default,Mom,0000,0000,0000,,Você ficou arrasada, Mikan.
+Dialogue: 0,0:11:18.33,0:11:18.86,Default,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:11:19.98,0:11:24.12,Default,Mom,0000,0000,0000,,Você era apaixonada pelo jovem médico.
+Dialogue: 0,0:11:23.65,0:11:25.08,flashback,Mik,0000,0000,0000,,Doutor!
+Dialogue: 0,0:11:25.08,0:11:27.47,Default,Mik,0000,0000,0000,,Há quantos anos foi isso?
+Dialogue: 0,0:11:27.47,0:11:29.03,Default,Mik,0000,0000,0000,,Não me lembro de nada disso.
+Dialogue: 0,0:11:29.03,0:11:30.71,Default,Mom,0000,0000,0000,,Que saudades.
+Dialogue: 0,0:11:30.71,0:11:32.64,Default,Mom,0000,0000,0000,,Todo lugar que eu olho, \Neu tenho uma memória.
+Dialogue: 0,0:11:35.09,0:11:36.84,Atashinchi,Txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:11:43.04,0:11:44.93,Default,Mik,0000,0000,0000,,Hã? O que foi?
+Dialogue: 0,0:11:44.93,0:11:46.76,Default,Mom,0000,0000,0000,,Continue... Continue!
+Dialogue: 0,0:11:47.86,0:11:50.73,Default,Mik,0000,0000,0000,,É muito difícil caminhar assim!
+Dialogue: 0,0:11:52.24,0:11:54.38,Default,Mik,0000,0000,0000,,O quê? Outro conhecido?
+Dialogue: 0,0:11:54.38,0:11:56.32,Default,Mom,0000,0000,0000,,Eu costumava vir nesse salão de beleza.
+Dialogue: 0,0:11:56.32,0:12:00.19,Default,Mom,0000,0000,0000,,Mas a Sra. Mizushima me apresentou\N um novo e eu nunca mais voltei aqui.
+Dialogue: 0,0:12:02.07,0:12:02.90,Default,Wom,0000,0000,0000,,Hã?
+Dialogue: 0,0:12:03.61,0:12:05.89,Default,Mom,0000,0000,0000,,Eu só me sinto mal.
+Dialogue: 0,0:12:05.89,0:12:11.67,Default,Mom,0000,0000,0000,,"Onde você esteve, Sra. Tachibana? Eu espero \Nque não tenha uma experiência desagradável".
+Dialogue: 0,0:12:11.67,0:12:13.62,Default,Mom,0000,0000,0000,,Eu não iria querer que ela pensasse nisso.
+Dialogue: 0,0:12:15.65,0:12:17.21,Default,Mik,0000,0000,0000,,E agora?
+Dialogue: 0,0:12:17.21,0:12:18.92,Default,Mom,0000,0000,0000,,É o farmacêutico.
+Dialogue: 0,0:12:29.75,0:12:30.85,Default,Mik,0000,0000,0000,,Mãe!
+Dialogue: 0,0:12:41.87,0:12:43.61,flashback,Doc,0000,0000,0000,,Por favor, coloque a língua para fora.
+Dialogue: 0,0:12:44.56,0:12:46.54,flashback,Doc,0000,0000,0000,,Não precisa fazer barulho.
+Dialogue: 0,0:12:47.74,0:12:49.79,flashback,Doc,0000,0000,0000,,Não precisa fazer barulho.
+Dialogue: 0,0:12:53.62,0:12:57.41,flashback,Doc,0000,0000,0000,,Preparei um remédio perfeito\N para o corpo da senhora.
+Dialogue: 0,0:12:57.41,0:13:00.87,flashback,Doc,0000,0000,0000,,Por favor, tome isso durante uma\N semana e me diga o resultado.
+Dialogue: 0,0:13:06.21,0:13:06.97,flashback,Mom,0000,0000,0000,,Que nojo!
+Dialogue: 0,0:13:06.97,0:13:08.87,italic,Mom,0000,0000,0000,,Eu parei na mesma hora.
+Dialogue: 0,0:13:09.37,0:13:11.43,italic,Mom,0000,0000,0000,,Não posso dar as caras na frente dele!
+Dialogue: 0,0:13:16.37,0:13:17.70,Default,mom,0000,0000,0000,,Ora, ora...
+Dialogue: 0,0:13:17.70,0:13:20.23,Default,mom,0000,0000,0000,,Eu já moro aqui faz tempo.
+Dialogue: 0,0:13:26.23,0:13:28.99,Default,mom,0000,0000,0000,,Eu esqueci de descer o lixo!
+Dialogue: 0,0:13:43.63,0:13:45.55,Default,mom,0000,0000,0000,,Esperem!
+Dialogue: 0,0:13:50.01,0:13:54.98,Default,mom,0000,0000,0000,,Mas eu... ainda tenho... \Num truque... na manga.
+Dialogue: 0,0:13:56.39,0:14:00.86,Default,mom,0000,0000,0000,,Se eu vier por aqui... E por aqui...
+Dialogue: 0,0:14:07.91,0:14:09.91,Default,mom,0000,0000,0000,,E de novo, por aqui!
+Dialogue: 0,0:14:09.91,0:14:15.42,Default,mom,0000,0000,0000,,Seis passos e um salto!
+Dialogue: 0,0:14:29.65,0:14:31.55,Default,Man,0000,0000,0000,,Ela passa muito por aqui...
+Dialogue: 0,0:14:33.61,0:14:35.22,Default,Mom,0000,0000,0000,,Consegui!
+Dialogue: 0,0:14:37.64,0:14:39.86,Default,Mom,0000,0000,0000,,Por favor, peguem isso.
+Dialogue: 0,0:14:39.86,0:14:41.15,Default,Guy,0000,0000,0000,,S-Sim.
+Dialogue: 0,0:14:42.98,0:14:47.25,Default,Mom,0000,0000,0000,,Eu já moro aqui faz muito tempo.
+Dialogue: 0,0:14:51.35,0:14:55.04,Atashinchi 8,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:14:57.43,0:14:59.33,Atashinchi,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:14:59.97,0:15:03.29,Default,Yuz,0000,0000,0000,,Mana, é verdade que você acabou \Nde comer o último tomate-cereja?
+Dialogue: 0,0:15:04.20,0:15:05.42,Default,Mik,0000,0000,0000,,E daí?
+Dialogue: 0,0:15:05.83,0:15:10.22,Default,Yuz,0000,0000,0000,,Tinha cinco, o que significa que cada um pegaria \Ndois e depois decidiríamos o que fazer com o outro.
+Dialogue: 0,0:15:10.53,0:15:15.03,Default,Mik,0000,0000,0000,,Como você é mesquinho às vezes. Não é \Ncomo se eu estivesse prestando atenção.
+Dialogue: 0,0:15:16.13,0:15:20.14,Default,Yuz,0000,0000,0000,,Você sempre acaba com toda a comida!
+Dialogue: 0,0:15:20.61,0:15:23.17,Default,Mom,0000,0000,0000,,Vocês dois podem parar com isso?
+Dialogue: 0,0:15:23.17,0:15:25.63,Default,Mom,0000,0000,0000,,Brigar o tempo todo não adianta nada.
+Dialogue: 0,0:15:25.63,0:15:29.74,Default,Mom,0000,0000,0000,,Olhem para o seu pai, ele está\N comendo sem dizer nada.
+Dialogue: 0,0:15:33.84,0:15:38.58,title,Tit,0000,0000,0000,,{\fad(666,1)\c&H3E73EE&\3c&HFFFFFF&}O Potencial do Pai É Grande
+Dialogue: 0,0:15:46.30,0:15:47.46,Default,Mom,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:15:48.28,0:15:50.27,Default,Mom,0000,0000,0000,,Você está guardando isso, querido?
+Dialogue: 0,0:15:52.59,0:15:53.82,Default,Mom,0000,0000,0000,,Vou deixar aqui para você.
+Dialogue: 0,0:15:55.91,0:15:57.08,Default,Dad,0000,0000,0000,,Estou saindo.
+Dialogue: 0,0:15:59.53,0:16:01.30,Default,Mom,0000,0000,0000,,Tenha um bom dia!
+Dialogue: 0,0:16:07.64,0:16:11.32,Default,Text,0000,0000,0000,,{\an9}{\fad(333,1)\c&HFCFEFC&\3c&H9321BE&}Alguns dias depois
+Dialogue: 0,0:16:17.07,0:16:18.28,Default,Mik,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:16:25.14,0:16:26.48,Default,Mik,0000,0000,0000,,Ei...
+Dialogue: 0,0:16:27.22,0:16:29.49,Default,Mik,0000,0000,0000,,Isso está aqui faz tempo, o que é?
+Dialogue: 0,0:16:29.49,0:16:32.42,Default,Mom,0000,0000,0000,,É só uma coisa que o seu pai tirou do jornal.
+Dialogue: 0,0:16:33.23,0:16:35.89,Default,Mik,0000,0000,0000,,Posso jogar isso fora?
+Dialogue: 0,0:16:35.89,0:16:38.49,Default,Mom,0000,0000,0000,,Não! Pergunte para ele primeiro!
+Dialogue: 0,0:16:38.49,0:16:39.76,Default,Mik,0000,0000,0000,,Tá bem.
+Dialogue: 0,0:16:40.36,0:16:41.94,Default,Mik,0000,0000,0000,,Mas só atrapalha...
+Dialogue: 0,0:16:49.00,0:16:51.49,Signs,Tex,0000,0000,0000,,{\c&H242523&\3c&HFFFFFF&}A Descoberta do Século
+Dialogue: 0,0:16:54.57,0:16:56.53,Default,Mom,0000,0000,0000,,Ela está certa, pode jogar fora.
+Dialogue: 0,0:16:58.49,0:17:00.00,Default,Mik,0000,0000,0000,,Ah, você jogou fora.
+Dialogue: 0,0:17:00.27,0:17:02.52,Default,Mom,0000,0000,0000,,Eu não gostava muito.
+Dialogue: 0,0:17:02.52,0:17:03.58,Default,Mom,0000,0000,0000,,Duvido que ele precise.
+Dialogue: 0,0:17:03.90,0:17:07.42,Default,Mik,0000,0000,0000,,Você me disse para perguntar\N para ele antes de jogar fora!
+Dialogue: 0,0:17:07.75,0:17:09.92,Default,Mom,0000,0000,0000,,Tudo bem, tudo bem...
+Dialogue: 0,0:17:17.73,0:17:19.43,Atashinchi,txt,0000,0000,0000,,{\fad(333,1)\c&HFFFFFF&}Novo Atashinchi
+Dialogue: 0,0:17:25.27,0:17:27.28,italic,TV,0000,0000,0000,,{\a6}E, hoje, vamos falar sobre...
+Dialogue: 0,0:17:27.28,0:17:32.06,Default,Mom,0000,0000,0000,,Querido, essa conserva de alho-poró \Nacabou de passar do prazo de validade.
+Dialogue: 0,0:17:32.06,0:17:33.03,Default,Mom,0000,0000,0000,,Quer comer?
+Dialogue: 0,0:17:54.01,0:17:57.23,Default,Mik,0000,0000,0000,,Pai, aquele artigo que você tinha\N tirado do jornal e deixou ali...
+Dialogue: 0,0:17:57.23,0:17:59.09,Default,Mik,0000,0000,0000,,A mamãe jogou ele fora, podia?
+Dialogue: 0,0:18:03.03,0:18:06.98,Default,Mik,0000,0000,0000,,Um artigo. Do lado do telefone.
+Dialogue: 0,0:18:08.94,0:18:10.19,Default,Dad,0000,0000,0000,,Artigo?
+Dialogue: 0,0:18:16.99,0:18:17.74,Default,Dad,0000,0000,0000,,O que era mesmo?
+Dialogue: 0,0:18:19.85,0:18:20.80,Default,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:18:20.80,0:18:23.13,Default,Mom,0000,0000,0000,,O seu pai é assim mesmo.
+Dialogue: 0,0:18:23.13,0:18:25.81,Default,Mik,0000,0000,0000,,Acho que ele não precisava\N mesmo daquele artigo.
+Dialogue: 0,0:18:25.81,0:18:29.01,Default,Mom,0000,0000,0000,,Ele o pegou por algum motivo.
+Dialogue: 0,0:18:29.01,0:18:30.67,Default,Mik,0000,0000,0000,,Ele se esqueceu?
+Dialogue: 0,0:18:30.67,0:18:33.25,Default,Mom,0000,0000,0000,,É porque ele é maior que isso.
+Dialogue: 0,0:18:33.25,0:18:35.35,Default,Mom,0000,0000,0000,,Ele não pode se preocupar com detalhes.
+Dialogue: 0,0:18:45.15,0:18:47.43,Default,Dad,0000,0000,0000,,Aquele artigo do jornal.
+Dialogue: 0,0:18:48.07,0:18:52.80,Default,Mom,0000,0000,0000,,Eu adoro que ele não se incomoda\N com pequenos detalhes.
+Dialogue: 0,0:18:52.80,0:18:54.57,Default,Mom,0000,0000,0000,,Ele é tão masculino.
+Dialogue: 0,0:18:58.89,0:19:00.36,Default,Mom,0000,0000,0000,,Ele agiu assim mais cedo também.
+Dialogue: 0,0:19:01.00,0:19:02.45,Default,Mik,0000,0000,0000,,Mais cedo?
+Dialogue: 0,0:19:10.23,0:19:15.34,Default,Mom,0000,0000,0000,,Aquela conserva de alho-poró já \Ntinha passado do prazo de validade,
+Dialogue: 0,0:19:15.34,0:19:18.18,Default,Mom,0000,0000,0000,,mas o seu pai comeu sem reclamar.
+Dialogue: 0,0:19:18.18,0:19:20.53,Default,Mom,0000,0000,0000,,Ele adorou!
+Dialogue: 0,0:19:22.15,0:19:24.01,Default,Mik,0000,0000,0000,,Você devia fazer isso mesmo?
+Dialogue: 0,0:19:24.32,0:19:26.84,Default,Mom,0000,0000,0000,,O seu pai não se importa!
+Dialogue: 0,0:19:26.84,0:19:28.48,Default,Mom,0000,0000,0000,,E ele tem um estômago forte.
+Dialogue: 0,0:19:34.36,0:19:36.15,Default,Mom,0000,0000,0000,,Aqueles chinelos.
+Dialogue: 0,0:19:36.15,0:19:38.40,Default,Mik,0000,0000,0000,,Eles estão bem acabados.
+Dialogue: 0,0:19:38.84,0:19:41.79,Default,Mom,0000,0000,0000,,Ele deve gostar deles, já \Nque os tem há tanto tempo,
+Dialogue: 0,0:19:41.79,0:19:44.62,Default,Mom,0000,0000,0000,,mas sei que, se eu os jogasse\N fora, ele não reclamaria.
+Dialogue: 0,0:19:45.40,0:19:47.20,Default,Mik,0000,0000,0000,,Você vai jogar eles fora do nada?
+Dialogue: 0,0:19:48.90,0:19:50.28,Default,Mom,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:19:50.28,0:19:52.39,Default,Mom,0000,0000,0000,,O seu pai é tão gentil.
+Dialogue: 0,0:19:52.39,0:19:54.38,Default,Mom,0000,0000,0000,,Mesmo que ele percebesse,\N ele não ficaria irritado.
+Dialogue: 0,0:19:59.31,0:20:03.80,Default,Mom,0000,0000,0000,,Lembra daquela camiseta que ele \Nsempre usava, com bandeiras dos países?
+Dialogue: 0,0:20:05.30,0:20:07.07,Default,Mik,0000,0000,0000,,Aquela coisa brega?
+Dialogue: 0,0:20:07.51,0:20:12.03,Default,Mom,0000,0000,0000,,Ela já estava um trapo, então \Nusei para fazer pano de chão.
+Dialogue: 0,0:20:16.05,0:20:18.53,Default,Mik,0000,0000,0000,,Até ele se incomodaria com isso.
+Dialogue: 0,0:20:19.86,0:20:24.49,Default,Mom,0000,0000,0000,,Alguém como ele jamais perceberia algo assim.
+Dialogue: 0,0:20:30.61,0:20:32.07,Default,Mom,0000,0000,0000,,Isso me lembra.
+Dialogue: 0,0:20:32.52,0:20:36.29,Default,Mom,0000,0000,0000,,Tem uma coisa que eu jamais devia jogar fora.
+Dialogue: 0,0:20:36.29,0:20:37.30,Default,Mik,0000,0000,0000,,O que é?
+Dialogue: 0,0:20:41.97,0:20:44.33,Default,Mik,0000,0000,0000,,O que tem nessa caixa suja?
+Dialogue: 0,0:20:44.33,0:20:47.30,Default,Mom,0000,0000,0000,,É a luva de beisebol do seu pai.
+Dialogue: 0,0:20:49.87,0:20:53.69,Default,Mom,0000,0000,0000,,Ele a usava quando era jovem.
+Dialogue: 0,0:20:54.43,0:20:56.63,Default,Mik,0000,0000,0000,,Já faz tanto tempo assim?
+Dialogue: 0,0:20:56.95,0:20:58.56,Default,Mom,0000,0000,0000,,Tenho medo de abrir.
+Dialogue: 0,0:21:00.76,0:21:02.63,Default,Mom,0000,0000,0000,,Mas vou abrir.
+Dialogue: 0,0:21:25.88,0:21:27.97,Default,Mik,0000,0000,0000,,Que cheiro horrível!
+Dialogue: 0,0:21:30.68,0:21:32.52,Default,Mom,0000,0000,0000,,É o mofo! Mofo!
+Dialogue: 0,0:21:39.55,0:21:40.88,Default,mik,0000,0000,0000,,Pai!
+Dialogue: 0,0:21:40.88,0:21:43.11,Default,Mom,0000,0000,0000,,Me desculpe, eu acordei você?
+Dialogue: 0,0:21:52.01,0:21:55.04,Atashinchi 9,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,A Mãe de Yuzupi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,Boliche das Mães
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,Cuidado Com o Olhar Ameaçador da Mãe!
+Dialogue: 0,0:22:55.42,0:22:57.50,Default,mik,0000,0000,0000,,No próximo episódio de {\i1}Novo Atashinchi{\i0}:
+Dialogue: 0,0:22:57.50,0:22:58.97,Default,mik,0000,0000,0000,,"A Mãe de Yuzupi"
+Dialogue: 0,0:22:58.97,0:23:00.09,Default,mik,0000,0000,0000,,E outros dois episódios...
+Dialogue: 0,0:23:01.63,0:23:03.99,Default,guy,0000,0000,0000,,Ei, me passe o molho de soja!

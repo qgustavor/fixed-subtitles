@@ -1,0 +1,459 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Main Dialogue - margin,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0005,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
+Style: Signs - Copy (2),Arial,20,&H002C2C2E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0080,0010,1
+Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0060,0040,0005,1
+Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,1,0110,0080,0080,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+Style: Atashinchi 15,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,4,0050,0080,0120,1
+Style: Atashinchi 16,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0120,0060,0090,1
+Style: dsadsadsadsa,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0090,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:56.55,0:00:58.45,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:00:58.98,0:01:00.99,italic,Mik,0000,0000,0000,,Hoje é véspera de Natal.
+Dialogue: 0,0:01:01.26,0:01:05.92,italic,Mik,0000,0000,0000,,O vento está bem gelado, mas\N com essas decorações alegres
+Dialogue: 0,0:01:05.92,0:01:08.38,italic,Mik,0000,0000,0000,,dá para aquecer os nossos corações.
+Dialogue: 0,0:01:11.39,0:01:17.26,italic,Mik,0000,0000,0000,,Hoje à noite teremos uma festa de Natal com o\N meu clube de pesquisa de ursinhos de pelúcia.
+Dialogue: 0,0:01:17.55,0:01:22.26,title,Tit,0000,0000,0000,,{\fad(400,1)}Um Natal de Urso
+Dialogue: 0,0:01:22.26,0:01:24.07,Main Dialogue,Girl,0000,0000,0000,,Acho que está na hora do bolo.
+Dialogue: 0,0:01:24.07,0:01:25.60,Main Dialogue,Girl2,0000,0000,0000,,Sim!
+Dialogue: 0,0:01:25.60,0:01:27.06,Main Dialogue,Girl2,0000,0000,0000,,Mikan, pode trazer?
+Dialogue: 0,0:01:29.52,0:01:32.84,Main Dialogue,Mik,0000,0000,0000,,Comprei um bolo de seis fatias,\N espero que seja suficiente.
+Dialogue: 0,0:01:32.84,0:01:34.39,Main Dialogue,Girl,0000,0000,0000,,Parece estar perfeito.
+Dialogue: 0,0:01:34.39,0:01:36.06,Main Dialogue,Mik,0000,0000,0000,,Certo, vamos nessa!
+Dialogue: 0,0:01:36.06,0:01:36.65,Main Dialogue,Mik,0000,0000,0000,,Ei...
+Dialogue: 0,0:01:39.23,0:01:41.22,Main Dialogue,Mik,0000,0000,0000,,Eita. Acho que é pequeno demais.
+Dialogue: 0,0:01:41.22,0:01:42.92,Main Dialogue,Girl,0000,0000,0000,,Não, tudo bem.
+Dialogue: 0,0:01:42.92,0:01:46.06,Main Dialogue,Girl,0000,0000,0000,,É tão... tradicional.
+Dialogue: 0,0:01:46.06,0:01:50.03,Main Dialogue,Mik,0000,0000,0000,,Eu gosto mesmo é daquele com \No Papai Noel e creme de leite.
+Dialogue: 0,0:01:50.03,0:01:51.22,Main Dialogue,Girl,0000,0000,0000,,Eu também!
+Dialogue: 0,0:01:51.22,0:01:52.21,Main Dialogue,Girl2,0000,0000,0000,,Sim.
+Dialogue: 0,0:01:52.45,0:01:54.52,Main Dialogue,Girl2,0000,0000,0000,,Bem, somos cinco...
+Dialogue: 0,0:01:54.52,0:01:56.99,Main Dialogue,Girl,0000,0000,0000,,Fazer cinco partes iguais é tão difícil...
+Dialogue: 0,0:01:58.20,0:02:00.64,Main Dialogue,Girl3,0000,0000,0000,,É a hora perfeita para usar isto.
+Dialogue: 0,0:02:01.00,0:02:05.73,Main Dialogue,Girl3,0000,0000,0000,,Apenas imagine uma estrela no meio\N do bolo com as pontas na borda.
+Dialogue: 0,0:02:05.73,0:02:09.48,Main Dialogue,Girl3,0000,0000,0000,,Corte do centro até as pontas e \Nvocê terá cinco fatias perfeitas!
+Dialogue: 0,0:02:09.48,0:02:11.21,Main Dialogue,Girl,0000,0000,0000,,Entendi!
+Dialogue: 0,0:02:15.57,0:02:17.52,Main Dialogue,Girl2,0000,0000,0000,,Bom trabalho!
+Dialogue: 0,0:02:20.80,0:02:22.58,Main Dialogue,Mik,0000,0000,0000,,Certo, pessoal, peguem um pedaço!
+Dialogue: 0,0:02:23.17,0:02:25.87,Main Dialogue,Girl,0000,0000,0000,,Nós devíamos decidir quem pega qual...
+Dialogue: 0,0:02:26.54,0:02:27.29,Main Dialogue,Mik,0000,0000,0000,,Ah, sim...
+Dialogue: 0,0:02:27.29,0:02:29.27,Main Dialogue,Girl,0000,0000,0000,,Isso costumava ser um problema\N quando eu era pequena.
+Dialogue: 0,0:02:29.27,0:02:31.96,Main Dialogue,Girl2,0000,0000,0000,,Nós costumávamos deixar justo \Nmudando os morangos e coisa assim.
+Dialogue: 0,0:02:32.37,0:02:33.64,Main Dialogue,Girl,0000,0000,0000,,Entendo.
+Dialogue: 0,0:02:33.64,0:02:35.34,Main Dialogue,Girl,0000,0000,0000,,Certo, que pedaço vocês querem?
+Dialogue: 0,0:02:35.67,0:02:37.44,Main Dialogue,Girl1,0000,0000,0000,,Por mim qualquer um.
+Dialogue: 0,0:02:37.44,0:02:39.59,Main Dialogue,Girl2,0000,0000,0000,,Eu também, eu pego o que sobrar.
+Dialogue: 0,0:02:39.59,0:02:42.97,Main Dialogue,Girl2,0000,0000,0000,,As decorações em cima \Nnão são tão boas mesmo.
+Dialogue: 0,0:02:44.41,0:02:46.33,Main Dialogue,Girl1,0000,0000,0000,,Então eu acho que podemos pegar um pedaço.
+Dialogue: 0,0:02:46.33,0:02:48.51,Main Dialogue,Mik,0000,0000,0000,,Bem... O Papai Noel...
+Dialogue: 0,0:02:48.51,0:02:49.99,Main Dialogue,Girl,0000,0000,0000,,Você quer o pedaço do Papai Noel?
+Dialogue: 0,0:02:49.99,0:02:54.77,Main Dialogue,Mik,0000,0000,0000,,Não, é que eu tenho uma \Nlembrança desse Papai Noel.
+Dialogue: 0,0:02:55.02,0:02:56.62,Main Dialogue,Girl,0000,0000,0000,,O que é?
+Dialogue: 0,0:02:56.62,0:02:59.24,Main Dialogue,Girl2,0000,0000,0000,,Você devia nos contar.
+Dialogue: 0,0:03:00.13,0:03:01.38,Main Dialogue,Mik,0000,0000,0000,,Bem, é que na verdade...
+Dialogue: 0,0:03:02.44,0:03:04.24,flashback,Mom,0000,0000,0000,,Bom, vou cortar o bolo!
+Dialogue: 0,0:03:04.24,0:03:06.14,flashback,Mik,0000,0000,0000,,Eu queria ficar com o Papai Noel.
+Dialogue: 0,0:03:06.14,0:03:08.70,flashback,Mom,0000,0000,0000,,Yuzinho, quer ficar com a casa de chocolate?
+Dialogue: 0,0:03:09.06,0:03:11.67,flashback,Mom,0000,0000,0000,,Mas elas não são tão gostosas, sabia...
+Dialogue: 0,0:03:11.67,0:03:13.42,flashback,Mom,0000,0000,0000,,Você acabou de pegar e comer!
+Dialogue: 0,0:03:18.14,0:03:19.34,flashback,Mom,0000,0000,0000,,Viu?
+Dialogue: 0,0:03:22.60,0:03:24.43,flashback,Mik,0000,0000,0000,,Yuzinho, coma isto.
+Dialogue: 0,0:03:24.79,0:03:25.61,flashback,Yuu,0000,0000,0000,,Não.
+Dialogue: 0,0:03:25.61,0:03:26.39,flashback,Mik,0000,0000,0000,,Anda.
+Dialogue: 0,0:03:32.59,0:03:33.84,flashback,Yuu,0000,0000,0000,,Não é gostoso.
+Dialogue: 0,0:03:33.84,0:03:35.78,flashback,Mik,0000,0000,0000,,Viu, até o Yu disse que é ruim.
+Dialogue: 0,0:03:36.56,0:03:37.81,flashback,Mom,0000,0000,0000,,E daí?
+Dialogue: 0,0:03:37.81,0:03:38.93,flashback,Mom,0000,0000,0000,,Você não vai trocar agora.
+Dialogue: 0,0:03:38.93,0:03:41.29,flashback,Mom,0000,0000,0000,,A casa de chocolate é do seu irmão agora.
+Dialogue: 0,0:03:43.39,0:03:46.31,Main Dialogue,Girl,0000,0000,0000,,Por que você fez ele comer\N se sabia que era ruim?
+Dialogue: 0,0:03:46.31,0:03:47.86,Main Dialogue,Girl2,0000,0000,0000,,Que irmã mais má.
+Dialogue: 0,0:03:47.86,0:03:50.45,Main Dialogue,Girl2,0000,0000,0000,,Então, você está dizendo \Nque as decorações são ruins?
+Dialogue: 0,0:03:50.78,0:03:52.30,Main Dialogue,Mik,0000,0000,0000,,Bem...
+Dialogue: 0,0:03:53.14,0:03:55.04,Main Dialogue,Mik,0000,0000,0000,,Depois disso...
+Dialogue: 0,0:04:00.41,0:04:04.56,Main Dialogue,Mik,0000,0000,0000,,Eu olhei minha mãe comer todo ano \Ne sempre pareceu gostoso para mim.
+Dialogue: 0,0:04:06.91,0:04:08.11,Main Dialogue,Mik,0000,0000,0000,,E então, um ano...
+Dialogue: 0,0:04:08.84,0:04:10.18,flashback,Mom,0000,0000,0000,,Onde estão suas boas maneiras?
+Dialogue: 0,0:04:10.37,0:04:12.50,Main Dialogue,Mik,0000,0000,0000,,Experimentei de novo...
+Dialogue: 0,0:04:17.98,0:04:22.57,Main Dialogue - margin,Mik,0000,0000,0000,,Estava, de alguma forma, incrivelmente gostoso!
+Dialogue: 0,0:04:19.39,0:04:23.94,Signs - Copy (2),txt,0000,0000,0000,,{\c&HE04DF1&}Incrivelmente
+Dialogue: 0,0:04:22.57,0:04:24.25,Main Dialogue - margin,Girl,0000,0000,0000,,Quer dizer, só naquele ano?
+Dialogue: 0,0:04:24.25,0:04:24.99,Main Dialogue,Mik,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:04:24.99,0:04:27.07,Main Dialogue,Mik,0000,0000,0000,,Porque normalmente é duro e farelento, não é?
+Dialogue: 0,0:04:30.04,0:04:33.08,Main Dialogue,Mik,0000,0000,0000,,Mas naquele ano...
+Dialogue: 0,0:04:36.44,0:04:39.26,Main Dialogue,Mik,0000,0000,0000,,O Papai Noel era tão macio e consistente...
+Dialogue: 0,0:04:39.26,0:04:41.88,Main Dialogue,Mik,0000,0000,0000,,Uma doçura que se espalhava pela boca.
+Dialogue: 0,0:04:41.88,0:04:46.81,Main Dialogue,Mik,0000,0000,0000,,Eu não conseguia acreditar que um doce tão \Ndelicioso assim existisse, de tão bom que estava.
+Dialogue: 0,0:04:47.17,0:04:48.51,Main Dialogue,Mik,0000,0000,0000,,Foi tão bom...
+Dialogue: 0,0:04:59.22,0:05:03.61,Main Dialogue,Mik,0000,0000,0000,,Eu não queria dar nada para o Yuzu,\N então comi a rena também.
+Dialogue: 0,0:05:03.61,0:05:04.90,Main Dialogue,Girl,0000,0000,0000,,Você é a pior irmã.
+Dialogue: 0,0:05:05.45,0:05:09.16,Main Dialogue,Mik,0000,0000,0000,,Depois disso eu sempre \Npeguei o Papai Noel, mas...
+Dialogue: 0,0:05:10.86,0:05:12.63,dsadsadsadsa,txt,0000,0000,0000,,{\c&H815544&\3c&HBBFFAE&}Ano Seguinte
+Dialogue: 0,0:05:11.24,0:05:12.51,Main Dialogue,Mik,0000,0000,0000,,E no ano seguinte...
+Dialogue: 0,0:05:15.08,0:05:17.07,dsadsadsadsa,txt,0000,0000,0000,,{\c&H815544&\3c&HBBFFAE&}Ano Seguinte Desse
+Dialogue: 0,0:05:15.29,0:05:17.37,Main Dialogue,mik,0000,0000,0000,,E no ano seguinte desse...
+Dialogue: 0,0:05:19.17,0:05:21.94,dsadsadsadsa,txt,0000,0000,0000,,{\c&H815544&\3c&HBBFFAE&}Mais um Ano Depois Desse
+Dialogue: 0,0:05:19.75,0:05:22.24,Main Dialogue,mik,0000,0000,0000,,E mais um ano depois desse...
+Dialogue: 0,0:05:25.04,0:05:28.80,Main Dialogue,mik,0000,0000,0000,,Eu nunca mais saboreei \Nesse Papai Noel delicioso.
+Dialogue: 0,0:05:31.88,0:05:35.81,Main Dialogue,mik,0000,0000,0000,,Continuo voltando para esse momento,\N pensando que foi apenas um sonho.
+Dialogue: 0,0:05:36.11,0:05:38.27,Main Dialogue,Girl,0000,0000,0000,,Um milagre de Natal.
+Dialogue: 0,0:05:38.27,0:05:39.58,Main Dialogue,Girl2,0000,0000,0000,,Milagre?
+Dialogue: 0,0:05:39.58,0:05:45.74,Main Dialogue,Girl,0000,0000,0000,,A Mikan continua desejando que ela\N vá encontrar quem ela admira.
+Dialogue: 0,0:05:45.93,0:05:48.95,Main Dialogue,Mik,0000,0000,0000,,Quem eu... admiro?
+Dialogue: 0,0:05:48.95,0:05:53.33,Main Dialogue,Girl,0000,0000,0000,,Aquele que você só consegue\N encontrar uma vez por ano!
+Dialogue: 0,0:05:53.33,0:05:57.60,Main Dialogue,Girl,0000,0000,0000,,É quase como os seis meses de demora do conto\N de Hikoboshi e Orihime da Festa da Estrela.
+Dialogue: 0,0:06:11.45,0:06:14.43,flashback,Mik,0000,0000,0000,,Eu vim comê-lo mais uma vez este ano!
+Dialogue: 0,0:06:26.49,0:06:28.09,Main Dialogue,Girl,0000,0000,0000,,Agora eu entendo.
+Dialogue: 0,0:06:29.15,0:06:31.26,Main Dialogue,Girl,0000,0000,0000,,Pensando assim, até é bem purificante.
+Dialogue: 0,0:06:31.26,0:06:34.08,Main Dialogue,Girl2,0000,0000,0000,,Então tudo é para encontrar aquele\N papai noel delicioso de novo.
+Dialogue: 0,0:06:34.67,0:06:37.00,Main Dialogue,Girl2,0000,0000,0000,,Então, por que não pega este Papai Noel?
+Dialogue: 0,0:06:37.00,0:06:39.94,Main Dialogue,Mik,0000,0000,0000,,Me desculpe, parece que\N eu insisti ou coisa assim.
+Dialogue: 0,0:06:39.94,0:06:42.29,Main Dialogue,Girl,0000,0000,0000,,Você insistiu {\i1}mesmo{\i0}.
+Dialogue: 0,0:06:42.60,0:06:44.75,Main Dialogue,Girl,0000,0000,0000,,Mas agora eu quero ver o que vai acontecer.
+Dialogue: 0,0:06:45.06,0:06:48.22,Main Dialogue,Girl,0000,0000,0000,,Isso mesmo, você vai ver o \NPapai Noel de novo este ano?
+Dialogue: 0,0:06:48.48,0:06:51.30,Main Dialogue,Girl2,0000,0000,0000,,Sim, veremos um milagre de Natal?
+Dialogue: 0,0:06:51.67,0:06:55.10,Main Dialogue,Girl3,0000,0000,0000,,Vá em frente, Mikan!
+Dialogue: 0,0:07:17.72,0:07:19.46,Main Dialogue,Girl2,0000,0000,0000,,Como está...
+Dialogue: 0,0:07:19.81,0:07:20.91,Main Dialogue,Girl,0000,0000,0000,,...este ano?
+Dialogue: 0,0:07:32.45,0:07:33.18,Main Dialogue,Mik,0000,0000,0000,,Nita...
+Dialogue: 0,0:07:35.19,0:07:35.89,Main Dialogue,Girl,0000,0000,0000,,Sim?
+Dialogue: 0,0:07:36.62,0:07:37.35,Main Dialogue,Mik,0000,0000,0000,,Experimente.
+Dialogue: 0,0:07:39.76,0:07:41.87,Main Dialogue,Girl2,0000,0000,0000,,Aquele Papai Noel era mesmo um sonho!
+Dialogue: 0,0:07:41.87,0:07:44.21,Main Dialogue,Girl3,0000,0000,0000,,Nenhum milagre neste ano!
+Dialogue: 0,0:07:44.21,0:07:45.77,Main Dialogue,Girl,0000,0000,0000,,Não se preocupe, Mikan.
+Dialogue: 0,0:07:45.77,0:07:49.45,Main Dialogue,Girl,0000,0000,0000,,Sei que ano que vem você vai\N se encontrar com o Papai Noel!
+Dialogue: 0,0:07:51.40,0:07:52.45,Main Dialogue,Girl,0000,0000,0000,,Que nojo.
+Dialogue: 0,0:07:52.84,0:07:54.99,Atashinchi 16,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:55.59,0:07:57.74,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:08:01.97,0:08:03.04,Main Dialogue,Mom,0000,0000,0000,,Estou chegando!
+Dialogue: 0,0:08:03.88,0:08:05.64,Main Dialogue,Mom,0000,0000,0000,,Bem na hora!
+Dialogue: 0,0:08:07.09,0:08:08.75,Main Dialogue,Mom,0000,0000,0000,,Meu celular! Meu celular...
+Dialogue: 0,0:08:10.13,0:08:11.87,Main Dialogue,Mom,0000,0000,0000,,Tô entrando!
+Dialogue: 0,0:08:16.91,0:08:18.93,Main Dialogue,Mom,0000,0000,0000,,Ora, o que será?
+Dialogue: 0,0:08:18.93,0:08:20.39,Signs,Phone,0000,0000,0000,,{\3c&H667374&}Mikan
+Dialogue: 0,0:08:21.13,0:08:22.18,Main Dialogue,Mom,0000,0000,0000,,Uma mensagem?
+Dialogue: 0,0:08:23.35,0:08:26.06,Signs,Mom,0000,0000,0000,,{\c&H212122&\3c&HF4F4F4&}Não esqueça aquela torta de abóbora!
+Dialogue: 0,0:08:29.87,0:08:34.49,title,Titl,0000,0000,0000,,{\fad(400,1)\c&H50A228&\3c&HD6D6D6&}Mamãe Pré-Histórica Depende da Sua Intuição
+Dialogue: 0,0:08:34.86,0:08:35.79,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:35.79,0:08:37.70,Main Dialogue,Mik,0000,0000,0000,,Você esqueceu a torta de abóbora?
+Dialogue: 0,0:08:37.95,0:08:40.25,Main Dialogue,Mik,0000,0000,0000,,Mas eu até mandei uma mensagem!
+Dialogue: 0,0:08:40.76,0:08:42.27,Main Dialogue,Mik,0000,0000,0000,,Eu estava querendo tanto!
+Dialogue: 0,0:08:42.27,0:08:44.16,Main Dialogue,Mik,0000,0000,0000,,Não aguento mais...
+Dialogue: 0,0:08:45.30,0:08:50.45,Main Dialogue,Mom,0000,0000,0000,,Foi minha culpa dessa vez, mas \Ncelulares não servem para nada.
+Dialogue: 0,0:08:50.45,0:08:51.17,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:51.17,0:08:53.34,Main Dialogue,Mom,0000,0000,0000,,Celulares fazem eu pensar que \Nestou em uma zona de segurança.
+Dialogue: 0,0:08:55.94,0:08:56.93,flashback,Mom,0000,0000,0000,,A torta de abóbora!
+Dialogue: 0,0:08:57.16,0:08:58.78,Main Dialogue,Mom,0000,0000,0000,,Eu teria me lembrado.
+Dialogue: 0,0:08:58.78,0:09:03.73,Main Dialogue,Mom,0000,0000,0000,,Celulares só atrapalham pessoas como\N eu, que sobrevivem com a intuição.
+Dialogue: 0,0:09:05.04,0:09:06.55,Main Dialogue,Mik,0000,0000,0000,,Mas são tão úteis.
+Dialogue: 0,0:09:06.55,0:09:08.40,Main Dialogue,Mik,0000,0000,0000,,Todos usam o celular para olhar mapas e...
+Dialogue: 0,0:09:08.40,0:09:09.62,Main Dialogue,Mom,0000,0000,0000,,Mapas?
+Dialogue: 0,0:09:09.62,0:09:12.52,Main Dialogue,Mom,0000,0000,0000,,Bem, eu também não gosto de mapas.
+Dialogue: 0,0:09:12.52,0:09:16.53,Main Dialogue,Mom,0000,0000,0000,,Mapas destroem completamente\N meu senso de direção inato.
+Dialogue: 0,0:09:19.39,0:09:20.83,Main Dialogue,Mom,0000,0000,0000,,A intuição é a melhor coisa\N quando não se tem nada.
+Dialogue: 0,0:09:25.29,0:09:26.75,Main Dialogue,Mom,0000,0000,0000,,Você acaba encontrando o caminho.
+Dialogue: 0,0:09:26.75,0:09:27.65,flashback,Mom,0000,0000,0000,,Me desculpem a demora!
+Dialogue: 0,0:09:27.65,0:09:29.96,flashback,Wom,0000,0000,0000,,Sra. Tachibana, de onde você veio?
+Dialogue: 0,0:09:33.20,0:09:35.38,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)\c&HF4EDF9&}Novo Atashinchi
+Dialogue: 0,0:09:35.93,0:09:37.22,Main Dialogue,Mik,0000,0000,0000,,Foi o que ela disse.
+Dialogue: 0,0:09:37.53,0:09:40.35,Main Dialogue,Mik,0000,0000,0000,,Não entendo do que ela está falando.
+Dialogue: 0,0:09:41.34,0:09:43.06,Main Dialogue,Yuz,0000,0000,0000,,Ela é de uma geração mais antiga, é por isso.
+Dialogue: 0,0:09:43.36,0:09:46.64,italic,Mik,0000,0000,0000,,Uma geração ainda mais antiga que mapas?
+Dialogue: 0,0:09:52.83,0:09:54.14,italic,Mik,0000,0000,0000,,Tipo uma mulher pré-histórica?
+Dialogue: 0,0:09:55.11,0:09:59.87,italic,mik,0000,0000,0000,,E então, um dia, eu tinha que dizer\N alguma coisa para a minha mãe.
+Dialogue: 0,0:10:04.04,0:10:06.53,Main Dialogue,mik,0000,0000,0000,,Então, Mãe...
+Dialogue: 0,0:10:07.85,0:10:11.67,Main Dialogue,mik,0000,0000,0000,,Estive pensando, eu queria\N trocar para um smartphone...
+Dialogue: 0,0:10:11.67,0:10:14.82,Main Dialogue,Mom,0000,0000,0000,,Ah, queria? Queria?
+Dialogue: 0,0:10:14.82,0:10:16.51,Main Dialogue,Mom,0000,0000,0000,,Não é sua decisão!
+Dialogue: 0,0:10:16.51,0:10:18.90,Main Dialogue,Mik,0000,0000,0000,,Eu sei disso.
+Dialogue: 0,0:10:18.90,0:10:20.62,Main Dialogue,Mom,0000,0000,0000,,Você já tem um celular.
+Dialogue: 0,0:10:20.62,0:10:22.72,Main Dialogue,Mik,0000,0000,0000,,Mas um smartphone é \Ncompletamente diferente!
+Dialogue: 0,0:10:22.72,0:10:23.83,Main Dialogue,Mom,0000,0000,0000,,Como?
+Dialogue: 0,0:10:24.36,0:10:28.56,Main Dialogue,Mik,0000,0000,0000,,Você pode tirar fotos melhores\N que um celular, para começar.
+Dialogue: 0,0:10:29.01,0:10:32.56,Main Dialogue,Mik,0000,0000,0000,,Eu gostaria de capturar todos os melhores\N momentos com a melhor qualidade.
+Dialogue: 0,0:10:34.47,0:10:36.72,Main Dialogue,Mom,0000,0000,0000,,E para que você precisa de uma câmera?
+Dialogue: 0,0:10:39.74,0:10:42.32,Main Dialogue,Mom,0000,0000,0000,,Tire uma foto com o seu {\i1}coração{\i0}.
+Dialogue: 0,0:10:42.32,0:10:46.33,Main Dialogue,Mom,0000,0000,0000,,Assim, você pode se lembrar sempre que quiser \Ne consertar para ser o mais bonito possível.
+Dialogue: 0,0:10:49.82,0:10:52.45,Main Dialogue,Mom,0000,0000,0000,,Você devia se concentrar em viver\N esses momentos completamente.
+Dialogue: 0,0:10:52.45,0:10:55.84,Main Dialogue,Mom,0000,0000,0000,,É muito mais importante do que\N tirar fotos com o seu celular.
+Dialogue: 0,0:10:55.84,0:10:58.91,Main Dialogue,Mik,0000,0000,0000,,Mas um smartphone não é só uma câmera!
+Dialogue: 0,0:10:59.65,0:11:03.59,Main Dialogue,Mik,0000,0000,0000,,Dá para colocar as músicas que eu\Nquiser e posso ouvir quando quiser.
+Dialogue: 0,0:11:04.38,0:11:05.18,Main Dialogue,Mom,0000,0000,0000,,Que lixo.
+Dialogue: 0,0:11:05.45,0:11:08.84,Main Dialogue,Mom,0000,0000,0000,,Por que não canta para si mesma,\N se quiser ouvir alguma música.
+Dialogue: 0,0:11:09.68,0:11:11.22,Main Dialogue,Mom,0000,0000,0000,,É isso que eu faço.
+Dialogue: 0,0:11:11.22,0:11:14.20,Main Dialogue,Mom,0000,0000,0000,,Eu sei centenas de músicas\N também! Mais talvez!
+Dialogue: 0,0:11:14.20,0:11:17.71,Main Dialogue,Mom,0000,0000,0000,,Posso mudar quando eu quiser e cantar\N que música eu quiser, quando quiser.
+Dialogue: 0,0:11:17.71,0:11:18.95,Main Dialogue,Mom,0000,0000,0000,,Sem falar que é grátis.
+Dialogue: 0,0:11:21.48,0:11:23.23,Main Dialogue,Mik,0000,0000,0000,,Bem...
+Dialogue: 0,0:11:23.23,0:11:23.99,Main Dialogue,Mom,0000,0000,0000,,Você não precisa, viu?
+Dialogue: 0,0:11:23.99,0:11:25.06,Main Dialogue,Mom,0000,0000,0000,,Você não precisa de um smartphone.
+Dialogue: 0,0:11:25.76,0:11:28.04,Main Dialogue,Mik,0000,0000,0000,,Não é só isso que ele faz.
+Dialogue: 0,0:11:28.04,0:11:29.50,Main Dialogue,Mik,0000,0000,0000,,Hoje em dia, dá até...
+Dialogue: 0,0:11:29.87,0:11:32.21,flashback,mik,0000,0000,0000,,Me mostre onde tem uma confeitaria gostosa.
+Dialogue: 0,0:11:33.86,0:11:36.67,flashback italic,Phone,0000,0000,0000,,Tem quatro locais nessa região.
+Dialogue: 0,0:11:36.67,0:11:39.87,Main Dialogue,Mik,0000,0000,0000,,Ele até fala!
+Dialogue: 0,0:11:39.87,0:11:42.13,Main Dialogue,Mom,0000,0000,0000,,O que tem de mais com isso?
+Dialogue: 0,0:11:42.13,0:11:43.74,Main Dialogue,Mom,0000,0000,0000,,Quando eu preciso de alguma coisa...
+Dialogue: 0,0:11:44.54,0:11:45.68,flashback,Mom,0000,0000,0000,,Ah, é?
+Dialogue: 0,0:11:45.68,0:11:47.72,flashback,Mom,0000,0000,0000,,Ela fez isso mesmo?
+Dialogue: 0,0:11:48.37,0:11:49.77,flashback,Mom,0000,0000,0000,,Isso é terrível!
+Dialogue: 0,0:11:52.03,0:11:53.23,flashback,Mom,0000,0000,0000,,Eu concordo, já vai chover.
+Dialogue: 0,0:11:53.68,0:11:55.65,Main Dialogue,Mom,0000,0000,0000,,De qualquer modo, eu posso falar com animais.
+Dialogue: 0,0:11:56.20,0:11:57.31,Main Dialogue,Mik,0000,0000,0000,,Não diga...
+Dialogue: 0,0:11:57.31,0:11:58.88,Main Dialogue,Mik,0000,0000,0000,,Mas com um smartphone...
+Dialogue: 0,0:11:58.88,0:12:02.32,Main Dialogue,Mik,0000,0000,0000,,Dá para fazer upload de comidas que você\N está comendo e compartilhar com os amigos.
+Dialogue: 0,0:12:02.32,0:12:04.24,Main Dialogue,Mom,0000,0000,0000,,Como assim, upload?
+Dialogue: 0,0:12:04.24,0:12:05.78,Main Dialogue,Mom,0000,0000,0000,,E como você compartilha?
+Dialogue: 0,0:12:05.78,0:12:08.62,Main Dialogue,Mik,0000,0000,0000,,Não, você tira uma foto e faz upload.
+Dialogue: 0,0:12:06.72,0:12:08.23,Signs - Copy (2),txt,0000,0000,0000,,{\c&HFFFFFF&\3c&H31A254&\fad(666,1)}Upload
+Dialogue: 0,0:12:08.62,0:12:10.91,Main Dialogue,Mik,0000,0000,0000,,Então todos conseguem ver.
+Dialogue: 0,0:12:11.50,0:12:14.25,Main Dialogue,Mom,0000,0000,0000,,Por que você divulgaria esse tipo de segredo?
+Dialogue: 0,0:12:15.20,0:12:19.09,Main Dialogue,Mom,0000,0000,0000,,Por exemplo, se eu encontro um \Nrestaurante com um udon delicioso,
+Dialogue: 0,0:12:19.66,0:12:21.91,Main Dialogue,Mom,0000,0000,0000,,se eu contar para todo mundo vai ser ruim.
+Dialogue: 0,0:12:22.60,0:12:24.05,Main Dialogue,Mom,0000,0000,0000,,Vai criar filas, ficar super cheio e ocupado.
+Dialogue: 0,0:12:24.40,0:12:25.97,Main Dialogue,Mom,0000,0000,0000,,A qualidade da comida cairia.
+Dialogue: 0,0:12:26.31,0:12:27.97,Main Dialogue,Mom,0000,0000,0000,,Eles ficariam muito ricos.
+Dialogue: 0,0:12:28.18,0:12:29.85,Main Dialogue,Mom,0000,0000,0000,,Eles se mudariam para o Havaí.
+Dialogue: 0,0:12:30.33,0:12:33.85,Main Dialogue,Mom,0000,0000,0000,,E eu nunca mais comeria aquele\N udon delicioso novamente.
+Dialogue: 0,0:12:34.12,0:12:37.55,Main Dialogue,Mom,0000,0000,0000,,Eu tenho que garantir que {\i1}ninguém{\i0} saiba \Nquando encontro um lugar com comida gostosa.
+Dialogue: 0,0:12:40.10,0:12:42.82,Main Dialogue,Mik,0000,0000,0000,,Lembre-se, nós estávamos \Nfalando sobre o smartphone...
+Dialogue: 0,0:12:42.82,0:12:44.75,Main Dialogue,Mom,0000,0000,0000,,De novo..
+Dialogue: 0,0:12:44.75,0:12:48.11,Main Dialogue,Mik,0000,0000,0000,,Dá para dizer qual restaurante é gostoso.
+Dialogue: 0,0:12:48.11,0:12:49.28,Main Dialogue,Mom,0000,0000,0000,,Hum...
+Dialogue: 0,0:12:50.05,0:12:52.83,Main Dialogue,Mik,0000,0000,0000,,Digamos que você gostaria de comida chinesa.
+Dialogue: 0,0:13:02.76,0:13:04.35,Main Dialogue,mik,0000,0000,0000,,Que delícia!
+Dialogue: 0,0:13:04.77,0:13:06.53,Main Dialogue,Mom,0000,0000,0000,,Isso é só propaganda.
+Dialogue: 0,0:13:07.14,0:13:08.26,Main Dialogue,Mik,0000,0000,0000,,É a voz do povo!
+Dialogue: 0,0:13:08.50,0:13:10.72,Main Dialogue,Mik,0000,0000,0000,,Pessoas escrevem suas próprias resenhas!
+Dialogue: 0,0:13:10.72,0:13:15.39,Main Dialogue,Mom,0000,0000,0000,,Ao invés de deixar isso para os amadores, você \Ndevia começar a confiar nos seus próprios olhos.
+Dialogue: 0,0:13:16.97,0:13:18.03,Main Dialogue,Mik,0000,0000,0000,,Mãe?
+Dialogue: 0,0:13:19.18,0:13:20.40,Main Dialogue,Man,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:13:20.78,0:13:24.47,Main Dialogue,Mom,0000,0000,0000,,É uma loja nova e o tapete\N da porta já está gasto.
+Dialogue: 0,0:13:24.47,0:13:26.40,Main Dialogue,Mom,0000,0000,0000,,Isso significa que muita gente\N está entrando e saindo.
+Dialogue: 0,0:13:26.40,0:13:27.07,Main Dialogue,Mom,0000,0000,0000,,Certo!
+Dialogue: 0,0:13:27.46,0:13:29.58,Main Dialogue,Mik,0000,0000,0000,,Parece um bom lugar.
+Dialogue: 0,0:13:30.06,0:13:32.19,Main Dialogue,Mik,0000,0000,0000,,Eu acho que vou querer um arroz frito.
+Dialogue: 0,0:13:32.19,0:13:33.14,Main Dialogue,Mom,0000,0000,0000,,Errado.
+Dialogue: 0,0:13:33.54,0:13:35.22,Main Dialogue,Mom,0000,0000,0000,,Olhem todos esses pratos empilhados.
+Dialogue: 0,0:13:35.22,0:13:36.96,Main Dialogue,Mom,0000,0000,0000,,A especialidade deles é macarrão.
+Dialogue: 0,0:13:36.96,0:13:39.44,Main Dialogue,Wom,0000,0000,0000,,O lámen de missô parece\N ser muito gostoso aqui.
+Dialogue: 0,0:13:39.44,0:13:40.54,Main Dialogue,Wom2,0000,0000,0000,,Foi o que eu ouvi.
+Dialogue: 0,0:13:40.54,0:13:42.39,Main Dialogue,Mik,0000,0000,0000,,Mãe, estou surpresa.
+Dialogue: 0,0:13:42.39,0:13:43.88,Main Dialogue,Mik,0000,0000,0000,,Acho que vou querer um lámen de missô.
+Dialogue: 0,0:13:43.88,0:13:45.23,Main Dialogue,Wom,0000,0000,0000,,Com licença!
+Dialogue: 0,0:13:45.23,0:13:46.91,Main Dialogue,Wom,0000,0000,0000,,Dois lámens de missô!
+Dialogue: 0,0:13:46.91,0:13:48.84,Main Dialogue,Guy,0000,0000,0000,,Certo, dois lámens de missô.
+Dialogue: 0,0:13:49.25,0:13:52.61,Main Dialogue,Mom,0000,0000,0000,,Olhe para o rosto dele. Ele está cansado\N das pessoas pedindo lámen de missô
+Dialogue: 0,0:13:52.61,0:13:54.46,Main Dialogue,Mom,0000,0000,0000,,por causa de uma resenha idiota.
+Dialogue: 0,0:13:55.24,0:13:56.52,Main Dialogue,Mom,0000,0000,0000,,Isto é...
+Dialogue: 0,0:13:57.90,0:13:59.23,Main Dialogue,Mom,0000,0000,0000,,Com licença!
+Dialogue: 0,0:14:00.40,0:14:01.97,Main Dialogue,Mom,0000,0000,0000,,Dois tanmen!
+Dialogue: 0,0:14:02.34,0:14:02.96,Main Dialogue,Man,0000,0000,0000,,Sim!
+Dialogue: 0,0:14:02.96,0:14:04.38,Main Dialogue,Man,0000,0000,0000,,Dois tanmen!
+Dialogue: 0,0:14:13.19,0:14:14.37,Main Dialogue,Mik,0000,0000,0000,,Uau, que delícia!
+Dialogue: 0,0:14:14.91,0:14:19.55,Main Dialogue,Mom,0000,0000,0000,,Quando você depende demais do seu smartphone,\Ncomeça a limitar seus poderes de percepção.
+Dialogue: 0,0:14:20.56,0:14:25.54,Main Dialogue,Mik,0000,0000,0000,,Mas com um smartphone, dá para se manter \Nem contato com seus amigos do mundo inteiro.
+Dialogue: 0,0:14:25.54,0:14:28.74,Main Dialogue,Mik,0000,0000,0000,,Dá para dizer para eles sobre o\N seu dia, seus pensamentos...
+Dialogue: 0,0:14:28.74,0:14:30.80,Main Dialogue,Mom,0000,0000,0000,,E do que adianta todas essas conexões?
+Dialogue: 0,0:14:31.24,0:14:33.29,Main Dialogue,Mom,0000,0000,0000,,Parece grudento demais,\N como soja fermentada.
+Dialogue: 0,0:14:33.29,0:14:38.19,Main Dialogue,Mom,0000,0000,0000,,Só uma coisa monstruosa poderia\N vir de todas essas ligações...
+Dialogue: 0,0:14:38.19,0:14:41.52,Main Dialogue,Mom,0000,0000,0000,,se espalhando por todo mundo.
+Dialogue: 0,0:14:42.39,0:14:47.06,Main Dialogue,Mom,0000,0000,0000,,Eu prefiro ser um lobo solitário, correndo\N com o vento pela savana sem limites!
+Dialogue: 0,0:14:47.59,0:14:49.37,Main Dialogue,Mom,0000,0000,0000,,{\i1}Aouuuu!
+Dialogue: 0,0:14:49.88,0:14:52.12,Main Dialogue,Mik,0000,0000,0000,,Acho que ela é mesmo \Numa mulher das cavernas...
+Dialogue: 0,0:14:52.58,0:14:55.04,Atashinchi 15,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:55.60,0:14:57.79,Atashinchi 3,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:58.86,0:15:00.75,Main Dialogue,Mik,0000,0000,0000,,Você não comprou um bolo de Natal?
+Dialogue: 0,0:15:01.05,0:15:04.96,Main Dialogue,Mom,0000,0000,0000,,Você não teve uma festa de \NNatal com seus amigos ontem?
+Dialogue: 0,0:15:04.96,0:15:06.20,Main Dialogue,Mik,0000,0000,0000,,Sim, mas...
+Dialogue: 0,0:15:06.20,0:15:10.26,Main Dialogue,Mom,0000,0000,0000,,O seu pai e o Yuzinho não\N gostam muito do Natal.
+Dialogue: 0,0:15:10.26,0:15:11.77,Main Dialogue,Mom,0000,0000,0000,,E estive pensando...
+Dialogue: 0,0:15:12.97,0:15:15.90,Main Dialogue,Mom,0000,0000,0000,,A partir deste ano, vamos ter um jantar normal.
+Dialogue: 0,0:15:15.90,0:15:16.48,Main Dialogue,Mik,0000,0000,0000,,Mas...
+Dialogue: 0,0:15:16.48,0:15:18.18,Main Dialogue,Mik,0000,0000,0000,,Hoje é Natal!
+Dialogue: 0,0:15:18.18,0:15:19.63,Main Dialogue,Mom,0000,0000,0000,,Você pode até dizer isso...
+Dialogue: 0,0:15:19.63,0:15:22.56,Main Dialogue,Mik,0000,0000,0000,,Que Natal é esse que não tem bolo?
+Dialogue: 0,0:15:22.91,0:15:26.03,Main Dialogue,Mik,0000,0000,0000,,É como um bolinho de carne sem carne dentro!
+Dialogue: 0,0:15:26.31,0:15:27.30,Main Dialogue,Mom,0000,0000,0000,,Tão ruim assim?
+Dialogue: 0,0:15:27.30,0:15:28.99,Main Dialogue,Mom,0000,0000,0000,,Então acha que deveríamos comprar um bolo?
+Dialogue: 0,0:15:29.25,0:15:30.32,Main Dialogue,Mik,0000,0000,0000,,Posso mesmo?
+Dialogue: 0,0:15:30.55,0:15:32.22,Main Dialogue,Mom,0000,0000,0000,,Um que não seja muito caro.
+Dialogue: 0,0:15:32.22,0:15:33.26,Main Dialogue,Mik,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:15:33.78,0:15:38.22,Main Dialogue,Mik,0000,0000,0000,,Bolo de Natal! Bolo de Natal! Bolo de Natal!
+Dialogue: 0,0:15:38.52,0:15:42.19,Main Dialogue,Mik,0000,0000,0000,,Bolo de Natal e la la la la la...
+Dialogue: 0,0:15:40.77,0:15:41.93,Main Dialogue,Iwa,0000,0000,0000,,{\an8}Tachibana!
+Dialogue: 0,0:15:42.76,0:15:45.25,Main Dialogue,Mik,0000,0000,0000,,Ah, Iwaki!
+Dialogue: 0,0:15:45.84,0:15:46.42,Main Dialogue,iwa,0000,0000,0000,,E aí.
+Dialogue: 0,0:15:46.83,0:15:48.12,Main Dialogue,mik,0000,0000,0000,,O que você está fazendo aqui?
+Dialogue: 0,0:15:52.56,0:15:54.09,Main Dialogue,mik,0000,0000,0000,,I-Iwaki?
+Dialogue: 0,0:15:54.38,0:15:55.56,Main Dialogue,Iwa,0000,0000,0000,,Aonde você vai?
+Dialogue: 0,0:15:58.17,0:15:59.25,Main Dialogue,Iwa,0000,0000,0000,,Tachibana?
+Dialogue: 0,0:16:01.79,0:16:04.73,Main Dialogue,Mik,0000,0000,0000,,Vou comprar um bolo de Natal.
+Dialogue: 0,0:16:05.00,0:16:05.81,Main Dialogue,Iwa,0000,0000,0000,,Eu também.
+Dialogue: 0,0:16:05.81,0:16:07.19,Main Dialogue,Mik,0000,0000,0000,,Vai mesmo?
+Dialogue: 0,0:16:07.19,0:16:08.01,Main Dialogue,Iwa,0000,0000,0000,,Sim.
+Dialogue: 0,0:16:08.79,0:16:11.13,Main Dialogue,Mik,0000,0000,0000,,É mesmo? Ah...
+Dialogue: 0,0:16:15.38,0:16:16.38,Main Dialogue,Iwa,0000,0000,0000,,Até mais então.
+Dialogue: 0,0:16:16.38,0:16:18.16,Main Dialogue,Mik,0000,0000,0000,,Sim, até mais.
+Dialogue: 0,0:16:21.11,0:16:23.57,Main Dialogue,Mik,0000,0000,0000,,Eu sou tão covarde.
+Dialogue: 0,0:16:24.97,0:16:25.96,Main Dialogue,Iwa,0000,0000,0000,,Tachibana?
+Dialogue: 0,0:16:26.79,0:16:28.06,Main Dialogue,Mik,0000,0000,0000,,Sim?
+Dialogue: 0,0:16:30.18,0:16:31.34,Main Dialogue,Iwa,0000,0000,0000,,Eu estava pensando...
+Dialogue: 0,0:16:32.32,0:16:35.00,Main Dialogue,Iwa,0000,0000,0000,,Se não se importar, \Nnão quer ir junto comigo?
+Dialogue: 0,0:16:35.62,0:16:40.29,title,Tit,0000,0000,0000,,{\fad(400,1)\c&H4373FD&\3c&HD4D2D3&}Iwaki e o Bolo de Natal
+Dialogue: 0,0:16:40.81,0:16:42.23,Main Dialogue,Iwa,0000,0000,0000,,Desculpe por pedir...
+Dialogue: 0,0:16:42.23,0:16:43.81,Main Dialogue,Mik,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:16:43.81,0:16:45.19,Main Dialogue,Iwa,0000,0000,0000,,Você vai me ajudar mesmo.
+Dialogue: 0,0:16:45.42,0:16:47.91,Main Dialogue,Iwa,0000,0000,0000,,Nós estamos recebendo uma visita \Nsurpresa de alguns membros da família.
+Dialogue: 0,0:16:47.91,0:16:48.65,Main Dialogue,Mik,0000,0000,0000,,Ah, é isso.
+Dialogue: 0,0:16:49.12,0:16:53.05,Main Dialogue,Iwa,0000,0000,0000,,Eu nunca comprei um bolo antes,\N então não sei o que escolher.
+Dialogue: 0,0:16:53.05,0:16:54.32,Main Dialogue,Mik,0000,0000,0000,,Entendo.
+Dialogue: 0,0:16:55.03,0:16:57.17,italic,Mik,0000,0000,0000,,Essa não, está ruim demais.
+Dialogue: 0,0:16:57.17,0:17:00.76,italic,Mik,0000,0000,0000,,Eu devia ter vestido alguma\N coisa mais bonitinha.
+Dialogue: 0,0:17:00.76,0:17:03.36,italic,Mik,0000,0000,0000,,Não, eu não tenho nenhuma roupa fofa.
+Dialogue: 0,0:17:03.36,0:17:04.72,Main Dialogue,Iwa,0000,0000,0000,,... ama?
+Dialogue: 0,0:17:05.93,0:17:07.08,Main Dialogue,Iwa,0000,0000,0000,,... você ama?
+Dialogue: 0,0:17:08.59,0:17:09.29,Main Dialogue,Iwa,0000,0000,0000,,... bolo?
+Dialogue: 0,0:17:11.30,0:17:12.95,Main Dialogue,Mik,0000,0000,0000,,Bolo? Sim, amo!
+Dialogue: 0,0:17:12.95,0:17:14.09,Main Dialogue,Iwa,0000,0000,0000,,De que tipo?
+Dialogue: 0,0:17:14.09,0:17:17.79,Main Dialogue,Mik,0000,0000,0000,,Acho que, se estamos falando de bolo de Natal,\Ngosto de bolo de morango com creme de leite,
+Dialogue: 0,0:17:17.79,0:17:20.01,Main Dialogue,Mik,0000,0000,0000,,com uma decoração de casa\N de chocolate e Papai Noel.
+Dialogue: 0,0:17:20.01,0:17:21.76,Main Dialogue,Mik,0000,0000,0000,,Sabe, aquele clássico.
+Dialogue: 0,0:17:21.96,0:17:23.01,Main Dialogue,Iwa,0000,0000,0000,,Hã?
+Dialogue: 0,0:17:23.01,0:17:26.12,Main Dialogue,Mik,0000,0000,0000,,Ah, nessa loja que a minha \Nfamília sempre compra o bolo.
+Dialogue: 0,0:17:26.12,0:17:27.26,Main Dialogue,Iwa,0000,0000,0000,,Ah, é?
+Dialogue: 0,0:17:28.19,0:17:29.53,Main Dialogue,Wom,0000,0000,0000,,Sejam bem-vindos!
+Dialogue: 0,0:17:30.90,0:17:32.98,Main Dialogue,Wom,0000,0000,0000,,Muito obrigada.
+Dialogue: 0,0:17:35.52,0:17:37.52,Main Dialogue,Iwa,0000,0000,0000,,Acho que eles estavam sem o de morango.
+Dialogue: 0,0:17:38.80,0:17:39.94,Main Dialogue,Mik,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:17:39.94,0:17:41.66,Main Dialogue,Iwa,0000,0000,0000,,Pelo quê?
+Dialogue: 0,0:17:41.66,0:17:44.50,Signs,Sign,0000,0000,0000,,{\c&H000000&\3c&HFFFFFF&}Bolo Decorado de Natal
+Dialogue: 0,0:17:41.66,0:17:44.50,Signs,Sign,0000,0000,0000,,{\c&H000000&\3c&HFFFFFF&}4 fatias - 5 fatias - 6 fatias (creme de leite)
+Dialogue: 0,0:17:41.66,0:17:44.50,Signs,Sign,0000,0000,0000,,{\3c&H5A5392&}Esgotado
+Dialogue: 0,0:17:41.95,0:17:43.81,Main Dialogue,Mik,0000,0000,0000,,Fiz você entrar por nada.
+Dialogue: 0,0:17:43.81,0:17:48.21,Main Dialogue,Iwa,0000,0000,0000,,Eu queria um bolo com um Papai Noel\N e uma casa de Chocolate também.
+Dialogue: 0,0:17:48.44,0:17:50.30,Main Dialogue,Iwa,0000,0000,0000,,Vamos olhar em outras lojas.
+Dialogue: 0,0:17:51.77,0:17:55.05,Main Dialogue,Mik,0000,0000,0000,,Tem outra do outro lado dos trilhos, quer ir?
+Dialogue: 0,0:17:57.51,0:18:01.56,Main Dialogue,Mik,0000,0000,0000,,Essa é bem nova, mas eu \Nouvi falar coisas boas dela.
+Dialogue: 0,0:18:01.56,0:18:02.22,Main Dialogue,Iwa,0000,0000,0000,,Certo.
+Dialogue: 0,0:18:02.22,0:18:03.47,Main Dialogue,Man,0000,0000,0000,,Sejam bem-vindos.
+Dialogue: 0,0:18:04.02,0:18:05.49,Main Dialogue,Man,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:18:07.44,0:18:09.52,Main Dialogue,Mik,0000,0000,0000,,Está tudo reservado...
+Dialogue: 0,0:18:09.52,0:18:10.86,Main Dialogue,Mik,0000,0000,0000,,Me desculpe mesmo!
+Dialogue: 0,0:18:10.86,0:18:12.85,Main Dialogue,Iwa,0000,0000,0000,,Não é sua culpa.
+Dialogue: 0,0:18:12.85,0:18:17.74,Main Dialogue,Mik,0000,0000,0000,,Bem, tem uma confeitaria que eu vi\N em uma revista algum tempo atrás.
+Dialogue: 0,0:18:19.30,0:18:21.24,Main Dialogue,Wom,0000,0000,0000,,Por favor, voltem sempre.
+Dialogue: 0,0:18:21.55,0:18:22.65,Main Dialogue,Mik,0000,0000,0000,,Me desculpe—
+Dialogue: 0,0:18:22.65,0:18:24.62,Main Dialogue,Iwa,0000,0000,0000,,Não precisa se desculpar.
+Dialogue: 0,0:18:24.62,0:18:26.00,Main Dialogue,Wom,0000,0000,0000,,Você já fez uma reserva?
+Dialogue: 0,0:18:26.00,0:18:27.71,Main Dialogue,Man,0000,0000,0000,,Me desculpe, vendemos tudo.
+Dialogue: 0,0:18:27.71,0:18:28.75,Main Dialogue,Wom,0000,0000,0000,,Espero vê-los novamente.
+Dialogue: 0,0:18:28.75,0:18:31.04,Main Dialogue,Wom,0000,0000,0000,,Me desculpe, este ano \Nvendemos tudo antes do normal.
+Dialogue: 0,0:18:32.34,0:18:33.48,Main Dialogue,Iwa,0000,0000,0000,,Acho que não temos escolha.
+Dialogue: 0,0:18:33.48,0:18:35.30,Main Dialogue,Mik,0000,0000,0000,,Me desculpe, mesmo.
+Dialogue: 0,0:18:35.65,0:18:36.91,Main Dialogue,Iwa,0000,0000,0000,,Vamos.
+Dialogue: 0,0:18:41.76,0:18:43.41,Main Dialogue,Iwa,0000,0000,0000,,O que você fez na véspera de Natal?
+Dialogue: 0,0:18:44.25,0:18:47.45,Main Dialogue,Mik,0000,0000,0000,,Eu tive uma festa no Clube dos Ursinhos.
+Dialogue: 0,0:18:47.45,0:18:48.88,Main Dialogue,Mik,0000,0000,0000,,Ah, acho que você não conhece, não é?
+Dialogue: 0,0:18:48.88,0:18:50.52,Main Dialogue,Mik,0000,0000,0000,,O Clube dos Ursinhos...
+Dialogue: 0,0:18:50.52,0:18:52.20,Main Dialogue,Iwa,0000,0000,0000,,É o Clube de Pesquisa de Ursinhos de Pelúcia.
+Dialogue: 0,0:18:52.20,0:18:52.82,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:18:53.37,0:18:55.83,Main Dialogue,Iwa,0000,0000,0000,,Vocês costuram bichinhos de pelúcia, não é?
+Dialogue: 0,0:18:55.83,0:18:57.22,Main Dialogue,Iwa,0000,0000,0000,,Vi o estande no festival cultural.
+Dialogue: 0,0:18:58.83,0:19:00.91,Main Dialogue,Mik,0000,0000,0000,,Ah, obrigada.
+Dialogue: 0,0:19:04.64,0:19:07.91,Main Dialogue,Mik,0000,0000,0000,,Você foi para uma festa ou saiu com alguém?
+Dialogue: 0,0:19:07.91,0:19:09.62,Main Dialogue,Iwa,0000,0000,0000,,Não, eu fiquei com a minha família.
+Dialogue: 0,0:19:09.62,0:19:10.95,Main Dialogue,Iwa,0000,0000,0000,,Nós comemos Genghis Khan.
+Dialogue: 0,0:19:10.95,0:19:12.06,Main Dialogue,Mik,0000,0000,0000,,Genghis Khan?
+Dialogue: 0,0:19:12.06,0:19:15.85,Main Dialogue,Iwa,0000,0000,0000,,Sempre fazemos como refeição especial.
+Dialogue: 0,0:19:15.85,0:19:16.85,Main Dialogue,Iwa,0000,0000,0000,,É estranho?
+Dialogue: 0,0:19:17.38,0:19:19.73,Main Dialogue,Mik,0000,0000,0000,,Acho que não.
+Dialogue: 0,0:19:19.73,0:19:21.69,Main Dialogue,Mik,0000,0000,0000,,Mas é interessante.
+Dialogue: 0,0:19:24.01,0:19:26.14,Signs,Sign,0000,0000,0000,,{\c&HFBFAFF&\3c&HF39D61&}Loja de Conveniências 24 Horas
+Dialogue: 0,0:19:24.75,0:19:26.14,Main Dialogue,Wom,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:19:26.87,0:19:28.98,Main Dialogue,Mik,0000,0000,0000,,Mesmo a loja de conveniências já vendeu tudo.
+Dialogue: 0,0:19:29.22,0:19:31.22,Main Dialogue,Mik,0000,0000,0000,,Me desculpe mesmo.
+Dialogue: 0,0:19:31.22,0:19:32.72,Main Dialogue,Iwa,0000,0000,0000,,Eu já disse que não é sua culpa.
+Dialogue: 0,0:19:32.72,0:19:33.44,Main Dialogue,Mik,0000,0000,0000,,Mas...
+Dialogue: 0,0:19:34.63,0:19:36.62,Main Dialogue,Mik,0000,0000,0000,,Meu corpo e coração ficaram gelados.
+Dialogue: 0,0:19:36.62,0:19:38.21,Main Dialogue,Mik,0000,0000,0000,,Acho que vou morrer.
+Dialogue: 0,0:19:38.21,0:19:40.64,Main Dialogue,Mik,0000,0000,0000,,Mas eu não posso morrer agora.
+Dialogue: 0,0:19:42.47,0:19:43.63,Main Dialogue,Iwa,0000,0000,0000,,Está frio, não é?
+Dialogue: 0,0:19:43.63,0:19:45.83,Main Dialogue,Mik,0000,0000,0000,,Não, tudo bem.
+Dialogue: 0,0:19:46.91,0:19:49.04,Main Dialogue,Iwa,0000,0000,0000,,Aqui, coloque isso.
+Dialogue: 0,0:19:52.11,0:19:54.34,Main Dialogue,Mik,0000,0000,0000,,Não, não, você não precisa fazer isso!
+Dialogue: 0,0:19:54.34,0:19:59.19,italic,Mik,0000,0000,0000,,Se ele colocar o seu cachecol em volta do\N meu pescoço, eu vou explodir e morrer!
+Dialogue: 0,0:19:59.19,0:20:00.05,Main Dialogue,Iwa,0000,0000,0000,,Tachibana!
+Dialogue: 0,0:20:00.05,0:20:06.22,Signs,Sign,0000,0000,0000,,{\an7\c&H53507D&\3c&HEEEEEE&}Confeitaria
+Dialogue: 0,0:20:02.01,0:20:03.40,Main Dialogue,Iwa,0000,0000,0000,,Você está bem?
+Dialogue: 0,0:20:03.86,0:20:04.92,Main Dialogue,Mik,0000,0000,0000,,Mais ou menos...
+Dialogue: 0,0:20:05.34,0:20:06.22,Main Dialogue,San,0000,0000,0000,,Sejam bem-vindos.
+Dialogue: 0,0:20:06.77,0:20:09.77,Main Dialogue,San,0000,0000,0000,,O que acham de um bolo de Natal?
+Dialogue: 0,0:20:16.43,0:20:19.46,Main Dialogue,Iwa,0000,0000,0000,,Nunca pensei que venderia esse tipo\N de bolo em uma confeitaria normal.
+Dialogue: 0,0:20:19.46,0:20:21.70,Main Dialogue,Mik,0000,0000,0000,,Esse bolo é chamado de Hashed Noel.
+Dialogue: 0,0:20:21.70,0:20:23.11,Main Dialogue,Iwa,0000,0000,0000,,Hashed Noel?
+Dialogue: 0,0:20:23.11,0:20:26.93,Main Dialogue,Mik,0000,0000,0000,,Sim, parece que Noel \Nsignifica Natal em francês.
+Dialogue: 0,0:20:26.93,0:20:27.66,Main Dialogue,Iwa,0000,0000,0000,,Ah...
+Dialogue: 0,0:20:28.07,0:20:30.41,Main Dialogue,Iwa,0000,0000,0000,,E ele até tem a casa de \Nchocolate e o Papai Noel.
+Dialogue: 0,0:20:30.65,0:20:33.85,Main Dialogue,Mik,0000,0000,0000,,Sim, o Hashed Noel foi a escolha certa.
+Dialogue: 0,0:20:35.26,0:20:36.59,Main Dialogue,Mik,0000,0000,0000,,Que lindo.
+Dialogue: 0,0:20:42.71,0:20:44.10,Main Dialogue,Mik,0000,0000,0000,,Está nevando.
+Dialogue: 0,0:20:44.10,0:20:45.48,Main Dialogue,Iwa,0000,0000,0000,,Ah, é.
+Dialogue: 0,0:20:50.76,0:20:52.18,Main Dialogue,Mik,0000,0000,0000,,Feliz Natal...
+Dialogue: 0,0:20:53.31,0:20:54.40,Main Dialogue,Iwa,0000,0000,0000,,Você disse alguma coisa?
+Dialogue: 0,0:20:54.40,0:20:55.94,Main Dialogue,Mik,0000,0000,0000,,Ah, bem...
+Dialogue: 0,0:20:56.31,0:21:02.44,Main Dialogue,Mik,0000,0000,0000,,É que... Feliz Natal, Iwaki.
+Dialogue: 0,0:21:02.74,0:21:06.78,Main Dialogue,Iwa,0000,0000,0000,,Feliz Natal para você também.
+Dialogue: 0,0:21:14.07,0:21:15.21,Main Dialogue,Yuu,0000,0000,0000,,Voltei.
+Dialogue: 0,0:21:19.22,0:21:20.06,Main Dialogue,Yuu,0000,0000,0000,,O que foi?
+Dialogue: 0,0:21:20.06,0:21:21.26,Main Dialogue,Yuu,0000,0000,0000,,Você comprou isso?
+Dialogue: 0,0:21:21.26,0:21:26.38,Main Dialogue,Mik,0000,0000,0000,,Sim, eu sei. É porque é Natal.
+Dialogue: 0,0:21:26.72,0:21:28.51,Main Dialogue,Mik,0000,0000,0000,,Feliz Natal!
+Dialogue: 0,0:21:28.51,0:21:29.98,Main Dialogue,Yuu,0000,0000,0000,,Ah, é um Lenha de Natal.
+Dialogue: 0,0:21:30.37,0:21:32.62,Main Dialogue,Mik,0000,0000,0000,,Hã? O que você acabou de dizer?
+Dialogue: 0,0:21:33.53,0:21:34.82,Main Dialogue,Mik,0000,0000,0000,,Lenha?
+Dialogue: 0,0:21:34.82,0:21:35.85,Main Dialogue,yuz,0000,0000,0000,,De Noel.
+Dialogue: 0,0:21:35.85,0:21:37.66,Main Dialogue,mik,0000,0000,0000,,É Lenha? Não Hashed?
+Dialogue: 0,0:21:39.30,0:21:40.86,Main Dialogue,Iwa,0000,0000,0000,,Olha, um Hashed Noel!
+Dialogue: 0,0:21:41.26,0:21:42.78,Main Dialogue,Kids,0000,0000,0000,,Hashed! Hashed!
+Dialogue: 0,0:21:42.92,0:21:44.35,Main Dialogue,Kids,0000,0000,0000,,Hashed! Hashed!
+Dialogue: 0,0:21:43.55,0:21:44.64,Main Dialogue,iwa,0000,0000,0000,,{\an8}Parece gostoso, não é?
+Dialogue: 0,0:21:44.49,0:21:46.32,Main Dialogue,Kids,0000,0000,0000,,Hashed! Hashed!
+Dialogue: 0,0:21:44.64,0:21:46.32,Main Dialogue,Mik,0000,0000,0000,,{\an8}Era Lenha de Natal!?
+Dialogue: 0,0:21:46.69,0:21:48.83,Main Dialogue,Mik,0000,0000,0000,,Iwaki!
+Dialogue: 0,0:21:48.83,0:21:51.28,Main Dialogue,Mik,0000,0000,0000,,Me desculpe!
+Dialogue: 0,0:21:53.13,0:21:55.04,Atashinchi 4,txt,0000,0000,0000,,{\fad(400,1)\c&H2F881E&\3c&HEBE8E1&}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&H3C4DEA&}"Ano Novo na Família Tachibana"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"A Competição de Bolinhos de Arroz"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&HB44098&}"O Ano Novo é Curto Demais"
+Dialogue: 0,0:22:55.48,0:22:57.34,Main Dialogue,dad,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
+Dialogue: 0,0:22:57.34,0:23:00.18,Main Dialogue,dad,0000,0000,0000,,"Ano Novo na Família Tachibana" \Ne outros dois episódios.
+Dialogue: 0,0:23:00.18,0:23:02.11,Main Dialogue,Yuu,0000,0000,0000,,Obrigado por assistirem neste ano!
+Dialogue: 0,0:23:02.11,0:23:03.72,Main Dialogue,All,0000,0000,0000,,Feliz ano novo!

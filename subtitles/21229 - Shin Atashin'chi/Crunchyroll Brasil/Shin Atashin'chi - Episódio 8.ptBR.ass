@@ -1,0 +1,466 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0080,0010,1
+Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0060,0040,0005,1
+Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0110,0080,0080,1
+Style: Atashinchi 12,Trebuchet MS,28,&H00101627,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0130,0070,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:02.16,0:01:03.42,Main Dialogue,Mom,0000,0000,0000,,Essa não!
+Dialogue: 0,0:01:03.42,0:01:05.41,Main Dialogue,Mom,0000,0000,0000,,Mais cabelos brancos!
+Dialogue: 0,0:01:05.58,0:01:10.42,title,Tit,0000,0000,0000,,{\fad(400,1)\3c&HD9D9D9&\c&H5CB44B&}Puxe esse Cabelo Branco
+Dialogue: 0,0:01:11.09,0:01:13.00,Main Dialogue,Mom,0000,0000,0000,,Que chatice.
+Dialogue: 0,0:01:13.00,0:01:14.59,Main Dialogue,Mom,0000,0000,0000,,Não acho que você tenha algum cabelo branco,
+Dialogue: 0,0:01:14.59,0:01:15.76,Main Dialogue,Mom,0000,0000,0000,,você ainda é jovem.
+Dialogue: 0,0:01:16.65,0:01:18.20,Main Dialogue,Miz,0000,0000,0000,,De forma alguma.
+Dialogue: 0,0:01:18.20,0:01:20.22,Main Dialogue,Miz,0000,0000,0000,,Eu tenho um monte de cabelos brancos.
+Dialogue: 0,0:01:20.89,0:01:22.49,Main Dialogue,Miz,0000,0000,0000,,Eu só pinto o cabelo.
+Dialogue: 0,0:01:22.49,0:01:23.57,Main Dialogue,Mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:01:24.31,0:01:27.67,Main Dialogue,Mom,0000,0000,0000,,Você costumava puxar os\N cabelos brancos dos seus pais?
+Dialogue: 0,0:01:27.67,0:01:29.27,Main Dialogue,Miz,0000,0000,0000,,Sim!
+Dialogue: 0,0:01:29.27,0:01:33.11,Main Dialogue,Miz,0000,0000,0000,,Mas eu sempre errava e tirava um preto.
+Dialogue: 0,0:01:33.44,0:01:37.30,flashback,Mom2,0000,0000,0000,,De jeito nenhum! Não arranque \Num cabelo preto {\i1}de jeito nenhum{\i0}!
+Dialogue: 0,0:01:37.30,0:01:38.12,flashback,Miz,0000,0000,0000,,Eu sei, caramba!
+Dialogue: 0,0:01:38.12,0:01:39.32,flashback,Miz,0000,0000,0000,,Eu sei, eu sei.
+Dialogue: 0,0:01:40.04,0:01:43.21,flashback,Mom2,0000,0000,0000,,Ai, para!
+Dialogue: 0,0:01:43.21,0:01:45.41,flashback,Mom2,0000,0000,0000,,Por que você continua arrancando os pretos?
+Dialogue: 0,0:01:45.62,0:01:47.76,flashback,Miz,0000,0000,0000,,Ah, me desculpe!
+Dialogue: 0,0:01:48.12,0:01:52.92,Main Dialogue,Miz,0000,0000,0000,,Opa... Se eu soubesse.
+Dialogue: 0,0:01:55.66,0:01:58.13,Main Dialogue,Mik,0000,0000,0000,,Hã? Você tem cabelos brancos?
+Dialogue: 0,0:01:58.56,0:01:59.63,Main Dialogue,Mik,0000,0000,0000,,Deixe-me ver.
+Dialogue: 0,0:02:01.68,0:02:04.64,Main Dialogue,Mik,0000,0000,0000,,Uau, você tem muitos!
+Dialogue: 0,0:02:04.99,0:02:07.10,Main Dialogue,Mik,0000,0000,0000,,Você tem um monte, mãe.
+Dialogue: 0,0:02:07.10,0:02:09.35,Main Dialogue,Mom,0000,0000,0000,,Bem, eu tenho esses bem jovens.
+Dialogue: 0,0:02:09.35,0:02:11.45,Main Dialogue,Mik,0000,0000,0000,,Jovens?
+Dialogue: 0,0:02:09.35,0:02:15.34,Signs,txt,0000,0000,0000,,{\c&HEDCB04&\3c&H833638&}Cabelos Brancos Jovens?
+Dialogue: 0,0:02:11.45,0:02:12.20,Main Dialogue,Mom,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:02:12.56,0:02:15.36,Main Dialogue,Mom,0000,0000,0000,,É comum entre as pessoas\N que usam muito a cabeça.
+Dialogue: 0,0:02:15.35,0:02:19.80,Signs,txt,0000,0000,0000,,{\an7\c&H44EECA&\3c&H1C704F&}Ansiedade
+Dialogue: 0,0:02:15.36,0:02:19.80,Main Dialogue,Mom,0000,0000,0000,,E entre as pessoas que são muito ansiosas e\N gastam muito tempo se importando com a família.
+Dialogue: 0,0:02:16.73,0:02:19.80,Signs,txt,0000,0000,0000,,{\an4\c&H7671E0&\3c&H2E1A96&}Família
+Dialogue: 0,0:02:18.05,0:02:19.80,Signs,txt,0000,0000,0000,,{\an9\c&HFB7CB3&\3c&H902551&}Se considerado demais
+Dialogue: 0,0:02:18.62,0:02:19.80,Signs,txt,0000,0000,0000,,{\an6\c&HECB0F1&\3c&H834789&}Etc
+Dialogue: 0,0:02:20.72,0:02:22.23,Main Dialogue,Mik,0000,0000,0000,,Então eu devia tentar arrancar?
+Dialogue: 0,0:02:22.23,0:02:24.70,Main Dialogue,Mom,0000,0000,0000,,Vá em frente, arranque todos eles.
+Dialogue: 0,0:02:25.23,0:02:28.16,Main Dialogue,Mik,0000,0000,0000,,Certo, lá vou eu.
+Dialogue: 0,0:02:37.34,0:02:38.63,Main Dialogue,Mom,0000,0000,0000,,Ai!
+Dialogue: 0,0:02:38.91,0:02:41.09,Main Dialogue,Mom,0000,0000,0000,,Foi um preto, não foi?
+Dialogue: 0,0:02:41.09,0:02:42.84,Main Dialogue,Mom,0000,0000,0000,,O que você está fazendo?
+Dialogue: 0,0:02:42.84,0:02:44.10,Main Dialogue,Mik,0000,0000,0000,,Me desculpe!
+Dialogue: 0,0:02:44.32,0:02:46.01,Main Dialogue,Mom,0000,0000,0000,,Só os brancos!
+Dialogue: 0,0:02:46.01,0:02:46.96,Main Dialogue,Mik,0000,0000,0000,,Sim!
+Dialogue: 0,0:02:46.96,0:02:48.31,Main Dialogue,Mom,0000,0000,0000,,Fique longe dos meus cabelos saudáveis.
+Dialogue: 0,0:02:48.31,0:02:50.32,Main Dialogue,Mik,0000,0000,0000,,Sim...
+Dialogue: 0,0:02:50.32,0:02:51.06,Main Dialogue,Mom,0000,0000,0000,,Caramba...
+Dialogue: 0,0:02:51.45,0:02:53.52,Main Dialogue,Mom,0000,0000,0000,,Eu disse para arrancar apenas os brancos...
+Dialogue: 0,0:02:57.33,0:02:58.48,Main Dialogue,Mom,0000,0000,0000,,O que foi isto?
+Dialogue: 0,0:02:58.48,0:03:01.37,Main Dialogue,Mik,0000,0000,0000,,Você tem um monte de cabelos soltos.
+Dialogue: 0,0:03:01.37,0:03:03.81,Main Dialogue,Mik,0000,0000,0000,,Eles estão por todo o sofá.
+Dialogue: 0,0:03:03.81,0:03:07.38,Main Dialogue,Mom,0000,0000,0000,,Estamos em época de mudança de estação.
+Dialogue: 0,0:03:07.38,0:03:10.09,Main Dialogue,Mik,0000,0000,0000,,E isso significa que seus \Ncabelos começam a cair mais?
+Dialogue: 0,0:03:10.09,0:03:11.87,Main Dialogue,Mom,0000,0000,0000,,É comum entre os mamíferos.
+Dialogue: 0,0:03:11.87,0:03:14.55,Main Dialogue,Mom,0000,0000,0000,,A mudança de pelagem do verão para o inverno.
+Dialogue: 0,0:03:14.55,0:03:17.58,Main Dialogue,Mik,0000,0000,0000,,Este é um cabelo de verão ou de inverno?
+Dialogue: 0,0:03:17.58,0:03:20.71,Main Dialogue,Mom,0000,0000,0000,,É um sinal de metabolismo saudável.
+Dialogue: 0,0:03:20.71,0:03:22.13,Main Dialogue,Mik,0000,0000,0000,,Você é mesmo humana?
+Dialogue: 0,0:03:22.43,0:03:24.30,Main Dialogue,Mom,0000,0000,0000,,Pare de brincar e arranque \Nlogo os meus cabelos brancos!
+Dialogue: 0,0:03:26.54,0:03:27.77,Main Dialogue,Mom,0000,0000,0000,,Ai!
+Dialogue: 0,0:03:28.17,0:03:29.98,Main Dialogue,Mom,0000,0000,0000,,Eu sei que foi outro preto!
+Dialogue: 0,0:03:30.91,0:03:33.46,Main Dialogue,Mik,0000,0000,0000,,Me desculpe, não é como se fosse de propósito!
+Dialogue: 0,0:03:34.12,0:03:37.11,italic,Mik,0000,0000,0000,,Por que ela fica irritada assim\N quando eu arranco um preto?
+Dialogue: 0,0:03:37.67,0:03:38.94,Main Dialogue,Mik,0000,0000,0000,,Por que você não pinta o cabelo?
+Dialogue: 0,0:03:39.28,0:03:40.66,Main Dialogue,Mom,0000,0000,0000,,Isso me daria irritação.
+Dialogue: 0,0:03:40.66,0:03:42.62,Main Dialogue,Mom,0000,0000,0000,,Tenho a pele sensível.
+Dialogue: 0,0:03:42.62,0:03:44.25,Main Dialogue,Mik,0000,0000,0000,,Pele sensível?
+Dialogue: 0,0:03:44.25,0:03:46.70,Main Dialogue,Mom,0000,0000,0000,,Sim, muito sensível!
+Dialogue: 0,0:03:48.26,0:03:50.08,Main Dialogue,Mom,0000,0000,0000,,Isso me lembra de sua vó também...
+Dialogue: 0,0:03:50.73,0:03:53.33,Main Dialogue,Mom,0000,0000,0000,,Ela disse a mesma coisa.
+Dialogue: 0,0:03:53.78,0:03:55.35,flashback,Gran,0000,0000,0000,,Esses são cabelos brancos jovens.
+Dialogue: 0,0:03:55.35,0:03:57.11,flashback,Gran,0000,0000,0000,,Eu ganho eles por pensar demais.
+Dialogue: 0,0:03:57.11,0:03:58.29,flashback,Mom,0000,0000,0000,,Por que não pinta o cabelo?
+Dialogue: 0,0:03:58.61,0:04:00.10,flashback,Gran,0000,0000,0000,,Eu ficaria com uma irritação.
+Dialogue: 0,0:04:00.10,0:04:01.63,flashback,Gran,0000,0000,0000,,Tenho pele sensível.
+Dialogue: 0,0:04:02.68,0:04:04.34,flashback,Mom,0000,0000,0000,,Pele sensível?
+Dialogue: 0,0:04:04.66,0:04:06.78,flashback,Gran,0000,0000,0000,,Sim, sensível demais.
+Dialogue: 0,0:04:09.69,0:04:11.68,flashback,Gran,0000,0000,0000,,O que você está fazendo?
+Dialogue: 0,0:04:14.11,0:04:16.26,Main Dialogue,Mom,0000,0000,0000,,Ela é mesmo assustadora.
+Dialogue: 0,0:04:16.26,0:04:18.38,Main Dialogue,Mik,0000,0000,0000,,Você é que nem ela.
+Dialogue: 0,0:04:18.38,0:04:19.75,Main Dialogue,Mom,0000,0000,0000,,Hã? Onde parecemos?
+Dialogue: 0,0:04:19.75,0:04:21.08,Main Dialogue,Mik,0000,0000,0000,,Ah, para.
+Dialogue: 0,0:04:21.08,0:04:25.73,Main Dialogue,Mom,0000,0000,0000,,Não, ela era muito... Como posso \Ndizer... Ela é muito mais excêntrica.
+Dialogue: 0,0:04:28.58,0:04:29.41,flashback,mom,0000,0000,0000,,O que você vai fazer?
+Dialogue: 0,0:04:30.23,0:04:32.04,flashback,Gran,0000,0000,0000,,Vou buscar o jantar!
+Dialogue: 0,0:04:34.29,0:04:36.28,Signs,txt,0000,0000,0000,,{\c&H2C21BA&\3c&HEFEFEF&}Ai!
+Dialogue: 0,0:04:43.64,0:04:45.00,flashback,Mom,0000,0000,0000,,Mamãe!
+Dialogue: 0,0:04:47.20,0:04:48.64,Main Dialogue,Mik,0000,0000,0000,,Eu pensava que vocês eram fazendeiras.
+Dialogue: 0,0:04:48.93,0:04:53.33,Main Dialogue,Mom,0000,0000,0000,,Ela não era o tipo de pessoa que se \Nmantinha restrita a uma única definição.
+Dialogue: 0,0:04:53.33,0:04:56.14,Main Dialogue,Mom,0000,0000,0000,,Ela trazia veados e javalis para casa.
+Dialogue: 0,0:04:56.14,0:04:58.65,Main Dialogue,Mom,0000,0000,0000,,Ela conseguia pegar vários animais diferentes.
+Dialogue: 0,0:04:59.07,0:05:00.35,Main Dialogue,Mik,0000,0000,0000,,Uau.
+Dialogue: 0,0:05:00.35,0:05:04.02,Main Dialogue,Mik,0000,0000,0000,,Tenho certeza que você conseguiria\N o mesmo se fosse para as montanhas.
+Dialogue: 0,0:05:04.02,0:05:05.83,Main Dialogue,Mom,0000,0000,0000,,Eu não conseguiria vencer\N um javali de mãos vazias.
+Dialogue: 0,0:05:05.83,0:05:06.64,Main Dialogue,Mik,0000,0000,0000,,De mãos vazias?
+Dialogue: 0,0:05:06.64,0:05:07.95,Main Dialogue,Mik,0000,0000,0000,,Ela não usava armadilhas?
+Dialogue: 0,0:05:07.95,0:05:09.17,Main Dialogue,Mom,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:05:09.17,0:05:12.45,Main Dialogue,Mom,0000,0000,0000,,Sua avó derrotava os animais \Nselvagens com as mãos vazias!
+Dialogue: 0,0:05:15.57,0:05:16.87,Signs,Text,0000,0000,0000,,{\c&H4622B0&}Segura!
+Dialogue: 0,0:05:17.82,0:05:19.16,Signs,Text,0000,0000,0000,,{\c&H4622B0&}Jogar alto!
+Dialogue: 0,0:05:19.58,0:05:20.54,Signs,Text,0000,0000,0000,,{\c&H4622B0&}Jogar baixo!
+Dialogue: 0,0:05:20.83,0:05:21.55,Signs,Text,0000,0000,0000,,{\c&H4622B0&}Bam!
+Dialogue: 0,0:05:22.32,0:05:23.55,Signs,Text,0000,0000,0000,,{\c&H3D1BAE&}Palavras Selvagens!
+Dialogue: 0,0:05:25.65,0:05:27.97,Main Dialogue,Mom,0000,0000,0000,,No fim, ela não usava \Nnada a não ser seu olhar...
+Dialogue: 0,0:05:31.27,0:05:33.41,Main Dialogue,Mom,0000,0000,0000,,Para derrubar os animais!
+Dialogue: 0,0:05:39.21,0:05:40.52,flashback,mom,0000,0000,0000,,Mamãe!
+Dialogue: 0,0:05:43.28,0:05:47.54,Main Dialogue,Mom,0000,0000,0000,,Sempre que ela saía, os animais selvagens
+Dialogue: 0,0:05:47.54,0:05:52.05,Main Dialogue,Mom,0000,0000,0000,,a respeitavam e faziam um\N caminho para ela passar.
+Dialogue: 0,0:05:53.57,0:05:56.37,Main Dialogue,Mom,0000,0000,0000,,Meu ponto é que não temos comparação.
+Dialogue: 0,0:05:57.09,0:05:58.58,italic,Mik,0000,0000,0000,,Queria saber onde começaram as mentiras.
+Dialogue: 0,0:05:58.99,0:06:03.49,Main Dialogue,Mom,0000,0000,0000,,Pensando bem... Quantos\N anos minha mãe tinha?
+Dialogue: 0,0:06:04.92,0:06:07.75,Main Dialogue,Mom,0000,0000,0000,,Essa não, acho que era a mesma \Nidade que eu tenho agora!
+Dialogue: 0,0:06:09.14,0:06:12.13,Main Dialogue,Mom,0000,0000,0000,,Não, eu ainda tenho tempo.
+Dialogue: 0,0:06:12.13,0:06:13.98,Main Dialogue,Mik,0000,0000,0000,,Ainda tem?
+Dialogue: 0,0:06:13.98,0:06:16.31,Main Dialogue,Mom,0000,0000,0000,,Eu não sou tão intensa quanto ela.
+Dialogue: 0,0:06:17.89,0:06:19.98,Signs,txt,0000,0000,0000,,{\c&H843FAA&\3c&HF9F9F9&}Você arrancou outro?!
+Dialogue: 0,0:06:18.39,0:06:19.98,Main Dialogue,Mom,0000,0000,0000,,Você arrancou outro?!
+Dialogue: 0,0:06:22.00,0:06:24.29,Main Dialogue,Mik,0000,0000,0000,,Acho que você está intensa demais.
+Dialogue: 0,0:06:25.34,0:06:27.70,Main Dialogue,Mik,0000,0000,0000,,Você não precisa ficar tão irritada assim...
+Dialogue: 0,0:06:29.53,0:06:30.57,Signs,txt,0000,0000,0000,,{\c&H843FAA&\3c&HF9F9F9&}AHHHH
+Dialogue: 0,0:06:30.57,0:06:32.53,Main Dialogue,Mom,0000,0000,0000,,Você pegou outro preto!
+Dialogue: 0,0:06:32.53,0:06:33.83,Main Dialogue,Mik,0000,0000,0000,,Não, não, não!
+Dialogue: 0,0:06:34.16,0:06:35.50,Main Dialogue,Mik,0000,0000,0000,,Olha, é branco.
+Dialogue: 0,0:06:35.50,0:06:36.45,Main Dialogue,Mom,0000,0000,0000,,Não, é preto!
+Dialogue: 0,0:06:36.45,0:06:37.33,Main Dialogue,Mik,0000,0000,0000,,Branco!
+Dialogue: 0,0:06:37.33,0:06:38.21,Main Dialogue,Mom,0000,0000,0000,,É preto!
+Dialogue: 0,0:06:38.21,0:06:38.68,Main Dialogue,Mik,0000,0000,0000,,É branco!
+Dialogue: 0,0:06:38.68,0:06:39.18,Main Dialogue,Mom,0000,0000,0000,,É preto!
+Dialogue: 0,0:06:39.18,0:06:40.00,Main Dialogue,Mik,0000,0000,0000,,É branco!
+Dialogue: 0,0:06:41.46,0:06:42.69,flashback,Mom,0000,0000,0000,,Isso é branco!
+Dialogue: 0,0:06:42.69,0:06:43.59,flashback,Gran,0000,0000,0000,,Não, é preto.
+Dialogue: 0,0:06:43.59,0:06:44.17,flashback,Mom,0000,0000,0000,,É branco!
+Dialogue: 0,0:06:44.17,0:06:44.89,flashback,Gran,0000,0000,0000,,É preto!
+Dialogue: 0,0:06:44.89,0:06:46.26,flashback,Mom,0000,0000,0000,,É branco!
+Dialogue: 0,0:06:47.72,0:06:49.17,flashback,gran,0000,0000,0000,,É preto!
+Dialogue: 0,0:06:47.72,0:06:49.17,Signs,txt,0000,0000,0000,,{\c&H2442EB&\3c&HF9F9F9&}É preto!
+Dialogue: 0,0:06:51.33,0:06:54.64,Main Dialogue,Mom,0000,0000,0000,,Mikan, você é igualzinha a como eu era naquela época.
+Dialogue: 0,0:06:54.97,0:06:55.64,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:06:56.09,0:06:57.64,Atashinchi 3,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:06:59.68,0:07:02.10,Main Dialogue,Mom,0000,0000,0000,,Eu era ruim com a minha mãe.
+Dialogue: 0,0:07:02.31,0:07:06.79,Main Dialogue,Mom,0000,0000,0000,,Quem diria que arrancar um cabelo \Npreto deixaria a pessoa tão irritada.
+Dialogue: 0,0:07:16.32,0:07:19.90,Main Dialogue,Mom,0000,0000,0000,,Agora entendo o que ela sentia.
+Dialogue: 0,0:07:20.44,0:07:21.56,italic,Mik,0000,0000,0000,,Essa não.
+Dialogue: 0,0:07:21.56,0:07:23.71,italic,Mik,0000,0000,0000,,A mamãe continua olhando\N para aquele fio de cabelo.
+Dialogue: 0,0:07:24.04,0:07:26.59,italic,Mik,0000,0000,0000,,Parece que ela está em choque.
+Dialogue: 0,0:07:26.85,0:07:30.42,Main Dialogue,Mik,0000,0000,0000,,Ah... Ei... Sabe...
+Dialogue: 0,0:07:30.88,0:07:32.54,Main Dialogue,Mik,0000,0000,0000,,Me desculpe!
+Dialogue: 0,0:07:33.41,0:07:38.42,Main Dialogue,Mom,0000,0000,0000,,Mikan, um dia você entenderá o que eu sinto.
+Dialogue: 0,0:07:38.79,0:07:39.52,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:07:41.16,0:07:42.51,Main Dialogue,Mik,0000,0000,0000,,Mãe?
+Dialogue: 0,0:07:52.80,0:07:54.99,Atashinchi 4,txt,0000,0000,0000,,Novo Atashinchi
+Dialogue: 0,0:07:54.99,0:07:57.96,Atashinchi 12,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:59.35,0:08:00.48,italic,Yuz,0000,0000,0000,,Por quê?
+Dialogue: 0,0:08:02.01,0:08:06.64,italic,Yuz,0000,0000,0000,,Como outras pessoas conseguem\N viver tão tranquilamente?
+Dialogue: 0,0:08:09.33,0:08:11.27,italic,Yuz,0000,0000,0000,,Olha a minha irmã.
+Dialogue: 0,0:08:12.09,0:08:14.68,flashback,Mom,0000,0000,0000,,Ei, desça da árvore!
+Dialogue: 0,0:08:18.89,0:08:20.63,italic,Yuz,0000,0000,0000,,E depois disso...
+Dialogue: 0,0:08:20.63,0:08:22.28,flashback,Mom,0000,0000,0000,,Eu já cansei de você!
+Dialogue: 0,0:08:27.10,0:08:30.86,italic,Yuz,0000,0000,0000,,Como ela consegue fazer as coisas, mesmo\N sabendo que vai se dar mal com isso?
+Dialogue: 0,0:08:31.28,0:08:32.15,italic,Yuz,0000,0000,0000,,E então...
+Dialogue: 0,0:08:35.29,0:08:36.82,flashback,Mik,0000,0000,0000,,Ei, mamãe!
+Dialogue: 0,0:08:36.44,0:08:36.82,Signs,Sign,0000,0000,0000,,{\an7\c&H322BC3&\3c&HF5FCF3&}Sorvete
+Dialogue: 0,0:08:37.26,0:08:37.78,flashback,Mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:08:38.17,0:08:39.46,flashback,Mik,0000,0000,0000,,Eu quero sorvete!
+Dialogue: 0,0:08:39.46,0:08:42.64,flashback,Mik,0000,0000,0000,,Vamos comprar! Sorvete! Sorvete!
+Dialogue: 0,0:08:42.64,0:08:43.56,flashback,Mom,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:08:45.27,0:08:46.56,italic,Yuz,0000,0000,0000,,Por quê?
+Dialogue: 0,0:08:46.56,0:08:50.88,italic,Yuz,0000,0000,0000,,Como ela consegue implorar assim\N depois de estar encrencada?
+Dialogue: 0,0:08:51.27,0:08:51.88,Main Dialogue,Yuz,0000,0000,0000,,Não consigo.
+Dialogue: 0,0:08:52.27,0:08:52.84,Main Dialogue,Yuz,0000,0000,0000,,Não consigo!
+Dialogue: 0,0:08:53.47,0:08:54.80,Main Dialogue,Yuz,0000,0000,0000,,Eu não consigo!
+Dialogue: 0,0:08:54.80,0:08:58.30,Main Dialogue,Yuz,0000,0000,0000,,Eu jamais conseguiria!
+Dialogue: 0,0:08:58.94,0:09:03.77,title,Tit,0000,0000,0000,,{\fad(400,1)\c&H4770EB&\3c&HE4E4E4&}Yuzu não é Bom em ser Independente
+Dialogue: 0,0:09:04.51,0:09:06.66,italic,Yuz,0000,0000,0000,,Então, teve aquele incidente...
+Dialogue: 0,0:09:07.33,0:09:08.18,flashback,Mik,0000,0000,0000,,Ei, ei.
+Dialogue: 0,0:09:08.18,0:09:09.91,flashback,Mik,0000,0000,0000,,Deixe eu fazer isso também.
+Dialogue: 0,0:09:09.91,0:09:10.62,flashback,Mom,0000,0000,0000,,Não.
+Dialogue: 0,0:09:10.62,0:09:13.26,flashback,Mik,0000,0000,0000,,Mas eu quero ajudar!
+Dialogue: 0,0:09:13.26,0:09:14.27,flashback,Mik,0000,0000,0000,,Ei, ei!
+Dialogue: 0,0:09:13.52,0:09:14.96,flashback,Mom,0000,0000,0000,,{\an8}Você está atrapalhando!
+Dialogue: 0,0:09:16.12,0:09:17.38,flashback,Mik,0000,0000,0000,,Ei, ei!
+Dialogue: 0,0:09:17.38,0:09:18.21,flashback,Mik,0000,0000,0000,,Ei, ei!
+Dialogue: 0,0:09:18.21,0:09:20.87,italic,Yuz,0000,0000,0000,,Como ela se levanta tão rápido?
+Dialogue: 0,0:09:21.54,0:09:23.76,italic,Yuz,0000,0000,0000,,Mas eu...
+Dialogue: 0,0:09:25.64,0:09:27.08,flashback,Mom,0000,0000,0000,,Sushi, sushi...
+Dialogue: 0,0:09:27.08,0:09:28.31,flashback,Mom,0000,0000,0000,,Atum... Ouriço do mar...
+Dialogue: 0,0:09:28.31,0:09:29.75,flashback,Mom,0000,0000,0000,,Camarão e...
+Dialogue: 0,0:09:30.61,0:09:33.17,italic,Yuz,0000,0000,0000,,Eu queria colocar o sushi que \Ncaiu de volta no prato.
+Dialogue: 0,0:09:36.04,0:09:38.97,flashback italic,Yuz,0000,0000,0000,,Eu tenho que colocar de volta no prato!
+Dialogue: 0,0:09:38.97,0:09:40.39,flashback italic,Yuz,0000,0000,0000,,Eu quero ajudar!
+Dialogue: 0,0:09:46.90,0:09:49.16,flashback italic,Yuz,0000,0000,0000,,Estou quase lá...
+Dialogue: 0,0:09:49.16,0:09:50.02,flashback,Mom,0000,0000,0000,,Pare!
+Dialogue: 0,0:09:52.12,0:09:53.78,flashback,Mom,0000,0000,0000,,Nós ainda não vamos comer!
+Dialogue: 0,0:09:56.93,0:09:58.31,flashback,Yuz,0000,0000,0000,,Eu quero ajudar!
+Dialogue: 0,0:09:58.31,0:09:59.49,flashback,Yuz,0000,0000,0000,,Sushi!
+Dialogue: 0,0:09:59.49,0:10:00.24,flashback,Mom,0000,0000,0000,,Não!
+Dialogue: 0,0:10:01.85,0:10:03.19,flashback,Yuz,0000,0000,0000,,Eu quero ajudar!
+Dialogue: 0,0:10:05.24,0:10:09.64,italic,Yuz,0000,0000,0000,,Ainda dói quando penso nisso.
+Dialogue: 0,0:10:11.23,0:10:12.74,italic,Yuz,0000,0000,0000,,E é por isso que eu ainda...
+Dialogue: 0,0:10:13.99,0:10:15.17,flashback,Yuz,0000,0000,0000,,Ele está atrasado.
+Dialogue: 0,0:10:17.41,0:10:18.63,flashback,Yuz,0000,0000,0000,,Lá está ele.
+Dialogue: 0,0:10:18.63,0:10:20.54,flashback,Guy,0000,0000,0000,,Me desculpe, me atrasei.
+Dialogue: 0,0:10:20.54,0:10:24.56,flashback,Guy,0000,0000,0000,,Tinha visitas em casa e nós \Nestávamos comendo bolo...
+Dialogue: 0,0:10:25.35,0:10:26.69,flashback,Guy,0000,0000,0000,,Desculpinha...
+Dialogue: 0,0:10:26.47,0:10:28.85,Signs,Text,0000,0000,0000,,{\c&H242424&\3c&HDCDCDD&}Desapontado!
+Dialogue: 0,0:10:29.32,0:10:30.61,italic,Yuz,0000,0000,0000,,Eu não me importo que você se atrasou.
+Dialogue: 0,0:10:30.61,0:10:32.81,italic,Yuz,0000,0000,0000,,Que bom que você comeu bolo.
+Dialogue: 0,0:10:32.81,0:10:35.36,italic,Yuz,0000,0000,0000,,Mas "desculpinha"?
+Dialogue: 0,0:10:35.36,0:10:36.67,italic,Yuz,0000,0000,0000,,Você pede "desculpinha"?
+Dialogue: 0,0:10:38.15,0:10:40.01,italic,Yuz,0000,0000,0000,,Quando eu estou atrasado...
+Dialogue: 0,0:10:45.20,0:10:45.94,flashback,Yuz,0000,0000,0000,,Foi mal!
+Dialogue: 0,0:10:45.94,0:10:47.16,flashback,Guy,0000,0000,0000,,Ah, não foi nada.
+Dialogue: 0,0:10:47.16,0:10:49.19,flashback,Yuz,0000,0000,0000,,Não, me desculpe.
+Dialogue: 0,0:10:49.52,0:10:52.78,flashback,Guy,0000,0000,0000,,O Nasuo cancelou de última hora.
+Dialogue: 0,0:10:53.31,0:10:54.25,flashback italic,Yuz,0000,0000,0000,,C-Cancelou?!
+Dialogue: 0,0:10:54.49,0:10:57.72,flashback,Guy,0000,0000,0000,,Tipo: "Ei, foi mal, mas eu queria\N assistir o jogo de futebol..."
+Dialogue: 0,0:10:58.01,0:10:58.82,flashback,Guy,0000,0000,0000,,E foi para casa.
+Dialogue: 0,0:10:59.81,0:11:00.97,flashback italic,Yuz,0000,0000,0000,,Ele foi para casa?
+Dialogue: 0,0:11:01.49,0:11:02.23,flashback,Yuz,0000,0000,0000,,Não brinca.
+Dialogue: 0,0:11:02.23,0:11:03.18,flashback,guy,0000,0000,0000,,É verdade.
+Dialogue: 0,0:11:08.27,0:11:11.69,flashback,Yuz,0000,0000,0000,,Ei, estava querendo perguntar\Nalgo faz algum tempo.
+Dialogue: 0,0:11:12.85,0:11:15.82,flashback,Yuz,0000,0000,0000,,Como você consegue viver tão despreocupado?
+Dialogue: 0,0:11:16.54,0:11:18.52,flashback,Guy,0000,0000,0000,,O quê? Não sou tão incrível assim.
+Dialogue: 0,0:11:18.52,0:11:21.48,flashback,Yuz,0000,0000,0000,,Como você está confiante assim\Nachando que irão deixar passar?
+Dialogue: 0,0:11:22.38,0:11:25.24,flashback,Guy,0000,0000,0000,,Mas... é claro que você vai! Somos amigos!
+Dialogue: 0,0:11:31.55,0:11:32.64,italic,Yuz,0000,0000,0000,,Impossível!
+Dialogue: 0,0:11:33.04,0:11:35.19,italic,Yuz,0000,0000,0000,,Eu não consigo ser como eles.
+Dialogue: 0,0:11:36.05,0:11:37.12,italic,Yuz,0000,0000,0000,,Isso mesmo.
+Dialogue: 0,0:11:37.88,0:11:40.21,italic,Yuz,0000,0000,0000,,Assim como quando temos\N um festival de atletismo.
+Dialogue: 0,0:11:40.72,0:11:44.68,flashback italic,yuz/txt,0000,0000,0000,,Batatinhas de Sukiyaki com sabor\N de carne japonesa nível A5.
+Dialogue: 0,0:11:46.65,0:11:48.64,flashback italic,yuz/txt,0000,0000,0000,,Queria experimentar!
+Dialogue: 0,0:11:48.96,0:11:49.85,flashback,Guy,0000,0000,0000,,Quer comer?
+Dialogue: 0,0:11:52.72,0:11:54.23,flashback,Girl,0000,0000,0000,,Que gostoso!
+Dialogue: 0,0:11:54.64,0:11:56.97,flashback italic,Yuz,0000,0000,0000,,Eu também quero...
+Dialogue: 0,0:11:56.97,0:11:58.47,flashback,Guy,0000,0000,0000,,Você quer experimentar?
+Dialogue: 0,0:11:58.47,0:11:59.82,flashback,Yuz,0000,0000,0000,,Não, tudo bem.
+Dialogue: 0,0:12:00.03,0:12:01.18,flashback italic,Yuz,0000,0000,0000,,Essa não!
+Dialogue: 0,0:12:01.18,0:12:02.96,flashback italic,Yuz,0000,0000,0000,,Eu não consigo dizer!
+Dialogue: 0,0:12:02.96,0:12:03.69,flashback,Nas,0000,0000,0000,,Meus olhos me enganaram?
+Dialogue: 0,0:12:03.69,0:12:05.28,flashback,Nas,0000,0000,0000,,Sabor de carne japonesa nível A5?
+Dialogue: 0,0:12:06.34,0:12:07.45,flashback,Guy,0000,0000,0000,,Nasuo.
+Dialogue: 0,0:12:08.85,0:12:10.16,flashback,Nas,0000,0000,0000,,Elas parecem uma delícia.
+Dialogue: 0,0:12:10.43,0:12:12.50,flashback,Nas,0000,0000,0000,,Hora de experimentar!
+Dialogue: 0,0:12:13.53,0:12:14.73,flashback italic,Yuz,0000,0000,0000,,Que diabos?
+Dialogue: 0,0:12:14.73,0:12:15.93,flashback,Nas,0000,0000,0000,,Que delícia!
+Dialogue: 0,0:12:15.93,0:12:16.95,flashback,Nas,0000,0000,0000,,Yuzupi, coma uma!
+Dialogue: 0,0:12:16.95,0:12:17.95,flashback italic,Yuz,0000,0000,0000,,Beleza!
+Dialogue: 0,0:12:18.74,0:12:19.90,flashback,nas,0000,0000,0000,,Você quer?
+Dialogue: 0,0:12:20.14,0:12:21.90,flashback,yuz,0000,0000,0000,,Não, tudo bem.
+Dialogue: 0,0:12:21.90,0:12:24.22,flashback,Nas,0000,0000,0000,,É mesmo? Mas é tão gostoso.
+Dialogue: 0,0:12:24.55,0:12:25.64,flashback italic,Yuz,0000,0000,0000,,Qual o seu problema?
+Dialogue: 0,0:12:25.64,0:12:27.95,flashback italic,Yuz,0000,0000,0000,,Você perdeu sua chance!
+Dialogue: 0,0:12:27.95,0:12:30.39,flashback,Nas,0000,0000,0000,,Então acho que vou comer sua parte.
+Dialogue: 0,0:12:30.39,0:12:31.52,flashback,Guy,0000,0000,0000,,Já chega!
+Dialogue: 0,0:12:34.93,0:12:36.06,flashback italic,Yuz,0000,0000,0000,,Seu idiota!
+Dialogue: 0,0:12:36.06,0:12:38.41,flashback italic,Yuz,0000,0000,0000,,Eles foram embora!
+Dialogue: 0,0:12:41.26,0:12:43.65,italic,Yuz,0000,0000,0000,,Isso me lembra daquela outra vez...
+Dialogue: 0,0:12:44.94,0:12:45.84,flashback,Teach,0000,0000,0000,,Certo, pessoal.
+Dialogue: 0,0:12:45.84,0:12:46.87,flashback,Teach,0000,0000,0000,,Bom trabalho.
+Dialogue: 0,0:12:47.40,0:12:49.59,flashback,Teach,0000,0000,0000,,As pessoas que já colocaram\N suas coisas no lugar podem ir.
+Dialogue: 0,0:12:49.59,0:12:50.94,flashback,Kids,0000,0000,0000,,Sim!
+Dialogue: 0,0:12:50.94,0:12:51.75,flashback,Kids,0000,0000,0000,,Até mais.
+Dialogue: 0,0:12:51.75,0:12:53.44,flashback,Teach,0000,0000,0000,,Até amanhã.
+Dialogue: 0,0:12:56.32,0:12:57.50,flashback,Guy,0000,0000,0000,,Eu faço isso!
+Dialogue: 0,0:12:58.77,0:13:00.10,flashback,Guy,0000,0000,0000,,Certo, pessoal.
+Dialogue: 0,0:13:00.10,0:13:01.32,flashback,Guy,0000,0000,0000,,Bom trabalho.
+Dialogue: 0,0:13:01.32,0:13:03.22,flashback,Guy,0000,0000,0000,,As pessoas que já colocaram\N suas coisas no lugar podem ir.
+Dialogue: 0,0:13:04.94,0:13:06.22,flashback,All,0000,0000,0000,,Você conseguiu!
+Dialogue: 0,0:13:06.51,0:13:08.85,flashback italic,Nas,0000,0000,0000,,Acho que eu posso imitar \Na professora Hara direitinho.
+Dialogue: 0,0:13:11.20,0:13:12.12,flashback,Guy,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:13:12.57,0:13:14.10,flashback,Yuz,0000,0000,0000,,Hã... Nada.
+Dialogue: 0,0:13:14.10,0:13:15.56,flashback,Girl,0000,0000,0000,,Eu também acho que consigo.
+Dialogue: 0,0:13:17.48,0:13:19.09,flashback,Girl,0000,0000,0000,,Certo, lá vou eu.
+Dialogue: 0,0:13:20.08,0:13:21.63,flashback,Girl,0000,0000,0000,,A Professora Hara desistiu.
+Dialogue: 0,0:13:25.04,0:13:27.91,flashback,Guy,0000,0000,0000,,Você imitou o ângulo dos ombros direitinho.
+Dialogue: 0,0:13:27.91,0:13:30.70,flashback italic,Yuz,0000,0000,0000,,Eu conseguiria fazer uma imitação boa assim.
+Dialogue: 0,0:13:32.30,0:13:33.10,flashback,Girl,0000,0000,0000,,Hã? O que foi?
+Dialogue: 0,0:13:33.10,0:13:34.82,flashback,Guy,0000,0000,0000,,O que você está fazendo, Yuzupi?
+Dialogue: 0,0:13:36.02,0:13:37.62,flashback,Yuz,0000,0000,0000,,Hã... Nada.
+Dialogue: 0,0:13:38.27,0:13:39.51,flashback italic,Yuz,0000,0000,0000,,Que medo!
+Dialogue: 0,0:13:39.51,0:13:40.46,flashback italic,Yuz,0000,0000,0000,,Por quê?
+Dialogue: 0,0:13:40.46,0:13:43.84,flashback italic,Yuz,0000,0000,0000,,Por que eu não consigo fazer \Numa piada como todo mundo?
+Dialogue: 0,0:13:44.07,0:13:45.80,flashback,Nao,0000,0000,0000,,Minha vez!
+Dialogue: 0,0:13:47.73,0:13:49.41,flashback,Nao,0000,0000,0000,,O nariz da professora Hara está soprando!
+Dialogue: 0,0:13:49.95,0:13:51.39,flashback,Guy,0000,0000,0000,,Isso é tão verdade!
+Dialogue: 0,0:13:54.42,0:13:56.56,flashback italic,Yuz,0000,0000,0000,,Ele aumentou a dificuldade.
+Dialogue: 0,0:13:57.53,0:13:58.95,flashback italic,Yuz,0000,0000,0000,,É agora ou nunca.
+Dialogue: 0,0:14:00.23,0:14:02.44,flashback italic,Yuz,0000,0000,0000,,Certo, agora eu vou fazer a professora Hara...
+Dialogue: 0,0:14:04.71,0:14:06.59,flashback italic,Yuz,0000,0000,0000,,Todos já foram embora!
+Dialogue: 0,0:14:10.41,0:14:11.68,flashback italic,Yuz,0000,0000,0000,,Professora Hara rindo.
+Dialogue: 0,0:14:20.84,0:14:23.13,flashback italic,Yuz,0000,0000,0000,,Essa eu acertei em cheio.
+Dialogue: 0,0:14:24.70,0:14:26.79,flashback italic,Yuz,0000,0000,0000,,Preciso mostrar para alguém.
+Dialogue: 0,0:14:34.02,0:14:38.43,Main Dialogue,Yuz,0000,0000,0000,,Acho que não sou bom \Nem depender das pessoas...
+Dialogue: 0,0:14:52.49,0:14:55.04,Signs,txt,0000,0000,0000,,{\an6}Novo Atashinchi
+Dialogue: 0,0:14:58.21,0:14:59.71,Atashinchi 3,txt,0000,0000,0000,,{\an7}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:15:05.04,0:15:06.38,italic,Mik,0000,0000,0000,,Aquela garota é tão bonita.
+Dialogue: 0,0:15:08.43,0:15:12.30,italic,Mik,0000,0000,0000,,Ultimamente, sempre que vejo uma \Ngarota bonita, começo a pensar...
+Dialogue: 0,0:15:13.51,0:15:16.52,italic,Mik,0000,0000,0000,,Se eu fosse essa garota,
+Dialogue: 0,0:15:17.29,0:15:19.53,italic,Mik,0000,0000,0000,,eu poderia usar minissaias.
+Dialogue: 0,0:15:21.93,0:15:24.19,italic,Mik,0000,0000,0000,,E poderia ter mais autoconfiança.
+Dialogue: 0,0:15:24.92,0:15:29.90,italic,Mik,0000,0000,0000,,Eu poderia dizer para o Iwaki o que sinto.
+Dialogue: 0,0:15:30.83,0:15:33.57,italic,Mik,0000,0000,0000,,E outras coisas assim.
+Dialogue: 0,0:15:36.39,0:15:38.54,italic,Mik,0000,0000,0000,,Essa não, minha autoestima...
+Dialogue: 0,0:15:38.77,0:15:43.54,title,Tit,0000,0000,0000,,{\fad(400,1)}O que o Papai viu na Mamãe?
+Dialogue: 0,0:15:44.61,0:15:46.05,Main Dialogue,Mik,0000,0000,0000,,Então, mamãe...
+Dialogue: 0,0:15:46.64,0:15:49.93,Main Dialogue,Mik,0000,0000,0000,,Você já gostou de alguém\N quando estava na escola?
+Dialogue: 0,0:15:49.93,0:15:50.79,Main Dialogue,Mom,0000,0000,0000,,Claro.
+Dialogue: 0,0:15:51.27,0:15:52.34,Main Dialogue,Mik,0000,0000,0000,,Tinha alguém?
+Dialogue: 0,0:15:53.31,0:15:54.44,Main Dialogue,Mik,0000,0000,0000,,Você se confessou?
+Dialogue: 0,0:15:54.44,0:15:55.42,Main Dialogue,Mom,0000,0000,0000,,Não.
+Dialogue: 0,0:15:56.49,0:15:59.45,Main Dialogue,Mik,0000,0000,0000,,Então, quando você teve um \Ncasamento arranjado com o papai,
+Dialogue: 0,0:15:59.45,0:16:01.80,Main Dialogue,Mik,0000,0000,0000,,você pensou que ele era a pessoa certa?
+Dialogue: 0,0:16:03.53,0:16:05.79,Main Dialogue,Mom,0000,0000,0000,,Não posso dizer isso.
+Dialogue: 0,0:16:05.79,0:16:09.51,Main Dialogue,Mik,0000,0000,0000,,Mas, mesmo que seja um casamento arranjado, \Nvocê não vai casar com alguém sem afinidade.
+Dialogue: 0,0:16:10.72,0:16:13.53,Main Dialogue,Mom,0000,0000,0000,,Ele gostava de mim, acho que era o bastante.
+Dialogue: 0,0:16:13.77,0:16:14.68,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:16:14.68,0:16:17.24,Main Dialogue,Mik,0000,0000,0000,,Então o papai estava mais\N interessado do que você?
+Dialogue: 0,0:16:17.99,0:16:20.19,Main Dialogue,Mom,0000,0000,0000,,Sim, e daí?
+Dialogue: 0,0:16:20.19,0:16:21.71,Main Dialogue,Mom,0000,0000,0000,,Isso é para assustar tanto?
+Dialogue: 0,0:16:22.67,0:16:24.42,Main Dialogue,Mik,0000,0000,0000,,Não, não mesmo.
+Dialogue: 0,0:16:24.81,0:16:29.67,Main Dialogue,Mom,0000,0000,0000,,Eu não sabia o que fazer, mas ele \Nestava tão determinado que concordei.
+Dialogue: 0,0:16:30.84,0:16:33.38,Main Dialogue,Mik,0000,0000,0000,,Acho que ele deve ter gostado\N mesmo da sua personalidade.
+Dialogue: 0,0:16:33.89,0:16:34.84,Main Dialogue,Mom,0000,0000,0000,,O que você quer dizer com isso?
+Dialogue: 0,0:16:37.71,0:16:42.71,italic,Mik,0000,0000,0000,,Gostaria que o Iwaki gostasse\N da minha personalidade.
+Dialogue: 0,0:16:47.10,0:16:47.96,Main Dialogue,Mom,0000,0000,0000,,O que foi?
+Dialogue: 0,0:16:47.96,0:16:50.07,Main Dialogue,Mom,0000,0000,0000,,Não vai me dizer que o creme estragou?
+Dialogue: 0,0:16:50.86,0:16:52.32,Main Dialogue,Mik,0000,0000,0000,,Não foi nada.
+Dialogue: 0,0:16:52.63,0:16:58.42,Main Dialogue,Mik,0000,0000,0000,,Mas estou curiosa... Do que o\N papai gostou tanto em você?
+Dialogue: 0,0:16:58.43,0:16:59.80,Main Dialogue,MOm,0000,0000,0000,,Como assim?
+Dialogue: 0,0:16:59.80,0:17:01.70,Main Dialogue,MOm,0000,0000,0000,,Ele disse que gostou do meu rosto.
+Dialogue: 0,0:17:01.70,0:17:02.81,Main Dialogue,Mik,0000,0000,0000,,Do seu rosto?
+Dialogue: 0,0:17:02.81,0:17:05.04,Main Dialogue,Mom,0000,0000,0000,,Meu rosto, eu acho.
+Dialogue: 0,0:17:05.04,0:17:06.18,Main Dialogue,Mik,0000,0000,0000,,Do rosto?
+Dialogue: 0,0:17:06.18,0:17:08.13,Main Dialogue,Mom,0000,0000,0000,,Claro, não foi só isso.
+Dialogue: 0,0:17:08.42,0:17:10.17,Main Dialogue,Mom,0000,0000,0000,,Eu sou uma pessoa muito séria.
+Dialogue: 0,0:17:11.40,0:17:13.70,Main Dialogue,Mom,0000,0000,0000,,Alegre, trabalhadora.
+Dialogue: 0,0:17:13.70,0:17:15.01,Main Dialogue,Mom,0000,0000,0000,,Cozinho bem.
+Dialogue: 0,0:17:15.01,0:17:17.13,Main Dialogue,Mom,0000,0000,0000,,E eu era {\i1}arrasa-quarteirões{\i0} quando jovem.
+Dialogue: 0,0:17:17.13,0:17:18.30,Main Dialogue,Mom,0000,0000,0000,,Sou amável.
+Dialogue: 0,0:17:18.30,0:17:19.58,Main Dialogue,Mom,0000,0000,0000,,Canto bem.
+Dialogue: 0,0:17:19.58,0:17:20.68,Main Dialogue,Mom,0000,0000,0000,,Meus dentes são perfeitos.
+Dialogue: 0,0:17:20.68,0:17:21.93,Main Dialogue,Mom,0000,0000,0000,,Eu como qualquer coisa.
+Dialogue: 0,0:17:21.93,0:17:24.36,Main Dialogue,Mom,0000,0000,0000,,E deus ajuda quem cedo madruga...
+Dialogue: 0,0:17:25.09,0:17:28.87,Main Dialogue,Mik,0000,0000,0000,,O que é essa torre de autoconfiança?
+Dialogue: 0,0:17:26.60,0:17:30.57,Signs,rzr,0000,0000,0000,,{\c&H325266&\3c&H0E221F&}Atratividade
+Dialogue: 0,0:17:32.56,0:17:35.46,Main Dialogue,Mik,0000,0000,0000,,Nós estamos em dimensões diferentes demais.
+Dialogue: 0,0:17:36.59,0:17:37.45,Main Dialogue,Mom,0000,0000,0000,,Ah... Um buraco.
+Dialogue: 0,0:17:38.28,0:17:41.78,Main Dialogue,Mom,0000,0000,0000,,Tem um buraco no pijama do seu pai.
+Dialogue: 0,0:17:42.12,0:17:43.57,Main Dialogue,Mik,0000,0000,0000,,Acho que vai virar um pano.
+Dialogue: 0,0:17:43.57,0:17:45.03,Main Dialogue,Mom,0000,0000,0000,,Não, ele ainda consegue usar.
+Dialogue: 0,0:17:52.98,0:17:53.88,Main Dialogue,Mom,0000,0000,0000,,O que você acha?
+Dialogue: 0,0:17:54.34,0:17:55.09,Main Dialogue,Mik,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:17:56.92,0:17:58.39,Main Dialogue,Mom,0000,0000,0000,,Um retalho.
+Dialogue: 0,0:17:58.86,0:18:00.10,Main Dialogue,Mom,0000,0000,0000,,Que bonitinho, não é?
+Dialogue: 0,0:18:00.47,0:18:02.77,Main Dialogue,Mik,0000,0000,0000,,Não... mesmo...
+Dialogue: 0,0:18:03.30,0:18:05.10,Main Dialogue,Mik,0000,0000,0000,,Se fosse eu, ficaria irritada.
+Dialogue: 0,0:18:05.10,0:18:06.42,Main Dialogue,Mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:18:06.85,0:18:08.81,Main Dialogue,Mom,0000,0000,0000,,Bem, vai ficar assim.
+Dialogue: 0,0:18:09.16,0:18:10.77,Main Dialogue,Mom,0000,0000,0000,,Ele vai ficar bem com isso.
+Dialogue: 0,0:18:11.57,0:18:14.44,Main Dialogue,Dad,0000,0000,0000,,Hã? O que é isto?
+Dialogue: 0,0:18:17.74,0:18:18.77,italic,Mik,0000,0000,0000,,Ele está rindo.
+Dialogue: 0,0:18:22.23,0:18:24.78,italic,mik,0000,0000,0000,,Talvez eu ache algumas fotos antigas.
+Dialogue: 0,0:18:25.31,0:18:28.52,italic,mik,0000,0000,0000,,Quer dizer, eles se {\i1}casaram{\i0}.
+Dialogue: 0,0:18:28.85,0:18:31.85,italic,mik,0000,0000,0000,,Talvez minha mãe fosse \Nmesmo bonita naquela época.
+Dialogue: 0,0:18:32.73,0:18:33.38,Main Dialogue,mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:18:33.99,0:18:34.76,Main Dialogue,mik,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:18:35.29,0:18:37.93,Main Dialogue,mik,0000,0000,0000,,Que cabelo estranho!
+Dialogue: 0,0:18:38.83,0:18:41.42,Main Dialogue,Mom,0000,0000,0000,,Estou surpresa que isso ainda exista.
+Dialogue: 0,0:18:41.42,0:18:43.52,Main Dialogue,Mom,0000,0000,0000,,Foi pouco antes de nos casarmos.
+Dialogue: 0,0:18:43.73,0:18:46.01,Main Dialogue,Mom,0000,0000,0000,,O seu pai e eu fomos ver as cerejeiras juntos.
+Dialogue: 0,0:18:46.01,0:18:48.47,Main Dialogue,Mik,0000,0000,0000,,Mas que diabos de cabelo é esse?
+Dialogue: 0,0:18:49.07,0:18:50.41,Main Dialogue,Mom,0000,0000,0000,,Acho que...
+Dialogue: 0,0:18:50.41,0:18:54.82,Main Dialogue,Mom,0000,0000,0000,,O que aconteceu, foi que o \Nsalão errou o permanente...
+Dialogue: 0,0:18:56.55,0:18:59.41,Main Dialogue,Mik,0000,0000,0000,,Você saiu num encontro depois \Nque o salão errou o permanente?
+Dialogue: 0,0:18:59.41,0:19:00.45,Main Dialogue,Mom,0000,0000,0000,,Eu fui!
+Dialogue: 0,0:19:01.58,0:19:04.23,italic,Mik,0000,0000,0000,,Eu não acredito! Eu não acredito!
+Dialogue: 0,0:19:04.23,0:19:09.17,italic,Mik,0000,0000,0000,,Eu fingiria estar doente para me\N safar do encontro, se fosse comigo.
+Dialogue: 0,0:19:09.45,0:19:13.35,italic,Mik,0000,0000,0000,,De jeito nenhum que eu apareceria\N assim para quem eu amo...
+Dialogue: 0,0:19:13.76,0:19:15.67,flashback,Iwa,0000,0000,0000,,Desculpe a demora.
+Dialogue: 0,0:19:16.17,0:19:18.88,flashback,Mik,0000,0000,0000,,Sem problema, tudo bem!
+Dialogue: 0,0:19:19.21,0:19:20.34,flashback,Mik,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:19:20.70,0:19:21.80,flashback,Mik,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:19:23.92,0:19:25.76,italic,Mik,0000,0000,0000,,Eu não conseguiria viver com isso!
+Dialogue: 0,0:19:27.73,0:19:28.42,Main Dialogue,Dad,0000,0000,0000,,O que foi?
+Dialogue: 0,0:19:28.42,0:19:29.47,Main Dialogue,Dad,0000,0000,0000,,O que vocês duas estão olhando?
+Dialogue: 0,0:19:29.47,0:19:30.85,Main Dialogue,Mik,0000,0000,0000,,Pai, olhe só.
+Dialogue: 0,0:19:30.85,0:19:32.55,Main Dialogue,Mik,0000,0000,0000,,O que você achou quando viu isso?
+Dialogue: 0,0:19:33.10,0:19:35.36,Main Dialogue,Dad,0000,0000,0000,,Fotos antigas?
+Dialogue: 0,0:19:35.36,0:19:36.77,Main Dialogue,Mik,0000,0000,0000,,O que você pensou?
+Dialogue: 0,0:19:36.77,0:19:38.17,Main Dialogue,Dad,0000,0000,0000,,O que eu pensei?
+Dialogue: 0,0:19:38.17,0:19:42.45,Main Dialogue,Mik,0000,0000,0000,,Sim, quando você viu que sua \Nnamorada apareceu com esse cabelo!
+Dialogue: 0,0:19:43.00,0:19:44.97,Main Dialogue,Dad,0000,0000,0000,,Sim, eu me lembro desse dia.
+Dialogue: 0,0:19:44.97,0:19:48.04,Main Dialogue,Dad,0000,0000,0000,,As cerejeiras estavam todas \Nfloridas e o clima estava ótimo.
+Dialogue: 0,0:19:48.04,0:19:52.63,Main Dialogue,Dad,0000,0000,0000,,Então, apesar das condições estarem perfeitas,
+Dialogue: 0,0:19:52.63,0:19:57.17,Main Dialogue,Dad,0000,0000,0000,,eu acho que a maioria deles \Nestava vendo a cabeça da sua mãe.
+Dialogue: 0,0:19:58.91,0:20:02.82,Main Dialogue,Dad,0000,0000,0000,,Quer dizer, se alguém aparecer com \No cabelo assim, as pessoas vão olhar.
+Dialogue: 0,0:20:03.80,0:20:06.01,Main Dialogue,Mik,0000,0000,0000,,E você não tinha problema com isso?
+Dialogue: 0,0:20:06.96,0:20:09.73,Signs,txt,0000,0000,0000,,{\c&H843FAA&\3c&HF9F9F9&}Pum!
+Dialogue: 0,0:20:10.32,0:20:11.73,Main Dialogue,mik,0000,0000,0000,,Não creio!
+Dialogue: 0,0:20:12.23,0:20:12.94,Main Dialogue,mik,0000,0000,0000,,Pai.
+Dialogue: 0,0:20:14.67,0:20:16.60,Main Dialogue,mik,0000,0000,0000,,Eu preciso saber!
+Dialogue: 0,0:20:16.60,0:20:18.43,Main Dialogue,mik,0000,0000,0000,,É verdade que, no seu casamento arranjado,
+Dialogue: 0,0:20:18.43,0:20:21.10,Main Dialogue,mik,0000,0000,0000,,você estava mais interessado \Nna mamãe do que ela em você?
+Dialogue: 0,0:20:22.14,0:20:24.20,Main Dialogue,mik,0000,0000,0000,,O que você gostou nela?
+Dialogue: 0,0:20:24.79,0:20:26.34,Main Dialogue,mik,0000,0000,0000,,O que fez você decidir que era ela?
+Dialogue: 0,0:20:28.42,0:20:33.16,Main Dialogue,Mom,0000,0000,0000,,Mikan não vai descansar até que você diga \No que foi que fez você querer casar comigo.
+Dialogue: 0,0:20:33.97,0:20:35.17,Main Dialogue,Mik,0000,0000,0000,,Anda, pai!
+Dialogue: 0,0:20:36.77,0:20:37.83,italic,Mik,0000,0000,0000,,Responda!
+Dialogue: 0,0:20:38.19,0:20:42.93,italic,Mik,0000,0000,0000,,Minha vida inteira depende dessa resposta!
+Dialogue: 0,0:20:39.84,0:20:42.93,Signs,Text,0000,0000,0000,,Vida
+Dialogue: 0,0:20:43.22,0:20:46.37,Main Dialogue,Mom,0000,0000,0000,,Anda, querido, responda.
+Dialogue: 0,0:20:49.61,0:20:51.85,Main Dialogue,Dad,0000,0000,0000,,Acho que... eu queria salvá-la.
+Dialogue: 0,0:20:56.64,0:20:59.60,Main Dialogue,Mom,0000,0000,0000,,Você é tão inteligente às vezes.
+Dialogue: 0,0:21:01.63,0:21:03.25,Main Dialogue,Mik,0000,0000,0000,,Você peidou de novo!
+Dialogue: 0,0:21:03.25,0:21:04.60,Main Dialogue,Dad,0000,0000,0000,,Dó, mi, sol.
+Dialogue: 0,0:21:04.60,0:21:05.25,Main Dialogue,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:21:05.55,0:21:08.49,Main Dialogue,Dad,0000,0000,0000,,O último teve som de "Dó, mi, sol".
+Dialogue: 0,0:21:10.09,0:21:13.43,Main Dialogue,Mom,0000,0000,0000,,O seu pai tem um ouvido perfeito para puns.
+Dialogue: 0,0:21:13.43,0:21:14.33,Main Dialogue,Mom,0000,0000,0000,,Ele sempre teve.
+Dialogue: 0,0:21:14.70,0:21:16.29,Main Dialogue,Mik,0000,0000,0000,,S-Sempre?
+Dialogue: 0,0:21:17.39,0:21:19.00,Signs,txt,0000,0000,0000,,{\c&H843FAA&\3c&HF9F9F9&}Pum!
+Dialogue: 0,0:21:19.86,0:21:22.72,Main Dialogue,Dad,0000,0000,0000,,E esse último foi um "Sol" bem agudo.
+Dialogue: 0,0:21:23.21,0:21:25.22,Main Dialogue,Dad,0000,0000,0000,,Pum... Bem assim.
+Dialogue: 0,0:21:27.13,0:21:28.72,Main Dialogue,Mom,0000,0000,0000,,Ah, querido, para com isso.
+Dialogue: 0,0:21:29.13,0:21:31.63,Main Dialogue,Mom,0000,0000,0000,,Você sabe que faz tempo que não fazemos\N isso, é para tentar uma harmonia.
+Dialogue: 0,0:21:34.17,0:21:39.25,italic,Mik,0000,0000,0000,,Acho que funciona nesta casa.
+Dialogue: 0,0:21:52.45,0:21:55.04,Atashinchi,txt,0000,0000,0000,,{\an9}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,Mamãe e o Banho de Quadril
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,A Inveja de Yoshioka
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,Os Métodos de Rejuvenescimento da Mamãe
+Dialogue: 0,0:22:55.57,0:22:57.18,Main Dialogue,Yuz,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
+Dialogue: 0,0:22:57.18,0:22:59.70,Main Dialogue,Yuz,0000,0000,0000,,"Mamãe e o Banho de Quadril" e outros dois episódios.
+Dialogue: 0,0:23:01.66,0:23:04.55,Main Dialogue,Guy,0000,0000,0000,,Tachibana, quero ser seu amigo para sempre.

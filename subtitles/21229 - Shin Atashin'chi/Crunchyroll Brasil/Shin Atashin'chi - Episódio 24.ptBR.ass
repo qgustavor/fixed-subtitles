@@ -1,0 +1,497 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Show Title 1,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Shape Up,Arial,26,&H0095FFFD,&H000000FF,&H00A2243A,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Special Deal,Arial,28,&H000100E5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Book 1,Arial,24,&H003B2AD9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Book 2,Arial,20,&H007B301E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Asia 1,Arial,20,&H00A7700D,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Asia 2,Arial,20,&H00564CDA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Asia 3,Arial,20,&H00000000,&H000000FF,&H0028FFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0020,0018,1
+Style: Dokidoki,Arial,20,&H00CA4F86,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Spring,Arial,20,&H00FFFFFF,&H000000FF,&H00862FB0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Femanager,Arial,20,&H00FFFFFF,&H000000FF,&H00BA2966,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00E6E6E6,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0020,0080,0010,1
+Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0110,0050,0020,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+Style: Signs - Copy,Arial,18,&H00FFFFFF,&H000000FF,&H00AD1BCC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0060,0020,0090,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:55.61,0:00:58.20,Atashinchi 7,txt,0001,0344,0013,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:01:01.06,0:01:02.41,Main Dialogue,Mom,0000,0000,0000,,É a Sra. Mizushima.
+Dialogue: 0,0:01:02.41,0:01:06.12,Italic,Text,0000,0000,0000,,Comprei umas peras La France\N deliciosas e queria compartilhar.
+Dialogue: 0,0:01:06.12,0:01:08.39,Italic,Text,0000,0000,0000,,Você está livre na quarta ou na quinta?
+Dialogue: 0,0:01:08.39,0:01:10.09,Main Dialogue,mac,0000,0000,0000,,Sra. Tachibana.
+Dialogue: 0,0:01:10.58,0:01:12.05,Main Dialogue,Mom,0000,0000,0000,,Ah, olá, Sra. Machiko.
+Dialogue: 0,0:01:13.01,0:01:14.51,Atashinchi 7,txt,0402,0001,0011,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:01:14.72,0:01:17.08,Main Dialogue,Mac,0000,0000,0000,,Eu recebi a mesma mensagem.
+Dialogue: 0,0:01:17.08,0:01:18.42,Main Dialogue,Mom,0000,0000,0000,,Isso significa...
+Dialogue: 0,0:01:19.73,0:01:20.82,Main Dialogue,Mac,0000,0000,0000,,Sra. Toyama!
+Dialogue: 0,0:01:20.82,0:01:21.93,Main Dialogue,Toy,0000,0000,0000,,Ah, olá!
+Dialogue: 0,0:01:21.93,0:01:24.42,Main Dialogue,Mom,0000,0000,0000,,Você por acaso está lendo uma\N mensagem da Sra. Mizushima?
+Dialogue: 0,0:01:24.42,0:01:26.49,Main Dialogue,Toy,0000,0000,0000,,Nossa, como você sabe?
+Dialogue: 0,0:01:26.49,0:01:29.73,Main Dialogue,Mom,0000,0000,0000,,Por que não vamos ver essas peras juntas?
+Dialogue: 0,0:01:29.73,0:01:30.78,Main Dialogue,Mac,0000,0000,0000,,Boa ideia.
+Dialogue: 0,0:01:30.78,0:01:32.74,Main Dialogue,Mom,0000,0000,0000,,Quarta-feira fica bom para mim.
+Dialogue: 0,0:01:32.74,0:01:34.17,Main Dialogue,Toy,0000,0000,0000,,Para mim também.
+Dialogue: 0,0:01:34.17,0:01:36.03,Main Dialogue,Mac,0000,0000,0000,,Então vamos todas na quarta.
+Dialogue: 0,0:01:37.44,0:01:41.09,Main Dialogue,Mac,0000,0000,0000,,Isso me lembra que quarta é\N o aniversário da Mizushima.
+Dialogue: 0,0:01:42.08,0:01:46.83,title,Tit,0000,0000,0000,,{\fad(400,1)\c&H54A72A&\3c&HF2F2F2&}O Presente Surpresa da Mamãe
+Dialogue: 0,0:01:47.31,0:01:50.17,Main Dialogue,Mom,0000,0000,0000,,Que coincidência ser o aniversário dela.
+Dialogue: 0,0:01:50.47,0:01:53.01,Main Dialogue,Mac,0000,0000,0000,,Será que deveríamos levar um presente?
+Dialogue: 0,0:01:53.01,0:01:53.95,Main Dialogue,Mac,0000,0000,0000,,Só uma coisinha pequena.
+Dialogue: 0,0:01:53.95,0:01:55.68,Main Dialogue,Mom,0000,0000,0000,,Uma surpresa!
+Dialogue: 0,0:01:55.68,0:01:58.13,Main Dialogue,Toy,0000,0000,0000,,Boa ideia, vamos fazer uma surpresa.
+Dialogue: 0,0:01:58.52,0:01:59.88,Main Dialogue,Mac,0000,0000,0000,,Então está decidido.
+Dialogue: 0,0:01:59.88,0:02:01.28,Main Dialogue,Mac,0000,0000,0000,,O que vamos comprar para ela?
+Dialogue: 0,0:02:01.28,0:02:03.39,Main Dialogue,Toy,0000,0000,0000,,Isso mesmo, o que vai ser?
+Dialogue: 0,0:02:03.39,0:02:04.50,Main Dialogue,Mac,0000,0000,0000,,Né...
+Dialogue: 0,0:02:06.40,0:02:07.56,Main Dialogue,Mom,0000,0000,0000,,Eu poderia comprar alguma coisa.
+Dialogue: 0,0:02:09.45,0:02:11.48,Main Dialogue,Mac,0000,0000,0000,,Tem certeza que não tem problema?
+Dialogue: 0,0:02:11.48,0:02:12.79,Main Dialogue,Mom,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:02:12.79,0:02:15.03,Main Dialogue,Mom,0000,0000,0000,,Eu ia no shopping amanhã mesmo!
+Dialogue: 0,0:02:15.52,0:02:17.72,Main Dialogue,Toy,0000,0000,0000,,Então vamos deixar por sua conta.
+Dialogue: 0,0:02:17.72,0:02:18.99,Main Dialogue,Mac,0000,0000,0000,,S-Sim...
+Dialogue: 0,0:02:19.96,0:02:23.37,Italic,Mac,0000,0000,0000,,Essa for por pouco, seria uma \Nagonia se eu tivesse que escolher.
+Dialogue: 0,0:02:23.76,0:02:26.66,Italic,Toy,0000,0000,0000,,Muito obrigada, Sra. Tachibana,\N ficamos devendo uma.
+Dialogue: 0,0:02:26.92,0:02:29.60,Main Dialogue,Mac,0000,0000,0000,,Quanto devemos gastar no presente?
+Dialogue: 0,0:02:29.60,0:02:31.99,Main Dialogue,Toy,0000,0000,0000,,Não queremos que seja caro nem barato.
+Dialogue: 0,0:02:31.99,0:02:33.54,Main Dialogue,Mac,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:02:33.92,0:02:35.75,Main Dialogue,Mom,0000,0000,0000,,Que tal cada uma de nós dar uns 1.500 ienes?
+Dialogue: 0,0:02:36.02,0:02:37.25,Main Dialogue,Mac,0000,0000,0000,,Parece uma boa!
+Dialogue: 0,0:02:37.25,0:02:39.22,Main Dialogue,Toy,0000,0000,0000,,Sim, perfeito.
+Dialogue: 0,0:02:39.60,0:02:43.05,Italic,Mac,0000,0000,0000,,Que bom, eu teria morrido se\N tivesse que escolher o valor.
+Dialogue: 0,0:02:43.58,0:02:45.22,Italic,Toy,0000,0000,0000,,Ficamos devendo uma.
+Dialogue: 0,0:02:45.42,0:02:49.97,Main Dialogue,Toy,0000,0000,0000,,Que tal você dar 1.500 \Nienes e nós darmos 1.750?
+Dialogue: 0,0:02:49.97,0:02:52.30,Main Dialogue,Toy,0000,0000,0000,,Assim vamos juntar 5.000 ienes.
+Dialogue: 0,0:02:52.30,0:02:53.55,Main Dialogue,mac,0000,0000,0000,,Boa ideia!
+Dialogue: 0,0:02:53.94,0:02:54.94,Main Dialogue,Mom,0000,0000,0000,,Desse jeito, eu vou me sentir mal.
+Dialogue: 0,0:02:55.41,0:02:56.90,Main Dialogue,mac,0000,0000,0000,,Por favor, não se sinta.
+Dialogue: 0,0:02:57.94,0:02:59.76,Main Dialogue,Toy,0000,0000,0000,,Você está fazendo mais do que precisa.
+Dialogue: 0,0:02:59.76,0:03:00.62,Main Dialogue,Mac,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:03:00.62,0:03:01.62,Main Dialogue,Mom,0000,0000,0000,,Acha mesmo?
+Dialogue: 0,0:03:02.00,0:03:03.92,Main Dialogue,Mac,0000,0000,0000,,A Mizushima vai ficar tão surpresa.
+Dialogue: 0,0:03:03.92,0:03:06.62,Main Dialogue,Toy,0000,0000,0000,,Nós temos que dar um jeito \Nda Mizushima não descobrir.
+Dialogue: 0,0:03:06.90,0:03:09.83,Main Dialogue,Mom,0000,0000,0000,,Surpresa! Mal posso esperar!
+Dialogue: 0,0:03:10.12,0:03:13.67,Atashinchi 7,txt,0320,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:03:13.67,0:03:16.58,Italic,Mom,0000,0000,0000,,O que eu compro para ela?
+Dialogue: 0,0:03:16.58,0:03:19.47,Italic,Mom,0000,0000,0000,,Dá para conseguir muita \Ncoisa boa por 5.000 ienes.
+Dialogue: 0,0:03:23.33,0:03:24.45,Italic,Mom,0000,0000,0000,,Isso é uma boa!
+Dialogue: 0,0:03:24.45,0:03:26.14,Italic,Mom,0000,0000,0000,,Você perde peso só de ficar sentada!
+Dialogue: 0,0:03:33.10,0:03:37.07,Italic,Mom,0000,0000,0000,,Que gostoso! Ela vai ficar tão feliz!
+Dialogue: 0,0:03:41.53,0:03:43.45,Shape Up,txt,0001,0496,0003,,Fique em forma!
+Dialogue: 0,0:03:41.53,0:03:43.45,Special Deal,txt,0001,0006,15,,Oferta especial! 29.800 ienes!
+Dialogue: 0,0:03:42.28,0:03:43.45,Main Dialogue,mom,0000,0000,0000,,Que caro!
+Dialogue: 0,0:03:44.28,0:03:45.78,Atashinchi,txt,0000,0000,0000,,{\a6}Novo Atashinchi
+Dialogue: 0,0:03:46.40,0:03:48.94,Italic,Mom,0000,0000,0000,,Eu devia dar alguma coisa de comer para ela.
+Dialogue: 0,0:03:50.12,0:03:51.71,Main Dialogue,Mom,0000,0000,0000,,Uma fruta, quem sabe?
+Dialogue: 0,0:03:52.58,0:03:53.71,Main Dialogue,Mom,0000,0000,0000,,Isso me lembra...
+Dialogue: 0,0:03:55.16,0:03:58.45,flashback,Miz,0000,0000,0000,,Soube que esse lugar tem\N frutas tropicais deliciosas.
+Dialogue: 0,0:03:59.66,0:04:00.92,Main Dialogue,Mom,0000,0000,0000,,Ela já disse isso.
+Dialogue: 0,0:04:03.37,0:04:07.01,Main Dialogue,Mom,0000,0000,0000,,Que cheiro bom, mas aposto que é caro.
+Dialogue: 0,0:04:08.97,0:04:09.72,Italic,Mom,0000,0000,0000,,5.000 ienes!
+Dialogue: 0,0:04:10.83,0:04:11.93,Main Dialogue,Mom,0000,0000,0000,,Perfeito!
+Dialogue: 0,0:04:13.31,0:04:16.97,flashback italic,Text,0000,0000,0000,,Comprei umas peras La France\N deliciosas e queria compartilhar.
+Dialogue: 0,0:04:17.67,0:04:22.15,Italic,Mom,0000,0000,0000,,Eu não posso levar uma cesta \Nde frutas se lá já vai ter frutas.
+Dialogue: 0,0:04:24.63,0:04:28.28,Italic,Mom,0000,0000,0000,,Espere um pouco, a Mizushima\N adora ler na banheira.
+Dialogue: 0,0:04:28.28,0:04:30.04,Book 1,Tit,0001,0016,15,,Terceira Idade
+Dialogue: 0,0:04:28.28,0:04:30.04,Book 2,Tit,0032,0001,15,,{\an2}Um best-seller! Três semanas em 1º lugar!
+Dialogue: 0,0:04:30.34,0:04:32.95,Italic,Mom,0000,0000,0000,,Talvez não seja o melhor para um aniversário.
+Dialogue: 0,0:04:32.95,0:04:34.21,Main Dialogue,Miz,0000,0000,0000,,Sra. Tachibana.
+Dialogue: 0,0:04:35.37,0:04:36.46,Main Dialogue,Mom,0000,0000,0000,,Sra. Mizushima!
+Dialogue: 0,0:04:36.86,0:04:39.92,Main Dialogue,Mom,0000,0000,0000,,Boa hora! Eu estava procurando por você!
+Dialogue: 0,0:04:40.20,0:04:41.88,Italic,Mom,0000,0000,0000,,Idiota! Não dá pra dizer isso para ela.
+Dialogue: 0,0:04:42.47,0:04:43.34,Main Dialogue,Miz,0000,0000,0000,,O que foi?
+Dialogue: 0,0:04:42.55,0:04:43.34,Asia 1,Book,0000,0000,0000,,Asia
+Dialogue: 0,0:04:42.55,0:04:43.34,Asia 2,Book,0000,0000,0000,,Viagem de 2 dias e 1 noite
+Dialogue: 0,0:04:42.55,0:04:43.34,Asia 3,Book,0001,0088,15,,{\an3}Seu coração vai bater mais forte nos resorts da Ásia
+Dialogue: 0,0:04:45.32,0:04:46.47,Main Dialogue,Miz,0000,0000,0000,,O que é isto?
+Dialogue: 0,0:04:46.99,0:04:49.03,Main Dialogue,Mom,0000,0000,0000,,Nada.
+Dialogue: 0,0:04:49.03,0:04:50.88,Main Dialogue,Mom,0000,0000,0000,,Você vai viajar?
+Dialogue: 0,0:04:51.31,0:04:52.42,Main Dialogue,Miz,0000,0000,0000,,Ah, isto?
+Dialogue: 0,0:04:52.42,0:04:55.52,Main Dialogue,Miz,0000,0000,0000,,Eu só gosto de olhar e fantasiar\N que eu fui para algum lugar.
+Dialogue: 0,0:04:55.52,0:04:57.23,Main Dialogue,Miz,0000,0000,0000,,A maneira mais barata de viajar.
+Dialogue: 0,0:04:57.51,0:04:59.44,Main Dialogue,Mom,0000,0000,0000,,Entendo. Hã?
+Dialogue: 0,0:04:59.72,0:05:01.52,Main Dialogue,Mom,0000,0000,0000,,Resorts da Ásia?
+Dialogue: 0,0:05:04.46,0:05:05.11,Main Dialogue,Miz,0000,0000,0000,,Ué.
+Dialogue: 0,0:05:05.42,0:05:07.74,Main Dialogue,Miz,0000,0000,0000,,Essa loja é nova!
+Dialogue: 0,0:05:08.11,0:05:11.36,Main Dialogue,Miz,0000,0000,0000,,Adoro essa temática asiática.
+Dialogue: 0,0:05:11.97,0:05:14.23,Main Dialogue,Miz,0000,0000,0000,,Esse abajur é uma graça!
+Dialogue: 0,0:05:14.23,0:05:16.11,Main Dialogue,Miz,0000,0000,0000,,Isso também é ótimo!
+Dialogue: 0,0:05:17.90,0:05:19.42,Italic,Mom,0000,0000,0000,,5.800 ienes?
+Dialogue: 0,0:05:20.32,0:05:21.34,Main Dialogue,Mom,0000,0000,0000,,Por pouco.
+Dialogue: 0,0:05:21.34,0:05:22.11,Main Dialogue,Miz,0000,0000,0000,,Hã?
+Dialogue: 0,0:05:22.11,0:05:24.08,Main Dialogue,Mom,0000,0000,0000,,Nada!
+Dialogue: 0,0:05:26.89,0:05:27.38,Main Dialogue,Mom,0000,0000,0000,,Ué?
+Dialogue: 0,0:05:27.91,0:05:29.16,Main Dialogue,Mom,0000,0000,0000,,Isso é perfeito.
+Dialogue: 0,0:05:29.16,0:05:31.65,Main Dialogue,Miz,0000,0000,0000,,Nós temos um igualzinho a esse em casa.
+Dialogue: 0,0:05:32.22,0:05:33.74,Main Dialogue,Mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:05:35.56,0:05:36.59,Main Dialogue,Miz,0000,0000,0000,,Essa não!
+Dialogue: 0,0:05:36.59,0:05:38.10,Main Dialogue,Miz,0000,0000,0000,,Eu tenho que ir.
+Dialogue: 0,0:05:38.43,0:05:40.34,Main Dialogue,Miz,0000,0000,0000,,Tenho uma consulta com o dentista.
+Dialogue: 0,0:05:40.34,0:05:42.57,Main Dialogue,Miz,0000,0000,0000,,Ah, é mesmo! Até quarta!
+Dialogue: 0,0:05:42.57,0:05:44.74,Main Dialogue,Miz,0000,0000,0000,,A Sra. Toyama e a Sra. Machiko\N disseram que também vão!
+Dialogue: 0,0:05:44.93,0:05:46.76,Main Dialogue,Mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:05:46.76,0:05:47.70,Italic,Mom,0000,0000,0000,,Eu sei.
+Dialogue: 0,0:05:48.05,0:05:50.21,Main Dialogue,Miz,0000,0000,0000,,Até quarta!
+Dialogue: 0,0:05:50.21,0:05:51.93,Main Dialogue,Mom,0000,0000,0000,,Até quarta!
+Dialogue: 0,0:05:53.78,0:05:55.41,Main Dialogue,Mom,0000,0000,0000,,O-O-O que eu vou fazer?
+Dialogue: 0,0:05:55.41,0:05:57.83,Main Dialogue,Mom,0000,0000,0000,,O que vou comprar de presente surpresa?
+Dialogue: 0,0:05:57.83,0:05:59.42,Main Dialogue,Mom,0000,0000,0000,,E-Eu não faço a mínima ideia!
+Dialogue: 0,0:05:59.79,0:06:00.81,Italic,Mom,0000,0000,0000,,Surpresa!
+Dialogue: 0,0:06:00.94,0:06:02.18,Italic,Mom,0000,0000,0000,,Surpresa!
+Dialogue: 0,0:06:02.72,0:06:04.21,Italic,Mom,0000,0000,0000,,Surpresa!
+Dialogue: 0,0:06:05.17,0:06:05.96,Italic,Mom,0000,0000,0000,,Surpresa?
+Dialogue: 0,0:06:06.09,0:06:06.92,Italic,Mom,0000,0000,0000,,Surpresa?
+Dialogue: 0,0:06:07.46,0:06:09.45,Italic,Mom,0000,0000,0000,,O que vou fazer?
+Dialogue: 0,0:06:10.20,0:06:12.89,Italic,Mom,0000,0000,0000,,Eu não sou boa em comprar presentes!
+Dialogue: 0,0:06:14.17,0:06:15.56,Italic,Voice,0000,0000,0000,,Surpresa.
+Dialogue: 0,0:06:20.52,0:06:22.40,Atashinchi 7,txt,0360,0001,0009,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:06:22.83,0:06:24.36,Main Dialogue,Three,0000,0000,0000,,Boa tarde!
+Dialogue: 0,0:06:24.65,0:06:27.32,Main Dialogue,Miz,0000,0000,0000,,Vocês vieram juntas?
+Dialogue: 0,0:06:27.82,0:06:29.31,Main Dialogue,Miz,0000,0000,0000,,Sentem onde quiserem.
+Dialogue: 0,0:06:31.56,0:06:32.49,Main Dialogue,mac,0000,0000,0000,,Mizushima...
+Dialogue: 0,0:06:33.46,0:06:35.39,Main Dialogue,mac,0000,0000,0000,,É o seu aniversário hoje, não é?
+Dialogue: 0,0:06:36.03,0:06:37.96,Main Dialogue,All,0000,0000,0000,,Feliz Aniversário!
+Dialogue: 0,0:06:38.76,0:06:40.42,Main Dialogue,Miz,0000,0000,0000,,Vocês se lembraram?
+Dialogue: 0,0:06:41.69,0:06:42.77,Main Dialogue,Mom,0000,0000,0000,,Tcharam!
+Dialogue: 0,0:06:42.77,0:06:44.71,Main Dialogue,Mom,0000,0000,0000,,Um presente surpresa!
+Dialogue: 0,0:06:44.71,0:06:46.93,Main Dialogue,Miz,0000,0000,0000,,Não acredito!
+Dialogue: 0,0:06:48.23,0:06:50.12,Main Dialogue,Miz,0000,0000,0000,,Estou tão feliz! Não sei nem o que dizer.
+Dialogue: 0,0:06:50.12,0:06:51.39,Main Dialogue,Miz,0000,0000,0000,,Muito obrigada.
+Dialogue: 0,0:06:51.69,0:06:53.10,Main Dialogue,Mom,0000,0000,0000,,Anda logo e abra.
+Dialogue: 0,0:06:54.18,0:06:55.31,Main Dialogue,Miz,0000,0000,0000,,O que será?
+Dialogue: 0,0:07:00.05,0:07:01.44,Main Dialogue,Miz,0000,0000,0000,,Estou tão empolgada!
+Dialogue: 0,0:07:01.79,0:07:04.07,Main Dialogue,Toy,0000,0000,0000,,O que será que ela comprou?
+Dialogue: 0,0:07:04.07,0:07:06.15,Main Dialogue,Mac,0000,0000,0000,,Nós nem perguntamos.
+Dialogue: 0,0:07:06.15,0:07:07.86,Dokidoki,Sing,0001,0444,0002,,Que empolgação!
+Dialogue: 0,0:07:06.45,0:07:07.86,Italic,Both,0000,0000,0000,,Que empolgação!
+Dialogue: 0,0:07:09.07,0:07:10.13,Main Dialogue,Mom,0000,0000,0000,,Tcharam!
+Dialogue: 0,0:07:10.13,0:07:11.28,Main Dialogue,Miz,0000,0000,0000,,Vou abrir!
+Dialogue: 0,0:07:15.20,0:07:19.21,Main Dialogue,Miz,0000,0000,0000,,O que é isto?
+Dialogue: 0,0:07:19.21,0:07:20.79,Main Dialogue,Mom,0000,0000,0000,,Eu não sei direito.
+Dialogue: 0,0:07:21.41,0:07:25.05,Main Dialogue,Mom,0000,0000,0000,,Mas você disse que amava \Nmóveis com temática asiática.
+Dialogue: 0,0:07:25.05,0:07:26.21,Main Dialogue,Miz,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:07:26.93,0:07:28.57,Italic,Miz,0000,0000,0000,,Isso não é um móvel.
+Dialogue: 0,0:07:28.57,0:07:30.92,Italic,Miz,0000,0000,0000,,Eu também não sei se é asiático.
+Dialogue: 0,0:07:31.31,0:07:32.49,Main Dialogue,Mom,0000,0000,0000,,Você ficou surpresa?
+Dialogue: 0,0:07:32.49,0:07:33.89,Main Dialogue,Miz,0000,0000,0000,,Fiquei, sim!
+Dialogue: 0,0:07:34.42,0:07:35.60,Italic,Miz,0000,0000,0000,,Em vários sentidos.
+Dialogue: 0,0:07:35.90,0:07:37.81,Italic,Toy,0000,0000,0000,,Por que ela foi escolher isso?
+Dialogue: 0,0:07:38.08,0:07:40.14,Italic,Mac,0000,0000,0000,,Ela usou todo o nosso dinheiro para isso?
+Dialogue: 0,0:07:40.57,0:07:41.85,Main Dialogue,All,0000,0000,0000,,Que surpresa!
+Dialogue: 0,0:07:42.16,0:07:43.22,Main Dialogue,Mom,0000,0000,0000,,Que ótimo!
+Dialogue: 0,0:07:43.22,0:07:45.06,Main Dialogue,Mom,0000,0000,0000,,A surpresa foi um sucesso!
+Dialogue: 0,0:07:47.63,0:07:52.03,Italic,Mik,0000,0000,0000,,Surpreendeu até as amigas dela.
+Dialogue: 0,0:07:52.99,0:07:54.99,Atashinchi,txt,0001,0348,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:55.41,0:07:57.95,Atashinchi 7,txt,0001,0250,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:56.86,0:07:59.83,Main Dialogue,guy,0000,0000,0000,,Força! Força! Força! Oh!
+Dialogue: 0,0:08:00.09,0:08:01.50,Main Dialogue,guy,0000,0000,0000,,Vai nessa!
+Dialogue: 0,0:08:01.74,0:08:03.38,Main Dialogue,guy,0000,0000,0000,,Um, dois, três, quatro.
+Dialogue: 0,0:08:03.38,0:08:04.98,Main Dialogue,guy,0000,0000,0000,,Dois, dois, três, quatro!
+Dialogue: 0,0:08:04.98,0:08:06.55,Main Dialogue,guy,0000,0000,0000,,Vai!
+Dialogue: 0,0:08:08.04,0:08:10.64,Italic,Yuz,0000,0000,0000,,A maioria das pessoas não sabe,
+Dialogue: 0,0:08:10.64,0:08:13.93,Italic,Yuz,0000,0000,0000,,mas eu entrei para o time de beisebol.
+Dialogue: 0,0:08:14.55,0:08:16.17,Italic,Yuz,0000,0000,0000,,Mas, bem...
+Dialogue: 0,0:08:16.17,0:08:20.13,Italic,Yuz,0000,0000,0000,,Eu deveria dizer que a maior parte das pessoas\N nem sabem que a escola tem um time de beisebol.
+Dialogue: 0,0:08:20.13,0:08:21.51,Main Dialogue,guy,0000,0000,0000,,Uau!
+Dialogue: 0,0:08:21.51,0:08:22.73,Main Dialogue,guy,0000,0000,0000,,Isso aí!
+Dialogue: 0,0:08:23.46,0:08:27.03,Italic,Yuz,0000,0000,0000,,O motivo é que não temos pessoas\N o suficiente para ter partidas.
+Dialogue: 0,0:08:27.03,0:08:29.19,Italic,Yuz,0000,0000,0000,,Além disso, não usamos uniformes,
+Dialogue: 0,0:08:29.19,0:08:31.94,Italic,Yuz,0000,0000,0000,,então, à primeira vista, ninguém\N sabe de que time nós somos.
+Dialogue: 0,0:08:32.65,0:08:35.42,Italic,Yuz,0000,0000,0000,,Podem até nos chamar de \Ntime de beisebol fantasma.
+Dialogue: 0,0:08:38.66,0:08:40.24,Main Dialogue,guy,0000,0000,0000,,Levem isso a sério!
+Dialogue: 0,0:08:42.33,0:08:47.21,title,Tit,0000,0000,0000,,{\fad(400,1)\c&HF2F2F2&\3c&H7B7B7B&}Yuzu e o Time de Beisebol (Parte Um)
+Dialogue: 0,0:08:47.33,0:08:50.67,Signs - Copy,Text,0320,0001,0004,,{\fad(400,1)}Primavera do Primeiro Ano do Ginásio
+Dialogue: 0,0:08:47.91,0:08:50.67,Italic,Yuz,0000,0000,0000,,Aconteceu quando eu estava\N começando o Ginásio.
+Dialogue: 0,0:08:50.67,0:08:53.75,Main Dialogue,guy,0000,0000,0000,,Então, vocês queriam saber se eu \Nquero entrar no time de beisebol.
+Dialogue: 0,0:08:53.75,0:08:55.44,Main Dialogue,Kid,0000,0000,0000,,Nós não temos jogadores suficientes.
+Dialogue: 0,0:08:56.37,0:08:58.00,Main Dialogue,Kid,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:08:58.00,0:08:59.47,Main Dialogue,Kid,0000,0000,0000,,Vocês gostam de beisebol, não é?
+Dialogue: 0,0:08:59.68,0:09:03.18,Main Dialogue,Fuj,0000,0000,0000,,Claro, mas assistir e jogar são \Ncoisas completamente diferentes.
+Dialogue: 0,0:09:04.16,0:09:06.87,Main Dialogue,Kid,0000,0000,0000,,Vocês não precisam nem ser bons,
+Dialogue: 0,0:09:06.87,0:09:09.35,Main Dialogue,Kid,0000,0000,0000,,se estiverem pensando em entrar no time...
+Dialogue: 0,0:09:09.35,0:09:10.90,Main Dialogue,Fuj,0000,0000,0000,,Tudo bem, vou pensar.
+Dialogue: 0,0:09:12.86,0:09:13.71,Main Dialogue,guy,0000,0000,0000,,Certo.
+Dialogue: 0,0:09:13.71,0:09:16.62,Main Dialogue,guy,0000,0000,0000,,Venha assistir ao treino, se tiverem interesse.
+Dialogue: 0,0:09:18.09,0:09:19.83,Main Dialogue,guy,0000,0000,0000,,Ah, eu sou o Furuta, do segundo ano.
+Dialogue: 0,0:09:20.11,0:09:21.43,Main Dialogue,Yuz,0000,0000,0000,,Ah, sou o Tachibana.
+Dialogue: 0,0:09:21.43,0:09:22.79,Main Dialogue,fuj,0000,0000,0000,,Sou o Fujino.
+Dialogue: 0,0:09:23.63,0:09:24.82,Main Dialogue,guy,0000,0000,0000,,Boa sorte, pessoal.
+Dialogue: 0,0:09:26.83,0:09:28.73,Main Dialogue,Fuj,0000,0000,0000,,Ei, Yuzupi, venha aqui.
+Dialogue: 0,0:09:29.83,0:09:31.19,Main Dialogue,guy,0000,0000,0000,,Bom arremesso!
+Dialogue: 0,0:09:36.78,0:09:38.59,Main Dialogue,Kid,0000,0000,0000,,Direto!
+Dialogue: 0,0:09:45.92,0:09:47.03,Main Dialogue,Yuz,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:09:47.03,0:09:48.34,Main Dialogue,Fuj,0000,0000,0000,,Que incrível.
+Dialogue: 0,0:09:48.34,0:09:50.40,Main Dialogue,Fuj,0000,0000,0000,,Deve ter ido a 130 km/h!
+Dialogue: 0,0:09:51.02,0:09:52.46,Main Dialogue,guy,0000,0000,0000,,Bom arremesso.
+Dialogue: 0,0:09:53.31,0:09:55.32,Main Dialogue,Kid,0000,0000,0000,,Garfo.
+Dialogue: 0,0:10:03.50,0:10:06.01,Main Dialogue,Fuj,0000,0000,0000,,Viu, esse cara é incrível!
+Dialogue: 0,0:10:06.01,0:10:08.00,Main Dialogue,Yuz,0000,0000,0000,,Sim, é mesmo.
+Dialogue: 0,0:10:08.38,0:10:10.27,Main Dialogue,guy,0000,0000,0000,,Bom arremesso...
+Dialogue: 0,0:10:12.61,0:10:15.48,Italic,yuz,0000,0000,0000,,E então, quando percebemos, estávamos aqui.
+Dialogue: 0,0:10:19.60,0:10:23.82,Main Dialogue,Kid,0000,0000,0000,,Vamos ter outro grande dia de treino hoje!
+Dialogue: 0,0:10:24.99,0:10:28.32,Italic,Yuz,0000,0000,0000,,Nós tínhamos três jogadores como defensores\N externos antes das férias de verão,
+Dialogue: 0,0:10:28.32,0:10:31.07,Italic,Yuz,0000,0000,0000,,mas todos eles estavam no \Nterceiro ano e agora se foram.
+Dialogue: 0,0:10:31.42,0:10:32.35,Main Dialogue,Guy,0000,0000,0000,,Segunda base!
+Dialogue: 0,0:10:32.35,0:10:32.90,Main Dialogue,Kid,0000,0000,0000,,Aqui!
+Dialogue: 0,0:10:36.84,0:10:38.18,Main Dialogue,Guy,0000,0000,0000,,Eu vou rebater para a terceira base!
+Dialogue: 0,0:10:44.29,0:10:45.95,Main Dialogue,Guy,0000,0000,0000,,Certo, agora uma bola curta!
+Dialogue: 0,0:10:49.35,0:10:50.54,Main Dialogue,Kid,0000,0000,0000,,Beleza.
+Dialogue: 0,0:10:51.31,0:10:53.01,Main Dialogue,Fuj,0000,0000,0000,,O Ono é tão maneiro!
+Dialogue: 0,0:10:54.31,0:10:54.96,Main Dialogue,oon,0000,0000,0000,,Ei, pessoal!
+Dialogue: 0,0:10:55.45,0:10:56.64,Main Dialogue,Fuj,0000,0000,0000,,O que foi?
+Dialogue: 0,0:10:56.64,0:10:58.25,Main Dialogue,Kid,0000,0000,0000,,Então estamos no mesmo time, não é?
+Dialogue: 0,0:10:58.25,0:10:59.70,Main Dialogue,Kid,0000,0000,0000,,Então me digam a verdade.
+Dialogue: 0,0:11:00.33,0:11:01.93,Main Dialogue,Kid,0000,0000,0000,,Tem alguma garota bonita na turma de vocês?
+Dialogue: 0,0:11:02.77,0:11:04.55,Main Dialogue,Fuj,0000,0000,0000,,Não!
+Dialogue: 0,0:11:05.16,0:11:07.65,Main Dialogue,Yuz,0000,0000,0000,,Tem uma garota, a Rina.
+Dialogue: 0,0:11:08.06,0:11:10.21,Main Dialogue,Yuz,0000,0000,0000,,Todos acham que ela é bonita.
+Dialogue: 0,0:11:12.35,0:11:14.13,Main Dialogue,Fuj,0000,0000,0000,,Espere, tem outra garota.
+Dialogue: 0,0:11:14.13,0:11:16.41,Main Dialogue,Fuj,0000,0000,0000,,Na verdade, ela é uma gata.
+Dialogue: 0,0:11:16.41,0:11:17.22,Main Dialogue,yuz,0000,0000,0000,,E quem é?
+Dialogue: 0,0:11:17.22,0:11:18.33,Main Dialogue,Fuj,0000,0000,0000,,Q-Quem?
+Dialogue: 0,0:11:18.33,0:11:21.16,Main Dialogue,Kid2,0000,0000,0000,,Todas as garotas na turma deles são lindas!
+Dialogue: 0,0:11:21.16,0:11:23.16,Main Dialogue,Kid2,0000,0000,0000,,Elas são "cheias de conteúdo".
+Dialogue: 0,0:11:23.46,0:11:24.16,Main Dialogue,Kid,0000,0000,0000,,Coisa boa!
+Dialogue: 0,0:11:24.16,0:11:26.20,Main Dialogue,Kid,0000,0000,0000,,Isso me deixa mesmo empolgado!
+Dialogue: 0,0:11:26.59,0:11:28.54,Main Dialogue,Yuz,0000,0000,0000,,Não fale bobagens sem sentido!
+Dialogue: 0,0:11:28.83,0:11:31.08,Spring,Text,0448,0001,15,,{\fad(400,1)}Alguns dias depois
+Dialogue: 0,0:11:33.80,0:11:35.04,Main Dialogue,kid,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:11:35.42,0:11:37.10,Main Dialogue,kid,0000,0000,0000,,Onde estão as garotas bonitas?
+Dialogue: 0,0:11:37.10,0:11:38.55,Italic,both,0000,0000,0000,,É sério isso?
+Dialogue: 0,0:11:39.07,0:11:40.15,Main Dialogue,Kid,0000,0000,0000,,Apontem elas!
+Dialogue: 0,0:11:40.15,0:11:41.51,Main Dialogue,Fuj,0000,0000,0000,,Eu não posso fazer isso.
+Dialogue: 0,0:11:41.87,0:11:45.31,Main Dialogue,Fuj,0000,0000,0000,,Eu não conseguiria sobreviver mais\N um dia na sala se eu fizesse isso.
+Dialogue: 0,0:11:45.31,0:11:49.22,Main Dialogue,Kid,0000,0000,0000,,Tô ligado, só olhe na direção delas\N que eu vou seguir os seus olhos.
+Dialogue: 0,0:11:50.67,0:11:55.19,Main Dialogue,Fuj,0000,0000,0000,,Certo, a que todo mundo \Nacha bonita, a Rina, é aquela ali.
+Dialogue: 0,0:11:58.43,0:11:59.53,Main Dialogue,Kid,0000,0000,0000,,E você, Yuzupi?
+Dialogue: 0,0:11:59.53,0:12:00.87,Main Dialogue,Kid,0000,0000,0000,,Quem você acha bonita?
+Dialogue: 0,0:12:02.51,0:12:03.82,Main Dialogue,Yuz,0000,0000,0000,,Elas são todas bonitas!
+Dialogue: 0,0:12:04.57,0:12:05.91,Main Dialogue,Kid,0000,0000,0000,,Pare de se fazer de bom moço!
+Dialogue: 0,0:12:06.98,0:12:10.79,Main Dialogue,Kid,0000,0000,0000,,E a garota que você gosta, Fujino?
+Dialogue: 0,0:12:11.64,0:12:13.93,Main Dialogue,Kid,0000,0000,0000,,Eu sei que ela não é a garota que\N você me mostrou antes, não é?
+Dialogue: 0,0:12:18.57,0:12:19.82,Main Dialogue,sud,0000,0000,0000,,Com licença.
+Dialogue: 0,0:12:20.43,0:12:21.60,Main Dialogue,Fuj,0000,0000,0000,,Sudo!
+Dialogue: 0,0:12:21.60,0:12:23.52,Main Dialogue,Kid,0000,0000,0000,,A garota que acabou de \Npassar... Ela tem namorado?
+Dialogue: 0,0:12:23.52,0:12:28.13,Main Dialogue,Fuj,0000,0000,0000,,Ah, bem, eu nunca perguntei sobre isso...
+Dialogue: 0,0:12:29.49,0:12:32.14,Main Dialogue,Kid,0000,0000,0000,,E aquelas garotas cheias de conteúdo\N que o Oyamada estava falando?
+Dialogue: 0,0:12:32.14,0:12:33.19,Main Dialogue,Kid,0000,0000,0000,,Quem são?
+Dialogue: 0,0:12:33.19,0:12:35.64,Main Dialogue,Yuz,0000,0000,0000,,Aquilo é bobagem do Oyamada!
+Dialogue: 0,0:12:35.64,0:12:37.06,Main Dialogue,Yuz,0000,0000,0000,,É só um desejo muito forte.
+Dialogue: 0,0:12:39.04,0:12:39.84,Main Dialogue,Girl,0000,0000,0000,,Você ouviu isso?
+Dialogue: 0,0:12:39.84,0:12:42.74,Main Dialogue,Girl,0000,0000,0000,,O Yuzupi chamou as garotas\N da nossa sala de bonitas!
+Dialogue: 0,0:12:44.19,0:12:45.69,Main Dialogue,Girl,0000,0000,0000,,Ele é tão maravilhoso!
+Dialogue: 0,0:12:45.69,0:12:47.21,Main Dialogue,Girl2,0000,0000,0000,,Um verdadeiro príncipe.
+Dialogue: 0,0:12:47.21,0:12:48.70,Main Dialogue,Both,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:12:50.72,0:12:51.83,Main Dialogue,Yuz,0000,0000,0000,,Tô cansado.
+Dialogue: 0,0:12:51.83,0:12:52.82,Main Dialogue,Fuj,0000,0000,0000,,Sim...
+Dialogue: 0,0:12:53.28,0:12:56.13,Main Dialogue,Girl,0000,0000,0000,,Aquele garoto é o arremessador\N do time de beisebol, não é?
+Dialogue: 0,0:12:56.39,0:12:57.54,Main Dialogue,Both,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:12:58.66,0:13:00.88,Main Dialogue,Girl,0000,0000,0000,,Vocês dois ao menos têm posições?
+Dialogue: 0,0:13:00.88,0:13:01.86,Main Dialogue,Yuz,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:01.86,0:13:03.91,Main Dialogue,Yuz,0000,0000,0000,,Você tem interesse em beisebol?
+Dialogue: 0,0:13:03.91,0:13:06.89,Main Dialogue,Fuj,0000,0000,0000,,Espera, você sabe que \Nestamos no time de beisebol?
+Dialogue: 0,0:13:06.89,0:13:08.75,Main Dialogue,Girl,0000,0000,0000,,Eu assisto beisebol de vez em quando.
+Dialogue: 0,0:13:08.75,0:13:12.11,Main Dialogue,Girl,0000,0000,0000,,Vi vocês treinando,
+Dialogue: 0,0:13:12.11,0:13:13.77,Main Dialogue,Girl,0000,0000,0000,,mas eu não sabia dizer de que time era.
+Dialogue: 0,0:13:14.06,0:13:15.21,Main Dialogue,Yuz,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:13:15.21,0:13:17.98,Main Dialogue,Yuz,0000,0000,0000,,De agora em diante, eu jogo na segunda\N base e o Fujino como interbases.
+Dialogue: 0,0:13:18.31,0:13:19.44,Main Dialogue,Girl,0000,0000,0000,,Ah, vocês jogam na defesa interna?
+Dialogue: 0,0:13:19.44,0:13:21.49,Main Dialogue,Fuj,0000,0000,0000,,Você entende mesmo de beisebol.
+Dialogue: 0,0:13:21.49,0:13:22.97,Main Dialogue,Girl,0000,0000,0000,,Vocês têm partidas e coisas assim?
+Dialogue: 0,0:13:22.97,0:13:25.15,Main Dialogue,Fuj,0000,0000,0000,,O que foi? Quer vir torcer por nós?
+Dialogue: 0,0:13:25.71,0:13:26.72,Main Dialogue,Girl,0000,0000,0000,,Na verdade,
+Dialogue: 0,0:13:26.72,0:13:30.87,Main Dialogue,Girl,0000,0000,0000,,a Sudo achou o arremessador fofo.
+Dialogue: 0,0:13:32.81,0:13:34.68,Main Dialogue,Girl,0000,0000,0000,,Me digam quando tiverem uma partida marcada.
+Dialogue: 0,0:13:34.68,0:13:35.42,Main Dialogue,Yuz,0000,0000,0000,,Claro.
+Dialogue: 0,0:13:36.45,0:13:38.65,Main Dialogue,Yuz,0000,0000,0000,,Acho que elas vão ir ver a gente jogar.
+Dialogue: 0,0:13:38.65,0:13:39.88,Main Dialogue,Yuz,0000,0000,0000,,Fujino?
+Dialogue: 0,0:13:40.71,0:13:43.91,Main Dialogue,Fuj,0000,0000,0000,,É sério, Sudo?
+Dialogue: 0,0:13:43.91,0:13:45.29,Main Dialogue,Fuj,0000,0000,0000,,É sério?
+Dialogue: 0,0:13:46.60,0:13:48.01,Main Dialogue,guy,0000,0000,0000,,Bom arremesso!
+Dialogue: 0,0:13:51.25,0:13:53.18,Main Dialogue,ooN,0000,0000,0000,,Bola curva!
+Dialogue: 0,0:13:58.65,0:14:02.36,Italic,guy,0000,0000,0000,,Eu aposto que ele é bom o \Nbastante para ir ao Koshien.
+Dialogue: 0,0:14:03.14,0:14:07.28,Italic,guy,0000,0000,0000,,Se continuarmos nos esforçando\N com nosso time de beisebol,
+Dialogue: 0,0:14:07.57,0:14:10.95,Italic,guy,0000,0000,0000,,ele poderia entrar em um \Ncolégio forte na parte esportiva
+Dialogue: 0,0:14:10.95,0:14:12.95,Italic,guy,0000,0000,0000,,e chegar até os profissionais.
+Dialogue: 0,0:14:13.83,0:14:16.91,Italic,guy,0000,0000,0000,,Só de pensar nisso, meu \Ncoração bate mais forte!
+Dialogue: 0,0:14:17.73,0:14:21.09,Italic,guy,0000,0000,0000,,Me dá vontade de ser um \Njogador de beisebol melhor.
+Dialogue: 0,0:14:27.94,0:14:29.82,Main Dialogue,Yuz,0000,0000,0000,,Você sabe o que acabei de perceber?
+Dialogue: 0,0:14:30.46,0:14:32.73,Main Dialogue,Yuz,0000,0000,0000,,O Furuta que carrega o time.
+Dialogue: 0,0:14:32.73,0:14:34.55,Main Dialogue,Fuj,0000,0000,0000,,Não é o Ono?
+Dialogue: 0,0:14:34.55,0:14:35.35,Main Dialogue,Yuz,0000,0000,0000,,Isso.
+Dialogue: 0,0:14:37.01,0:14:39.98,Main Dialogue,Yuz,0000,0000,0000,,O Ono é um arremessador incrível,
+Dialogue: 0,0:14:40.33,0:14:45.36,Main Dialogue,Yuz,0000,0000,0000,,mas o Furuta é quem mantém o time unido.
+Dialogue: 0,0:14:50.40,0:14:52.91,Main Dialogue,guy,0000,0000,0000,,Bom arremesso...
+Dialogue: 0,0:14:52.41,0:14:55.04,Atashinchi,txt,0312,0070,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:55.91,0:14:58.41,Atashinchi 7,txt,0001,0238,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:15:01.11,0:15:04.07,Main Dialogue,Girl,0000,0000,0000,,Parece que o Yuzupi está no time de beisebol.
+Dialogue: 0,0:15:04.07,0:15:05.61,Main Dialogue,Girl2,0000,0000,0000,,Acho que sim.
+Dialogue: 0,0:15:05.61,0:15:07.80,Main Dialogue,Girl2,0000,0000,0000,,Não que eu tenha visto ele treinando.
+Dialogue: 0,0:15:07.80,0:15:11.26,Main Dialogue,Girl,0000,0000,0000,,Eu queria tanto ver ele de uniforme!
+Dialogue: 0,0:15:12.02,0:15:14.33,Main Dialogue,Girl2,0000,0000,0000,,Mas o time de beisebol é de verdade mesmo?
+Dialogue: 0,0:15:14.33,0:15:16.39,Main Dialogue,Girl,0000,0000,0000,,Hã? Não é?
+Dialogue: 0,0:15:16.39,0:15:20.25,Main Dialogue,Girl2,0000,0000,0000,,Você nunca vê ninguém na nossa escola \Nque pareça ser de um time de beisebol.
+Dialogue: 0,0:15:20.25,0:15:21.69,Main Dialogue,Girl,0000,0000,0000,,É verdade.
+Dialogue: 0,0:15:21.69,0:15:23.23,Main Dialogue,Girl2,0000,0000,0000,,Talvez até tenha, mas \Nninguém joga de verdade.
+Dialogue: 0,0:15:24.24,0:15:26.69,Main Dialogue,Girl,0000,0000,0000,,Quer dizer beisebol de mentira?
+Dialogue: 0,0:15:27.18,0:15:30.63,Main Dialogue,Girl,0000,0000,0000,,Mas, às vezes, eu vejo o Yuzupi e o Fujino
+Dialogue: 0,0:15:30.63,0:15:32.65,Main Dialogue,Girl,0000,0000,0000,,andando por aí com umas bolsas enormes!
+Dialogue: 0,0:15:32.65,0:15:35.67,Main Dialogue,Girl,0000,0000,0000,,Deve significar que eles \Nestão no time de beisebol.
+Dialogue: 0,0:15:35.67,0:15:37.42,Main Dialogue,Girl2,0000,0000,0000,,É mesmo um time de beisebol fantasma.
+Dialogue: 0,0:15:37.42,0:15:41.08,Main Dialogue,Girl,0000,0000,0000,,Fantasma... Como será que o Yuzupi joga?
+Dialogue: 0,0:15:41.77,0:15:42.73,Main Dialogue,Yuz,0000,0000,0000,,Técnico!
+Dialogue: 0,0:15:42.73,0:15:43.67,Main Dialogue,Coa,0000,0000,0000,,Tachibana!
+Dialogue: 0,0:15:43.85,0:15:45.62,Main Dialogue,Girl,0000,0000,0000,,Você acha que eles falam assim?
+Dialogue: 0,0:15:46.09,0:15:47.13,Main Dialogue,Girl2,0000,0000,0000,,E então...
+Dialogue: 0,0:15:47.99,0:15:50.69,Main Dialogue,Yuz,0000,0000,0000,,Eu não gosto de comer tunicados.
+Dialogue: 0,0:15:50.69,0:15:52.09,Main Dialogue,Coa,0000,0000,0000,,Eu também não!
+Dialogue: 0,0:15:52.36,0:15:54.85,Main Dialogue,Girl2,0000,0000,0000,,Você acha mesmo que eles dizem isso?
+Dialogue: 0,0:15:54.85,0:15:58.16,Main Dialogue,Girl,0000,0000,0000,,Eu não sei, eu não entendo nada de beisebol!
+Dialogue: 0,0:15:59.48,0:16:01.02,Atashinchi,txt,0382,0020,0011,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:16:01.35,0:16:03.09,Main Dialogue,Girl,0000,0000,0000,,Também acertam eles, não é?
+Dialogue: 0,0:16:03.09,0:16:04.74,Main Dialogue,Girl2,0000,0000,0000,,Sim, sim, acertam.
+Dialogue: 0,0:16:04.74,0:16:06.18,Main Dialogue,Girl,0000,0000,0000,,Acertarem o Yuzupi...
+Dialogue: 0,0:16:06.76,0:16:07.98,Main Dialogue,coach,0000,0000,0000,,Terceira base!
+Dialogue: 0,0:16:08.62,0:16:09.44,Main Dialogue,yuz,0000,0000,0000,,Vamos nessa!
+Dialogue: 0,0:16:10.17,0:16:10.91,Main Dialogue,coach,0000,0000,0000,,Certo!
+Dialogue: 0,0:16:13.07,0:16:13.74,Main Dialogue,coach,0000,0000,0000,,Certo!
+Dialogue: 0,0:16:13.74,0:16:15.63,Main Dialogue,coach,0000,0000,0000,,Toma! Toma! Toma!
+Dialogue: 0,0:16:17.75,0:16:18.74,Main Dialogue,coach,0000,0000,0000,,Mais uma!
+Dialogue: 0,0:16:19.76,0:16:20.88,Main Dialogue,fuj,0000,0000,0000,,Por favor, pare!
+Dialogue: 0,0:16:20.88,0:16:21.75,Main Dialogue,fuj,0000,0000,0000,,Ele não pode mais continuar.
+Dialogue: 0,0:16:22.29,0:16:23.77,Main Dialogue,Yuz,0000,0000,0000,,Tudo bem, Fujino.
+Dialogue: 0,0:16:24.19,0:16:27.40,Main Dialogue,Yuz,0000,0000,0000,,Eu estou prestes a pegar a manha.
+Dialogue: 0,0:16:28.62,0:16:31.20,Main Dialogue,fuj,0000,0000,0000,,O que você está fazendo?
+Dialogue: 0,0:16:35.29,0:16:36.93,Main Dialogue,Yuz,0000,0000,0000,,Pode vir!
+Dialogue: 0,0:16:39.90,0:16:43.31,Main Dialogue,Girl2,0000,0000,0000,,Talvez... Talvez, mas não deve ser assim!
+Dialogue: 0,0:16:43.60,0:16:48.32,title,Tit,0000,0000,0000,,{\fad(400,1)}Yuzu e o Time de Beisebol (Parte Dois)
+Dialogue: 0,0:16:54.48,0:16:57.38,Main Dialogue,Girl2,0000,0000,0000,,Eu adoraria ser uma {\i1}assistenta{\i0}.
+Dialogue: 0,0:16:57.38,0:16:58.43,Main Dialogue,Girl,0000,0000,0000,,{\i1}Assistenta{\i0}?
+Dialogue: 0,0:16:57.74,0:17:01.95,Femanager,txt,0001,0001,15,,{\an2}{\fad(400,1)}Assistenta = Assistente mulher
+Dialogue: 0,0:16:59.58,0:17:01.78,Main Dialogue,Girl,0000,0000,0000,,Ah, uma assistente mulher.
+Dialogue: 0,0:17:02.27,0:17:03.20,Main Dialogue,Girl,0000,0000,0000,,Isso seria ótimo.
+Dialogue: 0,0:17:03.20,0:17:04.21,Main Dialogue,Girl2,0000,0000,0000,,Eu sei.
+Dialogue: 0,0:17:04.62,0:17:06.82,Main Dialogue,Girl2,0000,0000,0000,,Mas o que uma {\i1}assistenta{\i0} faria?
+Dialogue: 0,0:17:06.82,0:17:08.58,Main Dialogue,Girl,0000,0000,0000,,Eu acho que...
+Dialogue: 0,0:17:08.58,0:17:10.67,Main Dialogue,Girl,0000,0000,0000,,...lavaria os uniformes!
+Dialogue: 0,0:17:11.33,0:17:13.63,Main Dialogue,Girl,0000,0000,0000,,Uniformes brancos!
+Dialogue: 0,0:17:13.63,0:17:15.63,Main Dialogue,Girl,0000,0000,0000,,Que macios!
+Dialogue: 0,0:17:15.96,0:17:16.93,Main Dialogue,Guys,0000,0000,0000,,Hã?
+Dialogue: 0,0:17:16.93,0:17:18.67,Main Dialogue,Guys,0000,0000,0000,,Você lavou todos eles?
+Dialogue: 0,0:17:21.27,0:17:23.73,Main Dialogue,girl,0000,0000,0000,,Ah!!
+Dialogue: 0,0:17:24.87,0:17:27.52,Main Dialogue,Girl,0000,0000,0000,,E prepararia as fatias de limão.
+Dialogue: 0,0:17:27.95,0:17:30.48,Main Dialogue,Girl,0000,0000,0000,,Trouxe limão banhado no mel!
+Dialogue: 0,0:17:38.72,0:17:41.83,Main Dialogue,Girl2,0000,0000,0000,,Você não pode usar mel, é ruim para a pele!
+Dialogue: 0,0:17:42.12,0:17:45.97,Main Dialogue,Girl,0000,0000,0000,,De qualquer modo, o trabalho \Nda {\i1}assistenta{\i0} é cuidar do time!
+Dialogue: 0,0:17:45.97,0:17:47.64,Main Dialogue,Girl2,0000,0000,0000,,Será só isso?
+Dialogue: 0,0:17:47.64,0:17:50.86,Main Dialogue,Girl2,0000,0000,0000,,Acho que um assistente, na \Nverdade, tem muito trabalho a fazer.
+Dialogue: 0,0:17:51.82,0:17:53.01,Main Dialogue,Girl2,0000,0000,0000,,Eles anotam o placar.
+Dialogue: 0,0:17:53.42,0:17:55.98,Main Dialogue,Girl2,0000,0000,0000,,Eles pesquisam os dados dos adversários.
+Dialogue: 0,0:17:56.60,0:18:00.09,Main Dialogue,Girl2,0000,0000,0000,,Eles também monitoram a performance\N dos jogadores e suas estatísticas.
+Dialogue: 0,0:18:01.35,0:18:03.62,Main Dialogue,Girl,0000,0000,0000,,Você entende muito de beisebol.
+Dialogue: 0,0:18:03.62,0:18:05.43,Main Dialogue,Girl2,0000,0000,0000,,Não, eu só assisti muitas novelas.
+Dialogue: 0,0:18:32.29,0:18:37.59,Show Title 1,txt,0001,0036,0012,,Yuzupi x Fujino contato visual 52 vezes
+Dialogue: 0,0:18:32.29,0:18:37.59,Show Title 1,txt,0001,0054,15,,Yuzupi x Fujino sorriso 34 vezes
+Dialogue: 0,0:18:32.29,0:18:37.59,Show Title 1,txt,0001,0082,15,,{\an2}Yuzupi x Oyamada contato físico 10 vezes
+Dialogue: 0,0:18:32.29,0:18:37.59,Show Title 1,txt,0001,0230,15,,{\an2}Yuzupi x outros jogadores
+Dialogue: 0,0:18:38.65,0:18:40.37,Main Dialogue,Girl,0000,0000,0000,,É isso que você quis dizer com estatísticas?
+Dialogue: 0,0:18:40.37,0:18:41.68,Main Dialogue,Girl2,0000,0000,0000,,Ai, eu não sei.
+Dialogue: 0,0:18:51.62,0:18:55.30,Main Dialogue,Girl,0000,0000,0000,,Adoraria ver isso de perto.
+Dialogue: 0,0:18:55.30,0:18:58.15,Main Dialogue,Both,0000,0000,0000,,{\i1}Assistentas{\i0} são demais!
+Dialogue: 0,0:18:59.54,0:19:01.09,Italic,Girl,0000,0000,0000,,E então, um dia...
+Dialogue: 0,0:19:02.38,0:19:06.54,Italic,Girl,0000,0000,0000,,Aquele companheiro de time do \NYuzupi no beisebol veio na nossa sala.
+Dialogue: 0,0:19:06.54,0:19:08.54,Main Dialogue,fuj,0000,0000,0000,,Essa não!
+Dialogue: 0,0:19:12.78,0:19:14.13,Main Dialogue,fuj,0000,0000,0000,,Eu não conseguiria...
+Dialogue: 0,0:19:14.13,0:19:16.17,Main Dialogue,fuj,0000,0000,0000,,...passar outro dia em aula se fizesse isso!
+Dialogue: 0,0:19:14.16,0:19:15.47,Main Dialogue,girl,0000,0000,0000,,{\an8}Quem é?
+Dialogue: 0,0:19:16.79,0:19:18.88,Main Dialogue,Girl,0000,0000,0000,,Aquele é o companheiro de time do Yuzupi?
+Dialogue: 0,0:19:19.56,0:19:23.85,Main Dialogue,fuj,0000,0000,0000,,Certo, a que todo mundo \Nacha bonita, a Rina, é aquela ali.
+Dialogue: 0,0:19:25.86,0:19:28.54,Main Dialogue,Girl,0000,0000,0000,,Por que estamos nos escondendo mesmo?
+Dialogue: 0,0:19:28.54,0:19:29.81,Main Dialogue,Girl2,0000,0000,0000,,Porque...
+Dialogue: 0,0:19:36.72,0:19:38.98,Main Dialogue,Girl,0000,0000,0000,,Parece que aquele ali também\N está no time de beisebol.
+Dialogue: 0,0:19:38.98,0:19:40.14,Main Dialogue,Girl2,0000,0000,0000,,Hã?
+Dialogue: 0,0:19:40.14,0:19:42.40,Main Dialogue,Girl,0000,0000,0000,,Ele parece meio fraquinho.
+Dialogue: 0,0:19:42.40,0:19:45.33,Main Dialogue,Girl2,0000,0000,0000,,Deve ser difícil ser uma {\i1}assistenta{\i0}\N com gente assim em volta.
+Dialogue: 0,0:19:45.33,0:19:46.24,Main Dialogue,Girl,0000,0000,0000,,Sim.
+Dialogue: 0,0:19:47.46,0:19:49.71,Main Dialogue,Girl2,0000,0000,0000,,Eu não acho que vamos conseguir.
+Dialogue: 0,0:19:50.00,0:19:52.87,Main Dialogue,fuj,0000,0000,0000,,Força! Força! Força! Oh!
+Dialogue: 0,0:19:52.87,0:19:52.87,Main Dialogue,fuj,0000,0000,0000,,Certo!
+Dialogue: 0,0:19:52.87,0:19:54.49,Main Dialogue,All,0000,0000,0000,,Certo!
+Dialogue: 0,0:19:52.92,0:19:53.67,Main Dialogue,Girl,0000,0000,0000,,{\an8}O que é aquilo?
+Dialogue: 0,0:19:54.49,0:19:56.03,Main Dialogue,fuj,0000,0000,0000,,Um, dois, três, quatro.
+Dialogue: 0,0:19:56.03,0:19:57.45,Main Dialogue,fuj,0000,0000,0000,,Dois, dois, três, quatro.
+Dialogue: 0,0:19:57.45,0:19:58.92,Main Dialogue,fuj,0000,0000,0000,,Vai!
+Dialogue: 0,0:19:58.14,0:19:59.61,Main Dialogue,Girl2,0000,0000,0000,,{\an8}Ah, o time de beisebol.
+Dialogue: 0,0:20:00.88,0:20:02.25,Main Dialogue,Girl,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:20:03.26,0:20:05.10,Main Dialogue,Girl,0000,0000,0000,,Eles não estão usando uniforme,\N mas acho que você está certa.
+Dialogue: 0,0:20:08.85,0:20:09.97,Main Dialogue,Girl,0000,0000,0000,,Vamos assistir.
+Dialogue: 0,0:20:09.97,0:20:13.45,Main Dialogue,Girl2,0000,0000,0000,,Mas como vamos continuar escondidas?
+Dialogue: 0,0:20:13.45,0:20:14.52,Main Dialogue,Girl,0000,0000,0000,,Eu não me importo, vamos.
+Dialogue: 0,0:20:20.59,0:20:21.32,Main Dialogue,Guy,0000,0000,0000,,Aqui.
+Dialogue: 0,0:20:21.52,0:20:22.38,Main Dialogue,fuj,0000,0000,0000,,Peguei.
+Dialogue: 0,0:20:28.50,0:20:29.72,Main Dialogue,Girl,0000,0000,0000,,Eles estão jogando.
+Dialogue: 0,0:20:29.72,0:20:31.71,Main Dialogue,Girl2,0000,0000,0000,,Eles estão bem sérios.
+Dialogue: 0,0:20:31.71,0:20:34.21,Main Dialogue,Girl,0000,0000,0000,,Não parece que estão tentando acertar alguém.
+Dialogue: 0,0:20:35.62,0:20:36.65,Main Dialogue,Girl,0000,0000,0000,,O Yuzupi acabou de rir.
+Dialogue: 0,0:20:36.65,0:20:37.08,Main Dialogue,Girl2,0000,0000,0000,,Não pode ser!
+Dialogue: 0,0:20:37.08,0:20:38.14,Main Dialogue,Girl2,0000,0000,0000,,Deixe eu ver!
+Dialogue: 0,0:20:38.14,0:20:38.67,Main Dialogue,Girl,0000,0000,0000,,Não!
+Dialogue: 0,0:20:39.05,0:20:40.82,Main Dialogue,Girl2,0000,0000,0000,,Anda, só um pouco!
+Dialogue: 0,0:20:40.82,0:20:43.48,Main Dialogue,Girl,0000,0000,0000,,Espere, o Yuzupi está balançando o bastão agora.
+Dialogue: 0,0:20:43.48,0:20:44.74,Main Dialogue,Girl2,0000,0000,0000,,Mas eu quero ver também!
+Dialogue: 0,0:20:44.74,0:20:46.03,Main Dialogue,Girl,0000,0000,0000,,Você vai poder ver depois.
+Dialogue: 0,0:20:46.03,0:20:47.03,Main Dialogue,Girl2,0000,0000,0000,,Anda!
+Dialogue: 0,0:20:47.03,0:20:48.80,Main Dialogue,Guy,0000,0000,0000,,Ei, garotas.
+Dialogue: 0,0:20:49.56,0:20:52.56,Main Dialogue,Guy,0000,0000,0000,,Vocês não são da sala do Yuzupi e do Fujino?
+Dialogue: 0,0:20:55.39,0:20:57.69,Main Dialogue,Guy,0000,0000,0000,,Da próxima vez que tivermos uma\N partida, não querem vir assistir?
+Dialogue: 0,0:21:00.38,0:21:01.38,Main Dialogue,Guy,0000,0000,0000,,Elas fugiram.
+Dialogue: 0,0:21:01.38,0:21:02.05,Main Dialogue,Guy,0000,0000,0000,,Ei!
+Dialogue: 0,0:21:02.05,0:21:05.07,Main Dialogue,Guy,0000,0000,0000,,Vocês querem ser líderes de torcida?
+Dialogue: 0,0:21:06.35,0:21:08.03,Main Dialogue,Yuz,0000,0000,0000,,O que o Ono está fazendo?
+Dialogue: 0,0:21:08.03,0:21:08.90,Main Dialogue,fuj,0000,0000,0000,,Sei lá.
+Dialogue: 0,0:21:10.17,0:21:11.10,Main Dialogue,Fur,0000,0000,0000,,Ei!
+Dialogue: 0,0:21:11.10,0:21:12.88,Main Dialogue,Fur,0000,0000,0000,,Pare de matar o treino!
+Dialogue: 0,0:21:13.80,0:21:15.50,Main Dialogue,Oon,0000,0000,0000,,Eu só estava falando com nossas fãs.
+Dialogue: 0,0:21:16.17,0:21:20.09,Main Dialogue,Oon,0000,0000,0000,,Parece que vocês dois são muito populares.
+Dialogue: 0,0:21:26.98,0:21:28.18,Main Dialogue,Girl,0000,0000,0000,,Que medo!
+Dialogue: 0,0:21:28.18,0:21:29.47,Main Dialogue,Girl2,0000,0000,0000,,É mesmo!
+Dialogue: 0,0:21:30.01,0:21:31.86,Main Dialogue,Girl,0000,0000,0000,,O que vamos fazer?
+Dialogue: 0,0:21:31.86,0:21:32.68,Main Dialogue,Girl2,0000,0000,0000,,Sobre?
+Dialogue: 0,0:21:33.07,0:21:37.51,Main Dialogue,Girl,0000,0000,0000,,O que devemos nos focar? Em ser\N {\i1}assistentas{\i0} ou líderes de torcida?
+Dialogue: 0,0:21:40.24,0:21:44.06,Main Dialogue,Girl,0000,0000,0000,,Arrasa com eles!
+Dialogue: 0,0:21:44.06,0:21:46.54,Main Dialogue,Girl,0000,0000,0000,,Yuzupi!
+Dialogue: 0,0:21:46.54,0:21:47.07,Main Dialogue,Girl2,0000,0000,0000,,Sério?
+Dialogue: 0,0:21:52.62,0:21:55.04,Atashinchi,txt,0001,0246,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,"Chinelos das Termas"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Yoshioka odeia Peixe"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H9038DD&}"Apelidos do Yuzu"
+Dialogue: 0,0:22:55.55,0:22:57.61,Main Dialogue,dad,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
+Dialogue: 0,0:22:57.61,0:23:00.44,Main Dialogue,dad,0000,0000,0000,,"Yoshioka odeia Peixe" e outros dois episódios.
+Dialogue: 0,0:23:00.44,0:23:02.05,Main Dialogue,Mom,0000,0000,0000,,Se liga no Nuzutama!
+Dialogue: 0,0:23:02.05,0:23:03.58,Main Dialogue,Mom,0000,0000,0000,,Ministro Zubo!

@@ -1,0 +1,353 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Telepathy,Arial,20,&H001F254B,&H000000FF,&H009890EB,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: On another day,Arial,20,&H00FFFFFF,&H000000FF,&H00AC1DD0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Original Set,Arial,18,&H00000000,&H000000FF,&H008585D2,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Remote,Arial,20,&H004E42CA,&H000000FF,&H00E6F9FD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0050,0120,0080,1
+Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0110,0050,0020,1
+Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00161616,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,7,0110,0080,0010,1
+Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0130,1
+Style: Atashinchi 10,Trebuchet MS,28,&H007551F1,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0110,1
+Style: Atashinchi 12,Trebuchet MS,28,&H00101627,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0130,0070,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:55.15,0:00:59.03,Atashinchi 7,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:01:01.45,0:01:05.25,Italic,wom,0000,0000,0000,,Quando um casal está\Ncasado há muito tempo...
+Dialogue: 0,0:01:11.93,0:01:14.09,Italic,wom,0000,0000,0000,,eles entendem um ao outro
+Dialogue: 0,0:01:14.09,0:01:15.55,Italic,wom,0000,0000,0000,,sem precisar usar palavras.
+Dialogue: 0,0:01:26.29,0:01:28.14,Main Dialogue,mom,0000,0000,0000,,Querido, o que é aquilo?
+Dialogue: 0,0:01:29.73,0:01:34.53,title,titl,0000,0000,0000,,{\fad(400,1)\c&H4AA620&\3c&HFFFFFF&}Mamãe Entende Papai
+Dialogue: 0,0:01:35.58,0:01:36.99,Main Dialogue,mom,0000,0000,0000,,Aqui está o remédio para o seu estômago.
+Dialogue: 0,0:01:40.99,0:01:43.16,Main Dialogue,miK,0000,0000,0000,,Você é tão boa em saber o que ele precisa!
+Dialogue: 0,0:01:43.53,0:01:47.12,Main Dialogue,mom,0000,0000,0000,,Nós somos casados, é quase telepatia.
+Dialogue: 0,0:01:45.58,0:01:47.12,Telepathy,txt,0460,0001,15,,Telepatia
+Dialogue: 0,0:01:47.71,0:01:48.83,Main Dialogue,miK,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:01:49.16,0:01:50.68,Main Dialogue,mom,0000,0000,0000,,Ué, não sabe?
+Dialogue: 0,0:01:50.68,0:01:53.42,Main Dialogue,mom,0000,0000,0000,,É quando as pessoas se\Ncomunicam pela mente.
+Dialogue: 0,0:01:56.90,0:01:59.39,Main Dialogue,mom,0000,0000,0000,,Sejam bem-vindos ao Circo Tachibana!
+Dialogue: 0,0:02:05.74,0:02:06.50,Main Dialogue,mom,0000,0000,0000,,Aí vai!
+Dialogue: 0,0:02:10.95,0:02:13.69,Main Dialogue,mom,0000,0000,0000,,Escova, escova, escova!
+Dialogue: 0,0:02:16.79,0:02:19.11,Main Dialogue,mom,0000,0000,0000,,Que tal assim?
+Dialogue: 0,0:02:21.16,0:02:23.08,Main Dialogue,mom,0000,0000,0000,,Eu sempre sei o que todos querem.
+Dialogue: 0,0:02:25.33,0:02:30.00,Atashinchi 8,txt,0384,0001,0012,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:02:28.99,0:02:30.00,Italic,mom,0000,0000,0000,,Mas mesmo eu
+Dialogue: 0,0:02:30.30,0:02:32.46,Italic,mom,0000,0000,0000,,tenho momentos que interpreto mal.
+Dialogue: 0,0:02:33.03,0:02:35.16,Italic,mom,0000,0000,0000,,Sobrou um dedinho de shochu.
+Dialogue: 0,0:02:36.55,0:02:38.59,Main Dialogue,mom,0000,0000,0000,,Querido, você ainda quer isto?
+Dialogue: 0,0:02:38.59,0:02:39.35,Main Dialogue,dad,0000,0000,0000,,Hm...
+Dialogue: 0,0:02:42.00,0:02:46.35,Italic,mom,0000,0000,0000,,Acho que ele vai mastigar esses\N ossos e tomar um último gole.
+Dialogue: 0,0:02:51.80,0:02:54.73,Main Dialogue,mom,0000,0000,0000,,Que pena, vou ter que lavar a louça duas vezes.
+Dialogue: 0,0:02:57.93,0:02:58.81,Main Dialogue,mom,0000,0000,0000,,Pronto!
+Dialogue: 0,0:03:00.94,0:03:04.41,Italic,tv,0000,0000,0000,,{\an8}A Argentina ainda lidera por um ponto\N antes de chegar à metade do jogo.
+Dialogue: 0,0:03:02.31,0:03:03.25,Main Dialogue,mom,0000,0000,0000,,Hã?
+Dialogue: 0,0:03:03.25,0:03:05.52,Main Dialogue,mom,0000,0000,0000,,Querido, achei que você ainda \Nqueria mastigar aquele osso.
+Dialogue: 0,0:03:05.52,0:03:06.16,Main Dialogue,dad,0000,0000,0000,,Hm...
+Dialogue: 0,0:03:06.16,0:03:07.03,Main Dialogue,moM,0000,0000,0000,,O que foi?
+Dialogue: 0,0:03:07.03,0:03:09.34,Main Dialogue,moM,0000,0000,0000,,Eu deixei para que você mastigasse os ossos!
+Dialogue: 0,0:03:09.34,0:03:10.92,Main Dialogue,moM,0000,0000,0000,,Se não for fazer isso,
+Dialogue: 0,0:03:10.92,0:03:12.62,Main Dialogue,moM,0000,0000,0000,,não devia ter dito que queria.
+Dialogue: 0,0:03:14.28,0:03:16.34,Italic,dad,0000,0000,0000,,Eu nunca disse que queria mastigar nada.
+Dialogue: 0,0:03:18.17,0:03:20.01,Atashinchi 7,txt,0001,0224,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:03:20.76,0:03:22.97,On another day,txt,0378,0001,15,,Outro dia...
+Dialogue: 0,0:03:22.97,0:03:25.93,Original Set,txt,0001,0182,15,,Conjunto Original
+Dialogue: 0,0:03:23.33,0:03:25.93,Italic,wom,0000,0000,0000,,{\an8}Aqui está o item especial de hoje.
+Dialogue: 0,0:03:31.52,0:03:33.53,Main Dialogue,mom,0000,0000,0000,,Você já terminou?
+Dialogue: 0,0:03:33.53,0:03:34.62,Main Dialogue,dad,0000,0000,0000,,Hm...
+Dialogue: 0,0:03:34.62,0:03:36.08,Main Dialogue,mom,0000,0000,0000,,Que desperdício.
+Dialogue: 0,0:03:42.13,0:03:44.55,Main Dialogue,mom,0000,0000,0000,,Ah, não me diga que você ia comer?
+Dialogue: 0,0:03:46.13,0:03:47.61,Main Dialogue,mom,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:03:47.61,0:03:49.23,Main Dialogue,mom,0000,0000,0000,,Bem, aproveite o caldo.
+Dialogue: 0,0:03:57.46,0:04:00.38,Atashinchi 8,txt,0376,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:04:00.70,0:04:03.34,Italic,wom,0000,0000,0000,,{\an8}Estamos fazendo o impensável.
+Dialogue: 0,0:04:03.34,0:04:05.97,Italic,wom,0000,0000,0000,,{\an8}Nós vamos dar outro.
+Dialogue: 0,0:04:05.39,0:04:07.30,Main Dialogue,mom,0000,0000,0000,,Querido, o que você acha de um desses?
+Dialogue: 0,0:04:07.60,0:04:08.65,Main Dialogue,dad,0000,0000,0000,,Hm...
+Dialogue: 0,0:04:13.40,0:04:14.44,Main Dialogue,mom,0000,0000,0000,,Certo, aqui está.
+Dialogue: 0,0:04:14.68,0:04:15.90,Main Dialogue,mom,0000,0000,0000,,Conto com você.
+Dialogue: 0,0:04:22.67,0:04:23.72,Main Dialogue,mik,0000,0000,0000,,Você entendeu?
+Dialogue: 0,0:04:23.72,0:04:24.49,Main Dialogue,dad,0000,0000,0000,,Não.
+Dialogue: 0,0:04:26.12,0:04:28.53,Atashinchi 10,txt,0001,0001,15,,{\c&HE4E5FD&\3c&H1500D2&}Novo {\c&H6BE5F3&\3c&H548961&}A{\c&H77DCA9&}ta{\c&H73A3F3&}shi{\c&HF8CF78&\3c&H548961&}n{\c&HCE8BF5&}chi
+Dialogue: 0,0:04:31.15,0:04:33.53,Main Dialogue,mik,0000,0000,0000,,Telepatia?
+Dialogue: 0,0:04:35.01,0:04:38.71,Italic,mik,0000,0000,0000,,O que será que o Iwaki está pensando?
+Dialogue: 0,0:04:43.25,0:04:44.63,Italic,mik,0000,0000,0000,,É a borracha daquele dia?
+Dialogue: 0,0:04:54.01,0:04:55.76,flashback,mik,0000,0000,0000,,Me desculpe!
+Dialogue: 0,0:04:55.76,0:04:59.28,Italic,mik,0000,0000,0000,,Será que ele está pensando naquilo?
+Dialogue: 0,0:05:00.24,0:05:02.03,Italic,mik,0000,0000,0000,,Talvez o Iwaki esteja...
+Dialogue: 0,0:05:02.67,0:05:06.78,Italic,iwa,0000,0000,0000,,Onde será que isso tocou na Tachibana...
+Dialogue: 0,0:05:06.78,0:05:08.74,Italic,mik,0000,0000,0000,,...pensando em alguma coisa assim!
+Dialogue: 0,0:05:11.62,0:05:13.91,Italic,iwa,0000,0000,0000,,Essa borracha apaga tão bem.
+Dialogue: 0,0:05:14.89,0:05:16.91,Main Dialogue,shi,0000,0000,0000,,O que você está rindo aí?
+Dialogue: 0,0:05:18.00,0:05:19.94,Main Dialogue,shi,0000,0000,0000,,Eu acho que eu sei bem...
+Dialogue: 0,0:05:19.94,0:05:21.63,Main Dialogue,shi,0000,0000,0000,,Mas você está sendo um pouco desagradável.
+Dialogue: 0,0:05:24.72,0:05:27.05,Atashinchi 4,txt,0376,0050,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:05:32.45,0:05:33.34,Main Dialogue,dad,0000,0000,0000,,Ah!
+Dialogue: 0,0:05:33.34,0:05:34.29,Main Dialogue,mom,0000,0000,0000,,O que foi?
+Dialogue: 0,0:05:34.29,0:05:35.14,Main Dialogue,dad,0000,0000,0000,,Aquilo.
+Dialogue: 0,0:05:35.70,0:05:36.49,Main Dialogue,mom,0000,0000,0000,,Aquilo?
+Dialogue: 0,0:05:36.96,0:05:38.10,Main Dialogue,mom,0000,0000,0000,,Ah, aquilo!
+Dialogue: 0,0:05:38.46,0:05:39.22,Main Dialogue,dad,0000,0000,0000,,Sim...
+Dialogue: 0,0:05:39.22,0:05:40.60,Main Dialogue,mom,0000,0000,0000,,Você vai tentar?
+Dialogue: 0,0:05:45.09,0:05:48.42,Main Dialogue,mom,0000,0000,0000,,Tcharam! O bolo de peixe que \Na Sra. Mizushima nos deu.
+Dialogue: 0,0:05:48.42,0:05:51.17,Main Dialogue,mom,0000,0000,0000,,Eu não quis abrir até agora, \Nquase esqueci que tínhamos.
+Dialogue: 0,0:05:51.17,0:05:53.83,Main Dialogue,mom,0000,0000,0000,,Você tem uma boa memória.
+Dialogue: 0,0:05:55.26,0:05:56.29,Main Dialogue,mom,0000,0000,0000,,Aproveite!
+Dialogue: 0,0:05:57.09,0:05:59.75,Main Dialogue,mom,0000,0000,0000,,Parece tão bonito.
+Dialogue: 0,0:06:00.85,0:06:02.95,Italic,dad,0000,0000,0000,,Ah, achei que eu tivesse dito \Nque precisava do controle remoto
+Dialogue: 0,0:06:02.95,0:06:05.71,Italic,dad,0000,0000,0000,,porque eu queria assistir\N meu programa favorito.
+Dialogue: 0,0:06:05.71,0:06:07.52,Remote,txt,0394,0001,15,,Controle Remoto
+Dialogue: 0,0:06:08.99,0:06:11.62,Italic,dad,0000,0000,0000,,Ah, bem, bolo de peixe também é gostoso.
+Dialogue: 0,0:06:14.35,0:06:15.41,Main Dialogue,mom,0000,0000,0000,,Como está?
+Dialogue: 0,0:06:15.41,0:06:16.16,Main Dialogue,dad,0000,0000,0000,,Hm...
+Dialogue: 0,0:06:16.16,0:06:17.52,Main Dialogue,mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:06:17.52,0:06:19.89,Main Dialogue,mom,0000,0000,0000,,A Sra. Mizushima vai ficar tão feliz!
+Dialogue: 0,0:06:24.10,0:06:25.32,Main Dialogue,mom,0000,0000,0000,,Alô, Sra. Mizushima?
+Dialogue: 0,0:06:25.68,0:06:29.40,Main Dialogue,mom,0000,0000,0000,,É um pouco tarde, mas é sobre aquele\N bolo de peixe que você nos deu.
+Dialogue: 0,0:06:29.76,0:06:31.78,Main Dialogue,mom,0000,0000,0000,,Sim, obrigada!
+Dialogue: 0,0:06:32.34,0:06:35.49,Main Dialogue,mom,0000,0000,0000,,Meu marido disse que estava muito gostoso.
+Dialogue: 0,0:06:36.68,0:06:37.96,Italic,dad,0000,0000,0000,,Eu nem falei isso.
+Dialogue: 0,0:06:38.35,0:06:41.42,Main Dialogue,mom,0000,0000,0000,,Ele comeu tudo e pediu para eu comprar mais.
+Dialogue: 0,0:06:41.87,0:06:44.12,Italic,dad,0000,0000,0000,,Eu não disse isso também.
+Dialogue: 0,0:06:44.38,0:06:46.74,Main Dialogue,mom,0000,0000,0000,,Certo, até mais! Obrigada!
+Dialogue: 0,0:06:48.35,0:06:50.34,Main Dialogue,mom,0000,0000,0000,,A Sra. Mizushima ficou tão feliz.
+Dialogue: 0,0:06:53.48,0:06:57.72,Main Dialogue,mom,0000,0000,0000,,Que delícia! Que bom que você se lembrou.
+Dialogue: 0,0:06:58.11,0:06:59.94,Main Dialogue,mom,0000,0000,0000,,Mikan! Yuzinho!
+Dialogue: 0,0:07:00.35,0:07:01.81,Main Dialogue,both,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:07:04.70,0:07:05.27,Main Dialogue,mik,0000,0000,0000,,Que delícia!
+Dialogue: 0,0:07:06.18,0:07:07.23,Main Dialogue,yuz,0000,0000,0000,,Que coisa mais chique!
+Dialogue: 0,0:07:07.84,0:07:10.80,Main Dialogue,mom,0000,0000,0000,,O seu pai fez bem em me lembrar.
+Dialogue: 0,0:07:12.00,0:07:14.15,Italic,dad,0000,0000,0000,,Bem, acho que fiquei satisfeito.
+Dialogue: 0,0:07:17.27,0:07:20.12,Main Dialogue,mom,0000,0000,0000,,Ah, querido. Hoje finalmente\N é o dia para aquilo?
+Dialogue: 0,0:07:21.05,0:07:22.08,Main Dialogue,dad,0000,0000,0000,,Hm.
+Dialogue: 0,0:07:22.63,0:07:24.02,Main Dialogue,mom,0000,0000,0000,,Que ótimo!
+Dialogue: 0,0:07:26.05,0:07:26.75,Main Dialogue,yuz,0000,0000,0000,,O quê?
+Dialogue: 0,0:07:26.75,0:07:27.59,Main Dialogue,dad,0000,0000,0000,,Não sei.
+Dialogue: 0,0:07:29.70,0:07:30.58,Main Dialogue,mom,0000,0000,0000,,Certo, aqui.
+Dialogue: 0,0:07:35.60,0:07:36.23,Main Dialogue,dad,0000,0000,0000,,Ei.
+Dialogue: 0,0:07:36.23,0:07:36.83,Main Dialogue,mom,0000,0000,0000,,Sim?
+Dialogue: 0,0:07:37.23,0:07:38.41,Main Dialogue,dad,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:07:40.23,0:07:43.48,Main Dialogue,mom,0000,0000,0000,,Você não disse que ia consertar o secador?
+Dialogue: 0,0:07:48.87,0:07:49.80,Main Dialogue,dad,0000,0000,0000,,Ah!
+Dialogue: 0,0:07:51.32,0:07:54.99,Atashinchi 7,txt,0336,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:07:56.28,0:07:59.20,Atashinchi 9,txt,0001,0226,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:08:03.48,0:08:06.17,Main Dialogue,Teach,0000,0000,0000,,Isso vai cair na prova.
+Dialogue: 0,0:08:08.33,0:08:14.39,Main Dialogue,Teach,0000,0000,0000,,Em junho, Oda Nobunaga\N estava se concentrando
+Dialogue: 0,0:08:14.39,0:08:19.89,Main Dialogue,Teach,0000,0000,0000,,em seus planos para unificar o país.
+Dialogue: 0,0:08:19.89,0:08:22.88,Main Dialogue,Teach,0000,0000,0000,,Hashiba Hideyoshi foi mandado\N para expandir a oeste
+Dialogue: 0,0:08:22.88,0:08:25.67,Main Dialogue,Teach,0000,0000,0000,,e confrontar o clã Mori.
+Dialogue: 0,0:08:25.67,0:08:28.50,Main Dialogue,Teach,0000,0000,0000,,Foi quando ele assumiu as rédeas
+Dialogue: 0,0:08:28.50,0:08:32.39,Main Dialogue,Teach,0000,0000,0000,,para aprofundar seus interesses na capital.
+Dialogue: 0,0:08:33.18,0:08:36.05,Main Dialogue,Teach,0000,0000,0000,,Depois, seu aliado, Akechi Mitsuhide,
+Dialogue: 0,0:08:36.05,0:08:39.14,Main Dialogue,Teach,0000,0000,0000,,se virou contra ele e Oda encontrou o seu fim
+Dialogue: 0,0:08:39.14,0:08:42.76,Main Dialogue,Teach,0000,0000,0000,,ao cometer suicídio\N com sua própria espada.
+Dialogue: 0,0:08:42.76,0:08:47.02,Main Dialogue,Teach,0000,0000,0000,,Essa é a famosa história de Oda Nobunaga.
+Dialogue: 0,0:09:11.40,0:09:16.24,title,titl,0000,0000,0000,,{\fad(400,1)\c&HF8F9FB&\3c&H908D8B&}Rabiscos de Coelho
+Dialogue: 0,0:09:32.83,0:09:34.38,Main Dialogue,Fuj,0000,0000,0000,,Yuzupi!
+Dialogue: 0,0:09:34.72,0:09:37.50,Main Dialogue,Fuj,0000,0000,0000,,Ei, o que é isso?
+Dialogue: 0,0:09:38.47,0:09:39.42,Main Dialogue,Yuz,0000,0000,0000,,Um coelho.
+Dialogue: 0,0:09:39.42,0:09:40.85,Main Dialogue,Fuj,0000,0000,0000,,Coelho?
+Dialogue: 0,0:09:41.41,0:09:43.01,Main Dialogue,Fuj,0000,0000,0000,,Achei que fosse um bolinho de arroz.
+Dialogue: 0,0:09:43.77,0:09:45.12,Main Dialogue,Yuz,0000,0000,0000,,Bolinho?
+Dialogue: 0,0:09:45.12,0:09:46.31,Main Dialogue,Fuj,0000,0000,0000,,De qualquer modo...
+Dialogue: 0,0:09:46.31,0:09:48.77,Signs,Txt,0001,0001,15,,Na próxima aula.
+Dialogue: 0,0:09:48.77,0:09:52.73,Main Dialogue,Teach,0000,0000,0000,,Agora, isto é um erro muito comum, mas...
+Dialogue: 0,0:09:54.62,0:09:57.80,Italic,Yuz,0000,0000,0000,,Não são bolinhos de arroz, são coelhos.
+Dialogue: 0,0:09:57.80,0:09:59.13,Italic,Yuz,0000,0000,0000,,Dá para ver?
+Dialogue: 0,0:09:59.44,0:10:00.70,Italic,Yuz,0000,0000,0000,,Talvez não.
+Dialogue: 0,0:10:01.02,0:10:03.74,Main Dialogue,Teach,0000,0000,0000,,E a resposta é...
+Dialogue: 0,0:10:03.74,0:10:06.21,Signs,Txt,0001,0002,15,,Próximo Período Livre
+Dialogue: 0,0:10:09.26,0:10:10.44,Main Dialogue,Nas,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:10:10.44,0:10:11.47,Main Dialogue,Yuz,0000,0000,0000,,Coelhos.
+Dialogue: 0,0:10:11.47,0:10:12.66,Main Dialogue,Nas,0000,0000,0000,,Coelhos?
+Dialogue: 0,0:10:13.90,0:10:16.22,Main Dialogue,Nas,0000,0000,0000,,Achei que fosse um pão\N amassado em uma bolsa.
+Dialogue: 0,0:10:16.83,0:10:17.71,Main Dialogue,Yuz,0000,0000,0000,,Pão?
+Dialogue: 0,0:10:18.43,0:10:20.89,Signs,Txt,0001,0001,15,,E na próxima aula.
+Dialogue: 0,0:10:21.57,0:10:23.35,Main Dialogue,Teach,0000,0000,0000,,Tem alguém?
+Dialogue: 0,0:10:24.43,0:10:26.89,Italic,Yuz,0000,0000,0000,,Eles não são pães amassados, são coelhos.
+Dialogue: 0,0:10:27.59,0:10:28.92,Italic,Yuz,0000,0000,0000,,Dá para ver?
+Dialogue: 0,0:10:29.31,0:10:31.77,Signs,Txt,0001,0001,15,,E no próximo período livre.
+Dialogue: 0,0:10:50.84,0:10:53.06,Main Dialogue,Girl,0000,0000,0000,,O Yuzupi está mesmo desenhando!
+Dialogue: 0,0:10:53.06,0:10:54.96,Main Dialogue,Girl2,0000,0000,0000,,O que será que é?
+Dialogue: 0,0:10:56.67,0:10:57.86,Main Dialogue,Girl2,0000,0000,0000,,Marshmallows derretidos?
+Dialogue: 0,0:10:57.86,0:10:59.80,Main Dialogue,Girl,0000,0000,0000,,Não, são meias sujas!
+Dialogue: 0,0:10:59.80,0:11:02.26,Signs,Txt,0001,0001,15,,E na aula seguinte.
+Dialogue: 0,0:11:02.88,0:11:04.99,Main Dialogue,Teach,0000,0000,0000,,E é por isso que isso vai ficar\N da mesma forma que vocês
+Dialogue: 0,0:11:04.99,0:11:10.02,Main Dialogue,Teach,0000,0000,0000,,podem observar no gráfico da página seguinte.
+Dialogue: 0,0:11:18.50,0:11:20.41,Italic,Yuz,0000,0000,0000,,É como se estivessem tentando voar.
+Dialogue: 0,0:11:42.98,0:11:45.07,Main Dialogue,Teach,0000,0000,0000,,Vamos voltar ao começo.
+Dialogue: 0,0:11:47.33,0:11:48.15,Main Dialogue,Teach,0000,0000,0000,,Fujino.
+Dialogue: 0,0:11:48.78,0:11:49.83,Main Dialogue,Fuj,0000,0000,0000,,S-Sim!
+Dialogue: 0,0:11:48.78,0:11:49.83,Main Dialogue,Fuj,0000,0000,0000,,{tlnote:	https://en.wikipedia.org/wiki/Tsurezuregusa }
+Dialogue: 0,0:11:50.32,0:11:52.53,Main Dialogue,Fuj,0000,0000,0000,,"Que estranho e atormentador sentimento
+Dialogue: 0,0:11:52.53,0:11:57.12,Main Dialogue,Fuj,0000,0000,0000,,me dá quando percebo que passei dias\N inteiros em frente a este tinteiro...
+Dialogue: 0,0:11:57.12,0:11:59.37,Main Dialogue,Fuj,0000,0000,0000,,sem nada melhor a fazer...
+Dialogue: 0,0:11:59.37,0:12:02.81,Italic,Yuz,0000,0000,0000,,Sem nada melhor a fazer...
+Dialogue: 0,0:12:03.78,0:12:06.38,Main Dialogue,Fuj,0000,0000,0000,,...transcrevendo no papel qualquer pensamento\N aleatório que entrasse em minha mente."
+Dialogue: 0,0:12:09.68,0:12:11.21,Main Dialogue,Yuz,0000,0000,0000,,Sniff, sniff.
+Dialogue: 0,0:12:19.69,0:12:22.05,Main Dialogue,Yuz,0000,0000,0000,,Que macio. Que macio!
+Dialogue: 0,0:12:22.35,0:12:23.74,Main Dialogue,Yuz,0000,0000,0000,,Que macio. Qua macio!
+Dialogue: 0,0:12:57.05,0:12:58.50,Main Dialogue,Yuz,0000,0000,0000,,Ei, aonde você vai?
+Dialogue: 0,0:13:16.41,0:13:20.11,Italic,Yuz,0000,0000,0000,,Eles não são bolinhos de arroz, são coelhos.
+Dialogue: 0,0:13:20.44,0:13:23.85,Italic,Yuz,0000,0000,0000,,Eles não são pães amassados, são coelhos.
+Dialogue: 0,0:13:24.95,0:13:26.58,Italic,Yuz,0000,0000,0000,,Dá para ver?
+Dialogue: 0,0:13:27.49,0:13:29.20,Italic,Yuz,0000,0000,0000,,Talvez não.
+Dialogue: 0,0:13:40.05,0:13:41.29,Main Dialogue,Girl,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:13:45.15,0:13:46.42,Main Dialogue,Girl,0000,0000,0000,,Panos de pó?
+Dialogue: 0,0:13:46.42,0:13:47.79,Main Dialogue,yuz,0000,0000,0000,,Hã... N-Não.
+Dialogue: 0,0:13:48.16,0:13:49.19,Main Dialogue,Yuz,0000,0000,0000,,Coelhos.
+Dialogue: 0,0:13:50.11,0:13:51.46,Main Dialogue,Girl,0000,0000,0000,,Ele disse que são coelhos!
+Dialogue: 0,0:13:51.46,0:13:52.60,Main Dialogue,Girl2,0000,0000,0000,,Coelhos!
+Dialogue: 0,0:13:52.60,0:13:54.03,Main Dialogue,Nas,0000,0000,0000,,O que foi?
+Dialogue: 0,0:13:55.53,0:13:57.27,Main Dialogue,Nas,0000,0000,0000,,Que assustador!
+Dialogue: 0,0:13:58.67,0:14:00.66,Main Dialogue,girl,0000,0000,0000,,Mas é meio legal.
+Dialogue: 0,0:14:01.42,0:14:02.68,Main Dialogue,girl,0000,0000,0000,,O que você vai fazer com isso?
+Dialogue: 0,0:14:02.68,0:14:04.44,Main Dialogue,girl,0000,0000,0000,,Vai pendurar na parede?
+Dialogue: 0,0:14:05.42,0:14:06.81,Main Dialogue,Yuz,0000,0000,0000,,Acho que vou jogar fora.
+Dialogue: 0,0:14:06.81,0:14:08.92,Main Dialogue,Girl2,0000,0000,0000,,Você não pode fazer isso.
+Dialogue: 0,0:14:12.20,0:14:13.60,Main Dialogue,Girl2,0000,0000,0000,,Você não pode.
+Dialogue: 0,0:14:13.60,0:14:14.48,Main Dialogue,Yuz,0000,0000,0000,,Certo.
+Dialogue: 0,0:14:15.95,0:14:16.91,Main Dialogue,Yuz,0000,0000,0000,,Você quer?
+Dialogue: 0,0:14:20.14,0:14:21.40,Main Dialogue,Girl,0000,0000,0000,,Não.
+Dialogue: 0,0:14:21.40,0:14:22.55,Main Dialogue,Yuz,0000,0000,0000,,Foi o que pensei.
+Dialogue: 0,0:14:22.55,0:14:24.05,Main Dialogue,Girl,0000,0000,0000,,Fique com isso.
+Dialogue: 0,0:14:25.23,0:14:28.17,Main Dialogue,Girl,0000,0000,0000,,Guarde para o resto da sua vida.
+Dialogue: 0,0:14:30.98,0:14:31.87,Italic,Yuz,0000,0000,0000,,Hã?
+Dialogue: 0,0:14:32.81,0:14:33.83,Italic,Yuz,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:14:34.78,0:14:35.98,Italic,Yuz,0000,0000,0000,,Tanto assim?
+Dialogue: 0,0:14:36.83,0:14:38.35,Italic,Yuz,0000,0000,0000,,É tão importante assim?
+Dialogue: 0,0:14:40.20,0:14:42.26,Italic,Mik,0000,0000,0000,,Ele vai acabar jogando fora
+Dialogue: 0,0:14:42.26,0:14:45.36,Italic,Mik,0000,0000,0000,,lá por depois de amanhã,
+Dialogue: 0,0:14:45.36,0:14:49.28,Italic,Mik,0000,0000,0000,,mas, agora, ele é um orgulhoso Yuzuhiko.
+Dialogue: 0,0:14:51.14,0:14:53.66,Main Dialogue,Girls,0000,0000,0000,,Eu quero isso.
+Dialogue: 0,0:14:52.74,0:14:55.04,Atashinchi 7,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:56.37,0:14:59.29,Atashinchi 8,txt,0050,0352,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:15:05.18,0:15:06.42,Italic,Man,0000,0000,0000,,{\an8}Está chovendo.
+Dialogue: 0,0:15:07.11,0:15:09.46,Italic,Man,0000,0000,0000,,{\an8}Eu não gosto de guarda-chuvas.
+Dialogue: 0,0:15:09.46,0:15:13.14,Italic,Man,0000,0000,0000,,{\an8}Guarda-chuvas são para cidadãos exemplares.
+Dialogue: 0,0:15:13.69,0:15:15.89,Italic,Man,0000,0000,0000,,{\an8}O dia que eu tiver um guarda-chuva,
+Dialogue: 0,0:15:15.89,0:15:18.46,Italic,Man,0000,0000,0000,,{\an8}será o dia que vou me aposentar.
+Dialogue: 0,0:15:26.50,0:15:27.78,Main Dialogue,Boy,0000,0000,0000,,Está chovendo.
+Dialogue: 0,0:15:33.77,0:15:35.36,Italic,Man,0000,0000,0000,,Chuva é bom.
+Dialogue: 0,0:15:35.36,0:15:39.48,Italic,Man,0000,0000,0000,,Faz lavar para longe todas as memórias.
+Dialogue: 0,0:15:40.83,0:15:45.54,title,Titl,0000,0000,0000,,{\fad(400,1)}Yoshioka Não Quer Levar um Guarda-Chuva
+Dialogue: 0,0:15:46.52,0:15:48.01,Main Dialogue,Mik,0000,0000,0000,,Estou saindo!
+Dialogue: 0,0:16:00.67,0:16:01.81,Main Dialogue,Mom,0000,0000,0000,,O que foi?
+Dialogue: 0,0:16:02.82,0:16:04.15,Main Dialogue,Mik,0000,0000,0000,,Está começando a chover.
+Dialogue: 0,0:16:08.21,0:16:10.10,Main Dialogue,Mom,0000,0000,0000,,Não é só um daqueles chuviscos?
+Dialogue: 0,0:16:10.10,0:16:12.19,Main Dialogue,Mom,0000,0000,0000,,Leve uma sombrinha.
+Dialogue: 0,0:16:12.19,0:16:15.27,Main Dialogue,Mik,0000,0000,0000,,Não, nenhuma delas é bonitinha.
+Dialogue: 0,0:16:17.06,0:16:18.37,Main Dialogue,Mik,0000,0000,0000,,Estou indo.
+Dialogue: 0,0:16:20.71,0:16:21.21,Main Dialogue,mom,0000,0000,0000,,Ah...
+Dialogue: 0,0:16:25.40,0:16:26.61,Main Dialogue,grl,0000,0000,0000,,Que fofa!
+Dialogue: 0,0:16:39.95,0:16:41.02,Main Dialogue,Yos,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:16:43.29,0:16:45.38,Main Dialogue,Mik,0000,0000,0000,,Bom dia, Yoshioka.
+Dialogue: 0,0:16:46.16,0:16:47.95,Main Dialogue,Yos,0000,0000,0000,,Você trouxe um guarda-chuva.
+Dialogue: 0,0:16:47.95,0:16:48.77,Main Dialogue,Mik,0000,0000,0000,,Sim.
+Dialogue: 0,0:16:49.15,0:16:51.28,Main Dialogue,Mik,0000,0000,0000,,Não estava chovendo quando você saiu de casa?
+Dialogue: 0,0:16:51.28,0:16:53.10,Main Dialogue,Yos,0000,0000,0000,,Um pouco.
+Dialogue: 0,0:16:53.10,0:16:54.15,Main Dialogue,Mik,0000,0000,0000,,Então, onde está o seu guarda-chuva?
+Dialogue: 0,0:16:55.55,0:16:57.24,Main Dialogue,Yos,0000,0000,0000,,Eu não gosto de guarda-chuvas.
+Dialogue: 0,0:16:58.70,0:17:00.21,Main Dialogue,Mik,0000,0000,0000,,Que risada estranha.
+Dialogue: 0,0:17:01.46,0:17:04.69,Main Dialogue,Mik,0000,0000,0000,,Espere, entendi, os seus lábios devem\N ficar rachados nessa época do ano.
+Dialogue: 0,0:17:05.49,0:17:07.75,Main Dialogue,Mik,0000,0000,0000,,Todo mundo fica.
+Dialogue: 0,0:17:08.62,0:17:10.50,Main Dialogue,Mik,0000,0000,0000,,Eles ficam secos.
+Dialogue: 0,0:17:11.91,0:17:14.80,Main Dialogue,Mik,0000,0000,0000,,Você devia usar manteiga de cacau.
+Dialogue: 0,0:17:14.80,0:17:15.76,Main Dialogue,Yos,0000,0000,0000,,Não preciso.
+Dialogue: 0,0:17:20.46,0:17:22.27,Italic,Yos,0000,0000,0000,,Eu não uso manteiga de cacau.
+Dialogue: 0,0:17:23.29,0:17:25.52,Italic,Yos,0000,0000,0000,,O dia que eu começar a \Nusar manteiga de cacau,
+Dialogue: 0,0:17:25.52,0:17:27.35,Italic,Yos,0000,0000,0000,,será o dia que me aposento.
+Dialogue: 0,0:17:29.27,0:17:34.54,Italic,Ann,0000,0000,0000,,{\an8}Agora, chegando na linha um...
+Dialogue: 0,0:17:37.24,0:17:39.83,Atashinchi 7,txt,0426,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:17:52.06,0:17:54.59,Italic,Mik,0000,0000,0000,,Que bom que eu trouxe um guarda-chuva.
+Dialogue: 0,0:17:55.00,0:17:59.86,Main Dialogue,Mom,0000,0000,0000,,Está chovendo!
+Dialogue: 0,0:18:07.25,0:18:08.61,Main Dialogue,Mik,0000,0000,0000,,Viu?
+Dialogue: 0,0:18:09.23,0:18:11.85,Main Dialogue,Mik,0000,0000,0000,,Eu disse, você devia ter \Ntrazido um guarda-chuva.
+Dialogue: 0,0:18:11.85,0:18:13.20,Main Dialogue,Yos,0000,0000,0000,,Não precisa.
+Dialogue: 0,0:18:13.20,0:18:14.69,Main Dialogue,Mik,0000,0000,0000,,Eu tenho outro no meu armário.
+Dialogue: 0,0:18:14.69,0:18:15.58,Main Dialogue,Mik,0000,0000,0000,,Você quer que eu empreste este?
+Dialogue: 0,0:18:15.58,0:18:16.50,Main Dialogue,Yos,0000,0000,0000,,Não, obrigado.
+Dialogue: 0,0:18:16.50,0:18:17.94,Main Dialogue,Yos,0000,0000,0000,,Deve ser feminino, de qualquer jeito.
+Dialogue: 0,0:18:17.94,0:18:19.24,Main Dialogue,Mik,0000,0000,0000,,Não é hora de se preocupar com isto.
+Dialogue: 0,0:18:19.56,0:18:20.61,Main Dialogue,Mik,0000,0000,0000,,Espere um pouco.
+Dialogue: 0,0:18:20.61,0:18:21.87,Main Dialogue,Yos,0000,0000,0000,,Eu disse que não precisa.
+Dialogue: 0,0:18:22.28,0:18:24.78,Main Dialogue,Yos,0000,0000,0000,,É só uma chuvinha.
+Dialogue: 0,0:18:30.65,0:18:33.25,Italic,Mik,0000,0000,0000,,Ele está tentando fingir que é quem?
+Dialogue: 0,0:18:36.54,0:18:38.50,Italic,Yos,0000,0000,0000,,Chuva na frente e chuva atrás.
+Dialogue: 0,0:18:39.56,0:18:42.76,Italic,Yos,0000,0000,0000,,Como se estivesse chovendo por todo o mundo.
+Dialogue: 0,0:18:45.84,0:18:46.80,Main Dialogue,Iwa,0000,0000,0000,,Ei.
+Dialogue: 0,0:18:48.22,0:18:50.07,Main Dialogue,Iwa,0000,0000,0000,,Você vai ficar ensopado.
+Dialogue: 0,0:18:50.07,0:18:51.43,Main Dialogue,Iwa,0000,0000,0000,,Você não tem guarda-chuva?
+Dialogue: 0,0:18:51.43,0:18:52.57,Main Dialogue,Yos,0000,0000,0000,,Não.
+Dialogue: 0,0:18:52.57,0:18:53.76,Main Dialogue,Iwa,0000,0000,0000,,Você vai pegar uma gripe.
+Dialogue: 0,0:19:02.24,0:19:03.50,Main Dialogue,Yos,0000,0000,0000,,Ah, é uma sombrinha.
+Dialogue: 0,0:19:03.86,0:19:05.01,Main Dialogue,Yos,0000,0000,0000,,Você está tão preparado.
+Dialogue: 0,0:19:05.93,0:19:09.35,Main Dialogue,Iwa,0000,0000,0000,,Sim, e os aros são de fibra de\N carbono, então é bem leve.
+Dialogue: 0,0:19:09.35,0:19:10.30,Main Dialogue,Iwa,0000,0000,0000,,Segure.
+Dialogue: 0,0:19:11.78,0:19:13.27,Main Dialogue,Yos,0000,0000,0000,,É leve mesmo.
+Dialogue: 0,0:19:13.27,0:19:14.22,Main Dialogue,Iwa,0000,0000,0000,,Não é?
+Dialogue: 0,0:19:14.22,0:19:16.56,Main Dialogue,Iwa,0000,0000,0000,,Por isso eu sempre deixo na minha mochila.
+Dialogue: 0,0:19:17.30,0:19:18.95,Main Dialogue,Iwa,0000,0000,0000,,Pode segurar mais um pouco?
+Dialogue: 0,0:19:21.98,0:19:24.45,Main Dialogue,Yos,0000,0000,0000,,O que você está fazendo?
+Dialogue: 0,0:19:24.45,0:19:27.68,Main Dialogue,Iwa,0000,0000,0000,,Meus lábios ficam rachados nessa época do ano.
+Dialogue: 0,0:19:27.68,0:19:28.58,Main Dialogue,Iwa,0000,0000,0000,,Preciso de manteiga de cacau.
+Dialogue: 0,0:19:28.58,0:19:30.92,Main Dialogue,Yos,0000,0000,0000,,Você é uma menina ou o quê?
+Dialogue: 0,0:19:30.92,0:19:32.36,Main Dialogue,Iwa,0000,0000,0000,,É uma coisa confortável de se ter.
+Dialogue: 0,0:19:32.36,0:19:35.77,Main Dialogue,Iwa,0000,0000,0000,,Quando você ri demais, seus lábios racham.
+Dialogue: 0,0:19:35.77,0:19:36.78,Main Dialogue,Yos,0000,0000,0000,,Aqui está.
+Dialogue: 0,0:19:36.78,0:19:37.79,Main Dialogue,Iwa,0000,0000,0000,,Obrigado.
+Dialogue: 0,0:19:39.88,0:19:41.69,Italic,Yos,0000,0000,0000,,Confortável?
+Dialogue: 0,0:19:42.45,0:19:45.12,Atashinchi 7,txt,0326,0001,0014,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:19:50.17,0:19:52.12,Italic,Mik,0000,0000,0000,,É o Yoshioka e...
+Dialogue: 0,0:19:52.70,0:19:54.20,Italic,Mik,0000,0000,0000,,O Iwaki!
+Dialogue: 0,0:19:57.60,0:19:58.31,Main Dialogue,Yos,0000,0000,0000,,E aí.
+Dialogue: 0,0:20:03.60,0:20:04.90,Main Dialogue,Yos,0000,0000,0000,,O que foi?
+Dialogue: 0,0:20:05.68,0:20:08.21,Main Dialogue,Mik,0000,0000,0000,,A sua franja!
+Dialogue: 0,0:20:08.21,0:20:09.45,Main Dialogue,Yos,0000,0000,0000,,Que franja?
+Dialogue: 0,0:20:09.45,0:20:10.47,Main Dialogue,Iwa,0000,0000,0000,,Deixa eu ver.
+Dialogue: 0,0:20:11.21,0:20:13.77,Main Dialogue,Iwa,0000,0000,0000,,É verdade, está bem enrolada.
+Dialogue: 0,0:20:24.62,0:20:25.82,Main Dialogue,Yos,0000,0000,0000,,O que deu em vocês?
+Dialogue: 0,0:20:25.82,0:20:27.15,Main Dialogue,Yos,0000,0000,0000,,Parecem gêmeos.
+Dialogue: 0,0:20:31.42,0:20:33.33,Main Dialogue,Yos,0000,0000,0000,,Ai!
+Dialogue: 0,0:20:33.87,0:20:36.09,Atashinchi 8,txt,0330,0001,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:20:45.85,0:20:47.52,Main Dialogue,Mik,0000,0000,0000,,Está chovendo mesmo.
+Dialogue: 0,0:20:47.52,0:20:49.34,Main Dialogue,Mik,0000,0000,0000,,Você vai caminhar até em casa?
+Dialogue: 0,0:20:49.34,0:20:51.46,Main Dialogue,Yos,0000,0000,0000,,Estou bem, obrigado.
+Dialogue: 0,0:21:08.80,0:21:10.49,Italic,yos,0000,0000,0000,,Mesmo assim,
+Dialogue: 0,0:21:11.25,0:21:12.88,Italic,yos,0000,0000,0000,,eu não gosto de guarda-chuvas.
+Dialogue: 0,0:21:14.65,0:21:18.12,Italic,yos,0000,0000,0000,,Se a invenção de guarda-chuvas \Nfor um sinal da inovação humana,
+Dialogue: 0,0:21:18.46,0:21:20.94,Italic,yos,0000,0000,0000,,deveríamos inventar algo\N além de guarda-chuvas.
+Dialogue: 0,0:21:38.71,0:21:41.57,Italic,yos,0000,0000,0000,,{\i0}Tsc{\i1}, isso não é divertido.
+Dialogue: 0,0:21:52.04,0:21:55.04,Atashinchi 12,txt,0282,0089,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,"Não Percebe de Jeito Nenhum"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Mamãe Finge que Sabe"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,"As Terras Sagradas do Fã-Clube do Yuzu"
+Dialogue: 0,0:22:55.51,0:22:58.00,Main Dialogue,Girl,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
+Dialogue: 0,0:22:58.00,0:23:00.63,Main Dialogue,Girl,0000,0000,0000,,"Não Percebe de Jeito Nenhum"\N e outros dois episódios.
+Dialogue: 0,0:23:00.63,0:23:01.56,Main Dialogue,boy,0000,0000,0000,,El Niño!
+Dialogue: 0,0:23:01.56,0:23:02.60,Main Dialogue,girL,0000,0000,0000,,Isto é Niño!
+Dialogue: 0,0:23:02.60,0:23:04.01,Main Dialogue,boy,0000,0000,0000,,Tanto faz!

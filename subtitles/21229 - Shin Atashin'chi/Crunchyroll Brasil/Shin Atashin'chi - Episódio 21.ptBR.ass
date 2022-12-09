@@ -1,0 +1,418 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
+Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Show Title 1,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: The Next Day,Arial,20,&H00FFFFFF,&H000000FF,&H009919BD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Pet Shop,Arial,20,&H00564DE9,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: No Yuzu,Arial,20,&H007D5D55,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: No Yuzu 2,Arial,20,&H006B3FC9,&H000000FF,&H00623E43,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
+Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00E6E6E6,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0020,0080,0010,1
+Style: Atashinchi 7,Trebuchet MS,28,&H005FF1F2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0110,0050,0020,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next title 1,Comic Sans MS,26,&H002DCE4C,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H008E3ADA,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H000E84E7,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Main Dialogue,txt,0000,0000,0000,,Novo Atashinchi
+Dialogue: 0,0:00:56.20,0:01:00.74,Atashinchi,txt,0001,0220,0010,,{\3c&H7258D9&}Novo {\3c&H6387E7&}A{\3c&HCC86B1&}ta{\3c&HD5A168&}shi{\3c&HD5A168&}n{\3c&H89CE60&}chi
+Dialogue: 0,0:01:01.25,0:01:03.70,Main Dialogue,mom,0000,0000,0000,,Ah, o que eu vou fazer?
+Dialogue: 0,0:01:04.00,0:01:05.26,Main Dialogue,mik,0000,0000,0000,,O que foi?
+Dialogue: 0,0:01:05.26,0:01:07.03,Main Dialogue,mik,0000,0000,0000,,Ah, que guarda-chuva bonito.
+Dialogue: 0,0:01:07.03,0:01:08.85,Main Dialogue,mom,0000,0000,0000,,É o guarda-chuva da Sra. Misumi.
+Dialogue: 0,0:01:08.85,0:01:11.05,Main Dialogue,mom,0000,0000,0000,,Eu ainda não devolvi.
+Dialogue: 0,0:01:11.38,0:01:14.76,Main Dialogue,mik,0000,0000,0000,,Ah, é da Sra. Misumi! Por isso é tão bonito.
+Dialogue: 0,0:01:14.97,0:01:19.76,title,titl,0000,0000,0000,,{\fad(400,1)\c&H52B25F&\3c&HEFEFEF&}A Maneira Elegante de Devolver um Guarda-Chuva
+Dialogue: 0,0:01:20.10,0:01:23.51,Main Dialogue,mom,0000,0000,0000,,Eu realmente tenho que devolver.
+Dialogue: 0,0:01:25.43,0:01:29.23,flashback,mis,0000,0000,0000,,Você pode devolver quando quiser.\N Eu quase nunca uso.
+Dialogue: 0,0:01:29.51,0:01:31.97,Main Dialogue,mom,0000,0000,0000,,Por que eu ainda não devolvi?
+Dialogue: 0,0:01:33.56,0:01:36.39,Main Dialogue,mik,0000,0000,0000,,Devolver um guarda-chuva\N é mesmo uma chatice.
+Dialogue: 0,0:01:36.39,0:01:37.20,Main Dialogue,mom,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:01:37.54,0:01:40.55,Main Dialogue,mik,0000,0000,0000,,Se você for devolver em um dia de chuva,\N acaba tendo que carregar dois.
+Dialogue: 0,0:01:45.00,0:01:47.70,Main Dialogue,mom,0000,0000,0000,,Mas é a mesma coisa nos dias de sol.
+Dialogue: 0,0:01:52.17,0:01:55.08,Main Dialogue,mik,0000,0000,0000,,Acho que você tem que levar até a casa dela.
+Dialogue: 0,0:01:58.48,0:02:00.15,Main Dialogue,mom,0000,0000,0000,,E também é pesado.
+Dialogue: 0,0:02:00.15,0:02:01.14,Main Dialogue,mik,0000,0000,0000,,Pesado?
+Dialogue: 0,0:02:01.14,0:02:04.06,Main Dialogue,mom,0000,0000,0000,,Quer dizer, se eu for até a casa dela, \Neu preciso levar uma lembrancinha...
+Dialogue: 0,0:02:04.84,0:02:06.27,Main Dialogue,mik,0000,0000,0000,,Isso {\i1}é{\i0} pesado.
+Dialogue: 0,0:02:06.59,0:02:09.46,Main Dialogue,mom,0000,0000,0000,,Qual a forma casual de devolver, então?
+Dialogue: 0,0:02:13.84,0:02:16.02,Main Dialogue,mom,0000,0000,0000,,Ah, uma mensagem do pessoal do interior.
+Dialogue: 0,0:02:16.02,0:02:18.17,Main Dialogue,mom,0000,0000,0000,,Eles estão agradecendo pela geleia.
+Dialogue: 0,0:02:20.61,0:02:24.70,Show Title 1,txt,0001,0196,15,,Tia do Interior
+Dialogue: 0,0:02:20.61,0:02:24.70,Show Title 1,txt,0001,0246,15,,Obrigada
+Dialogue: 0,0:02:20.61,0:02:24.70,Show Title 1,txt,0340,0001,15,,A geleia chegou.\NNós ainda não comemos, mas obrigada.
+Dialogue: 0,0:02:25.17,0:02:28.37,Main Dialogue,mom,0000,0000,0000,,Por que ela escreveria antes de comer?
+Dialogue: 0,0:02:29.92,0:02:31.75,Main Dialogue,mik,0000,0000,0000,,Mas é bom que seja rápido assim.
+Dialogue: 0,0:02:32.78,0:02:35.89,Main Dialogue,mik,0000,0000,0000,,Dizer obrigado antes mesmo\N de comer é veloz e casual.
+Dialogue: 0,0:02:35.89,0:02:37.26,Main Dialogue,mom,0000,0000,0000,,É verdade.
+Dialogue: 0,0:02:37.26,0:02:41.22,Main Dialogue,mom,0000,0000,0000,,Quando você come alguma coisa, você também\N tem que mandar junto o que achou disso.
+Dialogue: 0,0:02:41.85,0:02:46.40,Main Dialogue,mom,0000,0000,0000,,Uma vez, alguém nos \Nmandou bolinhos das férias.
+Dialogue: 0,0:02:44.26,0:02:46.97,Signs,txt,0000,0000,0000,,{\3c&H7361BE&}Famoso \N{\c&H3F9D79&\3c&HDBDBDB&}Bolinho \N{\c&H4B536D&}Puckchee
+Dialogue: 0,0:02:47.36,0:02:49.64,flashback,mom,0000,0000,0000,,Eu vou ter que ligar para agradecer.
+Dialogue: 0,0:02:56.76,0:02:58.65,flashback,mom,0000,0000,0000,,Que coisa mais estranha...
+Dialogue: 0,0:02:59.37,0:03:02.80,Main Dialogue,mom,0000,0000,0000,,Eu não sabia o que dizer, então acabei\N passando um bom tempo sem dizer nada.
+Dialogue: 0,0:03:02.80,0:03:03.75,Main Dialogue,mom,0000,0000,0000,,Mas então...
+Dialogue: 0,0:03:07.02,0:03:07.78,flashback,mom,0000,0000,0000,,Alô?
+Dialogue: 0,0:03:07.78,0:03:09.53,flashback italic,wom,0000,0000,0000,,Sra. Tachibana?
+Dialogue: 0,0:03:10.38,0:03:12.17,flashback italic,wom,0000,0000,0000,,Os bolinhos chegaram?
+Dialogue: 0,0:03:14.17,0:03:16.61,Main Dialogue,mom,0000,0000,0000,,Eles me ligaram primeiro.
+Dialogue: 0,0:03:16.61,0:03:19.01,Main Dialogue,mom,0000,0000,0000,,Eu queria sumir!
+Dialogue: 0,0:03:19.47,0:03:22.91,Main Dialogue,mom,0000,0000,0000,,Eu devia ter ligado antes de ter comido.
+Dialogue: 0,0:03:22.91,0:03:24.51,Main Dialogue,mik,0000,0000,0000,,Isso mesmo, é melhor mais rápido.
+Dialogue: 0,0:03:24.87,0:03:26.22,Main Dialogue,mik,0000,0000,0000,,Velocidade em primeiro lugar!
+Dialogue: 0,0:03:26.84,0:03:28.18,Main Dialogue,mom,0000,0000,0000,,Essa não!
+Dialogue: 0,0:03:29.01,0:03:32.39,Main Dialogue,mom,0000,0000,0000,,Eu devia ter devolvido esse \Nguarda-chuva antes de usá-lo!
+Dialogue: 0,0:03:34.76,0:03:36.32,Main Dialogue,mik,0000,0000,0000,,Isso não.
+Dialogue: 0,0:03:36.32,0:03:37.52,Main Dialogue,mom,0000,0000,0000,,Foi uma piada.
+Dialogue: 0,0:03:37.52,0:03:39.99,The Next Day,txt,0398,0001,0010,,No dia seguinte
+Dialogue: 0,0:03:41.02,0:03:45.90,Italic,mom,0000,0000,0000,,Mas como eu devolvo um \Nguarda-chuva casualmente?
+Dialogue: 0,0:03:46.57,0:03:48.06,Main Dialogue,miz,0000,0000,0000,,Ah, Sra. Tachibana.
+Dialogue: 0,0:03:48.06,0:03:49.33,Main Dialogue,mom,0000,0000,0000,,Ora, Sra. Mizushima.
+Dialogue: 0,0:03:49.65,0:03:51.27,Main Dialogue,miz,0000,0000,0000,,Você está voltando das compras?
+Dialogue: 0,0:03:51.27,0:03:52.22,Main Dialogue,mom,0000,0000,0000,,Sim.
+Dialogue: 0,0:03:52.22,0:03:53.23,Main Dialogue,miz,0000,0000,0000,,Ah, sim.
+Dialogue: 0,0:03:53.23,0:03:55.51,Main Dialogue,miz,0000,0000,0000,,Faz tempo que eu queria\N devolver isso para você.
+Dialogue: 0,0:03:55.51,0:03:56.42,Main Dialogue,mom,0000,0000,0000,,Isso?
+Dialogue: 0,0:03:56.72,0:03:58.96,Main Dialogue,miz,0000,0000,0000,,Aquela sacola ecológica \Nque peguei emprestada.
+Dialogue: 0,0:03:59.61,0:04:01.72,Main Dialogue,miz,0000,0000,0000,,Me desculpe por ter ficado\N com ela tanto tempo.
+Dialogue: 0,0:04:01.72,0:04:03.41,Main Dialogue,miz,0000,0000,0000,,Então até mais!
+Dialogue: 0,0:04:03.41,0:04:04.76,Main Dialogue,mom,0000,0000,0000,,Até mais.
+Dialogue: 0,0:04:06.94,0:04:10.12,Italic,mom,0000,0000,0000,,Esse jeito de devolver uma coisa é legal.
+Dialogue: 0,0:04:10.12,0:04:12.02,Main Dialogue,miz,0000,0000,0000,,Até mais.
+Dialogue: 0,0:04:12.69,0:04:17.27,Italic,mom,0000,0000,0000,,Você não precisa de uma caixa de \Nchocolates, se devolver casualmente.
+Dialogue: 0,0:04:17.70,0:04:18.86,Italic,mom,0000,0000,0000,,O que importa é a hora!
+Dialogue: 0,0:04:20.94,0:04:23.32,Atashinchi,txt,0200,0130,0010,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:04:25.15,0:04:28.60,Italic,mom,0000,0000,0000,,A Misumi passa muito por aqui.
+Dialogue: 0,0:04:29.36,0:04:32.34,Italic,mom,0000,0000,0000,,Tranquila, casual e elegante.
+Dialogue: 0,0:04:32.34,0:04:33.71,Main Dialogue,mik,0000,0000,0000,,Mãe?
+Dialogue: 0,0:04:34.15,0:04:35.41,Main Dialogue,mom,0000,0000,0000,,Ah, Mikan.
+Dialogue: 0,0:04:35.41,0:04:36.87,Main Dialogue,mik,0000,0000,0000,,O que você está fazendo aqui?
+Dialogue: 0,0:04:36.87,0:04:39.17,Main Dialogue,mom,0000,0000,0000,,Achei que fosse devolver o \Nguarda-chuva de uma maneira elegante.
+Dialogue: 0,0:04:40.47,0:04:42.92,Main Dialogue,mom,0000,0000,0000,,Espero que a Sra. \NMisumi passe logo por aqui.
+Dialogue: 0,0:04:43.28,0:04:44.09,Main Dialogue,mik,0000,0000,0000,,Você está esperando por ela?
+Dialogue: 0,0:04:45.34,0:04:48.68,Main Dialogue,mom,0000,0000,0000,,Para devolver de forma tranquila\N e casual, a hora é importante!
+Dialogue: 0,0:04:49.92,0:04:50.93,Main Dialogue,mom,0000,0000,0000,,Sra. Misumi?
+Dialogue: 0,0:04:51.04,0:04:52.14,Main Dialogue,mom,0000,0000,0000,,Sra. Misumi?
+Dialogue: 0,0:04:52.22,0:04:53.35,Main Dialogue,mom,0000,0000,0000,,Sra. Misumi?
+Dialogue: 0,0:04:53.65,0:04:54.87,Main Dialogue,mom,0000,0000,0000,,Sra. Misumi?!
+Dialogue: 0,0:04:54.87,0:04:57.10,Italic,mom,0000,0000,0000,,Nada disso é elegante.
+Dialogue: 0,0:05:04.97,0:05:06.18,Main Dialogue,mik,0000,0000,0000,,Mãe?
+Dialogue: 0,0:05:06.96,0:05:08.91,Main Dialogue,mik,0000,0000,0000,,Você ainda não devolveu\N o guarda-chuva, não é?
+Dialogue: 0,0:05:09.24,0:05:11.37,Main Dialogue,mom,0000,0000,0000,,É que eu não consegui encontrar a hora certa...
+Dialogue: 0,0:05:11.60,0:05:13.60,Main Dialogue,mik,0000,0000,0000,,Você devia devolver logo.
+Dialogue: 0,0:05:13.60,0:05:15.15,Main Dialogue,mik,0000,0000,0000,,Vou sair.
+Dialogue: 0,0:05:17.71,0:05:20.22,Italic,mom,0000,0000,0000,,Para devolver bem,
+Dialogue: 0,0:05:20.22,0:05:21.64,Italic,mom,0000,0000,0000,,tudo depende da hora.
+Dialogue: 0,0:05:22.55,0:05:30.51,Pet Shop,txt,0001,0076,0008,,Pet Shop
+Dialogue: 0,0:05:25.42,0:05:29.11,Italic,mom,0000,0000,0000,,Soube que a Sra. Misumi\N vem muito nesse Pet Shop.
+Dialogue: 0,0:05:43.01,0:05:45.19,Main Dialogue,wom,0000,0000,0000,,Ora, ora, me desculpe.
+Dialogue: 0,0:05:45.44,0:05:47.49,Main Dialogue,mom,0000,0000,0000,,Ué?
+Dialogue: 0,0:06:09.24,0:06:10.97,Main Dialogue,mik,0000,0000,0000,,Você ainda não devolveu?
+Dialogue: 0,0:06:11.32,0:06:13.02,Main Dialogue,mom,0000,0000,0000,,Sim, falta a hora certa.
+Dialogue: 0,0:06:13.02,0:06:15.31,Main Dialogue,mik,0000,0000,0000,,Você não para de falar na hora certa.
+Dialogue: 0,0:06:16.11,0:06:18.27,Main Dialogue,mik,0000,0000,0000,,Olha só, essa sua insistência\Nem fazer na hora certa
+Dialogue: 0,0:06:18.27,0:06:20.87,Main Dialogue,mik,0000,0000,0000,,deixa a situação de qualquer\Njeito, menos casual.
+Dialogue: 0,0:06:21.73,0:06:23.32,Main Dialogue,mik,0000,0000,0000,,Estou saindo.
+Dialogue: 0,0:06:26.51,0:06:28.28,Main Dialogue,mom,0000,0000,0000,,Mas a hora certa...
+Dialogue: 0,0:06:43.61,0:06:44.68,Main Dialogue,mom,0000,0000,0000,,Este é o momento!
+Dialogue: 0,0:06:52.60,0:06:53.64,Main Dialogue,mom,0000,0000,0000,,Sra. Misumi!
+Dialogue: 0,0:06:57.23,0:06:58.35,Main Dialogue,mom,0000,0000,0000,,Apareça!
+Dialogue: 0,0:07:02.68,0:07:04.61,Main Dialogue,mom,0000,0000,0000,,E lá vem ela!
+Dialogue: 0,0:07:06.95,0:07:08.95,Main Dialogue,mis,0000,0000,0000,,Ora, Sra. Tachibana.
+Dialogue: 0,0:07:08.95,0:07:11.01,Main Dialogue,mom,0000,0000,0000,,Sra. Misumi!
+Dialogue: 0,0:07:11.01,0:07:12.55,Main Dialogue,mis,0000,0000,0000,,O que traz você aqui?
+Dialogue: 0,0:07:13.70,0:07:16.58,Main Dialogue,mom,0000,0000,0000,,Eu queria devolver isso para você o tempo todo.
+Dialogue: 0,0:07:16.58,0:07:18.29,Main Dialogue,mis,0000,0000,0000,,Ah, este guarda-chuva.
+Dialogue: 0,0:07:18.59,0:07:21.63,Main Dialogue,mom,0000,0000,0000,,Me desculpe por ficar com ele por tanto tempo.
+Dialogue: 0,0:07:21.63,0:07:23.00,Main Dialogue,mis,0000,0000,0000,,Não foi nada.
+Dialogue: 0,0:07:23.00,0:07:25.96,Main Dialogue,mis,0000,0000,0000,,Mas... você veio só para isso?
+Dialogue: 0,0:07:26.49,0:07:27.66,Main Dialogue,mom,0000,0000,0000,,Não!
+Dialogue: 0,0:07:27.66,0:07:29.45,Main Dialogue,mom,0000,0000,0000,,Eu estava passando por aqui.
+Dialogue: 0,0:07:30.12,0:07:32.67,Main Dialogue,mom,0000,0000,0000,,Foi só coincidência eu estar carregando ele.
+Dialogue: 0,0:07:32.67,0:07:33.43,Main Dialogue,mom,0000,0000,0000,,Aqui está.
+Dialogue: 0,0:07:34.47,0:07:36.39,Main Dialogue,mis,0000,0000,0000,,Bem...
+Dialogue: 0,0:07:39.83,0:07:41.50,Main Dialogue,mom,0000,0000,0000,,Até mais.
+Dialogue: 0,0:07:41.50,0:07:44.10,Main Dialogue,mis,0000,0000,0000,,Ah, sim, até mais.
+Dialogue: 0,0:07:44.34,0:07:45.68,Main Dialogue,mom,0000,0000,0000,,Que elegante!
+Dialogue: 0,0:07:46.37,0:07:48.57,Main Dialogue,mik,0000,0000,0000,,Nada nisso foi elegante!
+Dialogue: 0,0:07:52.03,0:07:54.99,Atashinchi,txt,0001,0248,15,,{\an2}Novo Atashinchi
+Dialogue: 0,0:07:56.24,0:07:58.95,Atashinchi,txt,0368,0050,15,,{\fad(400,1)\c&HFFFFFF&\3c&H464646&}Novo Atashinchi
+Dialogue: 0,0:08:05.50,0:08:06.63,Main Dialogue,mik,0000,0000,0000,,Yuzu,
+Dialogue: 0,0:08:07.71,0:08:10.05,Main Dialogue,mik,0000,0000,0000,,Por que você acabou de rir?
+Dialogue: 0,0:08:10.43,0:08:11.13,Main Dialogue,yuz,0000,0000,0000,,O livro.
+Dialogue: 0,0:08:11.13,0:08:12.81,Main Dialogue,mik,0000,0000,0000,,Eu entendi.
+Dialogue: 0,0:08:15.76,0:08:17.81,Main Dialogue,mik,0000,0000,0000,,Por que você acabou de rir?
+Dialogue: 0,0:08:17.81,0:08:18.76,Main Dialogue,yuz,0000,0000,0000,,Este livro.
+Dialogue: 0,0:08:19.03,0:08:21.18,Main Dialogue,mik,0000,0000,0000,,Eu já entendi, que livro é?
+Dialogue: 0,0:08:21.18,0:08:22.48,Main Dialogue,mik,0000,0000,0000,,É tão engraçado assim?
+Dialogue: 0,0:08:29.43,0:08:30.88,Main Dialogue,yuz,0000,0000,0000,,Depois eu te empresto.
+Dialogue: 0,0:08:35.04,0:08:36.28,Main Dialogue,mik,0000,0000,0000,,Que sensação bizarra...
+Dialogue: 0,0:08:38.03,0:08:40.74,Main Dialogue,mik,0000,0000,0000,,Me sinto tão {\i1}deixada para escanteio{\i0}.
+Dialogue: 0,0:08:40.95,0:08:45.75,title,titl,0000,0000,0000,,{\fad(400,1)}Por que Você Acabou de Rir?
+Dialogue: 0,0:08:46.76,0:08:49.21,Main Dialogue,mik,0000,0000,0000,,Meu irmão é tão atrevido.
+Dialogue: 0,0:08:49.66,0:08:51.92,Main Dialogue,mik,0000,0000,0000,,Chega a ser irritante.
+Dialogue: 0,0:08:53.43,0:08:56.14,Main Dialogue,shi,0000,0000,0000,,Eu não sei, acho que o Yuzinho \Ndeve achar que você é atrevida.
+Dialogue: 0,0:08:56.14,0:08:57.63,Main Dialogue,mik,0000,0000,0000,,Hã? Por quê?
+Dialogue: 0,0:08:57.63,0:09:00.58,Main Dialogue,shi,0000,0000,0000,,Eu odiaria também se eu fosse \Ninterrompida enquanto estivesse lendo.
+Dialogue: 0,0:09:02.12,0:09:04.98,Main Dialogue,mik,0000,0000,0000,,Você só acha isso porque \Nvocê é uma viciada em livros.
+Dialogue: 0,0:09:06.16,0:09:08.00,Main Dialogue,shi,0000,0000,0000,,Viciada em livros?
+Dialogue: 0,0:09:08.00,0:09:11.00,Main Dialogue,mik,0000,0000,0000,,Bem, se tivesse duas pessoas e só uma risse,
+Dialogue: 0,0:09:11.00,0:09:12.67,Main Dialogue,mik,0000,0000,0000,,você não se sentiria isolada?
+Dialogue: 0,0:09:12.67,0:09:13.71,Main Dialogue,gir,0000,0000,0000,,Isolada?
+Dialogue: 0,0:09:13.71,0:09:15.78,Main Dialogue,mik,0000,0000,0000,,Como se eu estivesse sendo deixada de lado.
+Dialogue: 0,0:09:15.78,0:09:17.70,Main Dialogue,shi,0000,0000,0000,,Eu não sinto isso, você \Ntambém não deveria sentir.
+Dialogue: 0,0:09:18.31,0:09:20.63,Main Dialogue,mik,0000,0000,0000,,Shimi, você é calma demais.
+Dialogue: 0,0:09:21.61,0:09:22.91,Main Dialogue,mik,0000,0000,0000,,Yukari, e você?
+Dialogue: 0,0:09:24.66,0:09:25.89,Main Dialogue,yuk,0000,0000,0000,,Eu não sei.
+Dialogue: 0,0:09:25.89,0:09:28.33,Main Dialogue,mik,0000,0000,0000,,Acontece o tempo todo aqui.
+Dialogue: 0,0:09:29.77,0:09:31.29,Main Dialogue,mik,0000,0000,0000,,Aquele dia também...
+Dialogue: 0,0:09:32.85,0:09:36.24,flashback italic,tv,0000,0000,0000,,{\an8}Meu pai é sério demais com o sabor.
+Dialogue: 0,0:09:36.24,0:09:38.30,flashback italic,tv,0000,0000,0000,,{\an8}Sim, eu o respeito muito por isso.
+Dialogue: 0,0:09:38.70,0:09:41.37,flashback italic,tv,0000,0000,0000,,{\an8}Ele até pensou em fechar este lugar.
+Dialogue: 0,0:09:41.37,0:09:42.13,flashback italic,tv,0000,0000,0000,,{\an8}Hã?
+Dialogue: 0,0:09:43.67,0:09:46.24,flashback,mik,0000,0000,0000,,Ei, Yuzu, por que você riu?
+Dialogue: 0,0:09:46.24,0:09:47.29,flashback,mik,0000,0000,0000,,Ei!
+Dialogue: 0,0:09:50.28,0:09:51.61,flashback,mik,0000,0000,0000,,Que falta de educação.
+Dialogue: 0,0:09:52.04,0:09:53.78,flashback,mik,0000,0000,0000,,Por quê? Por quê?
+Dialogue: 0,0:09:53.39,0:09:55.30,flashback italic,tv,0000,0000,0000,,{\an8}Eu vou mostrar para você!
+Dialogue: 0,0:09:55.30,0:09:57.57,flashback,yuz,0000,0000,0000,,Eu não consigo ouvir nada por sua causa!
+Dialogue: 0,0:09:58.25,0:09:59.98,flashback,mik,0000,0000,0000,,Por que você acabou de rir?
+Dialogue: 0,0:09:59.98,0:10:01.42,flashback,yuz,0000,0000,0000,,Por causa da fala.
+Dialogue: 0,0:10:01.42,0:10:03.14,flashback,mik,0000,0000,0000,,Mas não tinha nada para rir.
+Dialogue: 0,0:10:03.14,0:10:03.84,flashback,yuz,0000,0000,0000,,Sim, tinha.
+Dialogue: 0,0:10:03.84,0:10:04.71,flashback,mik,0000,0000,0000,,Onde?
+Dialogue: 0,0:10:04.71,0:10:06.33,flashback,yuz,0000,0000,0000,,Não incomoda!
+Dialogue: 0,0:10:06.70,0:10:09.61,flashback,yuz,0000,0000,0000,,Ah, não dá pra explicar.
+Dialogue: 0,0:10:09.61,0:10:10.65,flashback,mik,0000,0000,0000,,Seu mesquinho!
+Dialogue: 0,0:10:11.60,0:10:13.14,Main Dialogue,shi,0000,0000,0000,,Ah! Que irmã chata.
+Dialogue: 0,0:10:13.14,0:10:14.50,Main Dialogue,yuk,0000,0000,0000,,Não, não.
+Dialogue: 0,0:10:15.66,0:10:17.33,Main Dialogue,mik,0000,0000,0000,,Yukarin, você entende?
+Dialogue: 0,0:10:17.33,0:10:19.56,Main Dialogue,mik,0000,0000,0000,,O meu irmão é muito mal-educado?
+Dialogue: 0,0:10:19.56,0:10:21.37,Main Dialogue,yuk,0000,0000,0000,,Na verdade...
+Dialogue: 0,0:10:21.37,0:10:22.97,Main Dialogue,yuk,0000,0000,0000,,Você é que é fofa demais.
+Dialogue: 0,0:10:23.58,0:10:26.65,Main Dialogue,yuk,0000,0000,0000,,Quer dizer, uma irmã mais \Nvelha que não consegue chamar
+Dialogue: 0,0:10:26.65,0:10:27.94,Main Dialogue,yuk,0000,0000,0000,,a atenção do irmão mais novo é tão fofa!
+Dialogue: 0,0:10:28.64,0:10:29.90,Main Dialogue,shi,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:10:29.90,0:10:31.05,Main Dialogue,yuk,0000,0000,0000,,Sim!
+Dialogue: 0,0:10:31.05,0:10:33.17,Main Dialogue,yuk,0000,0000,0000,,Essa irmã mais nova está emocionada!
+Dialogue: 0,0:10:33.61,0:10:34.57,Main Dialogue,shi,0000,0000,0000,,Essa irmã mais nova?
+Dialogue: 0,0:10:35.23,0:10:38.72,Main Dialogue,yuk,0000,0000,0000,,Como aquelas crianças pequenas\N que ficam em volta do garoto mais velho.
+Dialogue: 0,0:10:38.72,0:10:40.95,Main Dialogue,yuk,0000,0000,0000,,É estranhamente fofo.
+Dialogue: 0,0:10:41.05,0:10:42.45,Main Dialogue,mik,0000,0000,0000,,Estranhamente fofo?
+Dialogue: 0,0:10:44.99,0:10:47.29,Main Dialogue,shi,0000,0000,0000,,Não é bom, Mikan? Ela disse que você é fofa.
+Dialogue: 0,0:10:47.90,0:10:51.01,Main Dialogue,mik,0000,0000,0000,,Espere aí, como eu posso passar um clima \Nde irmã mais nova se eu sou a mais velha?
+Dialogue: 0,0:10:51.01,0:10:54.77,Main Dialogue,mik,0000,0000,0000,,No outro dia, a Yukarin disse \Nque eu parecia um bichinho.
+Dialogue: 0,0:10:55.13,0:10:56.26,Main Dialogue,shi,0000,0000,0000,,Sim, foi mesmo.
+Dialogue: 0,0:10:57.73,0:11:00.22,Main Dialogue,shi,0000,0000,0000,,Porque você estava com a mesma cara.
+Dialogue: 0,0:11:00.55,0:11:01.85,flashback,shi,0000,0000,0000,,O que foi?
+Dialogue: 0,0:11:04.15,0:11:05.31,flashback,mik,0000,0000,0000,,Um vazamento...
+Dialogue: 0,0:11:07.00,0:11:10.10,flashback,mik,0000,0000,0000,,Um vazamento no meus dentes de trás...
+Dialogue: 0,0:11:13.22,0:11:14.15,Main Dialogue,shi,0000,0000,0000,,Se lembra?
+Dialogue: 0,0:11:15.75,0:11:17.94,Main Dialogue,yuk,0000,0000,0000,,Então, ela não é uma fofa?
+Dialogue: 0,0:11:18.39,0:11:20.32,Italic,mik,0000,0000,0000,,Eu não entendo mesmo.
+Dialogue: 0,0:11:20.32,0:11:23.91,Italic,mik,0000,0000,0000,,Eu me sinto muito isolada agora.
+Dialogue: 0,0:11:24.90,0:11:26.87,Main Dialogue,yos,0000,0000,0000,,Vocês estão se divertindo.
+Dialogue: 0,0:11:27.79,0:11:29.13,Main Dialogue,yos,0000,0000,0000,,Do que vocês estão falando?
+Dialogue: 0,0:11:29.13,0:11:31.13,Main Dialogue,shi,0000,0000,0000,,Como a Mikan é chata!
+Dialogue: 0,0:11:31.13,0:11:33.31,Main Dialogue,yuk,0000,0000,0000,,Não, como a Mikan é fofa.
+Dialogue: 0,0:11:33.31,0:11:33.83,Main Dialogue,yos,0000,0000,0000,,Hã?
+Dialogue: 0,0:11:35.46,0:11:36.96,Atashinchi,txt,0344,0040,0010,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:11:36.96,0:11:38.50,Main Dialogue,yos,0000,0000,0000,,Entendo.
+Dialogue: 0,0:11:39.01,0:11:40.42,Main Dialogue,shi,0000,0000,0000,,O que você acha?
+Dialogue: 0,0:11:42.57,0:11:43.71,Main Dialogue,yos,0000,0000,0000,,Você está errada!
+Dialogue: 0,0:11:43.71,0:11:44.73,Main Dialogue,mik,0000,0000,0000,,Hã?!
+Dialogue: 0,0:11:44.73,0:11:46.12,Main Dialogue,shi,0000,0000,0000,,Eu estava certa.
+Dialogue: 0,0:11:46.52,0:11:49.46,Main Dialogue,yuk,0000,0000,0000,,Eu achava que você entenderia, Yoshioka.
+Dialogue: 0,0:11:50.35,0:11:52.35,Main Dialogue,yuk,0000,0000,0000,,Ei, Haruyama!
+Dialogue: 0,0:11:54.64,0:11:56.18,Main Dialogue,yuk,0000,0000,0000,,Pode nos dar sua opinião?
+Dialogue: 0,0:11:56.18,0:11:57.76,Main Dialogue,har,0000,0000,0000,,O que foi?
+Dialogue: 0,0:11:57.76,0:11:59.53,Main Dialogue,all,0000,0000,0000,,- O quanto a Mikan é chata?
+Dialogue: 0,0:11:57.76,0:11:59.53,Main Dialogue,all,0000,0000,0000,,- O quanto a Mikan é fofa?
+Dialogue: 0,0:12:03.78,0:12:05.45,Atashinchi,txt,0334,0060,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:12:06.89,0:12:07.99,Main Dialogue,yuk,0000,0000,0000,,Fofa, não é?
+Dialogue: 0,0:12:07.99,0:12:09.19,Main Dialogue,yos,0000,0000,0000,,Não, é chata.
+Dialogue: 0,0:12:09.19,0:12:11.91,Main Dialogue,shi,0000,0000,0000,,Agora eu acho que é dois chata contra um fofa.
+Dialogue: 0,0:12:12.66,0:12:14.72,Main Dialogue,har,0000,0000,0000,,Entendo.
+Dialogue: 0,0:12:16.21,0:12:17.51,Main Dialogue,har,0000,0000,0000,,Que fofa!
+Dialogue: 0,0:12:17.51,0:12:19.05,Main Dialogue,yuk,0000,0000,0000,,Não é?!
+Dialogue: 0,0:12:20.61,0:12:22.01,Main Dialogue,shi,0000,0000,0000,,Agora está dois contra dois.
+Dialogue: 0,0:12:22.87,0:12:24.97,Main Dialogue,mik,0000,0000,0000,,Eu não me importo mais.
+Dialogue: 0,0:12:25.34,0:12:27.43,Main Dialogue,har,0000,0000,0000,,Eu entendo completamente.
+Dialogue: 0,0:12:27.43,0:12:30.19,Main Dialogue,har,0000,0000,0000,,Os sentimentos da Mikan são tão fofos.
+Dialogue: 0,0:12:30.19,0:12:31.68,Main Dialogue,yos,0000,0000,0000,,Hã? Que chatice.
+Dialogue: 0,0:12:32.11,0:12:33.87,Main Dialogue,har,0000,0000,0000,,É tão fofa.
+Dialogue: 0,0:12:33.87,0:12:37.39,Main Dialogue,har,0000,0000,0000,,Quer dizer, imagina se a sua\N namorada dissesse algo assim.
+Dialogue: 0,0:12:37.39,0:12:38.44,Main Dialogue,yos,0000,0000,0000,,N-Namorada?
+Dialogue: 0,0:12:40.78,0:12:44.18,flashback,gir,0000,0000,0000,,Ei, por que você acabou de rir?
+Dialogue: 0,0:12:47.23,0:12:48.24,flashback,yos,0000,0000,0000,,Não foi nada.
+Dialogue: 0,0:12:48.90,0:12:50.20,flashback,gir,0000,0000,0000,,Pô...
+Dialogue: 0,0:12:50.45,0:12:52.06,flashback,gir,0000,0000,0000,,Me diga!
+Dialogue: 0,0:12:52.06,0:12:53.14,flashback,yos,0000,0000,0000,,Não!
+Dialogue: 0,0:12:53.71,0:12:55.96,flashback,yos,0000,0000,0000,,Seu malvado!
+Dialogue: 0,0:12:56.36,0:12:58.20,Main Dialogue,yos,0000,0000,0000,,Ai...
+Dialogue: 0,0:12:59.95,0:13:01.17,Main Dialogue,shi,0000,0000,0000,,Ai...
+Dialogue: 0,0:13:01.64,0:13:03.02,Main Dialogue,yos,0000,0000,0000,,Gente, eu não consigo...
+Dialogue: 0,0:13:03.02,0:13:05.05,Main Dialogue,shi,0000,0000,0000,,Tenho que admitir que ela é fofa.
+Dialogue: 0,0:13:05.45,0:13:06.91,Main Dialogue,har,0000,0000,0000,,Viram?
+Dialogue: 0,0:13:17.06,0:13:17.85,flashback,iwa,0000,0000,0000,,Tachibana.
+Dialogue: 0,0:13:17.85,0:13:18.36,flashback,mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:13:18.94,0:13:20.71,flashback,iwa,0000,0000,0000,,Por que você acabou de rir?
+Dialogue: 0,0:13:22.52,0:13:24.32,flashback,iwa,0000,0000,0000,,Longo demais para eu explicar.
+Dialogue: 0,0:13:26.93,0:13:29.75,flashback,iwa,0000,0000,0000,,Anda, me diga. Que parte você está lendo?
+Dialogue: 0,0:13:30.33,0:13:31.79,flashback,mik,0000,0000,0000,,Poxa, você está me atrapalhando.
+Dialogue: 0,0:13:31.79,0:13:33.20,flashback,mik,0000,0000,0000,,Não me interrompa.
+Dialogue: 0,0:13:38.16,0:13:41.26,Main Dialogue,yuk,0000,0000,0000,,Como são dois contra dois, devíamos\N perguntar para outra pessoa.
+Dialogue: 0,0:13:41.71,0:13:44.05,Main Dialogue,shi,0000,0000,0000,,Que tal o Iwaki?
+Dialogue: 0,0:13:44.56,0:13:45.05,Main Dialogue,mik,0000,0000,0000,,Esperem!
+Dialogue: 0,0:13:45.05,0:13:47.05,Main Dialogue,yos,0000,0000,0000,,É mesmo, aonde o Iwaki foi?
+Dialogue: 0,0:13:46.30,0:13:47.05,Main Dialogue,mik,0000,0000,0000,,{\an8}Não!
+Dialogue: 0,0:13:47.05,0:13:48.76,Main Dialogue,mik,0000,0000,0000,,Não, já chega desse assunto!
+Dialogue: 0,0:13:49.26,0:13:50.72,Main Dialogue,mik,0000,0000,0000,,Acabou!
+Dialogue: 0,0:13:51.22,0:13:53.47,Atashinchi,txt,0250,0090,15,,Novo Atashinchi
+Dialogue: 0,0:13:56.30,0:13:57.29,Main Dialogue,mik,0000,0000,0000,,Estou exausta.
+Dialogue: 0,0:13:57.29,0:14:00.12,Main Dialogue,shi,0000,0000,0000,,Nós só falamos sobre você hoje.
+Dialogue: 0,0:14:00.12,0:14:03.36,Main Dialogue,yos,0000,0000,0000,,Eu acho que já cansei de \Nfalar de você por este ano.
+Dialogue: 0,0:14:03.81,0:14:06.56,Main Dialogue,mik,0000,0000,0000,,Vocês começaram a falar como\N se eu nem estivesse mais lá.
+Dialogue: 0,0:14:06.56,0:14:08.44,Main Dialogue,mik,0000,0000,0000,,Isso é uma forma de—
+Dialogue: 0,0:14:09.72,0:14:10.87,Main Dialogue,mik,0000,0000,0000,,Esperem um pouco.
+Dialogue: 0,0:14:10.87,0:14:14.35,Italic,ann,0000,0000,0000,,{\an8}O trem está se aproximando da estação.
+Dialogue: 0,0:14:14.35,0:14:16.72,Italic,ann,0000,0000,0000,,{\an8}Por favor, fiquem atrás da linha amarela.
+Dialogue: 0,0:14:24.53,0:14:25.45,Main Dialogue,shi,0000,0000,0000,,O que foi?
+Dialogue: 0,0:14:26.28,0:14:29.41,Main Dialogue,mik,0000,0000,0000,,Vocês não vão perguntar por que \Neu ri quando li minha mensagem?
+Dialogue: 0,0:14:29.96,0:14:31.60,Main Dialogue,mik,0000,0000,0000,,Isso não incomoda vocês?
+Dialogue: 0,0:14:32.93,0:14:35.14,Main Dialogue,shi,0000,0000,0000,,Ah, essa garota...
+Dialogue: 0,0:14:35.14,0:14:36.79,Main Dialogue,yos,0000,0000,0000,,Ela é mesmo uma chata.
+Dialogue: 0,0:14:37.83,0:14:39.52,Main Dialogue,mik,0000,0000,0000,,Hã? Por quê?
+Dialogue: 0,0:14:45.55,0:14:47.82,Main Dialogue,yos,0000,0000,0000,,A Tachibana foi bem divertida hoje.
+Dialogue: 0,0:14:48.18,0:14:50.43,Main Dialogue,yos,0000,0000,0000,,Vou falar para o Iwaki amanhã.
+Dialogue: 0,0:14:53.37,0:14:55.04,Atashinchi,txt,0006,0001,15,,{\fad(400,1)}{\an2}Novo Atashinchi
+Dialogue: 0,0:14:55.04,0:14:58.00,Atashinchi 7,txt,0000,0000,0000,,{\c&H36677C&}Novo Atashinchi
+Dialogue: 0,0:15:06.75,0:15:09.80,Main Dialogue,Hara,0000,0000,0000,,Você odeia tanto assim limpar o quadro?
+Dialogue: 0,0:15:11.92,0:15:14.14,Main Dialogue,yuz,0000,0000,0000,,N-Não...
+Dialogue: 0,0:15:14.78,0:15:15.59,Main Dialogue,hara,0000,0000,0000,,Já chega.
+Dialogue: 0,0:15:15.59,0:15:16.91,Main Dialogue,hara,0000,0000,0000,,Volte para o seu lugar.
+Dialogue: 0,0:15:18.79,0:15:20.56,Italic,Yuz,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:15:21.23,0:15:23.52,Italic,Yuz,0000,0000,0000,,O que eu acabei de fazer?
+Dialogue: 0,0:15:23.73,0:15:28.53,title,Tit,0000,0000,0000,,{\fad(400,1)\c&HFFFFF7&\3c&H949494&}Yuzu e o Mundo das Trevas
+Dialogue: 0,0:15:38.21,0:15:39.72,Main Dialogue,fuj,0000,0000,0000,,Ei, Yuzupi!
+Dialogue: 0,0:15:43.73,0:15:46.00,Main Dialogue,fuj,0000,0000,0000,,Aqui está o livro que eu \Npeguei emprestado. Obrigado.
+Dialogue: 0,0:15:46.41,0:15:49.48,Main Dialogue,fuj,0000,0000,0000,,A capa ficou um pouco amassada.
+Dialogue: 0,0:15:49.48,0:15:50.42,Main Dialogue,fuj,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:15:50.82,0:15:52.29,Main Dialogue,Yuz,0000,0000,0000,,Não se preocupe.
+Dialogue: 0,0:15:54.60,0:15:57.33,Main Dialogue,Fuj,0000,0000,0000,,Acho que eu devia \Ncomprar um novo para você.
+Dialogue: 0,0:15:57.61,0:15:59.44,Main Dialogue,Yuz,0000,0000,0000,,Eu disse que não tem\Nproblema, é só a capa.
+Dialogue: 0,0:16:01.00,0:16:03.40,Main Dialogue,Fuj,0000,0000,0000,,Certo, vou comprar um novo!
+Dialogue: 0,0:16:04.06,0:16:06.19,Main Dialogue,Yuz,0000,0000,0000,,Eu disse que tudo bem!
+Dialogue: 0,0:16:10.77,0:16:11.94,Italic,yuz,0000,0000,0000,,O que foi isso?
+Dialogue: 0,0:16:11.94,0:16:14.21,Italic,Yuz,0000,0000,0000,,O Fujino ficou todo irritado.
+Dialogue: 0,0:16:14.21,0:16:15.16,Italic,Yuz,0000,0000,0000,,O que está acontecendo?
+Dialogue: 0,0:16:15.16,0:16:16.39,Italic,Yuz,0000,0000,0000,,Eu fiz alguma coisa de errado?
+Dialogue: 0,0:16:17.40,0:16:18.87,Main Dialogue,Girl,0000,0000,0000,,Ei, Yuzupi.
+Dialogue: 0,0:16:18.87,0:16:19.45,Main Dialogue,Yuz,0000,0000,0000,,Sim?
+Dialogue: 0,0:16:21.84,0:16:24.42,Main Dialogue,Girl,0000,0000,0000,,Eu comprei uma daquelas \Nborrachas que você gosta.
+Dialogue: 0,0:16:25.00,0:16:25.92,Main Dialogue,Girl,0000,0000,0000,,Aqui está.
+Dialogue: 0,0:16:26.26,0:16:28.13,Main Dialogue,Yuz,0000,0000,0000,,Ah, obrigado.
+Dialogue: 0,0:16:30.32,0:16:31.61,Main Dialogue,Girl,0000,0000,0000,,Se não quiser, é só dizer.
+Dialogue: 0,0:16:31.61,0:16:32.49,Main Dialogue,Girl,0000,0000,0000,,Vamos?
+Dialogue: 0,0:16:35.71,0:16:36.51,Italic,Yuz,0000,0000,0000,,Hã?
+Dialogue: 0,0:16:36.92,0:16:38.62,Italic,Yuz,0000,0000,0000,,Mas eu queria tanto.
+Dialogue: 0,0:16:38.62,0:16:41.13,Italic,Yuz,0000,0000,0000,,Por que todos estão irritados comigo?
+Dialogue: 0,0:16:41.13,0:16:43.23,Italic,Yuz,0000,0000,0000,,Eu acho que eu não fiz nada de errado.
+Dialogue: 0,0:16:47.51,0:16:49.64,Italic,Yuz,0000,0000,0000,,Tem algo estranho hoje.
+Dialogue: 0,0:16:50.91,0:16:52.41,Main Dialogue,Mom2,0000,0000,0000,,Olá, Yuzu.
+Dialogue: 0,0:16:52.41,0:16:53.11,Main Dialogue,Yuz,0000,0000,0000,,Tudo bem?
+Dialogue: 0,0:16:53.52,0:16:54.57,Main Dialogue,Tak,0000,0000,0000,,Mano!
+Dialogue: 0,0:16:55.13,0:16:56.37,Main Dialogue,Yuz,0000,0000,0000,,Tazinho.
+Dialogue: 0,0:16:59.76,0:17:01.46,Main Dialogue,Mom2,0000,0000,0000,,Tazinho, o que foi?
+Dialogue: 0,0:17:03.49,0:17:05.35,Main Dialogue,Yuz,0000,0000,0000,,Até o Tazinho me odeia?
+Dialogue: 0,0:17:05.35,0:17:06.21,Main Dialogue,Yuz,0000,0000,0000,,Por quê?
+Dialogue: 0,0:17:12.72,0:17:14.63,Main Dialogue,Yuz,0000,0000,0000,,A-Até o gato?
+Dialogue: 0,0:17:17.43,0:17:19.12,Italic,Yuz,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:17:19.12,0:17:21.31,Italic,Yuz,0000,0000,0000,,Tem algo errado desde hoje de manhã.
+Dialogue: 0,0:17:22.10,0:17:25.29,Italic,Yuz,0000,0000,0000,,A Profª. Hara, o Fujino, a Ishida e o Tazinho.
+Dialogue: 0,0:17:25.29,0:17:27.27,Italic,Yuz,0000,0000,0000,,Até o gato!
+Dialogue: 0,0:17:27.87,0:17:28.93,Italic,Yuz,0000,0000,0000,,A escola.
+Dialogue: 0,0:17:30.24,0:17:31.56,Italic,Yuz,0000,0000,0000,,A cidade.
+Dialogue: 0,0:17:33.04,0:17:35.67,Italic,Yuz,0000,0000,0000,,Tudo continua o mesmo,\N mas tem alguma coisa muito errada.
+Dialogue: 0,0:17:36.97,0:17:40.51,Italic,Yuz,0000,0000,0000,,Talvez eu esteja vagando
+Dialogue: 0,0:17:41.23,0:17:42.62,Italic,Yuz,0000,0000,0000,,em algum tipo de mundo paralelo!
+Dialogue: 0,0:17:43.49,0:17:44.49,Italic,Yuz,0000,0000,0000,,É isso!
+Dialogue: 0,0:17:55.07,0:17:58.47,Italic,Yuz,0000,0000,0000,,É outro mundo que existe lado a lado
+Dialogue: 0,0:17:59.01,0:18:00.51,Italic,Yuz,0000,0000,0000,,com o nosso verdadeiro mundo.
+Dialogue: 0,0:18:01.64,0:18:02.72,Italic,Yuz,0000,0000,0000,,Seu nome é...
+Dialogue: 0,0:18:03.26,0:18:05.35,Italic,Yuz,0000,0000,0000,,O mundo de anti-euzinho-matéria!
+Dialogue: 0,0:18:16.44,0:18:19.09,Italic,txt,0000,0000,0000,,Todas as moléculas neste mundo
+Dialogue: 0,0:18:19.09,0:18:23.03,Italic,yuz,0000,0000,0000,,são feitas de anti-euzinho-matéria.
+Dialogue: 0,0:18:40.01,0:18:41.18,No Yuzu,Sign,0346,0001,15,,Nenhum Yuzu
+Dialogue: 0,0:18:43.50,0:18:44.47,Italic,Yuz,0000,0000,0000,,Os animais também.
+Dialogue: 0,0:18:47.18,0:18:48.35,Italic,Yuz,0000,0000,0000,,E as plantas.
+Dialogue: 0,0:18:52.94,0:18:54.07,No Yuzu 2,Sign,0068,0001,15,,Nenhum Yuzu
+Dialogue: 0,0:19:00.60,0:19:02.11,Italic,Yuz,0000,0000,0000,,Até os prédios?
+Dialogue: 0,0:19:06.96,0:19:09.29,Italic,yuz,0000,0000,0000,,Este é o mundo anti-euzinho-matéria.
+Dialogue: 0,0:19:10.30,0:19:14.46,Italic,yuz,0000,0000,0000,,Não tenho escolha a não ser me \Nabrigar em uma toca no subsolo?
+Dialogue: 0,0:19:26.11,0:19:27.21,Main Dialogue,yuz,0000,0000,0000,,É, até parece.
+Dialogue: 0,0:19:28.33,0:19:30.48,Main Dialogue,yuz,0000,0000,0000,,Eletricidade estática.
+Dialogue: 0,0:19:36.38,0:19:37.58,Main Dialogue,yuz,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:19:38.24,0:19:39.40,Main Dialogue,Mom,0000,0000,0000,,Seja bem-vindo!
+Dialogue: 0,0:19:39.50,0:19:40.59,Main Dialogue,Mik,0000,0000,0000,,Seja bem-vindo!
+Dialogue: 0,0:19:42.61,0:19:44.24,Main Dialogue,Yuz,0000,0000,0000,,Que bom!
+Dialogue: 0,0:19:50.19,0:19:51.21,Italic,Yuz,0000,0000,0000,,Essa não!
+Dialogue: 0,0:19:51.21,0:19:52.33,Italic,Yuz,0000,0000,0000,,Elas também!
+Dialogue: 0,0:20:02.57,0:20:05.05,Italic,Yuz,0000,0000,0000,,Nada estranho agora.
+Dialogue: 0,0:20:11.47,0:20:12.98,Main Dialogue,Dad,0000,0000,0000,,Você está com dor de barriga?
+Dialogue: 0,0:20:13.88,0:20:15.85,Italic,Yuz,0000,0000,0000,,Lá vamos nós!
+Dialogue: 0,0:20:17.22,0:20:17.90,Main Dialogue,Yuz,0000,0000,0000,,Não, tô de boa.
+Dialogue: 0,0:20:19.90,0:20:20.87,Italic,Yuz,0000,0000,0000,,Está acontecendo.
+Dialogue: 0,0:20:20.87,0:20:23.36,Italic,Yuz,0000,0000,0000,,Eu vou ser atacado de novo!
+Dialogue: 0,0:20:23.65,0:20:26.91,Main Dialogue,Mom,0000,0000,0000,,Bem, você só estava suspirando.
+Dialogue: 0,0:20:27.85,0:20:28.83,Main Dialogue,Yuz,0000,0000,0000,,Suspirando?
+Dialogue: 0,0:20:29.18,0:20:31.69,Main Dialogue,Mom,0000,0000,0000,,Não vai me dizer que você\N não gostou da comida?
+Dialogue: 0,0:20:33.07,0:20:36.43,Main Dialogue,Yuz,0000,0000,0000,,Não, não... Eu não estava suspirando.
+Dialogue: 0,0:20:37.61,0:20:38.90,Main Dialogue,Mom,0000,0000,0000,,Você acabou de fazer de novo.
+Dialogue: 0,0:20:38.90,0:20:40.22,Main Dialogue,Dad,0000,0000,0000,,Olha!
+Dialogue: 0,0:20:41.60,0:20:43.26,Main Dialogue,Mik,0000,0000,0000,,É mesmo desagradável.
+Dialogue: 0,0:20:46.50,0:20:48.50,Main Dialogue,Yuz,0000,0000,0000,,Ah, eu não estou suspirando.
+Dialogue: 0,0:20:48.50,0:20:51.77,Main Dialogue,Yuz,0000,0000,0000,,Só estou respirando pela boca porque\Nacho que estou ficando gripado.
+Dialogue: 0,0:20:53.74,0:20:56.56,Main Dialogue,Yuz,0000,0000,0000,,Espere, quer dizer que o dia todo...
+Dialogue: 0,0:21:02.87,0:21:05.96,flashback,Hara,0000,0000,0000,,Você odeia tanto assim limpar o quadro?
+Dialogue: 0,0:21:10.60,0:21:11.33,flashback,Fuj,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:21:11.95,0:21:13.64,flashback,Yuz,0000,0000,0000,,Não se preocupe.
+Dialogue: 0,0:21:15.58,0:21:17.63,flashback,Fuj,0000,0000,0000,,Acho que eu devia comprar um novo para você.
+Dialogue: 0,0:21:17.97,0:21:19.31,flashback,Yuz,0000,0000,0000,,Ah, obrigado.
+Dialogue: 0,0:21:20.50,0:21:22.01,flashback,Girl,0000,0000,0000,,Se não quiser, é só dizer.
+Dialogue: 0,0:21:22.20,0:21:23.74,flashback,Tak,0000,0000,0000,,Mano!
+Dialogue: 0,0:21:33.63,0:21:35.79,Italic,Yuz,0000,0000,0000,,Eu entendi agora.
+Dialogue: 0,0:21:38.50,0:21:40.11,Italic,Yuz,0000,0000,0000,,Foi tudo por causa do meu nariz entupido!
+Dialogue: 0,0:21:43.42,0:21:45.23,Main Dialogue,Yuz,0000,0000,0000,,Que coisa boa!
+Dialogue: 0,0:21:45.23,0:21:48.00,Main Dialogue,Mik,0000,0000,0000,,Mas, bom, não me diga \Nque gostou dessa comida.
+Dialogue: 0,0:21:48.00,0:21:49.07,Main Dialogue,Mom,0000,0000,0000,,É mesmo?
+Dialogue: 0,0:21:50.82,0:21:52.04,Main Dialogue,Yuz,0000,0000,0000,,Nada disso.
+Dialogue: 0,0:21:53.08,0:21:55.04,Atashinchi 7,txt,0001,0258,0010,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,Tit,0000,0000,0000,,Mamãe Entende Papai
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,Tit,0000,0000,0000,,Rabiscos de Coelho
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,Tit,0000,0000,0000,,Yoshioka Não Quer Levar um Guarda-Chuva
+Dialogue: 0,0:22:55.61,0:22:57.50,Main Dialogue,shi,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
+Dialogue: 0,0:22:57.50,0:22:59.56,Main Dialogue,shi,0000,0000,0000,,"Rabiscos de Coelho"\N e outros dois episódios!
+Dialogue: 0,0:22:59.56,0:23:02.18,Main Dialogue,Guy,0000,0000,0000,,Onde será que acertou a Tachibana?
+Dialogue: 0,0:23:02.18,0:23:04.06,Main Dialogue,Guy2,0000,0000,0000,,Não dá para te entender.

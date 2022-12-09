@@ -1,0 +1,432 @@
+[Script Info]
+Title: Português (Brasil)
+Original Script: cr_pt  [http://www.crunchyroll.com/user/cr_pt]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: top,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,8,0010,0010,0015,1
+Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: flashback italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0080,0010,1
+Style: Atashinchi 2,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0080,0080,0130,1
+Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0060,0040,0005,1
+Style: Atashinchi 5,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0020,0070,0120,1
+Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0010,0060,0150,1
+Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
+Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0010,0090,0130,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
+Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0100,0020,0010,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0100,0010,1
+Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
+Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
+Style: Next title 3,Comic Sans MS,26,&H00913ADA,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+Style: Atashinchi 10,Trebuchet MS,28,&H007551F1,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0110,1
+Style: Atashinchi - Copy,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0020,0020,0150,1
+Style: Atashinchi 9 - Copy,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0060,0010,0130,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:57.03,0:00:59.99,Atashinchi,txt,0000,0000,0000,,{\fs36\an8}Novo Atashinchi
+Dialogue: 0,0:01:04.10,0:01:06.08,Default,guy,0000,0000,0000,,Não acho que seja possível.
+Dialogue: 0,0:01:06.08,0:01:08.01,Default,guy,0000,0000,0000,,Ao menos é o que eu acho.
+Dialogue: 0,0:01:08.01,0:01:10.25,Default,guy,0000,0000,0000,,Sim, acho que você está certo.
+Dialogue: 0,0:01:11.48,0:01:13.40,Default,Girl,0000,0000,0000,,Ei, Yamashita.
+Dialogue: 0,0:01:14.51,0:01:17.70,Default,Girl,0000,0000,0000,,Você tem alguma ideia de\N como é a mãe do Yuzupi?
+Dialogue: 0,0:01:17.70,0:01:19.94,Default,Yam,0000,0000,0000,,A mãe dele? Não faço a menor ideia.
+Dialogue: 0,0:01:19.94,0:01:23.80,Default,Girl,0000,0000,0000,,Você não acha estranho que nós, \Nmembros do fã clube do Yuzuhiko,
+Dialogue: 0,0:01:23.80,0:01:26.19,Default,Girl,0000,0000,0000,,não saibamos nada sobre \Na família do nosso Yuzupi?
+Dialogue: 0,0:01:26.19,0:01:27.52,Default,Girl,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:01:27.76,0:01:32.52,title,Tit,0000,0000,0000,,{\fad(666,1)\c&H46A425&\3c&HFFFFFF&}A Mãe de Yuzupi
+Dialogue: 0,0:01:33.10,0:01:37.47,Default,Girl,0000,0000,0000,,Eu acho que a mãe e a \Nirmã mais velha do Yuzupi
+Dialogue: 0,0:01:37.47,0:01:39.90,Default,Girl,0000,0000,0000,,devem ser as mulheres mais felizes do mundo.
+Dialogue: 0,0:01:39.90,0:01:40.81,Default,Yam,0000,0000,0000,,Acha mesmo?
+Dialogue: 0,0:01:40.81,0:01:42.19,Default,Girl,0000,0000,0000,,Claro que sim!
+Dialogue: 0,0:01:42.19,0:01:47.25,Default,Girl,0000,0000,0000,,Olha só, elas podem viver com ele todo dia.
+Dialogue: 0,0:01:55.85,0:01:59.69,Default,Yuz,0000,0000,0000,,Ei, me passe o molho de soja, por favor!
+Dialogue: 0,0:02:00.59,0:02:04.89,Default,Girl,0000,0000,0000,,Elas conseguem ver esse \Noutro Yuzupi! Que inveja!
+Dialogue: 0,0:02:04.89,0:02:07.79,Default,Yam,0000,0000,0000,,Bem, eu duvido que ele \Nfique sempre sorrindo assim,
+Dialogue: 0,0:02:07.79,0:02:09.83,Default,Yam,0000,0000,0000,,mas acho que tenho um pouco de inveja.
+Dialogue: 0,0:02:09.83,0:02:15.00,Default,Girl,0000,0000,0000,,É claro que tem! Como será que elas são?
+Dialogue: 0,0:02:15.00,0:02:17.52,Default,Yam,0000,0000,0000,,A irmã mais velha dele \Nparece que é feia e peituda.
+Dialogue: 0,0:02:19.32,0:02:22.35,Default,Girl,0000,0000,0000,,Feia e... peituda?
+Dialogue: 0,0:02:32.84,0:02:34.29,Default,Mik,0000,0000,0000,,Acho que peguei uma gripe.
+Dialogue: 0,0:02:37.37,0:02:39.80,Default,Girl,0000,0000,0000,,Feia e peituda?
+Dialogue: 0,0:02:39.80,0:02:41.79,Default,Yam,0000,0000,0000,,Foi só o que o Nasuo disse.
+Dialogue: 0,0:02:41.79,0:02:43.61,Default,Yam,0000,0000,0000,,Pode ser mentira.
+Dialogue: 0,0:02:45.59,0:02:47.86,Default,Girl,0000,0000,0000,,Como será que é a mãe dele?
+Dialogue: 0,0:02:47.86,0:02:51.18,Default,Yam,0000,0000,0000,,Eles dizem que os meninos \Ncostumam se parecer com a mãe.
+Dialogue: 0,0:02:51.18,0:02:52.44,Default,Yam,0000,0000,0000,,Ah, Nasuo!
+Dialogue: 0,0:02:56.16,0:02:59.49,Default,Yam,0000,0000,0000,,Você já se encontrou com a\N mãe do Tachibana, não é?
+Dialogue: 0,0:03:01.75,0:03:02.45,Default,Nas,0000,0000,0000,,Não.
+Dialogue: 0,0:03:02.45,0:03:04.45,Default,Yam,0000,0000,0000,,Hã? É mesmo?
+Dialogue: 0,0:03:04.45,0:03:06.79,Default,Nas,0000,0000,0000,,Eu já falei com ela pelo telefone.
+Dialogue: 0,0:03:08.16,0:03:09.25,Default,Girl,0000,0000,0000,,Como era a voz dela?
+Dialogue: 0,0:03:09.65,0:03:11.61,Default,Nas,0000,0000,0000,,Eu não sei...
+Dialogue: 0,0:03:12.72,0:03:15.21,flashback italic,Mom,0000,0000,0000,,Sim, sim, só um momento.
+Dialogue: 0,0:03:15.76,0:03:18.54,flashback italic,Mom,0000,0000,0000,,Yuzinho! O Nasuo no telefone!
+Dialogue: 0,0:03:18.54,0:03:20.45,flashback italic,Mom,0000,0000,0000,,Yuzinho!
+Dialogue: 0,0:03:20.45,0:03:23.11,Default,Nas,0000,0000,0000,,Yuzinho! Telefone!
+Dialogue: 0,0:03:23.11,0:03:24.69,Default,Nas,0000,0000,0000,,Yuzinho!
+Dialogue: 0,0:03:25.07,0:03:26.36,Default,Nas,0000,0000,0000,,Assim.
+Dialogue: 0,0:03:26.74,0:03:28.57,Default,Nas,0000,0000,0000,,Ela tinha uma voz bem normal.
+Dialogue: 0,0:03:32.61,0:03:33.53,Default,Girl,0000,0000,0000,,Ouviu isso?
+Dialogue: 0,0:03:33.53,0:03:34.43,Default,Yam,0000,0000,0000,,Eu ouvi.
+Dialogue: 0,0:03:34.43,0:03:35.67,Default,Girl,0000,0000,0000,,Ela o chama de "Yuzinho".
+Dialogue: 0,0:03:35.67,0:03:36.82,Default,Yam,0000,0000,0000,,Yuzinho!
+Dialogue: 0,0:03:41.98,0:03:44.11,Default,Yam,0000,0000,0000,,Elas chamam ele de Yuzinho.
+Dialogue: 0,0:03:44.62,0:03:46.78,Default,Yam,0000,0000,0000,,Yuzinho...
+Dialogue: 0,0:03:49.17,0:03:51.99,Default,Yam,0000,0000,0000,,Ah, agora eu só consigo \Npensar nele como Yuzinho.
+Dialogue: 0,0:03:51.99,0:03:53.22,Default,Girl,0000,0000,0000,,Eu também.
+Dialogue: 0,0:03:53.22,0:03:55.80,Default,Girl,0000,0000,0000,,Eu quero saber como a mãe dele é.
+Dialogue: 0,0:03:56.16,0:03:58.85,Default,Girl,0000,0000,0000,,Será que ela é parecida com ele?
+Dialogue: 0,0:04:01.43,0:04:02.44,Default,Yam,0000,0000,0000,,Fujino!
+Dialogue: 0,0:04:05.45,0:04:06.21,Default,Fuj,0000,0000,0000,,O quê?
+Dialogue: 0,0:04:06.21,0:04:09.46,Default,Yam,0000,0000,0000,,Você já se encontrou com a mãe do Tachibana?
+Dialogue: 0,0:04:09.46,0:04:10.33,Default,Fuj,0000,0000,0000,,Sim.
+Dialogue: 0,0:04:10.96,0:04:11.73,Default,Both,0000,0000,0000,,Como ela é?
+Dialogue: 0,0:04:12.37,0:04:14.00,Default,Fuj,0000,0000,0000,,Como ela é?
+Dialogue: 0,0:04:16.56,0:04:18.76,Default,,0000,0000,0000,,Como ela é...
+Dialogue: 0,0:04:19.52,0:04:21.74,Default,Fuj,0000,0000,0000,,O que exatamente querem que eu diga?
+Dialogue: 0,0:04:22.24,0:04:24.70,Default,Yam,0000,0000,0000,,Pode dizer, por exemplo, como é o cabelo dela.
+Dialogue: 0,0:04:24.70,0:04:27.16,Default,Fuj,0000,0000,0000,,O cabelo dela?
+Dialogue: 0,0:04:27.16,0:04:32.66,Default,Fuj,0000,0000,0000,,Eu não sei... É meio assim...
+Dialogue: 0,0:04:33.36,0:04:35.37,Default,Fuj,0000,0000,0000,,E faz assim...
+Dialogue: 0,0:04:37.74,0:04:38.59,Default,Yam,0000,0000,0000,,E o rosto dela?
+Dialogue: 0,0:04:38.59,0:04:40.71,Default,Girl,0000,0000,0000,,Com que pessoa famosa ela se parece?
+Dialogue: 0,0:04:46.02,0:04:48.91,Default,Yam,0000,0000,0000,,Não pense demais, diga a primeira\N coisa que vier à sua cabeça.
+Dialogue: 0,0:04:48.91,0:04:50.64,Default,Fuj,0000,0000,0000,,Certo, vou definir em uma palavra.
+Dialogue: 0,0:04:53.48,0:04:55.98,Default,Fuj,0000,0000,0000,,Ela parece uma sereia bela\N demais para este mundo.
+Dialogue: 0,0:05:01.10,0:05:05.09,Default,Yam,0000,0000,0000,,Eu... Eu não consigo imaginar bem.
+Dialogue: 0,0:05:05.09,0:05:09.17,Default,Girl,0000,0000,0000,,E "uma sereia bela demais para \Neste mundo" não é uma palavra.
+Dialogue: 0,0:05:09.17,0:05:13.41,Default,Girl,0000,0000,0000,,Mas "bela demais para este mundo" \Ndeve significar que ela é muito linda, né?!
+Dialogue: 0,0:05:13.41,0:05:15.41,Default,Yam,0000,0000,0000,,E a parte da sereia?
+Dialogue: 0,0:05:17.73,0:05:22.38,Default,Mom,0000,0000,0000,,Yuzinho... Yuzinho... Yuzinho...
+Dialogue: 0,0:05:27.37,0:05:29.30,Atashinchi,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:05:38.74,0:05:42.96,Default,Girl,0000,0000,0000,,Eu sinto que sei menos \Nainda sobre a família do Yuzupi.
+Dialogue: 0,0:05:42.96,0:05:43.69,Default,Yam,0000,0000,0000,,Sim.
+Dialogue: 0,0:05:52.10,0:05:52.79,Default,Guy,0000,0000,0000,,É azul.
+Dialogue: 0,0:05:54.10,0:05:55.82,Default,Guy,0000,0000,0000,,É azul.
+Dialogue: 0,0:05:56.55,0:05:58.23,Default,Yuz,0000,0000,0000,,Deixe-me sozinho.
+Dialogue: 0,0:05:58.23,0:06:01.79,Default,Yuz,0000,0000,0000,,Eu tenho que cortar curto ou \Nminha mãe não vai sair do meu pé.
+Dialogue: 0,0:06:03.11,0:06:05.51,Default,Girl,0000,0000,0000,,Sua mãe é estranha.
+Dialogue: 0,0:06:06.28,0:06:07.97,Default,Girl,0000,0000,0000,,Como ela é?
+Dialogue: 0,0:06:10.69,0:06:12.48,Default,Yuz,0000,0000,0000,,Como assim?
+Dialogue: 0,0:06:12.48,0:06:17.73,Default,Girl,0000,0000,0000,,Sua mãe é estilo dona da casa e gentil?
+Dialogue: 0,0:06:18.45,0:06:19.94,Default,Yuz,0000,0000,0000,,Dona da casa?
+Dialogue: 0,0:06:19.94,0:06:23.68,Default,Girl,0000,0000,0000,,Por exemplo, ela faz bolo?
+Dialogue: 0,0:06:23.68,0:06:25.32,Default,Yuz,0000,0000,0000,,Do que você está falando?
+Dialogue: 0,0:06:25.69,0:06:32.93,Default,Girl,0000,0000,0000,,Existem dois tipos de mães: as que\N fazem bolos e as que não fazem.
+Dialogue: 0,0:06:32.56,0:06:35.29,Signs,txt,0000,0000,0000,,{\c&H8241D7&\bord2}Nota: De acordo com a pesquisa da Sudo
+Dialogue: 0,0:06:35.96,0:06:39.75,Default,Guy,0000,0000,0000,,A sua mãe faz bolos ou não?
+Dialogue: 0,0:06:40.30,0:06:45.84,Default,Yuz,0000,0000,0000,,Ela não faz. De vez em quando,\N ela faz bolinhos do demônio...
+Dialogue: 0,0:06:46.54,0:06:48.37,Default,Yuz,0000,0000,0000,,Ela parece com um também.
+Dialogue: 0,0:06:50.40,0:06:51.42,Default,Yam,0000,0000,0000,,Você ouviu isso?
+Dialogue: 0,0:06:51.42,0:06:52.44,Default,Girl,0000,0000,0000,,E você?
+Dialogue: 0,0:06:52.44,0:06:54.51,Default,Yam,0000,0000,0000,,Ele disse que ela parece \Num bolinho do demônio.
+Dialogue: 0,0:06:54.90,0:06:58.06,Default,Yam,0000,0000,0000,,E veio da fonte que sabemos\N que a informação é correta.
+Dialogue: 0,0:06:59.16,0:07:01.30,Default,Yam,0000,0000,0000,,A mãe do Yuzupi é um bolinho do demônio!
+Dialogue: 0,0:07:01.30,0:07:03.25,Default,Girl,0000,0000,0000,,Um bolinho do demônio!
+Dialogue: 0,0:07:06.47,0:07:08.19,Default,Girl,0000,0000,0000,,Mas um bolinho do demônio...
+Dialogue: 0,0:07:08.67,0:07:10.15,Default,Yam,0000,0000,0000,,Um bolinho do demônio...
+Dialogue: 0,0:07:11.68,0:07:14.05,Default,Both,0000,0000,0000,,O quê?!
+Dialogue: 0,0:07:24.37,0:07:26.99,Default,Girl,0000,0000,0000,,Então isso é um bolinho do demônio.
+Dialogue: 0,0:07:27.48,0:07:30.63,Default,Yam,0000,0000,0000,,Então é assim que a mãe do Yuzupi é?
+Dialogue: 0,0:07:32.00,0:07:35.60,Default,Mom,0000,0000,0000,,Yuzinho! Yuzinho!
+Dialogue: 0,0:07:36.44,0:07:38.90,Default,Girl,0000,0000,0000,,Eu estou tão confusa.
+Dialogue: 0,0:07:38.90,0:07:40.24,Default,Yam,0000,0000,0000,,Eu também.
+Dialogue: 0,0:07:45.36,0:07:49.06,Default,Girl,0000,0000,0000,,Como será que a mãe do Yuzupi é?
+Dialogue: 0,0:07:51.63,0:07:54.99,Atashinchi,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:07:56.01,0:07:57.99,Atashinchi 8,txt,0000,0000,0000,,{\fad(333,1)\c&H101B1B&}Novo Atashinchi
+Dialogue: 0,0:07:57.99,0:08:01.96,Default,Mom,0000,0000,0000,,Por que o cachorro só late na Sra. Mizushima?
+Dialogue: 0,0:08:03.21,0:08:04.36,Default,Miz,0000,0000,0000,,Isso é verdade?
+Dialogue: 0,0:08:04.36,0:08:07.92,Default,Mom,0000,0000,0000,,Sim, ele para de latir quando\N você vai ao banheiro.
+Dialogue: 0,0:08:15.23,0:08:16.35,Default,Own,0000,0000,0000,,Seja bem-vinda.
+Dialogue: 0,0:08:16.35,0:08:17.60,Default,Mac,0000,0000,0000,,Bom dia.
+Dialogue: 0,0:08:18.44,0:08:20.27,Default,Mom,0000,0000,0000,,Sra. Machiko!
+Dialogue: 0,0:08:20.27,0:08:25.03,Default,Mac,0000,0000,0000,,Eu gostaria de saber se alguma\N de vocês é boa no boliche.
+Dialogue: 0,0:08:25.39,0:08:26.08,Default,Mom,0000,0000,0000,,Boliche?
+Dialogue: 0,0:08:26.08,0:08:27.45,Default,Miz,0000,0000,0000,,Boliche?
+Dialogue: 0,0:08:27.45,0:08:29.18,Default,Miz,0000,0000,0000,,Eu costumava jogar isso sempre.
+Dialogue: 0,0:08:29.18,0:08:30.03,Default,Mom,0000,0000,0000,,Eu também.
+Dialogue: 0,0:08:30.03,0:08:31.78,Default,Wom,0000,0000,0000,,Era a moda.
+Dialogue: 0,0:08:32.02,0:08:34.49,Default,Mac,0000,0000,0000,,Vocês se lembram da média de vocês?
+Dialogue: 0,0:08:35.29,0:08:36.91,Default,Wom,0000,0000,0000,,Os pontos...
+Dialogue: 0,0:08:36.91,0:08:40.45,Default,Wom,0000,0000,0000,,Eu me esqueci completamente,\N mas era por volta de... 200?
+Dialogue: 0,0:08:41.00,0:08:41.95,Default,Mac,0000,0000,0000,,200?
+Dialogue: 0,0:08:43.13,0:08:44.30,Default,Miz,0000,0000,0000,,Deixa eu ver...
+Dialogue: 0,0:08:44.30,0:08:46.08,Default,Miz,0000,0000,0000,,Talvez eu tenha me enganado completamente.
+Dialogue: 0,0:08:46.08,0:08:48.37,Default,Mic,0000,0000,0000,,200 não é uma marca muito boa?
+Dialogue: 0,0:08:48.37,0:08:50.38,Default,Miz,0000,0000,0000,,Ah, para com isso.
+Dialogue: 0,0:08:50.38,0:08:55.34,Default,Miz,0000,0000,0000,,Sim, acho que eu fazia em torno de 180.
+Dialogue: 0,0:08:55.74,0:08:59.05,Default,Mac,0000,0000,0000,,É que eu fui convidada para \Numa competição de boliche.
+Dialogue: 0,0:08:59.05,0:09:03.02,Default,Mac,0000,0000,0000,,É só um evento entre mães, mas a\N competição parece ser bem dura.
+Dialogue: 0,0:09:04.97,0:09:12.52,Signs,face,0000,0000,0000,,{\c&H94989C&\fad(333,1)}Membro
+Dialogue: 0,0:09:05.21,0:09:07.20,Default,Wom,0000,0000,0000,,Precisamos de mais um membro.
+Dialogue: 0,0:09:07.20,0:09:09.53,Default,Wom,0000,0000,0000,,Você tem alguma amiga que jogue?
+Dialogue: 0,0:09:09.53,0:09:11.25,Default,Wom,0000,0000,0000,,Se possível, alguém que jogue bem.
+Dialogue: 0,0:09:11.25,0:09:13.23,Default,Mac,0000,0000,0000,,Eu vou procurar.
+Dialogue: 0,0:09:13.23,0:09:14.24,Default,Mac,0000,0000,0000,,Por isso que eu estou aqui.
+Dialogue: 0,0:09:14.48,0:09:17.08,Default,Mac,0000,0000,0000,,Sra. Mizushima, você poderia fazer isso?
+Dialogue: 0,0:09:17.08,0:09:17.74,Default,Miz,0000,0000,0000,,Eu?
+Dialogue: 0,0:09:17.74,0:09:19.27,Default,Mac,0000,0000,0000,,Por favor?
+Dialogue: 0,0:09:20.35,0:09:21.87,Default,Miz,0000,0000,0000,,Eu vou tentar!
+Dialogue: 0,0:09:21.87,0:09:23.24,Default,Mac,0000,0000,0000,,Obrigada!
+Dialogue: 0,0:09:23.24,0:09:25.04,Default,Mac,0000,0000,0000,,Estou contando com você.
+Dialogue: 0,0:09:25.04,0:09:28.40,Default,Store,0000,0000,0000,,Puxa... Média de 200 é nível profissional.
+Dialogue: 0,0:09:27.84,0:09:29.83,Default,Mac,0000,0000,0000,,Com licença.
+Dialogue: 0,0:09:28.40,0:09:29.35,Default,Dad,0000,0000,0000,,É mesmo...
+Dialogue: 0,0:09:29.83,0:09:31.92,Default,hoh,0000,0000,0000,,Bom trabalho!
+Dialogue: 0,0:09:32.79,0:09:35.88,Default,Mom,0000,0000,0000,,Uau, você vai entrar na competição?
+Dialogue: 0,0:09:36.58,0:09:39.76,Default,Miz,0000,0000,0000,,Espero que eu faça tudo certo, \Nfaz tanto tempo que não jogo...
+Dialogue: 0,0:09:40.39,0:09:43.41,Default,Miz,0000,0000,0000,,Ei, que tal se vocês treinassem\N comigo antes da competição?
+Dialogue: 0,0:09:43.73,0:09:45.08,Default,Wom,0000,0000,0000,,Nós?
+Dialogue: 0,0:09:45.08,0:09:46.18,Default,Mom,0000,0000,0000,,Parece divertido!
+Dialogue: 0,0:09:46.18,0:09:47.73,Default,Mom,0000,0000,0000,,Eu não jogo faz muito tempo!
+Dialogue: 0,0:09:47.93,0:09:52.73,title,Tit,0000,0000,0000,,{\fad(666,1)\c&HFFFFFF&\3c&H949494&}Boliche das Mães
+Dialogue: 0,0:09:57.72,0:09:59.21,Default,Mom,0000,0000,0000,,Você segura a bola assim e...
+Dialogue: 0,0:10:00.46,0:10:02.74,Default,Mom,0000,0000,0000,,Com qual pé se começa mesmo?
+Dialogue: 0,0:10:04.06,0:10:08.37,Default,Mom,0000,0000,0000,,Este ou este?
+Dialogue: 0,0:10:08.79,0:10:11.84,Default,Mom,0000,0000,0000,,Um... Dois... Três!
+Dialogue: 0,0:10:12.21,0:10:13.63,Default,Mom,0000,0000,0000,,Lá vou eu!
+Dialogue: 0,0:10:15.01,0:10:16.36,Default,Yuz,0000,0000,0000,,O pé está trocado.
+Dialogue: 0,0:10:22.26,0:10:25.41,Default,Miz,0000,0000,0000,,Como sapatos de boliche são duros.
+Dialogue: 0,0:10:26.88,0:10:28.59,Default,Mom,0000,0000,0000,,Estou tão nervosa.
+Dialogue: 0,0:10:28.59,0:10:30.95,Default,Miz,0000,0000,0000,,Sra. Tachibana! Os seus sapatos!
+Dialogue: 0,0:10:31.88,0:10:33.23,Default,Miz,0000,0000,0000,,Eles estão grudados!
+Dialogue: 0,0:10:34.35,0:10:36.19,Atashinchi 5,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:10:37.04,0:10:39.08,Default,Mom,0000,0000,0000,,Essa bola não é para crianças?
+Dialogue: 0,0:10:39.08,0:10:41.13,Default,Wom,0000,0000,0000,,Eu prefiro uma bola mais leve.
+Dialogue: 0,0:10:49.15,0:10:53.88,Default,Miz,0000,0000,0000,,Estou começando a duvidar \Nque minha média era 200.
+Dialogue: 0,0:10:53.88,0:10:55.56,Default,Mom,0000,0000,0000,,Tranquilo!
+Dialogue: 0,0:10:55.56,0:10:57.55,Default,Mom,0000,0000,0000,,Vamos nos esforçar e fazer 200!
+Dialogue: 0,0:10:58.03,0:11:00.06,Default,Guy,0000,0000,0000,,Elas disseram que iam fazer 200?
+Dialogue: 0,0:11:00.06,0:11:01.78,Default,Guy,0000,0000,0000,,Isso é incrível demais.
+Dialogue: 0,0:11:01.78,0:11:04.51,Default,Guy,0000,0000,0000,,Esses tipos de tias não \Njogam desde a era Showa.
+Dialogue: 0,0:11:07.64,0:11:10.98,Default,Mom,0000,0000,0000,,Eu vou primeiro!
+Dialogue: 0,0:11:12.15,0:11:13.98,Default,Mom,0000,0000,0000,,Eu vou marcar esta!
+Dialogue: 0,0:11:15.50,0:11:18.61,Default,Mom,0000,0000,0000,,Um... Dois...
+Dialogue: 0,0:11:22.21,0:11:23.24,Default,wom,0000,0000,0000,,Foi por pouco!
+Dialogue: 0,0:11:23.24,0:11:25.81,Default,mom,0000,0000,0000,,Me desculpem!
+Dialogue: 0,0:11:26.19,0:11:27.31,Default,Miz,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:11:27.31,0:11:29.71,Default,Wom,0000,0000,0000,,Nós achamos que íamos morrer...
+Dialogue: 0,0:11:31.21,0:11:34.42,Default,Mom,0000,0000,0000,,Certo, Sra. Mizushima, ataque como \Nalguém com uma média de 200 pontos!
+Dialogue: 0,0:11:45.01,0:11:46.97,Atashinchi - Copy,txt,0000,0000,0000,,{\fs30\c&HECE1F3&\3c&HAF2207&\bord2}Novo Atashinchi
+Dialogue: 0,0:11:47.90,0:11:50.23,Default,Mom,0000,0000,0000,,E agora vai a Sra. Toyama.
+Dialogue: 0,0:11:52.57,0:11:53.69,Default,Mom,0000,0000,0000,,Bem na canaleta!
+Dialogue: 0,0:11:53.69,0:11:56.66,Default,Toy,0000,0000,0000,,Eu acho que o chão está inclinado!
+Dialogue: 0,0:11:56.66,0:11:59.65,Default,Mom,0000,0000,0000,,Sra. Toyama, você devia \Nrolar a bola, não jogá-la.
+Dialogue: 0,0:12:01.73,0:12:03.61,Atashinchi 9 - Copy,txt,0000,0000,0000,,{\3c&H4C9DEB&}Novo Atashinchi
+Dialogue: 0,0:12:03.87,0:12:05.86,Default,Mom,0000,0000,0000,,Minha postura está perfeita.
+Dialogue: 0,0:12:05.86,0:12:08.12,Default,Mom,0000,0000,0000,,Agora está na hora do meu lançamento.
+Dialogue: 0,0:12:10.05,0:12:14.71,Default,Mom,0000,0000,0000,,Um... dois... três!
+Dialogue: 0,0:12:22.41,0:12:25.59,italic,Miz,0000,0000,0000,,Preciso me lembrar... de\N como eu costumava me sentir!
+Dialogue: 0,0:12:31.70,0:12:33.65,Default,Mom,0000,0000,0000,,Ela parece confusa.
+Dialogue: 0,0:12:33.65,0:12:36.27,Default,Toy,0000,0000,0000,,Parece que ela lembrou como costumava ser.
+Dialogue: 0,0:12:44.41,0:12:46.45,Atashinchi 9 - Copy,txt,0000,0000,0000,,{\3c&HAA6991&\c&HFFFFFF&}Novo Atashinchi
+Dialogue: 0,0:12:46.45,0:12:48.78,Default,Mom,0000,0000,0000,,Com mais força!
+Dialogue: 0,0:12:48.78,0:12:49.45,Default,Mom,0000,0000,0000,,Bem reto!
+Dialogue: 0,0:12:50.41,0:12:51.70,Default,Mom,0000,0000,0000,,Um... dois...
+Dialogue: 0,0:12:51.99,0:12:53.62,Default,Miz,0000,0000,0000,,Até onde você vai?
+Dialogue: 0,0:13:04.34,0:13:07.60,italic,miz,0000,0000,0000,,Meus ombros não ficavam tão tensos.
+Dialogue: 0,0:13:07.60,0:13:09.42,italic,miz,0000,0000,0000,,Preciso jogar de forma mais natural!
+Dialogue: 0,0:13:09.42,0:13:11.06,italic,miz,0000,0000,0000,,Natural!
+Dialogue: 0,0:13:14.22,0:13:16.37,Default,Mom,0000,0000,0000,,Você finalmente trocou de bola?
+Dialogue: 0,0:13:16.37,0:13:18.95,Default,Toy,0000,0000,0000,,Preciso de mais peso.
+Dialogue: 0,0:13:18.95,0:13:20.93,Default,Toy,0000,0000,0000,,Pesada...
+Dialogue: 0,0:13:23.31,0:13:24.95,Atashinchi 10,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:13:28.41,0:13:29.62,Default,Miz,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:13:29.62,0:13:31.66,Default,Miz,0000,0000,0000,,Quem disse que eu costumava marcar 200?!
+Dialogue: 0,0:13:31.66,0:13:32.88,Default,Both,0000,0000,0000,,Você disse.
+Dialogue: 0,0:13:33.41,0:13:37.37,Next,txt,0000,0000,0000,,{\bord1\c&HFFFFFF&\3c&HA06D2A&}Vamos jogar {\c&HF3A263&}juntos!
+Dialogue: 0,0:13:33.41,0:13:37.37,Next 2,txt,0000,0000,0000,,{\bord1\c&H9467DA&\3c&H610DCB&}Boliche é {\c&HEEE5FC&}divertido!
+Dialogue: 0,0:13:33.82,0:13:39.34,Default,Voice,0000,0000,0000,,Enquanto isso, a Sra. Hohoemi estava tentando\N se acostumar com seus 15 anos sem boliche.
+Dialogue: 0,0:13:40.03,0:13:43.80,italic,Hoh,0000,0000,0000,,Quem disse que eu costumava fazer 180?
+Dialogue: 0,0:13:52.34,0:13:55.68,Default,miz,0000,0000,0000,,Você precisa ser bom mesmo para fazer 200.
+Dialogue: 0,0:13:55.68,0:13:57.22,Default,miz,0000,0000,0000,,O que eu vou fazer?
+Dialogue: 0,0:13:57.22,0:13:58.42,Default,Mom,0000,0000,0000,,Ah, tanto faz!
+Dialogue: 0,0:13:58.42,0:14:01.50,Default,Mom,0000,0000,0000,,Pare de se preocupar com \Npontos e se divirta um pouco.
+Dialogue: 0,0:14:01.50,0:14:02.48,Default,kad,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:14:02.87,0:14:05.62,Default,Mom,0000,0000,0000,,Eu vou fazer assim e jogar\N do jeito que eu quiser!
+Dialogue: 0,0:14:11.86,0:14:13.41,Default,Mom,0000,0000,0000,,Sorte!
+Dialogue: 0,0:14:17.51,0:14:19.21,Default,Mom,0000,0000,0000,,Que grande técnica!
+Dialogue: 0,0:14:24.67,0:14:26.63,Default,Mom,0000,0000,0000,,Consegui!
+Dialogue: 0,0:14:27.71,0:14:29.59,Atashinchi 2,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:14:29.59,0:14:31.55,Signs,Sign,0000,0000,0000,,{\c&HF482EB&\3c&H75008F&}Campeonato de Boliche{\c&HDED04A&\3c&H6B6B6B&} das Mães
+Dialogue: 0,0:14:33.86,0:14:36.44,Default,Mom,0000,0000,0000,,Eu nunca pensei que nós \Nestaríamos aqui também.
+Dialogue: 0,0:14:36.44,0:14:37.81,Default,Toy,0000,0000,0000,,Vamos nos esforçar!
+Dialogue: 0,0:14:37.81,0:14:41.19,Default,Mom,0000,0000,0000,,Lá vou eu!
+Dialogue: 0,0:14:42.19,0:14:43.37,Default,Miz,0000,0000,0000,,Eu também!
+Dialogue: 0,0:14:44.30,0:14:45.12,Default,Toy,0000,0000,0000,,E eu!
+Dialogue: 0,0:14:53.11,0:14:55.04,Atashinchi 2,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:14:55.29,0:14:57.54,Atashinchi 7,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:15:01.44,0:15:02.25,top,Girl,0000,0000,0000,,Você...
+Dialogue: 0,0:15:03.41,0:15:04.21,top,Guy,0000,0000,0000,,Você...
+Dialogue: 0,0:15:09.60,0:15:12.40,top,Girl,0000,0000,0000,,Você...
+Dialogue: 0,0:15:14.37,0:15:16.85,top,Guy,0000,0000,0000,,Você...
+Dialogue: 0,0:15:21.44,0:15:23.56,Default,Mom,0000,0000,0000,,Mikan!
+Dialogue: 0,0:15:23.91,0:15:28.57,title,Titl,0000,0000,0000,,{\fad(666,1)\c&H4076F1&\3c&HFEFEFE&}Cuidado com o Olhar Ameaçador da Mãe
+Dialogue: 0,0:15:29.26,0:15:30.33,Default,Mik,0000,0000,0000,,O que foi?
+Dialogue: 0,0:15:30.33,0:15:32.20,Default,Mom,0000,0000,0000,,Você precisa gravar uma coisa na TV!
+Dialogue: 0,0:15:32.42,0:15:34.66,Default,Mom,0000,0000,0000,,Você sabe! Aquele anime!
+Dialogue: 0,0:15:35.42,0:15:36.79,Default,Mik,0000,0000,0000,,Certo... Certo...
+Dialogue: 0,0:15:41.33,0:15:42.05,Default,Mik,0000,0000,0000,,Hã?
+Dialogue: 0,0:15:43.05,0:15:44.29,Default,Mik,0000,0000,0000,,Não está passando.
+Dialogue: 0,0:15:44.65,0:15:45.91,Default,Mik,0000,0000,0000,,Que programa é?
+Dialogue: 0,0:15:53.40,0:15:56.01,Default,Mik,0000,0000,0000,,Poxa, mãe, que programa é?
+Dialogue: 0,0:15:58.70,0:16:00.96,Default,Mom,0000,0000,0000,,Aquele que passa às 21h.
+Dialogue: 0,0:16:00.96,0:16:02.98,Default,Mom,0000,0000,0000,,Aquele anime parece ser muito divertido!
+Dialogue: 0,0:16:02.98,0:16:05.33,Default,Mik,0000,0000,0000,,Quer dizer que não está passando agora?
+Dialogue: 0,0:16:05.33,0:16:07.44,Default,Mik,0000,0000,0000,,Ah, é, a minha novela...
+Dialogue: 0,0:16:10.63,0:16:13.36,Signs,Text,0000,0000,0000,,{\fad(666,1)\3c&H93804F&\bord2}Fim
+Dialogue: 0,0:16:14.58,0:16:17.83,Signs,Text,0000,0000,0000,,{\an9}{\fad(666,1)\3c&H93804F&\bord2}Fim
+Dialogue: 0,0:16:14.80,0:16:16.95,Default,Mik,0000,0000,0000,,Bem na melhor parte!
+Dialogue: 0,0:16:18.20,0:16:19.67,Default,Mik,0000,0000,0000,,Eu perdi!
+Dialogue: 0,0:16:19.67,0:16:22.13,Default,Mom,0000,0000,0000,,Bem, não se esqueça de gravar para mim.
+Dialogue: 0,0:16:23.09,0:16:25.25,Default,Mik,0000,0000,0000,,Poxa!
+Dialogue: 0,0:16:29.70,0:16:31.67,Default,Mik,0000,0000,0000,,Poxa, às vezes, a mãe é...
+Dialogue: 0,0:16:31.90,0:16:35.66,Default,Mik,0000,0000,0000,,Ela é tão intensa que, às vezes,\N a gente pega o ritmo dela.
+Dialogue: 0,0:16:36.11,0:16:37.64,Default,Yuz,0000,0000,0000,,Já aconteceu a mesma coisa comigo.
+Dialogue: 0,0:16:39.40,0:16:40.87,flashback,Yuz,0000,0000,0000,,Estou saindo!
+Dialogue: 0,0:16:41.74,0:16:42.82,flashback,Mom,0000,0000,0000,,Yuzinho!
+Dialogue: 0,0:16:42.82,0:16:43.81,flashback,Yuz,0000,0000,0000,,O que foi?
+Dialogue: 0,0:16:43.81,0:16:46.12,flashback,Mom,0000,0000,0000,,Você pode voltar para casa mais cedo hoje?
+Dialogue: 0,0:16:46.84,0:16:48.45,flashback,Yuz,0000,0000,0000,,Eu não tenho nada, então acho que posso.
+Dialogue: 0,0:16:48.45,0:16:49.48,flashback,Mom,0000,0000,0000,,Durante a noite...
+Dialogue: 0,0:16:50.32,0:16:52.19,flashback,Mom,0000,0000,0000,,Vai vir um pacote!
+Dialogue: 0,0:16:52.19,0:16:53.36,flashback,Mom,0000,0000,0000,,Receba para mim.
+Dialogue: 0,0:16:57.67,0:17:01.48,Default,Yuz,0000,0000,0000,,Eu achei que fosse alguma entrega especial,\N então corri o mais rápido que eu pude.
+Dialogue: 0,0:17:02.87,0:17:04.16,flashback,Yuz,0000,0000,0000,,Cheguei a tempo!
+Dialogue: 0,0:17:05.14,0:17:06.63,flashback,Yuz,0000,0000,0000,,Eu posso assinar esse pacote...
+Dialogue: 0,0:17:06.63,0:17:07.36,flashback,Mom,0000,0000,0000,,Olá!
+Dialogue: 0,0:17:07.36,0:17:08.84,flashback,Yuz,0000,0000,0000,,Você estava em casa?
+Dialogue: 0,0:17:10.70,0:17:12.76,flashback,Yuz,0000,0000,0000,,Eu achei que você tinha dito \Nque não estaria em casa.
+Dialogue: 0,0:17:13.33,0:17:15.76,flashback,Yuz,0000,0000,0000,,Eu corri de volta para casa!
+Dialogue: 0,0:17:16.24,0:17:18.47,flashback,Mom,0000,0000,0000,,Mas eu não disse que ia sair.
+Dialogue: 0,0:17:18.74,0:17:21.81,flashback,Yuz,0000,0000,0000,,Então por que você saiu correndo \Npara me dizer que tinha um pacote?
+Dialogue: 0,0:17:21.81,0:17:28.32,flashback,Mom,0000,0000,0000,,Porque a amiga da Sra. Mizushima me \Nmandou umas roupas de segunda mão!
+Dialogue: 0,0:17:29.39,0:17:31.90,flashback,Mom,0000,0000,0000,,Olha como são bonitas!
+Dialogue: 0,0:17:31.90,0:17:35.07,flashback,Mom,0000,0000,0000,,Ficam perfeitas em você!
+Dialogue: 0,0:17:35.07,0:17:36.72,flashback,Mom,0000,0000,0000,,Anda logo e experimenta!
+Dialogue: 0,0:17:38.55,0:17:41.21,flashback,Yuz,0000,0000,0000,,Você só queria que eu experimentasse\N essas roupas na hora que chegassem?
+Dialogue: 0,0:17:41.21,0:17:41.74,flashback,Mom,0000,0000,0000,,Isso mesmo!
+Dialogue: 0,0:17:41.98,0:17:45.05,Default,Yuz,0000,0000,0000,,Eu não precisaria ter que \Ncorrer para casa por isso.
+Dialogue: 0,0:17:45.05,0:17:46.21,Default,Mik,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:17:46.63,0:17:47.63,Signs,txt,0000,0000,0000,,{\an9\c&HC8C153&\3c&H4D4121&\fad(111,333)}Poxa...
+Dialogue: 0,0:17:47.48,0:17:50.67,Default,Yuz,0000,0000,0000,,É como se a intensidade dela não \Ncombinasse com a verdadeira atividade.
+Dialogue: 0,0:17:50.89,0:17:51.87,Default,txt,0000,0000,0000,,{\an7\c&H9351F0&\3c&H3E1F84&\fad(111,333)}Poxa...
+Dialogue: 0,0:17:51.87,0:17:55.63,Default,Mik,0000,0000,0000,,Como ela pode se empolgar tanto \Ncom coisas normalmente tão chatas?
+Dialogue: 0,0:17:56.52,0:17:58.22,Default,Yuz,0000,0000,0000,,Ela é assim, eu acho.
+Dialogue: 0,0:17:58.47,0:17:59.21,Default,Mik,0000,0000,0000,,Sim, é.
+Dialogue: 0,0:17:59.21,0:18:00.18,Default,Mik,0000,0000,0000,,Se não nos cuidarmos...
+Dialogue: 0,0:18:00.18,0:18:01.89,Default,Mom,0000,0000,0000,,É mesmo?!
+Dialogue: 0,0:18:01.89,0:18:03.26,Default,Mom,0000,0000,0000,,Não me diga!
+Dialogue: 0,0:18:03.26,0:18:05.06,Default,Mom,0000,0000,0000,,Que coisa terrível!
+Dialogue: 0,0:18:05.06,0:18:07.36,Default,Mom,0000,0000,0000,,Sim, sim. Certo.
+Dialogue: 0,0:18:07.36,0:18:09.78,Default,Mom,0000,0000,0000,,Ir para o hospital...
+Dialogue: 0,0:18:09.78,0:18:11.23,Default,Mom,0000,0000,0000,,Sim, sim.
+Dialogue: 0,0:18:13.44,0:18:17.00,Default,Mom,0000,0000,0000,,Se tiver alguma coisa que eu \Npossa fazer, por favor, me diga.
+Dialogue: 0,0:18:17.00,0:18:18.25,Default,Mom,0000,0000,0000,,Sim, sim.
+Dialogue: 0,0:18:18.25,0:18:23.21,Default,Mom,0000,0000,0000,,Ora, não se preocupe com isso.
+Dialogue: 0,0:18:22.27,0:18:23.32,Default,Mik,0000,0000,0000,,Alguém foi para o hospital.
+Dialogue: 0,0:18:23.32,0:18:25.03,Default,Mik,0000,0000,0000,,Será que foi uma amiga da mãe?
+Dialogue: 0,0:18:25.03,0:18:26.40,Default,Yuz,0000,0000,0000,,Talvez.
+Dialogue: 0,0:18:28.87,0:18:31.38,Atashinchi 3,txt,0000,0000,0000,,Novo Atashinchi
+Dialogue: 0,0:18:31.71,0:18:32.71,Default,Mom,0000,0000,0000,,Ei, Mikan!
+Dialogue: 0,0:18:33.43,0:18:36.73,Default,Mom,0000,0000,0000,,Lembra quando tivemos aquela \Nconversa sobre o taiyaki delicioso?
+Dialogue: 0,0:18:36.73,0:18:37.55,Default,Mik,0000,0000,0000,,O quê?
+Dialogue: 0,0:18:37.55,0:18:39.25,Default,Mik,0000,0000,0000,,Ah, o taiyaki?
+Dialogue: 0,0:18:39.25,0:18:40.64,Default,Mik,0000,0000,0000,,Sim, nós falamos sobre isso.
+Dialogue: 0,0:18:40.64,0:18:43.12,Default,Mom,0000,0000,0000,,Você precisa me dizer que loja é.
+Dialogue: 0,0:18:45.22,0:18:47.39,flashback,Mom,0000,0000,0000,,{\fad(333,1)}Ir para o hospital...
+Dialogue: 0,0:18:47.39,0:18:49.14,italic,Mik,0000,0000,0000,,Será que ela vai levar um pouco\N para a amiga dela no hospital?
+Dialogue: 0,0:18:49.75,0:18:52.36,Default,Mik,0000,0000,0000,,Na verdade, eu nunca fui lá.
+Dialogue: 0,0:18:52.36,0:18:54.59,Default,Mik,0000,0000,0000,,Meu amigo que disse que era gostoso.
+Dialogue: 0,0:18:54.59,0:18:56.87,Default,Mom,0000,0000,0000,,Poderia pedir para ele?
+Dialogue: 0,0:18:56.87,0:18:58.33,Default,Mik,0000,0000,0000,,Claro, mas agora?
+Dialogue: 0,0:18:58.33,0:18:59.30,Default,Mom,0000,0000,0000,,Boa sorte!
+Dialogue: 0,0:18:59.30,0:19:00.07,Default,Mik,0000,0000,0000,,O quê?
+Dialogue: 0,0:19:04.20,0:19:05.83,italic,Mik,0000,0000,0000,,Poxa vida...
+Dialogue: 0,0:19:07.36,0:19:09.96,italic,Mik,0000,0000,0000,,O Yoshioka que me disse.
+Dialogue: 0,0:19:10.29,0:19:13.74,italic,Mik,0000,0000,0000,,Seria estranho mandar uma \Nmensagem sobre isso agora.
+Dialogue: 0,0:19:13.74,0:19:15.67,italic,Mik,0000,0000,0000,,Eu disse uma coisa sem pensar...
+Dialogue: 0,0:19:15.67,0:19:18.38,flashback,Mik,0000,0000,0000,,Yoshioka, como você é nojento!
+Dialogue: 0,0:19:20.21,0:19:22.85,italic,Mik,0000,0000,0000,,Isso o deixou de mau humor.
+Dialogue: 0,0:19:23.32,0:19:25.68,Default,Mik,0000,0000,0000,,Eu não devia ter dito que ele era nojento.
+Dialogue: 0,0:19:25.68,0:19:28.31,Default,Mik,0000,0000,0000,,Mas se isso for deixar a \Namiga da minha mãe feliz...
+Dialogue: 0,0:19:28.31,0:19:29.47,Default,Mik,0000,0000,0000,,Certo!
+Dialogue: 0,0:19:28.31,0:19:33.00,Signs,pho,0000,0000,0000,,{\c&HFFF3ED&\3c&H782ED5&}Yoshioka
+Dialogue: 0,0:19:33.22,0:19:34.41,italic,Yos,0000,0000,0000,,Alô?
+Dialogue: 0,0:19:34.41,0:19:35.42,Default,Mik,0000,0000,0000,,Ei, Yoshioka?
+Dialogue: 0,0:19:35.42,0:19:37.03,Default,Mik,0000,0000,0000,,Sou eu, Tachibana.
+Dialogue: 0,0:19:37.03,0:19:38.32,Default,Mik,0000,0000,0000,,Sim, e aí?
+Dialogue: 0,0:19:38.32,0:19:40.43,Default,mik,0000,0000,0000,,Bem, me desculpe pelo que eu disse...
+Dialogue: 0,0:19:41.28,0:19:43.78,Signs,Text,0000,0000,0000,,{\c&H3940DA&}Vapor Vapor
+Dialogue: 0,0:19:51.21,0:19:53.92,Default,Mom,0000,0000,0000,,Que incrível!
+Dialogue: 0,0:19:51.64,0:19:53.92,Signs,Text,0000,0000,0000,,{\c&H6133E5&\3c&HFFFFFF&\fs22}Trés bièn!
+Dialogue: 0,0:19:54.32,0:19:55.37,Default,Mom,0000,0000,0000,,Mikan, coma um pouco.
+Dialogue: 0,0:19:55.37,0:19:56.56,Default,Mik,0000,0000,0000,,Ah, taiyaki!
+Dialogue: 0,0:19:56.56,0:19:57.88,Default,Mik,0000,0000,0000,,Você foi comprar na hora.
+Dialogue: 0,0:20:01.97,0:20:03.15,Default,Mik,0000,0000,0000,,Que delícia.
+Dialogue: 0,0:20:03.15,0:20:04.11,Default,mom,0000,0000,0000,,É mesmo.
+Dialogue: 0,0:20:04.11,0:20:06.22,Default,mik,0000,0000,0000,,Então, você já foi no hospital hoje?
+Dialogue: 0,0:20:06.85,0:20:08.08,Default,Mom,0000,0000,0000,,Que hospital?
+Dialogue: 0,0:20:08.08,0:20:09.06,Default,Mom,0000,0000,0000,,Do que você está falando?
+Dialogue: 0,0:20:09.51,0:20:11.64,Default,Mik,0000,0000,0000,,Eu achei que uma amiga \Nsua estivesse no hospital.
+Dialogue: 0,0:20:11.91,0:20:14.10,Default,Mom,0000,0000,0000,,Sim, é verdade.
+Dialogue: 0,0:20:14.61,0:20:17.07,Default,Mik,0000,0000,0000,,Bem, você não comprou o taiyaki\N para levar para o hospital?
+Dialogue: 0,0:20:17.07,0:20:18.41,Default,Mom,0000,0000,0000,,Não.
+Dialogue: 0,0:20:18.41,0:20:20.11,Default,Mom,0000,0000,0000,,Eu não fui visitá-la.
+Dialogue: 0,0:20:20.54,0:20:23.03,Default,Mik,0000,0000,0000,,Então, por que você me perguntou\N sobre o taiyaki ontem?
+Dialogue: 0,0:20:24.64,0:20:28.98,Default,Mom,0000,0000,0000,,Porque eu me lembrei logo depois da ligação.
+Dialogue: 0,0:20:28.98,0:20:31.19,Default,Mom,0000,0000,0000,,E eu me lembrei do quanto estava com vontade!
+Dialogue: 0,0:20:31.52,0:20:32.51,Default,Mik,0000,0000,0000,,É só isso?
+Dialogue: 0,0:20:33.04,0:20:36.63,Default,Mom,0000,0000,0000,,Que delícia! Acho que vou\N comer a porção dos meninos.
+Dialogue: 0,0:20:38.59,0:20:39.76,Default,Mik,0000,0000,0000,,Era isso?
+Dialogue: 0,0:20:39.76,0:20:41.84,Default,Mik,0000,0000,0000,,Achei que era para alguém no hospital,
+Dialogue: 0,0:20:41.84,0:20:44.31,Default,Mik,0000,0000,0000,,então deixei o orgulho de lado e liguei \Npara um amigo com quem estava brigada!
+Dialogue: 0,0:20:44.31,0:20:47.47,Default,Mom,0000,0000,0000,,Não é como se eu tivesse \Ndito que ia para o hospital.
+Dialogue: 0,0:20:48.01,0:20:51.00,Default,Mik,0000,0000,0000,,É, você não disse mesmo.
+Dialogue: 0,0:20:52.04,0:20:54.65,Default,Mik,0000,0000,0000,,Eu não acredito que eu \Ncaí na intensidade dela de novo!
+Dialogue: 0,0:20:55.08,0:20:57.27,Default,Mik,0000,0000,0000,,Eu sou mesmo otária!
+Dialogue: 0,0:20:57.90,0:21:01.32,flashback,Yoshi,0000,0000,0000,,Eu teria parado de andar com você se\N não tivesse ligado para se desculpar.
+Dialogue: 0,0:21:02.31,0:21:05.28,Default,Mik,0000,0000,0000,,Pelo menos eu fiz as pazes com o Yoshioka.
+Dialogue: 0,0:21:05.63,0:21:08.74,Default,Mik,0000,0000,0000,,Mas eu juro que nunca mais caio numa dessas!
+Dialogue: 0,0:21:08.74,0:21:10.61,Default,Mom,0000,0000,0000,,Mikan!
+Dialogue: 0,0:21:10.61,0:21:12.79,Default,Mom,0000,0000,0000,,Você tem uma régua de 30 cm?
+Dialogue: 0,0:21:14.00,0:21:15.08,Default,Mik,0000,0000,0000,,Eu tenho fita métrica—
+Dialogue: 0,0:21:15.08,0:21:16.33,Default,Mom,0000,0000,0000,,Fita não adianta!
+Dialogue: 0,0:21:17.66,0:21:19.31,Default,Mik,0000,0000,0000,,Espera, eu vou procurar!
+Dialogue: 0,0:21:21.84,0:21:23.31,Default,Mik,0000,0000,0000,,Espere um pouco...
+Dialogue: 0,0:21:27.41,0:21:29.22,Default,Mik,0000,0000,0000,,Achei! Achei!
+Dialogue: 0,0:21:31.85,0:21:32.93,Default,Mom,0000,0000,0000,,Mikan...
+Dialogue: 0,0:21:33.45,0:21:35.23,Default,Mik,0000,0000,0000,,Mãe...
+Dialogue: 0,0:21:37.94,0:21:39.90,Default,Mom,0000,0000,0000,,Minhas costas estavam coçando tanto.
+Dialogue: 0,0:21:41.01,0:21:42.23,Default,Mom,0000,0000,0000,,Obrigada...
+Dialogue: 0,0:21:42.23,0:21:44.99,Default,Mom,0000,0000,0000,,Minhas costas estavam \Ncoçando muito. Que delícia!
+Dialogue: 0,0:21:45.30,0:21:49.11,Default,mik,0000,0000,0000,,Não!
+Dialogue: 0,0:21:52.57,0:21:55.04,Atashinchi 9,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,O Feitiço de Kawashima
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,Sra. Mizushima É Jovem
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,Cuide da Sua Própria Bunda
+Dialogue: 0,0:22:55.36,0:22:56.97,Default,mom,0000,0000,0000,,No Próximo Episódio de {\i1}Novo Atashinchi{\i0}:
+Dialogue: 0,0:22:56.97,0:22:58.15,Default,mom,0000,0000,0000,,O Feitiço de Kawashima.
+Dialogue: 0,0:22:58.15,0:22:59.23,Default,mom,0000,0000,0000,,E outros dois episódios...
+Dialogue: 0,0:22:59.23,0:23:03.59,Default,kaw,0000,0000,0000,,Parece que, hoje em dia, está na moda vestir\N moda jovem e limpar a própria bunda.
+Dialogue: 0,0:23:03.59,0:23:04.76,Default,mik,0000,0000,0000,,Kawashima...
