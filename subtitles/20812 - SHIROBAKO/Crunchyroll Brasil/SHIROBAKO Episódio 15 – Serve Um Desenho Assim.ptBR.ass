@@ -111,7 +111,7 @@ Dialogue: 0,0:04:27.92,0:04:28.57,Shirobako_Main,mai,0000,0000,0000,,Hã?
 Dialogue: 0,0:04:28.57,0:04:32.27,Shirobako_Main,ando,0000,0000,0000,,Também tem o "Fada Guerreira \NVollagen" e o "Stuttgart da Luz",
 Dialogue: 0,0:04:32.27,0:04:35.21,Shirobako_Main,ando,0000,0000,0000,,quando o diretor fugiu e o principal \Nroteirista pediu demissão.
 Dialogue: 0,0:04:35.21,0:04:36.49,Shirobako_Main,ando,0000,0000,0000,,A única forma de conseguir ser visto
-Dialogue: 0,0:04:36.49,0:04:39.50,Shirobako_Main,ando,0000,0000,0000,,foi pela grande ajuda do \N"salvador da pátria" Maitake-san.
+Dialogue: 0,0:04:36.49,0:04:39.50,Shirobako_Main,ando,0000,0000,0000,,foi pela grande ajuda do \N"salvador da pátria", Maitake-san.
 Dialogue: 0,0:04:39.50,0:04:40.56,Shirobako_Main,mai,0000,0000,0000,,Espere, espere.
 Dialogue: 0,0:04:40.56,0:04:43.26,Shirobako_Main,kino,0000,0000,0000,,Nossa, você está por dentro. O que tem mais?
 Dialogue: 0,0:04:43.26,0:04:46.76,Shirobako_Main,ando,0000,0000,0000,,Como o fato que o "Puruten" foi \Nentregue cinco minutos antes de ir ao ar?
@@ -173,16 +173,16 @@ Dialogue: 0,0:06:57.20,0:07:00.41,Shirobako_Main,kino,0000,0000,0000,,E tendo um
 Dialogue: 0,0:07:00.41,0:07:04.03,Shirobako_Main,kino,0000,0000,0000,,e nuvens que envolvem, se misturam,\N se enroscam e que são cortadas!
 Dialogue: 0,0:07:04.03,0:07:05.64,Shirobako_Main,kino,0000,0000,0000,,Que legal!
 Dialogue: 0,0:07:05.64,0:07:08.67,Shirobako_Main,shimo,0000,0000,0000,,Ah, isso soa legal, apesar\N de ser bem trabalhoso.
-Dialogue: 0,0:07:08.67,0:07:11.61,Shirobako_Main,mado,0000,0000,0000,,{\a6}Diretor, foi até Hamamatsu assistir a F-1?
+Dialogue: 0,0:07:08.67,0:07:11.61,Shirobako_Main,mado,0000,0000,0000,,{\a6}Diretor, foi até Hamamatsu assistir a F-11?
 Dialogue: 0,0:07:09.43,0:07:10.85,Shirobako_Main,mimu,0000,0000,0000,,Isso é trabalho?
 Dialogue: 0,0:07:10.85,0:07:14.41,Shirobako_Main,roro,0000,0000,0000,,Há limites se tentar pesquisar \Napenas por livros ou na internet.
 Dialogue: 0,0:07:11.61,0:07:13.59,Shirobako_Main,yama,0000,0000,0000,,{\a6}Ah, não vale. Comeu enguias?
-Dialogue: 0,0:07:13.59,0:07:15.67,Shirobako_Main,kino,0000,0000,0000,,{\a6}Eu comi! Apesar de ser um \Nobento de estação de trem.
+Dialogue: 0,0:07:13.59,0:07:15.67,Shirobako_Main,kino,0000,0000,0000,,{\a6}Eu comi! Apesar de ser um \Nobentou de estação de trem.
 Dialogue: 0,0:07:14.41,0:07:17.68,Shirobako_Main,roro,0000,0000,0000,,Ver pessoalmente com certeza\N é bem melhor para ter ideias.
 Dialogue: 0,0:07:15.67,0:07:17.68,Shirobako_Main,yama,0000,0000,0000,,{\a6}Enguias são sempre enguias,\N o que está dizendo?
 Dialogue: 0,0:07:18.00,0:07:20.51,Shirobako_Main,mimu,0000,0000,0000,,Diz isso, mas as festas durante as noites
 Dialogue: 0,0:07:20.51,0:07:22.83,Shirobako_Main,mimu,0000,0000,0000,,no final das loc hunts são os principais eventos.
-Dialogue: 0,0:07:22.83,0:07:25.68,Shirobako_Main,roro,0000,0000,0000,,A festa são detalhes, estão \Nfazendo seu trabalho também.
+Dialogue: 0,0:07:22.83,0:07:25.68,Shirobako_Main,roro,0000,0000,0000,,A festa é só um detalhe, estão \Nfazendo seu trabalho também.
 Dialogue: 0,0:07:28.19,0:07:30.01,Shirobako_Main,kino,0000,0000,0000,,Lá vamos, pessoal.
 Dialogue: 0,0:07:30.01,0:07:30.65,Shirobako_Main,kino,0000,0000,0000,,Sim!
 Dialogue: 0,0:07:30.65,0:07:31.65,To_Be_Continued(Ep15),sign,0000,0000,0000,,Continua
@@ -226,7 +226,7 @@ Dialogue: 0,0:08:58.89,0:09:01.12,Shirobako_Main,yama,0000,0000,0000,,{\a6}Norma
 Dialogue: 0,0:09:00.49,0:09:03.41,Shirobako_Main,sato,0000,0000,0000,,Não estou entendendo a conversa, \Nnem algumas palavras específicas.
 Dialogue: 0,0:09:01.12,0:09:04.03,Shirobako_Main,kino,0000,0000,0000,,{\a6}Está tudo bem, vai caber. Eu tirei as \Npartes desnecessárias. E também, eu gosto
 Dialogue: 0,0:09:03.41,0:09:06.58,Shirobako_Main,ando,0000,0000,0000,,Eu sei o que significa "pan", é quando\N a câmera se move, não é mesmo?
-Dialogue: 0,0:09:04.03,0:09:06.58,Shirobako_Main,kino,0000,0000,0000,,{\a6}do diálogo contínuo, mesmo para o ponto\N que falam sobrepondo umas ás outras.
+Dialogue: 0,0:09:04.03,0:09:06.58,Shirobako_Main,kino,0000,0000,0000,,{\a6}do diálogo contínuo, mesmo para o ponto\N que falam sobrepondo umas às outras.
 Dialogue: 0,0:09:06.58,0:09:10.45,Shirobako_Main,yama,0000,0000,0000,,Mas esta cena da Tatiana atacando\N vai tomar um bom espaço.
 Dialogue: 0,0:09:10.45,0:09:13.87,Shirobako_Main,kino,0000,0000,0000,,Essa cena é ótima. Eu queria desenhar isso.
 Dialogue: 0,0:09:13.87,0:09:15.44,Shirobako_Main,kino,0000,0000,0000,,A situação não deixa nenhuma esperança,
@@ -358,9 +358,9 @@ Dialogue: 0,0:14:26.65,0:14:28.57,Shirobako_Main,kino,0000,0000,0000,,Sobre as c
 Dialogue: 0,0:14:28.57,0:14:31.22,Shirobako_Main,kino,0000,0000,0000,,tivesse um ar de pintura.
 Dialogue: 0,0:14:31.61,0:14:33.49,Shirobako_Main,teru,0000,0000,0000,,Não quer algo real, não é mesmo?
 Dialogue: 0,0:14:33.49,0:14:35.91,Shirobako_Main,kino,0000,0000,0000,,Isso mesmo. E também \Nquero mostras de uso diário.
-Dialogue: 0,0:14:35.91,0:14:37.66,Shirobako_Main,roro,0000,0000,0000,,Esta é a reunião de art board.
+Dialogue: 0,0:14:35.91,0:14:37.66,Shirobako_Main,roro,0000,0000,0000,,{\an8}Esta é a reunião de art board.
 Dialogue: 0,0:14:35.91,0:14:38.04,Shirobako_Main,kino,0000,0000,0000,,Então não precisa deixar muito limpo.
-Dialogue: 0,0:14:37.66,0:14:40.00,Shirobako_Main,roro,0000,0000,0000,,Por exemplo, aqui é onde se discute
+Dialogue: 0,0:14:37.66,0:14:40.00,Shirobako_Main,roro,0000,0000,0000,,{\an8}Por exemplo, aqui é onde se discute
 Dialogue: 0,0:14:40.00,0:14:41.99,Shirobako_Main,roro,0000,0000,0000,,se o cenário vai ser realista \Nou com aparência de pintura,
 Dialogue: 0,0:14:41.99,0:14:44.23,Shirobako_Main,roro,0000,0000,0000,,falam se querem deixar os \Ndesenhos um pouco mais grosseiros.
 Dialogue: 0,0:14:44.23,0:14:46.54,Shirobako_Main,roro,0000,0000,0000,,E falam sobre o tom geral do projeto.
@@ -418,7 +418,7 @@ Dialogue: 0,0:16:40.71,0:16:41.70,Shirobako_Main,misa,0000,0000,0000,,Com licen�
 Dialogue: 0,0:16:41.95,0:16:43.15,Shirobako_Main,aoi,0000,0000,0000,,Ah, Mii-chan.
 Dialogue: 0,0:16:43.15,0:16:45.77,Shirobako_Main,misa,0000,0000,0000,,Bem-vindos... Mas é estranho dizer isso.
 Dialogue: 0,0:16:46.38,0:16:47.45,Shirobako_Main,aoi,0000,0000,0000,,Já se acostumou?
-Dialogue: 0,0:16:47.45,0:16:51.08,Shirobako_Main,misa,0000,0000,0000,,Mais ou menos. Ainda é difícil\N de mexer com coisas macias.
+Dialogue: 0,0:16:47.45,0:16:51.08,Shirobako_Main,misa,0000,0000,0000,,Mais ou menos. Ainda é difícil\N de mexer com o básico.
 Dialogue: 0,0:16:51.38,0:16:53.42,Shirobako_Main,person,0000,0000,0000,,Vocês também são da mesma escola, né?{"Vocês são senpai e kouhai, né?"}
 Dialogue: 0,0:16:53.42,0:16:54.92,Shirobako_Main,person,0000,0000,0000,,E de uma escola feminina!
 Dialogue: 0,0:16:54.92,0:16:58.71,Shirobako_Main,misa,0000,0000,0000,,Presidente, é melhor esquecer logo\N do seu sonho de escola feminina.
@@ -449,7 +449,7 @@ Dialogue: 0,0:17:47.85,0:17:48.86,Shirobako_Main,saku,0000,0000,0000,,Como fica 
 Dialogue: 0,0:17:48.86,0:17:50.72,Shirobako_Main,kino,0000,0000,0000,,Acho melhor que seja pouco.
 Dialogue: 0,0:17:50.72,0:17:51.46,Shirobako_Main,sakura,0000,0000,0000,,Assim?
 Dialogue: 0,0:17:51.46,0:17:52.31,Shirobako_Main,kino,0000,0000,0000,,Isso mesmo.
-Dialogue: 0,0:17:52.71,0:17:56.71,Shirobako_Main,sakura,0000,0000,0000,,De resto, eu fiz um novo script para o "Sanjo".
+Dialogue: 0,0:17:52.71,0:17:56.71,Shirobako_Main,sakura,0000,0000,0000,,{\an8}De resto, eu fiz um novo script para o "Sanjo".
 Dialogue: 0,0:17:55.51,0:17:58.66,Shirobako_Main,aoi,0000,0000,0000,,Têm alguma pergunta, Satou-san e Andou-san?
 Dialogue: 0,0:17:58.66,0:17:59.74,Shirobako_Main,sato,0000,0000,0000,,Hum...
 Dialogue: 0,0:18:00.11,0:18:02.87,Shirobako_Main,sato,0000,0000,0000,,Nas "filmagens" não fazem filmagens?
@@ -541,10 +541,10 @@ Dialogue: 0,0:21:21.39,0:21:23.08,Shirobako_Main,aoi,0000,0000,0000,,Está bem, 
 Dialogue: 0,0:21:23.08,0:21:25.57,Shirobako_Main,taro,0000,0000,0000,,Olhe, elas estão aprendendo comigo.
 Dialogue: 0,0:21:26.67,0:21:27.28,Shirobako_Main,ando,0000,0000,0000,,É a Yano-san!
 Dialogue: 0,0:21:27.54,0:21:29.20,Shirobako_Main,taro,0000,0000,0000,,Hã? Onde?!
-Dialogue: 0,0:21:28.00,0:21:31.16,Shirobako_Main,aoi,0000,0000,0000,,Há quanto tempo! Seu pai está bem?
+Dialogue: 0,0:21:28.00,0:21:31.16,Shirobako_Main,aoi,0000,0000,0000,,{\an8}Há quanto tempo! Seu pai está bem?
 Dialogue: 0,0:21:31.16,0:21:32.54,Shirobako_Main,ando,0000,0000,0000,,Quem é?
 Dialogue: 0,0:21:32.54,0:21:35.30,Shirobako_Main,taro,0000,0000,0000,,É a Iron Yano. A Red da Musani.
-Dialogue: 0,0:21:33.59,0:21:35.99,Shirobako_Main,aoi,0000,0000,0000,,Sim, aqui está indo tudo bem.
+Dialogue: 0,0:21:33.59,0:21:35.99,Shirobako_Main,aoi,0000,0000,0000,,{\an8}Sim, aqui está indo tudo bem.
 Dialogue: 0,0:21:35.30,0:21:35.99,Shirobako_Main,sato,0000,0000,0000,,Red?
 Dialogue: 0,0:21:36.24,0:21:39.75,Shirobako_Main,yano,0000,0000,0000,,O quê? O diretor engordou\N mais? Isso não é bom.
 Dialogue: 0,0:21:40.06,0:21:44.02,Shirobako_Main,yano,0000,0000,0000,,Ah, aqui estou no que chamam de calmaria.

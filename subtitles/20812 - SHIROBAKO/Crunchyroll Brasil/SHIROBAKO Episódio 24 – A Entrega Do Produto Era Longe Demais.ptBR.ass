@@ -76,7 +76,7 @@ Dialogue: 0,0:01:14.89,0:01:16.92,Shirobako_Main,dou,0000,0000,0000,,Mais três 
 Dialogue: 0,0:01:16.92,0:01:17.85,Shirobako_Main,ando,0000,0000,0000,,Me desculpe.
 Dialogue: 0,0:01:17.85,0:01:21.03,Shirobako_Main,dou,0000,0000,0000,,Tudo bem. Por favor, traga-os\Npara mim antes de rodar.
 Dialogue: 0,0:01:21.37,0:01:23.50,Shirobako_Main,dou,0000,0000,0000,,Vou colocar alguns rascunhos\Nde referência entre eles.
-Dialogue: 0,0:01:24.40,0:01:26.89,Shirobako_Main,dou,0000,0000,0000,,Se a animação falhar, vai ficar\Nigual ao "Purun, purun".
+Dialogue: 0,0:01:24.40,0:01:26.89,Shirobako_Main,dou,0000,0000,0000,,Se a animação falhar, vai ficar\Nigual ao "Purun Purun".
 Dialogue: 0,0:01:26.89,0:01:28.76,Shirobako_Main,dou,0000,0000,0000,,E é por isso que vou\Ndeixar alguns "lembretes".
 Dialogue: 0,0:01:29.05,0:01:30.47,Shirobako_Main,dou,0000,0000,0000,,Assim corremos menos riscos.
 Dialogue: 0,0:01:30.88,0:01:34.00,Shirobako_Main,shin,0000,0000,0000,,O quê? Então você precisa\Nfaltar! Faça isso.
@@ -277,7 +277,7 @@ Dialogue: 0,0:09:45.34,0:09:47.24,Shirobako_Main,kino,0000,0000,0000,,Não, est�
 Dialogue: 0,0:09:47.24,0:09:48.37,Shirobako_Main,kino,0000,0000,0000,,Muito obrigado.
 Dialogue: 0,0:09:48.37,0:09:49.67,Shirobako_Main,all,0000,0000,0000,,Obrigado pelo bom trabalho!
 Dialogue: 0,0:09:51.67,0:09:54.62,Shirobako_Main,aoii,0000,0000,0000,,Alô, é a Miyamori.\NAcabamos a edição de vídeo.
-Dialogue: 0,0:09:54.62,0:09:56.69,Shirobako_Main,aoi,0000,0000,0000,,Temos o pacote completo,\Npor dispensar o pessoal.
+Dialogue: 0,0:09:54.62,0:09:56.69,Shirobako_Main,aoi,0000,0000,0000,,Temos o pacote completo,\Npode dispensar o pessoal.
 Dialogue: 0,0:09:59.40,0:10:01.51,Shirobako_Main,iguchi,0000,0000,0000,,Grande trabalho, Miyamorin!
 Dialogue: 0,0:10:01.51,0:10:03.72,Shirobako_Main,iguchi,0000,0000,0000,,Obrigada pelo suporte até agora!
 Dialogue: 0,0:10:03.72,0:10:07.04,Shirobako_Main,aoi,0000,0000,0000,,Eu que agradeço. E me desculpe\Npor todos os problemas.
@@ -307,7 +307,7 @@ Dialogue: 0,0:10:45.57,0:10:47.87,Shirobako_Main,nabe,0000,0000,0000,,Odawara TV
 Dialogue: 0,0:10:47.87,0:10:49.83,Shirobako_Main,aoi,0000,0000,0000,,Hum? E a Kamikouchi TV?
 Dialogue: 0,0:10:55.02,0:10:56.36,Shirobako_Main,aoi,0000,0000,0000,,Okitsu-san?!
 Dialogue: 0,0:10:56.36,0:10:57.75,Shirobako_Main,oki,0000,0000,0000,,On-air tape.
-Dialogue: 0,0:10:57.75,0:10:59.81,Shirobako_Main,nabe,0000,0000,0000,,Vai ficar bem sem um navegador gps?
+Dialogue: 0,0:10:57.75,0:10:59.81,Shirobako_Main,nabe,0000,0000,0000,,Vai ficar bem sem um navegador GPS?
 Dialogue: 0,0:10:59.81,0:11:01.52,Shirobako_Main,oki,0000,0000,0000,,Eu sei para onde estou indo.
 Dialogue: 0,0:11:01.82,0:11:03.23,Shirobako_Main,kino,0000,0000,0000,,Desejo boa sorte!
 Dialogue: 0,0:11:05.33,0:11:06.16,Shirobako_Main,nabe,0000,0000,0000,,Preparar...
@@ -401,7 +401,7 @@ Dialogue: 0,0:17:10.52,0:17:11.45,Shirobako_Main,roro,0000,0000,0000,,Muito bem.
 Dialogue: 0,0:17:14.88,0:17:17.79,Shirobako_Main,katsu,0000,0000,0000,,Pessoal, gostaria de dar início.
 Dialogue: 0,0:17:17.79,0:17:19.09,Shirobako_Main,katsu,0000,0000,0000,,Estão prontos?
 Dialogue: 0,0:17:18.30,0:17:19.48,Shirobako_Main,person,0000,0000,0000,,Você está bem?
-Dialogue: 0,0:17:19.48,0:17:20.23,Shirobako_Main,person,0000,0000,0000,,Seu óculos está quebrado!
+Dialogue: 0,0:17:19.48,0:17:20.23,Shirobako_Main,person,0000,0000,0000,,Seus óculos estão quebrados!
 Dialogue: 0,0:17:20.23,0:17:21.69,Shirobako_Main,katsu,0000,0000,0000,,Graças ao trabalho duro de todos,
 Dialogue: 0,0:17:21.69,0:17:24.48,Shirobako_Main,katsu,0000,0000,0000,,entregamos com sucesso\No episódio final.
 Dialogue: 0,0:17:25.13,0:17:26.74,Shirobako_Main,katsu,0000,0000,0000,,Para começar esta celebração,

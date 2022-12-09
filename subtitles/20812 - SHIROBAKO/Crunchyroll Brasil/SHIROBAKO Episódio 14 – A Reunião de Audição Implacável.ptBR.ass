@@ -27,7 +27,7 @@ Style: Resume_06:47_(Ep14),Arial,14,&H0062605A,&H000000FF,&H00F4EFE9,&H004A4C48,
 Style: Mizuyama_Yasuhiro_07:13_(ep14),Arial,14,&H00FFFFFF,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,100,0,0,1,1,1,7,0095,0010,0210,1
 Style: Ennjou_Sugesuke_07:26_(ep14),Arial,18,&H00FFFFFF,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,100,0,0,1,1,1,1,0378,0010,0118,1
 Style: Yarase_Takumi_08:23_(ep14),Arial,18,&H00FFFFFF,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,100,0,0,1,1,1,1,0083,0010,0135,1
-Style: Notes_08:30_(Ep14),Times New Roman,20,&H003A3A3A,&H000000FF,&H00F5F3F3,&H004A4C48,-1,0,0,0,100,100,0,15,1,2,0,8,0010,0010,0020,1
+Style: Notes_08:30_(Ep14),Times New Roman,20,&H003A3A3A,&H000000FF,&H00F5F3F3,&H004A4C48,-1,0,0,0,100,100,0,15,1,2,0,7,0230,0010,0060,1
 Style: Makurada_Tsuyoshi_06_(ep14),Arial,16,&H00FFFFFF,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,100,0,0,1,1,1,1,0423,0001,0137,1
 Style: Catherine_Weller_16:54_(ep14),Arial,16,&H00313E3E,&H000000FF,&H00D8E6E6,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,7,0405,0010,0035,1
 Style: Sakaki_Shizuka_18:18_(Ep14),Times New Roman,20,&H003A3A3A,&H000000FF,&H00F5F3F3,&H004A4C48,-1,0,0,0,100,100,0,23,1,2,0,8,0065,0010,0175,1
@@ -111,7 +111,7 @@ Dialogue: 0,0:04:26.18,0:04:29.06,Shirobako_Main,atsumi,0000,0000,0000,,a Miyamo
 Dialogue: 0,0:04:29.38,0:04:31.17,Shirobako_Main,kino,0000,0000,0000,,O que era mesmo?
 Dialogue: 0,0:04:31.17,0:04:33.28,Shirobako_Main,atsumi,0000,0000,0000,,Qual era o ponto que me atrai nas nuvens.
 Dialogue: 0,0:04:33.81,0:04:34.60,Shirobako_Main,kino,0000,0000,0000,,Ah, sim...
-Dialogue: 0,0:04:34.93,0:04:37.23,Shirobako_Main,atsumi,0000,0000,0000,,A reposta é: não importa o quanto desenhe,
+Dialogue: 0,0:04:34.93,0:04:37.23,Shirobako_Main,atsumi,0000,0000,0000,,A resposta é: não importa o quanto desenhe,
 Dialogue: 0,0:04:37.23,0:04:40.57,Shirobako_Main,atsumi,0000,0000,0000,,eu ainda não desenhei uma\N que me deixasse satisfeito.
 Dialogue: 0,0:04:40.57,0:04:42.57,Shirobako_Main,kino,0000,0000,0000,,Porque sua expectativa é muito alta.
 Dialogue: 0,0:04:42.57,0:04:46.58,Shirobako_Main,atsumi,0000,0000,0000,,É claro, eu sempre visualizo uma \Nnuvem perfeita em minha mente.
@@ -172,12 +172,12 @@ Dialogue: 0,0:06:31.97,0:06:34.52,Shirobako_Main,katsu,0000,0000,0000,,Creio que
 Dialogue: 0,0:06:34.52,0:06:36.40,Shirobako_Main,kino,0000,0000,0000,,Isso mesmo, afinal, é a protagonista.
 Dialogue: 0,0:06:36.40,0:06:37.47,Shirobako_Main,,0000,0000,0000,,Deixe-me ver...
 Dialogue: 0,0:06:37.47,0:06:40.42,Shirobako_Main,katsu,0000,0000,0000,,A que teve mais votos foi a Suzuki Kyouko-san.
-Dialogue: 0,0:06:37.47,0:06:46.24,Profile-Suzuki_06:37_(Ep14),sign,0000,0000,0000,,Suzuki Kyouko \N Altura: 1,50m \N Nascida em: Distrito de Fukuoka\N Dialeto: Dialeto Hakata\N Alcance de voz: Alto \N Experiência: Haisoku Voice Actors School  \NPrincipais participações\NAnime \N\N Rádio \N "Midnight Japan" \NDrama CD "Buyuden Fanbook 10"
+Dialogue: 0,0:06:37.47,0:06:46.24,Profile-Suzuki_06:37_(Ep14),sign,0000,0000,0000,,Suzuki Kyouko \N Altura: 1,50m \N Nascida em: Distrito de Fukuoka\N Dialeto: Dialeto Hakata\N Alcance de voz: Alto \N Experiência: Haisoku Voice Actors School  \NPrincipais participações\NAnime \N"Order wa Kame desu ka?" Garota A\N\N Rádio \N "Midnight Japan" \NDrama CD "Buyuden Fanbook 10"
 Dialogue: 0,0:06:40.42,0:06:43.70,Shirobako_Main,katsu,0000,0000,0000,,Mas, olhando seu perfil, ela teve algumas\N participações de média relevância...
 Dialogue: 0,0:06:43.70,0:06:45.96,Shirobako_Main,katsu,0000,0000,0000,,Sendo direto, ela ainda é uma novata.
 Dialogue: 0,0:06:45.96,0:06:48.46,Shirobako_Main,katsu,0000,0000,0000,,A próxima é a Moriguchi Nagisa-san...
-Dialogue: 0,0:06:47.33,0:06:53.88,Profile_06:47_(Ep14),sign,0000,0000,0000,,Perfil \N Nascida em: Hokkaido \NDialeto: -- \N Tipo sanguíneo: O \NMedidas: \NHobbies: Visitar Cafeterias \N Habilidades: Tocar Piano
-Dialogue: 0,0:06:47.33,0:06:53.88,Resume_06:47_(Ep14),sign,0000,0000,0000,,Resumo \N [TV Anime] \N - Ultimamente, Minha Irmã de Sangue Está Agindo Um Pouco Desajeitada: (Protagonista)  \N -Tenshi no Drill \N -Sora no Risotto\N\NGame\NShinsei no On Land Unigra
+Dialogue: 0,0:06:47.33,0:06:53.88,Profile_06:47_(Ep14),sign,0000,0000,0000,,Perfil \N Nascida em: Hokkaido \NDialeto: -- \N Tipo sanguíneo: O \NMedidas: 152 43 80 59 82\NHobbies: Visitar Cafeterias \N Habilidades: Tocar Piano
+Dialogue: 0,0:06:47.33,0:06:53.88,Resume_06:47_(Ep14),sign,0000,0000,0000,,Resumo \N [Anime de TV] \N - Ultimamente, Minha Irmã de Sangue Está Agindo Um Pouco Desajeitada: (Protagonista)  \N -Tenshi no Drill (Harigaya Hitsugi) \N -Sora no Risotto\N\NJogo\NShinsei no On Land Unigra
 Dialogue: 0,0:06:48.46,0:06:50.91,Shirobako_Main - Copy,katsu,0000,0000,0000,,Ainda é jovem, mas é uma\N dubladora que promete.
 Dialogue: 0,0:06:50.91,0:06:53.88,Shirobako_Main,katsu,0000,0000,0000,,O nome dela está sendo bem\N conhecido nos últimos anos.
 Dialogue: 0,0:06:53.88,0:06:56.30,Shirobako_Main,kino,0000,0000,0000,,Eu votei na Suzuki Kyouko-san.
@@ -222,7 +222,7 @@ Dialogue: 0,0:08:23.40,0:08:26.57,Yarase_Takumi_08:23_(ep14),sign,0000,0000,0000
 Dialogue: 0,0:08:26.19,0:08:27.94,Shirobako_Main,person,0000,0000,0000,,olhando de um ponto de vista musical,
 Dialogue: 0,0:08:27.94,0:08:30.15,Shirobako_Main,person,0000,0000,0000,,ela não é uma boa cantora, não é mesmo?
 Dialogue: 0,0:08:30.15,0:08:33.16,Shirobako_Main,person,0000,0000,0000,,Aqui diz que ela não canta \Nas músicas das personagens.
-Dialogue: 0,0:08:30.15,0:08:33.16,Notes_08:30_(Ep14),sign,0000,0000,0000,,Notas: Não canto músicas de personagens.\NCosplay é algo a se discutir.
+Dialogue: 0,0:08:30.15,0:08:33.16,Notes_08:30_(Ep14),sign,0000,0000,0000,,Notas\NNão canto músicas de personagens.\NCosplay é algo a se discutir.
 Dialogue: 0,0:08:33.16,0:08:34.66,Shirobako_Main,person,0000,0000,0000,,Isso é um grande problema!
 Dialogue: 0,0:08:34.66,0:08:37.21,Shirobako_Main,person,0000,0000,0000,,Mantendo as músicas em mente,
 Dialogue: 0,0:08:37.21,0:08:39.37,Shirobako_Main,person,0000,0000,0000,,eu acho que devemos \Nescolher a Jindaiji Miyabi-san!
@@ -397,9 +397,9 @@ Dialogue: 0,0:15:02.06,0:15:04.20,Shirobako_Main,maku,0000,0000,0000,,Deixando i
 Dialogue: 0,0:15:04.20,0:15:05.49,Shirobako_Main,yara,0000,0000,0000,,A bunda dela não vai falar!
 Dialogue: 0,0:15:05.49,0:15:06.57,Shirobako_Main,maku,0000,0000,0000,,Como sabe?
 Dialogue: 0,0:15:06.57,0:15:08.20,Shirobako_Main,moron,0000,0000,0000,,Eu tive uma grande ideia!
-Dialogue: 0,0:15:08.20,0:15:10.51,Shirobako_Main,moron,0000,0000,0000,,Já está ficando chato, \Nentão porque não decidimos
+Dialogue: 0,0:15:08.20,0:15:10.51,Shirobako_Main,moron,0000,0000,0000,,Já está ficando chato, \Nentão por que não decidimos
 Dialogue: 0,0:15:10.51,0:15:12.33,Shirobako_Main,moron,0000,0000,0000,,por quem tiver mais seguidores no Twitter?
-Dialogue: 0,0:15:12.33,0:15:14.69,Shirobako_Main,moron,0000,0000,0000,,Eu sou a favor de quem tiver mais\N opções nas pesquisas do Google.
+Dialogue: 0,0:15:12.33,0:15:14.69,Shirobako_Main,moron,0000,0000,0000,,Eu sou a favor de quem tiver mais\N resultados nas pesquisas do Google.
 Dialogue: 0,0:15:13.66,0:15:16.72,Shirobako_Main,chaza,0000,0000,0000,,{\a6}Ah, alô. Obrigado pelo bom trabalho.
 Dialogue: 0,0:15:14.69,0:15:17.21,Shirobako_Main,moron,0000,0000,0000,,Ah, ela não participou desta audição,
 Dialogue: 0,0:15:17.21,0:15:18.94,Shirobako_Main,moron,0000,0000,0000,,mas o que acham da Kunitachi Nesuko-san?
@@ -512,7 +512,7 @@ Dialogue: 0,0:18:52.87,0:18:55.35,Shirobako_Main,katsu,0000,0000,0000,,Então, e
 Dialogue: 0,0:18:55.35,0:18:57.58,Shirobako_Main,katsu,0000,0000,0000,,Acabamos com a escolha da \Naudição das personagens regulares.
 Dialogue: 0,0:18:57.58,0:18:58.68,Shirobako_Main,katsu,0000,0000,0000,,Obrigado pelo tempo de todos.
 Dialogue: 0,0:18:58.68,0:19:00.08,Shirobako_Main,everyone,0000,0000,0000,,Obrigado.
-Dialogue: 0,0:19:00.08,0:19:01.81,Shirobako_Main,nabe,0000,0000,0000,,Quer que chame um taxi?
+Dialogue: 0,0:19:00.08,0:19:01.81,Shirobako_Main,nabe,0000,0000,0000,,Quer que chame um táxi?
 Dialogue: 0,0:19:05.17,0:19:06.93,Shirobako_Main,mido,0000,0000,0000,,Gostaria de confirmar.
 Dialogue: 0,0:19:07.16,0:19:09.89,Shirobako_Main,mido,0000,0000,0000,,Querem o combustível e \Nvalor do Kfir C2, correto?
 Dialogue: 0,0:19:09.89,0:19:11.43,Shirobako_Main,mido,0000,0000,0000,,E a máxima altura de cruzeiro?
@@ -615,7 +615,7 @@ Dialogue: 0,0:23:02.12,0:23:04.81,Shirobako_Main,aoi,0000,0000,0000,,Eu tentei e
 Dialogue: 0,0:23:04.81,0:23:05.73,Shirobako_Main,nabe,0000,0000,0000,,E?
 Dialogue: 0,0:23:05.73,0:23:08.66,Shirobako_Main,aoi,0000,0000,0000,,O melhor que podemos fazer com \No pessoal interno são 11 episódios.
 Dialogue: 0,0:23:08.66,0:23:10.61,Shirobako_Main,aoi,0000,0000,0000,,Dois episódios vão ter que
-Dialogue: 0,0:23:10.61,0:23:13.16,Shirobako_Main,aoi,0000,0000,0000,,ser feito por outra empresa.
+Dialogue: 0,0:23:10.61,0:23:13.16,Shirobako_Main,aoi,0000,0000,0000,,ser feitos por outra empresa.
 Dialogue: 0,0:23:13.43,0:23:14.72,Shirobako_Main,nabe,0000,0000,0000,,E a Verde Company?
 Dialogue: 0,0:23:14.72,0:23:17.28,Shirobako_Main,aoi,0000,0000,0000,,Eles já tem trabalhos prioritários.
 Dialogue: 0,0:23:17.28,0:23:19.99,Shirobako_Main,aoi,0000,0000,0000,,Não sabe de outro lugar?

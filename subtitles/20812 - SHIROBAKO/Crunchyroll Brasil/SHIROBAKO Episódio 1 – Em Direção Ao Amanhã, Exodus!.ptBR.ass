@@ -102,7 +102,7 @@ Dialogue: 0,0:01:37.11,0:01:40.08,Shirobako_Main,aoi,0000,0000,0000,,O quê? Don
 Dialogue: 0,0:01:40.08,0:01:42.00,Shirobako_Main,aoi,0000,0000,0000,,muito bons e para qualquer momento.
 Dialogue: 0,0:01:42.00,0:01:44.60,Shirobako_Main,aoi,0000,0000,0000,,Ou seja, é a comida perfeita para mim!
 Dialogue: 0,0:01:49.78,0:01:50.71,Shirobako_Main,midori,0000,0000,0000,,Se moveu!
-Dialogue: 0,0:01:50.71,0:01:51.93,Shirobako_Main,aoi,0000,0000,0000,,Esté mesmo se movendo, hein!
+Dialogue: 0,0:01:50.71,0:01:51.93,Shirobako_Main,aoi,0000,0000,0000,,Está mesmo se movendo, hein!
 Dialogue: 0,0:01:51.93,0:01:54.16,Shirobako_Main,shizu,0000,0000,0000,,Ei, aquela parte foi eu que desenhei!
 Dialogue: 0,0:01:54.16,0:01:56.85,Shirobako_Main,misa,0000,0000,0000,,Não acha que anima muito\N quando vemos se mover?
 Dialogue: 0,0:01:56.85,0:01:58.48,Shirobako_Main,ema,0000,0000,0000,,Mas ainda são rascunhos.
@@ -192,9 +192,24 @@ Dialogue: 0,0:05:27.08,0:05:30.35,Shirobako_Italics_Top,radio,0000,0000,0000,,Ac
 Dialogue: 0,0:05:30.35,0:05:34.72,Shirobako_Italics_Top,girl,0000,0000,0000,,Bem, nós vamos saber de mais detalhes \Nmais tarde, primeiro ouça isto, por favor.
 Dialogue: 0,0:05:34.72,0:05:38.20,Shirobako_Italics_Top,girl,0000,0000,0000,,Esta é a música que nós, do grupo de\N idols Tracy, cantamos no programa.
 Dialogue: 0,0:05:38.20,0:05:39.76,Shirobako_Italics_Top,girl,0000,0000,0000,,"I'm Sorry, Exodus."
+Dialogue: 0,0:05:40.18,0:05:43.51,Shirobako_Main,aoi,0000,0000,0000,,Mesmo que o mundo se preocupe
+Dialogue: 0,0:05:43.51,0:05:46.35,Shirobako_Main,aoi,0000,0000,0000,,Eu nunca me sentirei em baixo
+Dialogue: 0,0:05:46.35,0:05:52.02,Shirobako_Main,aoi,0000,0000,0000,,Isso é uma perda de tempo
+Dialogue: 0,0:06:02.82,0:06:05.66,Shirobako_Main,aoi,0000,0000,0000,,Eu não vou fugir! Eu não vou fugir!
+Dialogue: 0,0:06:05.66,0:06:08.37,Shirobako_Main,aoi,0000,0000,0000,,Vamos parar e superar isto
+Dialogue: 0,0:06:08.37,0:06:13.08,Shirobako_Main,aoi,0000,0000,0000,,Não ande por aí dizendo coisas como essas
+Dialogue: 0,0:06:14.13,0:06:16.92,Shirobako_Main,aoi,0000,0000,0000,,Olhe meu caminho, olhe para mim
+Dialogue: 0,0:06:16.92,0:06:19.80,Shirobako_Main,aoi,0000,0000,0000,,Vamos conversar e compartilhar amor
+Dialogue: 0,0:06:19.80,0:06:24.55,Shirobako_Main,aoi,0000,0000,0000,,Não me obrigue a tolerar suas besteiras
+Dialogue: 0,0:06:25.81,0:06:31.31,Shirobako_Main,aoi,0000,0000,0000,,Se for difícil para você, não se reprima
+Dialogue: 0,0:06:31.31,0:06:36.52,Shirobako_Main,aoi,0000,0000,0000,,Fuja antes que você se quebre
 Dialogue: 0,0:06:36.52,0:06:39.96,Shirobako_Main,aoi,0000,0000,0000,,Cante, dance e fuja, Tracy.
 Dialogue: 0,0:06:39.96,0:06:42.94,Shirobako_Main,aoi,0000,0000,0000,,Com idols cheias de passados nebulosos.
+Dialogue: 0,0:06:42.94,0:06:47.95,Shirobako_Main,aoi,0000,0000,0000,,A contagem regressiva está marcando para valer agora
+Dialogue: 0,0:06:47.95,0:06:50.71,Shirobako_Main,aoi,0000,0000,0000,,Voltarei mais cedo ou mais tarde
 Dialogue: 0,0:06:51.37,0:06:53.96,Shirobako_Main,aoi,0000,0000,0000,,Espere por nós.
+Dialogue: 0,0:06:54.00,0:06:56.84,Shirobako_Main,aoi,0000,0000,0000,,Vou esconder minhas lágrimas e
+Dialogue: 0,0:06:56.84,0:06:57.75,Shirobako_Main,aoi,0000,0000,0000,,Exodus
 Dialogue: 0,0:07:10.32,0:07:13.06,Shirobako_Main,guy,0000,0000,0000,,Droga! De novo você, Miyamori Aoi!
 Dialogue: 0,0:07:13.67,0:07:15.18,Shirobako_Main,aoi,0000,0000,0000,,Vou indo na frente, Tomigaya-san!
 Dialogue: 0,0:07:15.18,0:07:18.19,Shirobako_Ep_Title,title,0000,0000,0000,,Em Direção Ao Amanhã, Exodus!
@@ -234,7 +249,7 @@ Dialogue: 0,0:09:20.01,0:09:22.60,Shirobako_Main,yana,0000,0000,0000,,Ah, ele ve
 Dialogue: 0,0:09:22.60,0:09:25.56,Doumoto_Chiemi_09:21,sign,0000,0000,0000,,Doumoto Chiemi\N{\fs14}Inspeção de Vídeo
 Dialogue: 0,0:09:22.99,0:09:25.84,Shirobako_Main,dou,0000,0000,0000,,Isso mesmo. O banheiro \Ndaquele lugar é terrível.
 Dialogue: 0,0:09:25.56,0:09:28.57,Iguchi_Yumi_09:24,sign,0000,0000,0000,,Iguchi Yumi\N{\fs14}Assistente do Supervisor Geral\Nde Animação
-Dialogue: 0,0:09:25.84,0:09:28.57,Shirobako_Main,iguchi,0000,0000,0000,,Segunda Supervisora Geral de Animação.
+Dialogue: 0,0:09:25.84,0:09:28.57,Shirobako_Main,iguchi,0000,0000,0000,,Ouvi dizer que Kisa-san perdeu\N20 quilos andando de bicicleta!
 Dialogue: 0,0:09:28.57,0:09:32.24,Ogasawara_Rinko_09:27,sign,0000,0000,0000,,Ogasawara Rinko\N{\fs14}Designer dos Personagens\NSupervisora Geral de Animação
 Dialogue: 0,0:09:28.80,0:09:32.24,Shirobako_Main,iguchi,0000,0000,0000,,Mas parece que se machucou e \Nengordou 23 quilos no hospital.
 Dialogue: 0,0:09:32.24,0:09:34.99,Uchida_Akane_09:31,sign,0000,0000,0000,,Uchida Akane\N{\fs14}Ilustradora
@@ -418,7 +433,7 @@ Dialogue: 0,0:16:13.94,0:16:18.80,Shirobako_Main,endou,0000,0000,0000,,Não é i
 Dialogue: 0,0:16:18.80,0:16:22.00,Shirobako_Main,yama,0000,0000,0000,,Pois são rivais, não é? Não quer criar dívidas.
 Dialogue: 0,0:16:22.00,0:16:26.73,Shirobako_Main,endo,0000,0000,0000,,Não estou falando de dívidas ou favores.\N Nossos traços que não combinam.
 Dialogue: 0,0:16:26.73,0:16:28.84,Shirobako_Main,mado,0000,0000,0000,,Diz isso, mas está com as mãos cheias
-Dialogue: 0,0:16:28.84,0:16:31.69,Shirobako_Main,mado,0000,0000,0000,,na a supervisão de animação com\N todas partes para refazer, não?
+Dialogue: 0,0:16:28.84,0:16:31.69,Shirobako_Main,mado,0000,0000,0000,,na supervisão de animação \Ncom partes para refazer, não?
 Dialogue: 0,0:16:31.69,0:16:34.50,Shirobako_Main,endou,0000,0000,0000,,Isso é porque você manda de volta\N muitos para refazer, Madoka-san!
 Dialogue: 0,0:16:34.50,0:16:36.54,Shirobako_Main,mado,0000,0000,0000,,Não sou eu, é o diretor.
 Dialogue: 0,0:16:39.52,0:16:41.99,Shirobako_Main,mado,0000,0000,0000,,Ah, Honda? Obrigado pelo bom trabalho.
@@ -498,7 +513,7 @@ Dialogue: 0,0:20:04.16,0:20:05.25,Shirobako_Main,doll,0000,0000,0000,,Faça pica
 Dialogue: 0,0:20:05.25,0:20:05.85,Shirobako_Main,bear,0000,0000,0000,,Hein?
 Dialogue: 0,0:20:05.85,0:20:07.09,Shirobako_Main,doll,0000,0000,0000,,Tarou.
 Dialogue: 0,0:20:08.00,0:20:10.46,Shirobako_Main,doll,0000,0000,0000,,Amasse, amasse, amasse ele bem!
-Dialogue: 0,0:20:10.86,0:20:11.84,Shirobako_Main,bear,0000,0000,0000,,Vai fazer um hamburguer?
+Dialogue: 0,0:20:10.86,0:20:11.84,Shirobako_Main,bear,0000,0000,0000,,Vai fazer um hamburger?
 Dialogue: 0,0:20:12.14,0:20:12.93,Shirobako_Main,doll,0000,0000,0000,,Vou jogar fora.
 Dialogue: 0,0:20:12.93,0:20:14.21,Shirobako_Main,bear,0000,0000,0000,,Que cruel!
 Dialogue: 0,0:20:19.61,0:20:23.94,Shirobako_Main,taro,0000,0000,0000,,A partir das 4 da tarde começamos a \Ndublagem do episódio três no estúdio R&B!

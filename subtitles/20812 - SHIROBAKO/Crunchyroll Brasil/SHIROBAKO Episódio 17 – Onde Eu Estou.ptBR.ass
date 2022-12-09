@@ -34,7 +34,7 @@ Style: Countdown--Time_Info,Arial,22,&H00E0E8EF,&H000000FF,&H00202520,&H0012042C
 Style: black_soft_cream_18:08_(Ep17),Arial,14,&H00272624,&H000000FF,&H00A08A74,&H00000000,-1,0,0,0,100,100,0,-2,1,2,0,8,0010,0045,0100,1
 Style: Incoming_call_18:44_(ep17),Arial,14,&H00F8F0D5,&H000000FF,&H00AEA365,&H0065E9FF,-1,0,0,0,100,100,0,8,1,3,0,5,0010,0010,0068,1
 Style: Ootsuki_18:50_(ep17),Arial,18,&H006DB3C7,&H000000FF,&H00ABE2E3,&H005C6360,-1,0,0,0,100,100,0,-9,1,2,0,8,0045,0010,0110,1
-Style: Aerial_Girls'_PV_White_Box_21:39_(ep17),Arial,18,&H00000408,&H000000FF,&H00B6CBD1,&H005C6360,-1,0,0,0,100,100,0,15,1,2,0,8,0010,0065,0060,1
+Style: Aerial_Girls'_PV_White_Box_21:39_(ep17),Arial,18,&H00000408,&H000000FF,&H00B6CBD1,&H005C6360,-1,0,0,0,100,100,0,18,1,2,0,8,0010,0045,0060,1
 Style: Studio_clapboard_21:42_(ep17),Arial,20,&H00313E3E,&H000000FF,&H00DEDFDE,&H005C6360,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0010,0200,1
 Style: Defying_21:50_(ep17),Arial,22,&H00DDA86B,&H000000FF,&H0052281F,&H00332688,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0060,1
 Style: The_story_of_five_girls_21:54_(ep17),Arial,22,&H00DDA86B,&H000000FF,&H0052281F,&H00332688,-1,0,0,0,100,100,0,0,1,3,0,8,0010,0010,0060,1
@@ -131,7 +131,7 @@ Dialogue: 0,0:04:27.65,0:04:29.12,Shirobako_Main,kino,0000,0000,0000,,Hum? Não 
 Dialogue: 0,0:04:29.12,0:04:32.12,Shirobako_Main,atsu,0000,0000,0000,,Ele é o diretor de arte do "Esquadrão\N Espacial Municipal" e "Gekitopa II"
 Dialogue: 0,0:04:32.12,0:04:34.26,Shirobako_Main,aoi,0000,0000,0000,,Ah, eu assisti os dois!
 Dialogue: 0,0:04:34.26,0:04:35.81,Shirobako_Main,aoi,0000,0000,0000,,Eles foram maravilhosos.
-Dialogue: 0,0:04:35.81,0:04:38.56,Shirobako_Main,aoi,0000,0000,0000,,São cheio de emoções e com\N cenários de muito impacto.
+Dialogue: 0,0:04:35.81,0:04:38.56,Shirobako_Main,aoi,0000,0000,0000,,São cheios de emoções e com\N cenários de muito impacto.
 Dialogue: 0,0:04:38.56,0:04:42.09,Shirobako_Main,kino,0000,0000,0000,,Será que alguém poderia pedir\N para o Ookura-san fazer isso?
 Dialogue: 0,0:04:42.09,0:04:45.13,Shirobako_Main,atsu,0000,0000,0000,,Ele é quase uma lenda, não\N tenho coragem de pedir.
 Dialogue: 0,0:04:45.13,0:04:46.25,Shirobako_Main,kino,0000,0000,0000,,Eu digo o mesmo.
@@ -254,7 +254,7 @@ Dialogue: 0,0:09:09.83,0:09:10.88,Shirobako_Main,satou,0000,0000,0000,,O que foi
 Dialogue: 0,0:09:10.88,0:09:13.68,Shirobako_Main,ema,0000,0000,0000,,Tenho uma pergunta sobre as\N cenas prioritárias para o PV.
 Dialogue: 0,0:09:14.68,0:09:18.70,Shirobako_Main,andou,0000,0000,0000,,Acho que não há cenas prioritárias dos \Nepisódios três e quatro, Yasuhara-san.
 Dialogue: 0,0:09:18.70,0:09:21.98,Shirobako_Main,ema,0000,0000,0000,,Ah, não sou eu, é a Kunogi-san.
-Dialogue: 0,0:09:26.87,0:09:29.27,Shirobako_Main,ema,0000,0000,0000,,Tem a cenas em que a Aria \Nescova os dentes, não é mesmo?
+Dialogue: 0,0:09:26.87,0:09:29.27,Shirobako_Main,ema,0000,0000,0000,,Tem a cena em que a Aria \Nescova os dentes, não é mesmo?
 Dialogue: 0,0:09:29.27,0:09:30.68,Shirobako_Main,satou,0000,0000,0000,,Sim, e?
 Dialogue: 0,0:09:30.89,0:09:31.81,Shirobako_Main,kuno,0000,0000,0000,,De—
 Dialogue: 0,0:09:31.81,0:09:34.20,Shirobako_Main,ema,0000,0000,0000,,Ela perguntou se tem algum \Ndetalhe sobre a escova de dentes.
@@ -533,11 +533,11 @@ Dialogue: 0,0:21:29.80,0:21:32.31,Shirobako_Main,taro,0000,0000,0000,,Bem, vamos
 Dialogue: 0,0:21:32.31,0:21:35.76,Shirobako_Main,taro,0000,0000,0000,,pela finalização do PV e \Npelo meu futuro brilhante.
 Dialogue: 0,0:21:34.25,0:21:35.30,Shirobako_Main,hira,0000,0000,0000,,O quê?
 Dialogue: 0,0:21:37.85,0:21:39.32,Shirobako_Main,taro,0000,0000,0000,,Um brinde!
-Dialogue: 0,0:21:39.57,0:21:41.82,Aerial_Girls'_PV_White_Box_21:39_(ep17),sign,0000,0000,0000,,Sanjo PV\NShirobako
+Dialogue: 0,0:21:39.57,0:21:41.82,Aerial_Girls'_PV_White_Box_21:39_(ep17),sign,0000,0000,0000,,{\fax-0.8}Sanjo PV\NShirobako
 Dialogue: 0,0:21:39.70,0:21:41.55,Shirobako_Main,aoi,0000,0000,0000,,O PV chegou!
 Dialogue: 0,0:21:43.33,0:21:44.84,Studio_clapboard_21:42_(ep17),sign,0000,0000,0000,,Dai San Hikou Shoujo Tai\NPV Para a Man Fes\NMusashino Animation
 Dialogue: 0,0:21:50.51,0:21:53.73,Defying_21:50_(ep17),sign,0000,0000,0000,,{\fad(666,333)}Desafiando o céu que vai desaparecendo
-Dialogue: 0,0:21:54.77,0:21:57.90,The_story_of_five_girls_21:54_(ep17),sign,0000,0000,0000,,{\fad(333,333)}Está é a história de cinco garotas
+Dialogue: 0,0:21:54.77,0:21:57.90,The_story_of_five_girls_21:54_(ep17),sign,0000,0000,0000,,{\fad(333,333)}Esta é a história de cinco garotas
 Dialogue: 0,0:24:30.88,0:24:31.62,Shirobako_Main,girl,0000,0000,0000,,Hã?
 Dialogue: 0,0:24:31.62,0:24:35.11,Shirobako_Main,girl,0000,0000,0000,,Me desculpe. Não tem ninguém\N da produção aqui agora.
 Dialogue: 0,0:24:35.47,0:24:36.94,Shirobako_Main,girl,0000,0000,0000,,{\a6}Na próxima em Shirobako:

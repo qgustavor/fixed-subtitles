@@ -32,7 +32,6 @@ Style: tanuki,Arial,18,&H00FFFFFF,&H000000FF,&H005C6360,&H005C6360,-1,0,0,0,100,
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Shirobako_Main,sign,0000,0000,0000,,Aniversariantes de Hoje Miyuki
 Dialogue: 0,0:00:00.02,0:00:03.70,praca,,0000,0000,0000,,Avenida Skip Mukae Haru
 Dialogue: 0,0:00:00.02,0:00:03.70,praca2,,0000,0000,0000,,Recepção da Primavera
 Dialogue: 0,0:00:03.96,0:00:06.57,Shirobako_Main,oki,0000,0000,0000,,Feliz ano novo.
@@ -48,7 +47,7 @@ Dialogue: 0,0:00:25.98,0:00:29.93,Shirobako_Main,prez,0000,0000,0000,,E, neste a
 Dialogue: 0,0:00:29.93,0:00:32.58,Shirobako_Main,prez,0000,0000,0000,,o "Dai San Hikou Shoujo Tai",
 Dialogue: 0,0:00:32.58,0:00:35.01,Shirobako_Main,prez,0000,0000,0000,,que vai ter 13 episódios, um cour.
 Dialogue: 0,0:00:35.01,0:00:37.73,Shirobako_Main,prez,0000,0000,0000,,Vai ao ar em outubro.
-Dialogue: 0,0:00:36.81,0:00:38.47,Shirobako_Main,taro,0000,0000,0000,,Espere! "Terceiro"?
+Dialogue: 0,0:00:36.81,0:00:38.47,Shirobako_Main,taro,0000,0000,0000,,"Terceiro"?
 Dialogue: 0,0:00:37.73,0:00:40.76,Shirobako_Main,prez,0000,0000,0000,,{\a6}Não temos muito tempo no\N nosso cronograma, mas...
 Dialogue: 0,0:00:38.47,0:00:40.76,Shirobako_Main,taro,0000,0000,0000,,"Dai San Hikou Shoujo Tai"?! Sério?!
 Dialogue: 0,0:00:40.76,0:00:43.47,Shirobako_Main,taro,0000,0000,0000,,Por quê? Como? Como conseguiu\N isso? Deve estar brincando!
@@ -209,15 +208,15 @@ Dialogue: 0,0:08:01.40,0:08:04.21,Shirobako_Main,aoi,0000,0000,0000,,Ah, desculp
 Dialogue: 0,0:08:04.21,0:08:06.07,Shirobako_Main,mado,0000,0000,0000,,Ela disse duas vezes que ficou surpresa!
 Dialogue: 0,0:08:06.07,0:08:07.69,Shirobako_Main,kino,0000,0000,0000,,Ou seja,
 Dialogue: 0,0:08:07.69,0:08:10.29,Shirobako_Main,kino,0000,0000,0000,,quero que todos fiquem felizes!
-Dialogue: 0,0:08:10.29,0:08:12.34,Shirobako_Main,kino,0000,0000,0000,,Você sabe, uma situação de "Win Win".
-Dialogue: 0,0:08:12.79,0:08:14.26,Shirobako_Main,aoi,0000,0000,0000,,"Win win"?
+Dialogue: 0,0:08:10.29,0:08:12.34,Shirobako_Main,kino,0000,0000,0000,,Você sabe, uma situação de "{\i1}win win{\i0}".
+Dialogue: 0,0:08:12.79,0:08:14.26,Shirobako_Main,aoi,0000,0000,0000,,"{\i1}Win win{\i0}"?
 Dialogue: 0,0:08:14.26,0:08:16.77,Shirobako_Main,kino,0000,0000,0000,,E no final eu quero ser elogiado!
 Dialogue: 0,0:08:18.64,0:08:21.54,Shirobako_Main,kino,0000,0000,0000,,Ei, vocês. É importante ser elogiado.
 Dialogue: 0,0:08:21.54,0:08:22.25,Shirobako_Main,mado,0000,0000,0000,,Sim...
 Dialogue: 0,0:08:22.25,0:08:24.95,Shirobako_Main,kino,0000,0000,0000,,Está tudo bem, não quero\N ser elogiado sem razão.
 Dialogue: 0,0:08:24.95,0:08:27.78,Shirobako_Main,kino,0000,0000,0000,,Vou oferecer um trabalho\N que mereça ser elogiado,
 Dialogue: 0,0:08:27.78,0:08:30.43,Shirobako_Main,kino,0000,0000,0000,,e então eu vou merecer esses elogios.
-Dialogue: 0,0:08:30.43,0:08:31.88,Shirobako_Main,aoi,0000,0000,0000,,Então, "win win", certo?
+Dialogue: 0,0:08:30.43,0:08:31.88,Shirobako_Main,aoi,0000,0000,0000,,Então, "{\i1}win win{\i0}", certo?
 Dialogue: 0,0:08:31.88,0:08:34.42,Shirobako_Main,kino,0000,0000,0000,,Pare. Não repita. Comecei\N a ficar com vergonha.
 Dialogue: 0,0:08:34.82,0:08:37.84,Shirobako_Main,aoi,0000,0000,0000,,Então, diretor, faça com\N que todos sejam felizes.
 Dialogue: 0,0:08:37.84,0:08:40.21,Shirobako_Main,kino,0000,0000,0000,,Hã? O que é isso? Uma declaração contrária?
@@ -543,7 +542,7 @@ Dialogue: 0,0:22:03.42,0:22:05.67,Shirobako_Main,kino,0000,0000,0000,,Eu acho qu
 Dialogue: 0,0:22:05.67,0:22:09.34,Shirobako_Main,kino,0000,0000,0000,,esperar até o último momento\N pela história original.
 Dialogue: 0,0:22:09.34,0:22:12.51,Shirobako_Main,mai,0000,0000,0000,,Hum... se tivermos dois episódios\N vamos conseguir fechar tudo.
 Dialogue: 0,0:22:12.51,0:22:14.34,Shirobako_Main,kino,0000,0000,0000,,Você consegue isso, Maitake-san!
-Dialogue: 0,0:22:14.73,0:22:18.61,Shirobako_Main,mai,0000,0000,0000,,Eu estou certo que o Nogame-sensei\N não vai ser capaz de ler o roteiro.
+Dialogue: 0,0:22:14.73,0:22:18.61,Shirobako_Main,mai,0000,0000,0000,,Eu estou certo de que o Nogame-sensei\N não vai ser capaz de ler o roteiro.
 Dialogue: 0,0:22:19.25,0:22:21.44,Shirobako_Main,mai,0000,0000,0000,,O que acha do editor responsável?
 Dialogue: 0,0:22:21.44,0:22:23.61,Shirobako_Main,aoi,0000,0000,0000,,Eu vou pedir para o \NWatanabe-san ligar para ele.
 Dialogue: 0,0:22:23.61,0:22:27.12,Shirobako_Main,mai,0000,0000,0000,,Está bem. Por enquanto, acho\N que terminamos por aqui.

@@ -128,9 +128,9 @@ Dialogue: 0,0:04:46.09,0:04:49.05,Shirobako_Main,taro,0000,0000,0000,,Mas se voc
 Dialogue: 0,0:04:49.05,0:04:50.32,Shirobako_Main,taro,0000,0000,0000,,não é possível fazer um bom trabalho.
 Dialogue: 0,0:04:51.65,0:04:53.78,Shirobako_Main,desk,0000,0000,0000,,Às vezes, você diz coisas decentes.
 Dialogue: 0,0:04:53.78,0:04:55.76,Shirobako_Main,taro,0000,0000,0000,,Hã? É mesmo?
-Dialogue: 0,0:04:55.76,0:04:58.38,Shirobako_Main,desk,0000,0000,0000,,O que podemos fazer é o que \Nestá ao nosso alcance. Não é?
-Dialogue: 0,0:04:57.61,0:04:58.38,Get_it_now_04:57(Ep09),shinanon,0000,0000,0000,,Envio Imediato com o Shinanon Express
-Dialogue: 0,0:04:57.61,0:04:58.38,Sign_up_04:57(Ep09),left,0000,0000,0000,,Resgistre-se e comece    Carrinho     Lista de desejos
+Dialogue: 0,0:04:55.76,0:04:58.52,Shirobako_Main,desk,0000,0000,0000,,O que podemos fazer é o que \Nestá ao nosso alcance. Não é?
+Dialogue: 0,0:04:57.80,0:04:58.52,Get_it_now_04:57(Ep09),shinanon,0000,0000,0000,,Envio Imediato com o Shinanon Express
+Dialogue: 0,0:04:57.80,0:04:58.52,Sign_up_04:57(Ep09),left,0000,0000,0000,,Registre-se e comece    Carrinho     Lista de desejos
 Dialogue: 0,0:04:59.00,0:05:01.10,Shirobako_Main,desk,0000,0000,0000,,Como está indo, diretor?
 Dialogue: 0,0:05:02.78,0:05:04.92,Shirobako_Main,desk,0000,0000,0000,,Quantas páginas do roteiro faltam?
 Dialogue: 0,0:05:04.92,0:05:06.57,Shirobako_Main,shin,0000,0000,0000,,Faltam quatro páginas.
@@ -255,13 +255,13 @@ Dialogue: 0,0:09:56.38,0:09:59.39,Shirobako_Main,wata,0000,0000,0000,,Para ser d
 Dialogue: 0,0:10:00.08,0:10:03.90,Shirobako_Main,editor,0000,0000,0000,,Não quero soar rude, mas acha\N que a Musani é capaz disso?
 Dialogue: 0,0:10:03.90,0:10:05.17,Shirobako_Main,wata,0000,0000,0000,,É claro!
 Dialogue: 0,0:10:05.17,0:10:08.90,Shirobako_Main,wata,0000,0000,0000,,Vamos juntar um ótimo grupo para\N fazermos o melhor que podemos.
-Dialogue: 0,0:10:08.90,0:10:11.54,Shirobako_Main,wata,0000,0000,0000,,Planejamos ter como \Ndireitor o Kinoshita Seiichi.
+Dialogue: 0,0:10:08.90,0:10:11.54,Shirobako_Main,wata,0000,0000,0000,,Planejamos ter como \Ndiretor o Kinoshita Seiichi.
 Dialogue: 0,0:10:11.76,0:10:14.38,Shirobako_Main,editor,0000,0000,0000,,Ah, o do "Purun Purun Tengoku".
 Dialogue: 0,0:10:14.38,0:10:16.75,Shirobako_Main,editor,0000,0000,0000,,Vão fazer balançar este projeto também?
 Dialogue: 0,0:10:16.75,0:10:20.28,Shirobako_Main,person,0000,0000,0000,,N-Não. Nosso projeto atual, o "Exodus",
 Dialogue: 0,0:10:20.28,0:10:23.52,Shirobako_Main,person,0000,0000,0000,,tem uma qualidade consistente\N e é bastante popular.
 Dialogue: 0,0:10:23.52,0:10:26.27,Shirobako_Main,editor,0000,0000,0000,,Ah, é do diretor Kinoshita?
-Dialogue: 0,0:10:26.27,0:10:28.84,Shirobako_Main,editor,0000,0000,0000,,O "Exodus" é inexperadamente interessante.
+Dialogue: 0,0:10:26.27,0:10:28.84,Shirobako_Main,editor,0000,0000,0000,,O "Exodus" é inesperadamente interessante.
 Dialogue: 0,0:10:29.14,0:10:30.25,Shirobako_Main,wata,0000,0000,0000,,Muito obrigado!
 Dialogue: 0,0:10:31.02,0:10:34.75,Shirobako_Main,wata,0000,0000,0000,,O "Dai San Hikou Shoujo Tai" faz parte\N do campo de especialidades do diretor.
 Dialogue: 0,0:10:34.75,0:10:38.57,Shirobako_Main,wata,0000,0000,0000,,E a Musashino Animation vai realmente fazer\N todo o possível para fazer esse projeto.

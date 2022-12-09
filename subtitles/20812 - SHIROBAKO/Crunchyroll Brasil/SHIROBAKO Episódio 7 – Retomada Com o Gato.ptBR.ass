@@ -25,7 +25,7 @@ Style: Dear_World(big-bottom)_08:14_(Ep07),Arial,24,&H001E01EB,&H000000FF,&H00A8
 Style: Dear_World(little-top)_08:16_(Ep07),Arial,24,&H001E01EB,&H000000FF,&H00A8A28C,&H007E8B88,-1,0,0,0,100,100,0,0,1,0,0,8,0010,0015,0035,1
 Style: Welcome!_13:01_(Ep07),Arial,24,&H002E2D23,&H000000FF,&H00A9AEA7,&H007E8B88,0,0,0,0,100,100,0,0,1,2,0,1,0200,0015,0095,1
 Style: Sea_Urchin_Can_14:56_(Ep07),Arial,24,&H00421CA1,&H000000FF,&H00399DD8,&H007E8B88,-1,0,0,0,100,100,0,0,1,2,0,2,0014,0015,0050,1
-Style: Hyotan-ya_13:44_(Ep07),Arial,24,&H002E2D23,&H000000FF,&H00638CB5,&H007E8B88,0,0,0,0,100,100,0,34,1,2,0,7,0158,0015,0132,1
+Style: Hyotan-ya_13:44_(Ep07),Arial,24,&H002E2D23,&H000000FF,&H00638CB5,&H007E8B88,0,0,0,0,100,100,0,34,1,2,0,7,0318,0015,0122,1
 Style: Text_on_phone_17:07_(Ep07),Arial,14,&H003F3F3F,&H000000FF,&H00F0F0F0,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0090,0160,1
 Style: Nei-chan_Shopping_22:48_(Ep07),Arial,14,&H00A1A1A1,&H000000FF,&H00F5F5F5,&H00000000,-1,0,0,0,100,100,0,346,1,2,0,2,0025,0010,0220,1
 Style: From_Nei-chan_22:48_(Ep07),Arial,14,&H00868072,&H000000FF,&H00F2E2C7,&H00000000,-1,0,0,0,100,100,0,348,1,2,0,8,0100,0010,0075,1
@@ -53,16 +53,16 @@ Dialogue: 0,0:02:22.31,0:02:23.86,Shirobako_Italics_Top,kaori,0000,0000,0000,,Eu
 Dialogue: 0,0:02:24.71,0:02:27.08,Shirobako_Main,aoi,0000,0000,0000,,Aqui? O quê? Hoje?
 Dialogue: 0,0:02:27.08,0:02:28.96,Shirobako_Italics_Top,kaori,0000,0000,0000,,Ah, o trem-bala chegou!
 Dialogue: 0,0:02:29.73,0:02:31.50,Shirobako_Main,aoi,0000,0000,0000,,Não vai me achar em casa!
-Dialogue: 0,0:02:31.50,0:02:33.78,Shirobako_Italics_Top,kaori,0000,0000,0000,,Tudo bem,  deixe a chave na caixa de \Ncorrespondência ou em qualquer lugar.
+Dialogue: 0,0:02:31.50,0:02:33.78,Shirobako_Italics_Top,kaori,0000,0000,0000,,Tudo bem, deixe a chave na caixa de \Ncorrespondência ou em qualquer lugar.
 Dialogue: 0,0:02:34.08,0:02:35.67,Shirobako_Main,aoi,0000,0000,0000,,Qualquer lugar?!
 Dialogue: 0,0:02:35.67,0:02:36.71,Shirobako_Italics_Top,kaori,0000,0000,0000,,Conto com você!
 Dialogue: 0,0:02:37.44,0:02:40.21,Shirobako_Main,aoi,0000,0000,0000,,Não vou deixar na caixa de correspondência!
 Dialogue: 0,0:02:42.07,0:02:45.66,Shirobako_Main,midori,0000,0000,0000,,Hum? Bom dia, Oi-chan-senpai.
 Dialogue: 0,0:02:46.09,0:02:48.21,Shirobako_Main,aoi,0000,0000,0000,,Que sorte, você está acordada, Rii-chan.
 Dialogue: 0,0:02:48.51,0:02:50.67,Shirobako_Main,midori,0000,0000,0000,,Na verdade eu estava indo dormir.
-Dialogue: 0,0:02:50.67,0:02:54.55,Shirobako_Main,midori,0000,0000,0000,,Pois o "Crime e Punição" do \NDost é tão legal que nem dormi.
+Dialogue: 0,0:02:50.67,0:02:54.55,Shirobako_Main,midori,0000,0000,0000,,Pois o "Crime e Castigo" do \NDost é tão legal que nem dormi.
 Dialogue: 0,0:02:54.55,0:02:56.48,Shirobako_Main,aoi,0000,0000,0000,,Dost...oyevsky?
-Dialogue: 0,0:02:56.48,0:02:59.08,Shirobako_Main,midori,0000,0000,0000,,Raskolnikov's é um \Npersonagem muito completo.
+Dialogue: 0,0:02:56.48,0:02:59.08,Shirobako_Main,midori,0000,0000,0000,,Raskolnikov é um \Npersonagem muito completo.
 Dialogue: 0,0:02:59.47,0:03:00.95,Shirobako_Main,midori,0000,0000,0000,,Está com algum problema?
 Dialogue: 0,0:03:00.95,0:03:03.29,Shirobako_Main,aoi,0000,0000,0000,,Vai estar em casa até a hora do almoço?
 Dialogue: 0,0:03:03.56,0:03:05.94,Shirobako_Main,midori,0000,0000,0000,,Sim. Hoje vai ser o dia do Dost para mim.
@@ -183,9 +183,9 @@ Dialogue: 0,0:07:45.57,0:07:47.43,Shirobako_Main,yama,0000,0000,0000,,O produtor
 Dialogue: 0,0:07:47.43,0:07:50.79,Shirobako_Main,yama,0000,0000,0000,,Eles se conhecem há um bom tempo.
 Dialogue: 0,0:07:50.79,0:07:52.84,Shirobako_Main,aoi,0000,0000,0000,,Se ele vier implorando, não há como recusar.
 Dialogue: 0,0:07:53.71,0:07:57.32,Shirobako_Main,yama,0000,0000,0000,,Mas esse cronograma está pior \Nque o do "Exodus", não é mesmo?
-Dialogue: 0,0:07:57.57,0:08:00.78,Shirobako_Main,aoi,0000,0000,0000,,Muito pior. Mas está melhor\N que o "Paraíso Balança".
+Dialogue: 0,0:07:57.57,0:08:00.78,Shirobako_Main,aoi,0000,0000,0000,,Muito pior. Mas está melhor\N que o "Purun Purun".
 Dialogue: 0,0:08:01.41,0:08:03.11,Shirobako_Main,aoi,0000,0000,0000,,Eu ouvi as pessoas falarem sobre isso,
-Dialogue: 0,0:08:03.41,0:08:07.41,Shirobako_Main,red,0000,0000,0000,,mas o lendário "Paraíso Balança Balança" foi assim terrível?
+Dialogue: 0,0:08:03.41,0:08:07.41,Shirobako_Main,red,0000,0000,0000,,mas o lendário "Purun Purun Tengoku" foi assim terrível?
 Dialogue: 0,0:08:07.49,0:08:08.91,The_Beginning_08:07_(Ep07),yama,0000,0000,0000,,{\fad(300,1)}O Início De Uma Lenda
 Dialogue: 0,0:08:08.25,0:08:11.53,Shirobako_Main - Copy,yama,0000,0000,0000,,O cronograma implodido, a animação dissolvida.
 Dialogue: 0,0:08:11.53,0:08:14.71,Shirobako_Main - Copy,yama,0000,0000,0000,,Nós tivemos três episódios de recapitulações\N e o blog do site oficial estava em chamas.
@@ -299,10 +299,10 @@ Dialogue: 0,0:13:31.60,0:13:32.47,Shirobako_Main,kaori,0000,0000,0000,,Ah...
 Dialogue: 0,0:13:32.89,0:13:35.30,Shirobako_Main,kaori,0000,0000,0000,,Este lugar está mais limpo que esperava!
 Dialogue: 0,0:13:35.70,0:13:37.60,Shirobako_Main,mido,0000,0000,0000,,Kao-chan-neisan, é seu dia de folga?
 Dialogue: 0,0:13:37.60,0:13:38.92,Shirobako_Main,kaori,0000,0000,0000,,É claro que não.
-Dialogue: 0,0:13:38.92,0:13:42.06,Shirobako_Main,kaori,0000,0000,0000,,Nem pensar que um funcionário do crédito \Nda união esteja de folga no meio da semana.
+Dialogue: 0,0:13:38.92,0:13:42.06,Shirobako_Main,kaori,0000,0000,0000,,Nem pensar que uma novata como eu \Nesteja de folga no meio da semana.
 Dialogue: 0,0:13:42.06,0:13:42.90,Shirobako_Main,mido,0000,0000,0000,,Entendi...
 Dialogue: 0,0:13:42.90,0:13:44.19,Shirobako_Main,kaori,0000,0000,0000,,Férias remuneradas.
-Dialogue: 0,0:13:45.27,0:13:48.90,Hyotan-ya_13:44_(Ep07),sign,0000,0000,0000,,Hyoutan-ya
+Dialogue: 0,0:13:45.27,0:13:48.90,Hyotan-ya_13:44_(Ep07),sign,0000,0000,0000,,{\fax-0.4}Hyoutan-ya
 Dialogue: 0,0:13:45.43,0:13:47.04,Shirobako_Main,kaori,0000,0000,0000,,Aqui está, Don Don donuts.
 Dialogue: 0,0:13:47.04,0:13:48.90,Shirobako_Main,midori,0000,0000,0000,,A Oi-chan-senpai vai ficar feliz.
 Dialogue: 0,0:13:48.90,0:13:52.56,Shirobako_Main,kaori,0000,0000,0000,,Ela ainda tem um jeito tão caipira.
