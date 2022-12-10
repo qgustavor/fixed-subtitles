@@ -26,6 +26,8 @@ Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0110,0080,0080,1
 Style: Atashinchi 12,Trebuchet MS,28,&H00101627,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0130,0070,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -203,7 +205,7 @@ Dialogue: 0,0:08:51.27,0:08:51.88,Main Dialogue,Yuz,0000,0000,0000,,Não consigo
 Dialogue: 0,0:08:52.27,0:08:52.84,Main Dialogue,Yuz,0000,0000,0000,,Não consigo!
 Dialogue: 0,0:08:53.47,0:08:54.80,Main Dialogue,Yuz,0000,0000,0000,,Eu não consigo!
 Dialogue: 0,0:08:54.80,0:08:58.30,Main Dialogue,Yuz,0000,0000,0000,,Eu jamais conseguiria!
-Dialogue: 0,0:08:58.94,0:09:03.77,title,Tit,0000,0000,0000,,{\fad(400,1)\c&H4770EB&\3c&HE4E4E4&}Yuzu não é Bom em ser Independente
+Dialogue: 0,0:08:58.94,0:09:03.77,title,Tit,0000,0000,0000,,{\fad(400,1)\c&H4770EB&\3c&HE4E4E4&}Yuzu não é bom em depender dos outros
 Dialogue: 0,0:09:04.51,0:09:06.66,italic,Yuz,0000,0000,0000,,Então, teve aquele incidente...
 Dialogue: 0,0:09:07.33,0:09:08.18,flashback,Mik,0000,0000,0000,,Ei, ei.
 Dialogue: 0,0:09:08.18,0:09:09.91,flashback,Mik,0000,0000,0000,,Deixe eu fazer isso também.
@@ -458,6 +460,8 @@ Dialogue: 0,0:21:27.13,0:21:28.72,Main Dialogue,Mom,0000,0000,0000,,Ah, querido,
 Dialogue: 0,0:21:29.13,0:21:31.63,Main Dialogue,Mom,0000,0000,0000,,Você sabe que faz tempo que não fazemos\N isso, é para tentar uma harmonia.
 Dialogue: 0,0:21:34.17,0:21:39.25,italic,Mik,0000,0000,0000,,Acho que funciona nesta casa.
 Dialogue: 0,0:21:52.45,0:21:55.04,Atashinchi,txt,0000,0000,0000,,{\an9}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,Mamãe e o Banho de Quadril
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,A Inveja de Yoshioka
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,Os Métodos de Rejuvenescimento da Mamãe

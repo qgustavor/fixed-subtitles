@@ -34,6 +34,8 @@ Style: Femanager,Arial,20,&H00FFFFFF,&H000000FF,&H00BA2966,&H00000000,-1,0,0,0,1
 Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00E6E6E6,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0020,0080,0010,1
 Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0110,0050,0020,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -441,7 +443,6 @@ Dialogue: 0,0:19:42.40,0:19:45.33,Main Dialogue,Girl2,0000,0000,0000,,Deve ser d
 Dialogue: 0,0:19:45.33,0:19:46.24,Main Dialogue,Girl,0000,0000,0000,,Sim.
 Dialogue: 0,0:19:47.46,0:19:49.71,Main Dialogue,Girl2,0000,0000,0000,,Eu não acho que vamos conseguir.
 Dialogue: 0,0:19:50.00,0:19:52.87,Main Dialogue,fuj,0000,0000,0000,,Força! Força! Força! Oh!
-Dialogue: 0,0:19:52.87,0:19:52.87,Main Dialogue,fuj,0000,0000,0000,,Certo!
 Dialogue: 0,0:19:52.87,0:19:54.49,Main Dialogue,All,0000,0000,0000,,Certo!
 Dialogue: 0,0:19:52.92,0:19:53.67,Main Dialogue,Girl,0000,0000,0000,,{\an8}O que é aquilo?
 Dialogue: 0,0:19:54.49,0:19:56.03,Main Dialogue,fuj,0000,0000,0000,,Um, dois, três, quatro.
@@ -488,6 +489,8 @@ Dialogue: 0,0:21:40.24,0:21:44.06,Main Dialogue,Girl,0000,0000,0000,,Arrasa com 
 Dialogue: 0,0:21:44.06,0:21:46.54,Main Dialogue,Girl,0000,0000,0000,,Yuzupi!
 Dialogue: 0,0:21:46.54,0:21:47.07,Main Dialogue,Girl2,0000,0000,0000,,Sério?
 Dialogue: 0,0:21:52.62,0:21:55.04,Atashinchi,txt,0001,0246,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,"Chinelos das Termas"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Yoshioka odeia Peixe"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H9038DD&}"Apelidos do Yuzu"

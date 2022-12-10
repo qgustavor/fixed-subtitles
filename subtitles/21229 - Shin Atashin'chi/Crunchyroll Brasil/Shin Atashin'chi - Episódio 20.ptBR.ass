@@ -32,6 +32,8 @@ Style: bakubaku,Arial,20,&H00DD75B4,&H000000FF,&H006E483D,&H00000000,-1,0,0,0,10
 Style: Sea Squirt,Arial,18,&H00000000,&H000000FF,&H00F0D0E5,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0020,0018,1
 Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00E6E6E6,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0020,0080,0010,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -159,7 +161,7 @@ Dialogue: 0,0:06:50.10,0:06:51.43,Main Dialogue,Mom2,0000,0000,0000,,Estava gost
 Dialogue: 0,0:06:51.43,0:06:53.10,Main Dialogue,Mom2,0000,0000,0000,,Isso é incrível.
 Dialogue: 0,0:06:53.62,0:06:57.83,Italic,Yuz,0000,0000,0000,,Ele come um monte de qualquer\N coisa que eu der para ele.
 Dialogue: 0,0:06:58.27,0:06:59.31,Italic,Yuz,0000,0000,0000,,O que está acontecendo?
-Dialogue: 0,0:06:59.39,0:07:01.06,Atashinchi,txt,0376,0030,15,,{\fad(400,10}{\c&HE4E5FD&\3c&H1500D2&}Novo {\c&H9054E3&\3c&H548961&}A{\c&H2FECF7&}ta{\c&H3F82F2&}shi{\c&H40D041&}n{\c&HDDB142&}chi
+Dialogue: 0,0:06:59.39,0:07:01.06,Atashinchi,txt,0376,0030,15,,{\fad(400,10)}{\c&HE4E5FD&\3c&H1500D2&}Novo {\c&H9054E3&\3c&H548961&}A{\c&H2FECF7&}ta{\c&H3F82F2&}shi{\c&H40D041&}n{\c&HDDB142&}chi
 Dialogue: 0,0:07:01.67,0:07:03.75,Main Dialogue,Mom,0000,0000,0000,,É mesmo estranho.
 Dialogue: 0,0:07:04.13,0:07:07.32,Main Dialogue,Mom,0000,0000,0000,,Ela disse que faz as mesmas coisas que \Nele come aqui em casa, mas ele não quer.
 Dialogue: 0,0:07:08.82,0:07:10.78,Main Dialogue,Mom2,0000,0000,0000,,Takkun, você não quer comer?
@@ -396,7 +398,7 @@ Dialogue: 0,0:19:48.62,0:19:51.17,Main Dialogue,Mom,0000,0000,0000,,Lembre-se, t
 Dialogue: 0,0:19:51.17,0:19:51.98,Main Dialogue,Mik,0000,0000,0000,,Hã?
 Dialogue: 0,0:19:51.98,0:19:54.59,Main Dialogue,Mom,0000,0000,0000,,Quando ganhamos aqueles\N tunicados de presente.
 Dialogue: 0,0:19:54.98,0:19:58.05,Main Dialogue,Mik,0000,0000,0000,,Ah, essa coisa você tem que cortar \Nbem fininha, como se fosse sashimi?
-Dialogue: 0,0:19:55.04,0:19:58.05,Sea Squirt,Text,0020,0001,15,,{\fad(400,1)}Tunicados\NAnimais marinhos pertecentes ao filo Chordata, dentro dos Urochordata Ascidiacea.\NTambém chamado de abacaxi do mar.
+Dialogue: 0,0:19:55.04,0:19:58.05,Sea Squirt,Text,0020,0001,15,,{\fad(400,1)}Tunicados\NAnimais marinhos pertencentes ao filo Chordata, dentro dos Urochordata Ascidiacea.\NTambém chamado de abacaxi do mar.
 Dialogue: 0,0:20:01.49,0:20:06.18,Main Dialogue,Mom,0000,0000,0000,,O Yuu-chan não conseguia experimentar \Numa coisa que ele nunca tinha visto antes.
 Dialogue: 0,0:20:06.84,0:20:10.67,Main Dialogue,Mom,0000,0000,0000,,Você começou a comer na hora.
 Dialogue: 0,0:20:10.67,0:20:12.06,flashback,Mik,0000,0000,0000,,O que é isso mesmo?
@@ -426,6 +428,8 @@ Dialogue: 0,0:21:40.10,0:21:42.57,Main Dialogue,Yuz,0000,0000,0000,,Não é esse
 Dialogue: 0,0:21:46.91,0:21:49.06,Main Dialogue,Mom,0000,0000,0000,,Bem, vou lavar os pratos.
 Dialogue: 0,0:21:49.06,0:21:50.64,Main Dialogue,Mik,0000,0000,0000,,Eu vou assistir TV.
 Dialogue: 0,0:21:51.24,0:21:55.04,Atashinchi,txt,0001,0314,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HB949A4&}"O Jeito Elegante de Fechar um Guarda-Chuva"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HD2A81A&}"Por que eu Acabei de Rir?"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H4B43FC&}"Yuzu e o Mundo das Trevas"

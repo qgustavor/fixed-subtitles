@@ -30,8 +30,8 @@ Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: flashback,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00164DFD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
-Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0100,0020,0010,1
-Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0100,0010,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H00B23F9B,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H00D9A11A,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H003F4CEB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -136,7 +136,8 @@ Dialogue: 0,0:05:56.20,0:05:59.29,Default,Mik,0000,0000,0000,,Porque eu só cons
 Dialogue: 0,0:06:00.99,0:06:02.35,Default,Mom,0000,0000,0000,,Que inconveniente.
 Dialogue: 0,0:06:03.10,0:06:05.27,Default,Mom,0000,0000,0000,,Então, o que você gostaria de jantar?
 Dialogue: 0,0:06:05.54,0:06:08.63,Default,Mom,0000,0000,0000,,Carne frita com gengibre? Carne \Ncom batatas? Curry? Sopa de porco?
-Dialogue: 0,0:06:09.33,0:06:14.10,Default,Mik,0000,0000,0000,,Bem... Carne frita com gengibre!
+Dialogue: 0,0:06:09.33,0:06:10.69,Default,Mik,0000,0000,0000,,Bem...
+Dialogue: 0,0:06:12.57,0:06:14.10,Default,Mik,0000,0000,0000,,Carne frita com gengibre!
 Dialogue: 0,0:06:14.60,0:06:16.21,Default,Mom,0000,0000,0000,,Então será carne frita com gengibre.
 Dialogue: 0,0:06:16.21,0:06:18.31,Default,Mom,0000,0000,0000,,Em seguida, a chave da bicicleta.
 Dialogue: 0,0:06:18.83,0:06:21.02,Default,Mom,0000,0000,0000,,A chave da bicicleta.
@@ -202,7 +203,7 @@ Dialogue: 0,0:09:27.65,0:09:29.17,Default,Mom,0000,0000,0000,,Como o tempo passa
 Dialogue: 0,0:09:30.06,0:09:32.63,Default,Mom,0000,0000,0000,,O quê? Isso era um terreno\N baldio há muito tempo.
 Dialogue: 0,0:09:33.00,0:09:34.66,Default,Mik,0000,0000,0000,,Ficou pronto faz pouco tempo.
 Dialogue: 0,0:09:34.66,0:09:36.80,Default,Mom,0000,0000,0000,,Que chique!
-Dialogue: 0,0:09:37.09,0:09:39.08,Default,Mik,0000,0000,0000,,E a comida parece uma delicia.
+Dialogue: 0,0:09:37.09,0:09:39.08,Default,Mik,0000,0000,0000,,E a comida parece uma delícia.
 Dialogue: 0,0:09:39.08,0:09:40.80,Default,Mik,0000,0000,0000,,Ei, por que não damos uma olhada?
 Dialogue: 0,0:09:41.03,0:09:42.18,Default,Mom,0000,0000,0000,,Hã?
 Dialogue: 0,0:09:42.18,0:09:44.30,Default,Mik,0000,0000,0000,,Ah, só um pouquinho!

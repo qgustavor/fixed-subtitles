@@ -37,6 +37,8 @@ Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,
 Style: Atashinchi 13,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0090,0100,1
 Style: Atashinchi 16,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0120,0060,0090,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -95,11 +97,11 @@ Dialogue: 0,0:03:52.59,0:03:54.04,Main Dialogue,Mik,0000,0000,0000,,Poxa.
 Dialogue: 0,0:03:55.19,0:03:57.00,Atashinchi,txt,0000,0000,0000,,Novo Atashinchi
 Dialogue: 0,0:03:57.00,0:04:00.87,italic,Mom,0000,0000,0000,,Sempre presto atenção e é por isso \Nque sempre percebo muitas coisas.
 Dialogue: 0,0:04:00.87,0:04:01.85,italic,Mom,0000,0000,0000,,Falando nisso...
-Dialogue: 0,0:04:01.85,0:04:03.45,italic,Mom,0000,0000,0000,,Temos muito sapatos na entrada de casa.
+Dialogue: 0,0:04:01.85,0:04:03.45,italic,Mom,0000,0000,0000,,Temos muitos sapatos na entrada de casa.
 Dialogue: 0,0:04:03.45,0:04:05.15,italic,Mom,0000,0000,0000,,Eu vou ter que jogar um desses pares fora.
 Dialogue: 0,0:04:06.19,0:04:08.41,italic,Mom,0000,0000,0000,,Eu poderia me livrar dos chinelos de \Nmadeira que o meu marido não usa mais.
 Dialogue: 0,0:04:08.86,0:04:10.73,italic,Mom,0000,0000,0000,,Ou os tênis da Mikan.
-Dialogue: 0,0:04:10.73,0:04:13.44,italic,Mom,0000,0000,0000,,Ou o meu sapato de salto ou \Naquele parte de sapatos do Yuzu.
+Dialogue: 0,0:04:10.73,0:04:13.44,italic,Mom,0000,0000,0000,,Ou o meu sapato de salto ou \Naquele par de sapatos do Yuzu.
 Dialogue: 0,0:04:16.50,0:04:21.08,Shoes 1,Sign,0000,0000,0000,,Jogar Fora Sapatos
 Dialogue: 0,0:04:16.50,0:04:21.08,Shoes 2,Sign,0000,0000,0000,,Façam suas Apostas
 Dialogue: 0,0:04:16.50,0:04:21.08,Shoes 2,Sign,0000,0000,0000,,G1
@@ -288,7 +290,7 @@ Dialogue: 0,0:13:12.70,0:13:14.89,Main Dialogue,Fuj,0000,0000,0000,,Você tem qu
 Dialogue: 0,0:13:15.32,0:13:17.31,Main Dialogue,Fuj,0000,0000,0000,,Por favor! Vai! Vai!
 Dialogue: 0,0:13:19.23,0:13:20.74,Main Dialogue,Nas,0000,0000,0000,,Nem pensar.
 Dialogue: 0,0:13:21.80,0:13:22.81,Main Dialogue,Fuj,0000,0000,0000,,Ah, poxa!
-Dialogue: 0,0:13:22.81,0:13:25.20,Main Dialogue,Fuj,0000,0000,0000,,Deixa de ser invejoso.
+Dialogue: 0,0:13:22.81,0:13:25.20,Main Dialogue,Fuj,0000,0000,0000,,Deixa de ser mesquinho.
 Dialogue: 0,0:13:25.98,0:13:26.66,Main Dialogue,Nas,0000,0000,0000,,Eu voltei.
 Dialogue: 0,0:13:27.07,0:13:28.25,Main Dialogue,Mom,0000,0000,0000,,Seja bem-vindo.
 Dialogue: 0,0:13:30.27,0:13:31.12,Main Dialogue,Nas,0000,0000,0000,,Olha só...
@@ -317,8 +319,8 @@ Dialogue: 0,0:14:40.58,0:14:41.61,Main Dialogue,Boy,0000,0000,0000,,A qualidade 
 Dialogue: 0,0:14:41.85,0:14:43.51,Main Dialogue,Boy,0000,0000,0000,,Quanto talento!
 Dialogue: 0,0:14:43.51,0:14:44.52,Main Dialogue,Boy,0000,0000,0000,,Estou impressionado.
 Dialogue: 0,0:14:48.27,0:14:51.03,Main Dialogue,Namo,0000,0000,0000,,Espero que o Nasuo goste.
-Dialogue: 0,0:14:52.86,0:14:55.04,Atashinchi 8,txt,0000,0000,0000,,{\fad(400,1)}Novo Atanshichi
-Dialogue: 0,0:14:55.16,0:14:59.25,Atashinchi 8 - Copy,txt,0000,0000,0000,,{\fad(400,1)}Novo Atanshichi
+Dialogue: 0,0:14:52.86,0:14:55.04,Atashinchi 8,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:14:55.16,0:14:59.25,Atashinchi 8 - Copy,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
 Dialogue: 0,0:14:57.67,0:14:58.93,Main Dialogue,Nas,0000,0000,0000,,Yuzupi!
 Dialogue: 0,0:15:02.16,0:15:03.08,Main Dialogue,Yuz,0000,0000,0000,,Nasuo!
 Dialogue: 0,0:15:05.81,0:15:06.58,Main Dialogue,Girl,0000,0000,0000,,E então?
@@ -460,6 +462,8 @@ Dialogue: 0,0:21:44.83,0:21:48.22,Main Dialogue,Girl,0000,0000,0000,,E-Eu não d
 Dialogue: 0,0:21:48.22,0:21:49.42,Main Dialogue,Girl,0000,0000,0000,,Mas... Mas...
 Dialogue: 0,0:21:49.42,0:21:51.99,italic,Voice,0000,0000,0000,,A Yamashita é sincera demais.
 Dialogue: 0,0:21:52.96,0:21:55.04,Atashinchi 13,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,A Estranha Intuição da Mamãe
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,Conforme os Planos dos Homens
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,Raio de Apoio

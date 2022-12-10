@@ -41,6 +41,8 @@ Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00FFFFFF,&H00000000,
 Style: Atashinchi 11,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0030,0070,1
 Style: Atashinchi 12,Trebuchet MS,28,&H00101627,&H000000FF,&H00F1F1F1,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0110,0130,0070,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -432,6 +434,8 @@ Dialogue: 0,0:21:37.99,0:21:42.01,Italic,yuz,0000,0000,0000,,Talvez eu tenha o n
 Dialogue: 0,0:21:44.73,0:21:45.57,Italic,yuz,0000,0000,0000,,Mas...
 Dialogue: 0,0:21:46.28,0:21:48.38,Italic,yuz,0000,0000,0000,,Eu não sei mesmo se isso vai ser gostoso.
 Dialogue: 0,0:21:53.00,0:21:55.04,Atashinchi 11,txt,0436,0010,15,,{\fad(400,1)\an9}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&H8C31E3&}Mikan Não Quer Ajudar
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HDBA214&}Nada Supera a Gentileza do Papai
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H007AF0&}Eu Quero Comer Hambúrguer

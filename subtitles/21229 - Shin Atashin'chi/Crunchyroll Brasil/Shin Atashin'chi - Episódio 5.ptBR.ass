@@ -26,8 +26,8 @@ Style: Atashinchi 6,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0050,0090,1
 Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
-Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0100,0020,0010,1
-Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0100,0010,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H003746E7,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00AE3F91,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -78,7 +78,7 @@ Dialogue: 0,0:03:09.29,0:03:11.25,Signs,Text,0000,0000,0000,,{\c&H000000&\3c&HE0
 Dialogue: 0,0:03:10.40,0:03:13.81,Main Dialogue,Miz,0000,0000,0000,,Tachibana-san, você devia jogar na loteria.
 Dialogue: 0,0:03:13.81,0:03:15.25,Main Dialogue,Miz,0000,0000,0000,,Você tem que fazer isso.
 Dialogue: 0,0:03:15.25,0:03:17.24,Main Dialogue,Mom,0000,0000,0000,,Bem, eu poderia...
-Dialogue: 0,0:03:18.07,0:03:22.09,Main Dialogue,Mom,0000,0000,0000,,Mas meu poderes hoje parecem tão globais..
+Dialogue: 0,0:03:18.07,0:03:22.09,Main Dialogue,Mom,0000,0000,0000,,Mas meus poderes hoje parecem tão globais..
 Dialogue: 0,0:03:22.37,0:03:23.89,Main Dialogue,Miz,0000,0000,0000,,G-Globais?
 Dialogue: 0,0:03:24.39,0:03:26.85,Main Dialogue,Miz,0000,0000,0000,,Quer dizer, prever terremotos e coisas assim?
 Dialogue: 0,0:03:28.12,0:03:31.31,Main Dialogue,Mom,0000,0000,0000,,Acho que não teremos\N nenhum terremoto hoje.
@@ -121,7 +121,7 @@ Dialogue: 0,0:05:08.87,0:05:10.07,Main Dialogue,Mom,0000,0000,0000,,Dourado de 9
 Dialogue: 0,0:05:13.36,0:05:15.63,Main Dialogue,Both,0000,0000,0000,,O jogo virou!
 Dialogue: 0,0:05:16.17,0:05:18.07,Main Dialogue,Girl,0000,0000,0000,,Eu não consigo pensar em um bom nome.
 Dialogue: 0,0:05:18.07,0:05:19.49,Main Dialogue,Boy,0000,0000,0000,,Que tal Gabu?
-Dialogue: 0,0:05:19.49,0:05:21.55,Main Dialogue,Girl,0000,0000,0000,,Que Snowden?
+Dialogue: 0,0:05:19.49,0:05:21.55,Main Dialogue,Girl,0000,0000,0000,,Talvez Snowden?
 Dialogue: 0,0:05:21.55,0:05:22.55,Main Dialogue,Mom,0000,0000,0000,,Chame ele de Goro.
 Dialogue: 0,0:05:28.91,0:05:30.45,Main Dialogue,Mom,0000,0000,0000,,Está vindo uma boa.
 Dialogue: 0,0:05:35.95,0:05:38.44,Signs,sign,0000,0000,0000,,{\an9\3c&H6B62D3&\bord2}Grande Loteria
@@ -175,7 +175,7 @@ Dialogue: 0,0:08:03.61,0:08:06.95,Main Dialogue,Hin,0000,0000,0000,,Sim, soube q
 Dialogue: 0,0:08:06.95,0:08:07.88,Main Dialogue,Girl,0000,0000,0000,,É mesmo?
 Dialogue: 0,0:08:08.48,0:08:09.72,Main Dialogue,Kid,0000,0000,0000,,Yuzuko!
 Dialogue: 0,0:08:09.72,0:08:10.84,Main Dialogue,Kid,0000,0000,0000,,Tcharam!
-Dialogue: 0,0:08:11.48,0:08:14.30,Main Dialogue,Yuz,0000,0000,0000,,Uau, são bilhetes para os Pandas\N Mercernários N-Doubles 4!
+Dialogue: 0,0:08:11.48,0:08:14.30,Main Dialogue,Yuz,0000,0000,0000,,Uau, são bilhetes para os Pandas\N Mercenários N-Doubles 4!
 Dialogue: 0,0:08:14.30,0:08:17.65,Main Dialogue,Kid,0000,0000,0000,,Consegui ingressos grátis, três deles!
 Dialogue: 0,0:08:17.65,0:08:20.29,Main Dialogue,Yuz,0000,0000,0000,,Então quer dizer que você, eu e...
 Dialogue: 0,0:08:20.29,0:08:23.26,Main Dialogue,Kid,0000,0000,0000,,Eu queria convidar uma garota para ir conosco.

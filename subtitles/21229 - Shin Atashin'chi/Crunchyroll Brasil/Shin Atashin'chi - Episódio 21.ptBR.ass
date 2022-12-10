@@ -29,13 +29,14 @@ Style: No Yuzu 2,Arial,20,&H006B3FC9,&H000000FF,&H00623E43,&H00000000,-1,0,0,0,1
 Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00E6E6E6,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0020,0080,0010,1
 Style: Atashinchi 7,Trebuchet MS,28,&H005FF1F2,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0110,0050,0020,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H002DCE4C,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H008E3ADA,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H000E84E7,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Main Dialogue,txt,0000,0000,0000,,Novo Atashinchi
 Dialogue: 0,0:00:56.20,0:01:00.74,Atashinchi,txt,0001,0220,0010,,{\3c&H7258D9&}Novo {\3c&H6387E7&}A{\3c&HCC86B1&}ta{\3c&HD5A168&}shi{\3c&HD5A168&}n{\3c&H89CE60&}chi
 Dialogue: 0,0:01:01.25,0:01:03.70,Main Dialogue,mom,0000,0000,0000,,Ah, o que eu vou fazer?
 Dialogue: 0,0:01:04.00,0:01:05.26,Main Dialogue,mik,0000,0000,0000,,O que foi?
@@ -226,8 +227,8 @@ Dialogue: 0,0:10:51.01,0:10:54.77,Main Dialogue,mik,0000,0000,0000,,No outro dia
 Dialogue: 0,0:10:55.13,0:10:56.26,Main Dialogue,shi,0000,0000,0000,,Sim, foi mesmo.
 Dialogue: 0,0:10:57.73,0:11:00.22,Main Dialogue,shi,0000,0000,0000,,Porque você estava com a mesma cara.
 Dialogue: 0,0:11:00.55,0:11:01.85,flashback,shi,0000,0000,0000,,O que foi?
-Dialogue: 0,0:11:04.15,0:11:05.31,flashback,mik,0000,0000,0000,,Um vazamento...
-Dialogue: 0,0:11:07.00,0:11:10.10,flashback,mik,0000,0000,0000,,Um vazamento no meus dentes de trás...
+Dialogue: 0,0:11:04.15,0:11:05.31,flashback,mik,0000,0000,0000,,Um alho...
+Dialogue: 0,0:11:07.00,0:11:10.10,flashback,mik,0000,0000,0000,,Um alho preso nos meus dentes de trás...
 Dialogue: 0,0:11:13.22,0:11:14.15,Main Dialogue,shi,0000,0000,0000,,Se lembra?
 Dialogue: 0,0:11:15.75,0:11:17.94,Main Dialogue,yuk,0000,0000,0000,,Então, ela não é uma fofa?
 Dialogue: 0,0:11:18.39,0:11:20.32,Italic,mik,0000,0000,0000,,Eu não entendo mesmo.
@@ -409,6 +410,8 @@ Dialogue: 0,0:21:45.23,0:21:48.00,Main Dialogue,Mik,0000,0000,0000,,Mas, bom, n�
 Dialogue: 0,0:21:48.00,0:21:49.07,Main Dialogue,Mom,0000,0000,0000,,É mesmo?
 Dialogue: 0,0:21:50.82,0:21:52.04,Main Dialogue,Yuz,0000,0000,0000,,Nada disso.
 Dialogue: 0,0:21:53.08,0:21:55.04,Atashinchi 7,txt,0001,0258,0010,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,Tit,0000,0000,0000,,Mamãe Entende Papai
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,Tit,0000,0000,0000,,Rabiscos de Coelho
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,Tit,0000,0000,0000,,Yoshioka Não Quer Levar um Guarda-Chuva

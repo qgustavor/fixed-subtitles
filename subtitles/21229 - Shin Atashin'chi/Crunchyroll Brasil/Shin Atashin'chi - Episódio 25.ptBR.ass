@@ -30,6 +30,8 @@ Style: Grand Hotel,Arial,26,&H00506381,&H000000FF,&H006D9CB2,&H00000000,-1,0,0,0
 Style: Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
 Style: Main Bath,Arial,24,&H00EAF6F5,&H000000FF,&H00625F8B,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0018,1
 Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -468,6 +470,8 @@ Dialogue: 0,0:21:36.40,0:21:38.81,Booger,txt,0000,0000,0000,,Nugutama Bokko
 Dialogue: 0,0:21:39.04,0:21:40.69,Main Dialogue,both,0000,0000,0000,,O que é isso?
 Dialogue: 0,0:21:44.78,0:21:49.37,Main Dialogue,mik,0000,0000,0000,,Parece que o mistério da fonte de \Nmistérios da mamãe é mesmo profundo.
 Dialogue: 0,0:21:52.91,0:21:55.04,Show Title 1,txt,0001,0298,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&H8C39E4&}"Minha casa é o meu castelo!"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HD9A319&}"Mikan e a festa das cerejeiras"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H0077F3&}"Sonho de todos"

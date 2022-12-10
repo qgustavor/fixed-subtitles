@@ -47,6 +47,8 @@ Style: Atashinchi,Trebuchet MS,28,&H001B161E,&H000000FF,&H00E6E6E6,&H00000000,-1
 Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,1,0110,0080,0080,1
 Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0110,0050,0020,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -303,7 +305,7 @@ Dialogue: 0,0:12:17.81,0:12:20.82,Main Dialogue,Mom,0000,0000,0000,,Ah, olha só
 Dialogue: 0,0:12:20.82,0:12:22.36,Main Dialogue,Mom,0000,0000,0000,,Ai, ai, ai!
 Dialogue: 0,0:12:22.83,0:12:23.97,Main Dialogue,Mom,0000,0000,0000,,Me desculpe.
 Dialogue: 0,0:12:24.21,0:12:26.18,Main Dialogue,Mom2,0000,0000,0000,,Não foi nada.
-Dialogue: 0,0:12:27.08,0:12:28.14,Main Dialogue,Mom,0000,0000,0000,,Eu acho que eu não devia...
+Dialogue: 0,0:12:27.08,0:12:28.14,Main Dialogue,Mom,0000,0000,0000,,Eu devia ter me dado conta...
 Dialogue: 0,0:12:28.83,0:12:30.35,Main Dialogue,Mik,0000,0000,0000,,Que vergonha.
 Dialogue: 0,0:12:31.64,0:12:33.31,Atashinchi 7,txt,0001,0314,0011,,{\fad(400,1)}{\c&HE4E5FD&\3c&H130EF0&}Novo {\c&H9054E3&\3c&H548961&}A{\c&H2FECF7&}ta{\c&H3F82F2&}shi{\c&H40D041&}n{\c&HDDB142&}chi{Guga, Tazinho assistindo uns Super Sentai}
 Dialogue: 0,0:12:34.12,0:12:35.52,Main Dialogue,Mik,0000,0000,0000,,Sério...
@@ -500,6 +502,8 @@ Dialogue: 0,0:21:49.33,0:21:55.04,Latin 1,txt,0001,0001,15,,{\an2}A pedra doce o
 Dialogue: 0,0:21:52.20,0:21:55.04,Atashinchi,txt,0380,0030,0011,,{\fad(400,1)}Novo Atashinchi
 Dialogue: 0,0:21:52.20,0:21:55.04,Latin 2,txt,0001,0324,15,,{\an2}{\fad(400,1)}Editor de Latim: Shiro Yamanouchi
 Dialogue: 0,0:22:55.02,0:22:57.45,Main Dialogue,Girl,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,"O Presente Surpresa da Mamãe"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Yuzuhiko e o Time de Beisebol (Parte Um)"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,"Yuzuhiko e o Time de Beisebol (Parte Dois)"

@@ -7,3 +7,5 @@ A licença desse anime expirou e até o momento não há nenhuma notícia dele e
 Mudanças:
 
 - Honoríficos adicionados.
+- Textos na prévia adicionados quando faltavam, estilização melhorada.
+- Diversos erros de digitação, tradução, gramática e edição corrigidos.

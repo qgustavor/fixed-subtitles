@@ -18,6 +18,8 @@ WrapStyle: 0
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
 Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0015,1
 Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H009238DB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00117FEE,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -135,6 +137,9 @@ Dialogue: 0,0:05:15.17,0:05:17.02,Main Dialogue,Guy,0000,0000,0000,,Foi isso que
 Dialogue: 0,0:05:17.57,0:05:19.75,Main Dialogue,Guy,0000,0000,0000,,Eu estava pensando e aí?
 Dialogue: 0,0:05:22.19,0:05:23.15,Main Dialogue,yam,0000,0000,0000,,Beleza!
 Dialogue: 0,0:05:23.33,0:05:25.56,Main Dialogue,Guy,0000,0000,0000,,Quer dizer, é estranho, não é?
+Dialogue: 0,0:05:25.56,0:05:26.78,Main Dialogue,Guy,0000,0000,0000,,Sério?
+Dialogue: 0,0:05:26.78,0:05:27.56,Main Dialogue,Guy,0000,0000,0000,,Sério mesmo.
+Dialogue: 0,0:05:48.44,0:05:49.26,Main Dialogue,Guy,0000,0000,0000,,Ai!
 Dialogue: 0,0:05:55.91,0:05:58.32,Main Dialogue,yam,0000,0000,0000,,Uau, Kawashima, você conseguiu!
 Dialogue: 0,0:05:59.41,0:06:01.88,Main Dialogue,kaw,0000,0000,0000,,Então isso é um fio de cabelo do Yuzupi.
 Dialogue: 0,0:06:05.38,0:06:07.97,Main Dialogue,yam,0000,0000,0000,,Você acha mesmo que é o cabelo dele?
@@ -256,7 +261,7 @@ Dialogue: 0,0:13:13.20,0:13:14.48,Main Dialogue,Mom,0000,0000,0000,,Mizushima-sa
 Dialogue: 0,0:13:14.48,0:13:17.12,Main Dialogue,Mom,0000,0000,0000,,Você parece tão diferente hoje!
 Dialogue: 0,0:13:17.12,0:13:20.98,Main Dialogue,Miz,0000,0000,0000,,Comprei esse vestido \Nnaquela loja que nós fomos!
 Dialogue: 0,0:13:20.98,0:13:22.22,Main Dialogue,Mom,0000,0000,0000,,Ficou tão bem!
-Dialogue: 0,0:13:22.22,0:13:25.36,Main Dialogue,Miz,0000,0000,0000,,Sim, eu estava pensando em \Nusar um pouco de maquiagem.
+Dialogue: 0,0:13:22.22,0:13:25.36,Main Dialogue,Miz,0000,0000,0000,,Sim, eu estava pensando em \Nmudar um pouco o visual.
 Dialogue: 0,0:13:25.78,0:13:28.57,Main Dialogue,Mom,0000,0000,0000,,Sim, eu também vou experimentar...
 Dialogue: 0,0:13:30.05,0:13:31.99,Main Dialogue,Mom,0000,0000,0000,,alguns truques para parecer jovem.
 Dialogue: 0,0:13:32.81,0:13:35.12,Main Dialogue,Miz,0000,0000,0000,,Hã? O que você disse?
@@ -403,6 +408,8 @@ Dialogue: 0,0:21:45.03,0:21:47.01,Main Dialogue,Mik,0000,0000,0000,,Por que ela 
 Dialogue: 0,0:21:49.40,0:21:53.63,Main Dialogue,Dad,0000,0000,0000,,Ser uma família é limpar a bunda \Ndos outros e ter eles limpando a sua.
 Dialogue: 0,0:21:53.63,0:21:55.04,Atashinchi,txt,0000,0000,0000,,{\an7}Novo Atashinchi
 Dialogue: 0,0:22:55.02,0:22:57.24,Main Dialogue,dad,0000,0000,0000,,No próximo episódio de {\i1}Novo Atashinchi{\i0}:
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,"O Dia Em Que Mamãe Está Alerta"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Yuzu e Companhia Vão Ao Cinema"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,"A Paz Dos Homens"

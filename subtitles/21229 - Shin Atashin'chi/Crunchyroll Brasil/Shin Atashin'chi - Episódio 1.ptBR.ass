@@ -34,8 +34,8 @@ Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 5,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0080,0060,1
 Style: Atashinchi 6,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
 Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0050,0130,1
-Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0100,0020,0010,1
-Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0100,0010,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -307,7 +307,7 @@ Dialogue: 0,0:18:18.78,0:18:20.57,Atashinchi 4,txt,0000,0000,0000,,{\fad(333,1)}
 Dialogue: 0,0:18:24.35,0:18:25.00,Default,Mik,0000,0000,0000,,O que é isso?
 Dialogue: 0,0:18:25.64,0:18:26.71,Default,Mom,0000,0000,0000,,Minha nova arma.
 Dialogue: 0,0:18:30.72,0:18:33.13,Default,Mom,0000,0000,0000,,Eu vou colocar em todos os \Nlugares que elas possam aparecer.
-Dialogue: 0,0:18:33.53,0:18:36.03,Default,Mom,0000,0000,0000,,Mas agoras elas não aparecem mais.
+Dialogue: 0,0:18:33.53,0:18:36.03,Default,Mom,0000,0000,0000,,Mas agora elas não aparecem mais.
 Dialogue: 0,0:18:36.03,0:18:37.59,Default,Mik,0000,0000,0000,,Você deveria ficar feliz com isso.
 Dialogue: 0,0:18:38.18,0:18:40.57,Default,Mik,0000,0000,0000,,Mas, mãe, você gosta \Nmesmo dessas armas novas.
 Dialogue: 0,0:18:40.57,0:18:42.76,Default,Mom,0000,0000,0000,,Mas não é uma coisa que todo mundo gosta?
@@ -371,7 +371,7 @@ Dialogue: 0,0:20:51.58,0:20:52.27,Default,yuz,0000,0000,0000,,Olha lá!
 Dialogue: 0,0:20:53.00,0:20:54.44,Default,Mom,0000,0000,0000,,Tome isso!
 Dialogue: 0,0:21:01.57,0:21:03.33,Default,Mik,0000,0000,0000,,Incrível, mãe...
 Dialogue: 0,0:21:03.33,0:21:05.12,Default,Dad,0000,0000,0000,,Você não está nem tocando nela.
-Dialogue: 0,0:21:32.80,0:21:34.69,Default,Mom,0000,0000,0000,,preciso de um lenço! Um lenço!
+Dialogue: 0,0:21:32.80,0:21:34.69,Default,Mom,0000,0000,0000,,Preciso de um lenço! Um lenço!
 Dialogue: 0,0:21:36.39,0:21:38.15,Default,Mik,0000,0000,0000,,Essa nova arma foi bem inútil.
 Dialogue: 0,0:21:38.69,0:21:41.11,Default,Dad,0000,0000,0000,,Nós temos a arma final aqui.
 Dialogue: 0,0:21:41.48,0:21:42.87,Default,Yuz,0000,0000,0000,,A arma final?

@@ -35,6 +35,8 @@ Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
 Style: Atashinchi 10,Trebuchet MS,28,&H007551F1,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0110,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -43,7 +45,6 @@ Style: Atashinchi 8 - Copy,Trebuchet MS,22,&H001A1C24,&H000000FF,&H00EED6A0,&H00
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 0,0:00:00.00,0:00:00.00,Main Dialogue,Yuz,0000,0000,0000,,Uma 3LDK...
 Dialogue: 0,0:00:55.57,0:00:58.03,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
 Dialogue: 0,0:00:58.61,0:01:00.23,Main Dialogue,Mom,0000,0000,0000,,Muito obrigada.
 Dialogue: 0,0:01:00.23,0:01:01.64,Main Dialogue,Mom,0000,0000,0000,,Não foi nada.
@@ -142,7 +143,7 @@ Dialogue: 0,0:04:34.76,0:04:36.54,Main Dialogue,Yuz,0000,0000,0000,,Você é um 
 Dialogue: 0,0:04:36.88,0:04:40.00,Main Dialogue,Yuz,0000,0000,0000,,Bem, um demônio {\i1}nunca{\i0} come\N uma coisa que caiu no chão.
 Dialogue: 0,0:04:41.32,0:04:42.91,Main Dialogue,Yuz,0000,0000,0000,,O demônio joga isso fora.
 Dialogue: 0,0:04:44.26,0:04:47.68,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
-Dialogue: 0,0:04:46.39,0:04:47.68,Main Dialogue,Tak,0000,0000,0000,,{\u1}Roar, roar.
+Dialogue: 0,0:04:46.39,0:04:47.68,Main Dialogue,Tak,0000,0000,0000,,{\i1}Roar, roar.
 Dialogue: 0,0:04:48.00,0:04:49.56,Main Dialogue,Tak,0000,0000,0000,,{\i1}Roar!
 Dialogue: 0,0:04:51.51,0:04:54.26,Main Dialogue,Mom,0000,0000,0000,,Obrigada por brincar conosco agora há pouco.
 Dialogue: 0,0:04:54.85,0:04:56.86,Main Dialogue,Yuz,0000,0000,0000,,Sem problema.
@@ -527,6 +528,8 @@ Dialogue: 0,0:21:39.67,0:21:40.78,Main Dialogue,mis,0000,0000,0000,,Tchau!
 Dialogue: 0,0:21:44.48,0:21:47.02,Italic,mis,0000,0000,0000,,Mas logo nos encontraremos de novo.
 Dialogue: 0,0:21:47.85,0:21:51.70,Main Dialogue,mis,0000,0000,0000,,A fraude do "Tchauzinho"? Acho que não.
 Dialogue: 0,0:21:53.08,0:21:55.04,Atashinchi 3,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,Mães, Vestibular dos Pais
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,Yuzu e a Refeição Masculina na Madrugada
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H9039CF&}O Dia dos Namorados de Mikan

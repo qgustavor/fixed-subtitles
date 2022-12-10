@@ -30,6 +30,8 @@ Style: Atashinchi 4,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0110,0080,0010,1
 Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0002,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -42,7 +44,7 @@ Dialogue: 0,0:00:58.06,0:00:59.07,Atashinchi 9,txt,0000,0000,0000,,Novo
 Dialogue: 0,0:00:59.07,0:01:03.04,Atashinchi 9,txt,0000,0000,0000,,Feliz Ano Novo
 Dialogue: 0,0:01:01.02,0:01:03.04,Atashinchi 2,txt,0000,0000,0000,,Novo Atashinchi
 Dialogue: 0,0:01:04.05,0:01:05.87,italic,Ann,0000,0000,0000,,Feliz Ano Novo!
-Dialogue: 0,0:01:06.19,0:01:09.46,italic,Ann,0000,0000,0000,,É 1º de Janeiro de 2016 e gostaríamos\N de desejar um bom dia a todos!
+Dialogue: 0,0:01:06.19,0:01:09.46,italic,Ann,0000,0000,0000,,É 1º de janeiro de 2016 e gostaríamos\N de desejar um bom dia a todos!
 Dialogue: 0,0:01:09.46,0:01:10.89,Main Dialogue,Dad,0000,0000,0000,,Estou com fome.
 Dialogue: 0,0:01:11.51,0:01:12.55,Main Dialogue,Dad,0000,0000,0000,,Querem sopa zouni?
 Dialogue: 0,0:01:24.20,0:01:28.94,title,Titl,0000,0000,0000,,{\fad(400,1)\c&H66AA60&\3c&HA9EAD3&}Ano Novo na Família Tachibana
@@ -61,7 +63,7 @@ Dialogue: 0,0:01:49.74,0:01:51.71,Main Dialogue,Mom,0000,0000,0000,,O nome dela 
 Dialogue: 0,0:01:51.71,0:01:53.35,Main Dialogue,Mik,0000,0000,0000,,Eu sei disso.
 Dialogue: 0,0:01:53.35,0:01:54.96,Main Dialogue,Mik,0000,0000,0000,,Mas qual o primeiro nome? É Tanaka o que-chan?
 Dialogue: 0,0:01:55.28,0:01:56.40,Main Dialogue,Mom,0000,0000,0000,,Ela é a Tanaka-chan.
-Dialogue: 0,0:01:57.07,0:02:01.69,Main Dialogue,Mom,0000,0000,0000,,Olha, querido, o Yamakawa Ichirou-san  nos \Nmandou outro cartão de Ano Novo este ano.
+Dialogue: 0,0:01:57.07,0:02:01.69,Main Dialogue,Mom,0000,0000,0000,,Olha, querido, o Yamakawa Ichirou-san nos \Nmandou outro cartão de Ano Novo este ano.
 Dialogue: 0,0:02:01.69,0:02:05.40,Main Dialogue,Mom,0000,0000,0000,,Ichiro Yamakawa!
 Dialogue: 0,0:02:05.40,0:02:06.81,Main Dialogue,Mik,0000,0000,0000,,Só porque você sabe ler esse...
 Dialogue: 0,0:02:06.81,0:02:08.77,Main Dialogue,Dad,0000,0000,0000,,Essa pessoa...
@@ -289,7 +291,7 @@ Dialogue: 0,0:12:33.89,0:12:35.82,Main Dialogue,Nao,0000,0000,0000,,Eu quero!
 Dialogue: 0,0:12:39.18,0:12:40.56,Main Dialogue,Nao,0000,0000,0000,,Amassar bolinho de arroz!
 Dialogue: 0,0:12:40.63,0:12:42.15,Main Dialogue,Nao,0000,0000,0000,,Amassar bolinho de arroz!
 Dialogue: 0,0:12:44.28,0:12:45.86,Main Dialogue,Mom,0000,0000,0000,,Pare de balançar o martelo!
-Dialogue: 0,0:12:48.40,0:12:50.34,Main Dialogue,Mom,0000,0000,0000,,Deixo o peso fazer o martelo cair.
+Dialogue: 0,0:12:48.40,0:12:50.34,Main Dialogue,Mom,0000,0000,0000,,Deixe o peso fazer o martelo cair.
 Dialogue: 0,0:12:52.70,0:12:53.41,Main Dialogue,Nao,0000,0000,0000,,Certo!
 Dialogue: 0,0:12:55.00,0:12:57.79,Main Dialogue,Mom,0000,0000,0000,,Segure firme o cabo e deixe\N a cabeça do martelo solta!
 Dialogue: 0,0:13:00.54,0:13:02.02,Main Dialogue,mom,0000,0000,0000,,Faça movimentos de enxada!
@@ -394,7 +396,7 @@ Dialogue: 0,0:17:38.32,0:17:40.46,Main Dialogue,mom,0000,0000,0000,,Foi tão div
 Dialogue: 0,0:17:38.34,0:17:40.16,italic,yas,0000,0000,0000,,{\an8}O dia está pedindo um hambúrguer.
 Dialogue: 0,0:17:40.16,0:17:41.16,italic,ken,0000,0000,0000,,{\an8}É mesmo.
 Dialogue: 0,0:17:40.46,0:17:43.12,italic,mik,0000,0000,0000,,Essa não, eu não consegui assistir nada.
-Dialogue: 0,0:17:43.12,0:17:45.17,Signs,txt,0000,0000,0000,,{\c&H2A3820&\3c&H79C5F8&}Os item selecionados serão apagados
+Dialogue: 0,0:17:43.12,0:17:45.17,Signs,txt,0000,0000,0000,,{\c&H2A3820&\3c&H79C5F8&}Os itens selecionados serão apagados
 Dialogue: 0,0:17:43.12,0:17:45.17,Signs,txt,0000,0000,0000,,{\c&H2A3820&\3c&H79C5F8&}[Confirmar]      [Cancelar]
 Dialogue: 0,0:17:43.44,0:17:47.58,italic,mik,0000,0000,0000,,Acabei apagando esses programas \Nque eu tinha gravado sem nem assistir.
 Dialogue: 0,0:17:45.17,0:17:46.52,Signs,txt,0000,0000,0000,,{\c&H2A3820&\3c&H79C5F8&}Por favor, aguarde
@@ -479,6 +481,8 @@ Dialogue: 0,0:21:42.73,0:21:44.00,Main Dialogue,mik,0000,0000,0000,,Talvez eu de
 Dialogue: 0,0:21:46.23,0:21:47.34,Main Dialogue,mik,0000,0000,0000,,Mas...
 Dialogue: 0,0:21:48.38,0:21:50.66,Main Dialogue,both,0000,0000,0000,,É meio triste também...
 Dialogue: 0,0:21:52.58,0:21:55.04,Atashinchi 8,txt,0000,0000,0000,,{\3c&H5DA269&}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HAE469B&}"Papai não Consulta"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HCD9F3C&}"O Treinamento de Cérebro da Mamãe"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H1D28FA&}"Garotos? Nem pensar."

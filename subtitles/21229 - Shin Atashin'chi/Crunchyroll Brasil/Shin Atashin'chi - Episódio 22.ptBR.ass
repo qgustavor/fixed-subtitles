@@ -31,6 +31,8 @@ Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,
 Style: Atashinchi 10,Trebuchet MS,28,&H007551F1,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0110,1
 Style: Atashinchi 12,Trebuchet MS,28,&H00101627,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0130,0070,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -210,7 +212,7 @@ Dialogue: 0,0:11:59.37,0:12:02.81,Italic,Yuz,0000,0000,0000,,Sem nada melhor a f
 Dialogue: 0,0:12:03.78,0:12:06.38,Main Dialogue,Fuj,0000,0000,0000,,...transcrevendo no papel qualquer pensamento\N aleatório que entrasse em minha mente."
 Dialogue: 0,0:12:09.68,0:12:11.21,Main Dialogue,Yuz,0000,0000,0000,,Sniff, sniff.
 Dialogue: 0,0:12:19.69,0:12:22.05,Main Dialogue,Yuz,0000,0000,0000,,Que macio. Que macio!
-Dialogue: 0,0:12:22.35,0:12:23.74,Main Dialogue,Yuz,0000,0000,0000,,Que macio. Qua macio!
+Dialogue: 0,0:12:22.35,0:12:23.74,Main Dialogue,Yuz,0000,0000,0000,,Que macio. Que macio!
 Dialogue: 0,0:12:57.05,0:12:58.50,Main Dialogue,Yuz,0000,0000,0000,,Ei, aonde você vai?
 Dialogue: 0,0:13:16.41,0:13:20.11,Italic,Yuz,0000,0000,0000,,Eles não são bolinhos de arroz, são coelhos.
 Dialogue: 0,0:13:20.44,0:13:23.85,Italic,Yuz,0000,0000,0000,,Eles não são pães amassados, são coelhos.
@@ -343,6 +345,8 @@ Dialogue: 0,0:21:14.65,0:21:18.12,Italic,yos,0000,0000,0000,,Se a invenção de 
 Dialogue: 0,0:21:18.46,0:21:20.94,Italic,yos,0000,0000,0000,,deveríamos inventar algo\N além de guarda-chuvas.
 Dialogue: 0,0:21:38.71,0:21:41.57,Italic,yos,0000,0000,0000,,{\i0}Tsc{\i1}, isso não é divertido.
 Dialogue: 0,0:21:52.04,0:21:55.04,Atashinchi 12,txt,0282,0089,15,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,"Não Percebe de Jeito Nenhum"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Mamãe Finge que Sabe"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,"As Terras Sagradas do Fã-Clube do Yuzu"

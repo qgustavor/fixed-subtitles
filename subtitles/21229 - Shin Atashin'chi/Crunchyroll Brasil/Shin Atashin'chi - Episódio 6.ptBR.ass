@@ -29,6 +29,8 @@ Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
 Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0130,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -296,7 +298,7 @@ Dialogue: 0,0:17:45.85,0:17:47.88,Main Dialogue,Yuz,0000,0000,0000,,Hã? De jeit
 Dialogue: 0,0:17:55.37,0:17:56.45,Signs,Text,0000,0000,0000,,{\an7}{\c&HB65B37&\3c&HFFFFFF&}Salgado
 Dialogue: 0,0:17:55.37,0:17:56.45,Signs,Text,0000,0000,0000,,{\an4}{\c&H599611&\3c&HFFFFFF&}Azedo
 Dialogue: 0,0:17:56.16,0:17:56.97,Main Dialogue,Yuz,0000,0000,0000,,Você está certa.
-Dialogue: 0,0:17:57.53,0:17:59.18,Main Dialogue,Mik,0000,0000,0000,,Agora está  encharcado.
+Dialogue: 0,0:17:57.53,0:17:59.18,Main Dialogue,Mik,0000,0000,0000,,Agora está encharcado.
 Dialogue: 0,0:17:59.77,0:18:01.93,Main Dialogue,Dad,0000,0000,0000,,Tudo está com o mesmo gosto.
 Dialogue: 0,0:18:08.38,0:18:09.56,Main Dialogue,Mom,0000,0000,0000,,O que vocês esperavam?
 Dialogue: 0,0:18:09.83,0:18:14.50,Main Dialogue,Mom,0000,0000,0000,,Você achou mesmo que podia misturar \Nqualquer coisa e ficar com o gosto bom?
@@ -378,6 +380,8 @@ Dialogue: 0,0:21:42.58,0:21:44.21,Main Dialogue,Yuz,0000,0000,0000,,Ei, mana, po
 Dialogue: 0,0:21:44.21,0:21:46.09,Main Dialogue,Mik,0000,0000,0000,,Hã? Ah, claro.
 Dialogue: 0,0:21:46.09,0:21:47.03,Main Dialogue,Yuz,0000,0000,0000,,Obrigado.
 Dialogue: 0,0:21:53.46,0:21:55.04,Atashinchi,txt,0000,0000,0000,,{\an9\c&HFFFFFF&}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,Tit,0000,0000,0000,,{\c&H28C946&\3c&HFFFFFF&}Testa Brilhante
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,Tit,0000,0000,0000,,{\c&H8C31D9&}Mamãe, um gênio do reempacotamento
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,Tit,0000,0000,0000,,{\c&H0372F5&}A Franqueza dos Homens

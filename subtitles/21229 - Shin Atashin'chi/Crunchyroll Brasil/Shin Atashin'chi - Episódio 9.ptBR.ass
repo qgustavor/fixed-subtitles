@@ -23,6 +23,8 @@ Style: Atashinchi 3-2,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H0000000
 Style: Atashinchi 3-3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,0000,0060,0000,1
 Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
 Style: Main Italic,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0,2,0040,0040,0015,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0110,1
 Style: Next title 1.1,Comic Sans MS,26,&H00FFFFFF,&H000000FF,&H00BAB4A0,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,8,0020,0010,0110,1
 Style: Next title 2,Comic Sans MS,26,&H004FA82C,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0135,1
@@ -370,6 +372,8 @@ Dialogue: 0,0:21:35.69,0:21:38.42,Main Dialogue,mik,0000,0000,0000,,Queria pedir
 Dialogue: 0,0:21:38.42,0:21:39.49,Main Dialogue,Mom,0000,0000,0000,,Do que você está falando?
 Dialogue: 0,0:21:48.27,0:21:51.46,Main Italic,mik,0000,0000,0000,,A mamãe não levou para o lado errado...
 Dialogue: 0,0:21:52.03,0:21:55.04,Atashinchi 3-3,sign,0000,0000,0000,,{\an6}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:22:56.98,Main Dialogue,yos,0000,0000,0000,,No próximo episódio de Novo Atashinchi:
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HA3439A&}Os Óculos da Sudou-chan
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HE1A51D&}O Boom dos Donuts

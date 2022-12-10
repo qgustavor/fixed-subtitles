@@ -31,9 +31,12 @@ Style: Atashinchi 3,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 7,Trebuchet MS,28,&H001B161E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0110,0050,0020,1
 Style: Atashinchi 8,Trebuchet MS,28,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0015,0015,0010,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
+Style: Sign,Trebuchet MS,14,&H00000000,&H000000FF,&H00EEF3F0,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0545,0000,0180,1
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
@@ -115,7 +118,7 @@ Dialogue: 0,0:07:03.74,0:07:04.77,flashback,Mik,0000,0000,0000,,Mas...
 Dialogue: 0,0:07:04.77,0:07:07.73,flashback,Mom,0000,0000,0000,,Agora nós vamos ter que limpar tudo isso.
 Dialogue: 0,0:07:08.38,0:07:10.65,flashback,Mom,0000,0000,0000,,É pior ainda que antes!
 Dialogue: 0,0:07:11.00,0:07:13.44,flashback italic,Mik,0000,0000,0000,,É pior ainda que antes!
-Dialogue: 0,0:07:16.96,0:07:21.72,flashback,Mom,0000,0000,0000,,Eu vou resolver isso, então por\N que não entra e vai se levar?
+Dialogue: 0,0:07:16.96,0:07:21.72,flashback,Mom,0000,0000,0000,,Eu vou resolver isso, então por\N que não entra e vai se lavar?
 Dialogue: 0,0:07:27.55,0:07:29.84,flashback italic,Mik,0000,0000,0000,,É pior ainda que antes.
 Dialogue: 0,0:07:33.08,0:07:35.56,flashback italic,Mik,0000,0000,0000,,É pior ainda que antes.
 Dialogue: 0,0:07:35.56,0:07:36.81,flashback italic,Mik,0000,0000,0000,,É pior ainda...
@@ -131,6 +134,7 @@ Dialogue: 0,0:08:13.15,0:08:14.30,Main Dialogue,Wom,0000,0000,0000,,Tachibana-sa
 Dialogue: 0,0:08:15.07,0:08:16.61,Main Dialogue,Wom,0000,0000,0000,,Um presente.
 Dialogue: 0,0:08:17.26,0:08:18.39,Main Dialogue,Dad,0000,0000,0000,,Obrigado.
 Dialogue: 0,0:08:26.19,0:08:31.03,title,Yuz,0000,0000,0000,,{\fad(400,1)\c&H3D6DF8&\3c&HEAEAEA&}Nada Supera a Gentileza do Papai
+Dialogue: 0,0:08:31.03,0:08:33.49,Sign,Sign,0000,0000,0000,,Fim da tarde
 Dialogue: 0,0:08:40.19,0:08:41.70,Main Dialogue,Mom,0000,0000,0000,,Um bolinho de feijão de uma terma!
 Dialogue: 0,0:08:41.70,0:08:42.86,Main Dialogue,Mom,0000,0000,0000,,Alguém trouxe de presente de uma viagem?
 Dialogue: 0,0:08:42.86,0:08:43.45,Main Dialogue,Dad,0000,0000,0000,,Sim.
@@ -213,7 +217,7 @@ Dialogue: 0,0:13:35.33,0:13:38.79,Main Dialogue,Mom,0000,0000,0000,,A rosa verme
 Dialogue: 0,0:13:36.84,0:13:38.79,Italic,Mik,0000,0000,0000,,{\an8}Você não viu de novo.
 Dialogue: 0,0:13:38.79,0:13:41.25,Main Dialogue,miktxt,0000,0000,0000,,O papai é mesmo gentil!
 Dialogue: 0,0:13:54.31,0:13:55.89,Main Dialogue,mik,0000,0000,0000,,Papai, você está bem?
-Dialogue: 0,0:13:55.89,0:14:00.52,Main Dialogue,Mom,0000,0000,0000,,Onde está a outra metade dessa par?
+Dialogue: 0,0:13:55.89,0:14:00.52,Main Dialogue,Mom,0000,0000,0000,,Onde está a outra metade desse par?
 Dialogue: 0,0:14:01.07,0:14:03.75,Main Dialogue,Mom,0000,0000,0000,,O que você estava fazendo com essa meia?
 Dialogue: 0,0:14:03.75,0:14:05.42,Main Dialogue,Mom,0000,0000,0000,,Me entregue isso logo.
 Dialogue: 0,0:14:06.20,0:14:09.16,Main Dialogue,Miktxt,0000,0000,0000,,O papai é mesmo gentil!
@@ -328,6 +332,8 @@ Dialogue: 0,0:21:23.00,0:21:27.40,Main Dialogue,Sud,0000,0000,0000,,Só derramar
 Dialogue: 0,0:21:31.61,0:21:34.04,Main Dialogue,Sud,0000,0000,0000,,Depois corta bem no meio
 Dialogue: 0,0:21:34.04,0:21:36.49,Main Dialogue,Sud,0000,0000,0000,,e só olha o queijo escorrendo.
 Dialogue: 0,0:21:51.20,0:21:55.04,Atashinchi 8,txt,0001,0002,15,,{\an2}{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&H3D49F5&}Takkun Come Bastante
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&H20D944&}Escalando com Papai e Mamãe
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&HAC4797&}Mikan Esquece a Bola

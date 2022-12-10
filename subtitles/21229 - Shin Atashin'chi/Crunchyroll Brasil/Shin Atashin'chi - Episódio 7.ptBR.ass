@@ -26,8 +26,8 @@ Style: Atashinchi 6,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,
 Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
 Style: Atashinchi 9,Trebuchet MS,28,&H001B161E,&H000000FF,&H00F1EBDE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0010,0010,0130,1
 Style: Main Dialogue,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
-Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0100,0020,0010,1
-Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,9,0020,0100,0010,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -254,7 +254,7 @@ Dialogue: 0,0:15:01.97,0:15:03.20,Main Dialogue,Wom,0000,0000,0000,,Boa noite!
 Dialogue: 0,0:15:04.15,0:15:06.59,Main Dialogue,Guy,0000,0000,0000,,Hã? Você tem 45 anos?
 Dialogue: 0,0:15:07.24,0:15:10.80,Main Dialogue,Bar,0000,0000,0000,,Isso mesmo, faço 46 mês que vem.
 Dialogue: 0,0:15:11.02,0:15:12.82,Main Dialogue,Guy,0000,0000,0000,,Como você é jovem!
-Dialogue: 0,0:15:12.82,0:15:15.14,Main Dialogue,Guy,0000,0000,0000,,E você, Mako-chan? Você é o mais velho, não é?
+Dialogue: 0,0:15:12.82,0:15:15.14,Main Dialogue,Guy,0000,0000,0000,,E você, Mako-chan? Você é a mais velha, não é?
 Dialogue: 0,0:15:17.69,0:15:19.62,Main Dialogue,Guy,0000,0000,0000,,Mako-san, quantos anos você tem?
 Dialogue: 0,0:15:21.15,0:15:23.79,Main Dialogue,Mag,0000,0000,0000,,Não é educado perguntar \Na idade para uma mulher.
 Dialogue: 0,0:15:23.79,0:15:25.07,Main Dialogue,Mag,0000,0000,0000,,Desculpem a demora.
@@ -302,7 +302,7 @@ Dialogue: 0,0:17:36.58,0:17:40.12,Main Dialogue,Dad,0000,0000,0000,,Não é como
 Dialogue: 0,0:17:41.17,0:17:42.46,Main Dialogue,Guy,0000,0000,0000,,Falando de esconder coisas...
 Dialogue: 0,0:17:42.90,0:17:43.99,Main Dialogue,Guy,0000,0000,0000,,Uma vez num jantar de trabalho,
 Dialogue: 0,0:17:43.99,0:17:47.60,Main Dialogue,Guy,0000,0000,0000,,eles serviram essa coisa. Cogumelos \NMatsutake e sargo envoltos em yuba.
-Dialogue: 0,0:17:47.92,0:17:52.92,Main Dialogue,Guy,0000,0000,0000,,Como era enrolados, eu não conseguia\N nem ver o cogumelo nem o peixe.
+Dialogue: 0,0:17:47.92,0:17:52.92,Main Dialogue,Guy,0000,0000,0000,,Como eram enrolados, eu não conseguia\N nem ver o cogumelo nem o peixe.
 Dialogue: 0,0:17:52.92,0:17:55.64,Main Dialogue,Guy,0000,0000,0000,,Me senti trapaceado.
 Dialogue: 0,0:17:55.96,0:17:58.54,Main Dialogue,Mag,0000,0000,0000,,Então você está dizendo que \Npreferiria um pouco de franqueza?
 Dialogue: 0,0:17:58.54,0:18:00.39,Main Dialogue,Guy,0000,0000,0000,,É bom demais para enrolar!
@@ -352,7 +352,7 @@ Dialogue: 0,0:20:08.38,0:20:11.56,Signs - Copy (2),Text,0000,0000,0000,,Idade do
 Dialogue: 0,0:20:08.38,0:20:11.56,Signs - Copy (2),Text,0000,0000,0000,,Seção Examinada - 5
 Dialogue: 0,0:20:08.65,0:20:11.56,Main Dialogue,Doc,0000,0000,0000,,Você tem a estrutura óssea\N de alguém de 80 anos.
 Dialogue: 0,0:20:14.07,0:20:17.44,Main Dialogue,Guy,0000,0000,0000,,Ter eles dizendo isso tão francamente \Nassim realmente tira sua vontade de viver.
-Dialogue: 0,0:20:20.42,0:20:23.03,Main Dialogue,Dad,0000,0000,0000,,Os número são tão francos.
+Dialogue: 0,0:20:20.42,0:20:23.03,Main Dialogue,Dad,0000,0000,0000,,Os números são tão francos.
 Dialogue: 0,0:20:24.20,0:20:27.37,Main Dialogue,mag,0000,0000,0000,,Não são? Por isso os números de um exame...
 Dialogue: 0,0:20:27.84,0:20:30.83,Signs - Copy (2),txt,0000,0000,0000,,Colesterol       {\c&HAD5F5F&\3c&HFBE2DB&}Curtir!
 Dialogue: 0,0:20:27.84,0:20:30.83,Signs - Copy (2),txt,0000,0000,0000,,Pressão Sanguínea       {\c&HAD5F5F&\3c&HFBE2DB&}Curtir!
@@ -389,7 +389,7 @@ Dialogue: 0,0:21:51.82,0:21:55.04,Atashinchi 11,txt,0000,0000,0000,,{\fad(400,1)
 Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,Próximo
 Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&H9839E3&}Puxe esse Cabelo Branco
-Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HD59F13&}Yuzu não é bom em ser Independente
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HD59F13&}Yuzu não é bom em depender dos outros
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H017AEA&}O que o Papai viu na Mamãe?
 Dialogue: 0,0:22:55.41,0:22:57.39,Main Dialogue,mik,0000,0000,0000,,No próximo episódio de Novo Atashinchi:
 Dialogue: 0,0:22:57.39,0:22:59.49,Main Dialogue,mik,0000,0000,0000,,"Puxe esse Cabelo Branco"\N e outros dois episódios.

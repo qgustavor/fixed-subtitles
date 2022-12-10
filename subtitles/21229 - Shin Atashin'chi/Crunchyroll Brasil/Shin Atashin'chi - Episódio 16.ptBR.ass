@@ -40,6 +40,8 @@ Style: Atashinchi 10,Trebuchet MS,28,&H007551F1,&H000000FF,&H00F1EBDE,&H00000000
 Style: Atashinchi 11,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00242424,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,3,0110,0030,0070,1
 Style: Atashinchi 14,Trebuchet MS,28,&H001B161E,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,0110,0060,0080,1
 Style: title,Comic Sans MS,30,&H00F36ADC,&H000000FF,&H00B63D88,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0100,1
+Style: Next,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,28,1,0,0,7,0145,0020,0045,1
+Style: Next 2,Arial,20,&H00433466,&H000000FF,&H00C2CFF8,&H00000000,-1,0,0,0,100,100,0,-28,1,0,0,9,0020,0155,0037,1
 Style: Next title 1,Comic Sans MS,26,&H000985FB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0130,1
 Style: Next title 2,Comic Sans MS,26,&H0033D047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H00D59B0D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
@@ -120,7 +122,7 @@ Dialogue: 0,0:05:19.37,0:05:20.75,Main Dialogue,Dad,0000,0000,0000,,B-Bingo!
 Dialogue: 0,0:05:23.05,0:05:24.07,Main Dialogue,Ann,0000,0000,0000,,Pode me dizer o seu nome?
 Dialogue: 0,0:05:24.07,0:05:25.22,Main Dialogue,Dad,0000,0000,0000,,Eu sou o Tachibana.
 Dialogue: 0,0:05:25.59,0:05:28.48,Main Dialogue,Ann,0000,0000,0000,,Então, Tachibana-san, você acabou de ganhar
-Dialogue: 0,0:05:28.48,0:05:31.55,Main Dialogue,Ann,0000,0000,0000,,a máquina de massagens nos pés {\i1}Ashimomi{\i0}!
+Dialogue: 0,0:05:28.48,0:05:31.55,Main Dialogue,Ann,0000,0000,0000,,a máquina de massagens nos pés Ashimomi!
 Dialogue: 0,0:05:35.08,0:05:36.71,Main Dialogue,Ann,0000,0000,0000,,Parabéns!
 Dialogue: 0,0:05:37.13,0:05:37.85,Main Dialogue,Dad,0000,0000,0000,,Obrigado.
 Dialogue: 0,0:05:39.20,0:05:44.60,flashback,Mom,0000,0000,0000,,Eu queria mesmo essa máquina de massagem...
@@ -233,7 +235,7 @@ Dialogue: 0,0:10:52.15,0:10:54.30,Main Dialogue,Wait,0000,0000,0000,,Você devia
 Dialogue: 0,0:10:54.30,0:10:57.76,Main Dialogue,Wait,0000,0000,0000,,Os restaurantes fazem sugestões que eles\N acham que vão deixar os clientes felizes!
 Dialogue: 0,0:10:57.99,0:10:59.97,Main Dialogue,Wait,0000,0000,0000,,Você devia ter seguido o plano.
 Dialogue: 0,0:11:00.37,0:11:01.18,Main Dialogue,Dad,0000,0000,0000,,Entendo.
-Dialogue: 0,0:11:03.03,0:11:05.64,Main Dialogue,Hiro,0000,0000,0000,,Será que isso também foi de\N acordo com o planos deles?
+Dialogue: 0,0:11:03.03,0:11:05.64,Main Dialogue,Hiro,0000,0000,0000,,Será que isso também foi de\N acordo com os planos deles?
 Dialogue: 0,0:11:06.00,0:11:09.85,Main Dialogue,Hiro,0000,0000,0000,,As lojas de conveniências sempre tem sorteios.
 Dialogue: 0,0:11:09.85,0:11:10.85,Signs,Box,0000,0000,0000,,Grande Sorte a cada 500 ienes
 Dialogue: 0,0:11:12.82,0:11:13.52,Signs - Copy (2),Text,0000,0000,0000,,Total 428 ienes
@@ -473,6 +475,8 @@ Dialogue: 0,0:21:46.11,0:21:47.73,Italic,mom,0000,0000,0000,,Força!
 Dialogue: 0,0:21:48.13,0:21:50.06,Italic,mom,0000,0000,0000,,Força!
 Dialogue: 0,0:21:50.06,0:21:52.37,Italic,mom,0000,0000,0000,,Força!
 Dialogue: 0,0:21:52.37,0:21:55.04,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
+Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
+Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HA84892&}O Festival de Jogar Soja do Takkun
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HE9A71B&}Mikan é Grossa
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H343EE5&}O Incidente Horohoro
