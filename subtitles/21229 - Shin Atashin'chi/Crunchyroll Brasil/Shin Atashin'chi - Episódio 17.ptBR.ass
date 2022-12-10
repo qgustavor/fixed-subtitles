@@ -47,7 +47,7 @@ Dialogue: 0,0:00:00.00,0:00:00.00,Main Dialogue,Yuz,0000,0000,0000,,Uma 3LDK...
 Dialogue: 0,0:00:55.57,0:00:58.03,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
 Dialogue: 0,0:00:58.61,0:01:00.23,Main Dialogue,Mom,0000,0000,0000,,Muito obrigada.
 Dialogue: 0,0:01:00.23,0:01:01.64,Main Dialogue,Mom,0000,0000,0000,,Não foi nada.
-Dialogue: 0,0:01:01.64,0:01:05.93,Main Dialogue,Mom,0000,0000,0000,,Tazinho, vamos brincar \Njuntos até sua mãe voltar.
+Dialogue: 0,0:01:01.64,0:01:05.93,Main Dialogue,Mom,0000,0000,0000,,Takkun, vamos brincar \Njuntos até sua mãe voltar.
 Dialogue: 0,0:01:06.89,0:01:08.54,Main Dialogue,Mom,0000,0000,0000,,O que você gostaria de fazer?
 Dialogue: 0,0:01:09.70,0:01:11.23,Main Dialogue,Tak,0000,0000,0000,,Eu quero sair!
 Dialogue: 0,0:01:11.73,0:01:13.01,Main Dialogue,Mom,0000,0000,0000,,Você pode brincar lá fora outra hora.
@@ -59,12 +59,12 @@ Dialogue: 0,0:01:20.25,0:01:21.45,Main Dialogue,Tak,0000,0000,0000,,Eu quero sai
 Dialogue: 0,0:01:21.45,0:01:22.89,Main Dialogue,Yuz,0000,0000,0000,,Voltei.
 Dialogue: 0,0:01:23.43,0:01:24.38,Main Dialogue,Tak,0000,0000,0000,,Mano!
 Dialogue: 0,0:01:24.38,0:01:25.56,Main Dialogue,Mom,0000,0000,0000,,Bem na hora!
-Dialogue: 0,0:01:25.56,0:01:27.85,Main Dialogue,Mom,0000,0000,0000,,Yuzinho, por que não leva o Tazinho lá fora?
+Dialogue: 0,0:01:25.56,0:01:27.85,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan, por que não leva o Takkun lá fora?
 Dialogue: 0,0:01:27.86,0:01:28.75,Main Dialogue,Yuz,0000,0000,0000,,Hã?
-Dialogue: 0,0:01:29.65,0:01:34.57,title,Titl,0000,0000,0000,,{\fad(400,1)\c&HFFFFFF&\3c&H7F6D5C&}O Festival de Jogar Soja do Tazinho
+Dialogue: 0,0:01:29.65,0:01:34.57,title,Titl,0000,0000,0000,,{\fad(400,1)\c&HFFFFFF&\3c&H7F6D5C&}O Festival de Jogar Soja do Takkun
 Dialogue: 0,0:01:35.08,0:01:39.24,Main Dialogue,Tak,0000,0000,0000,,Robaron, vamos nos transformar!
 Dialogue: 0,0:01:37.67,0:01:39.24,Italic,Yuz,0000,0000,0000,,{\an8}Bem, acho que ainda estou livre.
-Dialogue: 0,0:01:41.68,0:01:42.67,Main Dialogue,Yuz,0000,0000,0000,,Certo, Tazinho.
+Dialogue: 0,0:01:41.68,0:01:42.67,Main Dialogue,Yuz,0000,0000,0000,,Certo, Takkun.
 Dialogue: 0,0:01:42.67,0:01:43.70,Main Dialogue,Yuz,0000,0000,0000,,Do que você quer brincar?
 Dialogue: 0,0:01:45.69,0:01:46.66,Main Dialogue,Tak,0000,0000,0000,,Vamos brincar de pegar!
 Dialogue: 0,0:01:46.98,0:01:50.38,Main Dialogue,Yuz,0000,0000,0000,,Claro, vamos jogar "pedra, papel ou tesoura"\N para ver quem vai ser o demônio.
@@ -77,7 +77,7 @@ Dialogue: 0,0:02:04.79,0:02:05.93,Main Dialogue,Tak,0000,0000,0000,,Eu também q
 Dialogue: 0,0:02:06.33,0:02:07.39,Main Dialogue,Yuz,0000,0000,0000,,Como assim?
 Dialogue: 0,0:02:07.97,0:02:10.05,Main Dialogue,Tak,0000,0000,0000,,Sabe,
 Dialogue: 0,0:02:11.02,0:02:15.16,Main Dialogue,Tak,0000,0000,0000,,o demônio tem chifres e dentes pontudos.\N Ele é bem grande, bem forte e...
-Dialogue: 0,0:02:12.48,0:02:13.94,Show Title 1,Sing,0000,0000,0000,,{\fad(400,1)}Sr. Demônio é Grandemente Grande
+Dialogue: 0,0:02:12.48,0:02:13.94,Show Title 1,Sing,0000,0000,0000,,{\fad(400,1)}Demônio-san é Grandemente Grande
 Dialogue: 0,0:02:15.16,0:02:17.28,Main Dialogue,Tak,0000,0000,0000,,Ele é mesmo maneiro!
 Dialogue: 0,0:02:17.61,0:02:19.77,Main Dialogue,Tak,0000,0000,0000,,Eu quero ser o demônio também!
 Dialogue: 0,0:02:19.77,0:02:22.42,Main Dialogue,Tak,0000,0000,0000,,Você é um demônio de que cor?
@@ -118,7 +118,7 @@ Dialogue: 0,0:03:28.16,0:03:28.85,Main Dialogue,Tak,0000,0000,0000,,Não!
 Dialogue: 0,0:03:29.38,0:03:30.87,Main Dialogue,Tak,0000,0000,0000,,Estou usando isso!
 Dialogue: 0,0:03:31.78,0:03:32.90,Main Dialogue,Tak,0000,0000,0000,,Não!
 Dialogue: 0,0:03:34.27,0:03:35.62,Main Dialogue,Tak,0000,0000,0000,,É meu!
-Dialogue: 0,0:03:36.27,0:03:38.15,Main Dialogue,Yuz,0000,0000,0000,,Tazinho, não dá para \Nemprestar um pouco para ele?
+Dialogue: 0,0:03:36.27,0:03:38.15,Main Dialogue,Yuz,0000,0000,0000,,Takkun, não dá para \Nemprestar um pouco para ele?
 Dialogue: 0,0:03:38.15,0:03:39.32,Main Dialogue,Yuz,0000,0000,0000,,Vamos dividir!
 Dialogue: 0,0:03:39.32,0:03:41.36,Main Dialogue,Tak,0000,0000,0000,,Não, é minha!
 Dialogue: 0,0:03:42.08,0:03:43.03,Italic,Yuz,0000,0000,0000,,Sério?
@@ -149,7 +149,7 @@ Dialogue: 0,0:04:54.85,0:04:56.86,Main Dialogue,Yuz,0000,0000,0000,,Sem problema
 Dialogue: 0,0:04:56.86,0:04:58.77,Main Dialogue,Mom,0000,0000,0000,,Vocês gostariam de ficar com isto?
 Dialogue: 0,0:04:57.56,0:04:58.77,Cookie,Wrap,0000,0000,0000,,Cookie
 Dialogue: 0,0:05:00.88,0:05:02.71,Main Dialogue,Yuz,0000,0000,0000,,Muito obrigado.
-Dialogue: 0,0:05:02.71,0:05:05.17,Main Dialogue,Mom,0000,0000,0000,,Mizinho, você já deu tchau para os seus amigos?
+Dialogue: 0,0:05:02.71,0:05:05.17,Main Dialogue,Mom,0000,0000,0000,,Mii-kun, você já deu tchau para os seus amigos?
 Dialogue: 0,0:05:05.17,0:05:06.35,Main Dialogue,Baby,0000,0000,0000,,Tchau!
 Dialogue: 0,0:05:06.35,0:05:07.04,Main Dialogue,Mom,0000,0000,0000,,Até mais.
 Dialogue: 0,0:05:07.04,0:05:08.20,Main Dialogue,Tak,0000,0000,0000,,Tchauzinho!
@@ -167,7 +167,7 @@ Dialogue: 0,0:05:44.08,0:05:46.19,Main Dialogue,Yuz,0000,0000,0000,,Talvez seja 
 Dialogue: 0,0:05:46.58,0:05:48.30,Main Dialogue,Tak,0000,0000,0000,,Os demônios têm que ir para fora?
 Dialogue: 0,0:05:48.30,0:05:48.95,Main Dialogue,Yuz,0000,0000,0000,,Hã?
 Dialogue: 0,0:05:49.69,0:05:52.66,Main Dialogue,Tak,0000,0000,0000,,Os demônios não podem voltar para casa?
-Dialogue: 0,0:05:53.16,0:05:54.29,Main Dialogue,Yuz,0000,0000,0000,,Tazinho...
+Dialogue: 0,0:05:53.16,0:05:54.29,Main Dialogue,Yuz,0000,0000,0000,,Takkun...
 Dialogue: 0,0:05:54.91,0:05:56.73,Main Dialogue,Guy,0000,0000,0000,,Demônios, fora!
 Dialogue: 0,0:05:56.73,0:05:58.36,Main Dialogue,Guy,0000,0000,0000,,Sorte, dentro!
 Dialogue: 0,0:05:59.10,0:06:01.17,Main Dialogue,Yuz,0000,0000,0000,,Não, não é bem assim.
@@ -188,7 +188,7 @@ Dialogue: 0,0:06:54.88,0:06:56.03,Main Dialogue,Yuz,0000,0000,0000,,Chegamos!
 Dialogue: 0,0:06:57.57,0:06:59.29,Main Dialogue,Mom,0000,0000,0000,,Bem-vindos!
 Dialogue: 0,0:07:01.56,0:07:02.66,Main Dialogue,Mom,0000,0000,0000,,Assustei vocês?
 Dialogue: 0,0:07:02.66,0:07:04.77,Main Dialogue,Mom,0000,0000,0000,,Eles estavam vendendo essas máscaras em\N comemoração ao começo da primavera.
-Dialogue: 0,0:07:05.08,0:07:07.40,Main Dialogue,Mom,0000,0000,0000,,Tazinho, quer tirar os \Ndemônios de casa conosco?
+Dialogue: 0,0:07:05.08,0:07:07.40,Main Dialogue,Mom,0000,0000,0000,,Takkun, quer tirar os \Ndemônios de casa conosco?
 Dialogue: 0,0:07:07.40,0:07:10.45,Main Dialogue,Mom,0000,0000,0000,,Você tira os demônios atirando soja neles!
 Dialogue: 0,0:07:10.45,0:07:12.39,Main Dialogue,Mom,0000,0000,0000,,Demônios, fora!
 Dialogue: 0,0:07:13.43,0:07:17.16,Main Dialogue,Tak,0000,0000,0000,,Demônios, fora... Isso \Nsignifica grandes aventuras!
@@ -221,7 +221,7 @@ Dialogue: 0,0:08:17.72,0:08:19.19,Main Dialogue,shi,0000,0000,0000,,Totalmente.
 Dialogue: 0,0:08:19.19,0:08:20.89,Main Dialogue,Girl,0000,0000,0000,,Totalmente, não acha?
 Dialogue: 0,0:08:21.60,0:08:23.31,Italic,mik,0000,0000,0000,,Totalmente?
 Dialogue: 0,0:08:24.87,0:08:26.55,Main Dialogue,Girl,0000,0000,0000,,Totalmente, né.
-Dialogue: 0,0:08:28.83,0:08:32.53,Main Dialogue,Mik,0000,0000,0000,,Então, Shimi, o que a Yamada quis dizer quando
+Dialogue: 0,0:08:28.83,0:08:32.53,Main Dialogue,Mik,0000,0000,0000,,Então, Shimi-chan, o que a Yamada-san quis dizer quando
 Dialogue: 0,0:08:33.61,0:08:36.70,Main Dialogue,Mik,0000,0000,0000,,achou que tudo era sem graça?
 Dialogue: 0,0:08:37.30,0:08:40.04,Main Dialogue,Shi,0000,0000,0000,,Quer dizer, não é algo que eu possa explicar.
 Dialogue: 0,0:08:40.04,0:08:43.15,Main Dialogue,Mik,0000,0000,0000,,Ela não estava sendo nem um \Npouco clara. Não entendi nada.
@@ -260,11 +260,11 @@ Dialogue: 0,0:10:22.67,0:10:23.69,Main Dialogue,Mik,0000,0000,0000,,Ah, sim.
 Dialogue: 0,0:10:23.69,0:10:27.72,Main Dialogue,Mik,0000,0000,0000,,Eu dei para uma das alunas mais novas\N que fez aniversário. Ela adorou.
 Dialogue: 0,0:10:30.59,0:10:33.05,Main Dialogue,Shi,0000,0000,0000,,Você deu mesmo para outra pessoa?
 Dialogue: 0,0:10:33.05,0:10:33.57,Main Dialogue,Mik,0000,0000,0000,,Hã?
-Dialogue: 0,0:10:34.11,0:10:38.03,Italic,Mik,0000,0000,0000,,Será que a Shimi queria mesmo aquele urso?
+Dialogue: 0,0:10:34.11,0:10:38.03,Italic,Mik,0000,0000,0000,,Será que a Shimi-chan queria mesmo aquele urso?
 Dialogue: 0,0:10:39.40,0:10:40.93,Main Dialogue,Shi,0000,0000,0000,,Temos que ir!
 Dialogue: 0,0:10:41.30,0:10:42.69,Main Dialogue,Mik,0000,0000,0000,,E-Espere!
-Dialogue: 0,0:10:47.86,0:10:49.32,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi!
-Dialogue: 0,0:10:49.32,0:10:51.19,Main Dialogue,Mik,0000,0000,0000,,Shimi, me desculpe.
+Dialogue: 0,0:10:47.86,0:10:49.32,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi-chan!
+Dialogue: 0,0:10:49.32,0:10:51.19,Main Dialogue,Mik,0000,0000,0000,,Shimi-chan, me desculpe.
 Dialogue: 0,0:10:51.19,0:10:52.20,Main Dialogue,Mik,0000,0000,0000,,Você queria mesmo aquele urso?
 Dialogue: 0,0:10:52.21,0:10:53.21,Main Dialogue,Mik,0000,0000,0000,,Você queria mesmo?
 Dialogue: 0,0:10:55.25,0:10:56.51,Main Dialogue,Mik,0000,0000,0000,,Queria?
@@ -278,7 +278,7 @@ Dialogue: 0,0:11:12.17,0:11:14.11,Main Dialogue,Bird,0000,0000,0000,,Grossa! Gro
 Dialogue: 0,0:11:14.69,0:11:18.53,Main Dialogue,Mik,0000,0000,0000,,É verdade, eu sou mesmo uma grossa.
 Dialogue: 0,0:11:18.53,0:11:22.05,Main Dialogue,Mik,0000,0000,0000,,Mas se eu tentar adivinhar, eu erro.
 Dialogue: 0,0:11:23.28,0:11:25.28,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
-Dialogue: 0,0:11:26.20,0:11:27.72,Main Dialogue,Girl,0000,0000,0000,,Mikan!
+Dialogue: 0,0:11:26.20,0:11:27.72,Main Dialogue,Girl,0000,0000,0000,,Mikan-senpai!
 Dialogue: 0,0:11:28.38,0:11:30.61,Main Dialogue,Mik,0000,0000,0000,,Sim, Nitta, o que foi?
 Dialogue: 0,0:11:30.61,0:11:35.42,Main Dialogue,Girl,0000,0000,0000,,Consegui dois ingressos para o cinema e \Nqueria saber se você gostaria de ir comigo.
 Dialogue: 0,0:11:35.71,0:11:36.96,Main Dialogue,Girl,0000,0000,0000,,Aqui estão.
@@ -289,7 +289,7 @@ Dialogue: 0,0:11:41.59,0:11:42.84,Italic,Mik,0000,0000,0000,,A Nitta tem um namo
 Dialogue: 0,0:11:43.61,0:11:44.98,Italic,Mik,0000,0000,0000,,Ou será que eles terminaram?
 Dialogue: 0,0:11:45.50,0:11:46.69,Italic,Mik,0000,0000,0000,,Será isso?
 Dialogue: 0,0:11:47.02,0:11:49.55,Main Dialogue,Birds,0000,0000,0000,,Só uma grossa perguntaria!
-Dialogue: 0,0:11:49.55,0:11:50.72,Main Dialogue,Nit,0000,0000,0000,,Mikan?
+Dialogue: 0,0:11:49.55,0:11:50.72,Main Dialogue,Nit,0000,0000,0000,,Senpai?
 Dialogue: 0,0:11:51.23,0:11:53.67,Main Dialogue,Mik,0000,0000,0000,,Ah, obrigada!
 Dialogue: 0,0:11:54.55,0:11:56.44,Main Dialogue,Girl,0000,0000,0000,,Ah, estou morrendo de fome!
 Dialogue: 0,0:11:56.44,0:11:58.66,Main Dialogue,Girl,0000,0000,0000,,Ei, querem passar no WcDonald's\N no caminho de volta?
@@ -363,7 +363,7 @@ Dialogue: 0,0:14:55.41,0:14:58.04,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}No
 Dialogue: 0,0:14:58.43,0:15:00.85,top,Mis,0000,0000,0000,,É tão difícil conseguir uma \Nreserva neste restaurante.
 Dialogue: 0,0:14:58.75,0:15:04.80,Lunch meeting,Text,0000,0000,0000,,{\fad(600,600)}Almoço no Madame Déjeuner
 Dialogue: 0,0:15:00.85,0:15:02.47,top,Mis,0000,0000,0000,,Nós estamos com muita sorte hoje.
-Dialogue: 0,0:15:02.47,0:15:04.20,top,Wom,0000,0000,0000,,Graças a você, Misumi.
+Dialogue: 0,0:15:02.47,0:15:04.20,top,Wom,0000,0000,0000,,Graças a você, Misumi-san.
 Dialogue: 0,0:15:04.20,0:15:05.50,top,Mom,0000,0000,0000,,Estou tão empolgada!
 Dialogue: 0,0:15:05.76,0:15:08.47,Main Dialogue,toy,0000,0000,0000,,Todos aqui parecem celebridades.
 Dialogue: 0,0:15:08.78,0:15:11.62,Main Dialogue,San,0000,0000,0000,,Bem, este lugar não é tão chique {\i1}assim{\i0}.
@@ -381,7 +381,7 @@ Dialogue: 0,0:15:36.39,0:15:37.82,Main Dialogue,Miz,0000,0000,0000,,Eu não devi
 Dialogue: 0,0:15:37.82,0:15:39.63,Main Dialogue,Mom,0000,0000,0000,,Bem, tem que ser "Sou eu."
 Dialogue: 0,0:15:39.63,0:15:41.61,Main Dialogue,toy,0000,0000,0000,,Isso. Se falar de outra forma parece errado.
 Dialogue: 0,0:15:41.61,0:15:45.30,Main Dialogue,Mizu,0000,0000,0000,,Nós estamos em um restaurante tão bonito! \NDevíamos parar de falar em crimes.
-Dialogue: 0,0:15:45.30,0:15:48.10,Main Dialogue,San,0000,0000,0000,,Você está certa, Sra. Mizushima.
+Dialogue: 0,0:15:45.30,0:15:48.10,Main Dialogue,San,0000,0000,0000,,Você está certa, Mizushima-san.
 Dialogue: 0,0:15:48.10,0:15:49.67,Main Dialogue,Mom,0000,0000,0000,,Nós nos esquecemos.
 Dialogue: 0,0:15:51.88,0:15:56.56,title,Titl,0000,0000,0000,,{\fad(400,1)}{\c&H4B7AE7&\3c&HD8D1D5&}O Incidente da Galinha-D'Angola
 Dialogue: 0,0:15:56.88,0:15:58.02,Main Dialogue,toy,0000,0000,0000,,Isso me lembra...
@@ -393,7 +393,7 @@ Dialogue: 0,0:16:10.65,0:16:13.12,Main Dialogue,Miz,0000,0000,0000,,se você tiv
 Dialogue: 0,0:16:20.81,0:16:23.25,Italic,san,0000,0000,0000,,Qual o problema dessa gente?
 Dialogue: 0,0:16:25.73,0:16:28.21,Main Dialogue,Miz,0000,0000,0000,,Vamos mudar o assunto.
 Dialogue: 0,0:16:28.57,0:16:30.57,Main Dialogue,toy,0000,0000,0000,,Ah, me desculpe.
-Dialogue: 0,0:16:32.87,0:16:35.14,Main Dialogue,Miz,0000,0000,0000,,Sra. Tachibana, você está bem?
+Dialogue: 0,0:16:32.87,0:16:35.14,Main Dialogue,Miz,0000,0000,0000,,Tachibana-san, você está bem?
 Dialogue: 0,0:16:35.14,0:16:37.18,Main Dialogue,Mom,0000,0000,0000,,Estou bem, obrigada.
 Dialogue: 0,0:16:37.69,0:16:38.64,Main Dialogue,Mom,0000,0000,0000,,Fui pega pela fraude da tosse.
 Dialogue: 0,0:16:38.97,0:16:40.68,Main Dialogue,Miz,0000,0000,0000,,O quê?!
@@ -482,7 +482,7 @@ Dialogue: 0,0:20:03.21,0:20:04.28,Main Dialogue,mom,0000,0000,0000,,Harry Potter
 Dialogue: 0,0:20:05.14,0:20:05.89,Main Dialogue,toy,0000,0000,0000,,Roberto Carlos!
 Dialogue: 0,0:20:07.18,0:20:08.60,Main Dialogue,miz,0000,0000,0000,,Camarão com maionese!
 Dialogue: 0,0:20:09.37,0:20:10.72,Main Dialogue,toy,0000,0000,0000,,Polvo com Wasabi!
-Dialogue: 0,0:20:11.60,0:20:13.11,Main Dialogue,mom,0000,0000,0000,,Sra. Misumi, sua vez.
+Dialogue: 0,0:20:11.60,0:20:13.11,Main Dialogue,mom,0000,0000,0000,,Misumi-san, sua vez.
 Dialogue: 0,0:20:14.76,0:20:16.15,Main Dialogue,mis,0000,0000,0000,,Benegrip?
 Dialogue: 0,0:20:17.66,0:20:18.61,Main Dialogue,miz,0000,0000,0000,,Vida dos Sonhos!
 Dialogue: 0,0:20:19.79,0:20:21.10,Main Dialogue,toy,0000,0000,0000,,Suco de Tomate!
@@ -499,7 +499,7 @@ Dialogue: 0,0:20:44.51,0:20:46.68,Atashinchi 3,txt,0000,0000,0000,,{\fad(400,1)}
 Dialogue: 0,0:20:47.00,0:20:49.22,Main Dialogue,mis,0000,0000,0000,,A conta, por favor.
 Dialogue: 0,0:20:50.75,0:20:52.23,Main Dialogue,ser,0000,0000,0000,,Aqui está.
 Dialogue: 0,0:20:52.23,0:20:54.30,Main Dialogue,mis,0000,0000,0000,,Eu me diverti tanto hoje, então...
-Dialogue: 0,0:20:54.30,0:20:56.02,Main Dialogue,miz,0000,0000,0000,,Essa não, Sra. Misumi.
+Dialogue: 0,0:20:54.30,0:20:56.02,Main Dialogue,miz,0000,0000,0000,,Essa não, Misumi-san.
 Dialogue: 0,0:20:56.02,0:20:57.54,Main Dialogue,toy,0000,0000,0000,,É mesmo.
 Dialogue: 0,0:20:57.54,0:20:59.15,Main Dialogue,mom,0000,0000,0000,,Acho que eu devia pagar.
 Dialogue: 0,0:20:59.15,0:21:00.46,Main Dialogue,mis,0000,0000,0000,,Não, não.

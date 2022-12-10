@@ -87,11 +87,11 @@ Dialogue: 0,0:02:59.60,0:03:00.09,Signs,Text,0000,0000,0000,,{\c&H25B3F2&\bord0}
 Dialogue: 0,0:03:03.91,0:03:05.20,Main Dialogue,kaw,0000,0000,0000,,Você ouviu?
 Dialogue: 0,0:03:05.44,0:03:07.16,Main Dialogue,Both,0000,0000,0000,,Que graça!
 Dialogue: 0,0:03:07.16,0:03:12.12,Main Dialogue,Text,0000,0000,0000,,Escreva o nome dele no seu batom\N com uma agulha e depois use.
-Dialogue: 0,0:03:14.46,0:03:15.92,Signs,Text,0000,0000,0000,,Yuzuhiko Tachibana
+Dialogue: 0,0:03:14.46,0:03:15.92,Signs,Text,0000,0000,0000,,Tachibana Yuzuhiko
 Dialogue: 0,0:03:15.92,0:03:16.79,Main Dialogue,yam,0000,0000,0000,,Consegui!
 Dialogue: 0,0:03:16.92,0:03:17.88,Main Dialogue,kaw,0000,0000,0000,,Consegui.
-Dialogue: 0,0:03:18.62,0:03:20.28,Signs,chaps,0000,0000,0000,,{\an7}Yuzuhiko Tachibana
-Dialogue: 0,0:03:18.62,0:03:20.28,Signs,chaps,0000,0000,0000,,{\an9}Yuzuhiko Tachibana
+Dialogue: 0,0:03:18.62,0:03:20.28,Signs,chaps,0000,0000,0000,,{\an7}Tachibana Yuzuhiko
+Dialogue: 0,0:03:18.62,0:03:20.28,Signs,chaps,0000,0000,0000,,{\an9}Tachibana Yuzuhiko
 Dialogue: 0,0:03:19.19,0:03:20.63,Main Dialogue,yam,0000,0000,0000,,Você escreveu tão grande!
 Dialogue: 0,0:03:20.63,0:03:23.32,Main Dialogue,kaw,0000,0000,0000,,O desejo se realiza quando\N usar todo o batom, não é?
 Dialogue: 0,0:03:23.32,0:03:25.89,Main Dialogue,yam,0000,0000,0000,,Sim, então temos que ter\N muito cuidado para usar.
@@ -174,7 +174,7 @@ Dialogue: 0,0:08:09.99,0:08:10.80,Main Dialogue,Miz,0000,0000,0000,,É mesmo.
 Dialogue: 0,0:08:10.80,0:08:14.76,Signs,Text,0000,0000,0000,,{\c&HF3507C&\3c&HF8F8F8&}Promoção de Abertura
 Dialogue: 0,0:08:11.13,0:08:12.48,Main Dialogue,Mom,0000,0000,0000,,E parece que eles estão com\N uma promoção de abertura.
 Dialogue: 0,0:08:12.48,0:08:14.47,Main Dialogue,Mom,0000,0000,0000,,Vamos entrar!
-Dialogue: 0,0:08:15.10,0:08:19.77,title,Titl,0000,0000,0000,,{\fad(400,1)}Sra. Mizushima é Jovem
+Dialogue: 0,0:08:15.10,0:08:19.77,title,Titl,0000,0000,0000,,{\fad(400,1)}Mizushima-san é Jovem
 Dialogue: 0,0:08:20.39,0:08:21.89,Main Dialogue,Girl,0000,0000,0000,,Gostei muito disso.
 Dialogue: 0,0:08:21.89,0:08:23.23,Main Dialogue,Girl2,0000,0000,0000,,Que graça.
 Dialogue: 0,0:08:26.99,0:08:30.22,Main Dialogue,Miz,0000,0000,0000,,Acho que esta loja é \Npara pessoas mais jovens...
@@ -221,8 +221,8 @@ Dialogue: 0,0:11:00.84,0:11:05.58,Main Dialogue,Cut,0000,0000,0000,,Como você n
 Dialogue: 0,0:11:06.73,0:11:08.54,Main Dialogue,Cut,0000,0000,0000,,Ou assim?
 Dialogue: 0,0:11:08.54,0:11:09.56,Main Dialogue,Cut,0000,0000,0000,,O que acha?
 Dialogue: 0,0:11:10.65,0:11:12.92,Main Dialogue,Miz,0000,0000,0000,,Na revista são só jovens também!
-Dialogue: 0,0:11:12.92,0:11:14.29,Main Dialogue,Mom,0000,0000,0000,,Sra. Mizushima!
-Dialogue: 0,0:11:14.29,0:11:15.39,Main Dialogue,Miz,0000,0000,0000,,Sra. Tachibana!
+Dialogue: 0,0:11:12.92,0:11:14.29,Main Dialogue,Mom,0000,0000,0000,,Mizushima-san!
+Dialogue: 0,0:11:14.29,0:11:15.39,Main Dialogue,Miz,0000,0000,0000,,Tachibana-san!
 Dialogue: 0,0:11:15.39,0:11:17.94,Main Dialogue,Mom,0000,0000,0000,,Não me diga que você também tem um cupom?
 Dialogue: 0,0:11:18.14,0:11:19.55,Main Dialogue,Miz,0000,0000,0000,,Sim...
 Dialogue: 0,0:11:19.55,0:11:22.28,Main Dialogue,Mom,0000,0000,0000,,Parece que é outro \Nestabelecimento para jovens.
@@ -252,7 +252,7 @@ Dialogue: 0,0:12:54.18,0:12:55.49,Main Dialogue,Mom,0000,0000,0000,,Até mais!
 Dialogue: 0,0:12:55.49,0:12:56.77,Main Dialogue,Miz,0000,0000,0000,,Até!
 Dialogue: 0,0:13:03.74,0:13:05.43,Main Dialogue,Store,0000,0000,0000,,Seja bem-vinda!
 Dialogue: 0,0:13:06.45,0:13:08.72,Atashinchi,txt,0000,0000,0000,,{\an7}{\fad(400,1)}Novo Atashinchi
-Dialogue: 0,0:13:13.20,0:13:14.48,Main Dialogue,Mom,0000,0000,0000,,Sra. Mizushima?
+Dialogue: 0,0:13:13.20,0:13:14.48,Main Dialogue,Mom,0000,0000,0000,,Mizushima-san?
 Dialogue: 0,0:13:14.48,0:13:17.12,Main Dialogue,Mom,0000,0000,0000,,Você parece tão diferente hoje!
 Dialogue: 0,0:13:17.12,0:13:20.98,Main Dialogue,Miz,0000,0000,0000,,Comprei esse vestido \Nnaquela loja que nós fomos!
 Dialogue: 0,0:13:20.98,0:13:22.22,Main Dialogue,Mom,0000,0000,0000,,Ficou tão bem!
@@ -315,21 +315,21 @@ Dialogue: 0,0:16:15.74,0:16:17.66,Main Dialogue,Mom,0000,0000,0000,,Tenho que se
 Dialogue: 0,0:16:17.66,0:16:19.12,Main Dialogue,Miz,0000,0000,0000,,Certo.
 Dialogue: 0,0:16:19.30,0:16:20.55,Main Dialogue,Yuz,0000,0000,0000,,Já chega.
 Dialogue: 0,0:16:22.88,0:16:24.83,Atashinchi 2,txt,0000,0000,0000,,{\an4}{\fad(400,1)}Novo Atashinchi
-Dialogue: 0,0:16:25.17,0:16:27.78,Main Dialogue,Mom,0000,0000,0000,,A Sra. Mizushima me entende.
+Dialogue: 0,0:16:25.17,0:16:27.78,Main Dialogue,Mom,0000,0000,0000,,A Mizushima-san me entende.
 Dialogue: 0,0:16:28.15,0:16:29.90,Main Dialogue,Mom,0000,0000,0000,,Vou ser mais rigorosa!
 Dialogue: 0,0:16:30.55,0:16:33.01,Signs,Text,0000,0000,0000,,{\c&H5141D9&\3c&HFFFFFF&}Iogurte da Energia
 Dialogue: 0,0:16:34.66,0:16:38.68,Main Dialogue,Mom,0000,0000,0000,,De agora em diante, que cada\N um limpe a própria bunda.
 Dialogue: 0,0:16:35.98,0:16:38.68,Signs,txt,0000,0000,0000,,{\c&H7A50E1&\bord0}De agora em diante, que cada um limpe a própria bunda.
 Dialogue: 0,0:16:39.20,0:16:40.19,Main Dialogue,Mom,0000,0000,0000,,Começar!
 Dialogue: 0,0:16:48.98,0:16:49.82,Main Dialogue,Mom,0000,0000,0000,,O quê?
-Dialogue: 0,0:16:50.70,0:16:54.17,Main Dialogue,Mom,0000,0000,0000,,Yuzinho! Você não fechou direito a torneira!
+Dialogue: 0,0:16:50.70,0:16:54.17,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan! Você não fechou direito a torneira!
 Dialogue: 0,0:16:54.78,0:16:57.24,Main Dialogue,Mom,0000,0000,0000,,A torneira! Na cozinha!
 Dialogue: 0,0:16:57.55,0:17:00.33,Main Dialogue,Mom,0000,0000,0000,,Eu sei que eu sempre desliguei antes para você,
 Dialogue: 0,0:17:00.66,0:17:04.01,Main Dialogue,Mom,0000,0000,0000,,mas, de agora em diante, você vai\N ter que limpar a própria bunda!
 Dialogue: 0,0:17:07.37,0:17:08.75,Main Dialogue,Guy,0000,0000,0000,,Entrega!
 Dialogue: 0,0:17:08.98,0:17:10.26,Main Dialogue,Mom,0000,0000,0000,,Já vou!
 Dialogue: 0,0:17:10.26,0:17:11.46,Main Dialogue,Mom,0000,0000,0000,,O carimbo... Carimbo...
-Dialogue: 0,0:17:17.41,0:17:22.78,Main Dialogue,Mom,0000,0000,0000,,Yuzinho, não esqueça a torneira. De agora em \Ndiante, você vai ter que limpar a própria bunda.
+Dialogue: 0,0:17:17.41,0:17:22.78,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan, não esqueça a torneira. De agora em \Ndiante, você vai ter que limpar a própria bunda.
 Dialogue: 0,0:17:25.53,0:17:28.40,Main Dialogue,Yuz,0000,0000,0000,,Fechar a bunda?
 Dialogue: 0,0:17:34.52,0:17:39.66,Main Dialogue,Yuz,0000,0000,0000,,Ela não pode falar muito,\N já que faz tudo pela metade.
 Dialogue: 0,0:17:42.10,0:17:43.33,Main Dialogue,Yuz,0000,0000,0000,,Eu quero um travesseiro...

@@ -45,7 +45,7 @@ Dialogue: 0,0:01:09.58,0:01:12.25,Main Dialogue,Mom,0000,0000,0000,,O inverno es
 Dialogue: 0,0:01:13.63,0:01:15.59,Main Dialogue,Wom,0000,0000,0000,,Nunca pensei nisso antes,
 Dialogue: 0,0:01:16.05,0:01:19.18,Main Dialogue,Wom,0000,0000,0000,,mas você tem a testa mais\N brilhante que eu já vi.
 Dialogue: 0,0:01:20.12,0:01:24.66,Main Dialogue,Wom,0000,0000,0000,,É tão brilhante que eu chego a pensar \Nque tem uma fonte luminosa aí dentro.
-Dialogue: 0,0:01:24.66,0:01:27.02,Main Dialogue,Mom,0000,0000,0000,,Para com isso, Sra. Toyama.
+Dialogue: 0,0:01:24.66,0:01:27.02,Main Dialogue,Mom,0000,0000,0000,,Para com isso, Toyama-san.
 Dialogue: 0,0:01:27.02,0:01:28.56,Main Dialogue,Mom,0000,0000,0000,,Fica parecendo que sou uma lanterna.
 Dialogue: 0,0:01:28.86,0:01:32.25,Main Dialogue,Toy,0000,0000,0000,,Não foi isso que eu quis dizer.\N Tem um brilho em você.
 Dialogue: 0,0:01:32.25,0:01:35.31,Main Dialogue,Mom,0000,0000,0000,,Ah, para de dizer isso...
@@ -54,7 +54,7 @@ Dialogue: 0,0:01:44.22,0:01:47.45,flashback,Toy,0000,0000,0000,,Você tem a test
 Dialogue: 0,0:01:51.05,0:01:52.10,Main Dialogue,Mom,0000,0000,0000,,Acho que ela está certa.
 Dialogue: 0,0:01:52.10,0:01:56.14,Main Dialogue,Mom,0000,0000,0000,,Ninguém mais tem uma testa\N brilhante como a minha.
 Dialogue: 0,0:02:02.24,0:02:03.85,Main Dialogue,mom,0000,0000,0000,,Está brilhando!
-Dialogue: 0,0:02:10.80,0:02:12.94,Main Dialogue,Wom,0000,0000,0000,,Sra. Tachibana!
+Dialogue: 0,0:02:10.80,0:02:12.94,Main Dialogue,Wom,0000,0000,0000,,Tachibana-san!
 Dialogue: 0,0:02:13.42,0:02:15.05,Main Dialogue,Wom,0000,0000,0000,,Aqui! Aqui!
 Dialogue: 0,0:02:15.05,0:02:17.14,Main Dialogue,Wom,0000,0000,0000,,Nós vamos tirar uma foto!
 Dialogue: 0,0:02:17.14,0:02:18.90,Main Dialogue,Mom,0000,0000,0000,,Esperem por mim!
@@ -62,15 +62,15 @@ Dialogue: 0,0:02:19.66,0:02:21.12,Main Dialogue,Man,0000,0000,0000,,Certo, digam
 Dialogue: 0,0:02:22.37,0:02:24.32,Main Dialogue,Man,0000,0000,0000,,Depois disso eu tiro.
 Dialogue: 0,0:02:26.29,0:02:28.48,Main Dialogue,Man,0000,0000,0000,,Sim, xis!
 Dialogue: 0,0:02:27.46,0:02:29.43,italic,Mom,0000,0000,0000,,{\an8}Minha testa está brilhando!
-Dialogue: 0,0:02:30.75,0:02:32.26,Main Dialogue,Man,0000,0000,0000,,Uau, Sra. Tachibana.
+Dialogue: 0,0:02:30.75,0:02:32.26,Main Dialogue,Man,0000,0000,0000,,Uau, Tachibana-san.
 Dialogue: 0,0:02:32.26,0:02:34.00,Main Dialogue,Man,0000,0000,0000,,Você ficou ótima nessa foto.
 Dialogue: 0,0:02:34.00,0:02:35.00,Main Dialogue,Mom,0000,0000,0000,,Deixe-me ver.
 Dialogue: 0,0:02:35.77,0:02:36.96,Main Dialogue,Miz,0000,0000,0000,,É mesmo!
 Dialogue: 0,0:02:37.29,0:02:39.09,Main Dialogue,Wom,0000,0000,0000,,Você está mesmo brilhando!
 Dialogue: 0,0:02:39.09,0:02:41.21,Main Dialogue,Mom,0000,0000,0000,,Hã? É mesmo?
-Dialogue: 0,0:02:41.21,0:02:43.56,Main Dialogue,Miz,0000,0000,0000,,Você está brilhando, Sra. Tachibana!
+Dialogue: 0,0:02:41.21,0:02:43.56,Main Dialogue,Miz,0000,0000,0000,,Você está brilhando, Tachibana-san!
 Dialogue: 0,0:02:43.56,0:02:47.59,Main Dialogue,Mom,0000,0000,0000,,Sério? Ou vocês estão \Nzoando com a minha cara?
-Dialogue: 0,0:02:51.37,0:02:54.78,italic,mom,0000,0000,0000,,A Sra. Toyama me disse uma coisa muito boa.
+Dialogue: 0,0:02:51.37,0:02:54.78,italic,mom,0000,0000,0000,,A Toyama-san me disse uma coisa muito boa.
 Dialogue: 0,0:02:58.49,0:02:59.69,Main Dialogue,mom,0000,0000,0000,,Mikan?
 Dialogue: 0,0:02:59.69,0:03:00.99,Main Dialogue,Mik,0000,0000,0000,,Sim, o que foi?
 Dialogue: 0,0:03:02.10,0:03:05.45,Main Dialogue,Mom,0000,0000,0000,,Mantenha o brilho, sem importar a sua idade!
@@ -92,13 +92,13 @@ Dialogue: 0,0:03:49.29,0:03:50.97,Main Dialogue,Mik,0000,0000,0000,,Eu devia des
 Dialogue: 0,0:03:51.77,0:03:53.04,Main Dialogue,Mik,0000,0000,0000,,Ué? Não está ligado.
 Dialogue: 0,0:03:53.64,0:03:55.50,Main Dialogue,Mik,0000,0000,0000,,Está dizendo 32 graus?
 Dialogue: 0,0:03:57.01,0:03:58.62,Main Dialogue,Yuz,0000,0000,0000,,Deve estar estragado.
-Dialogue: 0,0:04:00.76,0:04:03.18,Main Dialogue,Mom,0000,0000,0000,,Yuzinho, seus {\i1}hashis{\i0}, por favor!
+Dialogue: 0,0:04:00.76,0:04:03.18,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan, seus {\i1}hashis{\i0}, por favor!
 Dialogue: 0,0:04:03.60,0:04:05.72,Main Dialogue,Yuz,0000,0000,0000,,Obrigado!
 Dialogue: 0,0:04:05.72,0:04:08.68,Atashinchi 8,txt,0000,0000,0000,,{\an9}Novo Atashinchi
 Dialogue: 0,0:04:14.96,0:04:17.08,Main Dialogue,Mik,0000,0000,0000,,O que você está fazendo?
 Dialogue: 0,0:04:17.08,0:04:18.53,Main Dialogue,Mom,0000,0000,0000,,É para a minha testa.
 Dialogue: 0,0:04:18.87,0:04:20.57,Main Dialogue,Mik,0000,0000,0000,,Só... para sua testa?
-Dialogue: 0,0:04:20.94,0:04:24.85,Main Dialogue,Mom,0000,0000,0000,,Eu recebi cumprimentos pela minha\N testa, hoje, da Sra. Toyama.
+Dialogue: 0,0:04:20.94,0:04:24.85,Main Dialogue,Mom,0000,0000,0000,,Eu recebi cumprimentos pela minha\N testa, hoje, da Toyama-san.
 Dialogue: 0,0:04:24.85,0:04:28.28,Main Dialogue,Mom,0000,0000,0000,,Ela disse que minha testa\N estava brilhando muito.
 Dialogue: 0,0:04:31.13,0:04:36.25,Main Dialogue,Mik,0000,0000,0000,,Mas sinto como se você inteira \Nestivesse brilhando hoje, não só a testa.
 Dialogue: 0,0:04:36.86,0:04:38.23,Main Dialogue,Mom,0000,0000,0000,,Eles dizem que a rainha macaca...
@@ -177,7 +177,7 @@ Dialogue: 0,0:09:46.78,0:09:49.93,italic,Mom,0000,0000,0000,,E eu nunca saberia.
 Dialogue: 0,0:09:54.93,0:09:55.94,italic,Mom,0000,0000,0000,,E eu nunca saberia...
 Dialogue: 0,0:10:03.15,0:10:03.99,Main Dialogue,Mom,0000,0000,0000,,Eu sabia.
 Dialogue: 0,0:10:04.59,0:10:08.40,Main Dialogue,Mom,0000,0000,0000,,Eu fui escolhida para os refis.
-Dialogue: 0,0:10:09.35,0:10:10.51,Main Dialogue,Mom,0000,0000,0000,,Yuzinho!
+Dialogue: 0,0:10:09.35,0:10:10.51,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan!
 Dialogue: 0,0:10:10.51,0:10:11.47,Main Dialogue,Yuu,0000,0000,0000,,Sim?
 Dialogue: 0,0:10:14.01,0:10:16.25,Main Dialogue,Mom,0000,0000,0000,,Aqui está a sua roupa.
 Dialogue: 0,0:10:16.25,0:10:18.27,Main Dialogue,Yuu,0000,0000,0000,,Pode colocar ali?
@@ -218,14 +218,14 @@ Dialogue: 0,0:12:23.63,0:12:26.10,Main Dialogue,mom,0000,0000,0000,,Ou então, e
 Dialogue: 0,0:12:36.42,0:12:37.53,Main Dialogue,mom,0000,0000,0000,,Perfeito.
 Dialogue: 0,0:12:39.61,0:12:41.82,Signs,Show,0000,0000,0000,,{\c&H1B1B1C&\3c&HEAEAF8&}Mestres do Japão
 Dialogue: 0,0:12:42.06,0:12:46.48,Main Dialogue,Host,0000,0000,0000,,Hoje, nossa convidada é uma dona de casa \Nsuper carismática que diz ser um gênio dos refis,
-Dialogue: 0,0:12:46.48,0:12:48.28,Main Dialogue,Host,0000,0000,0000,,Sra. Tachibana!
+Dialogue: 0,0:12:46.48,0:12:48.28,Main Dialogue,Host,0000,0000,0000,,Tachibana-san!
 Dialogue: 0,0:12:48.68,0:12:49.94,Main Dialogue,Host,0000,0000,0000,,Por favor, por aqui.
 Dialogue: 0,0:12:52.44,0:12:56.46,Main Dialogue,Host,0000,0000,0000,,Poderia nos dizer o que levou\N você ao caminho dos refis?
 Dialogue: 0,0:12:57.49,0:13:02.74,Main Dialogue,Mom,0000,0000,0000,,Aconteceu com o nascimento do refil!
 Dialogue: 0,0:13:05.13,0:13:07.09,Main Dialogue,Miz,0000,0000,0000,,Boa sorte!
-Dialogue: 0,0:13:06.12,0:13:07.09,Main Dialogue,Toy,0000,0000,0000,,{\an8}Sra. Tachibana!
+Dialogue: 0,0:13:06.12,0:13:07.09,Main Dialogue,Toy,0000,0000,0000,,{\an8}Tachibana-san!
 Dialogue: 0,0:13:07.36,0:13:11.31,Main Dialogue,Host,0000,0000,0000,,Por favor, observem. A corredora\N do refil está aparecendo na tela!
-Dialogue: 0,0:13:12.33,0:13:14.95,Main Dialogue,Host,0000,0000,0000,,É a Mestra dos Refis, Sra. Tachibana.
+Dialogue: 0,0:13:12.33,0:13:14.95,Main Dialogue,Host,0000,0000,0000,,É a Mestra dos Refis, Tachibana-san.
 Dialogue: 0,0:13:18.55,0:13:21.19,Main Dialogue,Host,0000,0000,0000,,Enquanto todo o mundo observa,
 Dialogue: 0,0:13:21.84,0:13:25.15,Main Dialogue,Host,0000,0000,0000,,ela vai começar a colocar o\N refil dentro do recipiente.
 Dialogue: 0,0:13:26.02,0:13:30.16,Main Dialogue,Host,0000,0000,0000,,Neste momento, veremos o refil no qual as esperanças\N e sonhos da humanidade estão depositados!
@@ -254,8 +254,8 @@ Dialogue: 0,0:15:01.97,0:15:03.20,Main Dialogue,Wom,0000,0000,0000,,Boa noite!
 Dialogue: 0,0:15:04.15,0:15:06.59,Main Dialogue,Guy,0000,0000,0000,,Hã? Você tem 45 anos?
 Dialogue: 0,0:15:07.24,0:15:10.80,Main Dialogue,Bar,0000,0000,0000,,Isso mesmo, faço 46 mês que vem.
 Dialogue: 0,0:15:11.02,0:15:12.82,Main Dialogue,Guy,0000,0000,0000,,Como você é jovem!
-Dialogue: 0,0:15:12.82,0:15:15.14,Main Dialogue,Guy,0000,0000,0000,,E você, Mako? Você é o mais velho, não é?
-Dialogue: 0,0:15:17.69,0:15:19.62,Main Dialogue,Guy,0000,0000,0000,,Mako, quantos anos você tem?
+Dialogue: 0,0:15:12.82,0:15:15.14,Main Dialogue,Guy,0000,0000,0000,,E você, Mako-chan? Você é o mais velho, não é?
+Dialogue: 0,0:15:17.69,0:15:19.62,Main Dialogue,Guy,0000,0000,0000,,Mako-san, quantos anos você tem?
 Dialogue: 0,0:15:21.15,0:15:23.79,Main Dialogue,Mag,0000,0000,0000,,Não é educado perguntar \Na idade para uma mulher.
 Dialogue: 0,0:15:23.79,0:15:25.07,Main Dialogue,Mag,0000,0000,0000,,Desculpem a demora.
 Dialogue: 0,0:15:25.07,0:15:26.53,Main Dialogue,Mag,0000,0000,0000,,Eu tenho 29.
@@ -383,7 +383,7 @@ Dialogue: 0,0:21:23.82,0:21:27.41,Main Dialogue,poem,0000,0000,0000,,Se ainda n�
 Dialogue: 0,0:21:30.88,0:21:31.47,Main Dialogue,dad,0000,0000,0000,,Tudo bem.
 Dialogue: 0,0:21:32.99,0:21:35.52,Main Dialogue,guy,0000,0000,0000,,Uma coisa despreocupada \Nassim seria melhor, não é?
 Dialogue: 0,0:21:36.04,0:21:39.00,Main Dialogue,dad,0000,0000,0000,,Hoje em dia, todos são tão \Nrigorosos com data de validade.
-Dialogue: 0,0:21:39.00,0:21:43.12,Main Dialogue,guy,0000,0000,0000,,Pô, se você disser que alguma coisa passou\N do prazo de validade, vai ofender a Mako.
+Dialogue: 0,0:21:39.00,0:21:43.12,Main Dialogue,guy,0000,0000,0000,,Pô, se você disser que alguma coisa passou\N do prazo de validade, vai ofender a Mako-chan.
 Dialogue: 0,0:21:45.34,0:21:47.82,Main Dialogue,mag,0000,0000,0000,,Vocês são tão francos que eu\N não consigo aguentar mais!
 Dialogue: 0,0:21:51.82,0:21:55.04,Atashinchi 11,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
 Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,Próximo

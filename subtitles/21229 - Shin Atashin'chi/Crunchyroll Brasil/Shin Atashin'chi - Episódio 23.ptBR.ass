@@ -70,8 +70,8 @@ Dialogue: 0,0:01:43.67,0:01:45.26,Main Dialogue,Mom,0000,0000,0000,,Eu comi?
 Dialogue: 0,0:01:45.26,0:01:46.62,Main Dialogue,Mom,0000,0000,0000,,Não me lembro.
 Dialogue: 0,0:01:47.99,0:01:51.63,Italic,Mom,0000,0000,0000,,Eu fiz chá, mas não tenho \Ndoces para comer com ele!
 Dialogue: 0,0:01:50.71,0:01:51.63,Despair,Text,0000,0000,0000,,Desespero
-Dialogue: 0,0:01:54.13,0:01:55.37,Main Dialogue,Mom,0000,0000,0000,,Yuzinho.
-Dialogue: 0,0:01:55.37,0:01:58.00,Main Dialogue,Mom,0000,0000,0000,,Yuzinho, você tem algum doce no seu quarto?
+Dialogue: 0,0:01:54.13,0:01:55.37,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan.
+Dialogue: 0,0:01:55.37,0:01:58.00,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan, você tem algum doce no seu quarto?
 Dialogue: 0,0:01:58.00,0:01:58.86,Main Dialogue,Yuu,0000,0000,0000,,Hã?
 Dialogue: 0,0:01:58.86,0:01:59.99,Main Dialogue,Mom,0000,0000,0000,,Acho que não, né.
 Dialogue: 0,0:02:00.87,0:02:02.10,Main Dialogue,Mom,0000,0000,0000,,Mikan!
@@ -101,9 +101,9 @@ Dialogue: 0,0:03:03.61,0:03:05.53,Main Dialogue,Mik,0000,0000,0000,,Com licença
 Dialogue: 0,0:03:05.84,0:03:08.09,Main Dialogue,Mik,0000,0000,0000,,Ué? O professor não está aqui.
 Dialogue: 0,0:03:08.09,0:03:09.52,Main Dialogue,Girl,0000,0000,0000,,Vamos pegar emprestado.
 Dialogue: 0,0:03:09.52,0:03:10.50,Main Dialogue,Mik,0000,0000,0000,,Claro.
-Dialogue: 0,0:03:11.27,0:03:13.46,Main Dialogue,Mik,0000,0000,0000,,Parece que o Profe Sato está \Ntrabalhando em uma nova pintura.
+Dialogue: 0,0:03:11.27,0:03:13.46,Main Dialogue,Mik,0000,0000,0000,,Parece que o Sato-sen está \Ntrabalhando em uma nova pintura.
 Dialogue: 0,0:03:13.88,0:03:15.92,Art Teacher,Text,0428,0001,0004,,{\fad(200,1)}Professor de Artes
-Dialogue: 0,0:03:14.25,0:03:15.92,Sato-sen,Text,0001,0001,0008,,{\an2}{\fad(200,1)}Profe Sato = Professor Sato
+Dialogue: 0,0:03:14.25,0:03:15.92,Sato-sen,Text,0001,0001,0008,,{\an2}{\fad(200,1)}Sato-sen = Satou-sensei
 Dialogue: 0,0:03:15.92,0:03:17.22,Main Dialogue,Girl,0000,0000,0000,,É verdade.
 Dialogue: 0,0:03:17.22,0:03:19.13,Main Dialogue,Girl,0000,0000,0000,,Ele que fez isso?
 Dialogue: 0,0:03:19.13,0:03:19.85,Main Dialogue,Mik,0000,0000,0000,,Sim.
@@ -118,7 +118,7 @@ Dialogue: 0,0:03:41.16,0:03:42.70,Main Dialogue,Girl2,0000,0000,0000,,Quer dizer
 Dialogue: 0,0:03:43.13,0:03:44.91,Main Dialogue,Mik,0000,0000,0000,,Ele nunca vai perceber.
 Dialogue: 0,0:03:45.79,0:03:48.43,Main Dialogue,Girl,0000,0000,0000,,Mas se ele for um profissional,\N deve ter um olhar afiado.
 Dialogue: 0,0:03:48.43,0:03:49.69,Main Dialogue,Mik,0000,0000,0000,,Tudo bem!
-Dialogue: 0,0:03:49.69,0:03:51.31,Main Dialogue,Mik,0000,0000,0000,,É do Profe Sato que estamos falando!
+Dialogue: 0,0:03:49.69,0:03:51.31,Main Dialogue,Mik,0000,0000,0000,,É do Sato-sen que estamos falando!
 Dialogue: 0,0:03:51.31,0:03:53.39,Main Dialogue,Girl,0000,0000,0000,,Credo, Mikan.
 Dialogue: 0,0:03:55.62,0:03:58.55,Main Dialogue,Mom,0000,0000,0000,,Ela não vai nem perceber.
 Dialogue: 0,0:03:58.83,0:04:01.25,Main Dialogue,MIk,0000,0000,0000,,Ele não vai nem perceber.
@@ -239,7 +239,7 @@ Dialogue: 0,0:09:29.60,0:09:30.50,flashback,Mom,0000,0000,0000,,Sim.
 Dialogue: 0,0:09:30.50,0:09:32.01,flashback,Mom,0000,0000,0000,,É um fenômeno climático.
 Dialogue: 0,0:09:32.01,0:09:36.18,flashback,Mom,0000,0000,0000,,Ele faz ficar com o mesmo cheiro\N que o mar, mesmo em terra.
 Dialogue: 0,0:09:36.34,0:09:37.30,flashback,Yuz,0000,0000,0000,,Hã?
-Dialogue: 0,0:09:39.01,0:09:41.47,flashback,Mom,0000,0000,0000,,Você aprende uma coisa nova\N todo dia, não é, Yuzinho?
+Dialogue: 0,0:09:39.01,0:09:41.47,flashback,Mom,0000,0000,0000,,Você aprende uma coisa nova\N todo dia, não é, Yuu-chan?
 Dialogue: 0,0:09:41.47,0:09:42.42,flashback,Yuz,0000,0000,0000,,Sim.
 Dialogue: 0,0:09:42.42,0:09:44.43,flashback,Yuz,0000,0000,0000,,O fenômeno El Niño.
 Dialogue: 0,0:09:48.68,0:09:50.40,Main Dialogue,Yuz,0000,0000,0000,,E então, não muito tempo atrás.
@@ -247,7 +247,7 @@ Dialogue: 0,0:09:50.64,0:09:54.56,flashback,Girl,0000,0000,0000,,Você sabe que,
 Dialogue: 0,0:09:54.56,0:09:55.61,flashback,Girl2,0000,0000,0000,,Sim, é verdade.
 Dialogue: 0,0:09:55.61,0:09:57.50,flashback,Yuz,0000,0000,0000,,É por causa do fenômeno El Niño?
 Dialogue: 0,0:09:58.96,0:10:00.07,flashback,Girl2,0000,0000,0000,,Não.
-Dialogue: 0,0:10:00.42,0:10:01.87,flashback,Girl,0000,0000,0000,,Ei, Tachibana,
+Dialogue: 0,0:10:00.42,0:10:01.87,flashback,Girl,0000,0000,0000,,Ei, Tachibana-kun,
 Dialogue: 0,0:10:02.35,0:10:04.45,flashback,Girl,0000,0000,0000,,eu tenho quase certeza que o fenômeno El Niño
 Dialogue: 0,0:10:04.45,0:10:08.83,flashback,Girl,0000,0000,0000,,é sobre irregularidades climáticas causadas pelo\N aquecimento de certas regiões do oceano.
 Dialogue: 0,0:10:09.37,0:10:11.10,flashback,Yuz,0000,0000,0000,,Ah, é mesmo.
@@ -265,8 +265,8 @@ Dialogue: 0,0:10:37.84,0:10:39.30,Main Dialogue,MIk,0000,0000,0000,,É mesmo.
 Dialogue: 0,0:10:40.03,0:10:43.28,Atashinchi 7,txt,0330,0001,0014,,{\fad(400,1)}Novo Atashinchi
 Dialogue: 0,0:10:42.09,0:10:43.28,Main Dialogue,Mom,0000,0000,0000,,Sim!
 Dialogue: 0,0:10:43.69,0:10:44.99,Main Dialogue,Hak,0000,0000,0000,,Boa tarde.
-Dialogue: 0,0:10:44.99,0:10:47.17,Main Dialogue,Mom,0000,0000,0000,,Ah, bom dia, Sra. Hakamada.
-Dialogue: 0,0:10:47.17,0:10:51.60,Main Dialogue,Mom,0000,0000,0000,,Queria dar uma coisa por sempre\N cuidar do Tazinho para mim.
+Dialogue: 0,0:10:44.99,0:10:47.17,Main Dialogue,Mom,0000,0000,0000,,Ah, bom dia, Hakamada-san.
+Dialogue: 0,0:10:47.17,0:10:51.60,Main Dialogue,Mom,0000,0000,0000,,Queria dar uma coisa por sempre\N cuidar do Takkun para mim.
 Dialogue: 0,0:10:49.96,0:10:52.21,Jam1,txt,0001,0004,0012,,Geleia Artesanal
 Dialogue: 0,0:10:49.96,0:10:52.21,Jam2,txt,0001,0144,15,,Edição Limitada:\NGengibre e Laranja Hassaku
 Dialogue: 0,0:10:49.96,0:10:52.21,Jam3,txt,0001,0400,15,,La Padaria
@@ -501,7 +501,7 @@ Dialogue: 0,0:21:52.20,0:21:55.04,Atashinchi,txt,0380,0030,0011,,{\fad(400,1)}No
 Dialogue: 0,0:21:52.20,0:21:55.04,Latin 2,txt,0001,0324,15,,{\an2}{\fad(400,1)}Editor de Latim: Shiro Yamanouchi
 Dialogue: 0,0:22:55.02,0:22:57.45,Main Dialogue,Girl,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,"O Presente Surpresa da Mamãe"
-Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Yuzu e o Time de Beisebol (Parte Um)"
-Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,"Yuzu e o Time de Beisebol (Parte Dois)"
-Dialogue: 0,0:22:57.45,0:23:00.82,Main Dialogue,Girl,0000,0000,0000,,"Yuzu e o Time de Beisebol (Parte Um)" \Ne outros dois episódios.
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,"Yuzuhiko e o Time de Beisebol (Parte Um)"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,"Yuzuhiko e o Time de Beisebol (Parte Dois)"
+Dialogue: 0,0:22:57.45,0:23:00.82,Main Dialogue,Girl,0000,0000,0000,,"Yuzuhiko e o Time de Beisebol (Parte Um)" \Ne outros dois episódios.
 Dialogue: 0,0:23:00.83,0:23:04.08,Main Dialogue,voi,0000,0000,0000,,Ding, ding, ding, ding, ding, \Nding, ding, ding, ding, ding!

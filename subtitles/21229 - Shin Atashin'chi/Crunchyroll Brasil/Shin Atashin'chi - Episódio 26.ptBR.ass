@@ -121,7 +121,7 @@ Dialogue: 0,0:04:30.46,0:04:31.41,Main Dialogue,yuz,0000,0000,0000,,Ah...
 Dialogue: 0,0:04:31.94,0:04:33.37,Main Dialogue,yuz,0000,0000,0000,,Era para esconder isso...
 Dialogue: 0,0:04:36.46,0:04:39.42,flashback,mom,0000,0000,0000,,Ah, isto devia ser removível!
 Dialogue: 0,0:04:39.80,0:04:41.88,Show Title 2,txt,0402,0001,15,,{\an2}{\fad(400,1)}Novo Atashinchi
-Dialogue: 0,0:04:44.14,0:04:45.99,Main Dialogue,mom,0000,0000,0000,,Sra. Mizushima! Quanto tempo!
+Dialogue: 0,0:04:44.14,0:04:45.99,Main Dialogue,mom,0000,0000,0000,,Mizushima-san! Quanto tempo!
 Dialogue: 0,0:04:45.99,0:04:49.05,Main Dialogue,miz,0000,0000,0000,,Sim, é mesmo! A propósito, eu\N queria conversar com você.
 Dialogue: 0,0:04:49.97,0:04:50.76,Main Dialogue,mom,0000,0000,0000,,Espere um pouco.
 Dialogue: 0,0:04:51.09,0:04:52.73,Main Dialogue,mom,0000,0000,0000,,Só vou mexer nisso aqui um pouco.
@@ -199,7 +199,7 @@ Dialogue: 0,0:09:39.89,0:09:42.49,Main Dialogue,mik,0000,0000,0000,,Eu gostaria 
 Dialogue: 0,0:09:42.49,0:09:45.73,Main Dialogue,mik,0000,0000,0000,,onde desse quase para alcançar um\N galho se esticássemos bastante.
 Dialogue: 0,0:09:45.73,0:09:48.10,Main Dialogue,nii,0000,0000,0000,,Você não vai encontrar um lugar perfeito assim.
 Dialogue: 0,0:09:48.90,0:09:51.74,Main Dialogue,mik,0000,0000,0000,,Ei, que tal lá?
-Dialogue: 0,0:09:52.75,0:09:56.52,Main Dialogue,nii,0000,0000,0000,,Mikan, isso é a mesma coisa que dizer
+Dialogue: 0,0:09:52.75,0:09:56.52,Main Dialogue,nii,0000,0000,0000,,Senpai, isso é a mesma coisa que dizer
 Dialogue: 0,0:09:56.52,0:09:59.16,Main Dialogue,nii,0000,0000,0000,,que as cerejeiras do outro lado são mais rosas.
 Dialogue: 0,0:10:01.84,0:10:03.66,Main Dialogue,nii,0000,0000,0000,,Esse é o melhor lugar para nós.
 Dialogue: 0,0:10:04.15,0:10:05.83,Main Dialogue,asa,0000,0000,0000,,Ei, pessoal!
@@ -297,8 +297,8 @@ Dialogue: 0,0:14:19.17,0:14:20.31,Main Dialogue,yos,0000,0000,0000,,Tachibana.
 Dialogue: 0,0:14:20.31,0:14:20.94,Main Dialogue,mik,0000,0000,0000,,Hã?
 Dialogue: 0,0:14:21.53,0:14:22.36,Main Dialogue,yos,0000,0000,0000,,E aí.
 Dialogue: 0,0:14:22.36,0:14:24.96,Main Dialogue,mik,0000,0000,0000,,Ah, é você, Yoshioka—
-Dialogue: 0,0:14:25.54,0:14:28.34,Main Dialogue,mik,0000,0000,0000,,I-I-Iwaki?
-Dialogue: 0,0:14:28.59,0:14:30.01,Main Dialogue,nit,0000,0000,0000,,Mikan?
+Dialogue: 0,0:14:25.54,0:14:28.34,Main Dialogue,mik,0000,0000,0000,,I-I-Iwaki-kun?
+Dialogue: 0,0:14:28.59,0:14:30.01,Main Dialogue,nit,0000,0000,0000,,Senpai?
 Dialogue: 0,0:14:46.23,0:14:55.04,Poem,miktxt,0000,0000,0000,,Essa visão de cerejeiras
 Dialogue: 0,0:14:47.64,0:14:55.04,Poem,miktxt,0000,0000,0000,,que outras pessoas fazem
 Dialogue: 0,0:14:49.42,0:14:55.04,Poem,miktxt,0000,0000,0000,,também é uma coisa que eu
@@ -369,7 +369,7 @@ Dialogue: 0,0:17:25.84,0:17:27.30,Main Dialogue,Mom,0000,0000,0000,,Você gosta 
 Dialogue: 0,0:17:27.30,0:17:28.64,Main Dialogue,Mik,0000,0000,0000,,Adoro!
 Dialogue: 0,0:17:28.64,0:17:31.03,Main Dialogue,Mik,0000,0000,0000,,Eu fico tão empolgada \Nquando temos marshmallows.
 Dialogue: 0,0:17:31.65,0:17:32.92,Italic,Dad,0000,0000,0000,,Vocês têm sonhos.
-Dialogue: 0,0:17:33.67,0:17:36.06,Main Dialogue,Mom,0000,0000,0000,,Yuzinho, algum pedido?
+Dialogue: 0,0:17:33.67,0:17:36.06,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan, algum pedido?
 Dialogue: 0,0:17:36.52,0:17:37.31,Main Dialogue,Yuu,0000,0000,0000,,Nada de mais.
 Dialogue: 0,0:17:37.31,0:17:38.30,Main Dialogue,Mom,0000,0000,0000,,Nada?
 Dialogue: 0,0:17:38.30,0:17:41.16,Main Dialogue,Mom,0000,0000,0000,,Eu compro o doce que deixa você feliz.
@@ -379,7 +379,7 @@ Dialogue: 0,0:17:48.73,0:17:51.00,Main Dialogue,Mik,0000,0000,0000,,Do cantinho 
 Dialogue: 0,0:17:51.00,0:17:52.08,Main Dialogue,Yuu,0000,0000,0000,,Que foi?
 Dialogue: 0,0:17:52.44,0:17:56.97,Main Dialogue,Mik,0000,0000,0000,,Você está chamando essa coisa de\N cantinho de doces aqui de casa?
 Dialogue: 0,0:17:56.97,0:17:58.34,Main Dialogue,Yuu,0000,0000,0000,,Qual o problema?
-Dialogue: 0,0:17:59.57,0:18:01.40,Main Dialogue,Mom,0000,0000,0000,,Eu gostei, Yuzinho!
+Dialogue: 0,0:17:59.57,0:18:01.40,Main Dialogue,Mom,0000,0000,0000,,Eu gostei, Yuu-chan!
 Dialogue: 0,0:18:01.40,0:18:05.02,Main Dialogue,Mom,0000,0000,0000,,De agora em diante, essa caixa será\N o cantinho de doces da nossa casa.
 Dialogue: 0,0:18:05.57,0:18:06.88,Main Dialogue,Mom,0000,0000,0000,,Vou escrever.
 Dialogue: 0,0:18:06.88,0:18:08.22,Main Dialogue,Mom,0000,0000,0000,,Preciso de alguma coisa para escrever.

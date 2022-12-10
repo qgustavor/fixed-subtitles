@@ -50,7 +50,7 @@ Dialogue: 0,0:01:35.60,0:01:37.39,Main Dialogue,Mom,0000,0000,0000,,Eu finalment
 Dialogue: 0,0:01:42.94,0:01:44.41,Atashinchi 6,txt,0000,0000,0000,,{\an9}Novo Atashinchi
 Dialogue: 0,0:01:47.81,0:01:49.99,Main Dialogue,Mom,0000,0000,0000,,Vejamos...
 Dialogue: 0,0:02:06.90,0:02:08.73,Atashinchi 8,txt,0000,0000,0000,,{\c&H111625&}Novo Atashinchi
-Dialogue: 0,0:02:12.60,0:02:13.68,Main Dialogue,Mail,0000,0000,0000,,Sra. Tachibana!
+Dialogue: 0,0:02:12.60,0:02:13.68,Main Dialogue,Mail,0000,0000,0000,,Tachibana-san!
 Dialogue: 0,0:02:13.68,0:02:14.63,Main Dialogue,Mail,0000,0000,0000,,Uma entrega.
 Dialogue: 0,0:02:14.63,0:02:15.64,Main Dialogue,Mom,0000,0000,0000,,Olá!
 Dialogue: 0,0:02:16.12,0:02:17.99,Main Dialogue,Mom,0000,0000,0000,,Obrigada!
@@ -69,7 +69,7 @@ Dialogue: 0,0:03:00.50,0:03:01.74,Main Dialogue,Mik,0000,0000,0000,,É isso que 
 Dialogue: 0,0:03:01.74,0:03:02.86,Main Dialogue,Mom,0000,0000,0000,,Sim.
 Dialogue: 0,0:03:02.86,0:03:04.45,Main Dialogue,Mom,0000,0000,0000,,Culpe o quebra-cabeças.
 Dialogue: 0,0:03:08.66,0:03:10.66,Atashinchi 8,txt,0000,0000,0000,,{\an9}Novo Atashinchi
-Dialogue: 0,0:03:17.63,0:03:19.26,Main Dialogue,Mom,0000,0000,0000,,O Yuzinho fez isso...
+Dialogue: 0,0:03:17.63,0:03:19.26,Main Dialogue,Mom,0000,0000,0000,,O Yuu-chan fez isso...
 Dialogue: 0,0:03:22.77,0:03:23.45,Main Dialogue,Mom,0000,0000,0000,,É mesmo.
 Dialogue: 0,0:03:23.45,0:03:25.69,Main Dialogue,Mom,0000,0000,0000,,Eu devia começar com as bordas.
 Dialogue: 0,0:03:26.29,0:03:27.44,Main Dialogue,Mom,0000,0000,0000,,Não, eu não devo!
@@ -119,7 +119,7 @@ Dialogue: 0,0:07:01.11,0:07:02.66,Main Dialogue,Dad,0000,0000,0000,,O demônio f
 Dialogue: 0,0:07:04.47,0:07:05.34,Main Dialogue,Mom,0000,0000,0000,,Vou jogar fora.
 Dialogue: 0,0:07:05.72,0:07:06.65,Main Dialogue,Mom,0000,0000,0000,,Vou jogar isto fora!
 Dialogue: 0,0:07:07.01,0:07:09.81,Main Dialogue,Mom,0000,0000,0000,,Vou jogar fora agora mesmo!
-Dialogue: 0,0:07:12.25,0:07:14.94,Main Dialogue,Man,0000,0000,0000,,Bom dia, Sr. Tachibana!
+Dialogue: 0,0:07:12.25,0:07:14.94,Main Dialogue,Man,0000,0000,0000,,Bom dia, Tachibana-san!
 Dialogue: 0,0:07:14.94,0:07:16.91,Main Dialogue,Mom,0000,0000,0000,,Bom dia...
 Dialogue: 0,0:07:16.91,0:07:19.77,Main Dialogue,Man,0000,0000,0000,,Ué? Um quebra-cabeças?
 Dialogue: 0,0:07:19.77,0:07:21.16,Main Dialogue,Mom,0000,0000,0000,,Ah, sim.
@@ -136,12 +136,12 @@ Dialogue: 0,0:07:49.41,0:07:51.15,italic,Mom,0000,0000,0000,,Um anjo!
 Dialogue: 0,0:07:52.67,0:07:54.99,Atashinchi 3,txt,0000,0000,0000,,{\an9}Novo Atashinchi
 Dialogue: 0,0:07:54.99,0:07:58.99,Atashinchi 4,txt,0000,0000,0000,,Novo Atashinchi
 Dialogue: 0,0:07:59.19,0:08:04.00,title,Tit,0000,0000,0000,,{\fad(400,1)}Mikan Troca Nomes
-Dialogue: 0,0:08:09.13,0:08:12.17,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi, precisa ir ao banheiro?
-Dialogue: 0,0:08:16.42,0:08:19.10,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi...
+Dialogue: 0,0:08:09.13,0:08:12.17,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi-chan, precisa ir ao banheiro?
+Dialogue: 0,0:08:16.42,0:08:19.10,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi-chan...
 Dialogue: 0,0:08:21.45,0:08:22.31,italic,Mik,0000,0000,0000,,Quem é?
 Dialogue: 0,0:08:23.92,0:08:25.27,italic,Mik,0000,0000,0000,,Por que você está aí em cima?
 Dialogue: 0,0:08:25.52,0:08:27.23,Main Dialogue,Mik,0000,0000,0000,,Para com isso!
-Dialogue: 0,0:08:27.72,0:08:29.73,Main Dialogue,Mik,0000,0000,0000,,Ora, Shimi, sua besta!
+Dialogue: 0,0:08:27.72,0:08:29.73,Main Dialogue,Mik,0000,0000,0000,,Ora, Shimi-chan, sua besta!
 Dialogue: 0,0:08:30.32,0:08:31.86,Main Dialogue,Shi,0000,0000,0000,,A culpa é sua!
 Dialogue: 0,0:08:34.12,0:08:36.82,Atashinchi,txt,0000,0000,0000,,{\an8}Novo Atashinchi
 Dialogue: 0,0:08:42.38,0:08:43.37,Main Dialogue,Mik,0000,0000,0000,,Com licença...
@@ -159,7 +159,7 @@ Dialogue: 0,0:09:18.93,0:09:20.80,Main Dialogue,Guy,0000,0000,0000,,Me desculpe.
 Dialogue: 0,0:09:22.04,0:09:24.00,Main Dialogue,Mik,0000,0000,0000,,Ah, que saco!
 Dialogue: 0,0:09:25.23,0:09:26.96,Main Dialogue,Shim,0000,0000,0000,,A culpa é sua!
 Dialogue: 0,0:09:29.22,0:09:31.63,Atashinchi,txt,0000,0000,0000,,{\an8}Novo Atashinchi
-Dialogue: 0,0:09:33.73,0:09:36.92,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi, você viu aquele \Nprograma na televisão ontem?
+Dialogue: 0,0:09:33.73,0:09:36.92,Main Dialogue,Mik,0000,0000,0000,,Ei, Shimi-chan, você viu aquele \Nprograma na televisão ontem?
 Dialogue: 0,0:09:36.92,0:09:39.14,Main Dialogue,Mik,0000,0000,0000,,Exercício deixa o seu rosto menos gordo.
 Dialogue: 0,0:09:39.14,0:09:41.84,Main Dialogue,Mik,0000,0000,0000,,Você tem que fazer assim...
 Dialogue: 0,0:09:44.91,0:09:47.02,Main Dialogue,Mik,0000,0000,0000,,Assim...
@@ -194,14 +194,14 @@ Dialogue: 0,0:11:19.98,0:11:20.99,Main Dialogue,Mik,0000,0000,0000,,Sim.
 Dialogue: 0,0:11:22.53,0:11:25.49,Atashinchi 9,txt,0000,0000,0000,,Novo Atashinchi
 Dialogue: 0,0:11:30.17,0:11:36.05,Main Dialogue,Teach,0000,0000,0000,,Sabem, se casar significa que tudo vai mudar.
 Dialogue: 0,0:11:36.26,0:11:37.10,italic,Shim,0000,0000,0000,,Lá vamos nós.
-Dialogue: 0,0:11:37.10,0:11:39.51,italic,Shim,0000,0000,0000,,A hora nada a ver com a \Naula do professor Miyajima.
+Dialogue: 0,0:11:37.10,0:11:39.51,italic,Shim,0000,0000,0000,,A hora nada a ver com a \Naula do Miyajima-sensei.
 Dialogue: 0,0:11:39.51,0:11:41.01,italic,Mik,0000,0000,0000,,Do que ele está falando?
 Dialogue: 0,0:11:41.49,0:11:44.30,Main Dialogue,Teach,0000,0000,0000,,Vocês vão começar a usar novas \Npalavras para falar um com o outro.
 Dialogue: 0,0:11:44.57,0:11:46.72,Main Dialogue,Teach,0000,0000,0000,,Quando minha esposa e eu
 Dialogue: 0,0:11:46.72,0:11:49.92,Main Dialogue,Teach,0000,0000,0000,,tínhamos acabado de chegar a Tóquio...
-Dialogue: 0,0:12:01.54,0:12:02.92,flashback,Tak,0000,0000,0000,,Miyajima!
-Dialogue: 0,0:12:08.74,0:12:10.04,flashback,Tak,0000,0000,0000,,Miyajima!
-Dialogue: 0,0:12:11.29,0:12:12.50,flashback,Miy,0000,0000,0000,,Takahashi!
+Dialogue: 0,0:12:01.54,0:12:02.92,flashback,Tak,0000,0000,0000,,Miyajima-kun!
+Dialogue: 0,0:12:08.74,0:12:10.04,flashback,Tak,0000,0000,0000,,Miyajima-kun!
+Dialogue: 0,0:12:11.29,0:12:12.50,flashback,Miy,0000,0000,0000,,Takahashi-san!
 Dialogue: 0,0:12:13.01,0:12:17.11,Main Dialogue,Teach,0000,0000,0000,,Naquela época, nós nos \Nchamávamos pelo sobrenome.
 Dialogue: 0,0:12:20.36,0:12:21.70,Main Dialogue,Teach,0000,0000,0000,,Mas logo...
 Dialogue: 0,0:12:26.25,0:12:27.55,flashback,Tak,0000,0000,0000,,Miyatan...
@@ -241,10 +241,10 @@ Dialogue: 0,0:14:57.91,0:14:59.96,Main Dialogue,Mom,0000,0000,0000,,O jantar est
 Dialogue: 0,0:15:01.23,0:15:03.17,Main Dialogue Margem,Mom,0000,0000,0000,,Hoje, vamos comer raiz de lótus refogada!
 Dialogue: 0,0:15:01.32,0:15:03.17,Signs,Text,0000,0000,0000,,{\c&H1D683B&\3c&HFFFFFF&}Raiz de Lótus Refogada
 Dialogue: 0,0:15:01.32,0:15:03.17,Signs,Text,0000,0000,0000,,{\c&H4978B7&\3c&HFFFFFF&}(Com carne picada)
-Dialogue: 0,0:15:12.36,0:15:13.20,Main Dialogue,Mom,0000,0000,0000,,Yuzinho?
+Dialogue: 0,0:15:12.36,0:15:13.20,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan?
 Dialogue: 0,0:15:14.08,0:15:14.89,Main Dialogue,Mom,0000,0000,0000,,O que foi?
 Dialogue: 0,0:15:16.32,0:15:17.64,Main Dialogue,Mom,0000,0000,0000,,Algo errado com o meu prato?
-Dialogue: 0,0:15:18.70,0:15:19.55,Main Dialogue,Mom,0000,0000,0000,,Yuzinho?
+Dialogue: 0,0:15:18.70,0:15:19.55,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan?
 Dialogue: 0,0:15:20.24,0:15:21.76,Main Dialogue,Yuz,0000,0000,0000,,Eu só estava pensando...
 Dialogue: 0,0:15:26.95,0:15:29.07,Main Dialogue,Mom,0000,0000,0000,,Ele está colocando limão na raiz de lótus...
 Dialogue: 0,0:15:29.75,0:15:31.86,Main Dialogue,Mom,0000,0000,0000,,Espere, pimenta vermelha?
@@ -261,7 +261,7 @@ Dialogue: 0,0:16:02.01,0:16:03.60,Main Dialogue,Mom,0000,0000,0000,,O jantar est
 Dialogue: 0,0:16:04.30,0:16:06.11,Main Dialogue Margem,Mom,0000,0000,0000,,Nós vamos comer sopa de carne de porco!
 Dialogue: 0,0:16:04.36,0:16:06.11,Signs,Text,0000,0000,0000,,{\c&H008BD5&\3c&H2A2A2C&}Sopa de carne de porco
 Dialogue: 0,0:16:04.36,0:16:06.11,Signs,Text,0000,0000,0000,,(Com mais carne que o normal)
-Dialogue: 0,0:16:10.34,0:16:11.49,Main Dialogue,Mom,0000,0000,0000,,Yuzinho?
+Dialogue: 0,0:16:10.34,0:16:11.49,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan?
 Dialogue: 0,0:16:11.49,0:16:12.59,Main Dialogue,Mom,0000,0000,0000,,Que barulho foi esse?
 Dialogue: 0,0:16:14.29,0:16:18.99,Main Dialogue,Mom,0000,0000,0000,,Ele vai colocar um pouco de \Nmolho de gergelim e gengibre?
 Dialogue: 0,0:16:22.14,0:16:22.70,Main Dialogue,Yuz,0000,0000,0000,,Que delícia!
@@ -339,7 +339,7 @@ Dialogue: 0,0:19:48.45,0:19:51.43,Main Dialogue,Mik,0000,0000,0000,,na proporç�
 Dialogue: 0,0:19:51.43,0:19:56.35,Main Dialogue,Mik,0000,0000,0000,,Assim, a sinfonia do curry termina\N com um som que só aumenta.
 Dialogue: 0,0:19:59.13,0:20:00.35,Main Dialogue,Yuz,0000,0000,0000,,Entendo.
 Dialogue: 0,0:20:01.55,0:20:03.80,Main Dialogue,Yuz,0000,0000,0000,,Mas não precisa colocar carne\N com batatas no arroz, não é?
-Dialogue: 0,0:20:04.81,0:20:06.67,Main Dialogue,Mik,0000,0000,0000,,Você ainda tem muito o \Nque aprender, Yuzuhiko.
+Dialogue: 0,0:20:04.81,0:20:06.67,Main Dialogue,Mik,0000,0000,0000,,Você ainda tem muito o \Nque aprender, Yuzuhiko-kun.
 Dialogue: 0,0:20:06.67,0:20:09.14,Main Dialogue,Mik,0000,0000,0000,,Veja, se comer assim ficará\N com gosto de gyudon!
 Dialogue: 0,0:20:09.14,0:20:09.77,Main Dialogue,both,0000,0000,0000,,Hã?
 Dialogue: 0,0:20:10.04,0:20:12.19,Main Dialogue,miK,0000,0000,0000,,Gyudon é tão gostoso.

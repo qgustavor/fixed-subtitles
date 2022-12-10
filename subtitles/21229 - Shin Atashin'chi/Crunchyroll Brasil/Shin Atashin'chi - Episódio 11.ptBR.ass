@@ -84,7 +84,7 @@ Dialogue: 0,0:03:17.20,0:03:17.97,Main Dialogue,Mik,0000,0000,0000,,O que é ist
 Dialogue: 0,0:03:17.97,0:03:19.96,Main Dialogue,Mik,0000,0000,0000,,Você comprou alguma coisa gostosa?
 Dialogue: 0,0:03:21.07,0:03:22.02,Main Dialogue,Mik,0000,0000,0000,,O que é isto?
 Dialogue: 0,0:03:22.63,0:03:24.00,Main Dialogue,Mom,0000,0000,0000,,É uma ferramenta para limpar janelas.
-Dialogue: 0,0:03:24.00,0:03:25.51,Main Dialogue,Mom,0000,0000,0000,,Recomendação da Sra. Mizushima.
+Dialogue: 0,0:03:24.00,0:03:25.51,Main Dialogue,Mom,0000,0000,0000,,Recomendação da Mizushima-san.
 Dialogue: 0,0:03:25.51,0:03:26.56,Main Dialogue,Mom,0000,0000,0000,,Ela disse que era incrível.
 Dialogue: 0,0:03:29.02,0:03:30.02,Main Dialogue,Mom,0000,0000,0000,,Vamos tentar.
 Dialogue: 0,0:03:32.27,0:03:34.98,Main Dialogue,Mik,0000,0000,0000,,Uau, quando chega perto, dá para \Nver como nossas janelas estão sujas.
@@ -110,7 +110,7 @@ Dialogue: 0,0:04:26.41,0:04:29.54,Main Dialogue,Mik,0000,0000,0000,,Limpar janel
 Dialogue: 0,0:04:29.88,0:04:33.50,Main Dialogue,Mik,0000,0000,0000,,Quando o assunto é limpar janelas,\N ninguém pode competir comigo!
 Dialogue: 0,0:04:34.06,0:04:39.34,Main Dialogue,Mik,0000,0000,0000,,Olha, até os pássaros e o sol estão \Ncuriosos para ver minha habilidade.
 Dialogue: 0,0:04:39.67,0:04:41.27,Main Dialogue,Mom,0000,0000,0000,,Eu também vou tentar.
-Dialogue: 0,0:04:41.27,0:04:45.30,Main Dialogue,Mom,0000,0000,0000,,A Sra. Mizushima disse que isso\N vai tirar a sujeira só com água.
+Dialogue: 0,0:04:41.27,0:04:45.30,Main Dialogue,Mom,0000,0000,0000,,A Mizushima-san disse que isso\N vai tirar a sujeira só com água.
 Dialogue: 0,0:04:48.06,0:04:49.38,Main Dialogue,Mom,0000,0000,0000,,Funciona mesmo.
 Dialogue: 0,0:04:49.38,0:04:50.83,Main Dialogue,Mom,0000,0000,0000,,Espera!
 Dialogue: 0,0:04:50.83,0:04:52.73,Main Dialogue,Mom,0000,0000,0000,,Tenho que limpar de cima para baixo.
@@ -137,7 +137,7 @@ Dialogue: 0,0:05:49.03,0:05:50.97,Main Dialogue,Mik2,0000,0000,0000,,Me desculpe
 Dialogue: 0,0:05:50.97,0:05:52.94,Main Dialogue,Mik,0000,0000,0000,,Você acha que pode me observar\N e roubar os meus segredos?
 Dialogue: 0,0:05:52.94,0:05:55.08,Main Dialogue,Mik,0000,0000,0000,,Agora me passe o pano!
 Dialogue: 0,0:05:55.08,0:05:55.66,Main Dialogue,Mik2,0000,0000,0000,,Sim!
-Dialogue: 0,0:05:57.89,0:06:00.05,Main Dialogue,Mom,0000,0000,0000,,E então, eu tenho a prova\N nº 3 da Sra, Mizushima.
+Dialogue: 0,0:05:57.89,0:06:00.05,Main Dialogue,Mom,0000,0000,0000,,E então, eu tenho a prova\N nº 3 da Mizushima-san.
 Dialogue: 0,0:06:00.05,0:06:01.59,Main Dialogue,Mom,0000,0000,0000,,É uma vassoura grande, perfeita para a sacada!
 Dialogue: 0,0:06:02.09,0:06:05.55,Main Dialogue,Mom,0000,0000,0000,,A Mikan está empolgada, eu não posso\N deixar ela parar com essas janelas!
 Dialogue: 0,0:06:13.79,0:06:15.43,Main Dialogue,Mik2,0000,0000,0000,,O que foi, mestre?
@@ -223,7 +223,7 @@ Dialogue: 0,0:10:10.46,0:10:12.50,Main Dialogue,Mom,0000,0000,0000,,Foi por caus
 Dialogue: 0,0:10:12.76,0:10:15.46,Atashinchi 8,txt,0000,0000,0000,,{\fad(400,1)\c&H16161D&}Novo Atashinchi
 Dialogue: 0,0:10:19.11,0:10:20.78,italic,Mom,0000,0000,0000,,Será que eu devo levar um guarda-chuva?
 Dialogue: 0,0:10:21.10,0:10:24.03,italic,Mom,0000,0000,0000,,Mas a previsão do tempo\N disse que ia fazer sol...
-Dialogue: 0,0:10:25.20,0:10:26.73,Main Dialogue,Wom,0000,0000,0000,,Sra. Orikasa!
+Dialogue: 0,0:10:25.20,0:10:26.73,Main Dialogue,Wom,0000,0000,0000,,Orikasa-san!
 Dialogue: 0,0:10:28.90,0:10:30.65,Main Dialogue,Wom,0000,0000,0000,,Quanto tempo!
 Dialogue: 0,0:10:31.45,0:10:33.61,Main Dialogue,Mom,0000,0000,0000,,Ori... kasa...
 Dialogue: 0,0:10:35.35,0:10:38.17,Main Dialogue,Mom,0000,0000,0000,,Dobre... Guarda-chuva...
@@ -289,10 +289,10 @@ Dialogue: 0,0:14:37.10,0:14:39.49,Main Dialogue,Yuzu,0000,0000,0000,,Essa camisa
 Dialogue: 0,0:14:47.83,0:14:50.03,Main Dialogue,Yuzu,0000,0000,0000,,Pare de confiar tanto nesse troço!
 Dialogue: 0,0:14:52.70,0:14:55.04,Atashinchi 10,txt,0000,0000,0000,,{\c&H607282&\3c&H68A2BC&}Novo Atashinchi
 Dialogue: 0,0:14:55.60,0:14:58.00,Atashinchi 8,txt,0000,0000,0000,,{\fad(400,1)\c&H0F0F0F&}Novo Atashinchi
-Dialogue: 0,0:14:58.00,0:15:00.23,Main Dialogue,miz,0000,0000,0000,,Sra. Tachibana!
-Dialogue: 0,0:15:00.57,0:15:02.46,Main Dialogue,mom,0000,0000,0000,,Ah, Sra. Mizushima!
+Dialogue: 0,0:14:58.00,0:15:00.23,Main Dialogue,miz,0000,0000,0000,,Tachibana-san!
+Dialogue: 0,0:15:00.57,0:15:02.46,Main Dialogue,mom,0000,0000,0000,,Ah, Mizushima-san!
 Dialogue: 0,0:15:03.32,0:15:04.88,italic,mom,0000,0000,0000,,Que moça bonita.
-Dialogue: 0,0:15:05.60,0:15:07.75,Main Dialogue,miz,0000,0000,0000,,Esta é a minha amiga, Sra. Matsunaga.
+Dialogue: 0,0:15:05.60,0:15:07.75,Main Dialogue,miz,0000,0000,0000,,Esta é a minha amiga, Matsunaga-san.
 Dialogue: 0,0:15:07.75,0:15:09.38,Main Dialogue,miz,0000,0000,0000,,Ela é modelo!
 Dialogue: 0,0:15:09.38,0:15:10.34,Main Dialogue,mat,0000,0000,0000,,Prazer em conhecê-la.
 Dialogue: 0,0:15:10.59,0:15:13.10,Main Dialogue,mom,0000,0000,0000,,Você é tão magra! E suas \Npernas são tão compridas!
@@ -301,7 +301,7 @@ Dialogue: 0,0:15:15.55,0:15:16.81,Main Dialogue,mat,0000,0000,0000,,Ah, nada dis
 Dialogue: 0,0:15:17.00,0:15:19.07,Main Dialogue,mom,0000,0000,0000,,Sua estrutura facial é perfeita.
 Dialogue: 0,0:15:19.07,0:15:21.77,Main Dialogue,mom,0000,0000,0000,,É como se tivesse sido esculpida!
 Dialogue: 0,0:15:22.46,0:15:25.53,Main Dialogue,mom,0000,0000,0000,,É outro nível! Está tudo tão perfeito!
-Dialogue: 0,0:15:25.54,0:15:30.28,Main Dialogue,miz,0000,0000,0000,,Sra. Tachibana, você não pode dizer para alguém\N na área dela que o rosto parece esculpido!
+Dialogue: 0,0:15:25.54,0:15:30.28,Main Dialogue,miz,0000,0000,0000,,Tachibana-san, você não pode dizer para alguém\N na área dela que o rosto parece esculpido!
 Dialogue: 0,0:15:30.28,0:15:31.24,Main Dialogue,mom,0000,0000,0000,,Hã? Por quê?
 Dialogue: 0,0:15:31.55,0:15:34.20,Main Dialogue,miz,0000,0000,0000,,Porque parece que você \Nacha que ela fez plástica!
 Dialogue: 0,0:15:34.50,0:15:38.74,Main Dialogue,Mom,0000,0000,0000,,Não foi isso que eu quis dizer.\N Sabe, "esculpida por Deus"!
@@ -310,11 +310,11 @@ Dialogue: 0,0:15:42.44,0:15:43.38,Main Dialogue,mom,0000,0000,0000,,Isso, isso.
 Dialogue: 0,0:15:43.38,0:15:47.85,Main Dialogue,mom,0000,0000,0000,,Então você é quase como...
 Dialogue: 0,0:15:48.76,0:15:49.51,Main Dialogue,mom,0000,0000,0000,,Um manequim!
 Dialogue: 0,0:15:50.37,0:15:53.57,Main Dialogue,mom,0000,0000,0000,,Eu queria dizer que você tem\N o rosto de um manequim!
-Dialogue: 0,0:15:53.57,0:15:57.29,Main Dialogue,miz,0000,0000,0000,,Sra. Tachibana! Não melhorou nada!
+Dialogue: 0,0:15:53.57,0:15:57.29,Main Dialogue,miz,0000,0000,0000,,Tachibana-san! Não melhorou nada!
 Dialogue: 0,0:15:57.64,0:15:59.01,Main Dialogue,mom,0000,0000,0000,,Parecer uma boneca não é bom?
 Dialogue: 0,0:15:59.01,0:16:01.02,Main Dialogue,miz,0000,0000,0000,,Mas você disse manequim! Não pode!
 Dialogue: 0,0:16:01.02,0:16:01.94,Main Dialogue,mom,0000,0000,0000,,É mesmo?
-Dialogue: 0,0:16:02.66,0:16:07.48,Main Dialogue,miz,0000,0000,0000,,A Sra. Tachibana quis dizer que\N sua pele é quase transparente.
+Dialogue: 0,0:16:02.66,0:16:07.48,Main Dialogue,miz,0000,0000,0000,,A Tachibana-san quis dizer que\N sua pele é quase transparente.
 Dialogue: 0,0:16:07.48,0:16:11.80,Main Dialogue,Mom,0000,0000,0000,,S-Sim.. É transparente e branca, quase como...
 Dialogue: 0,0:16:11.80,0:16:13.54,Main Dialogue,Mom,0000,0000,0000,,Um boneco de cera!
 Dialogue: 0,0:16:14.12,0:16:18.91,title,Tilt,0000,0000,0000,,{\fad(400,1)\c&H49A726&\3c&HE9E9E9&}Mamãe é Ruim com Exemplos
@@ -327,7 +327,7 @@ Dialogue: 0,0:16:30.13,0:16:32.30,italic,Miz,0000,0000,0000,,Bem, tem isso, mas.
 Dialogue: 0,0:16:32.49,0:16:35.09,Main Dialogue,Mom,0000,0000,0000,,Sabe, teve aquela outra vez...
 Dialogue: 0,0:16:37.48,0:16:38.90,flashback,mom,0000,0000,0000,,Que belo dia!
 Dialogue: 0,0:16:38.90,0:16:40.20,flashback,Miz,0000,0000,0000,,É mesmo.
-Dialogue: 0,0:16:45.00,0:16:46.15,flashback,Mom,0000,0000,0000,,Sra. Misumi!
+Dialogue: 0,0:16:45.00,0:16:46.15,flashback,Mom,0000,0000,0000,,Misumi-san!
 Dialogue: 0,0:16:46.92,0:16:48.63,flashback,Mis,0000,0000,0000,,Boa tarde.
 Dialogue: 0,0:16:48.63,0:16:51.21,flashback,Mom,0000,0000,0000,,Você está linda hoje!
 Dialogue: 0,0:16:51.21,0:16:51.86,flashback,Mis,0000,0000,0000,,Estou?
@@ -343,7 +343,7 @@ Dialogue: 0,0:17:09.42,0:17:11.88,flashback,Mis,0000,0000,0000,,Ele é mesmo, ma
 Dialogue: 0,0:17:11.88,0:17:13.06,flashback,Mom,0000,0000,0000,,Não, não...
 Dialogue: 0,0:17:13.06,0:17:16.62,flashback,Mom,0000,0000,0000,,Ele é muito fofo... Que nem... Que nem...
 Dialogue: 0,0:17:16.62,0:17:18.65,flashback,Mom,0000,0000,0000,,Um presunto festivo do dia de Finados!
-Dialogue: 0,0:17:19.12,0:17:20.97,flashback,Miz,0000,0000,0000,,Sra. Tachibana!
+Dialogue: 0,0:17:19.12,0:17:20.97,flashback,Miz,0000,0000,0000,,Tachibana-san!
 Dialogue: 0,0:17:21.62,0:17:25.27,Main Dialogue,Mom,0000,0000,0000,,Não é minha culpa, ela parecia bem\N o bastante para estar no comercial.
 Dialogue: 0,0:17:25.51,0:17:27.00,Main Dialogue,Miz,0000,0000,0000,,Ela entendeu.
 Dialogue: 0,0:17:27.00,0:17:29.21,Main Dialogue,Miz,0000,0000,0000,,Você se empolga fácil demais.
@@ -430,7 +430,7 @@ Dialogue: 0,0:21:41.19,0:21:42.61,italic,dad,0000,0000,0000,,Você está certa.
 Dialogue: 0,0:21:53.32,0:21:55.04,Atashinchi 14,txt,0000,0000,0000,,{\c&HF9F9F9&}Novo Atashinchi
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&H8635D7&}"Um Natal de Urso"
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HE0A416&}"Mamãe Pré-Histórica Depende da Sua Intuição"
-Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H0073EB&}"Iwaki e o Bolo de Natal"
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H0073EB&}"Iwaki-kun e o Bolo de Natal"
 Dialogue: 0,0:22:55.37,0:22:57.04,Main Dialogue,mom,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
 Dialogue: 0,0:22:57.04,0:22:58.83,Main Dialogue,mom,0000,0000,0000,,"Um Natal de Urso" e outros dois episódios!
 Dialogue: 0,0:22:58.83,0:23:00.33,Main Dialogue,Mik,0000,0000,0000,,Bate o sino, pequenino!

@@ -56,14 +56,14 @@ Dialogue: 0,0:01:16.13,0:01:17.80,Main Dialogue,Mom,0000,0000,0000,,São as prov
 Dialogue: 0,0:01:18.05,0:01:22.81,title,Tit,0001,0001,15,,{\c&H3B71EF&\3c&HE6E6E6&}{\fad(400,1)}Mães, Vestibular dos Pais
 Dialogue: 0,0:01:27.50,0:01:29.57,Italic,Mom,0000,0000,0000,,Eles estão estudando.
 Dialogue: 0,0:01:29.57,0:01:30.86,Italic,Mom,0000,0000,0000,,Que incrível!
-Dialogue: 0,0:01:38.36,0:01:39.68,Main Dialogue,Mom,0000,0000,0000,,Yuzinho!
+Dialogue: 0,0:01:38.36,0:01:39.68,Main Dialogue,Mom,0000,0000,0000,,Yuu-chan!
 Dialogue: 0,0:01:40.39,0:01:42.87,Main Dialogue,Mom,0000,0000,0000,,Você está estudando, não é?
 Dialogue: 0,0:01:43.28,0:01:44.45,Main Dialogue,Yuu,0000,0000,0000,,Isso mesmo.
 Dialogue: 0,0:01:56.80,0:01:58.13,Main Dialogue,Mom,0000,0000,0000,,Você está estudando?
 Dialogue: 0,0:01:58.46,0:02:00.47,Main Dialogue,Mik,0000,0000,0000,,Eu disse para bater!
 Dialogue: 0,0:02:00.47,0:02:02.47,Main Dialogue,Mom,0000,0000,0000,,Se não estiver estudando, vá dormir!
 Dialogue: 0,0:02:05.63,0:02:06.81,Main Dialogue,Mom,0000,0000,0000,,Ah, é mesmo.
-Dialogue: 0,0:02:06.81,0:02:10.06,Main Dialogue,Mom,0000,0000,0000,,A filha da Sra. Toyama está fazendo\N o vestibular para entrar no colégio.
+Dialogue: 0,0:02:06.81,0:02:10.06,Main Dialogue,Mom,0000,0000,0000,,A filha da Toyama-san está fazendo\N o vestibular para entrar no colégio.
 Dialogue: 0,0:02:19.86,0:02:22.28,Main Dialogue,Toy,0000,0000,0000,,Será que ela ainda está acordada?
 Dialogue: 0,0:02:25.79,0:02:27.12,Italic,Toy,0000,0000,0000,,Está.
 Dialogue: 0,0:02:28.96,0:02:31.26,Italic,Toy,0000,0000,0000,,Será que ela está estudando duro?
@@ -115,7 +115,7 @@ Dialogue: 0,0:05:16.82,0:05:18.10,Main Dialogue,Mik,0000,0000,0000,,Ah, boa tard
 Dialogue: 0,0:05:18.10,0:05:19.29,Main Dialogue,All,0000,0000,0000,,Boa tarde!
 Dialogue: 0,0:05:19.29,0:05:20.39,Main Dialogue,Mom,0000,0000,0000,,Você chegou cedo.
 Dialogue: 0,0:05:20.39,0:05:21.50,Main Dialogue,Mik,0000,0000,0000,,Nós tivemos as provas finais hoje.
-Dialogue: 0,0:05:22.05,0:05:25.59,Main Dialogue,Toy,0000,0000,0000,,Ei, Mikan, como você lidou com a \Npressão do vestibular para o colégio?
+Dialogue: 0,0:05:22.05,0:05:25.59,Main Dialogue,Toy,0000,0000,0000,,Ei, Mikan-chan, como você lidou com a \Npressão do vestibular para o colégio?
 Dialogue: 0,0:05:25.59,0:05:26.90,Main Dialogue,Mik,0000,0000,0000,,Hã?
 Dialogue: 0,0:05:26.90,0:05:28.68,Main Dialogue,Mik,0000,0000,0000,,Quer dizer as provas para entrar no colégio?
 Dialogue: 0,0:05:30.65,0:05:33.10,Main Dialogue,Mik,0000,0000,0000,,Bem, primeiro, minha mãe \Nentrou em pânico completo.
@@ -197,7 +197,7 @@ Dialogue: 0,0:07:55.99,0:07:58.33,Candy Heart,txt,0008,0001,15,,Novo Atashinchi
 Dialogue: 0,0:07:59.17,0:08:03.15,Main Dialogue,Toy,0000,0000,0000,,Minha filha estava se esforçando\N tanto fazendo chocolate
 Dialogue: 0,0:08:03.15,0:08:05.18,Main Dialogue,Toy,0000,0000,0000,,que meu marido ficou com ciúmes.
 Dialogue: 0,0:08:05.40,0:08:07.10,Main Dialogue,Miz,0000,0000,0000,,Que coisa fofa.
-Dialogue: 0,0:08:07.34,0:08:08.31,Main Dialogue,Miz,0000,0000,0000,,E a Mikan?
+Dialogue: 0,0:08:07.34,0:08:08.31,Main Dialogue,Miz,0000,0000,0000,,E a Mikan-chan?
 Dialogue: 0,0:08:08.31,0:08:09.69,Main Dialogue,Miz,0000,0000,0000,,Ela está preparando alguma \Ncoisa para o Dia dos Namorados?
 Dialogue: 0,0:08:09.99,0:08:11.48,Main Dialogue,Mom,0000,0000,0000,,Acho que ela está atrasada nesses assuntos.
 Dialogue: 0,0:08:11.48,0:08:12.26,Main Dialogue,Toy,0000,0000,0000,,É mesmo?
@@ -240,7 +240,7 @@ Dialogue: 0,0:10:09.36,0:10:13.00,Italic,Mom,0000,0000,0000,,Será que ela não 
 Dialogue: 0,0:10:15.56,0:10:16.76,Main Dialogue,Mom,0000,0000,0000,,Mikan!
 Dialogue: 0,0:10:16.95,0:10:19.59,Main Dialogue,Mom,0000,0000,0000,,Ei, Mikan, você tem algum namoradinho?
 Dialogue: 0,0:10:19.82,0:10:20.55,Main Dialogue,Mik,0000,0000,0000,,Hã?
-Dialogue: 0,0:10:20.75,0:10:22.54,Main Dialogue,Mom,0000,0000,0000,,Sabia que a filha da Sra. Toyama
+Dialogue: 0,0:10:20.75,0:10:22.54,Main Dialogue,Mom,0000,0000,0000,,Sabia que a filha da Toyama-san
 Dialogue: 0,0:10:20.93,0:10:24.26,Kareshi,txt,0364,0001,15,,{\fad(300,1)}Namorado
 Dialogue: 0,0:10:22.54,0:10:24.54,Main Dialogue,Mom,0000,0000,0000,,tem um namoradinho?
 Dialogue: 0,0:10:24.54,0:10:28.01,Main Dialogue,Mik,0000,0000,0000,,Pode parar de falar assim?

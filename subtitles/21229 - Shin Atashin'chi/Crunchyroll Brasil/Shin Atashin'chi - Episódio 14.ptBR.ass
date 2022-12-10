@@ -133,7 +133,7 @@ Dialogue: 0,0:06:29.29,0:06:30.16,Main Dialogue,mik,0000,0000,0000,,O que é iss
 Dialogue: 0,0:06:30.16,0:06:31.39,Main Dialogue,mom,0000,0000,0000,,Presentes.
 Dialogue: 0,0:06:31.39,0:06:33.33,Main Dialogue,mika,0000,0000,0000,,Presentes? De onde?
 Dialogue: 0,0:06:33.52,0:06:36.31,Main Dialogue,yuz,0000,0000,0000,,Uvas, pêssegos, sopa hoto e vinho.
-Dialogue: 0,0:06:34.82,0:06:35.58,Title 1,txt,0000,0000,0000,,Especialidade de Yamanashi\NHoto
+Dialogue: 0,0:06:34.82,0:06:35.58,Title 1,txt,0000,0000,0000,,Especialidade de Yamanashi\NHoutou
 Dialogue: 0,0:06:36.54,0:06:37.65,Main Dialogue,yuz,0000,0000,0000,,Ele estava em Yamanashi.
 Dialogue: 0,0:06:37.65,0:06:39.67,Main Dialogue,mom,0000,0000,0000,,Querido, você foi tão longe?
 Dialogue: 0,0:06:40.36,0:06:42.85,italic,mik,0000,0000,0000,,Poxa... É sério, pai?
@@ -167,7 +167,7 @@ Dialogue: 0,0:08:18.87,0:08:20.10,Title 1,txt,0000,0000,0000,,{\fad(400,1)}Artes
 Dialogue: 0,0:08:19.15,0:08:20.10,Main Dialogue,tyo,0000,0000,0000,,Artes Marciais!
 Dialogue: 0,0:08:20.86,0:08:24.06,Main Dialogue,tyo,0000,0000,0000,,Roupa branca...
 Dialogue: 0,0:08:25.56,0:08:29.73,Main Dialogue,tyo,0000,0000,0000,,Ah, ficamos sem sapão em pó e eu \Nlembrei que preciso comprar mais.
-Dialogue: 0,0:08:30.18,0:08:31.96,Main Dialogue,tyo,0000,0000,0000,,Sra. Tachibana, obrigada.
+Dialogue: 0,0:08:30.18,0:08:31.96,Main Dialogue,tyo,0000,0000,0000,,Tachibana-san, obrigada.
 Dialogue: 0,0:08:31.96,0:08:35.31,Main Dialogue,tyo,0000,0000,0000,,Graças às uvas eu consegui me lembrar.
 Dialogue: 0,0:08:35.31,0:08:36.41,Main Dialogue,both,0000,0000,0000,,Hã?
 Dialogue: 0,0:08:36.75,0:08:41.41,title,titl,0000,0000,0000,,{\fad(400,1)\c&H3FA815&\3c&HC1F4C7&}O Treinamento de Cérebro da Mamãe
@@ -306,18 +306,18 @@ Dialogue: 0,0:14:02.70,0:14:03.84,Main Dialogue,mom,0000,0000,0000,,Pato?
 Dialogue: 0,0:14:03.84,0:14:05.19,Main Dialogue,toy,0000,0000,0000,,Parece uma delícia também!
 Dialogue: 0,0:14:06.95,0:14:09.13,Main Dialogue,mom,0000,0000,0000,,Agora eu me lembrei! Eu—
 Dialogue: 0,0:14:10.99,0:14:12.37,Main Dialogue,mom,0000,0000,0000,,Não, não consigo!
-Dialogue: 0,0:14:12.70,0:14:14.72,Main Dialogue,miz,0000,0000,0000,,Sra. Tachibana, o que você comeu?
+Dialogue: 0,0:14:12.70,0:14:14.72,Main Dialogue,miz,0000,0000,0000,,Tachibana-san, o que você comeu?
 Dialogue: 0,0:14:15.19,0:14:17.33,Main Dialogue,mom,0000,0000,0000,,Eu... Eu...
 Dialogue: 0,0:14:18.21,0:14:19.05,flashback,mom,0000,0000,0000,,Que desperdício!
 Dialogue: 0,0:14:19.05,0:14:23.18,italic,mom,0000,0000,0000,,De forma alguma eu posso dizer que peguei\N o caldo do lámen da Mikan, coloquei arroz
 Dialogue: 0,0:14:23.18,0:14:25.50,italic,mom,0000,0000,0000,,e engoli até o fim!
 Dialogue: 0,0:14:25.50,0:14:27.72,italic,mom,0000,0000,0000,,Que vergonha!
-Dialogue: 0,0:14:28.27,0:14:30.62,Main Dialogue,miz,0000,0000,0000,,Sra. Tachibana! Boa sorte!
+Dialogue: 0,0:14:28.27,0:14:30.62,Main Dialogue,miz,0000,0000,0000,,Tachibana-san! Boa sorte!
 Dialogue: 0,0:14:30.62,0:14:32.71,Main Dialogue,toy,0000,0000,0000,,Você está quase lá! Se lembre!
 Dialogue: 0,0:14:32.71,0:14:35.31,Main Dialogue,miz,0000,0000,0000,,Não desista! Se você desistir...
 Dialogue: 0,0:14:35.31,0:14:37.17,Main Dialogue,toy,0000,0000,0000,,É fim de jogo!
 Dialogue: 0,0:14:39.40,0:14:41.06,Main Dialogue,mom,0000,0000,0000,,Me desculpem!
-Dialogue: 0,0:14:41.06,0:14:42.36,Main Dialogue,both,0000,0000,0000,,Sra. Tachibana?
+Dialogue: 0,0:14:41.06,0:14:42.36,Main Dialogue,both,0000,0000,0000,,Tachibana-san?
 Dialogue: 0,0:14:42.36,0:14:46.00,Main Dialogue,mom,0000,0000,0000,,Sabem, é que isso...
 Dialogue: 0,0:14:46.00,0:14:46.79,Main Dialogue,both,0000,0000,0000,,Isso?
 Dialogue: 0,0:14:46.79,0:14:47.93,Main Dialogue,mom,0000,0000,0000,,Isso.
@@ -340,7 +340,7 @@ Dialogue: 0,0:15:47.20,0:15:48.88,Main Dialogue,Girl,0000,0000,0000,,Deslizada T
 Dialogue: 0,0:15:52.17,0:15:56.39,Main Dialogue,Girl,0000,0000,0000,,Ei, o que é aquilo que vocês têm feito?
 Dialogue: 0,0:15:56.66,0:15:58.81,Main Dialogue,Girl,0000,0000,0000,,Vocês andam correndo por aí.
 Dialogue: 0,0:15:59.17,0:16:01.14,Main Dialogue,Girl2,0000,0000,0000,,Tem regras?
-Dialogue: 0,0:16:02.20,0:16:05.25,italic,Fuj,0000,0000,0000,,Sudo, você está olhando para mim?
+Dialogue: 0,0:16:02.20,0:16:05.25,italic,Fuj,0000,0000,0000,,Sudou-chan, você está olhando para mim?
 Dialogue: 0,0:16:05.25,0:16:06.39,Main Dialogue,Girl,0000,0000,0000,,Então, o que é?
 Dialogue: 0,0:16:06.39,0:16:09.07,Main Dialogue,Fuj,0000,0000,0000,,Bem, aquilo...
 Dialogue: 0,0:16:09.52,0:16:12.04,Main Dialogue,Fuj,0000,0000,0000,,...é um jogo inocente de pega-pega.
@@ -354,7 +354,7 @@ Dialogue: 0,0:16:24.25,0:16:25.20,flashback,Guys,0000,0000,0000,,Sim, sim...
 Dialogue: 0,0:16:25.20,0:16:27.92,flashback,Yuz,0000,0000,0000,,...aquele programa sobre o Egito ontem?
 Dialogue: 0,0:16:27.92,0:16:29.30,flashback,Guys,0000,0000,0000,,Vimos!
 Dialogue: 0,0:16:29.30,0:16:32.01,flashback,Yuz,0000,0000,0000,,Sabe, a múmia saiu...
-Dialogue: 0,0:16:32.67,0:16:35.34,flashback,Yuz,0000,0000,0000,,...e parecia o Prof. Hara!
+Dialogue: 0,0:16:32.67,0:16:35.34,flashback,Yuz,0000,0000,0000,,...e parecia o Hara-sen!
 Dialogue: 0,0:16:40.17,0:16:43.69,Main Dialogue,Fuj,0000,0000,0000,,Nós todos começamos a \Ncorrer ao mesmo tempo.
 Dialogue: 0,0:16:43.69,0:16:46.81,Main Dialogue,Fuj,0000,0000,0000,,Quando nos cansamos, nós paramos.
 Dialogue: 0,0:16:47.54,0:16:48.82,Main Dialogue,Fuj,0000,0000,0000,,Mas se alguém começar a gritar de novo...
@@ -367,7 +367,7 @@ Dialogue: 0,0:17:03.99,0:17:06.35,Main Dialogue,Fuj,0000,0000,0000,,Nós só est
 Dialogue: 0,0:17:06.35,0:17:09.04,Main Dialogue,Fuj,0000,0000,0000,,em um {\i1}inocente{\i0} pega-pega.
 Dialogue: 0,0:17:09.31,0:17:11.02,Main Dialogue,Girl,0000,0000,0000,,Entendo.
 Dialogue: 0,0:17:11.02,0:17:12.54,Main Dialogue,Girl,0000,0000,0000,,Agora eu entendi.
-Dialogue: 0,0:17:13.19,0:17:16.01,Main Dialogue,girl2,0000,0000,0000,,O Tachibana que pensa nessas coisas?
+Dialogue: 0,0:17:13.19,0:17:16.01,Main Dialogue,girl2,0000,0000,0000,,O Tachibana-kun que pensa nessas coisas?
 Dialogue: 0,0:17:16.01,0:17:18.80,Main Dialogue,Fuj,0000,0000,0000,,Sim, o Yuzupi pensa em todo tipo de coisa.
 Dialogue: 0,0:17:18.80,0:17:20.22,Main Dialogue,Fuj,0000,0000,0000,,Como naquela vez...
 Dialogue: 0,0:17:20.22,0:17:20.93,Main Dialogue,nas,0000,0000,0000,,Sim!
@@ -418,7 +418,7 @@ Dialogue: 0,0:19:32.83,0:19:36.69,Main Dialogue,Mik,0000,0000,0000,,A Deslizada 
 Dialogue: 0,0:19:36.69,0:19:38.16,flashback,Both,0000,0000,0000,,É isso!
 Dialogue: 0,0:19:40.85,0:19:43.91,flashback,Nas,0000,0000,0000,,Eu não acompanho esses dois.
 Dialogue: 0,0:19:46.69,0:19:48.33,Main Dialogue,Girl,0000,0000,0000,,Foi isso que aconteceu?
-Dialogue: 0,0:19:48.33,0:19:51.45,Main Dialogue,Girl,0000,0000,0000,,O Tachibana tem tantas ideias.
+Dialogue: 0,0:19:48.33,0:19:51.45,Main Dialogue,Girl,0000,0000,0000,,O Tachibana-kun tem tantas ideias.
 Dialogue: 0,0:19:51.45,0:19:52.10,Main Dialogue,Girl2,0000,0000,0000,,Sim.
 Dialogue: 0,0:19:52.10,0:19:55.23,Main Dialogue,Girl2,0000,0000,0000,,Achei que eles só estavam\N correndo que nem idiotas.
 Dialogue: 0,0:19:55.23,0:19:56.22,Main Dialogue,Girl,0000,0000,0000,,É mesmo.

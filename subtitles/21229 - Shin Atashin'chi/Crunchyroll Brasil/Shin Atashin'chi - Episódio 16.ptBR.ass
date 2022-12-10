@@ -75,7 +75,7 @@ Dialogue: 0,0:02:55.11,0:02:57.26,flashback,Yuz,0000,0000,0000,,Mas está escrit
 Dialogue: 0,0:02:57.26,0:02:58.76,flashback,Fuj,0000,0000,0000,,Acho que essa não vai rolar.
 Dialogue: 0,0:02:58.76,0:03:01.16,flashback,Fuj,0000,0000,0000,,Minha mãe comprou por acaso.
 Dialogue: 0,0:03:01.16,0:03:03.18,flashback,Yuz,0000,0000,0000,,Dandy! Dandy!
-Dialogue: 0,0:03:03.90,0:03:05.04,flashback,Mom,0000,0000,0000,,Yuzinho?
+Dialogue: 0,0:03:03.90,0:03:05.04,flashback,Mom,0000,0000,0000,,Yuu-chan?
 Dialogue: 0,0:03:05.96,0:03:06.62,flashback,Mom,0000,0000,0000,,Coloque isto!
 Dialogue: 0,0:03:08.12,0:03:09.54,flashback,Yuz,0000,0000,0000,,Banana Dandy?
 Dialogue: 0,0:03:09.54,0:03:13.17,flashback,Mom,0000,0000,0000,,Eu vi e {\i1}tive{\i0} que comprar para você.
@@ -119,7 +119,7 @@ Dialogue: 0,0:05:11.73,0:05:12.82,Main Dialogue,Ann,0000,0000,0000,,Número 59!
 Dialogue: 0,0:05:19.37,0:05:20.75,Main Dialogue,Dad,0000,0000,0000,,B-Bingo!
 Dialogue: 0,0:05:23.05,0:05:24.07,Main Dialogue,Ann,0000,0000,0000,,Pode me dizer o seu nome?
 Dialogue: 0,0:05:24.07,0:05:25.22,Main Dialogue,Dad,0000,0000,0000,,Eu sou o Tachibana.
-Dialogue: 0,0:05:25.59,0:05:28.48,Main Dialogue,Ann,0000,0000,0000,,Então, Sr. Tachibana, você acabou de ganhar
+Dialogue: 0,0:05:25.59,0:05:28.48,Main Dialogue,Ann,0000,0000,0000,,Então, Tachibana-san, você acabou de ganhar
 Dialogue: 0,0:05:28.48,0:05:31.55,Main Dialogue,Ann,0000,0000,0000,,a máquina de massagens nos pés {\i1}Ashimomi{\i0}!
 Dialogue: 0,0:05:35.08,0:05:36.71,Main Dialogue,Ann,0000,0000,0000,,Parabéns!
 Dialogue: 0,0:05:37.13,0:05:37.85,Main Dialogue,Dad,0000,0000,0000,,Obrigado.
@@ -243,8 +243,8 @@ Dialogue: 0,0:11:18.21,0:11:19.61,Main Dialogue,Hiro,0000,0000,0000,,Acho que é
 Dialogue: 0,0:11:19.61,0:11:21.45,Main Dialogue,Dad,0000,0000,0000,,Você caiu na armadilha do inimigo.
 Dialogue: 0,0:11:21.45,0:11:23.66,Main Dialogue,Wom,0000,0000,0000,,Quem é o inimigo?
 Dialogue: 0,0:11:24.82,0:11:26.84,Main Dialogue,Guy,0000,0000,0000,,Isso me lembra...
-Dialogue: 0,0:11:30.83,0:11:32.75,flashback,Guy,0000,0000,0000,,Tirei o Ebisu de novo!
-Dialogue: 0,0:11:33.35,0:11:34.99,flashback italic,Guy,0000,0000,0000,,Eu só preciso tirar a Benten e...
+Dialogue: 0,0:11:30.83,0:11:32.75,flashback,Guy,0000,0000,0000,,Tirei o Ebisu-sama de novo!
+Dialogue: 0,0:11:33.35,0:11:34.99,flashback italic,Guy,0000,0000,0000,,Eu só preciso tirar a Benten-sama e...
 Dialogue: 0,0:11:34.99,0:11:38.11,flashback italic,Guy,0000,0000,0000,,Terei uma coleção completa\N dos Sete Deuses da Sorte!
 Dialogue: 0,0:11:43.33,0:11:44.89,Main Dialogue,Wom,0000,0000,0000,,O que explica isso...
 Dialogue: 0,0:11:45.20,0:11:47.10,Main Dialogue,Guy,0000,0000,0000,,Eu tenho 108 deles.
@@ -314,7 +314,7 @@ Dialogue: 0,0:14:17.52,0:14:19.88,Main Dialogue,Guy,0000,0000,0000,,Se vocês go
 Dialogue: 0,0:14:20.38,0:14:22.18,Main Dialogue,Dad,0000,0000,0000,,Obrigado.
 Dialogue: 0,0:14:23.08,0:14:25.34,Main Dialogue,Hiro,0000,0000,0000,,Uau! Que gostoso!
 Dialogue: 0,0:14:26.09,0:14:27.72,Main Dialogue,Dad,0000,0000,0000,,E vai bem com uma bebidinha!
-Dialogue: 0,0:14:27.72,0:14:29.15,Main Dialogue,Dad,0000,0000,0000,,Mako, mais uma rodada de saquê.
+Dialogue: 0,0:14:27.72,0:14:29.15,Main Dialogue,Dad,0000,0000,0000,,Mako-chan, mais uma rodada de saquê.
 Dialogue: 0,0:14:29.15,0:14:30.06,Main Dialogue,Wom,0000,0000,0000,,Claro.
 Dialogue: 0,0:14:30.06,0:14:33.96,Main Dialogue,Guy,0000,0000,0000,,Que bom ouvir isso.
 Dialogue: 0,0:14:33.96,0:14:36.67,Main Dialogue,Guy,0000,0000,0000,,Só entre nós, isso é bem fácil de fazer.
@@ -402,7 +402,7 @@ Dialogue: 0,0:18:20.13,0:18:22.47,Main Dialogue,Mizu,0000,0000,0000,,Esse é o t
 Dialogue: 0,0:18:22.47,0:18:23.70,Main Dialogue,Mom,0000,0000,0000,,Assim...
 Dialogue: 0,0:18:23.70,0:18:25.74,Italic,Both,0000,0000,0000,,Força!
 Dialogue: 0,0:18:25.74,0:18:27.79,Italic,Both,0000,0000,0000,,Força!
-Dialogue: 0,0:18:36.14,0:18:37.91,Main Dialogue,Mom,0000,0000,0000,,Sra. Mizushima, não vai comprar nada?
+Dialogue: 0,0:18:36.14,0:18:37.91,Main Dialogue,Mom,0000,0000,0000,,Mizushima-san, não vai comprar nada?
 Dialogue: 0,0:18:37.91,0:18:40.14,Main Dialogue,Miz,0000,0000,0000,,Bem, vamos comer tempura hoje à noite.
 Dialogue: 0,0:18:40.14,0:18:41.49,Main Dialogue,Mom,0000,0000,0000,,Por que não faz tempura com tofu?
 Dialogue: 0,0:18:41.49,0:18:42.60,Main Dialogue,Miz,0000,0000,0000,,Não, obrigada.
@@ -473,10 +473,10 @@ Dialogue: 0,0:21:46.11,0:21:47.73,Italic,mom,0000,0000,0000,,Força!
 Dialogue: 0,0:21:48.13,0:21:50.06,Italic,mom,0000,0000,0000,,Força!
 Dialogue: 0,0:21:50.06,0:21:52.37,Italic,mom,0000,0000,0000,,Força!
 Dialogue: 0,0:21:52.37,0:21:55.04,Atashinchi,txt,0000,0000,0000,,{\fad(400,1)}Novo Atashinchi
-Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HA84892&}O Festival de Jogar Soja do Tazinho
+Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,{\c&HA84892&}O Festival de Jogar Soja do Takkun
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 2,txt,0000,0000,0000,,{\c&HE9A71B&}Mikan é Grossa
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 3,txt,0000,0000,0000,,{\c&H343EE5&}O Incidente Horohoro
 Dialogue: 0,0:22:55.60,0:22:57.69,Main Dialogue,mik,0000,0000,0000,,No próximo episódio de "{\i1}Novo Atashinchi{\i0}":
-Dialogue: 0,0:22:57.69,0:22:59.67,Main Dialogue,mik,0000,0000,0000,,"O Festival de Jogar Soja do Tazinho" \Ne outros dois episódios!
+Dialogue: 0,0:22:57.69,0:22:59.67,Main Dialogue,mik,0000,0000,0000,,"O Festival de Jogar Soja do Takkun" \Ne outros dois episódios!
 Dialogue: 0,0:22:59.67,0:23:02.69,Main Dialogue,guy,0000,0000,0000,,Pode achar que é só soja, mas tem muito mais!
 Dialogue: 0,0:23:02.69,0:23:04.28,Main Dialogue,boy,0000,0000,0000,,Demônios são legais!

@@ -94,12 +94,12 @@ Dialogue: 0,0:04:22.67,0:04:23.72,Main Dialogue,mik,0000,0000,0000,,Você entend
 Dialogue: 0,0:04:23.72,0:04:24.49,Main Dialogue,dad,0000,0000,0000,,Não.
 Dialogue: 0,0:04:26.12,0:04:28.53,Atashinchi 10,txt,0001,0001,15,,{\c&HE4E5FD&\3c&H1500D2&}Novo {\c&H6BE5F3&\3c&H548961&}A{\c&H77DCA9&}ta{\c&H73A3F3&}shi{\c&HF8CF78&\3c&H548961&}n{\c&HCE8BF5&}chi
 Dialogue: 0,0:04:31.15,0:04:33.53,Main Dialogue,mik,0000,0000,0000,,Telepatia?
-Dialogue: 0,0:04:35.01,0:04:38.71,Italic,mik,0000,0000,0000,,O que será que o Iwaki está pensando?
+Dialogue: 0,0:04:35.01,0:04:38.71,Italic,mik,0000,0000,0000,,O que será que o Iwaki-kun está pensando?
 Dialogue: 0,0:04:43.25,0:04:44.63,Italic,mik,0000,0000,0000,,É a borracha daquele dia?
 Dialogue: 0,0:04:54.01,0:04:55.76,flashback,mik,0000,0000,0000,,Me desculpe!
 Dialogue: 0,0:04:55.76,0:04:59.28,Italic,mik,0000,0000,0000,,Será que ele está pensando naquilo?
-Dialogue: 0,0:05:00.24,0:05:02.03,Italic,mik,0000,0000,0000,,Talvez o Iwaki esteja...
-Dialogue: 0,0:05:02.67,0:05:06.78,Italic,iwa,0000,0000,0000,,Onde será que isso tocou na Tachibana...
+Dialogue: 0,0:05:00.24,0:05:02.03,Italic,mik,0000,0000,0000,,Talvez o Iwaki-kun esteja...
+Dialogue: 0,0:05:02.67,0:05:06.78,Italic,iwa,0000,0000,0000,,Onde será que isso tocou na Tachibana-san...
 Dialogue: 0,0:05:06.78,0:05:08.74,Italic,mik,0000,0000,0000,,...pensando em alguma coisa assim!
 Dialogue: 0,0:05:11.62,0:05:13.91,Italic,iwa,0000,0000,0000,,Essa borracha apaga tão bem.
 Dialogue: 0,0:05:14.89,0:05:16.91,Main Dialogue,shi,0000,0000,0000,,O que você está rindo aí?
@@ -113,7 +113,7 @@ Dialogue: 0,0:05:35.70,0:05:36.49,Main Dialogue,mom,0000,0000,0000,,Aquilo?
 Dialogue: 0,0:05:36.96,0:05:38.10,Main Dialogue,mom,0000,0000,0000,,Ah, aquilo!
 Dialogue: 0,0:05:38.46,0:05:39.22,Main Dialogue,dad,0000,0000,0000,,Sim...
 Dialogue: 0,0:05:39.22,0:05:40.60,Main Dialogue,mom,0000,0000,0000,,Você vai tentar?
-Dialogue: 0,0:05:45.09,0:05:48.42,Main Dialogue,mom,0000,0000,0000,,Tcharam! O bolo de peixe que \Na Sra. Mizushima nos deu.
+Dialogue: 0,0:05:45.09,0:05:48.42,Main Dialogue,mom,0000,0000,0000,,Tcharam! O bolo de peixe que \Na Mizushima-san nos deu.
 Dialogue: 0,0:05:48.42,0:05:51.17,Main Dialogue,mom,0000,0000,0000,,Eu não quis abrir até agora, \Nquase esqueci que tínhamos.
 Dialogue: 0,0:05:51.17,0:05:53.83,Main Dialogue,mom,0000,0000,0000,,Você tem uma boa memória.
 Dialogue: 0,0:05:55.26,0:05:56.29,Main Dialogue,mom,0000,0000,0000,,Aproveite!
@@ -125,8 +125,8 @@ Dialogue: 0,0:06:08.99,0:06:11.62,Italic,dad,0000,0000,0000,,Ah, bem, bolo de pe
 Dialogue: 0,0:06:14.35,0:06:15.41,Main Dialogue,mom,0000,0000,0000,,Como está?
 Dialogue: 0,0:06:15.41,0:06:16.16,Main Dialogue,dad,0000,0000,0000,,Hm...
 Dialogue: 0,0:06:16.16,0:06:17.52,Main Dialogue,mom,0000,0000,0000,,É mesmo?
-Dialogue: 0,0:06:17.52,0:06:19.89,Main Dialogue,mom,0000,0000,0000,,A Sra. Mizushima vai ficar tão feliz!
-Dialogue: 0,0:06:24.10,0:06:25.32,Main Dialogue,mom,0000,0000,0000,,Alô, Sra. Mizushima?
+Dialogue: 0,0:06:17.52,0:06:19.89,Main Dialogue,mom,0000,0000,0000,,A Mizushima-san vai ficar tão feliz!
+Dialogue: 0,0:06:24.10,0:06:25.32,Main Dialogue,mom,0000,0000,0000,,Alô, Mizushima-san?
 Dialogue: 0,0:06:25.68,0:06:29.40,Main Dialogue,mom,0000,0000,0000,,É um pouco tarde, mas é sobre aquele\N bolo de peixe que você nos deu.
 Dialogue: 0,0:06:29.76,0:06:31.78,Main Dialogue,mom,0000,0000,0000,,Sim, obrigada!
 Dialogue: 0,0:06:32.34,0:06:35.49,Main Dialogue,mom,0000,0000,0000,,Meu marido disse que estava muito gostoso.
@@ -134,9 +134,9 @@ Dialogue: 0,0:06:36.68,0:06:37.96,Italic,dad,0000,0000,0000,,Eu nem falei isso.
 Dialogue: 0,0:06:38.35,0:06:41.42,Main Dialogue,mom,0000,0000,0000,,Ele comeu tudo e pediu para eu comprar mais.
 Dialogue: 0,0:06:41.87,0:06:44.12,Italic,dad,0000,0000,0000,,Eu não disse isso também.
 Dialogue: 0,0:06:44.38,0:06:46.74,Main Dialogue,mom,0000,0000,0000,,Certo, até mais! Obrigada!
-Dialogue: 0,0:06:48.35,0:06:50.34,Main Dialogue,mom,0000,0000,0000,,A Sra. Mizushima ficou tão feliz.
+Dialogue: 0,0:06:48.35,0:06:50.34,Main Dialogue,mom,0000,0000,0000,,A Mizushima-san ficou tão feliz.
 Dialogue: 0,0:06:53.48,0:06:57.72,Main Dialogue,mom,0000,0000,0000,,Que delícia! Que bom que você se lembrou.
-Dialogue: 0,0:06:58.11,0:06:59.94,Main Dialogue,mom,0000,0000,0000,,Mikan! Yuzinho!
+Dialogue: 0,0:06:58.11,0:06:59.94,Main Dialogue,mom,0000,0000,0000,,Mikan! Yuu-chan!
 Dialogue: 0,0:07:00.35,0:07:01.81,Main Dialogue,both,0000,0000,0000,,Obrigado.
 Dialogue: 0,0:07:04.70,0:07:05.27,Main Dialogue,mik,0000,0000,0000,,Que delícia!
 Dialogue: 0,0:07:06.18,0:07:07.23,Main Dialogue,yuz,0000,0000,0000,,Que coisa mais chique!
@@ -323,7 +323,7 @@ Dialogue: 0,0:19:36.78,0:19:37.79,Main Dialogue,Iwa,0000,0000,0000,,Obrigado.
 Dialogue: 0,0:19:39.88,0:19:41.69,Italic,Yos,0000,0000,0000,,Confortável?
 Dialogue: 0,0:19:42.45,0:19:45.12,Atashinchi 7,txt,0326,0001,0014,,{\fad(400,1)}Novo Atashinchi
 Dialogue: 0,0:19:50.17,0:19:52.12,Italic,Mik,0000,0000,0000,,É o Yoshioka e...
-Dialogue: 0,0:19:52.70,0:19:54.20,Italic,Mik,0000,0000,0000,,O Iwaki!
+Dialogue: 0,0:19:52.70,0:19:54.20,Italic,Mik,0000,0000,0000,,O Iwaki-kun!
 Dialogue: 0,0:19:57.60,0:19:58.31,Main Dialogue,Yos,0000,0000,0000,,E aí.
 Dialogue: 0,0:20:03.60,0:20:04.90,Main Dialogue,Yos,0000,0000,0000,,O que foi?
 Dialogue: 0,0:20:05.68,0:20:08.21,Main Dialogue,Mik,0000,0000,0000,,A sua franja!

@@ -84,7 +84,7 @@ Dialogue: 0,0:03:04.12,0:03:07.08,Default,Mik,0000,0000,0000,,Silêncio. Silênc
 Dialogue: 0,0:03:08.63,0:03:12.50,Default,Girl,0000,0000,0000,,Obrigada, Mikan. Vou deixar os 100 ienes aqui.
 Dialogue: 0,0:03:13.94,0:03:17.65,Default,Mik,0000,0000,0000,,100 ienes. 100 ienes. 100 ienes.
 Dialogue: 0,0:03:20.20,0:03:21.97,Atashinchi,Text,0000,0000,0000,,{\fad(333,1)\c&HF0F0F0&}Novo Atashinchi
-Dialogue: 0,0:03:21.97,0:03:25.05,Default,Mik,0000,0000,0000,,Não foi tão engraçado, Shimi!
+Dialogue: 0,0:03:21.97,0:03:25.05,Default,Mik,0000,0000,0000,,Não foi tão engraçado, Shimi-chan!
 Dialogue: 0,0:03:26.38,0:03:27.43,Default,Hos,0000,0000,0000,,Foi mal.
 Dialogue: 0,0:03:28.05,0:03:31.97,Default,Mik,0000,0000,0000,,Fico impressionada com pessoas que conseguem\N fazer mais de uma coisa ao mesmo tempo.
 Dialogue: 0,0:03:31.97,0:03:34.78,Default,Mik,0000,0000,0000,,Quero dizer, agora eu estou falando \Nno telefone com as pernas cruzadas.
@@ -247,10 +247,10 @@ Dialogue: 0,0:11:44.93,0:11:46.76,Default,Mom,0000,0000,0000,,Continue... Contin
 Dialogue: 0,0:11:47.86,0:11:50.73,Default,Mik,0000,0000,0000,,É muito difícil caminhar assim!
 Dialogue: 0,0:11:52.24,0:11:54.38,Default,Mik,0000,0000,0000,,O quê? Outro conhecido?
 Dialogue: 0,0:11:54.38,0:11:56.32,Default,Mom,0000,0000,0000,,Eu costumava vir nesse salão de beleza.
-Dialogue: 0,0:11:56.32,0:12:00.19,Default,Mom,0000,0000,0000,,Mas a Sra. Mizushima me apresentou\N um novo e eu nunca mais voltei aqui.
+Dialogue: 0,0:11:56.32,0:12:00.19,Default,Mom,0000,0000,0000,,Mas a Mizushima-san me apresentou\N um novo e eu nunca mais voltei aqui.
 Dialogue: 0,0:12:02.07,0:12:02.90,Default,Wom,0000,0000,0000,,Hã?
 Dialogue: 0,0:12:03.61,0:12:05.89,Default,Mom,0000,0000,0000,,Eu só me sinto mal.
-Dialogue: 0,0:12:05.89,0:12:11.67,Default,Mom,0000,0000,0000,,"Onde você esteve, Sra. Tachibana? Eu espero \Nque não tenha uma experiência desagradável".
+Dialogue: 0,0:12:05.89,0:12:11.67,Default,Mom,0000,0000,0000,,"Onde você esteve, Tachibana-san? Eu espero \Nque não tenha uma experiência desagradável".
 Dialogue: 0,0:12:11.67,0:12:13.62,Default,Mom,0000,0000,0000,,Eu não iria querer que ela pensasse nisso.
 Dialogue: 0,0:12:15.65,0:12:17.21,Default,Mik,0000,0000,0000,,E agora?
 Dialogue: 0,0:12:17.21,0:12:18.92,Default,Mom,0000,0000,0000,,É o farmacêutico.
