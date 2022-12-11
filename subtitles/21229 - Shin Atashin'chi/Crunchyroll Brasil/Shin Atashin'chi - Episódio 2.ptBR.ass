@@ -36,9 +36,31 @@ Style: Next title 1,Comic Sans MS,26,&H00B23F9B,&H000000FF,&H00FEFEFE,&H00000000
 Style: Next title 2,Comic Sans MS,26,&H00D9A11A,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0175,1
 Style: Next title 3,Comic Sans MS,26,&H003F4CEB,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,8,0020,0010,0225,1
 Style: Atashinchi 8,Trebuchet MS,28,&H00FBFAF8,&H000000FF,&H00EED6A0,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,0110,0080,0010,1
+Style: ED,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00FD4D16,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: OP,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H004D16FD,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
+Style: OP2,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H00FD4D16,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0015,1
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:06.36,0:00:09.21,OP,song,0000,0000,0000,,Mãe, Mikan, Yuzu, Pai, vamos lá
+Dialogue: 0,0:00:09.21,0:00:11.81,OP,song,0000,0000,0000,,O clima de hoje está ótimo, me sinto ótima
+Dialogue: 0,0:00:11.96,0:00:14.54,OP,song,0000,0000,0000,,Uma testa brilhante é um sinal de boa saúde
+Dialogue: 0,0:00:14.19,0:00:14.54,OP2,song,0000,0000,0000,,Espera!
+Dialogue: 0,0:00:14.69,0:00:17.26,OP,song,0000,0000,0000,,Praticar karaokê, fazer compras de mercearia
+Dialogue: 0,0:00:17.04,0:00:17.26,OP2,song,0000,0000,0000,,Mas!
+Dialogue: 0,0:00:17.47,0:00:19.84,OP,song,0000,0000,0000,,As pessoas riem quando passam
+Dialogue: 0,0:00:19.47,0:00:19.84,OP2,song,0000,0000,0000,,Por quê?
+Dialogue: 0,0:00:20.10,0:00:22.56,OP,song,0000,0000,0000,,Sempre que você se sentir triste
+Dialogue: 0,0:00:22.27,0:00:22.56,OP2,song,0000,0000,0000,,Ei!
+Dialogue: 0,0:00:22.82,0:00:24.95,OP,song,0000,0000,0000,,Eu lhe darei um abraço
+Dialogue: 0,0:00:25.70,0:00:28.31,OP,song,0000,0000,0000,,Agora, vocês, vocês aí, todos vocês
+Dialogue: 0,0:00:28.56,0:00:31.03,OP,song,0000,0000,0000,,Sorria à vontade
+Dialogue: 0,0:00:31.19,0:00:33.95,OP,song,0000,0000,0000,,Para um sonho maior, para o amanhã
+Dialogue: 0,0:00:34.10,0:00:36.61,OP,song,0000,0000,0000,,Anime-se, continue correndo
+Dialogue: 0,0:00:36.76,0:00:39.37,OP,song,0000,0000,0000,,Mesmo que você não tenha nada,\Nmesmo que você esteja preocupado
+Dialogue: 0,0:00:39.50,0:00:42.18,OP,song,0000,0000,0000,,Não chore, você pode superar
+Dialogue: 0,0:00:42.36,0:00:48.47,OP,song,0000,0000,0000,,Vamos ter um dia maravilhoso
+Dialogue: 0,0:00:50.51,0:00:54.42,OP,song,0000,0000,0000,,Mãe, Mikan, Yuzu, Pai, vamos lá
 Dialogue: 0,0:00:56.18,0:00:57.99,Atashinchi,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
 Dialogue: 0,0:00:58.55,0:01:00.44,Default,Mik,0000,0000,0000,,Obrigada pela comida.
 Dialogue: 0,0:01:05.73,0:01:07.25,Default,Mik,0000,0000,0000,,Estou atrasada!
@@ -363,6 +385,12 @@ Dialogue: 0,0:21:30.68,0:21:32.52,Default,Mom,0000,0000,0000,,É o mofo! Mofo!
 Dialogue: 0,0:21:39.55,0:21:40.88,Default,mik,0000,0000,0000,,Pai!
 Dialogue: 0,0:21:40.88,0:21:43.11,Default,Mom,0000,0000,0000,,Me desculpe, eu acordei você?
 Dialogue: 0,0:21:52.01,0:21:55.04,Atashinchi 9,txt,0000,0000,0000,,{\fad(333,1)}Novo Atashinchi
+Dialogue: 0,0:22:04.48,0:22:09.24,ED,song,0000,0000,0000,,Cantarolando velhas melodias
+Dialogue: 0,0:22:09.24,0:22:13.70,ED,song,0000,0000,0000,,Durma bem, meu amor
+Dialogue: 0,0:22:13.70,0:22:18.28,ED,song,0000,0000,0000,,Vestindo um lindo vestido
+Dialogue: 0,0:22:18.27,0:22:22.09,ED,song,0000,0000,0000,,Durma bem, meu amor
+Dialogue: 0,0:22:22.49,0:22:26.93,ED,song,0000,0000,0000,,Agora não chore mais
+Dialogue: 0,0:22:26.93,0:22:40.04,ED,song,0000,0000,0000,,Dinah, estarei sempre contigo
 Dialogue: 0,0:22:55.02,0:23:05.02,Next 2,txt,0000,0000,0000,,Episódio
 Dialogue: 0,0:22:55.02,0:23:05.02,Next,txt,0000,0000,0000,,No Próximo
 Dialogue: 0,0:22:55.02,0:23:05.02,Next title 1,txt,0000,0000,0000,,A Mãe de Yuzupi
