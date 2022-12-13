@@ -34,7 +34,7 @@ Style: endBaixo,Constantia,45,&H00FFFFFF,&H000000FF,&H00211389,&H00000000,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.05,0:00:03.51,Default,,0,0,0,,Ryusuigansaiken!
-Dialogue: 0,0:00:18.94,0:00:21.67,Default,,0,0,0,,Aqueles movimentos são tanto o ataque quanto a defesa perfeitos.
+Dialogue: 0,0:00:18.94,0:00:21.67,Default,,0,0,0,,Aqueles movimentos, tanto o ataque quanto a defesa, são perfeitos.
 Dialogue: 0,0:00:22.21,0:00:25.71,Default,,0,0,0,,Eles podem estar usando o mesmo estilo, mas a diferença nas habilidades é óbvia.
 Dialogue: 0,0:00:26.41,0:00:28.03,Default,,0,0,0,,Esta luta já está decidida.
 Dialogue: 0,0:00:53.59,0:00:58.40,Default,,0,0,0,,Que droga é essa? O velhote nunca luta tão seriamente assim...
