@@ -23,6 +23,8 @@ Style: Sign,Alber Medium,32,&H008758F2,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0
 Style: Sign 2,Alber Medium,32,&H00DE4D9F,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,30,30,30,1
 Style: Sign house,Alber Medium,32,&H008782D7,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,100,100,0,0,1,2.2,0,2,30,30,30,1
 Style: Logo,7th Service Condensed,55,&H00F9CF33,&H000000FF,&H00F0FAFB,&H00000000,0,0,0,0,100,100,0,0,1,6,0,2,10,10,10,1
+Style: ED Romaji,KG Love Somebody,46,&H00FCA5F7,&H000000FF,&H00623F5E,&H64623F5E,-1,0,0,0,120,100,0,0,1,1.5,1,7,20,20,10,1
+Style: ED English,KG Love Somebody,46,&H00FCA5F7,&H000000FF,&H00623F5E,&H64623F5E,-1,0,0,0,120,100,0,0,1,1.5,1,3,20,20,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -118,6 +120,38 @@ Dialogue: 0,0:03:16.54,0:03:18.54,Default,,0,0,0,,Vai mas é tomar banho!
 Dialogue: 0,0:03:20.19,0:03:22.70,Narração,,0,0,0,,Incríveis no exterior, \Ndesapontantes no interior.
 Dialogue: 0,0:03:22.70,0:03:28.88,Narração,,0,0,0,,Estes quatro irmãos \Ntêm uma vida incrivelmente normal.
 Dialogue: 0,0:03:28.88,0:03:30.88,Narração,,0,0,0,,
+Dialogue: 0,0:03:28.96,0:03:32.70,ED Romaji,,0,0,0,,{\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}kitto dare mo ga naritai
+Dialogue: 0,0:03:28.96,0:03:32.70,ED Romaji,,0,0,0,,{\pos(20,10)}kitto dare mo ga naritai
+Dialogue: 0,0:03:32.70,0:03:36.23,ED Romaji,,0,0,0,,{\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}watashi ni nara ma ii ka wa
+Dialogue: 0,0:03:32.70,0:03:36.23,ED Romaji,,0,0,0,,{\pos(20,10)}watashi ni nara ma ii ka wa
+Dialogue: 0,0:03:36.23,0:03:40.96,ED Romaji,,0,0,0,,{\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}tsukamanai hoshikage no
+Dialogue: 0,0:03:36.23,0:03:40.96,ED Romaji,,0,0,0,,{\pos(20,10)}tsukamanai hoshikage no
+Dialogue: 0,0:03:40.96,0:03:43.74,ED Romaji,,0,0,0,,{\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}kotoba de yume wo miru
+Dialogue: 0,0:03:40.96,0:03:43.74,ED Romaji,,0,0,0,,{\pos(20,10)}kotoba de yume wo miru
+Dialogue: 0,0:03:43.74,0:03:47.32,ED Romaji,,0,0,0,,{\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}demo hontou wa dare mo ga
+Dialogue: 0,0:03:43.74,0:03:47.32,ED Romaji,,0,0,0,,{\pos(20,10)}demo hontou wa dare mo ga
+Dialogue: 0,0:03:47.32,0:03:51.14,ED Romaji,,0,0,0,,{\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}naritai mono ni nareru
+Dialogue: 0,0:03:47.32,0:03:51.14,ED Romaji,,0,0,0,,{\pos(20,10)}naritai mono ni nareru
+Dialogue: 0,0:03:51.14,0:03:55.74,ED Romaji,,0,0,0,,{\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}dakara watashi ashita mo made
+Dialogue: 0,0:03:51.14,0:03:55.74,ED Romaji,,0,0,0,,{\pos(20,10)}dakara watashi ashita mo made
+Dialogue: 0,0:03:55.74,0:03:58.81,ED Romaji,,0,0,0,,{\fad(0,1000)\pos(20,10)\1a&HFF\bord4\3c&HF9B0CE&\blur2}watashi wo ikerunodesu
+Dialogue: 0,0:03:55.74,0:03:58.81,ED Romaji,,0,0,0,,{\fad(0,1000)\pos(20,10)}watashi wo ikerunodesu
+Dialogue: 0,0:03:28.96,0:03:32.70,ED English,,0,0,0,,{\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}Gostava de ser outra pessoa
+Dialogue: 0,0:03:28.96,0:03:32.70,ED English,,0,0,0,,{\pos(1260,710)}Gostava de ser outra pessoa
+Dialogue: 0,0:03:32.70,0:03:36.23,ED English,,0,0,0,,{\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}Se tivesse um desejo, seria esse o meu pedido
+Dialogue: 0,0:03:32.70,0:03:36.23,ED English,,0,0,0,,{\pos(1260,710)}Se tivesse um desejo, seria esse o meu pedido
+Dialogue: 0,0:03:36.23,0:03:40.96,ED English,,0,0,0,,{\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}Graças a esta estrela cadente
+Dialogue: 0,0:03:36.23,0:03:40.96,ED English,,0,0,0,,{\pos(1260,710)}Graças a esta estrela cadente
+Dialogue: 0,0:03:40.96,0:03:43.74,ED English,,0,0,0,,{\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}Consigo vê-lo nos meus sonhos
+Dialogue: 0,0:03:40.96,0:03:43.74,ED English,,0,0,0,,{\pos(1260,710)}Consigo vê-lo nos meus sonhos
+Dialogue: 0,0:03:43.74,0:03:47.32,ED English,,0,0,0,,{\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}Mas de volta à realidade
+Dialogue: 0,0:03:43.74,0:03:47.32,ED English,,0,0,0,,{\pos(1260,710)}Mas de volta à realidade
+Dialogue: 0,0:03:47.32,0:03:51.14,ED English,,0,0,0,,{\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}Acostumamo-nos à nossa pessoa
+Dialogue: 0,0:03:47.32,0:03:51.14,ED English,,0,0,0,,{\pos(1260,710)}Acostumamo-nos à nossa pessoa
+Dialogue: 0,0:03:51.14,0:03:55.74,ED English,,0,0,0,,{\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}É por isso que vivo
+Dialogue: 0,0:03:51.14,0:03:55.74,ED English,,0,0,0,,{\pos(1260,710)}É por isso que vivo
+Dialogue: 0,0:03:55.74,0:03:58.81,ED English,,0,0,0,,{\fad(0,1000)\pos(1260,710)\1a&HFF\bord4\3c&HF9B0CE&\blur2}Sempre a vida ao máximo
+Dialogue: 0,0:03:55.74,0:03:58.81,ED English,,0,0,0,,{\fad(0,1000)\pos(1260,710)}Sempre a vida ao máximo
 Comment: 0,0:01:15.83,0:01:16.75,Default,,0,0,0,,Eh...
 Comment: 0,0:02:19.89,0:02:20.66,Default,,0,0,0,,Eh?
 

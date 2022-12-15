@@ -174,7 +174,8 @@ Dialogue: 1,0:02:04.27,0:02:05.60,Signs,bord,0,0,0,done,{\blur0.5\fsp2\fscy120\f
 Dialogue: 0,0:03:14.42,0:03:15.92,Signs,,0,0,0,,{\p1\pos(150,63)\c&HD3A7C3&\blur1}m 848 137 l 889 104 937 84 998 68 1146 127 1131 183 1066 161 1033 167 953 176 865 193
 Dialogue: 0,0:03:14.42,0:03:15.92,Signs,,0,0,0,,{\c&H382EC0&\fsp2\fs30\fscx190\fscy210\fnBubbleGum\frz4.988\pos(993,136)\blur1}Comi{\c&H859E45&}ket
 Dialogue: 0,0:03:14.42,0:03:15.92,Signs,,0,0,0,,{\p1\pos(157,75)\c&HCCA6C0&\blur1}m 904 430 l 1080 418 1145 397 1177 411 1176 451 1120 521 1094 522 1069 513 1000 545 964 516 909 529 861 488
-Dialogue: 0,0:03:14.42,0:03:15.92,Signs,,0,0,0,,{\c&H26DFE8&\fsp2\fay0.01\fs30\fscx190\fscy210\fnBubbleGum\frz4.988\pos(1023,468)\blur1}Catálogo
+Dialogue: 0,0:03:14.42,0:03:15.92,Signs,,0,0,0,,{\c&H26DFE8&\fsp2\fay0.01\fs30\fscx140\fscy210\fnBubbleGum\frz50\pos(1008,433)\blur1}-
+Dialogue: 0,0:03:14.42,0:03:15.92,Signs,,0,0,0,,{\c&H26DFE8&\fsp2\fay0.01\fs30\fscx190\fscy210\fnBubbleGum\frz4.988\pos(1023,468)\blur1}Catalogo
 Dialogue: 0,0:03:40.19,0:03:40.24,Signs,bord,0,0,0,done,{\fscx100\fscy100\blur0.6\fnJFRockSolid\3a&H22\1a&HFF\fs48\b1\frz38.03\pos(125,107)\bord8\3c&H4D536F&\1c&H4D536F&}A ferver
 Dialogue: 0,0:03:40.24,0:03:40.28,Signs,bord,0,0,0,done,{\fscx100.02\fscy100.02\blur0.6\fnJFRockSolid\3a&H22\1a&HFF\fs48\b1\frz38.03\pos(106.58,91.29)\bord8\3c&H4D536F&\1c&H4D536F&}A ferver
 Dialogue: 0,0:03:40.28,0:03:40.32,Signs,bord,0,0,0,done,{\fscx100\fscy100\blur0.6\fnJFRockSolid\3a&H22\1a&HFF\fs48\b1\frz38.03\pos(113.43,94.14)\bord8\3c&H4D536F&\1c&H4D536F&}A ferver
