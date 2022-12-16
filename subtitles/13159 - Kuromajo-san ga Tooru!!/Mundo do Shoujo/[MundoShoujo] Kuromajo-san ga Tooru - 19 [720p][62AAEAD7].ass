@@ -51,7 +51,9 @@ Dialogue: 0,0:00:30.09,0:00:34.05,Título do Episódio,,0,0,0,,{\pos(640,285)}O 
 Dialogue: 0,0:00:30.09,0:00:34.05,Título do Episódio,,0,0,0,,{\pos(640,480)}(Parte 1)
 Dialogue: 0,0:06:58.10,0:07:00.24,Normal,,0,0,0,,{\blur0.75\pos(810,668)\3c&H6B0F99&\fad(501,0)}Continua
 Dialogue: 0,0:06:58.10,0:07:00.24,Normal,,0,0,0,,{\blur0.75\bord0\pos(810,668)\3c&H6B0F99&\fad(501,0)}Continua
-Dialogue: 0,0:00:50.61,0:00:55.11,Signs,,0,0,0,,{\blur1\fay-0.45\fnSimpleLife\b0\pos(1212,212.5)\c&H5749B8&}Construção
+Dialogue: 0,0:00:50.61,0:00:55.11,Signs,,0,0,0,,{\blur1\fay-0.45\fnSimpleLife\b0\pos(1212,212.5)\c&H5749B8&}Construcao
+Dialogue: 1,0:00:50.61,0:00:55.11,Signs,,0,0,0,,{\blur1\fax-0.15\fnSimpleLife\b0\fscy50\fscx40\fr60\frx180\pos(1249,158.5)\c&H5749B8&}S
+Dialogue: 1,0:00:50.61,0:00:55.11,Signs,,0,0,0,,{\blur1\\fay-0.45\fnSimpleLife\b0\fscy60\fscx60\fr180\pos(1235,172.5)\c&H5749B8&}c
 Dialogue: 0,0:02:44.56,0:02:44.64,Signs,,0,0,0,,{\fay-0.72\fax0.1\b1\blur0.75\fnHandserif\fscx250\fscy70\c&H313030&\pos(598.92,25.38)}Loja do Relojoeiro da Lebre de Março
 Dialogue: 0,0:02:44.64,0:02:44.72,Signs,,0,0,0,,{\fay-0.72\fax0.1\b1\blur0.75\fnHandserif\fscx250\fscy70\c&H313030&\pos(598.96,25.35)}Loja do Relojoeiro da Lebre de Março
 Dialogue: 0,0:02:44.72,0:02:44.97,Signs,,0,0,0,,{\fay-0.72\fax0.1\b1\blur0.75\fnHandserif\fscx250\fscy70\c&H313030&\pos(598.97,25.35)}Loja do Relojoeiro da Lebre de Março
@@ -222,7 +224,7 @@ Dialogue: 0,0:05:10.33,0:05:13.75,Normal,,0,0,0,,Sempre foi rival da Academia \N
 Dialogue: 0,0:05:14.00,0:05:16.87,Normal,,0,0,0,,Esta querela é diferente das anteriores.
 Dialogue: 0,0:05:17.37,0:05:20.38,Normal,,0,0,0,,A polícia dos demónios juntou-se\N à Academia de Bruxas das Trevas.
 Dialogue: 0,0:05:21.17,0:05:22.96,Normal,,0,0,0,,E porque faria a polícia isso?!
-Dialogue: 0,0:05:22.96,0:05:27.64,Normal,,0,0,0,,Afirmam que a escola deveria encerrar,\N se for comprovado que uma das aluna é criminosa.
+Dialogue: 0,0:05:22.96,0:05:27.64,Normal,,0,0,0,,Afirmam que a escola deveria encerrar,\N se for comprovado que uma das alunas é criminosa.
 Dialogue: 0,0:05:27.97,0:05:29.35,Normal,,0,0,0,,A culpa é minha...?
 Dialogue: 0,0:05:29.80,0:05:31.31,Normal,,0,0,0,,Gyubid...
 Dialogue: 0,0:05:32.10,0:05:33.06,Normal,,0,0,0,,Vou para o submundo.
@@ -242,12 +244,12 @@ Dialogue: 0,0:06:00.71,0:06:03.30,Normal,,0,0,0,,Não voltes a desaparecer assim
 Dialogue: 0,0:06:04.96,0:06:06.55,Normal,,0,0,0,,Não me abandones!
 Dialogue: 0,0:06:06.55,0:06:09.34,Normal,,0,0,0,,Também não te quero perder!
 Dialogue: 0,0:06:11.89,0:06:13.42,Normal,,0,0,0,,Bolas...
-Dialogue: 0,0:06:13.42,0:06:16.05,Normal,,0,0,0,,Porque tenho de aturar esta bruxa de meia tijela?
+Dialogue: 0,0:06:13.42,0:06:16.05,Normal,,0,0,0,,Porque tenho de aturar esta bruxa de meia tigela?
 Dialogue: 0,0:06:16.05,0:06:16.89,Normal,,0,0,0,,Está bem.
 Dialogue: 0,0:06:16.89,0:06:17.89,Normal,,0,0,0,,Vamos juntas.
 Dialogue: 0,0:06:20.60,0:06:23.77,Normal,,0,0,0,,Mas a Choco não tem o seu fato gótico aqui...
 Dialogue: 0,0:06:24.36,0:06:25.99,Normal,,0,0,0,,Eles têm!
-Dialogue: 0,0:06:26.40,0:06:27.44,Normal,,0,0,0,,Qu—  Ei!
+Dialogue: 0,0:06:26.40,0:06:27.44,Normal,,0,0,0,,Qu— Ei!
 Dialogue: 0,0:06:27.44,0:06:28.53,Normal,,0,0,0,,Só o vesti uma vez!
 Dialogue: 0,0:06:29.61,0:06:30.91,Normal,,0,0,0,,Que estranho.
 Dialogue: 0,0:06:30.91,0:06:32.45,Normal,,0,0,0,,Cabe-me na perfeição.
