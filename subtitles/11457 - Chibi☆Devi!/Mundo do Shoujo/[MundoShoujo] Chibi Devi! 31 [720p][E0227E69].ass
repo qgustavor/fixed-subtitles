@@ -28,12 +28,12 @@ Style: Title,Candy Round BTN,55,&H00A24EEE,&H00FFFFFF,&H00FFFFFF,&H00959587,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:17.23,0:00:21.00,Title,,0000,0000,0000,,{\blur1.5\fad(400,0)\pos(640,288)\bord4\shad4\fs60\b0\3c&HFDEFFF&\4a&H75&\c&HA574FF&}A Karin-chan está Irritada
 Dialogue: 0,0:00:32.14,0:00:35.37,Default,,0000,0000,0000,,Karin-chan, vais muito depressa!
-Dialogue: 0,0:00:36.95,0:00:38.81,Default,,0000,0000,0000,,Director, cuidado!
+Dialogue: 0,0:00:36.95,0:00:38.81,Default,,0000,0000,0000,,Diretor, cuidado!
 Dialogue: 0,0:00:38.81,0:00:39.39,Default,,0000,0000,0000,,Hã?
 Dialogue: 0,0:00:39.39,0:00:42.45,Default,,0000,0000,0000,,O quê?!
 Dialogue: 0,0:00:44.22,0:00:46.93,Default,,0000,0000,0000,,A Karin-chan tem andado muito activa?
 Dialogue: 0,0:00:46.93,0:00:50.13,Default,,0000,0000,0000,,Parece que ultimamente está de mau humor...
-Dialogue: 0,0:00:50.56,0:00:54.63,Default,,0000,0000,0000,,Bem, a sua única vítima foi o director,\Nportanto não faz mal.
+Dialogue: 0,0:00:50.56,0:00:54.63,Default,,0000,0000,0000,,Bem, a sua única vítima foi o diretor,\Nportanto não faz mal.
 Dialogue: 0,0:00:54.63,0:00:56.07,Default,,0000,0000,0000,,Faz sim senhor!
 Dialogue: 0,0:00:56.07,0:00:58.37,Default,,0000,0000,0000,,Estou a ver...
 Dialogue: 0,0:01:01.61,0:01:04.08,Default,,0000,0000,0000,,Ka-ri-n chan!
@@ -92,7 +92,7 @@ Dialogue: 0,0:04:27.05,0:04:30.61,Default,,0000,0000,0000,,Karin-chan, vamos bri
 Dialogue: 0,0:04:30.61,0:04:34.02,Default,,0000,0000,0000,,Brincar à {\i1}pincesa{\i0}?
 Dialogue: 0,0:04:36.18,0:04:37.20,Default,,0000,0000,0000,,Sim!
 Dialogue: 0,0:04:47.43,0:04:50.01,Default,,0000,0000,0000,,Acabaram por brincar com as espadas...
-Dialogue: 0,0:04:50.01,0:04:54.14,Default,,0000,0000,0000,,Isso arruina a ideia de se brincar às princesas...
+Dialogue: 0,0:04:50.01,0:04:54.14,Default,,0000,0000,0000,,Isso arruína a ideia de se brincar às princesas...
 Dialogue: 0,0:04:54.14,0:04:55.57,Default,,0000,0000,0000,,Karin-chan...
 Dialogue: 0,0:04:55.57,0:04:58.01,Default,,0000,0000,0000,,Estúpida beringela!
 Dialogue: 0,0:00:03.20,0:00:07.20,Default,,0000,0000,0000,,{\fnForte\3c&H27006F&\c&HBB9DF4&\fs72\pos(662,160)}Mundo do Shoujo apresenta

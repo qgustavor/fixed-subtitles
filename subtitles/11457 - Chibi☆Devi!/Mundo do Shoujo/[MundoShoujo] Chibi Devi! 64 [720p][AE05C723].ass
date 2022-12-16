@@ -83,15 +83,15 @@ Dialogue: 0,0:02:44.26,0:02:46.80,Default,,0,0,0,,Sou o mestre.
 Dialogue: 0,0:02:46.80,0:02:52.92,Default,,0,0,0,,Vamos, meninos. Cuidem de mim\N com os vossos poderes.
 Dialogue: 0,0:02:55.37,0:02:57.39,Default,,0,0,0,,Que seca.
 Dialogue: 0,0:02:57.39,0:03:00.39,Default,,0,0,0,,Vamos começar com as limpezas.
-Dialogue: 0,0:03:00.39,0:03:02.39,Note,,0,0,0,,Porta: Escritório do Enchou
-Dialogue: 0,0:03:02.95,0:03:07.10,Default,,0,0,0,,O Mao-chan limpa\N o escritório do director.
+Dialogue: 0,0:03:00.39,0:03:02.39,Note,,0,0,0,,Porta: Escritório do Diretor
+Dialogue: 0,0:03:02.95,0:03:07.10,Default,,0,0,0,,O Mao-chan limpa\N o escritório do diretor.
 Dialogue: 0,0:03:10.80,0:03:11.80,Default,,0,0,0,,Estou tão feliz!
-Dialogue: 0,0:03:11.80,0:03:15.24,Note,,0,0,0,,Secretária: Enchou
+Dialogue: 0,0:03:11.80,0:03:15.24,Note,,0,0,0,,Secretária: Diretor
 Dialogue: 0,0:03:15.58,0:03:17.91,Default,,0,0,0,,Que item estranho.
 Dialogue: 0,0:03:17.91,0:03:20.31,Default,,0,0,0,,Vamos arrumá-lo.
 Dialogue: 0,0:03:24.07,0:03:25.58,Default,,0,0,0,,Incrível.
 Dialogue: 0,0:03:26.58,0:03:29.85,Default,,0,0,0,,A Karin passa a ferro o avental.
-Dialogue: 0,0:03:29.85,0:03:33.19,Default,,0,0,0,,Boa. Muito obrigada,\N Karin-chan.
+Dialogue: 0,0:03:29.85,0:03:33.19,Default,,0,0,0,,Boa. Muito obrigado,\N Karin-chan.
 Dialogue: 0,0:03:36.20,0:03:38.26,Default,,0,0,0,,O meu avental!
 Dialogue: 0,0:03:38.26,0:03:40.28,Default,,0,0,0,,Falhei.
 Dialogue: 0,0:03:40.28,0:03:41.55,Default,,0,0,0,,Eu também.
@@ -105,8 +105,8 @@ Dialogue: 0,0:04:08.99,0:04:10.52,Default,,0,0,0,,Deixem-no estar.
 Dialogue: 0,0:04:10.52,0:04:14.55,Default,,0,0,0,,Não! Se forem, fico sozinho!
 Dialogue: 0,0:04:14.55,0:04:16.24,Default,,0,0,0,,Não me ignorem!
 Dialogue: 0,0:04:16.24,0:04:18.02,Default,,0,0,0,,Não há nada a fazer.
-Dialogue: 0,0:04:18.02,0:04:20.44,Default,,0,0,0,,Vamos brincar com o Enchou.
-Dialogue: 0,0:04:20.44,0:04:23.28,Default,,0,0,0,,A próximo estação é...
+Dialogue: 0,0:04:18.02,0:04:20.44,Default,,0,0,0,,Vamos brincar com o Diretor.
+Dialogue: 0,0:04:20.44,0:04:23.28,Default,,0,0,0,,A próxima estação é...
 Dialogue: 0,0:04:23.28,0:04:27.21,Default,,0,0,0,,Era uma vez...
 Dialogue: 0,0:04:27.21,0:04:33.32,Default,,0,0,0,,{\an8}Um, dois, três, quatro, cinco, seis, sete, oito, nove...
 Dialogue: 0,0:04:30.72,0:04:33.59,Default,,0,0,0,,Estão a brincar todos juntos.

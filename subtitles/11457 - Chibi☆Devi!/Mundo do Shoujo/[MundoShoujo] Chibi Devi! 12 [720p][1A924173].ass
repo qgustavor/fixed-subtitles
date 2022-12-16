@@ -27,7 +27,7 @@ Style: Nursery Sign,Nunito,48,&H008AB6BD,&H000000FF,&H00000000,&H00000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:16.78,0:00:20.50,Title,,0000,0000,0000,,{\fad(440,0)\fnTahoma\fs50\pos(662,309)}Um encontro musical tempestuoso!
-Dialogue: 0,0:00:21.91,0:00:24.37,Default,,0000,0000,0000,,Hoje é o dia da actuação.
+Dialogue: 0,0:00:21.91,0:00:24.37,Default,,0000,0000,0000,,Hoje é o dia da atuação.
 Dialogue: 0,0:00:24.78,0:00:27.04,Default,,0000,0000,0000,,Voltámos a ensaiar, mas...
 Dialogue: 0,0:00:29.80,0:00:32.14,Default,,0000,0000,0000,,Ele não acertou uma única vez...
 Dialogue: 0,0:00:32.14,0:00:33.49,Default,,0000,0000,0000,,Honoka!
@@ -39,13 +39,13 @@ Dialogue: 0,0:00:44.73,0:00:46.60,Default,,0000,0000,0000,,Ei, Hono-chan!
 Dialogue: 0,0:00:46.97,0:00:48.31,Default,,0000,0000,0000,,Kyou-chan?!
 Dialogue: 0,0:00:48.31,0:00:50.01,Default,,0000,0000,0000,,Já não te via e ao Mao-chan há séculos!
 Dialogue: 0,0:00:51.03,0:00:52.49,Default,,0000,0000,0000,,Que fazes aqui?
-Dialogue: 0,0:00:53.45,0:00:55.36,Default,,0000,0000,0000,,Hoje é a actuação, certo?
-Dialogue: 0,0:00:55.81,0:01:01.99,Default,,0000,0000,0000,,O Shin disse-me para vir ver a actuação muito fixe e perfeita do Mao-chan.
+Dialogue: 0,0:00:53.45,0:00:55.36,Default,,0000,0000,0000,,Hoje é a atuação, certo?
+Dialogue: 0,0:00:55.81,0:01:01.99,Default,,0000,0000,0000,,O Shin disse-me para vir ver a atuação muito fixe e perfeita do Mao-chan.
 Dialogue: 0,0:01:01.99,0:01:05.34,Default,,0000,0000,0000,,Ele disse que tinha de vir, não importava como.
 Dialogue: 0,0:01:05.34,0:01:06.79,Default,,0000,0000,0000,,Isso...
 Dialogue: 0,0:01:07.20,0:01:08.92,Default,,0000,0000,0000,,Ok, vamos lá!
 Dialogue: 0,0:01:08.92,0:01:10.92,Default,,0000,0000,0000,,Estou ansioso por isto!
-Dialogue: 0,0:01:11.54,0:01:15.17,Default,,0000,0000,0000,,E agora, que comece a actuação!
+Dialogue: 0,0:01:11.54,0:01:15.17,Default,,0000,0000,0000,,E agora, que comece a atuação!
 Dialogue: 0,0:01:17.33,0:01:19.80,Default,,0000,0000,0000,,Primeiro, a dança!
 Dialogue: 0,0:01:19.80,0:01:21.35,Default,,0000,0000,0000,,Ok! Batam palmas!
 Dialogue: 0,0:01:23.47,0:01:24.43,Default,,0000,0000,0000,,Banzai!
@@ -68,7 +68,7 @@ Dialogue: 0,0:02:28.07,0:02:30.02,Default,,0000,0000,0000,,Incrível!
 Dialogue: 0,0:02:30.02,0:02:32.16,Default,,0000,0000,0000,,Nenhum falhou!
 Dialogue: 0,0:02:32.16,0:02:34.79,Default,,0000,0000,0000,,Bom trabalho, Karin-chan!
 Dialogue: 0,0:02:34.79,0:02:36.30,Default,,0000,0000,0000,,Rai-chan, muito bem!
-Dialogue: 0,0:02:36.71,0:02:39.34,Default,,0000,0000,0000,,Que grande sucesso, Director!
+Dialogue: 0,0:02:36.71,0:02:39.34,Default,,0000,0000,0000,,Que grande sucesso, Diretor!
 Dialogue: 0,0:02:39.70,0:02:43.01,Default,,0000,0000,0000,,Que mauzinhos!
 Dialogue: 0,0:02:43.51,0:02:45.99,Default,,0000,0000,0000,,E agora, o evento principal!
 Dialogue: 0,0:02:45.99,0:02:48.77,Default,,0000,0000,0000,,Os bebés irão tocar uma música!

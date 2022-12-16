@@ -33,7 +33,7 @@ Dialogue: 0,0:00:03.20,0:00:07.20,Default,,0,0,0,,{\fnForte\3c&H27006F&\c&HBB9DF
 Dialogue: 0,0:00:03.20,0:00:07.20,Default,,0,0,0,,{\3c&HBB9DF4&\c&H7B3FEA&\fnForte\fs70\pos(637,608)}Chibi{\fs70\fnMS Gothic\3c&HBB9DF4&\c&HF7CFA3&}☆{\fn\fs0}{\fnForte\fs70\3c&HBB9DF4&\c&H7B3FEA&}Devi{\3c&HBB9DF4&\c&HF7CFA3&}!
 Dialogue: 0,0:00:17.23,0:00:21.00,Title,,0,0,0,,{\blur1.5\fad(400,0)\pos(640,288)\bord4\shad4\fs65\b0\3c&HFDEFFF&\4a&H75&\fnArial Rounded MT Bold\c&HA574FF&}O Livro dos Sonhos
 Dialogue: 0,0:00:24.80,0:00:27.64,Default,,0,0,0,,Parece que estão todos a dormir.
-Dialogue: 0,0:00:27.64,0:00:28.84,Default,,0,0,0,,Pois é, Director!
+Dialogue: 0,0:00:27.64,0:00:28.84,Default,,0,0,0,,Pois é, Diretor!
 Dialogue: 0,0:00:28.84,0:00:31.01,Default,,0,0,0,,Vamos, então?
 Dialogue: 0,0:00:31.01,0:00:36.55,Note,,0,0,0,,{\fad(0,214)}Livro: A Grande Aventura
 Dialogue: 0,0:00:31.01,0:00:36.75,Default,,0,0,0,,Sim! O livro mágico das Pinturas de Sonho! \NComprei-o numa loja online do mundo dos demónios!

@@ -27,16 +27,16 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.20,0:00:07.20,Default,,0,0,0,,{\fnForte\3c&H27006F&\c&HBB9DF4&\fs72\pos(642,160)}Mundo do Shoujo apresenta
 Dialogue: 0,0:00:04.20,0:00:07.20,Default,,0,0,0,,{\3c&HBB9DF4&\c&H7B3FEA&\fnForte\fs70\pos(635,620)}Chibi{\fs70\fnMS Gothic\3c&HBB9DF4&\c&HF7CFA3&}☆{\fn\fs0}{\fnForte\fs70\3c&HBB9DF4&\c&H7B3FEA&}Devi{\3c&HBB9DF4&\c&HF7CFA3&}!
 Dialogue: 0,0:00:18.03,0:00:21.00,Title,,0,0,0,,{\blur1.5\fad(489,0)\pos(640,290)\4a&HFF&\t(0,489,\4a&H00&)}Quando crescer...
-Dialogue: 0,0:00:34.54,0:00:36.82,Default,,0,0,0,,Enchou, que estás a fazer?
+Dialogue: 0,0:00:34.54,0:00:36.82,Default,,0,0,0,,Diretor, que estás a fazer?
 Dialogue: 0,0:00:36.82,0:00:43.04,Default,,0,0,0,,Estou a pensar no tema de desenho para amanhã.
-Dialogue: 0,0:00:43.04,0:00:47.40,Default,,0,0,0,,Estou a ver. Eles já desanharam as suas mães.
+Dialogue: 0,0:00:43.04,0:00:47.40,Default,,0,0,0,,Estou a ver. Eles já desenharam as suas mães.
 Dialogue: 0,0:00:47.40,0:00:51.50,Default,,0,0,0,,E que tal se desenharem o que querem ser no futuro?
 Dialogue: 0,0:00:51.50,0:00:54.00,Default,,0,0,0,,Isso parece interessante!
 Dialogue: 0,0:00:57.80,0:00:59.57,Default,,0,0,0,,Sendo assim
 Dialogue: 0,0:00:59.57,0:01:04.34,Default,,0,0,0,,hoje vão desenhar o que querem fazer no futuro.
 Dialogue: 0,0:01:04.34,0:01:05.61,Default,,0,0,0,,Está bem!
 Dialogue: 0,0:01:11.05,0:01:14.20,Default,,0,0,0,,Quais serão os sonhos deles?
-Dialogue: 0,0:01:14.20,0:01:15.89,Default,,0,0,0,,Estou ansiosa para ver.
+Dialogue: 0,0:01:14.20,0:01:15.89,Default,,0,0,0,,Estou ansioso para ver.
 Dialogue: 0,0:01:16.40,0:01:18.32,Default,,0,0,0,,Mao-chan, que queres ser no futuro?
 Dialogue: 0,0:01:18.32,0:01:21.55,Default,,0,0,0,,O Super Mao!
 Dialogue: 0,0:01:21.55,0:01:24.76,Default,,0,0,0,,O Super Mao é o herói da justiça!
@@ -63,7 +63,7 @@ Dialogue: 0,0:02:26.84,0:02:30.53,Default,,0,0,0,,A Karin vai-se tornar numa noi
 Dialogue: 0,0:02:30.53,0:02:34.14,Default,,0,0,0,,Ai vais? Não esperava isso.
 Dialogue: 0,0:02:34.14,0:02:37.04,Default,,0,0,0,,É normal, para uma menina.
 Dialogue: 0,0:02:37.04,0:02:39.44,Default,,0,0,0,,E quem vai ser o teu parceiro?
-Dialogue: 0,0:02:39.44,0:02:40.57,Default,,0,0,0,,Enchou.
+Dialogue: 0,0:02:39.44,0:02:40.57,Default,,0,0,0,,Diretor.
 Dialogue: 0,0:02:43.44,0:02:45.96,Default,,0,0,0,,Ora, que embaraçoso...
 Dialogue: 0,0:02:45.96,0:02:47.75,Default,,0,0,0,,E o Mao-chan e o Rai-chan.
 Dialogue: 0,0:02:48.32,0:02:49.79,Default,,0,0,0,,Depois o Pepe.
@@ -81,17 +81,17 @@ Dialogue: 0,0:03:28.25,0:03:29.79,Default,,0,0,0,,Quê?
 Dialogue: 0,0:03:32.89,0:03:35.09,Default,,0,0,0,,Olá, Rai-chan.
 Dialogue: 0,0:03:38.25,0:03:41.33,Default,,0,0,0,,Embora sejas um carro, queres continuar a pregar partidas?
 Dialogue: 0,0:03:42.47,0:03:45.74,Default,,0,0,0,,Como serão quando crescerem?
-Dialogue: 0,0:03:45.74,0:03:47.27,Default,,0,0,0,,Estou curiosa para saber.
+Dialogue: 0,0:03:45.74,0:03:47.27,Default,,0,0,0,,Estou curioso para saber.
 Dialogue: 0,0:03:47.27,0:03:48.71,Default,,0,0,0,,Pois é.
 Dialogue: 0,0:03:50.09,0:03:52.31,Default,,0,0,0,,Correio enviado.
 Dialogue: 0,0:03:53.80,0:03:56.48,Default,,0,0,0,,Obrigado. Este é o Correio Demoníaco.
 Dialogue: 0,0:03:56.48,0:03:58.29,Default,,0,0,0,,Obrigado pela entrega.
 Dialogue: 0,0:04:00.25,0:04:01.69,Default,,0,0,0,,Aqui tem!
 Dialogue: 0,0:04:02.20,0:04:03.51,Default,,0,0,0,,Aqui têm a solução!
-Dialogue: 0,0:04:04.12,0:04:05.48,Default,,0,0,0,,Enchou?
+Dialogue: 0,0:04:04.12,0:04:05.48,Default,,0,0,0,,Diretor?
 Dialogue: 0,0:04:05.48,0:04:06.56,Default,,0,0,0,,O que é isso?
 Dialogue: 0,0:04:06.56,0:04:09.11,Default,,0,0,0,,Este é o Doce de Sonhos.
-Dialogue: 0,0:04:09.11,0:04:13.62,Default,,0,0,0,,Se provarem este doce, as crianças podem experenciar ser adultos.
+Dialogue: 0,0:04:09.11,0:04:13.62,Default,,0,0,0,,Se provarem este doce, as crianças podem experienciar ser adultos.
 Dialogue: 0,0:04:13.62,0:04:15.77,Default,,0,0,0,,Um produto do outro mundo!
 Dialogue: 0,0:04:15.77,0:04:17.29,Default,,0,0,0,,Incrível!
 Dialogue: 0,0:04:17.29,0:04:18.20,Default,,0,0,0,,Quer experimentar!
