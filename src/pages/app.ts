@@ -28,9 +28,13 @@ function createApp(pageContext: PageContext) {
   setPageContext(app, pageContext)
 
   let locale
-  if (typeof navigator !== 'undefined') {
+  if (typeof localStorage !== 'undefined') {
+    locale = localStorage.locale
+  }
+
+  if (!locale && typeof navigator !== 'undefined') {
     const navigatorLanguages = navigator.languages || [navigator.language]
-    
+
     for (const language of navigatorLanguages) {
       if (messages[language]) {
         locale = language
@@ -44,7 +48,7 @@ function createApp(pageContext: PageContext) {
     }
   }
   if (!locale) locale = 'en'
-  
+
   const i18n = createI18n({
     locale,
     messages

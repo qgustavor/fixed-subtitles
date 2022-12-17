@@ -5,7 +5,7 @@ const util = require('util')
 const path = require('path')
 
 const getShowInfo = require('./get-show-info')
-const parseReadme = require('./parse-readme.js')
+const parseReadme = require('./parse-readme')
 const execFile = util.promisify(cp.execFile)
 
 // Get commit hash and author date
@@ -44,7 +44,9 @@ async function populateData () {
       const groupMetadataPath = path.resolve(groupDir, 'README.md')
       const groupMetadataBuffer = await fs.readFile(groupMetadataPath)
       const groupMetadata = parseReadme(groupMetadataBuffer.toString(), 'group')
-      const groupData = [group, groupMetadata]
+      const groupCommits = []
+      const knownCommits = new Set()
+      const groupData = [group, groupMetadata, groupCommits]
       showData.push(groupData)
 
       const groupFiles = orderBy(await fs.readdir(groupDir))
@@ -58,6 +60,17 @@ async function populateData () {
           Math.floor(fileInfo.lastModified.getTime() / 1000),
           fileInfo.changedLines
         ])
+
+        for (const commit of fileInfo.commits) {
+          if (commit.status !== 'M') continue
+          const shortCommit = commit.hash.slice(0, 7)
+          if (knownCommits.has(shortCommit)) continue
+          knownCommits.add(shortCommit)
+          groupCommits.push([
+            shortCommit,
+            Math.floor(new Date(commit.date).getTime() / 1000)
+          ])
+        }
       }
     }
   }
@@ -68,7 +81,7 @@ async function populateData () {
 
 async function getGitInfo (file) {
   const log = await execFile('git', [
-    'log', '--ignore-all-space', '--follow', '--name-status', '--format=' + logFormat, file
+    'log', '--ignore-all-space', '--follow', '--name-status', '--find-renames=95%', '--format=' + logFormat, file
   ], { cwd: repositoryRoot })
 
   const commitsRaw = log.stdout.split(logDelimiter).map(e => e.trim())
@@ -97,7 +110,8 @@ async function getGitInfo (file) {
     // The file was never modified
     return {
       lastModified: new Date(commits[0].date),
-      changedLines: 0
+      changedLines: 0,
+      commits
     }
   }
   const lastModified = new Date(modifiedCommits[0].date)
@@ -112,7 +126,7 @@ async function getGitInfo (file) {
   const diff = diffRaw.stdout.split(/\t| => /g)
   const changedLines = Number(diff[0])
 
-  return { lastModified, changedLines }
+  return { lastModified, changedLines, commits }
 }
 
 function handleGitFilename (rawName) {

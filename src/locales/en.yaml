@@ -14,7 +14,7 @@ code-tooltip: |-
 
 index:
   headline: Share fixed subtitles
-  description: '{totalFixedFiles} fixed subtitles, {totalChangedLines} issues gone'
+  description: '{totalFixedFiles} fixed subtitles, {totalChangedLines} fixed lines'
   latest_updates: Latest updates
   actions:
     browse:
@@ -49,10 +49,11 @@ contact:
 full-season: '{seasonYear} {season}'
 episodes: '0 episodes | {n} episode | {n} episodes'
 show_list: Show list
-data-source: Anime data provided by {anilist}. Project hosted at GitHub. "{totalChangedLines} issues gone" means that {totalChangedLines} lines were changed in the files. The actual number of fixed issues may be lower in case fixing some issue required changing multiple lines.
+data-source: Anime data provided by {anilist}. Project hosted at GitHub. It's hard to estimate the actual number of fixed issues, some issues requires changing multiple lines, in the other hand git can count changed lines quite easily.
 pagination-text: Page {current} of {total}
 select-group: Select one of the groups above.
 file-count: 'No files | {n} file | {n} files'
+commit-count: 'No commits | {n} commit | {n} commits'
 changed-lines-count: 'No line fixed | {n} line fixed | {n} lines fixed'
 download-all: Download all as zip
 report-error: Report an error
@@ -70,6 +71,12 @@ download-modal:
   font-variant-comma: ', '
   download: Download
   cancel: Cancel
+  close: Close
+
+commit-modal:
+  title: Commit list
+  explainer: 'Below is the commit that fixed the subtitles. You can open it to check what was been changed. | Those were the commits that fixed the files, some fix one file, some fix many. You can open them to check what was been changed by each one.'
+  date: 'published at {date}'
   close: Close
 
 group-list:

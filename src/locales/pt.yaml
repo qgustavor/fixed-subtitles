@@ -14,7 +14,7 @@ code-tooltip: |-
 
 index:
   headline: Compartilhe legendas corrigidas
-  description: '{totalFixedFiles} legendas corrigidas, {totalChangedLines} problemas eliminados'
+  description: '{totalFixedFiles} legendas corrigidas, {totalChangedLines} linhas arrumadas'
   latest_updates: Últimas atualizações
   actions:
     browse:
@@ -49,10 +49,11 @@ contact:
 full-season: ' {season} de {seasonYear}'
 episodes: 'Nenhum episódio | {n} episódio | {n} episódios'
 show_list: Conteúdos disponíveis
-data-source: Dados de animes fornecidos por {anilist}. Projeto hospedado no GitHub. "{totalChangedLines} problemas eliminados" significa que {totalChangedLines} linhas foram alteradas nos arquivos. O número atual de problemas corrigidos pode ser menor caso a correção de algum problema exigiu alterar múltiplas linhas.
+data-source: Dados de animes fornecidos por {anilist}. Projeto hospedado no GitHub. Não é fácil determinar a quantidade de problemas corrigidos, alguns exigem que várias linhas sejam modificadas, por outro lado git torna fácil determinar a quantidade de linhas alteradas.
 pagination-text: Página {current} de {total}
 select-group: Escolha um dos grupos acima.
 file-count: 'Nenhum arquivo | {n} arquivo | {n} arquivos'
+commit-count: 'Nenhum commit | {n} commit | {n} commits'
 changed-lines-count: 'Nenhuma linha corrigida | {n} linha corrigida | {n} linhas corrigidas'
 download-all: Baixar tudo como zip
 report-error: Reportar um erro
@@ -70,6 +71,12 @@ download-modal:
   font-variant-comma: ', '
   download: Baixar
   cancel: Cancelar
+  close: Fechar
+
+commit-modal:
+  title: Lista de commits
+  explainer: 'Cada commit é um conjunto de modificações que foram feitas para corrigir os arquivos. Você pode abrir o commit abaixo para ver o que foi modificado. | Cada commit é um conjunto de modificações que foram feitas para corrigir os arquivos, alguns corrigem um arquivo, outros corrigem vários. Você pode abri-los para ver o que foi modificado nos arquivos.'
+  date: 'publicado em {date}'
   close: Fechar
 
 group-list:

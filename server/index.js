@@ -23,7 +23,7 @@ async function startServer() {
 
   const renderPage = createPageRenderer({ viteDevServer, isProduction, root })
   app.get('*', async (req, res, next) => {
-    const url = req.originalUrl
+    const url = req.originalUrl.replace('/fixed-subtitles/', '/')
     const pageContextInit = {
       url,
     }

@@ -9,7 +9,7 @@ const shows = rawData.map(show => {
     let lastModifiedGroup = 0
     let changedLinesGroup = 0
 
-    const files = group.slice(2).map(file => {
+    const files = group.slice(3).map(file => {
       lastModifiedShow = Math.max(lastModifiedShow, file[1])
       lastModifiedGroup = Math.max(lastModifiedGroup, file[1])
       changedLinesGroup += file[2]
@@ -27,6 +27,7 @@ const shows = rawData.map(show => {
     return {
       name: group[0],
       metadata: group[1],
+      commits: group[2],
       lastModified: lastModifiedGroup,
       changedLines: changedLinesGroup,
       files

@@ -50,5 +50,6 @@ const { t } = i18n
 function toggleLocales () {
   // change to some real logic
   i18n.locale.value = locales[(locales.indexOf(i18n.locale.value) + 1) % locales.length]
+  localStorage.locale = i18n.locale.value
 }
 </script>

@@ -24,6 +24,7 @@ async function render(pageContext: PageContextBuiltIn & PageContext) {
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="icon" href="${faviconUrl}" type="image/svg+xml">
       <title>${title}</title>
+      <script>(a=>{if(a==='dark'||(a==='auto'&&matchMedia('(prefers-color-scheme:dark)').matches))document.documentElement.className='dark'})(localStorage['vitesse-schema']||'auto')</script>
     </head>
     <body>
       <div id="app">${dangerouslySkipEscape(appHtml)}</div>

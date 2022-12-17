@@ -74,6 +74,21 @@
           {{ t('file-count', selectedGroup.files.length) }}
           <i-carbon-clean class="iconify group-stat-icon mx-1" />
           {{ t('changed-lines-count', selectedGroup.changedLines) }}
+          <a
+            v-if="selectedGroup.commits.length === 1"
+            :href="'https://github.com/qgustavor/fixed-subtitles/commit/' + selectedGroup.commits[0][0]"
+            target="_blank"
+          >
+            <i-carbon-edit class="iconify group-stat-icon mx-1" />
+            <span class="external-link">{{ t('commit-count', selectedGroup.commits.length) }}</span>
+          </a>
+          <button
+            v-if="selectedGroup.commits.length > 1"
+            @click="openedCommits = selectedGroup.commits"
+          >
+            <i-carbon-edit class="iconify group-stat-icon mx-1" />
+            <span class="external-link">{{ t('commit-count', selectedGroup.commits.length) }}</span>
+          </button>
           <button @click="downloadFile()" v-if="selectedGroup.files.length > 1">
             <i-carbon-download class="iconify group-stat-icon mx-1" />
             <span class="external-link">{{ t('download-all') }}</span>
@@ -109,8 +124,16 @@
   </div>
 
   <DownloadHandler
-    :files="downloadFiles" :folder="show.metadata.title"
-    v-if="downloadFiles" @close="downloadFiles = null"
+    v-if="downloadFiles"
+    :files="downloadFiles"
+    :folder="show.metadata.title"
+    @close="downloadFiles = null"
+  />
+
+  <CommitList
+    v-if="openedCommits"
+    :commits="openedCommits"
+    @close="openedCommits = null"
   />
 </template>
 
@@ -139,6 +162,8 @@ function downloadFile (file) {
   for (const file of files) file.path = pathPrefix + file.name
   downloadFiles.value = files
 }
+
+const openedCommits = ref(null)
 
 function trackExternalLink (key) {
   track({
