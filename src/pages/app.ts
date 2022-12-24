@@ -49,10 +49,6 @@ function createApp(pageContext: PageContext) {
   }
   if (!locale) locale = 'en'
 
-  if (typeof navigator !== 'undefined') {
-    import('@hotwired/turbo')
-  }
-
   const i18n = createI18n({
     locale,
     messages
