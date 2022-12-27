@@ -280,9 +280,9 @@ Dialogue: 2,0:19:25.79,0:19:26.75,Diálogo [Filme],,0,0,0,,{\an8}Ei, Nishikata.
 Dialogue: 2,0:19:25.79,0:19:26.75,Diálogo [Filme],,0,0,0,,Ei, Takagi-san.
 Dialogue: 2,0:19:26.87,0:19:29.63,Diálogo [Filme],,0,0,0,,Ah, o que foi? Você pode falar primeiro.
 Dialogue: 2,0:19:31.71,0:19:34.53,Diálogo [Filme],,0,0,0,,Nishikata, você já foi ver os vaga-lumes neste ano?
-Dialogue: 2,0:19:34.53,0:19:35.65,Diálogo [Filme],,0,0,0,,vaga-lumes?
+Dialogue: 2,0:19:34.53,0:19:35.65,Diálogo [Filme],,0,0,0,,Vaga-lumes?
 Dialogue: 2,0:19:35.65,0:19:37.11,Diálogo [Filme],,0,0,0,,Sim.
-Dialogue: 2,0:19:37.34,0:19:44.16,Diálogo [Filme],,0,0,0,,Ah, fazem alguns anos que não vou, \Nmas já fui com meus pais quando criança.
+Dialogue: 2,0:19:37.34,0:19:44.16,Diálogo [Filme],,0,0,0,,Ah, faz alguns anos que não vou, \Nmas já fui com meus pais quando criança.
 Dialogue: 2,0:19:44.16,0:19:45.21,Diálogo [Filme],,0,0,0,,Eu também.
 Dialogue: 2,0:19:45.21,0:19:46.87,Diálogo [Filme],,0,0,0,,Quer dizer que você ainda não os viu, né?
 Dialogue: 2,0:19:47.42,0:19:49.27,Diálogo [Filme],,0,0,0,,Mas por que a pergunta?
@@ -705,7 +705,7 @@ Dialogue: 2,0:54:17.80,0:54:18.84,Diálogo [Filme],,0,0,0,,Boa tarde!
 Dialogue: 2,0:54:19.26,0:54:21.95,Diálogo [Filme],,0,0,0,,Boa tarde! Como a Hana-chan está?
 Dialogue: 2,0:54:21.95,0:54:23.11,Diálogo [Filme],,0,0,0,,Ela está bem?
 Dialogue: 2,0:54:23.55,0:54:24.82,Diálogo [Filme],,0,0,0,,Sim, está muito bem!
-Dialogue: 2,0:54:25.22,0:54:28.85,Diálogo [Filme],,0,0,0,,Na verdade, eu consegui convencer meus pais \Na me deixaram cuidar dela!
+Dialogue: 2,0:54:25.22,0:54:28.85,Diálogo [Filme],,0,0,0,,Na verdade, eu consegui convencer meus pais \Ne me deixaram cuidar dela!
 Dialogue: 2,0:54:30.23,0:54:32.21,Diálogo [Filme],,0,0,0,,E eu queria que você fosse a primeira a saber!
 Dialogue: 2,0:54:32.21,0:54:33.67,Diálogo [Filme],,0,0,0,,Ah, Katsuo-san...
 Dialogue: 2,0:54:33.67,0:54:35.17,Diálogo [Filme],,0,0,0,,Meus parabéns!
@@ -720,7 +720,7 @@ Dialogue: 2,0:54:55.94,0:54:57.19,Diálogo [Filme],,0,0,0,,Muito obrigado!
 Dialogue: 2,0:54:58.05,0:54:59.34,Diálogo [Filme],,0,0,0,,Qual será que combina mais?
 Dialogue: 2,0:54:59.71,0:55:01.11,Diálogo [Filme],,0,0,0,,Então...
 Dialogue: 2,0:55:01.11,0:55:04.05,Diálogo [Filme],,0,0,0,,Todas parecem combinar muito com ela.
-Dialogue: 2,0:55:04.18,0:55:07.18,Diálogo [Filme],,0,0,0,,O que mais combinaria com ela seria..
+Dialogue: 2,0:55:04.18,0:55:07.18,Diálogo [Filme],,0,0,0,,O que mais combinaria com ela seria...
 Dialogue: 2,0:55:08.06,0:55:09.26,Diálogo [Filme],,0,0,0,,Ei, veja este!
 Dialogue: 2,0:55:09.68,0:55:12.64,Diálogo [Filme],,0,0,0,,Ah! Já que ela gosta de flores, \Nvai ficar a cara dela!
 Dialogue: 2,0:55:12.71,0:55:13.50,Diálogo [Filme],,0,0,0,,Não é?
@@ -7990,8 +7990,8 @@ Dialogue: 0,1:08:23.37,1:08:26.21,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)
 Dialogue: 0,1:08:26.21,1:08:29.42,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2\pos(845.54,862.59)}~
 Dialogue: 0,1:08:26.21,1:08:29.42,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2}uma gentil briza sopra no meu coraçao
 Dialogue: 0,1:08:29.42,1:08:35.67,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2}abrindo lentamente a porta para o futuro
-Dialogue: 0,1:08:40.64,1:08:43.72,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2\pos(216.65,864.35)}~
-Dialogue: 0,1:08:40.64,1:08:43.72,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2}E entao, essa palavras atravessam o tempo
+Dialogue: 0,1:08:40.64,1:08:43.72,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2\pos(205.65,864.35)}~
+Dialogue: 0,1:08:40.64,1:08:43.72,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2}E entao, essas palavras atravessam o tempo
 Dialogue: 0,1:08:43.72,1:08:47.19,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2\pos(298.22,862.6)}~
 Dialogue: 0,1:08:43.72,1:08:47.19,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2\pos(514.86,863.47)}~
 Dialogue: 0,1:08:43.72,1:08:47.19,Filme Takagi Musica 3,,0,0,215,,{\fad(440,440)\an2}E vao em direçao à eternidade
