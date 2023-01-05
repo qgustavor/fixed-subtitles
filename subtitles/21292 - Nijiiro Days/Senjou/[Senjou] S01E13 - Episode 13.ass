@@ -50,11 +50,11 @@ Dialogue: 0,0:02:08.40,0:02:10.23,Default,,0,0,0,,{\i1}Um... Um...
 Dialogue: 0,0:02:10.23,0:02:11.04,Default,,0,0,0,,Ow!
 Dialogue: 0,0:02:11.04,0:02:12.98,Default,,0,0,0,,Ah! S-Sorry.
 Dialogue: 0,0:02:12.98,0:02:14.13,Default,,0,0,0,,You okay?
-Dialogue: 0,0:02:14.13,0:02:15.98,Default,,0,0,0,,{\pos(640,645.091)}Yes, I'm fine.
-Dialogue: 0,0:02:16.84,0:02:18.77,Default,,0,0,0,,{\pos(640,645.091)}Was I just holding your hand?
-Dialogue: 0,0:02:18.77,0:02:20.32,Default,,0,0,0,,{\pos(640,645.091)}Y-Yeah.
-Dialogue: 0,0:02:21.66,0:02:23.46,Default,,0,0,0,,{\pos(640,645.091)\i1}I shouldn't have let go!
-Dialogue: 0,0:02:23.46,0:02:25.62,Default,,0,0,0,,{\pos(640,645.091)}Oh, right. Mari-chan.
+Dialogue: 0,0:02:14.13,0:02:15.98,Default,,0,0,0,,Yes, I'm fine.
+Dialogue: 0,0:02:16.84,0:02:18.77,Default,,0,0,0,,Was I just holding your hand?
+Dialogue: 0,0:02:18.77,0:02:20.32,Default,,0,0,0,,Y-Yeah.
+Dialogue: 0,0:02:21.66,0:02:23.46,Default,,0,0,0,,{\i1}I shouldn't have let go!
+Dialogue: 0,0:02:23.46,0:02:25.62,Default,,0,0,0,,Oh, right. Mari-chan.
 Dialogue: 0,0:02:26.05,0:02:27.85,Default,,0,0,0,,I have a lot of missed calls.
 Dialogue: 0,0:02:31.05,0:02:31.96,Default,,0,0,0,,Hello?
 Dialogue: 0,0:02:31.96,0:02:33.31,Default,,0,0,0,,Anna!
@@ -117,7 +117,7 @@ Dialogue: 0,0:04:40.88,0:04:43.37,Default,,0,0,0,,{\i1}She hasn't? Aw, yeah!
 Dialogue: 0,0:04:43.37,0:04:45.64,Default,,0,0,0,,Th-Then, is there someone you like?
 Dialogue: 0,0:04:45.64,0:04:48.51,Default,,0,0,0,,What's your type?\NYou can use a celebrity as an example.
 Dialogue: 0,0:04:48.90,0:04:51.17,Default,,0,0,0,,Well, as far as celebrities go...
-Dialogue: 0,0:04:51.17,0:04:52.70,Default,,0,0,0,,Yo Oizumi, maybe?
+Dialogue: 0,0:04:51.17,0:04:52.70,Default,,0,0,0,,Oizumi Yo, maybe?
 Dialogue: 0,0:04:52.70,0:04:54.70,Default,,0,0,0,,Oh, uh, I see.
 Dialogue: 0,0:04:54.70,0:04:57.40,Default,,0,0,0,,I think he's very funny.
 Dialogue: 0,0:04:57.65,0:05:00.30,Default,,0,0,0,,{\i1}She likes funny people?
@@ -172,7 +172,7 @@ Dialogue: 0,0:06:55.22,0:06:57.39,Default,,0,0,0,,F-For example,
 Dialogue: 0,0:06:57.74,0:07:00.58,Default,,0,0,0,,if they blush when talking about love,
 Dialogue: 0,0:07:00.58,0:07:02.56,Default,,0,0,0,,I think that's very cute.
 Dialogue: 0,0:07:10.45,0:07:14.26,Default,,0,0,0,,Um, Kobayakawa-san, you're blushing again.
-Dialogue: 0,0:07:15.00,0:07:19.00,Default,,0,0,0,,Well. you're blushing even more than me.
+Dialogue: 0,0:07:15.00,0:07:19.00,Default,,0,0,0,,Well, you're blushing even more than me.
 Dialogue: 0,0:07:19.00,0:07:21.25,Default,,0,0,0,,I get like this all the time!
 Dialogue: 0,0:07:21.52,0:07:22.58,Default,,0,0,0,,Oh, you do?
 Dialogue: 0,0:07:22.58,0:07:23.33,Default,,0,0,0,,Yeah.
@@ -266,12 +266,12 @@ Dialogue: 0,0:10:38.31,0:10:40.95,Default,,0,0,0,,Come on, tell us!
 Dialogue: 0,0:10:42.20,0:10:45.41,Default,,0,0,0,,Mari-chan, would you\Nlike help drying your hair?
 Dialogue: 0,0:10:45.41,0:10:45.87,Default,,0,0,0,,Sure!
 Dialogue: 0,0:10:50.90,0:10:52.28,Default,,0,0,0,,Say, Anna...
-Dialogue: 0,0:10:52.28,0:10:54.52,Default,,0,0,0,,{\pos(642.286,643.143)}What came up in your conversation about love?
-Dialogue: 0,0:10:54.52,0:10:55.17,Default,,0,0,0,,{\pos(642.286,650.143)}Huh?
-Dialogue: 0,0:10:55.71,0:10:59.67,Default,,0,0,0,,{\pos(642.286,643.143)}Hm, I think we talked about\Nwhat types of people we like.
-Dialogue: 0,0:10:59.67,0:11:01.59,Default,,0,0,0,,{\pos(642.286,643.143)}I don't really know.
-Dialogue: 0,0:11:01.60,0:11:02.98,Default,,0,0,0,,{\pos(642.286,643.143)}Yeah, that's right!
-Dialogue: 0,0:11:02.98,0:11:04.72,Default,,0,0,0,,{\pos(642.286,643.143)}You don't know about that stuff!
+Dialogue: 0,0:10:52.28,0:10:54.52,Default,,0,0,0,,What came up in your conversation about love?
+Dialogue: 0,0:10:54.52,0:10:55.17,Default,,0,0,0,,Huh?
+Dialogue: 0,0:10:55.71,0:10:59.67,Default,,0,0,0,,Hm, I think we talked about\Nwhat types of people we like.
+Dialogue: 0,0:10:59.67,0:11:01.59,Default,,0,0,0,,I don't really know.
+Dialogue: 0,0:11:01.60,0:11:02.98,Default,,0,0,0,,Yeah, that's right!
+Dialogue: 0,0:11:02.98,0:11:04.72,Default,,0,0,0,,You don't know about that stuff!
 Dialogue: 0,0:11:04.72,0:11:06.43,Default,,0,0,0,,You said that before, right? Right?
 Dialogue: 0,0:11:07.40,0:11:08.10,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:11:08.42,0:11:10.55,Default,,0,0,0,,I still don't know about it,

@@ -80,8 +80,8 @@ Dialogue: 0,0:03:04.71,0:03:05.91,Default,,0,0,0,,Hey.
 Dialogue: 0,0:03:05.91,0:03:08.00,Default,,0,0,0,,We're boarding the bus.
 Dialogue: 0,0:03:08.00,0:03:10.02,Default,,0,0,0,,Anna, want one?
 Dialogue: 0,0:03:10.02,0:03:10.87,Default,,0,0,0,,Sure.
-Dialogue: 0,0:03:13.84,0:03:16.39,Default,,0,0,0,,{\pos(640,646.8)}I wish I could have sat next to Keiichi-san...
-Dialogue: 0,0:03:16.39,0:03:16.88,Default,,0,0,0,,{\pos(640,646.8)}No way.
+Dialogue: 0,0:03:13.84,0:03:16.39,Default,,0,0,0,,I wish I could have sat next to Keiichi-san...
+Dialogue: 0,0:03:16.39,0:03:16.88,Default,,0,0,0,,No way.
 Dialogue: 0,0:03:31.56,0:03:33.48,Default,,0,0,0,,We're here!
 Dialogue: 0,0:03:34.06,0:03:35.90,Default,,0,0,0,,Let's do some rides!
 Dialogue: 0,0:03:35.90,0:03:39.07,Default,,0,0,0,,Before that, we need to\Ndrop off our bags at the hotel.
@@ -221,13 +221,13 @@ Dialogue: 0,0:10:04.45,0:10:06.00,Default,,0,0,0,,Excuse me...
 Dialogue: 0,0:10:07.24,0:10:08.75,Default,,0,0,0,,Did you need something?
 Dialogue: 0,0:10:08.75,0:10:11.22,Default,,0,0,0,,No, she looked like\Nshe wasn't feeling well.
 Dialogue: 0,0:10:11.22,0:10:12.92,Default,,0,0,0,,Sorry to bother you!
-Dialogue: 0,0:10:13.80,0:10:17.22,Default,,0,0,0,,{\pos(640,640)}Picking up girls at a spot like this? Lame.
-Dialogue: 0,0:10:17.22,0:10:19.85,Default,,0,0,0,,{\pos(640,640)}And you were this close to go with him.
-Dialogue: 0,0:10:19.85,0:10:20.73,Default,,0,0,0,,{\pos(640,640)}Be more careful.
-Dialogue: 0,0:10:20.73,0:10:21.73,Default,,0,0,0,,{\pos(640,640)}Sh-Shut up!
-Dialogue: 0,0:10:21.73,0:10:22.47,Default,,0,0,0,,{\pos(640,640)}Take your hand off me!
-Dialogue: 0,0:10:22.47,0:10:23.52,Default,,0,0,0,,{\pos(640,640)}Hey...!
-Dialogue: 0,0:10:23.52,0:10:25.64,Default,,0,0,0,,{\pos(640,640)}I helped you out! Where's my "thank you"?
+Dialogue: 0,0:10:13.80,0:10:17.22,Default,,0,0,0,,Picking up girls at a spot like this? Lame.
+Dialogue: 0,0:10:17.22,0:10:19.85,Default,,0,0,0,,And you were this close to go with him.
+Dialogue: 0,0:10:19.85,0:10:20.73,Default,,0,0,0,,Be more careful.
+Dialogue: 0,0:10:20.73,0:10:21.73,Default,,0,0,0,,Sh-Shut up!
+Dialogue: 0,0:10:21.73,0:10:22.47,Default,,0,0,0,,Take your hand off me!
+Dialogue: 0,0:10:22.47,0:10:23.52,Default,,0,0,0,,Hey...!
+Dialogue: 0,0:10:23.52,0:10:25.64,Default,,0,0,0,,I helped you out! Where's my "thank you"?
 Dialogue: 0,0:10:25.64,0:10:28.62,Default,,0,0,0,,Huh?! Why would I have to say that to—
 Dialogue: 0,0:10:32.22,0:10:34.84,Default,,0,0,0,,This is what happens when you make\Nsuch fuss while not feeling well.
 Dialogue: 0,0:10:38.91,0:10:41.45,Default,,0,0,0,,Wait... That was an accident.

@@ -1170,18 +1170,18 @@ Dialogue: 0,0:02:03.35,0:02:05.31,OP Romaji Alt,,0,0,0,fx,{\an5\move(766,55,810,
 Dialogue: 0,0:02:03.35,0:02:05.31,OP Romaji Alt,,0,0,0,fx,{\an5\move(776,44,831,52,0,200)\fad(300,0)\t(0,200\fry-22\fscx185\fscy185)\t(200,300,\fscx100\fscy100\fry0)}o
 Dialogue: 5,0:02:05.31,0:02:05.98,OP Romaji Alt,,0,0,0,fx,{\an5\pos(821,52)\t(0,33,\fscx120\fscy120\1c&HFFFFFF&)\t(33,670,\fscx100\fscy100\1c&H003F4041&)}yo
 Dialogue: 0,0:02:05.98,0:02:06.44,OP Romaji Alt,,0,0,0,fx,{\an5\fscx100\fscy100\pos(821,52)\t(150,450,\fry-360)\fad(0,300)}yo
-Dialogue: 0,0:02:12.52,0:02:15.03,Default,,0,0,0,,{\pos(640,640.333)}So, guess what happened next.
-Dialogue: 0,0:02:15.03,0:02:17.41,Default,,0,0,0,,{\pos(640,640.333)}I was quite shocked, actually.
+Dialogue: 0,0:02:12.52,0:02:15.03,Default,,0,0,0,,So, guess what happened next.
+Dialogue: 0,0:02:15.03,0:02:17.41,Default,,0,0,0,,I was quite shocked, actually.
 Dialogue: 0,0:02:19.57,0:02:23.04,Default,,0,0,0,,Matsunaga-kun, what did \Nyou do during your break?
-Dialogue: 0,0:02:23.04,0:02:25.62,Default,,0,0,0,,{\i0\pos(640,701.333)}Hey, we should do karaoke sometime!
+Dialogue: 0,0:02:23.04,0:02:25.62,Default,,0,0,0,,{\pos(640,701.333)}Hey, we should do karaoke sometime!
 Dialogue: 0,0:02:25.62,0:02:26.86,Default,,0,0,0,,Mattsun!
-Dialogue: 0,0:02:29.38,0:02:30.38,Default,,0,0,0,,{\pos(640,625.4)}That hurt!
-Dialogue: 0,0:02:30.38,0:02:32.77,Default,,0,0,0,,{\pos(640,625.4)}I found her!
-Dialogue: 0,0:02:32.77,0:02:33.49,Default,,0,0,0,,{\pos(640,620.4)}Found who?!
-Dialogue: 0,0:02:33.49,0:02:34.30,Default,,0,0,0,,{\pos(640,625.4)}Santa-san!
-Dialogue: 0,0:02:34.65,0:02:35.43,Default,,0,0,0,,{\pos(640,625.4)}What?!
-Dialogue: 0,0:02:35.43,0:02:36.23,Default,,0,0,0,,{\pos(640,625.4)}Mattsun!
-Dialogue: 0,0:02:36.23,0:02:38.22,Default,,0,0,0,,{\fad(0,380)\pos(640,620.4)}I'm telling you the truth!
+Dialogue: 0,0:02:29.38,0:02:30.38,Default,,0,0,0,,That hurt!
+Dialogue: 0,0:02:30.38,0:02:32.77,Default,,0,0,0,,I found her!
+Dialogue: 0,0:02:32.77,0:02:33.49,Default,,0,0,0,,Found who?!
+Dialogue: 0,0:02:33.49,0:02:34.30,Default,,0,0,0,,Santa-san!
+Dialogue: 0,0:02:34.65,0:02:35.43,Default,,0,0,0,,What?!
+Dialogue: 0,0:02:35.43,0:02:36.23,Default,,0,0,0,,Mattsun!
+Dialogue: 0,0:02:36.23,0:02:38.22,Default,,0,0,0,,{\fad(0,380)}I'm telling you the truth!
 Dialogue: 0,0:02:38.22,0:02:40.12,Default,,0,0,0,,{\pos(640,701.333)}Oh, Na-chan.
 Dialogue: 0,0:02:40.12,0:02:41.46,Default,,0,0,0,,{\pos(640,702.8)}Good morning!
 Dialogue: 0,0:02:41.46,0:02:43.45,Default,,0,0,0,,Kei-chan, listen to me!
@@ -1298,8 +1298,8 @@ Dialogue: 0,0:07:11.95,0:07:14.42,Default,,0,0,0,,Uh, yeah!
 Dialogue: 0,0:07:14.42,0:07:16.28,Default,,0,0,0,,That was her, right?
 Dialogue: 0,0:07:18.29,0:07:19.41,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:07:21.38,0:07:22.21,Default,,0,0,0,,I'm in love.
-Dialogue: 0,0:07:23.29,0:07:24.26,Default,,0,0,0,,{\pos(640,616.8)}From that?
-Dialogue: 0,0:07:24.26,0:07:26.17,Default,,0,0,0,,{\pos(640,604.4)}She had no expression, the whole time!
+Dialogue: 0,0:07:23.29,0:07:24.26,Default,,0,0,0,,From that?
+Dialogue: 0,0:07:24.26,0:07:26.17,Default,,0,0,0,,She had no expression, the whole time!
 Dialogue: 0,0:07:26.76,0:07:31.01,Default,,0,0,0,,I'm just happy about the fact\N that she remembers me, you know?
 Dialogue: 0,0:07:31.32,0:07:34.26,Default,,0,0,0,,Also, waitresses who don't\N smile are pretty rare.
 Dialogue: 0,0:07:34.26,0:07:36.39,Default,,0,0,0,,It makes me want to \Nsee her smile even more...

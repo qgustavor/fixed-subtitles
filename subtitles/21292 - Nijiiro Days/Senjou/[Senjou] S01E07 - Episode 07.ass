@@ -41,22 +41,22 @@ Dialogue: 0,0:00:04.37,0:00:06.55,Default,,0,0,0,,What's up, Tsuyoponnu?
 Dialogue: 0,0:00:06.55,0:00:09.98,Default,,0,0,0,,Looks like I'm going to the beach\Nwith Na-chan and the guys on the 5th.
 Dialogue: 0,0:00:09.98,0:00:11.64,Default,,0,0,0,,Seriously?!
 Dialogue: 0,0:00:11.64,0:00:13.32,Default,,0,0,0,,I wanna go, too!
-Dialogue: 0,0:00:13.32,0:00:15.74,Default,,0,0,0,,{\pos(640,620.667)}But you haven't finished your costume yet.
-Dialogue: 0,0:00:15.74,0:00:16.99,Default,,0,0,0,,{\pos(640,620.667)}I'll make it work somehow.
-Dialogue: 0,0:00:16.99,0:00:18.44,Default,,0,0,0,,{\pos(640,620.667)}It's just one day.
-Dialogue: 0,0:00:18.44,0:00:20.68,Default,,0,0,0,,{\pos(640,620.667)}In that case, shouldn't you\Nget some sleep instead?
-Dialogue: 0,0:00:20.68,0:00:24.37,Default,,0,0,0,,{\pos(640,620.667)}You're talking like I'm\Na pain to have around...
+Dialogue: 0,0:00:13.32,0:00:15.74,Default,,0,0,0,,But you haven't finished your costume yet.
+Dialogue: 0,0:00:15.74,0:00:16.99,Default,,0,0,0,,I'll make it work somehow.
+Dialogue: 0,0:00:16.99,0:00:18.44,Default,,0,0,0,,It's just one day.
+Dialogue: 0,0:00:18.44,0:00:20.68,Default,,0,0,0,,In that case, shouldn't you\Nget some sleep instead?
+Dialogue: 0,0:00:20.68,0:00:24.37,Default,,0,0,0,,You're talking like I'm\Na pain to have around...
 Dialogue: 0,0:00:24.79,0:00:26.80,Default,,0,0,0,,I was trying to be nice.
 Dialogue: 0,0:00:28.13,0:00:28.96,Default,,0,0,0,,Bathroom.
 Dialogue: 0,0:00:33.22,0:00:35.92,Default,,0,0,0,,I wanna go to the beach, too!
 Dialogue: 0,0:00:36.72,0:00:38.04,Default,,0,0,0,,That's it!
 Dialogue: 0,0:02:14.80,0:02:16.39,Default,,0,0,0,,Let's swim!
-Dialogue: 0,0:02:16.39,0:02:17.92,Default,,0,0,0,,{\pos(640,648.4)}It's so hot...
-Dialogue: 0,0:02:17.92,0:02:19.87,Default,,0,0,0,,{\pos(640,648.4)}Let's set up a beach parasol first.
-Dialogue: 0,0:02:20.39,0:02:23.30,Default,,0,0,0,,{\pos(640,648.4)}I'm not moving from here.\NYou can leave your stuff with me.
-Dialogue: 0,0:02:23.30,0:02:24.47,Default,,0,0,0,,{\pos(640,648.4)}Really?!
-Dialogue: 0,0:02:24.47,0:02:26.55,Default,,0,0,0,,{\pos(640,648.4)}Why did you even come here?
-Dialogue: 0,0:02:26.55,0:02:28.96,Default,,0,0,0,,{\pos(640,648.4)}To enjoy the ambiance.
+Dialogue: 0,0:02:16.39,0:02:17.92,Default,,0,0,0,,It's so hot...
+Dialogue: 0,0:02:17.92,0:02:19.87,Default,,0,0,0,,Let's set up a beach parasol first.
+Dialogue: 0,0:02:20.39,0:02:23.30,Default,,0,0,0,,I'm not moving from here.\NYou can leave your stuff with me.
+Dialogue: 0,0:02:23.30,0:02:24.47,Default,,0,0,0,,Really?!
+Dialogue: 0,0:02:24.47,0:02:26.55,Default,,0,0,0,,Why did you even come here?
+Dialogue: 0,0:02:26.55,0:02:28.96,Default,,0,0,0,,To enjoy the ambiance.
 Dialogue: 0,0:02:35.26,0:02:36.78,Default,,0,0,0,,Mattsun, aren't you going?
 Dialogue: 0,0:02:36.78,0:02:38.81,Default,,0,0,0,,Oh, I'm going. To pick up girls!
 Dialogue: 0,0:02:39.44,0:02:41.32,Default,,0,0,0,,Just don't bring them back here.
@@ -206,12 +206,12 @@ Dialogue: 0,0:08:17.56,0:08:18.61,Default,,0,0,0,,Kobayakawa-san,
 Dialogue: 0,0:08:18.61,0:08:19.94,Default,,0,0,0,,I'm in lo—
 Dialogue: 0,0:08:20.23,0:08:20.87,Default,,0,0,0,,Oh.
 Dialogue: 0,0:08:22.14,0:08:24.18,Default,,0,0,0,,How does it look, Tsuyoponnu?
-Dialogue: 0,0:08:25.42,0:08:28.42,Default,,0,0,0,,{\move(640,690,640,640.8,7,1827)}Na-chan got hit with a ball. I think that's all.
-Dialogue: 0,0:08:28.42,0:08:30.63,Default,,0,0,0,,{\pos(640,640.8)}Doesn't seem like much will happen.
-Dialogue: 0,0:08:30.63,0:08:32.95,Default,,0,0,0,,{\pos(640,640.8)}Aww! Too bad!
-Dialogue: 0,0:08:33.81,0:08:35.83,Default,,0,0,0,,{\pos(640,640.8)}Yukirin, you noticed?
-Dialogue: 0,0:08:35.83,0:08:36.58,Default,,0,0,0,,{\pos(640,636.8)}Yup!
-Dialogue: 0,0:08:36.58,0:08:39.60,Default,,0,0,0,,{\pos(640,636.8)}Natsuking makes it pretty obvious!
+Dialogue: 0,0:08:25.42,0:08:28.42,Default,,0,0,0,,Na-chan got hit with a ball. I think that's all.
+Dialogue: 0,0:08:28.42,0:08:30.63,Default,,0,0,0,,Doesn't seem like much will happen.
+Dialogue: 0,0:08:30.63,0:08:32.95,Default,,0,0,0,,Aww! Too bad!
+Dialogue: 0,0:08:33.81,0:08:35.83,Default,,0,0,0,,Yukirin, you noticed?
+Dialogue: 0,0:08:35.83,0:08:36.58,Default,,0,0,0,,Yup!
+Dialogue: 0,0:08:36.58,0:08:39.60,Default,,0,0,0,,Natsuking makes it pretty obvious!
 Dialogue: 0,0:08:39.60,0:08:40.59,Default,,0,0,0,,That's true.
 Dialogue: 0,0:08:43.03,0:08:44.58,Default,,0,0,0,,Okay, go ahead.
 Dialogue: 0,0:08:45.67,0:08:47.04,Default,,0,0,0,,Go ahead and do what?
@@ -268,7 +268,7 @@ Dialogue: 0,0:10:44.11,0:10:45.24,Default,,0,0,0,,Um...!
 Dialogue: 0,0:10:45.24,0:10:47.38,Default,,0,0,0,,What is... your name?
 Dialogue: 0,0:10:47.38,0:10:48.21,Default,,0,0,0,,My name?
 Dialogue: 0,0:10:48.21,0:10:48.93,Default,,0,0,0,,Yes!
-Dialogue: 0,0:10:48.93,0:10:50.60,Default,,0,0,0,,Keiichi Katakura.
+Dialogue: 0,0:10:48.93,0:10:50.60,Default,,0,0,0,,Katakura Keiichi.
 Dialogue: 0,0:10:50.60,0:10:51.72,Default,,0,0,0,,Bye now.
 Dialogue: 0,0:10:54.26,0:10:57.72,Default,,0,0,0,,Katakura... Keiichi-san.
 Dialogue: 0,0:10:57.72,0:10:59.99,Default,,0,0,0,,Piggyback! He gave her a piggyback ride!

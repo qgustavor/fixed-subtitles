@@ -43,19 +43,19 @@ Dialogue: 0,0:00:14.23,0:00:16.74,Default,,0,0,0,,I like when it's hot out, too.
 Dialogue: 0,0:00:17.16,0:00:19.79,Default,,0,0,0,,Are those two still at it?
 Dialogue: 0,0:00:19.79,0:00:20.66,Default,,0,0,0,,Yup.
 Dialogue: 0,0:01:54.34,0:01:56.09,Default,,0,0,0,,Here comes the pitch, Keiiehi!
-Dialogue: 0,0:01:56.41,0:01:58.09,Default,,0,0,0,,{\pos(640,643.4)}This is the end for you!
-Dialogue: 0,0:01:58.09,0:01:59.95,Default,,0,0,0,,{\pos(640,643.4)}Don't be silly!
-Dialogue: 0,0:01:59.95,0:02:02.15,Default,,0,0,0,,{\pos(640,643.4)}It was my intention not to hit it,
-Dialogue: 0,0:02:02.15,0:02:04.51,Default,,0,0,0,,{\pos(640,643.4)}aiming for a walk-off home run.
-Dialogue: 0,0:02:04.51,0:02:05.47,Default,,0,0,0,,{\pos(640,643.4)}You liar.
-Dialogue: 0,0:02:05.47,0:02:09.35,Default,,0,0,0,,{\pos(640,643.4)}The Häagen-Dash is going\Nto Team Matsunaga!
+Dialogue: 0,0:01:56.41,0:01:58.09,Default,,0,0,0,,This is the end for you!
+Dialogue: 0,0:01:58.09,0:01:59.95,Default,,0,0,0,,Don't be silly!
+Dialogue: 0,0:01:59.95,0:02:02.15,Default,,0,0,0,,It was my intention not to hit it,
+Dialogue: 0,0:02:02.15,0:02:04.51,Default,,0,0,0,,aiming for a walk-off home run.
+Dialogue: 0,0:02:04.51,0:02:05.47,Default,,0,0,0,,You liar.
+Dialogue: 0,0:02:05.47,0:02:09.35,Default,,0,0,0,,The Häagen-Dash is going\Nto Team Matsunaga!
 Dialogue: 0,0:02:09.60,0:02:10.69,Default,,0,0,0,,Say what?!
 Dialogue: 0,0:02:12.19,0:02:14.86,Default,,0,0,0,,{\t(2510,0,1,\c&HFFFFFF&\3c&HFFFFFF&)}You mean, Team Katakura!
 Dialogue: 0,0:02:16.07,0:02:16.85,Default,,0,0,0,,Yeah!
-Dialogue: 0,0:02:16.85,0:02:17.98,Default,,0,0,0,,{\pos(640,620.667)}Nice one, Keiichi!
-Dialogue: 0,0:02:17.98,0:02:20.11,Default,,0,0,0,,{\pos(640,620.667)}Nice Häagen!
-Dialogue: 0,0:02:20.81,0:02:23.53,Default,,0,0,0,,{\pos(640,620.667)}Na-chan, you owe me a Häagen-Dash.
-Dialogue: 0,0:02:23.84,0:02:27.72,Default,,0,0,0,,{\pos(640,620.667)}Mattsun was bragging\Nlike he had it in the bag!
+Dialogue: 0,0:02:16.85,0:02:17.98,Default,,0,0,0,,Nice one, Keiichi!
+Dialogue: 0,0:02:17.98,0:02:20.11,Default,,0,0,0,,Nice Häagen!
+Dialogue: 0,0:02:20.81,0:02:23.53,Default,,0,0,0,,Na-chan, you owe me a Häagen-Dash.
+Dialogue: 0,0:02:23.84,0:02:27.72,Default,,0,0,0,,Mattsun was bragging\Nlike he had it in the bag!
 Dialogue: 0,0:02:27.72,0:02:31.21,Default,,0,0,0,,Kei-chan's athletic prowess \Nare not to be underestimated.
 Dialogue: 0,0:02:33.21,0:02:37.72,Default,,0,0,0,,Nothing beats victory ice cream\Neaten down by the river bed!
 Dialogue: 0,0:02:37.72,0:02:39.38,Default,,0,0,0,,I agree.
@@ -259,12 +259,12 @@ Dialogue: 0,0:10:34.11,0:10:36.28,Default,,0,0,0,,Huh! Wai—
 Dialogue: 0,0:10:36.28,0:10:37.77,Default,,0,0,0,,Hold on!
 Dialogue: 0,0:10:41.45,0:10:43.44,Default,,0,0,0,,Well, thanks, guys.
 Dialogue: 0,0:10:43.44,0:10:44.95,Default,,0,0,0,,See you tomorrow.
-Dialogue: 0,0:10:54.57,0:10:58.16,Default,,0,0,0,,{\pos(640,628.4)}Na-chan, you were great,\Nand you seemed to enjoy it.
-Dialogue: 0,0:10:58.16,0:11:00.28,Default,,0,0,0,,{\pos(640,628.4)}Yeah, it was fun.
-Dialogue: 0,0:11:00.28,0:11:02.13,Default,,0,0,0,,{\pos(640,628.4)}Why not join the team again?
-Dialogue: 0,0:11:02.13,0:11:04.81,Default,,0,0,0,,{\pos(640,628.4)}If there's a match,\Nwe'll come cheer you on.
-Dialogue: 0,0:11:06.31,0:11:08.53,Default,,0,0,0,,{\pos(640,628.4)}I think it was fun...
-Dialogue: 0,0:11:08.53,0:11:10.60,Default,,0,0,0,,{\pos(640,628.4)}because it was us playing together!
+Dialogue: 0,0:10:54.57,0:10:58.16,Default,,0,0,0,,Na-chan, you were great,\Nand you seemed to enjoy it.
+Dialogue: 0,0:10:58.16,0:11:00.28,Default,,0,0,0,,Yeah, it was fun.
+Dialogue: 0,0:11:00.28,0:11:02.13,Default,,0,0,0,,Why not join the team again?
+Dialogue: 0,0:11:02.13,0:11:04.81,Default,,0,0,0,,If there's a match,\Nwe'll come cheer you on.
+Dialogue: 0,0:11:06.31,0:11:08.53,Default,,0,0,0,,I think it was fun...
+Dialogue: 0,0:11:08.53,0:11:10.60,Default,,0,0,0,,because it was us playing together!
 Dialogue: 0,0:11:10.60,0:11:13.49,Default,,0,0,0,,There you go, talking like that again.
 Dialogue: 0,0:11:13.49,0:11:14.77,Default,,0,0,0,,I don't know.
 Dialogue: 0,0:11:14.77,0:11:17.33,Default,,0,0,0,,We laze around most of the time, anyway.

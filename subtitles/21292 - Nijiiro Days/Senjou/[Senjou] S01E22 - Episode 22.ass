@@ -76,10 +76,10 @@ Dialogue: 0,0:01:45.98,0:01:48.28,Default,,0,0,0,,{\i1}And it's not like we had 
 Dialogue: 0,0:01:49.94,0:01:52.07,Default,,0,0,0,,{\i1}Oh, I know!
 Dialogue: 0,0:03:23.80,0:03:24.88,Default,,0,0,0,,{\i1}I'm bored.
 Dialogue: 0,0:03:24.88,0:03:27.85,Default,,0,0,0,,{\an8\i1}I'm here at Hokkaido Shrine,\Nwhere a large crowd has gathered.
-Dialogue: 0,0:03:28.67,0:03:30.96,Default,,0,0,0,,{\an8\pos(640,640)\i1}The temperature out here is -2”C.
-Dialogue: 0,0:03:32.16,0:03:35.26,Default,,0,0,0,,{\pos(640,640)\i1}I wonder if everyone's out for Hatsumoude...
-Dialogue: 0,0:03:35.26,0:03:37.45,Default,,0,0,0,,{\pos(640,640)\i1}Wish I could've gone.
-Dialogue: 0,0:03:37.45,0:03:41.08,Default,,0,0,0,,{\pos(640,640)\i1}I'm feeling better than expected.\NI bet I could've gone out.
+Dialogue: 0,0:03:28.67,0:03:30.96,Default,,0,0,0,,{\an8\i1}The temperature out here is -2 °C.
+Dialogue: 0,0:03:32.16,0:03:35.26,Default,,0,0,0,,{\i1}I wonder if everyone's out for Hatsumoude...
+Dialogue: 0,0:03:35.26,0:03:37.45,Default,,0,0,0,,{\i1}Wish I could've gone.
+Dialogue: 0,0:03:37.45,0:03:41.08,Default,,0,0,0,,{\i1}I'm feeling better than expected.\NI bet I could've gone out.
 Dialogue: 0,0:03:41.08,0:03:43.26,Default,,0,0,0,,{\i1}And I'm on my second bowl of soba...
 Dialogue: 0,0:03:51.68,0:03:54.48,Default,,0,0,0,,{\i1}Tsuyopon and Yukirin are so\Nlovey-dovey, I'm jealous.
 Dialogue: 0,0:03:55.26,0:03:59.16,Default,,0,0,0,,{\i1}Will the day ever come when I can\Nbe like that with Kobayakawa-san, too?
@@ -159,11 +159,11 @@ Dialogue: 0,0:07:04.65,0:07:06.59,Default,,0,0,0,,{\i1}And so, what?
 Dialogue: 0,0:07:06.99,0:07:09.68,Default,,0,0,0,,I hope it's a good year for us both.
 Dialogue: 0,0:07:14.38,0:07:15.56,Default,,0,0,0,,I hope so too.
 Dialogue: 0,0:07:18.90,0:07:20.80,Default,,0,0,0,,Shall we sit down?
-Dialogue: 0,0:07:20.80,0:07:23.39,Default,,0,0,0,,{\pos(640,640)}I'd like to go somewhere,\Nbut it's New Year's and all,
-Dialogue: 0,0:07:23.39,0:07:25.33,Default,,0,0,0,,{\pos(640,640)}and there aren't any restaurants nearby.
-Dialogue: 0,0:07:25.33,0:07:26.88,Default,,0,0,0,,{\pos(640,640)}Here is fine.
-Dialogue: 0,0:07:30.29,0:07:32.77,Default,,0,0,0,,{\pos(640,640)}I should apologize myself,\Nfor springing this on you suddenly.
-Dialogue: 0,0:07:32.77,0:07:33.93,Default,,0,0,0,,{\pos(640,640)}How's your cold?
+Dialogue: 0,0:07:20.80,0:07:23.39,Default,,0,0,0,,I'd like to go somewhere,\Nbut it's New Year's and all,
+Dialogue: 0,0:07:23.39,0:07:25.33,Default,,0,0,0,,and there aren't any restaurants nearby.
+Dialogue: 0,0:07:25.33,0:07:26.88,Default,,0,0,0,,Here is fine.
+Dialogue: 0,0:07:30.29,0:07:32.77,Default,,0,0,0,,I should apologize myself,\Nfor springing this on you suddenly.
+Dialogue: 0,0:07:32.77,0:07:33.93,Default,,0,0,0,,How's your cold?
 Dialogue: 0,0:07:33.93,0:07:36.16,Default,,0,0,0,,It's alright. And I was bored anyway.
 Dialogue: 0,0:07:36.93,0:07:38.11,Default,,0,0,0,,Um...
 Dialogue: 0,0:07:38.11,0:07:39.18,Default,,0,0,0,,Actually...

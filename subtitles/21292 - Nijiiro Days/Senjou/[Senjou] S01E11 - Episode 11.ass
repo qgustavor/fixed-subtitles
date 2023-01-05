@@ -43,12 +43,12 @@ Dialogue: 10,0:01:46.67,0:01:48.34,Default,,0,0,0,,Onii-chan, guess what!
 Dialogue: 10,0:01:48.34,0:01:49.51,Default,,0,0,0,,Nozomi!
 Dialogue: 10,0:01:50.17,0:01:52.43,Default,,0,0,0,,No cram school today? You're off?
 Dialogue: 10,0:01:52.43,0:01:53.43,Default,,0,0,0,,Yes.
-Dialogue: 10,0:01:53.97,0:01:55.68,Default,,0,0,0,,{\pos(640,648.4)}Say, Onii-chan...
-Dialogue: 10,0:01:55.68,0:01:56.39,Default,,0,0,0,,{\pos(640,648.4)}Hmm?
-Dialogue: 10,0:01:56.39,0:01:58.77,Default,,0,0,0,,{\pos(640,648.4)}Are you friends with Katakura Keiichi-san!?
-Dialogue: 10,0:02:00.22,0:02:00.85,Default,,0,0,0,,{\pos(640,648.4)}Huh?
-Dialogue: 10,0:02:01.39,0:02:04.65,Default,,0,0,0,,{\pos(640,648.4)}I noticed you at the karaoke\Nplace today, and then...
-Dialogue: 10,0:02:04.65,0:02:06.19,Default,,0,0,0,,{\pos(640,648.4)}Hold on.
+Dialogue: 10,0:01:53.97,0:01:55.68,Default,,0,0,0,,Say, Onii-chan...
+Dialogue: 10,0:01:55.68,0:01:56.39,Default,,0,0,0,,Hmm?
+Dialogue: 10,0:01:56.39,0:01:58.77,Default,,0,0,0,,Are you friends with Katakura Keiichi-san!?
+Dialogue: 10,0:02:00.22,0:02:00.85,Default,,0,0,0,,Huh?
+Dialogue: 10,0:02:01.39,0:02:04.65,Default,,0,0,0,,I noticed you at the karaoke\Nplace today, and then...
+Dialogue: 10,0:02:04.65,0:02:06.19,Default,,0,0,0,,Hold on.
 Dialogue: 10,0:02:06.19,0:02:08.11,Default,,0,0,0,,You know Keiichi?
 Dialogue: 10,0:02:08.11,0:02:10.86,Default,,0,0,0,,He helped me out once.
 Dialogue: 10,0:02:10.86,0:02:13.03,Default,,0,0,0,,So I'd like to thank him.
@@ -278,7 +278,7 @@ Dialogue: 10,0:10:00.87,0:10:02.87,Default,,0,0,0,,What am I going to do?
 Dialogue: 10,0:10:03.87,0:10:05.25,Default,,0,0,0,,Nozomi is too adorable.
 Dialogue: 10,0:10:05.25,0:10:07.25,Default,,0,0,0,,Keiichi is my friend.
 Dialogue: 10,0:10:07.25,0:10:09.59,Default,,0,0,0,,But I just can't accept this...
-Dialogue: 10,0:10:09.59,0:10:12.55,Default,,0,0,0,,Wait. maybe I'll feel more comfortable\Nif she's with a guy I know well.
+Dialogue: 10,0:10:09.59,0:10:12.55,Default,,0,0,0,,Wait, maybe I'll feel more comfortable\Nif she's with a guy I know well.
 Dialogue: 10,0:10:12.55,0:10:13.97,Default,,0,0,0,,Or maybe more worried?
 Dialogue: 10,0:10:13.97,0:10:17.35,Default,,0,0,0,,Hm... you seem kind of down.
 Dialogue: 10,0:10:17.35,0:10:19.18,Default,,0,0,0,,Oh, I know!
@@ -296,11 +296,11 @@ Dialogue: 10,0:10:39.99,0:10:41.91,Default,,0,0,0,,Plus a hot springs resort?
 Dialogue: 10,0:10:41.91,0:10:44.37,Default,,0,0,0,,I won tickets!
 Dialogue: 10,0:10:46.58,0:10:48.59,Default,,0,0,0,,We'll go!
 Dialogue: 10,0:10:52.42,0:10:53.63,Default,,0,0,0,,SonaPocke?
-Dialogue: 10,0:10:53.63,0:10:55.51,Default,,0,0,0,,{\pos(640,648)}You mean that SonaPocke?
-Dialogue: 10,0:10:55.51,0:10:56.47,Default,,0,0,0,,{\pos(640,648)}Yeah!
-Dialogue: 10,0:10:56.47,0:10:59.10,Default,,0,0,0,,{\pos(640,648)}I found out they were running campaign
-Dialogue: 10,0:10:59.10,0:11:02.52,Default,,0,0,0,,{\pos(640,648)}where you could win tickets to a resort if\Nyou bought tickets to their outdoor concert.
-Dialogue: 10,0:11:02.81,0:11:04.94,Default,,0,0,0,,{\pos(640,648)}I wanted to go with you,
+Dialogue: 10,0:10:53.63,0:10:55.51,Default,,0,0,0,,You mean that SonaPocke?
+Dialogue: 10,0:10:55.51,0:10:56.47,Default,,0,0,0,,Yeah!
+Dialogue: 10,0:10:56.47,0:10:59.10,Default,,0,0,0,,I found out they were running campaign
+Dialogue: 10,0:10:59.10,0:11:02.52,Default,,0,0,0,,where you could win tickets to a resort if\Nyou bought tickets to their outdoor concert.
+Dialogue: 10,0:11:02.81,0:11:04.94,Default,,0,0,0,,I wanted to go with you,
 Dialogue: 10,0:11:04.94,0:11:07.94,Default,,0,0,0,,so I sent in a few applications\Nand won a whole bunch!
 Dialogue: 10,0:11:11.57,0:11:12.40,Default,,0,0,0,,Amazing!
 Dialogue: 10,0:11:12.82,0:11:15.11,Default,,0,0,0,,You truly are a goddess.

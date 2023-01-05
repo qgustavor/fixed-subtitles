@@ -86,11 +86,11 @@ Dialogue: 0,0:03:24.52,0:03:27.94,Default,,0,0,0,,To make up for that accident,\
 Dialogue: 0,0:03:27.94,0:03:29.77,Default,,0,0,0,,Then we'll go join the game.
 Dialogue: 0,0:03:29.77,0:03:31.19,Default,,0,0,0,,I'll pass.
 Dialogue: 0,0:03:31.19,0:03:32.77,Default,,0,0,0,,It's no fun for me in that room.
-Dialogue: 0,0:03:32.77,0:03:34.45,Default,,0,0,0,,{\pos(640,648.4)}I don't want to be there.
-Dialogue: 0,0:03:34.45,0:03:37.54,Default,,0,0,0,,{\pos(640,641.4)}Well, yeah, you didn't play cards at all.
-Dialogue: 0,0:03:37.54,0:03:39.11,Default,,0,0,0,,{\pos(640,641.4)}Just watching is boring.
-Dialogue: 0,0:03:39.50,0:03:41.91,Default,,0,0,0,,{\pos(640,648.4)}So roll the die and tell us a stor—
-Dialogue: 0,0:03:41.91,0:03:44.70,Default,,0,0,0,,{\pos(640,648.4)}I told you, that's no fun for me!
+Dialogue: 0,0:03:32.77,0:03:34.45,Default,,0,0,0,,I don't want to be there.
+Dialogue: 0,0:03:34.45,0:03:37.54,Default,,0,0,0,,Well, yeah, you didn't play cards at all.
+Dialogue: 0,0:03:37.54,0:03:39.11,Default,,0,0,0,,Just watching is boring.
+Dialogue: 0,0:03:39.50,0:03:41.91,Default,,0,0,0,,So roll the die and tell us a stor—
+Dialogue: 0,0:03:41.91,0:03:44.70,Default,,0,0,0,,I told you, that's no fun for me!
 Dialogue: 0,0:03:45.41,0:03:49.98,Default,,0,0,0,,I don't like to see Anna\Nhaving fun like that.
 Dialogue: 0,0:03:49.98,0:03:51.96,Default,,0,0,0,,I couldn't stand it anymore.
 Dialogue: 0,0:03:52.76,0:03:55.13,Default,,0,0,0,,So, just leave me alone.
@@ -105,18 +105,18 @@ Dialogue: 0,0:04:17.56,0:04:19.09,Default,,0,0,0,,It sprayed everywhere when I o
 Dialogue: 0,0:04:19.09,0:04:22.85,Default,,0,0,0,,It went in my eyes and up my nose,\N and it hurt all day, and I hate him!
 Dialogue: 0,0:04:22.85,0:04:23.49,Default,,0,0,0,,Sorry...
 Dialogue: 0,0:04:23.49,0:04:24.88,Default,,0,0,0,,You did it on purpose!
-Dialogue: 0,0:04:24.88,0:04:28.20,Default,,0,0,0,,{\pos(640,648.4)}I didn't expect it to go off with such force...
-Dialogue: 0,0:04:28.20,0:04:29.41,Default,,0,0,0,,{\pos(640,641.4)}Oh, I have a call.
-Dialogue: 0,0:04:29.90,0:04:31.04,Default,,0,0,0,,{\pos(640,648.4)}Hello, it's me.
-Dialogue: 0,0:04:31.04,0:04:32.83,Default,,0,0,0,,{\pos(640,648.4)}Yeah? What is it?
-Dialogue: 0,0:04:32.83,0:04:35.25,Default,,0,0,0,,{\pos(640,641.4)}The shop's already closed.
-Dialogue: 0,0:04:35.53,0:04:38.19,Default,,0,0,0,,{\pos(640,642.4)}Is the first-floor shop the only one?\NAny in the basement?
-Dialogue: 0,0:04:38.19,0:04:40.68,Default,,0,0,0,,{\pos(640,642.4)}Uh, I think it's just the first floor.
-Dialogue: 0,0:04:41.10,0:04:43.18,Default,,0,0,0,,{\pos(640,642.4)}Then, has Spitting Woman gotten back yet?
-Dialogue: 0,0:04:43.18,0:04:44.36,Default,,0,0,0,,{\pos(640,648.4)}She's not here.
-Dialogue: 0,0:04:44.36,0:04:45.87,Default,,0,0,0,,{\pos(640,648.4)}She's not here, either.
-Dialogue: 0,0:04:45.87,0:04:47.10,Default,,0,0,0,,{\pos(640,642.4)}Seriously?
-Dialogue: 0,0:04:48.06,0:04:51.52,Default,,0,0,0,,{\pos(640,642.4)}Um, maybe she went back to the other room.
+Dialogue: 0,0:04:24.88,0:04:28.20,Default,,0,0,0,,I didn't expect it to go off with such force...
+Dialogue: 0,0:04:28.20,0:04:29.41,Default,,0,0,0,,Oh, I have a call.
+Dialogue: 0,0:04:29.90,0:04:31.04,Default,,0,0,0,,Hello, it's me.
+Dialogue: 0,0:04:31.04,0:04:32.83,Default,,0,0,0,,Yeah? What is it?
+Dialogue: 0,0:04:32.83,0:04:35.25,Default,,0,0,0,,The shop's already closed.
+Dialogue: 0,0:04:35.53,0:04:38.19,Default,,0,0,0,,Is the first-floor shop the only one?\NAny in the basement?
+Dialogue: 0,0:04:38.19,0:04:40.68,Default,,0,0,0,,Uh, I think it's just the first floor.
+Dialogue: 0,0:04:41.10,0:04:43.18,Default,,0,0,0,,Then, has Spitting Woman gotten back yet?
+Dialogue: 0,0:04:43.18,0:04:44.36,Default,,0,0,0,,She's not here.
+Dialogue: 0,0:04:44.36,0:04:45.87,Default,,0,0,0,,She's not here, either.
+Dialogue: 0,0:04:45.87,0:04:47.10,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:04:48.06,0:04:51.52,Default,,0,0,0,,Um, maybe she went back to the other room.
 Dialogue: 0,0:04:54.03,0:04:56.36,Default,,0,0,0,,She's not here.
 Dialogue: 0,0:05:00.61,0:05:02.91,Default,,0,0,0,,It's Mari-chan's.
 Dialogue: 0,0:05:02.91,0:05:04.40,Default,,0,0,0,,No luck.

@@ -43,13 +43,13 @@ Dialogue: 0,0:00:11.82,0:00:14.49,Default,,0,0,0,,I'm not feeling it at all!
 Dialogue: 0,0:00:14.49,0:00:18.00,Default,,0,0,0,,You couldn't even become\NAnna's illicit lover with that.
 Dialogue: 0,0:00:18.00,0:00:18.71,Default,,0,0,0,,Illicit?!
 Dialogue: 0,0:00:18.71,0:00:20.58,Default,,0,0,0,,Above all else,
-Dialogue: 0,0:00:20.58,0:00:23.21,Default,,0,0,0,,{\move(640,690,640,620.4,15,2301)}might you perhaps know\Nsome special techniques?
-Dialogue: 0,0:00:23.21,0:00:24.05,Default,,0,0,0,,{\pos(640,620.4)}Special techniques?!
-Dialogue: 0,0:00:24.63,0:00:27.01,Default,,0,0,0,,{\pos(640,620.4)}Kobayakawa-san wouldn't\Nask something like that!
-Dialogue: 0,0:00:27.01,0:00:28.47,Default,,0,0,0,,{\pos(640,620.4)}You never know!
-Dialogue: 0,0:00:28.47,0:00:29.97,Default,,0,0,0,,{\pos(640,620.4)}She just might!
-Dialogue: 0,0:00:29.97,0:00:31.47,Default,,0,0,0,,{\pos(640,620.4)}She would not!
-Dialogue: 0,0:00:31.47,0:00:33.26,Default,,0,0,0,,{\pos(640,620.4)}What are you doing?
+Dialogue: 0,0:00:20.58,0:00:23.21,Default,,0,0,0,,might you perhaps know\Nsome special techniques?
+Dialogue: 0,0:00:23.21,0:00:24.05,Default,,0,0,0,,Special techniques?!
+Dialogue: 0,0:00:24.63,0:00:27.01,Default,,0,0,0,,Kobayakawa-san wouldn't\Nask something like that!
+Dialogue: 0,0:00:27.01,0:00:28.47,Default,,0,0,0,,You never know!
+Dialogue: 0,0:00:28.47,0:00:29.97,Default,,0,0,0,,She just might!
+Dialogue: 0,0:00:29.97,0:00:31.47,Default,,0,0,0,,She would not!
+Dialogue: 0,0:00:31.47,0:00:33.26,Default,,0,0,0,,What are you doing?
 Dialogue: 0,0:00:33.26,0:00:34.68,Default,,0,0,0,,Love confession practice.
 Dialogue: 0,0:00:34.68,0:00:36.60,Default,,0,0,0,,I'm Tomoko!
 Dialogue: 0,0:00:36.60,0:00:38.43,Default,,0,0,0,,I'm Keiko!
@@ -85,12 +85,12 @@ Dialogue: 0,0:03:13.80,0:03:16.34,Default,,0,0,0,,So, what do you think will wor
 Dialogue: 0,0:03:16.72,0:03:17.64,Default,,0,0,0,,Huh?
 Dialogue: 0,0:03:17.64,0:03:19.10,Default,,0,0,0,,For the confession.
 Dialogue: 0,0:03:19.10,0:03:22.10,Default,,0,0,0,,I want it to be cool,\Nlike something out of a drama.
-Dialogue: 0,0:03:22.10,0:03:23.14,Default,,0,0,0,,{\pos(640,646.4)}Any ideas?
-Dialogue: 0,0:03:23.14,0:03:25.81,Default,,0,0,0,,{\pos(640,646.4)}Oh, we're still talking about that?
-Dialogue: 0,0:03:25.81,0:03:27.48,Default,,0,0,0,,{\pos(640,646.4)}Setting up the situation?
-Dialogue: 0,0:03:27.48,0:03:28.06,Default,,0,0,0,,{\pos(640,646.4)}Right.
-Dialogue: 0,0:03:28.44,0:03:29.73,Default,,0,0,0,,{\pos(640,646.4)}If it were me...
-Dialogue: 0,0:03:29.73,0:03:32.98,Default,,0,0,0,,{\pos(640,646.4)}I think being alone together in a room\Nat the karaoke place might be good.
+Dialogue: 0,0:03:22.10,0:03:23.14,Default,,0,0,0,,Any ideas?
+Dialogue: 0,0:03:23.14,0:03:25.81,Default,,0,0,0,,Oh, we're still talking about that?
+Dialogue: 0,0:03:25.81,0:03:27.48,Default,,0,0,0,,Setting up the situation?
+Dialogue: 0,0:03:27.48,0:03:28.06,Default,,0,0,0,,Right.
+Dialogue: 0,0:03:28.44,0:03:29.73,Default,,0,0,0,,If it were me...
+Dialogue: 0,0:03:29.73,0:03:32.98,Default,,0,0,0,,I think being alone together in a room\Nat the karaoke place might be good.
 Dialogue: 0,0:03:32.98,0:03:34.49,Default,,0,0,0,,Like...
 Dialogue: 0,0:03:40.12,0:03:41.87,Default,,0,0,0,,You're a good singer.
 Dialogue: 0,0:03:45.00,0:03:45.75,Default,,0,0,0,,Thanks.
@@ -262,11 +262,11 @@ Dialogue: 0,0:10:38.49,0:10:40.20,Default,,0,0,0,,We're in another room next per
 Dialogue: 0,0:10:41.00,0:10:42.71,Default,,0,0,0,,Oh, look, Na-chan.
 Dialogue: 0,0:10:42.71,0:10:44.04,Default,,0,0,0,,Kobayakawa-san is over there.
 Dialogue: 0,0:10:46.46,0:10:47.92,Default,,0,0,0,,Are they in art class, you think?
-Dialogue: 0,0:10:47.92,0:10:50.38,Default,,0,0,0,,{\pos(640,640.6)}She really is clinging to her tightly.
-Dialogue: 0,0:10:50.38,0:10:53.55,Default,,0,0,0,,{\pos(640,640.6)}I hear she's tightened her guard now.
-Dialogue: 0,0:10:53.55,0:10:55.59,Default,,0,0,0,,{\pos(640,640.6)}Huh?! Where'd you get that info?
-Dialogue: 0,0:10:55.59,0:10:56.55,Default,,0,0,0,,{\pos(640,640.6)}Mocchi.
-Dialogue: 0,0:10:56.55,0:10:59.68,Default,,0,0,0,,{\pos(640,640.6)}He said he was having trouble\Nbecause it's hard to approach them.
+Dialogue: 0,0:10:47.92,0:10:50.38,Default,,0,0,0,,She really is clinging to her tightly.
+Dialogue: 0,0:10:50.38,0:10:53.55,Default,,0,0,0,,I hear she's tightened her guard now.
+Dialogue: 0,0:10:53.55,0:10:55.59,Default,,0,0,0,,Huh?! Where'd you get that info?
+Dialogue: 0,0:10:55.59,0:10:56.55,Default,,0,0,0,,Mocchi.
+Dialogue: 0,0:10:56.55,0:10:59.68,Default,,0,0,0,,He said he was having trouble\Nbecause it's hard to approach them.
 Dialogue: 0,0:10:59.68,0:11:01.43,Default,,0,0,0,,Which means... me, too...
 Dialogue: 0,0:11:01.43,0:11:03.60,Default,,0,0,0,,She calls me a little monkey, after all.
 Dialogue: 0,0:11:03.60,0:11:06.02,Default,,0,0,0,,Oh, Spitting Woman noticed us.
@@ -401,6 +401,65 @@ Dialogue: 1,0:10:04.42,0:10:04.46,Signs,,0,0,0,,{=0}{\fscy100.07\fscx100.07\an5\
 Dialogue: 1,0:10:04.46,0:10:04.50,Signs,,0,0,0,,{=0}{\fscy100.05\fscx100.05\an5\blur0.8\fnCandela Bold\fs46\c&H66829A&\fax-0.07\fay-0.000\frx2\fry357\frz3.71\pos(697.36,351.79)}S{\fax-0.069}e{\fax-0.068}i{\fax-0.067}r{\fax-0.066}y{\fax-0.065}o{\fax-0.064}u {\fax-0.063}H{\fax-0.062}i{\fax-0.061}g{\fax-0.06}h {\fax-0.059}S{\fax-0.058}c{\fax-0.057}h{\fax-0.056}o{\fax-0.055}o{\fax-0.053}l
 Dialogue: 1,0:10:04.50,0:10:04.54,Signs,,0,0,0,,{=0}{\fscy100.09\fscx100.09\an5\blur0.8\fnCandela Bold\fs46\c&H66829A&\fax-0.07\fay-0.000\frx2\fry357\frz3.7\pos(697.34,341.77)}S{\fax-0.069}e{\fax-0.068}i{\fax-0.067}r{\fax-0.066}y{\fax-0.065}o{\fax-0.064}u {\fax-0.063}H{\fax-0.062}i{\fax-0.061}g{\fax-0.06}h {\fax-0.059}S{\fax-0.058}c{\fax-0.057}h{\fax-0.056}o{\fax-0.055}o{\fax-0.053}l
 Dialogue: 1,0:10:04.54,0:10:04.58,Signs,,0,0,0,,{=0}{\fscy100.06\fscx100.06\an5\blur0.8\fnCandela Bold\fs46\c&H66829A&\fax-0.07\fay-0.000\frx2\fry357\frz3.7\pos(697.37,331.68)}S{\fax-0.069}e{\fax-0.068}i{\fax-0.067}r{\fax-0.066}y{\fax-0.065}o{\fax-0.064}u {\fax-0.063}H{\fax-0.062}i{\fax-0.061}g{\fax-0.06}h {\fax-0.059}S{\fax-0.058}c{\fax-0.057}h{\fax-0.056}o{\fax-0.055}o{\fax-0.053}l
+Dialogue: 0,0:01:28.90,0:01:29.36,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,372.34)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.36,0:01:29.44,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.38,372.34)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.44,0:01:29.48,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,371.97)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.48,0:01:29.52,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.38,371.17)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.52,0:01:29.56,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.39,369.84)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.56,0:01:29.61,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,368.08)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.61,0:01:29.65,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.38,366.03)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.65,0:01:29.69,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,363.53)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.69,0:01:29.73,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,360.9)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.73,0:01:29.77,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.35,358)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.77,0:01:29.81,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,354.74)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.81,0:01:29.86,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,351.32)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.86,0:01:29.90,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,347.73)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.90,0:01:29.94,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,344)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.94,0:01:29.98,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,339.96)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:29.98,0:01:30.02,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,335.91)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.02,0:01:30.06,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,331.58)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.06,0:01:30.11,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,327.24)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.11,0:01:30.15,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,322.69)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.15,0:01:30.19,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,318.02)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.19,0:01:30.23,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,313.35)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.23,0:01:30.27,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,308.42)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.27,0:01:30.32,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,303.36)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.32,0:01:30.36,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,298.35)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.36,0:01:30.40,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,293.19)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.40,0:01:30.44,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,287.85)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.44,0:01:30.48,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,282.52)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.48,0:01:30.52,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,277.18)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.52,0:01:30.57,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,271.68)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.57,0:01:30.61,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,266.09)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.61,0:01:30.65,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,260.41)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.65,0:01:30.69,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,254.77)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.69,0:01:30.73,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,248.94)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.73,0:01:30.77,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.31,243.1)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.77,0:01:30.82,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.3,237.11)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.82,0:01:30.86,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.28,231.11)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.86,0:01:30.90,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.31,225.11)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.90,0:01:30.94,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,219.12)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.94,0:01:30.98,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,212.95)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:30.98,0:01:31.02,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.38,206.8)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.02,0:01:31.07,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.38,200.48)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.07,0:01:31.11,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,194.17)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.11,0:01:31.15,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,187.8)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.15,0:01:31.19,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,181.5)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.19,0:01:31.23,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,174.97)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.23,0:01:31.27,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.38,168.51)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.27,0:01:31.32,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,162)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.32,0:01:31.36,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.37,155.36)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.36,0:01:31.40,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,148.71)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.40,0:01:31.44,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,142.04)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.44,0:01:31.48,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.35,135.38)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.48,0:01:31.52,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.36,128.58)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.52,0:01:31.57,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.35,121.77)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.57,0:01:31.61,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.34,114.99)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.61,0:01:31.65,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.31,108.12)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.65,0:01:31.69,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.33,101.14)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.69,0:01:31.73,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.3,94.25)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.73,0:01:31.77,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.32,87.19)}48 Tips to Get\Nan Girlfriend
+Dialogue: 0,0:01:31.77,0:01:31.82,Signs,,0,0,0,,{\fscx100\fscy100\alpha&H00&\shad0\bord5\an4\blur1\fnCandela Bold\fs70\c&HFFFBFE&\3c&H1B110B&\pos(337.32,80.23)}48 Tips to Get\Nan Girlfriend
 Dialogue: 2,0:01:43.83,0:01:46.17,OP English Alt,,0,0,0,fx,{\an5\pos(640,668)\fad(0,300)\t(300,2340,\bord2.4\blur0)}I'm sure many years from now,
 Dialogue: 0,0:01:43.04,0:01:43.83,OP English Alt,,0,0,0,fx,{\an5\move(359,704,360,668,0,200)\fad(300,0)\t(0,200\fry-28\fscx185\fscy185)\t(200,300,\fscx100\fscy100\fry0)}I
 Dialogue: 0,0:01:43.04,0:01:43.83,OP English Alt,,0,0,0,fx,{\an5\move(379,647,373,668,0,200)\fad(300,0)\t(0,200\fry-45\fscx185\fscy185)\t(200,300,\fscx100\fscy100\fry0)}'

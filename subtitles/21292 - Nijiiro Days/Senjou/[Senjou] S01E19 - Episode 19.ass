@@ -55,12 +55,12 @@ Dialogue: 0,0:02:25.39,0:02:27.33,Default,,0,0,0,,Sure. That's fine.
 Dialogue: 0,0:02:28.47,0:02:29.58,Default,,0,0,0,,That's how it went.
 Dialogue: 0,0:02:29.58,0:02:31.77,Default,,0,0,0,,Nice one, Na-chan!
 Dialogue: 0,0:02:31.77,0:02:33.17,Default,,0,0,0,,Good for you.
-Dialogue: 0,0:02:33.17,0:02:35.17,Default,,0,0,0,,{\pos(640,640.667)}So that's why it didn't bother you.
-Dialogue: 0,0:02:35.17,0:02:36.14,Default,,0,0,0,,{\pos(640,640.667)}Right!
-Dialogue: 0,0:02:36.14,0:02:39.28,Default,,0,0,0,,{\pos(640,640.667)}I'm so glad I worked up the courage to ask!
-Dialogue: 0,0:02:39.28,0:02:41.33,Default,,0,0,0,,{\pos(640,640.667)}Meanwhile, I've got nothing.
-Dialogue: 0,0:02:41.33,0:02:42.92,Default,,0,0,0,,{\pos(640,640.667)}That's never happened to me before.
-Dialogue: 0,0:02:42.92,0:02:47.56,Default,,0,0,0,,{\pos(640,640.667)}And that's why the two of us are\Ngoing to our class Christmas party.
+Dialogue: 0,0:02:33.17,0:02:35.17,Default,,0,0,0,,So that's why it didn't bother you.
+Dialogue: 0,0:02:35.17,0:02:36.14,Default,,0,0,0,,Right!
+Dialogue: 0,0:02:36.14,0:02:39.28,Default,,0,0,0,,I'm so glad I worked up the courage to ask!
+Dialogue: 0,0:02:39.28,0:02:41.33,Default,,0,0,0,,Meanwhile, I've got nothing.
+Dialogue: 0,0:02:41.33,0:02:42.92,Default,,0,0,0,,That's never happened to me before.
+Dialogue: 0,0:02:42.92,0:02:47.56,Default,,0,0,0,,And that's why the two of us are\Ngoing to our class Christmas party.
 Dialogue: 0,0:02:47.99,0:02:49.31,Default,,0,0,0,,What about Tsutsui-san?
 Dialogue: 0,0:02:51.01,0:02:52.85,Default,,0,0,0,,Said she's visiting her brother.
 Dialogue: 0,0:02:52.85,0:02:55.74,Default,,0,0,0,,{\i1}So that's why Kobayakawa-san was available!
@@ -147,9 +147,9 @@ Dialogue: 0,0:06:46.55,0:06:48.69,Default,,0,0,0,,{\i1}I'm fifteen minutes early
 Dialogue: 0,0:06:48.69,0:06:50.39,Default,,0,0,0,,{\i1}I haven't forgotten anything.
 Dialogue: 0,0:06:50.39,0:06:51.89,Default,,0,0,0,,{\i1}It's gonna be okay.
 Dialogue: 0,0:06:52.72,0:06:54.82,Default,,0,0,0,,{\i1\pos(640,640.4)}Is Kobayakawa-san already here?
-Dialogue: 0,0:06:58.81,0:06:59.89,Default,,0,0,0,,{\pos(640,640.4)}Sorry for the wait.
-Dialogue: 0,0:07:00.85,0:07:02.59,Default,,0,0,0,,{\pos(640,640.4)\i1}Kobayakawa-san!
-Dialogue: 0,0:07:02.59,0:07:04.14,Default,,0,0,0,,{\pos(640,640.4)}You're here early. Did you wait long?
+Dialogue: 0,0:06:58.81,0:06:59.89,Default,,0,0,0,,Sorry for the wait.
+Dialogue: 0,0:07:00.85,0:07:02.59,Default,,0,0,0,,{\i1}Kobayakawa-san!
+Dialogue: 0,0:07:02.59,0:07:04.14,Default,,0,0,0,,You're here early. Did you wait long?
 Dialogue: 0,0:07:04.14,0:07:05.77,Default,,0,0,0,,No, not at all!
 Dialogue: 0,0:07:07.22,0:07:09.46,Default,,0,0,0,,There are lots of people today...
 Dialogue: 0,0:07:10.58,0:07:11.05,Default,,0,0,0,,Right?

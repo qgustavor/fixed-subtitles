@@ -39,19 +39,19 @@ Comment: 0,0:13:00.84,0:13:03.84,Default,,0,0,0,,TS
 Dialogue: 10,0:00:08.55,0:00:09.98,Default,,0,0,0,,I can't wait...
 Dialogue: 10,0:01:40.99,0:01:41.91,Default,,0,0,0,,I feel...
 Dialogue: 10,0:01:42.45,0:01:45.45,Default,,0,0,0,,...like I'm slowly climbing\Nthe stairs to adulthood.
-Dialogue: 10,0:01:49.23,0:01:49.83,Default,,0,0,0,,{\pos(640,648.545)}How?
-Dialogue: 10,0:01:51.41,0:01:53.75,Default,,0,0,0,,{\pos(640,640.545)}When I sent a text invite\Nto Kobayakawa-san,
-Dialogue: 10,0:01:53.75,0:01:55.46,Default,,0,0,0,,{\pos(640,640.545)}I managed it easily!
-Dialogue: 10,0:01:55.46,0:01:56.46,Default,,0,0,0,,{\pos(640,650.545)}That's it?!
-Dialogue: 10,0:01:56.78,0:01:58.63,Default,,0,0,0,,{\pos(640,640.545)}Hey! What's up, guys?
-Dialogue: 10,0:01:58.63,0:01:59.96,Default,,0,0,0,,{\pos(640,640.545)}I sent Kobayakawa-san—
-Dialogue: 0,0:01:59.96,0:02:02.06,Default,,0,0,0,,{\pos(640,640.545)}Wow, is that so?
+Dialogue: 10,0:01:49.23,0:01:49.83,Default,,0,0,0,,How?
+Dialogue: 10,0:01:51.41,0:01:53.75,Default,,0,0,0,,When I sent a text invite\Nto Kobayakawa-san,
+Dialogue: 10,0:01:53.75,0:01:55.46,Default,,0,0,0,,I managed it easily!
+Dialogue: 10,0:01:55.46,0:01:56.46,Default,,0,0,0,,That's it?!
+Dialogue: 10,0:01:56.78,0:01:58.63,Default,,0,0,0,,Hey! What's up, guys?
+Dialogue: 10,0:01:58.63,0:01:59.96,Default,,0,0,0,,I sent Kobayakawa-san—
+Dialogue: 0,0:01:59.96,0:02:02.06,Default,,0,0,0,,Wow, is that so?
 Dialogue: 10,0:02:02.06,0:02:05.19,Default,,0,0,0,,Uh, I hadn't said anything yet.
-Dialogue: 10,0:02:05.19,0:02:06.31,Default,,0,0,0,,{\pos(640,628.667)}Is that a costume?
-Dialogue: 10,0:02:06.75,0:02:09.54,Default,,0,0,0,,{\pos(640,620)}Yeah! For the basketball team's play.
-Dialogue: 10,0:02:09.54,0:02:12.01,Default,,0,0,0,,{\pos(640,620.667)}They asked me to help out.
-Dialogue: 10,0:02:12.01,0:02:13.27,Default,,0,0,0,,{\pos(640,620.667)}I'm Saitou Hajime.
-Dialogue: 10,0:02:13.63,0:02:16.21,Default,,0,0,0,,{\pos(640,620.667)}Mattsun, we'll be watching\Nyou at the karaoke contest.
+Dialogue: 10,0:02:05.19,0:02:06.31,Default,,0,0,0,,Is that a costume?
+Dialogue: 10,0:02:06.75,0:02:09.54,Default,,0,0,0,,Yeah! For the basketball team's play.
+Dialogue: 10,0:02:09.54,0:02:12.01,Default,,0,0,0,,They asked me to help out.
+Dialogue: 10,0:02:12.01,0:02:13.27,Default,,0,0,0,,I'm Saitou Hajime.
+Dialogue: 10,0:02:13.63,0:02:16.21,Default,,0,0,0,,Mattsun, we'll be watching\Nyou at the karaoke contest.
 Dialogue: 10,0:02:16.21,0:02:18.78,Default,,0,0,0,,Sure! I'm gonna win it\Nwith my beautiful voice.
 Dialogue: 10,0:02:19.27,0:02:21.39,Default,,0,0,0,,What other attractions were there?
 Dialogue: 10,0:02:21.39,0:02:23.82,Default,,0,0,0,,The crossdressing contest.
@@ -220,7 +220,7 @@ Dialogue: 10,0:08:39.01,0:08:40.62,Default,,0,0,0,,Kobayakawa-san.
 Dialogue: 10,0:08:45.33,0:08:47.18,Default,,0,0,0,,Oh, wow.
 Dialogue: 10,0:08:48.76,0:08:51.46,Default,,0,0,0,,It's fun whipping Na-chan with that!
 Dialogue: 10,0:08:53.73,0:08:55.49,Default,,0,0,0,,Did Hashiba-kun...
-Dialogue: 10,0:08:55.49,0:08:56.84,Default,,0,0,0,,...say anything ?
+Dialogue: 10,0:08:55.49,0:08:56.84,Default,,0,0,0,,...say anything?
 Dialogue: 10,0:08:59.04,0:09:00.22,Default,,0,0,0,,Why?
 Dialogue: 10,0:09:00.22,0:09:01.43,Default,,0,0,0,,Well...
 Dialogue: 10,0:09:01.90,0:09:04.30,Default,,0,0,0,,He called off our plans,
@@ -274,10 +274,10 @@ Dialogue: 10,0:10:58.23,0:10:59.67,Default,,0,0,0,,Huh?
 Dialogue: 10,0:11:00.52,0:11:02.98,Default,,0,0,0,,Congratulations on first and second place!
 Dialogue: 10,0:11:02.98,0:11:04.30,Default,,0,0,0,,Thanks!
 Dialogue: 10,0:11:04.92,0:11:06.65,Default,,0,0,0,,Na-chan's so cute.
-Dialogue: 10,0:11:06.65,0:11:07.14,Default,,0,0,0,,{\pos(640,646.444)}Thank—
-Dialogue: 10,0:11:07.55,0:11:10.31,Default,,0,0,0,,{\pos(640,638.222)}Wait! Kei-chan, you told Kobayakawa-san!
-Dialogue: 10,0:11:10.31,0:11:12.23,Default,,0,0,0,,{\pos(640,638.222)}It just slipped out.
-Dialogue: 10,0:11:12.23,0:11:15.75,Default,,0,0,0,,{\pos(640,638.222)}She said she wanted a picture!\NWhat're you going to do about that!
+Dialogue: 10,0:11:06.65,0:11:07.14,Default,,0,0,0,,Thank—
+Dialogue: 10,0:11:07.55,0:11:10.31,Default,,0,0,0,,Wait! Kei-chan, you told Kobayakawa-san!
+Dialogue: 10,0:11:10.31,0:11:12.23,Default,,0,0,0,,It just slipped out.
+Dialogue: 10,0:11:12.23,0:11:15.75,Default,,0,0,0,,She said she wanted a picture!\NWhat're you going to do about that!
 Dialogue: 10,0:11:16.73,0:11:17.72,Default,,0,0,0,,Okay!
 Dialogue: 10,0:11:17.72,0:11:19.38,Default,,0,0,0,,Let's snap a few.
 Dialogue: 10,0:11:19.38,0:11:21.65,Default,,0,0,0,,Yukirin would probably love this.

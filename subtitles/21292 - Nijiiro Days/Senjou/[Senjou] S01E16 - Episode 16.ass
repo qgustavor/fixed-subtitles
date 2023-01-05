@@ -43,12 +43,12 @@ Dialogue: 0,0:01:50.59,0:01:52.11,Default,,0,0,0,,Wow!
 Dialogue: 0,0:01:52.40,0:01:55.32,Default,,0,0,0,,Kei-chan's volleyball team keeps winning.
 Dialogue: 0,0:01:55.32,0:01:57.40,Default,,0,0,0,,The girls' team is still winning, too.
 Dialogue: 0,0:01:57.69,0:02:00.64,Default,,0,0,0,,As expected with Chiba-chan as captain!
-Dialogue: 0,0:02:00.64,0:02:03.79,Default,,0,0,0,,{\pos(640,647.333)}Hey! Working hard, tennis team?
-Dialogue: 0,0:02:03.79,0:02:05.88,Default,,0,0,0,,{\pos(640,642.333)}How's it going? Winning?
-Dialogue: 0,0:02:05.88,0:02:07.00,Default,,0,0,0,,{\pos(640,647.333)}Yeah.
-Dialogue: 0,0:02:07.00,0:02:09.97,Default,,0,0,0,,{\pos(640,647.333)}Our second match starts soon,\Nso we're headed outside.
-Dialogue: 0,0:02:09.97,0:02:12.17,Default,,0,0,0,,{\pos(640,644.333)}Oh. Which team are you against next?
-Dialogue: 0,0:02:12.17,0:02:13.69,Default,,0,0,0,,{\pos(640,647.333)}3-6.
+Dialogue: 0,0:02:00.64,0:02:03.79,Default,,0,0,0,,Hey! Working hard, tennis team?
+Dialogue: 0,0:02:03.79,0:02:05.88,Default,,0,0,0,,How's it going? Winning?
+Dialogue: 0,0:02:05.88,0:02:07.00,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:02:07.00,0:02:09.97,Default,,0,0,0,,Our second match starts soon,\Nso we're headed outside.
+Dialogue: 0,0:02:09.97,0:02:12.17,Default,,0,0,0,,Oh. Which team are you against next?
+Dialogue: 0,0:02:12.17,0:02:13.69,Default,,0,0,0,,3-6.
 Dialogue: 0,0:02:13.69,0:02:16.33,Default,,0,0,0,,If we win, we'll face\NMocchi and the guys next.
 Dialogue: 0,0:02:16.33,0:02:18.34,Default,,0,0,0,,Huh, Mocchi's doing tennis?
 Dialogue: 0,0:02:18.74,0:02:21.10,Default,,0,0,0,,Anyways, Tsuyopon, we've got to win!
@@ -128,16 +128,16 @@ Dialogue: 0,0:04:49.21,0:04:50.16,Default,,0,0,0,,Hey, hey!
 Dialogue: 0,0:04:50.51,0:04:52.22,Default,,0,0,0,,Let's go watch Na-chan and Tsuyopon.
 Dialogue: 0,0:04:52.22,0:04:54.33,Default,,0,0,0,,Sure, I'll come.
 Dialogue: 0,0:04:57.09,0:04:58.91,Default,,0,0,0,,I'm gonna grab a drink.
-Dialogue: 0,0:04:58.91,0:05:01.25,Default,,0,0,0,,{\pos(640,640.333)}Okay! See you there.
-Dialogue: 0,0:05:02.34,0:05:03.47,Default,,0,0,0,,{\pos(640,640.333)}Aha!
-Dialogue: 0,0:05:04.17,0:05:06.01,Default,,0,0,0,,{\pos(640,640.333)}I found a Mattsun!
-Dialogue: 0,0:05:06.01,0:05:06.59,Default,,0,0,0,,{\pos(640,640.333)}Hm?
-Dialogue: 0,0:05:06.98,0:05:08.88,Default,,0,0,0,,{\pos(640,640.333)}Hey, Rina-chan! Long time no see!
-Dialogue: 0,0:05:08.88,0:05:11.48,Default,,0,0,0,,{\pos(640,640.333)}I know, right? I feel that way too.
-Dialogue: 0,0:05:13.23,0:05:14.45,Default,,0,0,0,,{\pos(640,640.333)}What happened to your leg?
-Dialogue: 0,0:05:14.45,0:05:15.21,Default,,0,0,0,,{\pos(640,640.333)}You hurt it?
-Dialogue: 0,0:05:15.21,0:05:17.94,Default,,0,0,0,,{\pos(640,640.333)}I sprained it in my last game.
-Dialogue: 0,0:05:17.94,0:05:20.10,Default,,0,0,0,,{\pos(640,640.333)}Now I can't play in the next one.
+Dialogue: 0,0:04:58.91,0:05:01.25,Default,,0,0,0,,Okay! See you there.
+Dialogue: 0,0:05:02.34,0:05:03.47,Default,,0,0,0,,Aha!
+Dialogue: 0,0:05:04.17,0:05:06.01,Default,,0,0,0,,I found a Mattsun!
+Dialogue: 0,0:05:06.01,0:05:06.59,Default,,0,0,0,,Hm?
+Dialogue: 0,0:05:06.98,0:05:08.88,Default,,0,0,0,,Hey, Rina-chan! Long time no see!
+Dialogue: 0,0:05:08.88,0:05:11.48,Default,,0,0,0,,I know, right? I feel that way too.
+Dialogue: 0,0:05:13.23,0:05:14.45,Default,,0,0,0,,What happened to your leg?
+Dialogue: 0,0:05:14.45,0:05:15.21,Default,,0,0,0,,You hurt it?
+Dialogue: 0,0:05:15.21,0:05:17.94,Default,,0,0,0,,I sprained it in my last game.
+Dialogue: 0,0:05:17.94,0:05:20.10,Default,,0,0,0,,Now I can't play in the next one.
 Dialogue: 0,0:05:20.10,0:05:21.28,Default,,0,0,0,,Really?
 Dialogue: 0,0:05:21.28,0:05:21.97,Default,,0,0,0,,Boo.
 Dialogue: 0,0:05:21.97,0:05:23.11,Default,,0,0,0,,That sucks.
@@ -243,7 +243,7 @@ Dialogue: 0,0:09:41.93,0:09:42.95,Default,,0,0,0,,Is a Health Committee member h
 Dialogue: 0,0:09:42.95,0:09:43.97,Default,,0,0,0,,That's me.
 Dialogue: 0,0:09:43.97,0:09:45.12,Default,,0,0,0,,Where is Takeda-sensei?
 Dialogue: 0,0:09:45.12,0:09:47.08,Default,,0,0,0,,I sent someone to get him.
-Dialogue: 0,0:09:47.79,0:09:50.12,Default,,0,0,0,,We'll have to carry her ourselves. then.
+Dialogue: 0,0:09:47.79,0:09:50.12,Default,,0,0,0,,We'll have to carry her ourselves, then.
 Dialogue: 0,0:09:50.74,0:09:52.34,Default,,0,0,0,,You, help me.
 Dialogue: 0,0:09:52.34,0:09:52.81,Default,,0,0,0,,Right.
 Dialogue: 0,0:09:52.81,0:09:55.13,Default,,0,0,0,,Sensei, I'll carry her.

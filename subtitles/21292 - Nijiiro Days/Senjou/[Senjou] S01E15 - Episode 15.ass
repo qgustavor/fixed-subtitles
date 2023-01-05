@@ -54,12 +54,12 @@ Dialogue: 0,0:02:06.65,0:02:11.83,Default,,0,0,0,,Plus, this afternoon, my broth
 Dialogue: 0,0:02:11.83,0:02:12.69,Default,,0,0,0,,Wow!
 Dialogue: 0,0:02:12.69,0:02:14.71,Default,,0,0,0,,Mattsuntsukutsun's so cool!
 Dialogue: 0,0:02:14.71,0:02:16.77,Default,,0,0,0,,Not sure if he actually likes her,
-Dialogue: 0,0:02:16.77,0:02:18.44,Default,,0,0,0,,{\pos(640,642.333)}but they'd make a great couple!
-Dialogue: 0,0:02:18.44,0:02:19.52,Default,,0,0,0,,{\pos(640,642.333)}I know, right?
-Dialogue: 0,0:02:19.52,0:02:21.51,Default,,0,0,0,,{\pos(640,642.333)}I'll work hard for my love, too!
-Dialogue: 0,0:02:21.51,0:02:24.39,Default,,0,0,0,,{\pos(640,642.333)}Wow, Nonnon, you're surprisingly aggressive!
-Dialogue: 0,0:02:24.39,0:02:26.58,Default,,0,0,0,,{\pos(640,642.333)}You may be right!
-Dialogue: 0,0:02:28.99,0:02:30.98,Default,,0,0,0,,{\pos(640,642.333)}You think they found Marippe?
+Dialogue: 0,0:02:16.77,0:02:18.44,Default,,0,0,0,,but they'd make a great couple!
+Dialogue: 0,0:02:18.44,0:02:19.52,Default,,0,0,0,,I know, right?
+Dialogue: 0,0:02:19.52,0:02:21.51,Default,,0,0,0,,I'll work hard for my love, too!
+Dialogue: 0,0:02:21.51,0:02:24.39,Default,,0,0,0,,Wow, Nonnon, you're surprisingly aggressive!
+Dialogue: 0,0:02:24.39,0:02:26.58,Default,,0,0,0,,You may be right!
+Dialogue: 0,0:02:28.99,0:02:30.98,Default,,0,0,0,,You think they found Marippe?
 Dialogue: 0,0:02:32.12,0:02:33.23,Default,,0,0,0,,Coming!
 Dialogue: 0,0:02:34.50,0:02:35.40,Default,,0,0,0,,Hm?
 Dialogue: 0,0:02:37.06,0:02:38.49,Default,,0,0,0,,Pardon me!
@@ -136,16 +136,16 @@ Dialogue: 0,0:05:39.71,0:05:41.80,Default,,0,0,0,,If you look down on me,\Nthe w
 Dialogue: 0,0:05:41.80,0:05:42.59,Default,,0,0,0,,Put that away!
 Dialogue: 0,0:05:42.93,0:05:44.15,Default,,0,0,0,,What is with you?
 Dialogue: 0,0:05:44.15,0:05:46.33,Default,,0,0,0,,Why were you with Nozomi?
-Dialogue: 0,0:05:46.33,0:05:49.47,Default,,0,0,0,,{\pos(640,642.4)}It's the result of me trying to be considerate.
-Dialogue: 0,0:05:50.03,0:05:51.73,Default,,0,0,0,,{\pos(640,642.4)}After I swapped rooms with Yukirin,
-Dialogue: 0,0:05:51.73,0:05:54.61,Default,,0,0,0,,{\pos(640,642.4)}Nozomi-chan said she wanted\Nto give me a massage.
-Dialogue: 0,0:05:54.61,0:05:55.74,Default,,0,0,0,,{\pos(640,642.4)}Nozomi...
-Dialogue: 0,0:05:55.74,0:05:57.78,Default,,0,0,0,,{\pos(640,642.4)}What's that girl even thinking?!
-Dialogue: 0,0:05:57.78,0:05:59.36,Default,,0,0,0,,{\pos(640,642.4)}Should I have refused?
-Dialogue: 0,0:05:59.36,0:06:01.83,Default,,0,0,0,,{\pos(640,642.4)}Hell yes! A sexy massage like that...
-Dialogue: 0,0:06:01.83,0:06:03.24,Default,,0,0,0,,{\pos(640,642.4)}Sexy?
-Dialogue: 0,0:06:03.24,0:06:05.90,Default,,0,0,0,,{\pos(640,642.4)}Won't you be mad if Nozomi-chan\Nwas sad because I'd refused?
-Dialogue: 0,0:06:08.39,0:06:10.17,Default,,0,0,0,,{\pos(640,642.4)}What a pain.
+Dialogue: 0,0:05:46.33,0:05:49.47,Default,,0,0,0,,It's the result of me trying to be considerate.
+Dialogue: 0,0:05:50.03,0:05:51.73,Default,,0,0,0,,After I swapped rooms with Yukirin,
+Dialogue: 0,0:05:51.73,0:05:54.61,Default,,0,0,0,,Nozomi-chan said she wanted\Nto give me a massage.
+Dialogue: 0,0:05:54.61,0:05:55.74,Default,,0,0,0,,Nozomi...
+Dialogue: 0,0:05:55.74,0:05:57.78,Default,,0,0,0,,What's that girl even thinking?!
+Dialogue: 0,0:05:57.78,0:05:59.36,Default,,0,0,0,,Should I have refused?
+Dialogue: 0,0:05:59.36,0:06:01.83,Default,,0,0,0,,Hell yes! A sexy massage like that...
+Dialogue: 0,0:06:01.83,0:06:03.24,Default,,0,0,0,,Sexy?
+Dialogue: 0,0:06:03.24,0:06:05.90,Default,,0,0,0,,Won't you be mad if Nozomi-chan\Nwas sad because I'd refused?
+Dialogue: 0,0:06:08.39,0:06:10.17,Default,,0,0,0,,What a pain.
 Dialogue: 0,0:06:10.17,0:06:11.52,Default,,0,0,0,,Either way.
 Dialogue: 0,0:06:11.52,0:06:14.54,Default,,0,0,0,,I'm telling you to make sure\Nno "mistakes" happen.
 Dialogue: 0,0:06:14.54,0:06:17.83,Default,,0,0,0,,It's weird having you tell me how to behave...

@@ -64,8 +64,8 @@ Dialogue: 0,0:02:44.18,0:02:46.95,Default,,0,0,0,,Unfortunately, we are very bus
 Dialogue: 0,0:02:47.42,0:02:50.65,Default,,0,0,0,,so there is a two-hour limit on tables.
 Dialogue: 0,0:02:52.37,0:02:54.04,Default,,0,0,0,,Thank you for coming!
 Dialogue: 0,0:02:57.78,0:02:59.92,Default,,0,0,0,,{\i1}Brr! It's so cold!
-Dialogue: 0,0:03:00.19,0:03:02.83,Default,,0,0,0,,{\i1\pos(640,640.8)}I forgot there was a time limit.
-Dialogue: 0,0:03:07.93,0:03:10.46,Default,,0,0,0,,{\i1\pos(640,640.8)}No word from Kobayakawa-san.
+Dialogue: 0,0:03:00.19,0:03:02.83,Default,,0,0,0,,{\i1}I forgot there was a time limit.
+Dialogue: 0,0:03:07.93,0:03:10.46,Default,,0,0,0,,{\i1}No word from Kobayakawa-san.
 Dialogue: 0,0:03:21.04,0:03:22.77,Default,,0,0,0,,{\i1}She's not answering.
 Dialogue: 0,0:03:28.42,0:03:31.90,Default,,0,0,0,,{\i1}For now, I guess I should\Nfind somewhere to wait.
 Dialogue: 0,0:03:33.12,0:03:35.32,Default,,0,0,0,,I'm terribly sorry.
@@ -132,12 +132,12 @@ Dialogue: 0,0:08:05.72,0:08:06.81,Default,,0,0,0,,{\i1}I've been...
 Dialogue: 0,0:08:21.27,0:08:22.70,Default,,0,0,0,,{\i1}Kobayakawa-san?
 Dialogue: 0,0:08:26.24,0:08:27.04,Default,,0,0,0,,Hashiba-kun?
 Dialogue: 0,0:08:30.12,0:08:31.53,Default,,0,0,0,,Why are you outside?
-Dialogue: 0,0:08:31.53,0:08:33.63,Default,,0,0,0,,{\pos(640,640.8)}You could have waited inside.
-Dialogue: 0,0:08:33.63,0:08:35.55,Default,,0,0,0,,{\i1\pos(640,640.8)}It's Kobayakawa-san.
-Dialogue: 0,0:08:36.30,0:08:37.80,Default,,0,0,0,,{\i1\pos(640,640.8)}It's really her.
-Dialogue: 0,0:08:39.17,0:08:40.88,Default,,0,0,0,,{\pos(640,640.8)}The table had a two-hour limit.
-Dialogue: 0,0:08:41.24,0:08:43.26,Default,,0,0,0,,{\pos(640,640.8)}It did?
-Dialogue: 0,0:08:43.26,0:08:46.65,Default,,0,0,0,,{\pos(640,640.8)}I'm so sorry! I took so long...
+Dialogue: 0,0:08:31.53,0:08:33.63,Default,,0,0,0,,You could have waited inside.
+Dialogue: 0,0:08:33.63,0:08:35.55,Default,,0,0,0,,{\i1}It's Kobayakawa-san.
+Dialogue: 0,0:08:36.30,0:08:37.80,Default,,0,0,0,,{\i1}It's really her.
+Dialogue: 0,0:08:39.17,0:08:40.88,Default,,0,0,0,,The table had a two-hour limit.
+Dialogue: 0,0:08:41.24,0:08:43.26,Default,,0,0,0,,It did?
+Dialogue: 0,0:08:43.26,0:08:46.65,Default,,0,0,0,,I'm so sorry! I took so long...
 Dialogue: 0,0:08:46.65,0:08:47.93,Default,,0,0,0,,{\i1}Thank goodness.
 Dialogue: 0,0:08:47.93,0:08:51.57,Default,,0,0,0,,What should I do? Honestly...\NI was in such a hurry!
 Dialogue: 0,0:08:51.57,0:08:53.60,Default,,0,0,0,,I shouldn't have left.

@@ -51,18 +51,18 @@ Dialogue: 0,0:02:03.80,0:02:05.20,Default,,0,0,0,,"Those around"?!
 Dialogue: 0,0:02:05.20,0:02:08.68,Default,,0,0,0,,But he's glad that today, he'll also\Nbe able to see the girl he likes.
 Dialogue: 0,0:02:09.39,0:02:10.52,Default,,0,0,0,,"The girl he likes"?
 Dialogue: 0,0:02:10.52,0:02:12.19,Default,,0,0,0,,Oh...
-Dialogue: 0,0:02:12.19,0:02:14.44,Default,,0,0,0,,{\pos(640,644.667)}That must be Kobayakawa-san!
-Dialogue: 0,0:02:14.72,0:02:15.62,Default,,0,0,0,,{\pos(640,644.667)}Mm-hm.
-Dialogue: 0,0:02:15.62,0:02:19.01,Default,,0,0,0,,{\pos(640,644.667)}During summer break, he was only\Nable to see her at the beach,
-Dialogue: 0,0:02:19.01,0:02:21.44,Default,,0,0,0,,{\pos(640,644.667)}so young Hashiba,\Nwhile not a great student,
-Dialogue: 0,0:02:21.44,0:02:24.86,Default,,0,0,0,,{\pos(640,644.667)}has still been waiting eagerly\Nfor school to start again!
+Dialogue: 0,0:02:12.19,0:02:14.44,Default,,0,0,0,,That must be Kobayakawa-san!
+Dialogue: 0,0:02:14.72,0:02:15.62,Default,,0,0,0,,Mm-hm.
+Dialogue: 0,0:02:15.62,0:02:19.01,Default,,0,0,0,,During summer break, he was only\Nable to see her at the beach,
+Dialogue: 0,0:02:19.01,0:02:21.44,Default,,0,0,0,,so young Hashiba,\Nwhile not a great student,
+Dialogue: 0,0:02:21.44,0:02:24.86,Default,,0,0,0,,has still been waiting eagerly\Nfor school to start again!
 Dialogue: 0,0:02:24.86,0:02:28.89,Default,,0,0,0,,Well, I would like to see\Nmore progress in your relationship.
-Dialogue: 0,0:02:28.89,0:02:30.45,Default,,0,0,0,,{\pos(640,620.8)}Just kiss her already.
-Dialogue: 0,0:02:30.75,0:02:32.16,Default,,0,0,0,,{\pos(640,620.8)}Break her in!
-Dialogue: 0,0:02:32.95,0:02:35.00,Default,,0,0,0,,{\pos(640,620.8)}Shut up, you guys!
-Dialogue: 0,0:02:35.00,0:02:36.74,Default,,0,0,0,,{\pos(640,620.8)}We're just supporting you!
-Dialogue: 0,0:02:36.74,0:02:38.54,Default,,0,0,0,,{\pos(640,620.8)}In what way?!
-Dialogue: 0,0:02:38.54,0:02:40.34,Default,,0,0,0,,{\pos(640,620.8)}Hashiba-kun, come with me.
+Dialogue: 0,0:02:28.89,0:02:30.45,Default,,0,0,0,,Just kiss her already.
+Dialogue: 0,0:02:30.75,0:02:32.16,Default,,0,0,0,,Break her in!
+Dialogue: 0,0:02:32.95,0:02:35.00,Default,,0,0,0,,Shut up, you guys!
+Dialogue: 0,0:02:35.00,0:02:36.74,Default,,0,0,0,,We're just supporting you!
+Dialogue: 0,0:02:36.74,0:02:38.54,Default,,0,0,0,,In what way?!
+Dialogue: 0,0:02:38.54,0:02:40.34,Default,,0,0,0,,Hashiba-kun, come with me.
 Dialogue: 0,0:02:40.78,0:02:41.51,Default,,0,0,0,,Huh...?
 Dialogue: 0,0:02:42.72,0:02:44.26,Default,,0,0,0,,You copied the homework
 Dialogue: 0,0:02:44.26,0:02:46.32,Default,,0,0,0,,from someone else, didn't you?
@@ -123,7 +123,7 @@ Dialogue: 0,0:04:55.69,0:04:57.68,Default,,0,0,0,,Yeah, but...
 Dialogue: 0,0:04:58.18,0:04:59.79,Default,,0,0,0,,You see, Mocchi...
 Dialogue: 0,0:04:59.79,0:05:02.94,Default,,0,0,0,,He said he sits next to Kobayakawa-san.
 Dialogue: 0,0:05:02.94,0:05:05.94,Default,,0,0,0,,I'm just jealous that he's in\Nthe same class and gets to do that.
-Dialogue: 0,0:05:06.36,0:05:09.96,Default,,0,0,0,,Before you complain. remember that Yukirin\Nand I go to totally different schools.
+Dialogue: 0,0:05:06.36,0:05:09.96,Default,,0,0,0,,Before you complain, remember that Yukirin\Nand I go to totally different schools.
 Dialogue: 0,0:05:09.96,0:05:11.41,Default,,0,0,0,,O-Oh, right.
 Dialogue: 0,0:05:11.41,0:05:12.62,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:05:12.62,0:05:14.40,Default,,0,0,0,,It's fine. I don't really care.
@@ -262,11 +262,11 @@ Dialogue: 0,0:11:03.02,0:11:04.06,Default,,0,0,0,,What do you think?
 Dialogue: 0,0:11:04.06,0:11:05.51,Default,,0,0,0,,Wouldn't it be fun?
 Dialogue: 0,0:11:07.41,0:11:09.23,Default,,0,0,0,,Yeah. That sounds great.
 Dialogue: 0,0:11:13.39,0:11:15.35,Default,,0,0,0,,As his rival, Mocchi...
-Dialogue: 0,0:11:15.88,0:11:17.70,Default,,0,0,0,,{\pos(642,638)}You're busy with the team.
-Dialogue: 0,0:11:17.70,0:11:19.19,Default,,0,0,0,,{\pos(642,638)}Do you have time for a girlfriend?
-Dialogue: 0,0:11:19.53,0:11:21.11,Default,,0,0,0,,{\pos(642,638)}When would you go on dates?
-Dialogue: 0,0:11:21.58,0:11:23.44,Default,,0,0,0,,{\pos(642,638)}From what guys with girlfriends tell me,
-Dialogue: 0,0:11:23.44,0:11:25.03,Default,,0,0,0,,{\pos(642,638)}it'll work out somehow.
+Dialogue: 0,0:11:15.88,0:11:17.70,Default,,0,0,0,,You're busy with the team.
+Dialogue: 0,0:11:17.70,0:11:19.19,Default,,0,0,0,,Do you have time for a girlfriend?
+Dialogue: 0,0:11:19.53,0:11:21.11,Default,,0,0,0,,When would you go on dates?
+Dialogue: 0,0:11:21.58,0:11:23.44,Default,,0,0,0,,From what guys with girlfriends tell me,
+Dialogue: 0,0:11:23.44,0:11:25.03,Default,,0,0,0,,it'll work out somehow.
 Dialogue: 0,0:11:25.57,0:11:28.20,Default,,0,0,0,,Can we go back to the classroom now?
 Dialogue: 0,0:11:28.20,0:11:29.38,Default,,0,0,0,,I'm tired.
 Dialogue: 0,0:00:01.77,0:00:01.81,Signs,,0,0,0,,{=166}{\fscy100.57\frz-0.11\fscx100.57\an5\bord0\blur1.01\p1\c&H4F4A4E&\pos(853.13,768.86)}m 0 0 l -150 32 l -150 -9 l 180 -34 l 180 11 l -150 32

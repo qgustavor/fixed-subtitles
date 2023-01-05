@@ -64,20 +64,20 @@ Dialogue: 0,0:00:30.92,0:00:34.15,Default,,0,0,0,,If you three keep this up, the
 Dialogue: 0,0:02:10.11,0:02:14.41,Default,,0,0,0,,Basically, if you don't manage to score an\N average of at least 50 on the make-ups,
 Dialogue: 0,0:02:14.41,0:02:15.95,Default,,0,0,0,,you'll have to repeat the year?
 Dialogue: 0,0:02:16.23,0:02:17.41,Default,,0,0,0,,Looks like it...
-Dialogue: 0,0:02:17.41,0:02:19.19,Default,,0,0,0,,{\pos(640,650)}We were surprised as well.
-Dialogue: 0,0:02:19.19,0:02:21.12,Default,,0,0,0,,{\pos(640,650)}Repeating the year would be harsh.
-Dialogue: 0,0:02:21.12,0:02:23.87,Default,,0,0,0,,{\pos(640,646)}What was your highest score?
-Dialogue: 0,0:02:23.87,0:02:25.59,Default,,0,0,0,,{\pos(640,650)}25 in Science.
-Dialogue: 0,0:02:25.59,0:02:27.96,Default,,0,0,0,,{\pos(640,646)}23 in Geography.
-Dialogue: 0,0:02:27.96,0:02:29.42,Default,,0,0,0,,{\pos(640,646)}16 in Japanese...
-Dialogue: 0,0:02:30.42,0:02:31.66,Default,,0,0,0,,{\pos(640,650)}Your lowest?
+Dialogue: 0,0:02:17.41,0:02:19.19,Default,,0,0,0,,We were surprised as well.
+Dialogue: 0,0:02:19.19,0:02:21.12,Default,,0,0,0,,Repeating the year would be harsh.
+Dialogue: 0,0:02:21.12,0:02:23.87,Default,,0,0,0,,What was your highest score?
+Dialogue: 0,0:02:23.87,0:02:25.59,Default,,0,0,0,,25 in Science.
+Dialogue: 0,0:02:25.59,0:02:27.96,Default,,0,0,0,,23 in Geography.
+Dialogue: 0,0:02:27.96,0:02:29.42,Default,,0,0,0,,16 in Japanese...
+Dialogue: 0,0:02:30.42,0:02:31.66,Default,,0,0,0,,Your lowest?
 Dialogue: 0,0:02:31.66,0:02:32.80,Default,,0,0,0,,I don't want to say!
 Dialogue: 0,0:02:32.80,0:02:34.68,Default,,0,0,0,,Seriously, what are we going to do?
-Dialogue: 0,0:02:34.68,0:02:37.54,Default,,0,0,0,,{\move(640,690,640,618.667,18,2055)}I haven't scored higher than 50 once this year!
-Dialogue: 0,0:02:37.54,0:02:39.47,Default,,0,0,0,,{\pos(640,618)}We only have three days, impossible!
-Dialogue: 0,0:02:39.47,0:02:41.72,Default,,0,0,0,,{\pos(640,618)}This is just a lesson on when to give up.
-Dialogue: 0,0:02:42.39,0:02:44.89,Default,,0,0,0,,{\pos(640,618)}We could do a study session at my place.
-Dialogue: 0,0:02:45.78,0:02:46.98,Default,,0,0,0,,{\pos(640,618)}A study session?
+Dialogue: 0,0:02:34.68,0:02:37.54,Default,,0,0,0,,I haven't scored higher than 50 once this year!
+Dialogue: 0,0:02:37.54,0:02:39.47,Default,,0,0,0,,We only have three days, impossible!
+Dialogue: 0,0:02:39.47,0:02:41.72,Default,,0,0,0,,This is just a lesson on when to give up.
+Dialogue: 0,0:02:42.39,0:02:44.89,Default,,0,0,0,,We could do a study session at my place.
+Dialogue: 0,0:02:45.78,0:02:46.98,Default,,0,0,0,,A study session?
 Dialogue: 0,0:02:47.37,0:02:50.23,Default,,0,0,0,,I'd rather not advance to the second year alone...
 Dialogue: 0,0:02:50.23,0:02:51.65,Default,,0,0,0,,Thanks, Tsuyopon!
 Dialogue: 0,0:02:51.65,0:02:54.82,Default,,0,0,0,,Can you really help all three of us?
@@ -249,11 +249,11 @@ Dialogue: 0,0:09:37.54,0:09:40.27,Default,,0,0,0,,Hashiba-kun, you're always\N b
 Dialogue: 0,0:09:40.27,0:09:42.36,Default,,0,0,0,,Um, well...
 Dialogue: 0,0:09:42.36,0:09:43.81,Default,,0,0,0,,Um...
 Dialogue: 0,0:09:49.12,0:09:50.48,Default,,0,0,0,,Tsuyoponnu...
-Dialogue: 0,0:09:51.02,0:09:51.61,Default,,0,0,0,,{\pos(640,640.667)}Yes?
-Dialogue: 0,0:09:51.61,0:09:53.24,Default,,0,0,0,,{\pos(640,640.667)}Are you still angry?
-Dialogue: 0,0:09:53.91,0:09:55.11,Default,,0,0,0,,{\pos(640,640.667)}About what?
-Dialogue: 0,0:09:55.11,0:09:56.91,Default,,0,0,0,,{\pos(640,640.667)}Angry about my hair!
-Dialogue: 0,0:09:57.43,0:10:00.08,Default,,0,0,0,,{\pos(640,640.667)}I heard you were talking\N about breaking up with me.
+Dialogue: 0,0:09:51.02,0:09:51.61,Default,,0,0,0,,Yes?
+Dialogue: 0,0:09:51.61,0:09:53.24,Default,,0,0,0,,Are you still angry?
+Dialogue: 0,0:09:53.91,0:09:55.11,Default,,0,0,0,,About what?
+Dialogue: 0,0:09:55.11,0:09:56.91,Default,,0,0,0,,Angry about my hair!
+Dialogue: 0,0:09:57.43,0:10:00.08,Default,,0,0,0,,I heard you were talking\N about breaking up with me.
 Dialogue: 0,0:10:00.08,0:10:02.25,Default,,0,0,0,,Because I dyed it, right?
 Dialogue: 0,0:10:02.25,0:10:03.45,Default,,0,0,0,,Kei-chan said that?
 Dialogue: 0,0:10:03.45,0:10:05.00,Default,,0,0,0,,But the next cosplay I'm doing,
@@ -274,7 +274,7 @@ Dialogue: 0,0:10:34.63,0:10:38.61,Default,,0,0,0,,I realize that, because I'm he
 Dialogue: 0,0:10:39.92,0:10:42.54,Default,,0,0,0,,Just take it however you want.
 Dialogue: 0,0:10:44.74,0:10:47.54,Default,,0,0,0,,You're not honest at all, I love it.
 Dialogue: 0,0:10:47.54,0:10:49.42,Default,,0,0,0,,Don't forget my lack of fluency.
-Dialogue: 0,0:10:49.42,0:10:51.29,Default,,0,0,0,,I know !
+Dialogue: 0,0:10:49.42,0:10:51.29,Default,,0,0,0,,I know!
 Dialogue: 0,0:10:54.45,0:10:56.42,Default,,0,0,0,,Thanks for walking me here.
 Dialogue: 0,0:10:56.42,0:10:57.26,Default,,0,0,0,,See you tomorrow.
 Dialogue: 0,0:10:57.54,0:10:58.51,Default,,0,0,0,,Yeah...
