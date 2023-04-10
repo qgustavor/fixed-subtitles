@@ -1,1 +1,0 @@
-import{d as n,u as o,o as r,g as c,w as l,e as p,t as a,b as t,H as u}from"./src/pages/_default.page.client.ts.9157b69a.js";const g=n({props:["page"],setup(e){const{t:s}=o();return(i,d)=>(r(),c(t(u),null,{default:l(()=>[p("title",null,a(e.page?e.page+" - ":"")+a(t(s)("website-name")),1)]),_:1}))}});export{g as _};
