@@ -53,7 +53,7 @@ useHead({
   titleTemplate: page => (page ? page + ' - ' : '') + t('website-name'),
   link: [{
     rel: 'icon',
-    href: '/favicon.svg'
+    href: '/fixed-subtitles/favicon.svg'
   }]
 })
 </script>
