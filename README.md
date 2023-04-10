@@ -4,13 +4,15 @@ Watching subtitles with errors is not pleasing. While some errors can be just si
 
 ## Downloading subtitles
 
-**Just visit the website: https://qgustavor.github.io/fixed-subtitles/**
+**Check the website: https://qgustavor.github.io/fixed-subtitles/**
 
-Ideally you just need to download subtitles (unzipping if needed) to the same directory as the video. Most players will detect the subtitle and use it automatically. In some cases the subtitle needs to be opened manually and fonts need to be installed. This project does not share fonts, just subtitles.
+Ideally you just need to download subtitles (unzipping if needed) to the same directory as the video and most players will detect the subtitle and use it automatically.
+
+In some cases, like when you don't have the original video, the subtitle needs to be opened manually and fonts need to be installed or muxed to the video. You can use tools such as [aslass](https://github.com/kaegi/alass/) to take care of timing differences. This project does not share fonts, just subtitles.
 
 ## Contributing
 
-This project accepts contributions via pull requests. You can fork the repository, import existing subtitles, fix those and send a pull request.
+This project accepts contributions via pull requests. You can fork the repository, import existing subtitles, fix those and send a pull request. If this is your first time using git check [GitHub quickstart](https://docs.github.com/get-started/quickstart/fork-a-repo).
 
 *Tip when contributing:* check existent files and commits and mimic the style.
 
@@ -20,13 +22,13 @@ When importing existent subtitles consider including related subtitles, even if 
 
 ### File organization
 
-Subtitles are stored in the `subtitles` directory, the other files are related to the website which is based on [Nuxt 3](https://nuxt.com/].
+Subtitles are stored in the `subtitles` directory, the other files are related to the website.
 
 There is a directory in the subtitles directory for each show. Each directory is named after the AniList ID, followed by the show title, which can be abbreviated. The show ID is used to load data which is displayed in the website, in the other hand, the show title in the filename is only used for organization, the title returned by AniList's API is used instead.
 
 Inside each show directory there is a directory for each group. The name of the directory is the name of the group and is shown in the website when more than one group translated a show.
 
-Inside each group directory there are subtitles named after the video name, e.g. `video.mkv` becomes `video.ass`. There's also a `README.md` which must include at least the language of the subtitles, which is displayed in the website. For new contributions it must also include information about what was fixed.
+Inside each group directory there are subtitles named after the video name, e.g. `video.mkv` becomes `video.ass`. If a video have multiple subtitles you can add a suffix to the name. There's also a `README.md` which must include at least the language of the subtitles, which is displayed in the website. For new contributions it must also include information about what was fixed.
 
 ### Commit organization
 
