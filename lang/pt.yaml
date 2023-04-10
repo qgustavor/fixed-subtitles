@@ -1,0 +1,116 @@
+---
+website-name: Legendas Corrigidas
+website-description: Legendas corrigidas de fansubs e sites de streaming
+not-found: A página requisitada não foi encontrada.
+not-found-title: Página não encontrada
+contact-link: Contato
+wip: Página em construção
+
+darkmode-tooltip: Trocar cores
+locale-tooltip: Trocar língua
+code-tooltip: |-
+  Abrir página do projeto
+  (você pode baixar todas as legendas lá)
+
+index:
+  headline: Procurando legendas corrigidas?
+  description: '{totalFixedFiles} legendas corrigidas, só baixar!'
+  latest_updates: Últimas atualizações
+  actions:
+    browse:
+      title: Procuro legendas
+      description: Encontre e baixe legendas corrigidas
+      action: Confira todos os {n} conteúdos corrigidos
+  explainer:
+    title: Por que corrigir legendas?
+    time: Algumas vezes os tradutores não podem corrigir elas
+    time2: É possível que eles estejam sem tempo ocupados com outros projetos, tenham parado de traduzir ou até mesmo, no caso de serviços de streaming, perderam as suas licenças.
+    opensource: Várias pessoas podem ajudar
+    opensource2: É fácil ignorar os próprios erros, mas se várias pessoas ajudarem é possível evitar esses problemas
+
+contact:
+  title: Contato
+  headline: Encontrou um erro? Reporte ele aqui. Se você encontrou um erro em uma legenda ou aqui no site descreva onde podemos encontrá-lo. Se for possível, coloque a URL.
+  name: Nome (opcional)
+  message: Mensagem
+  submit: Enviar
+  extra: Você também pode entrar em contato na {project}.
+  extra-project: página do projeto no GitHub
+  messages:
+    missing-data: Preencha todos os campos.
+    submitting: Enviando...
+    submitted: Sua mensagem foi enviada.
+    error: Ocorreu um erro ao enviar a mensagem.
+
+full-season: ' {season} de {seasonYear}'
+episodes: 'Nenhum episódio | {n} episódio | {n} episódios'
+show_list: Conteúdos disponíveis
+data-source: Dados de animes fornecidos por {anilist}. Projeto hospedado no {github}. Você pode contribuir enviando pull requests.
+pagination-text: Página {current} de {total}
+select-group: Escolha um dos grupos acima.
+file-count: 'Nenhum arquivo | {n} arquivo | {n} arquivos'
+commit-count: 'Nenhum commit | {n} commit | {n} commits'
+changed-lines-count: 'Nenhuma linha corrigida | {n} linha corrigida | {n} linhas corrigidas'
+download-all: Baixar tudo como zip
+report-error: Reportar um erro
+show: Nome
+season: Temporada
+last_update: Atualizado em
+
+download-modal:
+  title: 'Baixando arquivo | Baixando arquivos'
+  in-progress: Aguarde enquanto o download termina.
+  finished: 'O download terminou. Se você tiver acesso ao vídeo original do grupo basta salvar a legenda na pasta do vídeo, senão você terá que abrir a legenda manualmente e precisará instalar | O download terminou. Se você tiver acesso ao vídeo original do grupo basta salvar as legendas na pasta dos vídeos, senão você terá que abrir as legendas manualmente e precisará instalar'
+  fonts: 'a seguinte fonte: | as seguintes fontes:'
+  font-variant-regular: 'regular'
+  font-variant-bold: 'negrito'
+  font-variant-italic: 'itálico'
+  font-variant-bolditalic: 'negrito itálico'
+  font-variant-and: ' e '
+  font-variant-comma: ', '
+  download: Baixar
+  cancel: Cancelar
+  close: Fechar
+
+commit-modal:
+  title: Lista de commits
+  explainer: 'Cada commit é um conjunto de modificações que foram feitas para corrigir os arquivos. Você pode abrir o commit abaixo para ver o que foi modificado. | Cada commit é um conjunto de modificações que foram feitas para corrigir os arquivos, alguns corrigem um arquivo, outros corrigem vários. Você pode abri-los para ver o que foi modificado nos arquivos.'
+  date: 'publicado em {date}'
+  close: Fechar
+
+group-list:
+  filename: Nome do arquivo
+  modified: Última modificação
+  changedLines: Correções
+
+seasons:
+  SPRING: Primavera
+  SUMMER: Verão
+  FALL: Outono
+  WINTER: Inverno
+
+formats:
+  TV: TV
+  TV_SHORT: Curta
+  MOVIE: Filme
+  SPECIAL: Especial
+  OVA: OVA
+  ONA: ONA
+  MUSIC: Musical
+
+languages:
+  en: Inglês
+  en-us: Inglês Americano
+  pt: Português
+  pt-br: Português Brasileiro
+  pt-pt: Português Lusitano
+  es: Espanhol
+  es-la: Espanhol Latino Americano
+  es-es: Espanhol Europeu
+
+search:
+  button: Pesquisar
+  label: Pesquisar
+  placeholder: Pesquisar legendas...
+  title: Procurando "{query}"
+  not_found: Nada encontrado :/

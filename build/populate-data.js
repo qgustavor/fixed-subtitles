@@ -75,7 +75,7 @@ async function populateData () {
     }
   }
 
-  const targetPath = path.resolve(repositoryRoot, 'src/data.json')
+  const targetPath = path.resolve(repositoryRoot, 'data.json')
   await fs.writeFile(targetPath, JSON.stringify(data))
 }
 

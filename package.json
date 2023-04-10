@@ -1,59 +1,26 @@
 {
-  "name": "fixed-subtitles-website",
-  "version": "0.0.0",
+  "name": "fixed-subtitles",
   "private": true,
   "scripts": {
-    "dev": "npm run server",
-    "prod": "npm run build && npm run server-prod",
-    "build": "cross-env NODE_ENV=production vite build && vite build --ssr && vite-plugin-ssr prerender",
-    "populate-data": "node build/populate-data",
-    "server": "node ./server",
-    "server-prod": "cross-env NODE_ENV=production node ./server"
-  },
-  "dependencies": {
-    "@egoist/vue-head": "^0.1.8",
-    "@iconify/iconify": "^2.0.0-beta.6",
-    "@progress/jszip-esm": "^1.0.2",
-    "@vueuse/core": "^7.5.3",
-    "balloon-css": "^1.2.0",
-    "insights-js": "^1.2.10",
-    "vue": "^3.2.26",
-    "vue-i18n": "^9.2.0-beta.26",
-    "vue-router": "^4.0.0-beta.7"
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "populate-data": "node build/populate-data"
   },
   "devDependencies": {
-    "@github-docs/frontmatter": "^1.3.1",
-    "@iconify-json/carbon": "^1.0.12",
-    "@iconify/json": "^1.1.211",
-    "@originjs/vite-plugin-content": "^1.0.1",
-    "@purge-icons/generated": "^0.4.0",
-    "@typescript-eslint/eslint-plugin": "^3.10.1",
-    "@vitejs/plugin-vue": "^2.0.1",
-    "@vue/compiler-sfc": "^3.2.26",
-    "autoprefixer": "^10.4.2",
-    "cheerio": "^1.0.0-rc.3",
-    "cross-env": "^7.0.2",
-    "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.2.0",
-    "express": "^4.18.2",
-    "marked": "^4.0.10",
-    "mkdirp": "^1.0.4",
-    "natural-orderby": "^2.0.3",
-    "node-fetch": "^2.6.7",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.12",
-    "tailwindcss-aspect-ratio": "^3.0.0",
-    "typescript": "^4.0.2",
-    "unplugin-icons": "^0.13.0",
-    "unplugin-vue-components": "^0.17.11",
-    "vite": "^2.9.13",
-    "vite-plugin-ssr": "^0.3.43",
-    "vite-plugin-voie": "^0.7.3",
-    "voie-pages": "^0.3.0"
+    "@nuxtjs/color-mode": "^3.2.0",
+    "@nuxtjs/i18n": "^8.0.0-beta.10",
+    "@nuxtjs/robots": "^3.0.0",
+    "@nuxtjs/tailwindcss": "^6.6.5",
+    "nuxt": "^3.3.3",
+    "nuxt-icon": "^0.3.3",
+    "tailwindcss-aspect-ratio": "^3.0.0"
   },
-  "eslintConfig": {
-    "extends": [
-      "plugin:vue/vue3-recommended"
-    ]
+  "dependencies": {
+    "@progress/jszip-esm": "^1.0.3",
+    "fuse.js": "^6.6.2",
+    "insights-js": "^1.2.11"
   }
 }

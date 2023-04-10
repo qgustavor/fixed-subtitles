@@ -1,18 +1,10 @@
-/* eslint-disable @typescript-eslint/no-var-requires */
-
 module.exports = {
-  content: [
-    './index.html',
-    './src/**/*.vue',
-    './src/**/*.js',
-    './src/**/*.ts',
-  ],
   darkMode: 'class',
   theme: {
     extend: {
       opacity: {
         10: '0.1',
-        85: '0.85',
+        85: '0.85'
       },
       colors: {
         gray: {
@@ -33,20 +25,9 @@ module.exports = {
       'square': [1, 1],
       '16-9': [16, 9],
       '9-14': [9, 14]
-    },
+    }
   },
   plugins: [
     require('tailwindcss-aspect-ratio')
-  ],
-  future: {
-    removeDeprecatedGapUtilities: true,
-    purgeLayersByDefault: true,
-  },
-  experimental: {
-    applyComplexClasses: true,
-    uniformColorPalette: true,
-    extendedSpacingScale: true,
-    defaultLineHeights: true,
-    extendedFontSizeScale: true,
-  },
+  ]
 }
