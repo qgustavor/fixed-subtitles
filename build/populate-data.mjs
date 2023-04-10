@@ -1,19 +1,19 @@
-const { orderBy } = require('natural-orderby')
-const cp = require('child_process')
-const fs = require('fs').promises
-const util = require('util')
-const path = require('path')
-
-const getShowInfo = require('./get-show-info')
-const parseReadme = require('./parse-readme')
+import { orderBy } from 'natural-orderby'
+import { fileURLToPath } from 'node:url'
+import cp from 'node:child_process'
+import fs from 'node:fs/promises'
+import util from 'node:util'
+import path from 'node:path'
+import getShowInfo from './get-show-info.mjs'
+import parseReadme from './parse-readme.mjs'
 const execFile = util.promisify(cp.execFile)
 
 // Get commit hash and author date
 const logDelimiter = '#!#@(!)!$#@'
 const logFormat = ['', '%H', '%ai', ''].join(logDelimiter)
 
-const repositoryRoot = path.resolve(__dirname, '..')
-const subtitlesDir = path.resolve(repositoryRoot, 'subtitles')
+const repositoryRoot = fileURLToPath(new URL('..', import.meta.url))
+const subtitlesDir = fileURLToPath(new URL('../subtitles', import.meta.url))
 
 async function populateData () {
   const shows = orderBy(await fs.readdir(subtitlesDir))

@@ -1,5 +1,5 @@
-const frontmatter = require('@github-docs/frontmatter')
-const marked = require('marked')
+import frontmatter from '@github-docs/frontmatter'
+import { marked } from 'marked'
 const schemas = {
   show: {
     properties: {
@@ -27,7 +27,7 @@ const schemas = {
   }
 }
 
-module.exports = function parseReadme (markdown, schema) {
+export default function parseReadme (markdown, schema) {
   const { data, content, errors } = frontmatter(markdown, {
     schema: schemas[schema]
   })

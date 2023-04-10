@@ -1,13 +1,13 @@
-const fetch = require('node-fetch')
-const path = require('path')
-const fs = require('fs')
+import { fileURLToPath } from 'node:url'
+import fetch from 'node-fetch'
+import path from 'node:path'
+import fs from 'node:fs'
+import parseReadme from './parse-readme.mjs'
 
-const parseReadme = require('./parse-readme.js')
-const repositoryRoot = path.resolve(__dirname, '..')
-const subtitlesDir = path.resolve(repositoryRoot, 'subtitles')
-const cacheDir = path.resolve(repositoryRoot, '.cache')
+const subtitlesDir = fileURLToPath(new URL('../subtitles', import.meta.url))
+const cacheDir = fileURLToPath(new URL('../.cache', import.meta.url))
 
-module.exports = async function getShowInfo (folderName) {
+export default async function getShowInfo (folderName) {
   const idMatches = folderName.match(/^(?:([A-Z]+)-)?(\S+) - /)
   if (!idMatches) throw Error(`could not find show id for ${folderName}`)
 
@@ -42,7 +42,7 @@ module.exports = async function getShowInfo (folderName) {
 
   console.log('Got %s data from API', cacheKey)
   return showRemoteData
-}
+};
 
 const anilistToken = process.env.ANILIST_TOKEN
 const ANILIST_ENDPOINT = 'https://graphql.anilist.co'
