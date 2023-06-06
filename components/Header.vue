@@ -7,7 +7,7 @@
 
     <form
       class="mt-4 sm:mt-0 w-full sm:w-2/3 lg:w-1/2"
-      :action="localePath('/search/')"
+      :action="localePath('/search')"
       @submit.prevent="handleSearch"
     >
       <label
@@ -42,7 +42,7 @@ const searchRef = ref('')
 const router = useRouter()
 function handleSearch () {
   router.push({
-    path: '/search',
+    path: localePath('/search'),
     query: { q: searchRef.value }
   })
 }

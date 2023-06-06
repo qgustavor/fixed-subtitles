@@ -43,7 +43,7 @@ html {
 
 .iconify {
   display: inline-block;
-  vertical-align: top;
+  vertical-align: top!important;
 }
 </style>
 
