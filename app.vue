@@ -41,7 +41,8 @@ html {
   @apply inline-block text-green-800 dark:text-green-300 pt-2 text-2xl;
 }
 
-.icon.iconify {
+.iconify {
+  display: inline-block;
   vertical-align: top;
 }
 </style>

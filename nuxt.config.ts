@@ -7,7 +7,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxtjs/i18n',
-    // '@nuxtjs/robots',
+    '@nuxtjs/robots',
     '@nuxtjs/color-mode',
     'nuxt-icon'
   ],
@@ -24,5 +24,8 @@ export default defineNuxtConfig({
     langDir: 'lang',
     fallbackLocale: 'en',
     defaultLocale: 'en'
+  },
+  nuxtIcon: {
+    class: 'iconify'
   }
 })
