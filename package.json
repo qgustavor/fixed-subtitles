@@ -14,7 +14,7 @@
     "@nuxtjs/i18n": "^8.0.0-beta.10",
     "@nuxtjs/robots": "^3.0.0",
     "@nuxtjs/tailwindcss": "^6.6.5",
-    "nuxt": "^3.11.1",
+    "nuxt": "^3.12.4",
     "nuxt-icon": "^0.4.1",
     "tailwindcss-aspect-ratio": "^3.0.0"
   },
