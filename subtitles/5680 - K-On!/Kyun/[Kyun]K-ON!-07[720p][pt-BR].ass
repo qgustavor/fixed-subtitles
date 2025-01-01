@@ -61,385 +61,385 @@ Dialogue: 0,0:01:59.69,0:02:03.40,Default,ui,0000,0000,0000,,Neste dia, onee-cha
 Dialogue: 0,0:02:11.40,0:02:13.40,Default,yui,0000,0000,0000,,Ui, tem alguma coisa errada?
 Dialogue: 0,0:02:14.97,0:02:16.14,Default,ui,0000,0000,0000,,Não.
 Dialogue: 0,0:02:16.99,0:02:20.36,Default,ui,0000,0000,0000,,Espero que o Natal seja bem divertido esse ano.
-Dialogue: 0,0:04:05.26,0:04:06.92,Default,ui,0000,0000,0000,,Tem feito muito frio ultimamente.
-Dialogue: 0,0:04:09.70,0:04:10.58,Default,yui,0000,0000,0000,,Oh?
-Dialogue: 0,0:04:11.27,0:04:12.84,Default,yui,0000,0000,0000,,Você não está usando um cachecol?
-Dialogue: 0,0:04:13.23,0:04:17.96,Default,ui,0000,0000,0000,,Não, eu acho que ele foi carregado pelo vento\N quando eu estava pondo para secar.
-Dialogue: 0,0:04:37.22,0:04:38.15,Default,ui,0000,0000,0000,,Onee-chan!
-Dialogue: 0,0:04:39.96,0:04:41.98,Default,yui,0000,0000,0000,,Tão quente, tão quente.
-Dialogue: 0,0:04:41.98,0:04:44.25,Default,ui,0000,0000,0000,,Onde está a sua outra luva?
-Dialogue: 0,0:04:44.25,0:04:46.08,Default,yui,0000,0000,0000,,Eu acho que perdi.
-Dialogue: 0,0:04:50.74,0:04:52.85,Default,yui,0000,0000,0000,,Tão quente, tão quente!
-Dialogue: 0,0:05:03.04,0:05:04.93,Default,ritsu,0000,0000,0000,,Pessoal!
-Dialogue: 0,0:05:05.32,0:05:07.93,Default,ritsu,0000,0000,0000,,Eu fiz um poster para a nossa festa de Natal!
-Dialogue: 0,0:05:07.93,0:05:11.63,Default,mio,0000,0000,0000,,Oh? Nós estávamos planejando uma festa de Natal?
-Dialogue: 0,0:05:11.63,0:05:13.23,Default,ritsu,0000,0000,0000,,Eu ainda não contei para ninguém.
-Dialogue: 0,0:05:13.23,0:05:14.12,Default,mio,0000,0000,0000,,Então conte.
-Dialogue: 0,0:05:15.88,0:05:18.55,Default,ritsu,0000,0000,0000,,Data: 24 de dezembro.
-Dialogue: 0,0:05:18.55,0:05:20.34,Default,ritsu,0000,0000,0000,,Local: Casa da Mugi.
-Dialogue: 0,0:05:20.34,0:05:22.11,Default,ritsu,0000,0000,0000,,Entrada: 1000 ienes.
-Dialogue: 0,0:05:23.35,0:05:26.34,Default,mugi,0000,0000,0000,,Hmm, minha casa não vai estar disponível neste dia.
-Dialogue: 0,0:05:26.34,0:05:28.37,Default,ritsu,0000,0000,0000,,Eu temia isso.
-Dialogue: 0,0:05:28.37,0:05:31.66,Default,mugi,0000,0000,0000,,Minha casa está ocupada o tempo todo,
-Dialogue: 0,0:05:31.66,0:05:34.89,Default,mugi,0000,0000,0000,,então você precisa reservar com pelo\Nmenos um mês de antecedência.
-Dialogue: 0,0:05:34.89,0:05:36.38,Default,mugi,0000,0000,0000,,Me desculpem!
-Dialogue: 0,0:05:36.38,0:05:38.40,Default,mio,0000,0000,0000,,E–Entendo...
-Dialogue: 0,0:05:38.40,0:05:39.59,Default,both,0000,0000,0000,,Que tipo de família ela tem?
-Dialogue: 0,0:05:39.59,0:05:41.33,Default,mugi,0000,0000,0000,,Ricchan, que tal a sua casa?
-Dialogue: 0,0:05:41.33,0:05:43.55,Default,mio,0000,0000,0000,,Nem adianta.
-Dialogue: 0,0:05:43.55,0:05:46.50,Default,mio,0000,0000,0000,,A casa da Ritsu é tão bagunçada que\Nnão sobra lugar para pisar.
-Dialogue: 0,0:05:46.50,0:05:48.89,Default,ritsu,0000,0000,0000,,O que?!
-Dialogue: 0,0:05:52.01,0:05:55.77,Default,ritsu,0000,0000,0000,,A Mio deixa roupas espalhadas\Npelo chão do quarto dela.
-Dialogue: 0,0:05:56.22,0:05:57.15,Default,ritsu,0000,0000,0000,,Como calcinhas.
-Dialogue: 0,0:05:59.32,0:06:02.17,Default,mio,0000,0000,0000,,N–Não fique inventando essas coisas!
-Dialogue: 0,0:06:02.71,0:06:04.59,Default,ritsu,0000,0000,0000,,Eu tenho fotos para provar.
-Dialogue: 0,0:06:04.59,0:06:06.03,Default,mio,0000,0000,0000,,Isso é mentira!
-Dialogue: 0,0:06:06.39,0:06:08.20,Default,ritsu,0000,0000,0000,,Eu não estou mentindo.
-Dialogue: 0,0:06:08.55,0:06:11.08,Default,mio,0000,0000,0000,,D–Dois pedaços de pão...
-Dialogue: 0,0:06:12.80,0:06:13.92,Default,ritsu,0000,0000,0000,,E também...
-Dialogue: 0,0:06:15.74,0:06:18.17,Default,mio,0000,0000,0000,,Pare! Por favor!
-Dialogue: 0,0:06:19.07,0:06:21.17,Default,mugi,0000,0000,0000,,Y-Yui-chan, e a sua casa?
-Dialogue: 0,0:06:21.84,0:06:22.93,Default,yui,0000,0000,0000,,Eu não me importo.
-Dialogue: 0,0:06:24.38,0:06:25.93,Default,ritsu,0000,0000,0000,,É isso aí!
-Dialogue: 0,0:06:25.93,0:06:29.56,Default,mio,0000,0000,0000,,Mas não tem problema que tanta\Ngente vá a sua casa no Natal?
-Dialogue: 0,0:06:29.56,0:06:33.22,Default,yui,0000,0000,0000,,Não tem problemas, minha mãe e meu pai\N não estarão em casa neste dia.
-Dialogue: 0,0:06:33.22,0:06:35.82,Default,ritsu,0000,0000,0000,,Eles também não estavam na última\Nvez que fomos a sua casa.
-Dialogue: 0,0:06:35.82,0:06:38.10,Default,yui,0000,0000,0000,,Eles viajam muito.{ou... Eles viajam juntos nas férias}
-Dialogue: 0,0:06:38.10,0:06:40.07,Default,yui,0000,0000,0000,,Eles vão à Alemanha no Natal.
-Dialogue: 0,0:06:44.11,0:06:45.70,Default,both,0000,0000,0000,,Um casal pombinhos!{lovey-dovey couple}
-Dialogue: 0,0:06:45.70,0:06:48.03,Default,mugi,0000,0000,0000,,Nós devemos levar alguma coisa?
-Dialogue: 0,0:06:48.73,0:06:50.29,Default,yui,0000,0000,0000,,Não se preocupem quanto a comida!
-Dialogue: 0,0:06:50.67,0:06:52.55,Default,ritsu,0000,0000,0000,,Você tem certeza?
-Dialogue: 0,0:06:52.55,0:06:54.29,Default,yui,0000,0000,0000,,Sim, tenho!
-Dialogue: 0,0:06:54.29,0:06:56.29,Default,yui,0000,0000,0000,,Já que a Ui vai cozinhar.
-Dialogue: 0,0:06:56.29,0:06:58.88,Default,mio,0000,0000,0000,,Fico feliz que você tenha uma boa irmã.
-Dialogue: 0,0:06:58.88,0:07:00.13,Default,ritsu,0000,0000,0000,,Oh, certo!
-Dialogue: 0,0:07:00.56,0:07:02.00,Default,ritsu,0000,0000,0000,,Vamos fazer...
-Dialogue: 0,0:07:02.00,0:07:03.30,Default,ritsu,0000,0000,0000,,uma troca de presentes!
-Dialogue: 0,0:07:03.30,0:07:04.59,Default,yui,0000,0000,0000,,Sim! Sim!
-Dialogue: 0,0:07:04.59,0:07:06.17,Default,mugi,0000,0000,0000,,Sim! Sim!
-Dialogue: 0,0:07:06.17,0:07:08.96,Default,ritsu,0000,0000,0000,,Mio, não traga nada esquisito!
-Dialogue: 0,0:07:08.96,0:07:10.47,Default,mio,0000,0000,0000,,Veja quem está falando!
-Dialogue: 0,0:07:10.47,0:07:12.48,Default,mio,0000,0000,0000,,Como no primário...
-Dialogue: 0,0:07:15.48,0:07:17.48,Default,yui,0000,0000,0000,,Ela continua a mesma. {[Frostii]: Que clichê...}
-Dialogue: 0,0:07:17.48,0:07:19.22,Default,ritsu,0000,0000,0000,,Eu não quero ouvir isso de você!
-Dialogue: 0,0:07:19.22,0:07:20.31,Default,yui,0000,0000,0000,,Senhorita Clichê.
-Dialogue: 0,0:07:20.31,0:07:22.11,Default,mugi,0000,0000,0000,,Eu não posso esperar!
-Dialogue: 0,0:07:22.11,0:07:23.70,Default,mugi,0000,0000,0000,,Pela nossa festa de Natal!
-Dialogue: 0,0:07:28.10,0:07:31.41,Default,ritsu,0000,0000,0000,,Nodoka-san, você quer participar da nossa festa\Nde Natal também?
-Dialogue: 0,0:07:31.41,0:07:35.03,Default,nodoka,0000,0000,0000,,Eu posso, mesmo não sendo do clube?
-Dialogue: 0,0:07:35.03,0:07:36.55,Default,ritsu,0000,0000,0000,,Mas é claro!
-Dialogue: 0,0:07:36.55,0:07:38.92,Default,ritsu,0000,0000,0000,,Nós somos amigas.
-Dialogue: 0,0:07:39.78,0:07:43.18,Default,ritsu,0000,0000,0000,,Quanto mais pessoas virem, mais dinheiro conseguimos. {[Frostii]: E eu vou ter mais dinheiro para gastar se mais pessoas virem.}
-Dialogue: 0,0:07:43.18,0:07:45.47,Default,mio,0000,0000,0000,,E o que você pretende fazer com isso?
-Dialogue: 0,0:07:45.47,0:07:47.38,Default,yui,0000,0000,0000,,Nodoka-chan, você pode vir?
-Dialogue: 0,0:07:47.38,0:07:48.41,Default,nodoka,0000,0000,0000,,Sim.
-Dialogue: 0,0:07:48.41,0:07:49.64,Default,yui,0000,0000,0000,,Eba! {Yay!}
-Dialogue: 0,0:07:50.26,0:07:53.39,Default,yui,0000,0000,0000,,Então, por favor prepare a comida para a gente.
-Dialogue: 0,0:07:53.39,0:07:55.27,Default,yui,0000,0000,0000,,Eu te ajudarei, é claro.
-Dialogue: 0,0:07:56.13,0:07:57.57,Default,ui,0000,0000,0000,,Deixe comigo!
-Dialogue: 0,0:07:57.57,0:07:58.48,Default,ui,0000,0000,0000,,Mas...
-Dialogue: 0,0:07:58.48,0:08:01.49,Default,ui,0000,0000,0000,,vai ser horrível se ela se machucar!
-Dialogue: 0,0:08:03.37,0:08:05.86,Default,ui,0000,0000,0000,,Onee-chan, tome conta da decoração.
-Dialogue: 0,0:08:06.31,0:08:07.68,Default,yui,0000,0000,0000,,Entendido! {[Frostii]: Sim, Capitã!}
-Dialogue: 0,0:08:08.43,0:08:11.06,Default,ui,0000,0000,0000,,Aliás, o que se faz em uma festa de Natal?
-Dialogue: 0,0:08:12.06,0:08:15.71,Default,yui,0000,0000,0000,,Você come bolo, troca presentes...
-Dialogue: 0,0:08:18.20,0:08:20.54,Default,yui,0000,0000,0000,,E cada pessoa faz uma curta performance!
-Dialogue: 0,0:08:26.11,0:08:28.55,Default,ui,0000,0000,0000,,O que eu devo fazer quanto a isso?
-Dialogue: 0,0:08:29.97,0:08:32.88,Default,yui,0000,0000,0000,,Huh? Você está realmente levando isso a sério.
-Dialogue: 0,0:08:32.88,0:08:34.97,Default,ui,0000,0000,0000,,Mas eu vou pensar em algo até lá.
-Dialogue: 0,0:08:34.97,0:08:36.63,Default,yui,0000,0000,0000,,T–Tudo bem...
-Dialogue: 0,0:08:36.63,0:08:38.94,Default,ui,0000,0000,0000,,E eu preciso comprar um presente.
-Dialogue: 0,0:08:39.31,0:08:41.98,Default,yui,0000,0000,0000,,A sim, eu também preciso comprar um.
-Dialogue: 0,0:08:44.44,0:08:46.54,Default,yui,0000,0000,0000,,O que eu devo comprar...
-Dialogue: 0,0:08:48.45,0:08:50.44,Default,yui,0000,0000,0000,,Isso é tão fofo!
-Dialogue: 0,0:08:50.44,0:08:52.74,Default,yui,0000,0000,0000,,Nodoka-chan, eu vou levar esse!
-Dialogue: 0,0:08:52.74,0:08:56.10,Default,nodoka,0000,0000,0000,,Normalmente você passa de novo quando\N recebe o seu próprio presente.
-Dialogue: 0,0:09:02.53,0:09:03.92,Default,yui,0000,0000,0000,,Então isso deve ser o suficiente.
-Dialogue: 0,0:09:03.92,0:09:05.26,Default,nodoka,0000,0000,0000,,Ei...
-Dialogue: 0,0:09:08.97,0:09:11.51,Default,mio,0000,0000,0000,,Ritsu, você já se decidiu?
-Dialogue: 0,0:09:11.92,0:09:14.26,Default,ritsu,0000,0000,0000,,Que tal esse?!
-Dialogue: 0,0:09:16.27,0:09:18.22,Default,mio,0000,0000,0000,,D–De jeito nenhum!
-Dialogue: 0,0:09:18.22,0:09:19.77,Default,ritsu,0000,0000,0000,,E que tal esse daqui?
-Dialogue: 0,0:09:23.52,0:09:24.61,Default,ritsu,0000,0000,0000,,Ou esse–
-Dialogue: 0,0:09:25.39,0:09:27.78,Default,mio,0000,0000,0000,,Porque você sempre escolhe esse tipo de coisa?
-Dialogue: 0,0:09:28.28,0:09:30.78,Default,yui,0000,0000,0000,,Eu finalmente decidi.
-Dialogue: 0,0:09:30.78,0:09:36.29,Default,ritsu,0000,0000,0000,,Oh, vocês estavam comprando os presentes também?
-Dialogue: 0,0:09:36.29,0:09:37.87,Default,yui,0000,0000,0000,,O que você comprou?
-Dialogue: 0,0:09:37.87,0:09:41.09,Default,mio,0000,0000,0000,,Contar agora acabaria com a diversão.
-Dialogue: 0,0:09:41.09,0:09:42.47,Default,yui,0000,0000,0000,,Oh, certo.
-Dialogue: 0,0:09:42.47,0:09:43.77,Default,ritsu,0000,0000,0000,,A sim!
-Dialogue: 0,0:09:43.77,0:09:44.92,Default,ritsu,0000,0000,0000,,Ta-da!
-Dialogue: 0,0:09:45.39,0:09:47.75,Default,ritsu,0000,0000,0000,,Nós estamos indo a loteria agora.
-Dialogue: 0,0:09:48.61,0:09:50.20,Default,yui,0000,0000,0000,,Nós também!
-Dialogue: 0,0:09:53.33,0:09:54.80,Default,ritsu,0000,0000,0000,,Outro pacote de papéis de seda...
-Dialogue: 0,0:09:54.80,0:09:55.94,Default,ppl,0000,0000,0000,,Ganhadora!
-Dialogue: 0,0:09:55.94,0:09:57.22,Default,ppl,0000,0000,0000,,Vencedora do prêmio principal!
-Dialogue: 0,0:09:58.22,0:10:00.25,Default,ppl,0000,0000,0000,,Aqui está. Parabéns.
-Dialogue: 0,0:10:00.25,0:10:01.59,Default,yui,0000,0000,0000,,M–Mugi-chan!
-Dialogue: 0,0:10:04.77,0:10:06.32,Default,mugi,0000,0000,0000,,Vocês também estão fazendo compras?
-Dialogue: 0,0:10:06.32,0:10:07.47,Default,ritsu,0000,0000,0000,,Você ganhou alguma coisa?
-Dialogue: 0,0:10:07.47,0:10:09.74,Default,mugi,0000,0000,0000,,Sim, uma viagem para o Havaí.
-Dialogue: 0,0:10:09.74,0:10:11.71,Default,ritsu,0000,0000,0000,,Você tem uma sorte incrível.
-Dialogue: 0,0:10:11.71,0:10:13.02,Default,mugi,0000,0000,0000,,Mas eu recusei.
-Dialogue: 0,0:10:13.02,0:10:14.62,Default,all,0000,0000,0000,,Por que?!
-Dialogue: 0,0:10:15.07,0:10:17.95,Default,mugi,0000,0000,0000,,Eu queria isso, então eu troquei.
-Dialogue: 0,0:10:17.95,0:10:20.64,Default,mugi,0000,0000,0000,,Vamos jogar no Natal.
-Dialogue: 0,0:10:23.83,0:10:26.42,Default,ui,0000,0000,0000,,O que eu devo preparar?
-Dialogue: 0,0:10:29.88,0:10:32.67,Default,ui,0000,0000,0000,,E o que eu devo apresentar na minha performance?{Deixar performance?}
-Dialogue: 0,0:10:50.33,0:10:51.95,Default,ui,0000,0000,0000,,Onee-chan, o que aconteceu?
-Dialogue: 0,0:10:51.95,0:10:53.36,Default,yui,0000,0000,0000,,Oh, Ui.
-Dialogue: 0,0:10:57.82,0:11:00.30,Default,ui,0000,0000,0000,,Eu pensei que você estava limpando a casa.
-Dialogue: 0,0:11:01.14,0:11:02.26,Default,yui,0000,0000,0000,,Eu estava apenas...
-Dialogue: 0,0:11:06.42,0:11:07.92,Default,yui,0000,0000,0000,,Parecem deliciosos!
-Dialogue: 0,0:11:10.96,0:11:13.41,Default,ui,0000,0000,0000,,Onee-chan, não pegue nenhum.
-Dialogue: 0,0:11:13.41,0:11:15.43,Default,yui,0000,0000,0000,,Eu não vou roubar nenhum.
-Dialogue: 0,0:11:21.72,0:11:23.70,Default,yui,0000,0000,0000,,Eu disse que não vou!
-Dialogue: 0,0:11:26.96,0:11:29.98,Default,ui,0000,0000,0000,,{\i1}O Daruma-san caiu?{\i0}
-Dialogue: 0,0:11:31.19,0:11:34.36,Default,ui,0000,0000,0000,,Onee-chan, isso não é hora para ficar brincando.
-Dialogue: 0,0:11:36.80,0:11:39.56,Default,ui,0000,0000,0000,,Nós ainda não decoramos a sala, então se apresse.
-Dialogue: 0,0:11:39.56,0:11:40.46,Default,yui,0000,0000,0000,,Sim.
-Dialogue: 0,0:11:44.58,0:11:46.81,Default,ui,0000,0000,0000,,Ela só está começando agora...
-Dialogue: 0,0:11:49.05,0:11:51.13,Default,all,0000,0000,0000,,Com licença!
-Dialogue: 0,0:11:51.13,0:11:52.59,Default,ui,0000,0000,0000,,Entrem!
-Dialogue: 0,0:11:53.76,0:11:55.76,Default,ritsu,0000,0000,0000,,Yui! Nós estamos aqui!
-Dialogue: 0,0:11:56.46,0:11:59.39,Default,yui,0000,0000,0000,,Ei, pessoal! Venham até aqui.
-Dialogue: 0,0:11:59.39,0:12:01.10,Default,ritsu,0000,0000,0000,,O que você está fazendo?
-Dialogue: 0,0:12:01.88,0:12:04.56,Default,yui,0000,0000,0000,,Eu não consegui parar depois que comecei.
-Dialogue: 0,0:12:04.56,0:12:06.53,Default,ritsu,0000,0000,0000,,Você é tão infantil.
-Dialogue: 0,0:12:06.53,0:12:08.76,Default,ui,0000,0000,0000,,Oh, deixe-me pegar seus casacos.
-Dialogue: 0,0:12:09.76,0:12:10.73,Default,ritsu,0000,0000,0000,,Obrigada.
-Dialogue: 0,0:12:10.73,0:12:12.73,Default,mio,0000,0000,0000,,Uma irmã mais nova esforçada...
-Dialogue: 0,0:12:12.73,0:12:14.78,Default,ritsu,0000,0000,0000,,E uma irmã mais velha pateta...{Ou palerma, ou boba, ou...}
-Dialogue: 0,0:12:14.78,0:12:17.92,Default,ritsu,0000,0000,0000,,Essa é uma combinação excelente para um drama.
-Dialogue: 0,0:12:20.03,0:12:21.52,Default,ritsu,0000,0000,0000,,A comida parece deliciosa!
-Dialogue: 0,0:12:21.52,0:12:23.50,Default,mugi,0000,0000,0000,,Ui-chan, você fez tudo isso?
-Dialogue: 0,0:12:23.50,0:12:24.48,Default,yui,0000,0000,0000,,Com licença!
-Dialogue: 0,0:12:24.48,0:12:26.21,Default,yui,0000,0000,0000,,Eu também ajudei!
-Dialogue: 0,0:12:26.21,0:12:27.55,Default,yui,0000,0000,0000,,Veja este bolo!
-Dialogue: 0,0:12:27.55,0:12:28.85,Default,ritsu,0000,0000,0000,,Uau! Impressionante!
-Dialogue: 0,0:12:28.85,0:12:30.90,Default,yui,0000,0000,0000,,Eu coloquei os morangos no topo.
-Dialogue: 0,0:12:30.90,0:12:33.15,Default,ritsu,0000,0000,0000,,Eu retiro o que disse!
-Dialogue: 0,0:12:33.15,0:12:33.84,Default,yui,0000,0000,0000,,Tem alguma coisa errada?
-Dialogue: 0,0:12:33.84,0:12:38.22,Default,ui,0000,0000,0000,,B–Bem, ela fez o máximo que pode.
-Dialogue: 0,0:12:38.22,0:12:42.22,Default,ui,0000,0000,0000,,Ela limpou e decorou a casa.
-Dialogue: 0,0:12:42.22,0:12:43.99,Default,ui,0000,0000,0000,,E...
-Dialogue: 0,0:12:44.65,0:12:45.57,Default,ui,0000,0000,0000,,Bem...
-Dialogue: 0,0:12:45.57,0:12:47.52,Default,ritsu,0000,0000,0000,,Ela está fazendo o melhor para defendê-la!
-Dialogue: 0,0:12:48.49,0:12:50.35,Default,ritsu,0000,0000,0000,,Entendo. Me desculpe.
-Dialogue: 0,0:12:50.35,0:12:52.90,Default,yui,0000,0000,0000,,Nodoka-chan disse que vai demorar a chegar,
-Dialogue: 0,0:12:52.90,0:12:55.16,Default,yui,0000,0000,0000,,então, que tal fazermos um brinde?
-Dialogue: 0,0:12:55.16,0:12:55.82,Default,ui,0000,0000,0000,,Sim!
-Dialogue: 0,0:12:55.82,0:12:59.09,Default,mio,0000,0000,0000,,A irmã mais velha despreocupada e a irmã mais nova confiável...{Acho que não ficou muito legal}
-Dialogue: 0,0:12:59.09,0:13:01.92,Default,ritsu,0000,0000,0000,,Talvez não seja uma má combinação.
-Dialogue: 0,0:13:02.53,0:13:04.20,Default,all,0000,0000,0000,,Saúde!
-Dialogue: 0,0:13:04.69,0:13:07.15,Default,ritsu,0000,0000,0000,,O ano finalmente está acabando.
-Dialogue: 0,0:13:07.15,0:13:09.65,Default,sawako,0000,0000,0000,,Você soa como um velhote.
-Dialogue: 0,0:13:11.07,0:13:12.56,Default,ritsu,0000,0000,0000,,Sawa-chan?!
-Dialogue: 0,0:13:12.56,0:13:14.13,Default,sawako,0000,0000,0000,,Isso está delicioso!
-Dialogue: 0,0:13:14.13,0:13:15.71,Default,sawako,0000,0000,0000,,Posso pegar mais um pouco?
-Dialogue: 0,0:13:15.71,0:13:17.22,Default,all,0000,0000,0000,,Quando você entrou?!
-Dialogue: 0,0:13:17.57,0:13:19.90,Default,ritsu,0000,0000,0000,,Você subiu por uma corda...
-Dialogue: 0,0:13:21.54,0:13:22.64,Default,ritsu,0000,0000,0000,,entrou por uma janela...
-Dialogue: 0,0:13:23.10,0:13:24.35,Default,ritsu,0000,0000,0000,,e esgueirou-se pela casa?
-Dialogue: 0,0:13:24.74,0:13:27.97,Default,sawako,0000,0000,0000,,Oras, quem vocês pensam que eu sou?
-Dialogue: 0,0:13:28.61,0:13:32.23,Default,sawako,0000,0000,0000,,Além disso, como vocês esquecem\N de convidar a sua conselheira?
-Dialogue: 0,0:13:32.23,0:13:35.48,Default,ritsu,0000,0000,0000,,Bem, nós não nos esquecemos, mas...
-Dialogue: 0,0:13:35.48,0:13:39.40,Default,yui,0000,0000,0000,,Nós pensamos que você estaria ocupada com\No seu namorado, por isso não a convidamos.
-Dialogue: 0,0:13:40.95,0:13:43.95,Default,sawako,0000,0000,0000,,Como você ousa dizer isso em voz alta?!
-Dialogue: 0,0:13:43.95,0:13:45.76,Default,ritsu,0000,0000,0000,,Mas que cabeça de vento...
-Dialogue: 0,0:13:45.76,0:13:46.37,Default,both,0000,0000,0000,,Sim.
-Dialogue: 0,0:13:46.37,0:13:49.25,Default,sawako,0000,0000,0000,,Como punição, você terá de vestir isso.
-Dialogue: 0,0:13:49.61,0:13:52.54,Default,yui,0000,0000,0000,,Por que você sempre carrega essas roupas com você?
-Dialogue: 0,0:13:53.75,0:13:55.25,Default,yui,0000,0000,0000,,Ta-da!
-Dialogue: 0,0:13:55.25,0:13:56.13,Default,sawako,0000,0000,0000,,Sem graça.
-Dialogue: 0,0:13:56.13,0:13:58.81,Default,sawako,0000,0000,0000,,Você nem fica envergonhada.
-Dialogue: 0,0:14:00.36,0:14:01.84,Default,sawako,0000,0000,0000,,Para essas coisas, nós precisamos da...
-Dialogue: 0,0:14:02.80,0:14:04.44,Default,sawako,0000,0000,0000,,Venha aqui!
-Dialogue: 0,0:14:05.52,0:14:06.65,Default,sawako,0000,0000,0000,,Espere!
-Dialogue: 0,0:14:06.65,0:14:07.43,Default,mio,0000,0000,0000,,Não!
-Dialogue: 0,0:14:07.43,0:14:08.81,Default,nodoka,0000,0000,0000,,Olá.
-Dialogue: 0,0:14:08.81,0:14:10.83,Default,sawako,0000,0000,0000,,Fique parada!
-Dialogue: 0,0:14:17.15,0:14:19.60,Default,nodoka,0000,0000,0000,,Me desculpem, eu errei a casa.
-Dialogue: 0,0:14:20.41,0:14:22.61,Default,mio,0000,0000,0000,,Você não errou! Me salve!
-Dialogue: 0,0:14:22.61,0:14:25.41,Default,mio,0000,0000,0000,,Ninguém vai casar comigo agora...
-Dialogue: 0,0:14:25.80,0:14:28.29,Default,ui,0000,0000,0000,,Estudantes do ensino médio são incríveis...{High Schoolers}
-Dialogue: 0,0:14:28.67,0:14:32.28,Default,ritsu,0000,0000,0000,,Vamos seguir em frente e começar\Na troca de presentes!
-Dialogue: 0,0:14:32.28,0:14:33.17,Default,yui,0000,0000,0000,,É!
-Dialogue: 0,0:14:33.17,0:14:35.95,Default,ui,0000,0000,0000,,Estudantes do ensino médio mudam\N de assunto com essa facilidade?
-Dialogue: 0,0:14:36.81,0:14:38.38,Default,nodoka,0000,0000,0000,,Mas e você, sensei?
-Dialogue: 0,0:14:38.89,0:14:41.11,Default,sawako,0000,0000,0000,,Eu trouxe um também.
-Dialogue: 0,0:14:43.87,0:14:49.39,Default,sawako,0000,0000,0000,,Para ser honesta, eu ia dar este\Npresente ao meu namorado...
-Dialogue: 0,0:14:50.08,0:14:51.39,Default,all,0000,0000,0000,,Tão deprimente...
-Dialogue: 0,0:14:51.39,0:14:53.90,Default,sawako,0000,0000,0000,,Vamos começar!
-Dialogue: 0,0:14:54.49,0:14:55.61,Default,ritsu,0000,0000,0000,,Certo...
-Dialogue: 0,0:15:02.07,0:15:04.56,Default,sawako,0000,0000,0000,,Parem quando eu parar de cantar.
-Dialogue: 0,0:15:06.41,0:15:07.18,Default,sawako,0000,0000,0000,,Aqui.
-Dialogue: 0,0:15:08.17,0:15:10.47,Default,sawako,0000,0000,0000,,Soem os sinos! Hey!
-Dialogue: 0,0:15:10.47,0:15:12.91,Default,sawako,0000,0000,0000,,Soem os sinos! Yay!
-Dialogue: 0,0:15:12.91,0:15:14.92,Alternative,sawako,0000,0000,0000,,Soem com tudo!
-Dialogue: 0,0:15:13.92,0:15:14.92,Default,ritsu,0000,0000,0000,,Ela está tão depressiva...
-Dialogue: 0,0:15:15.35,0:15:19.42,Default,yui,0000,0000,0000,,Troca de presentes não deveria ser divertido?
-Dialogue: 0,0:15:14.92,0:15:17.32,Alternative,sawako,0000,0000,0000,,{\an8}Como é divertido andar num trenó aberto
-Dialogue: 0,0:15:17.32,0:15:19.94,Alternative,sawako,0000,0000,0000,,{\an8}puxado por um cavalo, yay!
-Dialogue: 0,0:15:19.42,0:15:21.42,Default,mio,0000,0000,0000,,Ninguém vai casar comigo agora...
-Dialogue: 0,0:15:20.02,0:15:21.42,Alternative,sawako,0000,0000,0000,,Soem os sinos! Yeah!
-Dialogue: 0,0:15:21.91,0:15:23.90,Default,sawako,0000,0000,0000,,Soem os sinos! Woo!
-Dialogue: 0,0:15:23.90,0:15:26.30,Default,sawako,0000,0000,0000,,Soem com tudo!
-Dialogue: 0,0:15:26.30,0:15:28.30,Alternative,sawako,0000,0000,0000,,{\an8}Como é divertido andar num trenó aberto
-Dialogue: 0,0:15:28.30,0:15:32.02,Alternative,sawako,0000,0000,0000,,{\an8}puxado por um cavalo! Oh yay!
-Dialogue: 0,0:15:26.30,0:15:28.30,Default,ui,0000,0000,0000,,Estou começando a ficar tonta.
-Dialogue: 0,0:15:28.30,0:15:32.31,Default,mugi,0000,0000,0000,,Eu acho que esse é o Natal mais\Ndivertido que eu já tive.
-Dialogue: 0,0:15:32.31,0:15:33.56,Default,sawako,0000,0000,0000,,Parem!
-Dialogue: 0,0:15:33.56,0:15:36.28,Default,ritsu,0000,0000,0000,,Oh, esse é o que eu comprei.
-Dialogue: 0,0:15:36.28,0:15:38.02,Default,sawako,0000,0000,0000,,Então vamos trocar.
-Dialogue: 0,0:15:38.02,0:15:39.86,Default,mio,0000,0000,0000,,Mas, Sawako-sensei...
-Dialogue: 0,0:15:41.49,0:15:45.43,Default,sawako,0000,0000,0000,,Eu tenho a sensação de que é\Nalgo realmente maravilhoso!
-Dialogue: 0,0:15:45.43,0:15:47.37,Default,sawako,0000,0000,0000,,O que deve ser?
-Dialogue: 0,0:15:56.58,0:15:59.67,Default,sawako,0000,0000,0000,,Esse é o melhor Natal de todos!
-Dialogue: 0,0:16:00.84,0:16:02.42,Default,yui,0000,0000,0000,,Ela surtou!
-Dialogue: 0,0:16:02.42,0:16:04.30,Alternative,ui,0000,0000,0000,,{\an8}Por favor se acalme!
-Dialogue: 0,0:16:03.25,0:16:07.60,Default,sawako,0000,0000,0000,,Feliz Natal! Feliz Natal!
-Dialogue: 0,0:16:04.30,0:16:06.60,Alternative,ritsu,0000,0000,0000,,{\an8}Me desculpe, eu nunca mais farei isso...
-Dialogue: 0,0:16:06.60,0:16:09.21,Alternative,yui,0000,0000,0000,,{\an8}Algo legal definitivamente vai acontecer.
-Dialogue: 0,0:16:13.01,0:16:16.08,Default,mio,0000,0000,0000,,Oh, esse é o que eu comprei.
-Dialogue: 0,0:16:19.24,0:16:21.28,Default,nodoka,0000,0000,0000,,Oh, esse é o meu.
-Dialogue: 0,0:16:21.28,0:16:24.38,Default,yui,0000,0000,0000,,Nodoka-chan, ainda não é o fim do ano...
-Dialogue: 0,0:16:26.29,0:16:28.69,Default,yui,0000,0000,0000,,Uau, parecem deliciosos!
-Dialogue: 0,0:16:31.34,0:16:33.62,Default,sawako,0000,0000,0000,,Sim, esse é o meu.
-Dialogue: 0,0:16:33.62,0:16:37.08,Default,yui,0000,0000,0000,,Você ia dar isso ao seu namorado?
-Dialogue: 0,0:16:40.04,0:16:41.42,Default,sawako,0000,0000,0000,,Sim!
-Dialogue: 0,0:16:41.42,0:16:43.79,Default,sawako,0000,0000,0000,,Você tem algum problema com isso?!
-Dialogue: 0,0:16:45.63,0:16:46.96,Default,mio,0000,0000,0000,,Cabeças de vento são assustadoras...{[Frostii]: Mas que cabeça de vento.}
-Dialogue: 0,0:16:47.71,0:16:52.56,Default,mugi,0000,0000,0000,,Agora só faltam os presentes da Yui-chan\Ne da Ui-chan serem abertos.
-Dialogue: 0,0:16:54.69,0:16:56.60,Default,sawako,0000,0000,0000,,Vamos logo, abram isso...
-Dialogue: 0,0:16:56.60,0:16:57.64,Default,both,0000,0000,0000,,S–Sim.
-Dialogue: 0,0:17:08.44,0:17:11.70,Default,yui,0000,0000,0000,,Você disse que perdeu o cachecol, então...
-Dialogue: 0,0:17:08.44,0:17:11.70,Default,ui,0000,0000,0000,,Você disse que perdeu as luvas, então...
-Dialogue: 0,0:17:14.16,0:17:18.48,Default,mio,0000,0000,0000,,O que vocês iam fazer se não tivessem\Nficado com o presente da outra?
-Dialogue: 0,0:17:18.48,0:17:19.93,Default,mugi,0000,0000,0000,,Isso é ótimo.
-Dialogue: 0,0:17:20.48,0:17:22.17,Default,yui,0000,0000,0000,,Obrigada, Ui.
-Dialogue: 0,0:17:24.08,0:17:26.14,Default,ui,0000,0000,0000,,Obrigada, Onee-chan.
-Dialogue: 0,0:17:26.84,0:17:30.18,Default,ui,0000,0000,0000,,Com isso, eu posso ficar aquecida no inverno.
-Dialogue: 0,0:17:30.51,0:17:31.62,Default,ritsu,0000,0000,0000,,Muito bem!
-Dialogue: 0,0:17:31.62,0:17:34.62,Default,ritsu,0000,0000,0000,,É hora das performances!
-Dialogue: 0,0:17:34.62,0:17:37.50,Default,mio,0000,0000,0000,,Mas as coisas estavam começando a voltar ao normal...
-Dialogue: 0,0:17:38.33,0:17:40.21,Default,ritsu,0000,0000,0000,,Mio, que tal você ir primeiro?
-Dialogue: 0,0:17:40.21,0:17:41.09,Default,mio,0000,0000,0000,,Não!
-Dialogue: 0,0:17:41.09,0:17:42.83,Default,nodoka,0000,0000,0000,,Ela parece um velhote rabugento...{old geezer}
-Dialogue: 0,0:17:42.83,0:17:43.59,Default,ritsu,0000,0000,0000,,Então... Yui!
-Dialogue: 0,0:17:44.20,0:17:45.68,Default,yui,0000,0000,0000,,Eu?
-Dialogue: 0,0:17:47.52,0:17:49.36,Default,ui,0000,0000,0000,,Eu vou!
-Dialogue: 0,0:17:49.36,0:17:50.26,Default,yui,0000,0000,0000,,O que? Ui?
-Dialogue: 0,0:17:51.64,0:17:52.87,Default,ui,0000,0000,0000,,Olá!
-Dialogue: 0,0:17:53.20,0:17:54.85,Default,ui,0000,0000,0000,,Feliz Natal!
-Dialogue: 0,0:17:54.85,0:17:57.10,Default,ui,0000,0000,0000,,Vocês estão se divertindo?
-Dialogue: 0,0:18:00.23,0:18:02.80,Default,ui,0000,0000,0000,,Me desculpem, mas isso é tudo o que eu posso fazer...
-Dialogue: 0,0:18:02.80,0:18:04.43,Default,mugi,0000,0000,0000,,Você ensaiou?
-Dialogue: 0,0:18:04.43,0:18:08.11,Default,ui,0000,0000,0000,,Sim, já que a Onee-chan me disse que\Nteríamos de fazer uma performance.
-Dialogue: 0,0:18:08.11,0:18:10.22,Default,yui,0000,0000,0000,,Você levou isso a sério?
-Dialogue: 0,0:18:10.77,0:18:12.15,Default,ui,0000,0000,0000,,Você não estava falando sério?
-Dialogue: 0,0:18:12.15,0:18:14.04,Default,yui,0000,0000,0000,,Me desculpe, Ui.
-Dialogue: 0,0:18:14.04,0:18:16.60,Default,ui,0000,0000,0000,,Não se preocupe quanto a isso.
-Dialogue: 0,0:18:16.60,0:18:18.10,Default,yui,0000,0000,0000,,Então, eu vou também!
-Dialogue: 0,0:18:18.65,0:18:20.20,Default,yui,0000,0000,0000,,{\i1}Air guitar{\i0}!
-Dialogue: 0,0:18:21.19,0:18:23.33,Default,ritsu,0000,0000,0000,,Então eu também! Bateria no ar!
-Dialogue: 0,0:18:31.61,0:18:33.26,Default,yui,0000,0000,0000,,Mio-chan está se esforçando.
-Dialogue: 0,0:18:34.25,0:18:35.95,Default,mugi,0000,0000,0000,,Eu vou imitar alguma coisa.
-Dialogue: 0,0:18:38.27,0:18:39.14,Default,ritsu,0000,0000,0000,,O que é isso?
-Dialogue: 0,0:18:39.73,0:18:41.77,Default,mugi,0000,0000,0000,,É um peixe-lua!{http://pt.wikipedia.org/wiki/Mola_mola}
-Dialogue: 0,0:18:43.03,0:18:46.34,Default,sawako,0000,0000,0000,,Muito bem, eu sou a próxima!
-Dialogue: 0,0:18:50.46,0:18:51.63,Default,sawako,0000,0000,0000,,Uma folha de carvalho.
-Dialogue: 0,0:18:51.63,0:18:55.14,Default,all,0000,0000,0000,,O que aconteceu com a nossa\Nbela e gentil Sawako-sensei?
-Dialogue: 0,0:18:58.22,0:19:00.43,Default,all,0000,0000,0000,,Boa noite!
-Dialogue: 0,0:19:00.93,0:19:03.27,Default,yui,0000,0000,0000,,Está tão frio, Ui.
-Dialogue: 0,0:19:06.30,0:19:07.41,Default,ui,0000,0000,0000,,Está nevando!
-Dialogue: 0,0:19:09.27,0:19:10.71,Default,yui,0000,0000,0000,,Oh, é mesmo!
-Dialogue: 0,0:19:11.27,0:19:13.64,Default,yui,0000,0000,0000,,É um Natal branco.
-Dialogue: 0,0:19:14.67,0:19:19.44,Default,ui,0000,0000,0000,,Onee-chan, você me deu um Natal\Nbranco de presente uma vez.
-Dialogue: 0,0:19:19.44,0:19:20.20,Default,yui,0000,0000,0000,,O que?
-Dialogue: 0,0:19:31.67,0:19:35.16,Default,ui,0000,0000,0000,,Foi tão divertido hoje.
-Dialogue: 0,0:19:35.16,0:19:37.55,Default,yui,0000,0000,0000,,Ui, estou entrando.
-Dialogue: 0,0:19:37.55,0:19:39.04,Default,ui,0000,0000,0000,,Onee-chan?
-Dialogue: 0,0:19:40.46,0:19:42.18,Default,yui,0000,0000,0000,,Posso dormir com você?
-Dialogue: 0,0:19:42.96,0:19:44.19,Default,ui,0000,0000,0000,,Claro!
-Dialogue: 0,0:19:51.88,0:19:53.95,Default,yui,0000,0000,0000,,Eu vou dormir usando estas luvas.
-Dialogue: 0,0:19:53.95,0:19:55.82,Default,yui,0000,0000,0000,,Já que elas aquecem.
-Dialogue: 0,0:19:56.24,0:20:00.58,Default,ui,0000,0000,0000,,Eu vou usar meu cachecol,\Njá que ele também aquece.
-Dialogue: 0,0:20:07.79,0:20:10.07,Default,ui,0000,0000,0000,,Onee-chan, estou com frio.
-Dialogue: 0,0:20:12.02,0:20:15.17,Alternative,tv,0000,0000,0000,,{\an8}Vamos terminar logo com isso. Não adianta...{Frostii: You really can ignore all the TV lines.}
-Dialogue: 0,0:20:12.44,0:20:14.36,Default,ui,0000,0000,0000,,Onee-chan, você vai ficar toda suja.
-Dialogue: 0,0:20:16.04,0:20:18.11,Default,ui,0000,0000,0000,,Onee-chan, aqui está o macarrão de fim de ano.{toshikoshi noodles = http://eow.alc.co.jp/%E5%B9%B4%E8%B6%8A%E3%81%97%E3%81%9D%E3%81%B0/UTF-8/?ref=ex&exp=MB003632&dn=1936937&dk=JE&pg=1 }
-Dialogue: 0,0:20:18.11,0:20:19.57,Default,yui,0000,0000,0000,,Sim.
-Dialogue: 0,0:20:15.17,0:20:17.52,Alternative,tv,0000,0000,0000,,{\an8}A contagem regressiva vai começar em instantes.
-Dialogue: 0,0:20:17.52,0:20:20.01,Alternative,tv,0000,0000,0000,,{\an8}A questão é... como você pode ver...
-Dialogue: 0,0:20:20.01,0:20:21.90,Alternative,tv,0000,0000,0000,,{\an8}Feliz Ano Novo!
-Dialogue: 0,0:20:21.90,0:20:25.38,Alternative,tv,0000,0000,0000,,{\an8}Nós estamos apresentando ao vivo do intercâmbio\NYamanakako, observando o Mt. Fuji...
-Dialogue: 0,0:20:20.98,0:20:22.81,Default,ui,0000,0000,0000,,Dois bolinhos de arroz são o suficiente?
-Dialogue: 0,0:20:22.81,0:20:23.88,Default,yui,0000,0000,0000,,Sim...
-Dialogue: 0,0:20:25.38,0:20:26.61,Alternative,tv,0000,0000,0000,,{\an8}Mas por que?
-Dialogue: 0,0:20:26.61,0:20:28.58,Alternative,tv,0000,0000,0000,,{\an8}Eu realmente preciso passar por isso...
-Dialogue: 0,0:20:26.44,0:20:28.58,Default,ui,0000,0000,0000,,Onee-chan, diga "Ah!"
-Dialogue: 0,0:20:29.93,0:20:32.11,Default,yui,0000,0000,0000,,Assim foi o meu Ano Novo.
-Dialogue: 0,0:20:32.11,0:20:33.72,Default,ritsu,0000,0000,0000,,Me dê a Ui-chan {CoalGuys: Mê deixe casar com a Ui-chan}
-Dialogue: 0,0:20:33.72,0:20:35.95,Default,mugi,0000,0000,0000,,Vocês duas possuem um relacionamento muito bom.
-Dialogue: 0,0:20:35.95,0:20:38.95,Default,ritsu,0000,0000,0000,,Você não ganhou peso ficando sentada\Ne comendo o tempo todo?
-Dialogue: 0,0:20:38.95,0:20:42.20,Default,yui,0000,0000,0000,,Não importa o quanto eu coma, eu nunca ganho peso.
-Dialogue: 0,0:20:42.20,0:20:43.01,Default,mio,0000,0000,0000,,Isso não pode...
-Dialogue: 0,0:20:43.01,0:20:44.17,Default,mugi,0000,0000,0000,,ser verdade!
-Dialogue: 0,0:20:44.81,0:20:46.16,Default,yui,0000,0000,0000,,Você também, Mugi-chan?
-Dialogue: 0,0:20:46.16,0:20:48.81,Default,mio,0000,0000,0000,,Então, Mugi, quanto você ganhou?
-Dialogue: 0,0:20:48.81,0:20:49.64,Default,mugi,0000,0000,0000,,...quilos.
-Dialogue: 0,0:20:49.64,0:20:51.15,Default,mio,0000,0000,0000,,Eu ganhei... quilos.
-Dialogue: 0,0:20:54.22,0:20:56.18,Default,ritsu,0000,0000,0000,,Yui, você deveria pedir desculpas.
-Dialogue: 0,0:20:56.18,0:20:57.05,Default,yui,0000,0000,0000,,Me desculpem.
-Dialogue: 0,0:20:57.05,0:20:59.72,Default,yui,0000,0000,0000,,Mio-chan, você ficou muito bem com este quimono.
-Dialogue: 0,0:20:59.72,0:21:02.11,Default,mio,0000,0000,0000,,Ritsu perguntou se eu viria com\Nmeu quimono hoje, então...
-Dialogue: 0,0:21:02.11,0:21:02.94,Default,ritsu,0000,0000,0000,,Eu só estava perguntando.
-Dialogue: 0,0:21:02.94,0:21:04.56,Default,mio,0000,0000,0000,,O–O que?
-Dialogue: 0,0:21:04.56,0:21:07.92,Default,yui,0000,0000,0000,,Mio-chan, você vai continuar a mesma este ano.
-Dialogue: 0,0:21:07.92,0:21:09.65,Default,mio,0000,0000,0000,,Eu vou para casa me trocar.
-Dialogue: 0,0:21:09.65,0:21:11.25,Default,yui,0000,0000,0000,,Mas por que?
-Dialogue: 0,0:21:11.25,0:21:12.52,Default,yui,0000,0000,0000,,Você está linda!
-Dialogue: 0,0:21:12.52,0:21:14.76,Default,mio,0000,0000,0000,,S–Sério?
-Dialogue: 0,0:21:14.76,0:21:16.51,Default,yui,0000,0000,0000,,Sim!
-Dialogue: 0,0:21:19.13,0:21:22.11,Default,mugi,0000,0000,0000,,Que linda cena para começar o ano.
-Dialogue: 0,0:21:22.11,0:21:24.17,Default,ritsu,0000,0000,0000,,Mugi, você continua a mesma de sempre.
-Dialogue: 0,0:21:25.65,0:21:27.35,Default,mugi,0000,0000,0000,,Sawako-sensei?
-Dialogue: 0,0:21:29.33,0:21:32.59,Default,ritsu,0000,0000,0000,,Sawako-sensei continua a mesma de sempre...
-Dialogue: 0,0:21:40.98,0:21:43.04,Default,ritsu,0000,0000,0000,,O que vocês desejaram?
-Dialogue: 0,0:21:43.04,0:21:45.11,Default,mugi,0000,0000,0000,,Eu desejei segurança para a minha família.
-Dialogue: 0,0:21:45.11,0:21:47.06,Default,mio,0000,0000,0000,,Perder peso.
-Dialogue: 0,0:21:47.06,0:21:49.69,Default,yui,0000,0000,0000,,Comer comidas deliciosas.
-Dialogue: 0,0:21:50.73,0:21:53.65,Default,ritsu,0000,0000,0000,,{\fad(0,520)\}Vamos rezar pelo nosso clube de música leve.
-Dialogue: 0,0:21:54.93,0:21:57.35,Default,mio,0000,0000,0000,,Eu desejo que nós fiquemos melhores.
-Dialogue: 0,0:21:57.35,0:21:59.91,Default,mugi,0000,0000,0000,,Eu desejo que nós possamos nos divertir bastante.
-Dialogue: 0,0:21:59.91,0:22:03.53,Default,yui,0000,0000,0000,,Eu desejo poder comer mais dos deliciosos\Nbolos que a Mugi-chan tra–
-Dialogue: 0,0:22:04.33,0:22:06.74,Default,yui,0000,0000,0000,,Eu desejo melhorar na guitarra.
-Dialogue: 0,0:22:06.74,0:22:08.03,Default,ritsu,0000,0000,0000,,Muito bem!
-Dialogue: 0,0:22:11.62,0:22:13.48,Default,ritsu,0000,0000,0000,,Que tal pararmos em algum lugar para comer?
-Dialogue: 0,0:22:13.48,0:22:16.15,Default,mugi,0000,0000,0000,,Por favor não mencione nada sobre comida.
-Dialogue: 0,0:22:16.15,0:22:18.74,Default,ritsu,0000,0000,0000,,Yui, você realmente não ganhou peso?
-Dialogue: 0,0:23:50.96,0:23:53.31,Default,preview,0000,0000,0000,,Este é o clube de música leve.
-Dialogue: 0,0:23:53.97,0:23:56.91,Default,preview,0000,0000,0000,,Venha nos visitar caso sinta nossa falta.
-Dialogue: 0,0:23:56.91,0:23:58.56,Default,preview,0000,0000,0000,,Não me trate como uma criança do primário!
-Dialogue: 0,0:23:58.56,0:24:00.82,Default,preview,0000,0000,0000,,Sejam bem vindas!
-Dialogue: 0,0:24:00.82,0:24:03.68,Default,preview,0000,0000,0000,,Venham e deem uma olhada!
-Dialogue: 0,0:24:03.68,0:24:05.70,Default,preview,0000,0000,0000,,B–Bem, é...
-Dialogue: 0,0:24:05.70,0:24:08.07,Default,preview,0000,0000,0000,,Mas o que...
-Dialogue: 0,0:24:09.16,0:24:10.24,Default,preview,0000,0000,0000,,Vocês...
-Dialogue: 0,0:24:12.41,0:24:16.01,Default,preview,0000,0000,0000,,Nós tocaremos quatro músicas no concerto de amanhã, então por favor venham.
-Dialogue: 0,0:24:17.07,0:24:18.17,Default,preview,0000,0000,0000,,Eu estou sozinha...
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Avisos
-Dialogue: 0,0:04:57.68,0:05:02.67,Title,,0000,0000,0000,,{\fs50\pos(640,445)}Natal!
-Dialogue: 0,0:23:49.81,0:23:53.40,Preview Title,,0000,0000,0000,,{\fad(0,400)\pos(640,300)}Próximo Episódio
-Dialogue: 0,0:24:16.37,0:24:19.66,Preview Title,,0000,0000,0000,,{\fad(500,0)\pos(640,300)}Novos membros!
-Dialogue: 0,0:06:08.55,0:06:13.92,Note,,0000,0000,0000,,Nota: isso foi uma brincadeira com a palavra {\i1}pan{\i0} (pão) e {\i1}two{\i0} (dois), que juntas parecem {\i1}pantsu{\i0} (calcinhas).
-Dialogue: 0,0:10:31.27,0:10:33.93,Note,,0000,0000,0000,,Livro: Uma introdução a performances curtas
-Dialogue: 0,0:11:26.96,0:11:34.36,Note,,0000,0000,0000,,{\i1}O Daruma-san caiu:{\i0} é um jogo infantil. Quando a criança grita "O Daruma-san caiu!" todos as outras correm. Ao gritar de novo quem for pego se mexendo é preso.
-Dialogue: 0,0:15:08.17,0:15:14.92,Note,,0000,0000,0000,,{\i1}Jingle Bells: {\i0}a versão brasileira dessa música, escrita por Evaldo Rui, é completamente diferente da original. Essa é uma tradução mais fiel.
-Dialogue: 0,0:16:19.24,0:16:24.38,Note,,0000,0000,0000,,{\i1}Osechi Ryori: {\i0}é uma refeição especial para os três primeiros dias do ano. Servidas em caixas, algumas vezes contém peixe grelhado, o presente da Nodoka-chan.
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Abertura
+Dialogue: 0,0:03:55.36,0:03:57.02,Default,ui,0000,0000,0000,,Tem feito muito frio ultimamente.
+Dialogue: 0,0:03:59.80,0:04:00.68,Default,yui,0000,0000,0000,,Oh?
+Dialogue: 0,0:04:01.37,0:04:02.94,Default,yui,0000,0000,0000,,Você não está usando um cachecol?
+Dialogue: 0,0:04:03.33,0:04:08.06,Default,ui,0000,0000,0000,,Não, eu acho que ele foi carregado pelo vento\N quando eu estava pondo para secar.
+Dialogue: 0,0:04:27.32,0:04:28.25,Default,ui,0000,0000,0000,,Onee-chan!
+Dialogue: 0,0:04:30.06,0:04:32.08,Default,yui,0000,0000,0000,,Tão quente, tão quente.
+Dialogue: 0,0:04:32.08,0:04:34.35,Default,ui,0000,0000,0000,,Onde está a sua outra luva?
+Dialogue: 0,0:04:34.35,0:04:36.18,Default,yui,0000,0000,0000,,Eu acho que perdi.
+Dialogue: 0,0:04:40.84,0:04:42.95,Default,yui,0000,0000,0000,,Tão quente, tão quente!
+Dialogue: 0,0:04:53.14,0:04:55.03,Default,ritsu,0000,0000,0000,,Pessoal!
+Dialogue: 0,0:04:55.42,0:04:58.03,Default,ritsu,0000,0000,0000,,Eu fiz um poster para a nossa festa de Natal!
+Dialogue: 0,0:04:58.03,0:05:01.73,Default,mio,0000,0000,0000,,Oh? Nós estávamos planejando uma festa de Natal?
+Dialogue: 0,0:05:01.73,0:05:03.33,Default,ritsu,0000,0000,0000,,Eu ainda não contei para ninguém.
+Dialogue: 0,0:05:03.33,0:05:04.22,Default,mio,0000,0000,0000,,Então conte.
+Dialogue: 0,0:05:05.98,0:05:08.65,Default,ritsu,0000,0000,0000,,Data: 24 de dezembro.
+Dialogue: 0,0:05:08.65,0:05:10.44,Default,ritsu,0000,0000,0000,,Local: Casa da Mugi.
+Dialogue: 0,0:05:10.44,0:05:12.21,Default,ritsu,0000,0000,0000,,Entrada: 1000 ienes.
+Dialogue: 0,0:05:13.45,0:05:16.44,Default,mugi,0000,0000,0000,,Hmm, minha casa não vai estar disponível neste dia.
+Dialogue: 0,0:05:16.44,0:05:18.47,Default,ritsu,0000,0000,0000,,Eu temia isso.
+Dialogue: 0,0:05:18.47,0:05:21.76,Default,mugi,0000,0000,0000,,Minha casa está ocupada o tempo todo,
+Dialogue: 0,0:05:21.76,0:05:24.99,Default,mugi,0000,0000,0000,,então você precisa reservar com pelo\Nmenos um mês de antecedência.
+Dialogue: 0,0:05:24.99,0:05:26.48,Default,mugi,0000,0000,0000,,Me desculpem!
+Dialogue: 0,0:05:26.48,0:05:28.50,Default,mio,0000,0000,0000,,E–Entendo...
+Dialogue: 0,0:05:28.50,0:05:29.69,Default,both,0000,0000,0000,,Que tipo de família ela tem?
+Dialogue: 0,0:05:29.69,0:05:31.43,Default,mugi,0000,0000,0000,,Ricchan, que tal a sua casa?
+Dialogue: 0,0:05:31.43,0:05:33.65,Default,mio,0000,0000,0000,,Nem adianta.
+Dialogue: 0,0:05:33.65,0:05:36.60,Default,mio,0000,0000,0000,,A casa da Ritsu é tão bagunçada que\Nnão sobra lugar para pisar.
+Dialogue: 0,0:05:36.60,0:05:38.99,Default,ritsu,0000,0000,0000,,O que?!
+Dialogue: 0,0:05:42.11,0:05:45.87,Default,ritsu,0000,0000,0000,,A Mio deixa roupas espalhadas\Npelo chão do quarto dela.
+Dialogue: 0,0:05:46.32,0:05:47.25,Default,ritsu,0000,0000,0000,,Como calcinhas.
+Dialogue: 0,0:05:49.42,0:05:52.27,Default,mio,0000,0000,0000,,N–Não fique inventando essas coisas!
+Dialogue: 0,0:05:52.81,0:05:54.69,Default,ritsu,0000,0000,0000,,Eu tenho fotos para provar.
+Dialogue: 0,0:05:54.69,0:05:56.13,Default,mio,0000,0000,0000,,Isso é mentira!
+Dialogue: 0,0:05:56.49,0:05:58.30,Default,ritsu,0000,0000,0000,,Eu não estou mentindo.
+Dialogue: 0,0:05:58.65,0:06:01.18,Default,mio,0000,0000,0000,,D–Dois pedaços de pão...
+Dialogue: 0,0:06:02.90,0:06:04.02,Default,ritsu,0000,0000,0000,,E também...
+Dialogue: 0,0:06:05.84,0:06:08.27,Default,mio,0000,0000,0000,,Pare! Por favor!
+Dialogue: 0,0:06:09.17,0:06:11.27,Default,mugi,0000,0000,0000,,Y-Yui-chan, e a sua casa?
+Dialogue: 0,0:06:11.94,0:06:13.03,Default,yui,0000,0000,0000,,Eu não me importo.
+Dialogue: 0,0:06:14.48,0:06:16.03,Default,ritsu,0000,0000,0000,,É isso aí!
+Dialogue: 0,0:06:16.03,0:06:19.66,Default,mio,0000,0000,0000,,Mas não tem problema que tanta\Ngente vá a sua casa no Natal?
+Dialogue: 0,0:06:19.66,0:06:23.32,Default,yui,0000,0000,0000,,Não tem problemas, minha mãe e meu pai\N não estarão em casa neste dia.
+Dialogue: 0,0:06:23.32,0:06:25.92,Default,ritsu,0000,0000,0000,,Eles também não estavam na última\Nvez que fomos a sua casa.
+Dialogue: 0,0:06:25.92,0:06:28.20,Default,yui,0000,0000,0000,,Eles viajam muito.{ou... Eles viajam juntos nas férias}
+Dialogue: 0,0:06:28.20,0:06:30.17,Default,yui,0000,0000,0000,,Eles vão à Alemanha no Natal.
+Dialogue: 0,0:06:34.21,0:06:35.80,Default,both,0000,0000,0000,,Um casal pombinhos!{lovey-dovey couple}
+Dialogue: 0,0:06:35.80,0:06:38.13,Default,mugi,0000,0000,0000,,Nós devemos levar alguma coisa?
+Dialogue: 0,0:06:38.83,0:06:40.39,Default,yui,0000,0000,0000,,Não se preocupem quanto a comida!
+Dialogue: 0,0:06:40.77,0:06:42.65,Default,ritsu,0000,0000,0000,,Você tem certeza?
+Dialogue: 0,0:06:42.65,0:06:44.39,Default,yui,0000,0000,0000,,Sim, tenho!
+Dialogue: 0,0:06:44.39,0:06:46.39,Default,yui,0000,0000,0000,,Já que a Ui vai cozinhar.
+Dialogue: 0,0:06:46.39,0:06:48.98,Default,mio,0000,0000,0000,,Fico feliz que você tenha uma boa irmã.
+Dialogue: 0,0:06:48.98,0:06:50.23,Default,ritsu,0000,0000,0000,,Oh, certo!
+Dialogue: 0,0:06:50.66,0:06:52.10,Default,ritsu,0000,0000,0000,,Vamos fazer...
+Dialogue: 0,0:06:52.10,0:06:53.40,Default,ritsu,0000,0000,0000,,uma troca de presentes!
+Dialogue: 0,0:06:53.40,0:06:54.69,Default,yui,0000,0000,0000,,Sim! Sim!
+Dialogue: 0,0:06:54.69,0:06:56.27,Default,mugi,0000,0000,0000,,Sim! Sim!
+Dialogue: 0,0:06:56.27,0:06:59.06,Default,ritsu,0000,0000,0000,,Mio, não traga nada esquisito!
+Dialogue: 0,0:06:59.06,0:07:00.57,Default,mio,0000,0000,0000,,Veja quem está falando!
+Dialogue: 0,0:07:00.57,0:07:02.58,Default,mio,0000,0000,0000,,Como no primário...
+Dialogue: 0,0:07:05.58,0:07:07.58,Default,yui,0000,0000,0000,,Ela continua a mesma. {[Frostii]: Que clichê...}
+Dialogue: 0,0:07:07.58,0:07:09.32,Default,ritsu,0000,0000,0000,,Eu não quero ouvir isso de você!
+Dialogue: 0,0:07:09.32,0:07:10.41,Default,yui,0000,0000,0000,,Senhorita Clichê.
+Dialogue: 0,0:07:10.41,0:07:12.21,Default,mugi,0000,0000,0000,,Eu não posso esperar!
+Dialogue: 0,0:07:12.21,0:07:13.80,Default,mugi,0000,0000,0000,,Pela nossa festa de Natal!
+Dialogue: 0,0:07:18.20,0:07:21.51,Default,ritsu,0000,0000,0000,,Nodoka-san, você quer participar da nossa festa\Nde Natal também?
+Dialogue: 0,0:07:21.51,0:07:25.13,Default,nodoka,0000,0000,0000,,Eu posso, mesmo não sendo do clube?
+Dialogue: 0,0:07:25.13,0:07:26.65,Default,ritsu,0000,0000,0000,,Mas é claro!
+Dialogue: 0,0:07:26.65,0:07:29.02,Default,ritsu,0000,0000,0000,,Nós somos amigas.
+Dialogue: 0,0:07:29.88,0:07:33.28,Default,ritsu,0000,0000,0000,,Quanto mais pessoas virem, mais dinheiro conseguimos. {[Frostii]: E eu vou ter mais dinheiro para gastar se mais pessoas virem.}
+Dialogue: 0,0:07:33.28,0:07:35.57,Default,mio,0000,0000,0000,,E o que você pretende fazer com isso?
+Dialogue: 0,0:07:35.57,0:07:37.48,Default,yui,0000,0000,0000,,Nodoka-chan, você pode vir?
+Dialogue: 0,0:07:37.48,0:07:38.51,Default,nodoka,0000,0000,0000,,Sim.
+Dialogue: 0,0:07:38.51,0:07:39.74,Default,yui,0000,0000,0000,,Eba! {Yay!}
+Dialogue: 0,0:07:40.36,0:07:43.49,Default,yui,0000,0000,0000,,Então, por favor prepare a comida para a gente.
+Dialogue: 0,0:07:43.49,0:07:45.37,Default,yui,0000,0000,0000,,Eu te ajudarei, é claro.
+Dialogue: 0,0:07:46.23,0:07:47.67,Default,ui,0000,0000,0000,,Deixe comigo!
+Dialogue: 0,0:07:47.67,0:07:48.58,Default,ui,0000,0000,0000,,Mas...
+Dialogue: 0,0:07:48.58,0:07:51.59,Default,ui,0000,0000,0000,,vai ser horrível se ela se machucar!
+Dialogue: 0,0:07:53.47,0:07:55.96,Default,ui,0000,0000,0000,,Onee-chan, tome conta da decoração.
+Dialogue: 0,0:07:56.41,0:07:57.78,Default,yui,0000,0000,0000,,Entendido! {[Frostii]: Sim, Capitã!}
+Dialogue: 0,0:07:58.53,0:08:01.16,Default,ui,0000,0000,0000,,Aliás, o que se faz em uma festa de Natal?
+Dialogue: 0,0:08:02.16,0:08:05.81,Default,yui,0000,0000,0000,,Você come bolo, troca presentes...
+Dialogue: 0,0:08:08.30,0:08:10.64,Default,yui,0000,0000,0000,,E cada pessoa faz uma curta performance!
+Dialogue: 0,0:08:16.21,0:08:18.65,Default,ui,0000,0000,0000,,O que eu devo fazer quanto a isso?
+Dialogue: 0,0:08:20.07,0:08:22.98,Default,yui,0000,0000,0000,,Huh? Você está realmente levando isso a sério.
+Dialogue: 0,0:08:22.98,0:08:25.07,Default,ui,0000,0000,0000,,Mas eu vou pensar em algo até lá.
+Dialogue: 0,0:08:25.07,0:08:26.73,Default,yui,0000,0000,0000,,T–Tudo bem...
+Dialogue: 0,0:08:26.73,0:08:29.04,Default,ui,0000,0000,0000,,E eu preciso comprar um presente.
+Dialogue: 0,0:08:29.41,0:08:32.08,Default,yui,0000,0000,0000,,A sim, eu também preciso comprar um.
+Dialogue: 0,0:08:34.54,0:08:36.64,Default,yui,0000,0000,0000,,O que eu devo comprar...
+Dialogue: 0,0:08:38.55,0:08:40.54,Default,yui,0000,0000,0000,,Isso é tão fofo!
+Dialogue: 0,0:08:40.54,0:08:42.84,Default,yui,0000,0000,0000,,Nodoka-chan, eu vou levar esse!
+Dialogue: 0,0:08:42.84,0:08:46.20,Default,nodoka,0000,0000,0000,,Normalmente você passa de novo quando\N recebe o seu próprio presente.
+Dialogue: 0,0:08:52.63,0:08:54.02,Default,yui,0000,0000,0000,,Então isso deve ser o suficiente.
+Dialogue: 0,0:08:54.02,0:08:55.36,Default,nodoka,0000,0000,0000,,Ei...
+Dialogue: 0,0:08:59.07,0:09:01.61,Default,mio,0000,0000,0000,,Ritsu, você já se decidiu?
+Dialogue: 0,0:09:02.02,0:09:04.36,Default,ritsu,0000,0000,0000,,Que tal esse?!
+Dialogue: 0,0:09:06.37,0:09:08.32,Default,mio,0000,0000,0000,,D–De jeito nenhum!
+Dialogue: 0,0:09:08.32,0:09:09.87,Default,ritsu,0000,0000,0000,,E que tal esse daqui?
+Dialogue: 0,0:09:13.62,0:09:14.71,Default,ritsu,0000,0000,0000,,Ou esse–
+Dialogue: 0,0:09:15.49,0:09:17.88,Default,mio,0000,0000,0000,,Porque você sempre escolhe esse tipo de coisa?
+Dialogue: 0,0:09:18.38,0:09:20.88,Default,yui,0000,0000,0000,,Eu finalmente decidi.
+Dialogue: 0,0:09:20.88,0:09:26.39,Default,ritsu,0000,0000,0000,,Oh, vocês estavam comprando os presentes também?
+Dialogue: 0,0:09:26.39,0:09:27.97,Default,yui,0000,0000,0000,,O que você comprou?
+Dialogue: 0,0:09:27.97,0:09:31.19,Default,mio,0000,0000,0000,,Contar agora acabaria com a diversão.
+Dialogue: 0,0:09:31.19,0:09:32.57,Default,yui,0000,0000,0000,,Oh, certo.
+Dialogue: 0,0:09:32.57,0:09:33.87,Default,ritsu,0000,0000,0000,,A sim!
+Dialogue: 0,0:09:33.87,0:09:35.02,Default,ritsu,0000,0000,0000,,Ta-da!
+Dialogue: 0,0:09:35.49,0:09:37.85,Default,ritsu,0000,0000,0000,,Nós estamos indo a loteria agora.
+Dialogue: 0,0:09:38.71,0:09:40.30,Default,yui,0000,0000,0000,,Nós também!
+Dialogue: 0,0:09:43.43,0:09:44.90,Default,ritsu,0000,0000,0000,,Outro pacote de papéis de seda...
+Dialogue: 0,0:09:44.90,0:09:46.04,Default,ppl,0000,0000,0000,,Ganhadora!
+Dialogue: 0,0:09:46.04,0:09:47.32,Default,ppl,0000,0000,0000,,Vencedora do prêmio principal!
+Dialogue: 0,0:09:48.32,0:09:50.35,Default,ppl,0000,0000,0000,,Aqui está. Parabéns.
+Dialogue: 0,0:09:50.35,0:09:51.69,Default,yui,0000,0000,0000,,M–Mugi-chan!
+Dialogue: 0,0:09:54.87,0:09:56.42,Default,mugi,0000,0000,0000,,Vocês também estão fazendo compras?
+Dialogue: 0,0:09:56.42,0:09:57.57,Default,ritsu,0000,0000,0000,,Você ganhou alguma coisa?
+Dialogue: 0,0:09:57.57,0:09:59.84,Default,mugi,0000,0000,0000,,Sim, uma viagem para o Havaí.
+Dialogue: 0,0:09:59.84,0:10:01.81,Default,ritsu,0000,0000,0000,,Você tem uma sorte incrível.
+Dialogue: 0,0:10:01.81,0:10:03.12,Default,mugi,0000,0000,0000,,Mas eu recusei.
+Dialogue: 0,0:10:03.12,0:10:04.72,Default,all,0000,0000,0000,,Por que?!
+Dialogue: 0,0:10:05.17,0:10:08.05,Default,mugi,0000,0000,0000,,Eu queria isso, então eu troquei.
+Dialogue: 0,0:10:08.05,0:10:10.74,Default,mugi,0000,0000,0000,,Vamos jogar no Natal.
+Dialogue: 0,0:10:13.93,0:10:16.52,Default,ui,0000,0000,0000,,O que eu devo preparar?
+Dialogue: 0,0:10:19.98,0:10:22.77,Default,ui,0000,0000,0000,,E o que eu devo apresentar na minha performance?{Deixar performance?}
+Dialogue: 0,0:10:40.43,0:10:42.05,Default,ui,0000,0000,0000,,Onee-chan, o que aconteceu?
+Dialogue: 0,0:10:42.05,0:10:43.46,Default,yui,0000,0000,0000,,Oh, Ui.
+Dialogue: 0,0:10:47.92,0:10:50.40,Default,ui,0000,0000,0000,,Eu pensei que você estava limpando a casa.
+Dialogue: 0,0:10:51.24,0:10:52.36,Default,yui,0000,0000,0000,,Eu estava apenas...
+Dialogue: 0,0:10:56.52,0:10:58.02,Default,yui,0000,0000,0000,,Parecem deliciosos!
+Dialogue: 0,0:11:01.06,0:11:03.51,Default,ui,0000,0000,0000,,Onee-chan, não pegue nenhum.
+Dialogue: 0,0:11:03.51,0:11:05.53,Default,yui,0000,0000,0000,,Eu não vou roubar nenhum.
+Dialogue: 0,0:11:11.82,0:11:13.80,Default,yui,0000,0000,0000,,Eu disse que não vou!
+Dialogue: 0,0:11:17.06,0:11:20.08,Default,ui,0000,0000,0000,,{\i1}O Daruma-san caiu?{\i0}
+Dialogue: 0,0:11:21.29,0:11:24.46,Default,ui,0000,0000,0000,,Onee-chan, isso não é hora para ficar brincando.
+Dialogue: 0,0:11:26.90,0:11:29.66,Default,ui,0000,0000,0000,,Nós ainda não decoramos a sala, então se apresse.
+Dialogue: 0,0:11:29.66,0:11:30.56,Default,yui,0000,0000,0000,,Sim.
+Dialogue: 0,0:11:34.68,0:11:36.91,Default,ui,0000,0000,0000,,Ela só está começando agora...
+Dialogue: 0,0:11:39.15,0:11:41.23,Default,all,0000,0000,0000,,Com licença!
+Dialogue: 0,0:11:41.23,0:11:42.69,Default,ui,0000,0000,0000,,Entrem!
+Dialogue: 0,0:11:43.86,0:11:45.86,Default,ritsu,0000,0000,0000,,Yui! Nós estamos aqui!
+Dialogue: 0,0:11:46.56,0:11:49.49,Default,yui,0000,0000,0000,,Ei, pessoal! Venham até aqui.
+Dialogue: 0,0:11:49.49,0:11:51.20,Default,ritsu,0000,0000,0000,,O que você está fazendo?
+Dialogue: 0,0:11:51.98,0:11:54.66,Default,yui,0000,0000,0000,,Eu não consegui parar depois que comecei.
+Dialogue: 0,0:11:54.66,0:11:56.63,Default,ritsu,0000,0000,0000,,Você é tão infantil.
+Dialogue: 0,0:11:56.63,0:11:58.86,Default,ui,0000,0000,0000,,Oh, deixe-me pegar seus casacos.
+Dialogue: 0,0:11:59.86,0:12:00.83,Default,ritsu,0000,0000,0000,,Obrigada.
+Dialogue: 0,0:12:00.83,0:12:02.83,Default,mio,0000,0000,0000,,Uma irmã mais nova esforçada...
+Dialogue: 0,0:12:02.83,0:12:04.88,Default,ritsu,0000,0000,0000,,E uma irmã mais velha pateta...{Ou palerma, ou boba, ou...}
+Dialogue: 0,0:12:04.88,0:12:08.02,Default,ritsu,0000,0000,0000,,Essa é uma combinação excelente para um drama.
+Dialogue: 0,0:12:10.13,0:12:11.62,Default,ritsu,0000,0000,0000,,A comida parece deliciosa!
+Dialogue: 0,0:12:11.62,0:12:13.60,Default,mugi,0000,0000,0000,,Ui-chan, você fez tudo isso?
+Dialogue: 0,0:12:13.60,0:12:14.58,Default,yui,0000,0000,0000,,Com licença!
+Dialogue: 0,0:12:14.58,0:12:16.31,Default,yui,0000,0000,0000,,Eu também ajudei!
+Dialogue: 0,0:12:16.31,0:12:17.65,Default,yui,0000,0000,0000,,Veja este bolo!
+Dialogue: 0,0:12:17.65,0:12:18.95,Default,ritsu,0000,0000,0000,,Uau! Impressionante!
+Dialogue: 0,0:12:18.95,0:12:21.00,Default,yui,0000,0000,0000,,Eu coloquei os morangos no topo.
+Dialogue: 0,0:12:21.00,0:12:23.25,Default,ritsu,0000,0000,0000,,Eu retiro o que disse!
+Dialogue: 0,0:12:23.25,0:12:23.94,Default,yui,0000,0000,0000,,Tem alguma coisa errada?
+Dialogue: 0,0:12:23.94,0:12:28.32,Default,ui,0000,0000,0000,,B–Bem, ela fez o máximo que pode.
+Dialogue: 0,0:12:28.32,0:12:32.32,Default,ui,0000,0000,0000,,Ela limpou e decorou a casa.
+Dialogue: 0,0:12:32.32,0:12:34.09,Default,ui,0000,0000,0000,,E...
+Dialogue: 0,0:12:34.75,0:12:35.67,Default,ui,0000,0000,0000,,Bem...
+Dialogue: 0,0:12:35.67,0:12:37.62,Default,ritsu,0000,0000,0000,,Ela está fazendo o melhor para defendê-la!
+Dialogue: 0,0:12:38.59,0:12:40.45,Default,ritsu,0000,0000,0000,,Entendo. Me desculpe.
+Dialogue: 0,0:12:40.45,0:12:43.00,Default,yui,0000,0000,0000,,Nodoka-chan disse que vai demorar a chegar,
+Dialogue: 0,0:12:43.00,0:12:45.26,Default,yui,0000,0000,0000,,então, que tal fazermos um brinde?
+Dialogue: 0,0:12:45.26,0:12:45.92,Default,ui,0000,0000,0000,,Sim!
+Dialogue: 0,0:12:45.92,0:12:49.19,Default,mio,0000,0000,0000,,A irmã mais velha despreocupada e a irmã mais nova confiável...{Acho que não ficou muito legal}
+Dialogue: 0,0:12:49.19,0:12:52.02,Default,ritsu,0000,0000,0000,,Talvez não seja uma má combinação.
+Dialogue: 0,0:12:52.63,0:12:54.30,Default,all,0000,0000,0000,,Saúde!
+Dialogue: 0,0:12:54.79,0:12:57.25,Default,ritsu,0000,0000,0000,,O ano finalmente está acabando.
+Dialogue: 0,0:12:57.25,0:12:59.75,Default,sawako,0000,0000,0000,,Você soa como um velhote.
+Dialogue: 0,0:13:01.17,0:13:02.66,Default,ritsu,0000,0000,0000,,Sawa-chan?!
+Dialogue: 0,0:13:02.66,0:13:04.23,Default,sawako,0000,0000,0000,,Isso está delicioso!
+Dialogue: 0,0:13:04.23,0:13:05.81,Default,sawako,0000,0000,0000,,Posso pegar mais um pouco?
+Dialogue: 0,0:13:05.81,0:13:07.32,Default,all,0000,0000,0000,,Quando você entrou?!
+Dialogue: 0,0:13:07.67,0:13:10.00,Default,ritsu,0000,0000,0000,,Você subiu por uma corda...
+Dialogue: 0,0:13:11.64,0:13:12.74,Default,ritsu,0000,0000,0000,,entrou por uma janela...
+Dialogue: 0,0:13:13.20,0:13:14.45,Default,ritsu,0000,0000,0000,,e esgueirou-se pela casa?
+Dialogue: 0,0:13:14.84,0:13:18.07,Default,sawako,0000,0000,0000,,Oras, quem vocês pensam que eu sou?
+Dialogue: 0,0:13:18.71,0:13:22.33,Default,sawako,0000,0000,0000,,Além disso, como vocês esquecem\N de convidar a sua conselheira?
+Dialogue: 0,0:13:22.33,0:13:25.58,Default,ritsu,0000,0000,0000,,Bem, nós não nos esquecemos, mas...
+Dialogue: 0,0:13:25.58,0:13:29.50,Default,yui,0000,0000,0000,,Nós pensamos que você estaria ocupada com\No seu namorado, por isso não a convidamos.
+Dialogue: 0,0:13:31.05,0:13:34.05,Default,sawako,0000,0000,0000,,Como você ousa dizer isso em voz alta?!
+Dialogue: 0,0:13:34.05,0:13:35.86,Default,ritsu,0000,0000,0000,,Mas que cabeça de vento...
+Dialogue: 0,0:13:35.86,0:13:36.47,Default,both,0000,0000,0000,,Sim.
+Dialogue: 0,0:13:36.47,0:13:39.35,Default,sawako,0000,0000,0000,,Como punição, você terá de vestir isso.
+Dialogue: 0,0:13:39.71,0:13:42.64,Default,yui,0000,0000,0000,,Por que você sempre carrega essas roupas com você?
+Dialogue: 0,0:13:43.85,0:13:45.35,Default,yui,0000,0000,0000,,Ta-da!
+Dialogue: 0,0:13:45.35,0:13:46.23,Default,sawako,0000,0000,0000,,Sem graça.
+Dialogue: 0,0:13:46.23,0:13:48.91,Default,sawako,0000,0000,0000,,Você nem fica envergonhada.
+Dialogue: 0,0:13:50.46,0:13:51.94,Default,sawako,0000,0000,0000,,Para essas coisas, nós precisamos da...
+Dialogue: 0,0:13:52.90,0:13:54.54,Default,sawako,0000,0000,0000,,Venha aqui!
+Dialogue: 0,0:13:55.62,0:13:56.75,Default,sawako,0000,0000,0000,,Espere!
+Dialogue: 0,0:13:56.75,0:13:57.53,Default,mio,0000,0000,0000,,Não!
+Dialogue: 0,0:13:57.53,0:13:58.91,Default,nodoka,0000,0000,0000,,Olá.
+Dialogue: 0,0:13:58.91,0:14:00.93,Default,sawako,0000,0000,0000,,Fique parada!
+Dialogue: 0,0:14:07.25,0:14:09.70,Default,nodoka,0000,0000,0000,,Me desculpem, eu errei a casa.
+Dialogue: 0,0:14:10.51,0:14:12.71,Default,mio,0000,0000,0000,,Você não errou! Me salve!
+Dialogue: 0,0:14:12.71,0:14:15.51,Default,mio,0000,0000,0000,,Ninguém vai casar comigo agora...
+Dialogue: 0,0:14:15.90,0:14:18.39,Default,ui,0000,0000,0000,,Estudantes do ensino médio são incríveis...{High Schoolers}
+Dialogue: 0,0:14:18.77,0:14:22.38,Default,ritsu,0000,0000,0000,,Vamos seguir em frente e começar\Na troca de presentes!
+Dialogue: 0,0:14:22.38,0:14:23.27,Default,yui,0000,0000,0000,,É!
+Dialogue: 0,0:14:23.27,0:14:26.05,Default,ui,0000,0000,0000,,Estudantes do ensino médio mudam\N de assunto com essa facilidade?
+Dialogue: 0,0:14:26.91,0:14:28.48,Default,nodoka,0000,0000,0000,,Mas e você, sensei?
+Dialogue: 0,0:14:28.99,0:14:31.21,Default,sawako,0000,0000,0000,,Eu trouxe um também.
+Dialogue: 0,0:14:33.97,0:14:39.49,Default,sawako,0000,0000,0000,,Para ser honesta, eu ia dar este\Npresente ao meu namorado...
+Dialogue: 0,0:14:40.18,0:14:41.49,Default,all,0000,0000,0000,,Tão deprimente...
+Dialogue: 0,0:14:41.49,0:14:44.00,Default,sawako,0000,0000,0000,,Vamos começar!
+Dialogue: 0,0:14:44.59,0:14:45.71,Default,ritsu,0000,0000,0000,,Certo...
+Dialogue: 0,0:14:52.17,0:14:54.66,Default,sawako,0000,0000,0000,,Parem quando eu parar de cantar.
+Dialogue: 0,0:14:56.51,0:14:57.28,Default,sawako,0000,0000,0000,,Aqui.
+Dialogue: 0,0:14:58.27,0:15:00.57,Default,sawako,0000,0000,0000,,Soem os sinos! Hey!
+Dialogue: 0,0:15:00.57,0:15:03.01,Default,sawako,0000,0000,0000,,Soem os sinos! Yay!
+Dialogue: 0,0:15:03.01,0:15:05.02,Alternative,sawako,0000,0000,0000,,Soem com tudo!
+Dialogue: 0,0:15:04.02,0:15:05.02,Default,ritsu,0000,0000,0000,,Ela está tão depressiva...
+Dialogue: 0,0:15:05.45,0:15:09.52,Default,yui,0000,0000,0000,,Troca de presentes não deveria ser divertido?
+Dialogue: 0,0:15:05.02,0:15:07.42,Alternative,sawako,0000,0000,0000,,{\an8}Como é divertido andar num trenó aberto
+Dialogue: 0,0:15:07.42,0:15:10.04,Alternative,sawako,0000,0000,0000,,{\an8}puxado por um cavalo, yay!
+Dialogue: 0,0:15:09.52,0:15:11.52,Default,mio,0000,0000,0000,,Ninguém vai casar comigo agora...
+Dialogue: 0,0:15:10.12,0:15:11.52,Alternative,sawako,0000,0000,0000,,Soem os sinos! Yeah!
+Dialogue: 0,0:15:12.01,0:15:14.00,Default,sawako,0000,0000,0000,,Soem os sinos! Woo!
+Dialogue: 0,0:15:14.00,0:15:16.40,Default,sawako,0000,0000,0000,,Soem com tudo!
+Dialogue: 0,0:15:16.40,0:15:18.40,Alternative,sawako,0000,0000,0000,,{\an8}Como é divertido andar num trenó aberto
+Dialogue: 0,0:15:18.40,0:15:22.12,Alternative,sawako,0000,0000,0000,,{\an8}puxado por um cavalo! Oh yay!
+Dialogue: 0,0:15:16.40,0:15:18.40,Default,ui,0000,0000,0000,,Estou começando a ficar tonta.
+Dialogue: 0,0:15:18.40,0:15:22.41,Default,mugi,0000,0000,0000,,Eu acho que esse é o Natal mais\Ndivertido que eu já tive.
+Dialogue: 0,0:15:22.41,0:15:23.66,Default,sawako,0000,0000,0000,,Parem!
+Dialogue: 0,0:15:23.66,0:15:26.38,Default,ritsu,0000,0000,0000,,Oh, esse é o que eu comprei.
+Dialogue: 0,0:15:26.38,0:15:28.12,Default,sawako,0000,0000,0000,,Então vamos trocar.
+Dialogue: 0,0:15:28.12,0:15:29.96,Default,mio,0000,0000,0000,,Mas, Sawako-sensei...
+Dialogue: 0,0:15:31.59,0:15:35.53,Default,sawako,0000,0000,0000,,Eu tenho a sensação de que é\Nalgo realmente maravilhoso!
+Dialogue: 0,0:15:35.53,0:15:37.47,Default,sawako,0000,0000,0000,,O que deve ser?
+Dialogue: 0,0:15:46.68,0:15:49.77,Default,sawako,0000,0000,0000,,Esse é o melhor Natal de todos!
+Dialogue: 0,0:15:50.94,0:15:52.52,Default,yui,0000,0000,0000,,Ela surtou!
+Dialogue: 0,0:15:52.52,0:15:54.40,Alternative,ui,0000,0000,0000,,{\an8}Por favor se acalme!
+Dialogue: 0,0:15:53.35,0:15:57.70,Default,sawako,0000,0000,0000,,Feliz Natal! Feliz Natal!
+Dialogue: 0,0:15:54.40,0:15:56.70,Alternative,ritsu,0000,0000,0000,,{\an8}Me desculpe, eu nunca mais farei isso...
+Dialogue: 0,0:15:56.70,0:15:59.31,Alternative,yui,0000,0000,0000,,{\an8}Algo legal definitivamente vai acontecer.
+Dialogue: 0,0:16:03.11,0:16:06.18,Default,mio,0000,0000,0000,,Oh, esse é o que eu comprei.
+Dialogue: 0,0:16:09.34,0:16:11.38,Default,nodoka,0000,0000,0000,,Oh, esse é o meu.
+Dialogue: 0,0:16:11.38,0:16:14.48,Default,yui,0000,0000,0000,,Nodoka-chan, ainda não é o fim do ano...
+Dialogue: 0,0:16:16.39,0:16:18.79,Default,yui,0000,0000,0000,,Uau, parecem deliciosos!
+Dialogue: 0,0:16:21.44,0:16:23.72,Default,sawako,0000,0000,0000,,Sim, esse é o meu.
+Dialogue: 0,0:16:23.72,0:16:27.18,Default,yui,0000,0000,0000,,Você ia dar isso ao seu namorado?
+Dialogue: 0,0:16:30.14,0:16:31.52,Default,sawako,0000,0000,0000,,Sim!
+Dialogue: 0,0:16:31.52,0:16:33.89,Default,sawako,0000,0000,0000,,Você tem algum problema com isso?!
+Dialogue: 0,0:16:35.73,0:16:37.06,Default,mio,0000,0000,0000,,Cabeças de vento são assustadoras...{[Frostii]: Mas que cabeça de vento.}
+Dialogue: 0,0:16:37.81,0:16:42.66,Default,mugi,0000,0000,0000,,Agora só faltam os presentes da Yui-chan\Ne da Ui-chan serem abertos.
+Dialogue: 0,0:16:44.79,0:16:46.70,Default,sawako,0000,0000,0000,,Vamos logo, abram isso...
+Dialogue: 0,0:16:46.70,0:16:47.74,Default,both,0000,0000,0000,,S–Sim.
+Dialogue: 0,0:16:58.54,0:17:01.80,Default,yui,0000,0000,0000,,Você disse que perdeu o cachecol, então...
+Dialogue: 0,0:16:58.54,0:17:01.80,Default,ui,0000,0000,0000,,Você disse que perdeu as luvas, então...
+Dialogue: 0,0:17:04.26,0:17:08.58,Default,mio,0000,0000,0000,,O que vocês iam fazer se não tivessem\Nficado com o presente da outra?
+Dialogue: 0,0:17:08.58,0:17:10.03,Default,mugi,0000,0000,0000,,Isso é ótimo.
+Dialogue: 0,0:17:10.58,0:17:12.27,Default,yui,0000,0000,0000,,Obrigada, Ui.
+Dialogue: 0,0:17:14.18,0:17:16.24,Default,ui,0000,0000,0000,,Obrigada, Onee-chan.
+Dialogue: 0,0:17:16.94,0:17:20.28,Default,ui,0000,0000,0000,,Com isso, eu posso ficar aquecida no inverno.
+Dialogue: 0,0:17:20.61,0:17:21.72,Default,ritsu,0000,0000,0000,,Muito bem!
+Dialogue: 0,0:17:21.72,0:17:24.72,Default,ritsu,0000,0000,0000,,É hora das performances!
+Dialogue: 0,0:17:24.72,0:17:27.60,Default,mio,0000,0000,0000,,Mas as coisas estavam começando a voltar ao normal...
+Dialogue: 0,0:17:28.43,0:17:30.31,Default,ritsu,0000,0000,0000,,Mio, que tal você ir primeiro?
+Dialogue: 0,0:17:30.31,0:17:31.19,Default,mio,0000,0000,0000,,Não!
+Dialogue: 0,0:17:31.19,0:17:32.93,Default,nodoka,0000,0000,0000,,Ela parece um velhote rabugento...{old geezer}
+Dialogue: 0,0:17:32.93,0:17:33.69,Default,ritsu,0000,0000,0000,,Então... Yui!
+Dialogue: 0,0:17:34.30,0:17:35.78,Default,yui,0000,0000,0000,,Eu?
+Dialogue: 0,0:17:37.62,0:17:39.46,Default,ui,0000,0000,0000,,Eu vou!
+Dialogue: 0,0:17:39.46,0:17:40.36,Default,yui,0000,0000,0000,,O que? Ui?
+Dialogue: 0,0:17:41.74,0:17:42.97,Default,ui,0000,0000,0000,,Olá!
+Dialogue: 0,0:17:43.30,0:17:44.95,Default,ui,0000,0000,0000,,Feliz Natal!
+Dialogue: 0,0:17:44.95,0:17:47.20,Default,ui,0000,0000,0000,,Vocês estão se divertindo?
+Dialogue: 0,0:17:50.33,0:17:52.90,Default,ui,0000,0000,0000,,Me desculpem, mas isso é tudo o que eu posso fazer...
+Dialogue: 0,0:17:52.90,0:17:54.53,Default,mugi,0000,0000,0000,,Você ensaiou?
+Dialogue: 0,0:17:54.53,0:17:58.21,Default,ui,0000,0000,0000,,Sim, já que a Onee-chan me disse que\Nteríamos de fazer uma performance.
+Dialogue: 0,0:17:58.21,0:18:00.32,Default,yui,0000,0000,0000,,Você levou isso a sério?
+Dialogue: 0,0:18:00.87,0:18:02.25,Default,ui,0000,0000,0000,,Você não estava falando sério?
+Dialogue: 0,0:18:02.25,0:18:04.14,Default,yui,0000,0000,0000,,Me desculpe, Ui.
+Dialogue: 0,0:18:04.14,0:18:06.70,Default,ui,0000,0000,0000,,Não se preocupe quanto a isso.
+Dialogue: 0,0:18:06.70,0:18:08.20,Default,yui,0000,0000,0000,,Então, eu vou também!
+Dialogue: 0,0:18:08.75,0:18:10.30,Default,yui,0000,0000,0000,,{\i1}Air guitar{\i0}!
+Dialogue: 0,0:18:11.29,0:18:13.43,Default,ritsu,0000,0000,0000,,Então eu também! Bateria no ar!
+Dialogue: 0,0:18:21.71,0:18:23.36,Default,yui,0000,0000,0000,,Mio-chan está se esforçando.
+Dialogue: 0,0:18:24.35,0:18:26.05,Default,mugi,0000,0000,0000,,Eu vou imitar alguma coisa.
+Dialogue: 0,0:18:28.37,0:18:29.24,Default,ritsu,0000,0000,0000,,O que é isso?
+Dialogue: 0,0:18:29.83,0:18:31.87,Default,mugi,0000,0000,0000,,É um peixe-lua!{http://pt.wikipedia.org/wiki/Mola_mola}
+Dialogue: 0,0:18:33.13,0:18:36.44,Default,sawako,0000,0000,0000,,Muito bem, eu sou a próxima!
+Dialogue: 0,0:18:40.56,0:18:41.73,Default,sawako,0000,0000,0000,,Uma folha de carvalho.
+Dialogue: 0,0:18:41.73,0:18:45.24,Default,all,0000,0000,0000,,O que aconteceu com a nossa\Nbela e gentil Sawako-sensei?
+Dialogue: 0,0:18:48.32,0:18:50.53,Default,all,0000,0000,0000,,Boa noite!
+Dialogue: 0,0:18:51.03,0:18:53.37,Default,yui,0000,0000,0000,,Está tão frio, Ui.
+Dialogue: 0,0:18:56.40,0:18:57.51,Default,ui,0000,0000,0000,,Está nevando!
+Dialogue: 0,0:18:59.37,0:19:00.81,Default,yui,0000,0000,0000,,Oh, é mesmo!
+Dialogue: 0,0:19:01.37,0:19:03.74,Default,yui,0000,0000,0000,,É um Natal branco.
+Dialogue: 0,0:19:04.77,0:19:09.54,Default,ui,0000,0000,0000,,Onee-chan, você me deu um Natal\Nbranco de presente uma vez.
+Dialogue: 0,0:19:09.54,0:19:10.30,Default,yui,0000,0000,0000,,O que?
+Dialogue: 0,0:19:21.77,0:19:25.26,Default,ui,0000,0000,0000,,Foi tão divertido hoje.
+Dialogue: 0,0:19:25.26,0:19:27.65,Default,yui,0000,0000,0000,,Ui, estou entrando.
+Dialogue: 0,0:19:27.65,0:19:29.14,Default,ui,0000,0000,0000,,Onee-chan?
+Dialogue: 0,0:19:30.56,0:19:32.28,Default,yui,0000,0000,0000,,Posso dormir com você?
+Dialogue: 0,0:19:33.06,0:19:34.29,Default,ui,0000,0000,0000,,Claro!
+Dialogue: 0,0:19:41.98,0:19:44.05,Default,yui,0000,0000,0000,,Eu vou dormir usando estas luvas.
+Dialogue: 0,0:19:44.05,0:19:45.92,Default,yui,0000,0000,0000,,Já que elas aquecem.
+Dialogue: 0,0:19:46.34,0:19:50.68,Default,ui,0000,0000,0000,,Eu vou usar meu cachecol,\Njá que ele também aquece.
+Dialogue: 0,0:19:57.89,0:20:00.17,Default,ui,0000,0000,0000,,Onee-chan, estou com frio.
+Dialogue: 0,0:20:02.12,0:20:05.27,Alternative,tv,0000,0000,0000,,{\an8}Vamos terminar logo com isso. Não adianta...{Frostii: You really can ignore all the TV lines.}
+Dialogue: 0,0:20:02.54,0:20:04.46,Default,ui,0000,0000,0000,,Onee-chan, você vai ficar toda suja.
+Dialogue: 0,0:20:06.14,0:20:08.21,Default,ui,0000,0000,0000,,Onee-chan, aqui está o macarrão de fim de ano.{toshikoshi noodles = http://eow.alc.co.jp/%E5%B9%B4%E8%B6%8A%E3%81%97%E3%81%9D%E3%81%B0/UTF-8/?ref=ex&exp=MB003632&dn=1936937&dk=JE&pg=1 }
+Dialogue: 0,0:20:08.21,0:20:09.67,Default,yui,0000,0000,0000,,Sim.
+Dialogue: 0,0:20:05.27,0:20:07.62,Alternative,tv,0000,0000,0000,,{\an8}A contagem regressiva vai começar em instantes.
+Dialogue: 0,0:20:07.62,0:20:10.11,Alternative,tv,0000,0000,0000,,{\an8}A questão é... como você pode ver...
+Dialogue: 0,0:20:10.11,0:20:12.00,Alternative,tv,0000,0000,0000,,{\an8}Feliz Ano Novo!
+Dialogue: 0,0:20:12.00,0:20:15.48,Alternative,tv,0000,0000,0000,,{\an8}Nós estamos apresentando ao vivo do intercâmbio\NYamanakako, observando o Mt. Fuji...
+Dialogue: 0,0:20:11.08,0:20:12.91,Default,ui,0000,0000,0000,,Dois bolinhos de arroz são o suficiente?
+Dialogue: 0,0:20:12.91,0:20:13.98,Default,yui,0000,0000,0000,,Sim...
+Dialogue: 0,0:20:15.48,0:20:16.71,Alternative,tv,0000,0000,0000,,{\an8}Mas por que?
+Dialogue: 0,0:20:16.71,0:20:18.68,Alternative,tv,0000,0000,0000,,{\an8}Eu realmente preciso passar por isso...
+Dialogue: 0,0:20:16.54,0:20:18.68,Default,ui,0000,0000,0000,,Onee-chan, diga "Ah!"
+Dialogue: 0,0:20:20.03,0:20:22.21,Default,yui,0000,0000,0000,,Assim foi o meu Ano Novo.
+Dialogue: 0,0:20:22.21,0:20:23.82,Default,ritsu,0000,0000,0000,,Me dê a Ui-chan {CoalGuys: Mê deixe casar com a Ui-chan}
+Dialogue: 0,0:20:23.82,0:20:26.05,Default,mugi,0000,0000,0000,,Vocês duas possuem um relacionamento muito bom.
+Dialogue: 0,0:20:26.05,0:20:29.05,Default,ritsu,0000,0000,0000,,Você não ganhou peso ficando sentada\Ne comendo o tempo todo?
+Dialogue: 0,0:20:29.05,0:20:32.30,Default,yui,0000,0000,0000,,Não importa o quanto eu coma, eu nunca ganho peso.
+Dialogue: 0,0:20:32.30,0:20:33.11,Default,mio,0000,0000,0000,,Isso não pode...
+Dialogue: 0,0:20:33.11,0:20:34.27,Default,mugi,0000,0000,0000,,ser verdade!
+Dialogue: 0,0:20:34.91,0:20:36.26,Default,yui,0000,0000,0000,,Você também, Mugi-chan?
+Dialogue: 0,0:20:36.26,0:20:38.91,Default,mio,0000,0000,0000,,Então, Mugi, quanto você ganhou?
+Dialogue: 0,0:20:38.91,0:20:39.74,Default,mugi,0000,0000,0000,,...quilos.
+Dialogue: 0,0:20:39.74,0:20:41.25,Default,mio,0000,0000,0000,,Eu ganhei... quilos.
+Dialogue: 0,0:20:44.32,0:20:46.28,Default,ritsu,0000,0000,0000,,Yui, você deveria pedir desculpas.
+Dialogue: 0,0:20:46.28,0:20:47.15,Default,yui,0000,0000,0000,,Me desculpem.
+Dialogue: 0,0:20:47.15,0:20:49.82,Default,yui,0000,0000,0000,,Mio-chan, você ficou muito bem com este quimono.
+Dialogue: 0,0:20:49.82,0:20:52.21,Default,mio,0000,0000,0000,,Ritsu perguntou se eu viria com\Nmeu quimono hoje, então...
+Dialogue: 0,0:20:52.21,0:20:53.04,Default,ritsu,0000,0000,0000,,Eu só estava perguntando.
+Dialogue: 0,0:20:53.04,0:20:54.66,Default,mio,0000,0000,0000,,O–O que?
+Dialogue: 0,0:20:54.66,0:20:58.02,Default,yui,0000,0000,0000,,Mio-chan, você vai continuar a mesma este ano.
+Dialogue: 0,0:20:58.02,0:20:59.75,Default,mio,0000,0000,0000,,Eu vou para casa me trocar.
+Dialogue: 0,0:20:59.75,0:21:01.35,Default,yui,0000,0000,0000,,Mas por que?
+Dialogue: 0,0:21:01.35,0:21:02.62,Default,yui,0000,0000,0000,,Você está linda!
+Dialogue: 0,0:21:02.62,0:21:04.86,Default,mio,0000,0000,0000,,S–Sério?
+Dialogue: 0,0:21:04.86,0:21:06.61,Default,yui,0000,0000,0000,,Sim!
+Dialogue: 0,0:21:09.23,0:21:12.21,Default,mugi,0000,0000,0000,,Que linda cena para começar o ano.
+Dialogue: 0,0:21:12.21,0:21:14.27,Default,ritsu,0000,0000,0000,,Mugi, você continua a mesma de sempre.
+Dialogue: 0,0:21:15.75,0:21:17.45,Default,mugi,0000,0000,0000,,Sawako-sensei?
+Dialogue: 0,0:21:19.43,0:21:22.69,Default,ritsu,0000,0000,0000,,Sawako-sensei continua a mesma de sempre...
+Dialogue: 0,0:21:31.08,0:21:33.14,Default,ritsu,0000,0000,0000,,O que vocês desejaram?
+Dialogue: 0,0:21:33.14,0:21:35.21,Default,mugi,0000,0000,0000,,Eu desejei segurança para a minha família.
+Dialogue: 0,0:21:35.21,0:21:37.16,Default,mio,0000,0000,0000,,Perder peso.
+Dialogue: 0,0:21:37.16,0:21:39.79,Default,yui,0000,0000,0000,,Comer comidas deliciosas.
+Dialogue: 0,0:21:40.83,0:21:43.75,Default,ritsu,0000,0000,0000,,{\fad(0,520)\}Vamos rezar pelo nosso clube de música leve.
+Dialogue: 0,0:21:45.03,0:21:47.45,Default,mio,0000,0000,0000,,Eu desejo que nós fiquemos melhores.
+Dialogue: 0,0:21:47.45,0:21:50.01,Default,mugi,0000,0000,0000,,Eu desejo que nós possamos nos divertir bastante.
+Dialogue: 0,0:21:50.01,0:21:53.63,Default,yui,0000,0000,0000,,Eu desejo poder comer mais dos deliciosos\Nbolos que a Mugi-chan tra–
+Dialogue: 0,0:21:54.43,0:21:56.84,Default,yui,0000,0000,0000,,Eu desejo melhorar na guitarra.
+Dialogue: 0,0:21:56.84,0:21:58.13,Default,ritsu,0000,0000,0000,,Muito bem!
+Dialogue: 0,0:22:01.72,0:22:03.58,Default,ritsu,0000,0000,0000,,Que tal pararmos em algum lugar para comer?
+Dialogue: 0,0:22:03.58,0:22:06.25,Default,mugi,0000,0000,0000,,Por favor não mencione nada sobre comida.
+Dialogue: 0,0:22:06.25,0:22:08.84,Default,ritsu,0000,0000,0000,,Yui, você realmente não ganhou peso?
+Dialogue: 0,0:23:41.06,0:23:43.41,Default,preview,0000,0000,0000,,Este é o clube de música leve.
+Dialogue: 0,0:23:44.07,0:23:47.01,Default,preview,0000,0000,0000,,Venha nos visitar caso sinta nossa falta.
+Dialogue: 0,0:23:47.01,0:23:48.66,Default,preview,0000,0000,0000,,Não me trate como uma criança do primário!
+Dialogue: 0,0:23:48.66,0:23:50.92,Default,preview,0000,0000,0000,,Sejam bem vindas!
+Dialogue: 0,0:23:50.92,0:23:53.78,Default,preview,0000,0000,0000,,Venham e deem uma olhada!
+Dialogue: 0,0:23:53.78,0:23:55.80,Default,preview,0000,0000,0000,,B–Bem, é...
+Dialogue: 0,0:23:55.80,0:23:58.17,Default,preview,0000,0000,0000,,Mas o que...
+Dialogue: 0,0:23:59.26,0:24:00.34,Default,preview,0000,0000,0000,,Vocês...
+Dialogue: 0,0:24:02.51,0:24:06.11,Default,preview,0000,0000,0000,,Nós tocaremos quatro músicas no concerto de amanhã, então por favor venham.
+Dialogue: 0,0:24:07.17,0:24:08.27,Default,preview,0000,0000,0000,,Eu estou sozinha...
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Avisos
+Dialogue: 0,0:04:47.78,0:04:52.77,Title,,0000,0000,0000,,{\fs50\pos(640,445)}Natal!
+Dialogue: 0,0:23:39.91,0:23:43.50,Preview Title,,0000,0000,0000,,{\fad(0,400)\pos(640,300)}Próximo Episódio
+Dialogue: 0,0:24:06.47,0:24:09.76,Preview Title,,0000,0000,0000,,{\fad(500,0)\pos(640,300)}Novos membros!
+Dialogue: 0,0:05:58.65,0:06:04.02,Note,,0000,0000,0000,,Nota: isso foi uma brincadeira com a palavra {\i1}pan{\i0} (pão) e {\i1}two{\i0} (dois), que juntas parecem {\i1}pantsu{\i0} (calcinhas).
+Dialogue: 0,0:10:21.37,0:10:24.03,Note,,0000,0000,0000,,Livro: Uma introdução a performances curtas
+Dialogue: 0,0:11:17.06,0:11:24.46,Note,,0000,0000,0000,,{\i1}O Daruma-san caiu:{\i0} é um jogo infantil. Quando a criança grita "O Daruma-san caiu!" todos as outras correm. Ao gritar de novo quem for pego se mexendo é preso.
+Dialogue: 0,0:14:58.27,0:15:05.02,Note,,0000,0000,0000,,{\i1}Jingle Bells: {\i0}a versão brasileira dessa música, escrita por Evaldo Rui, é completamente diferente da original. Essa é uma tradução mais fiel.
+Dialogue: 0,0:16:09.34,0:16:14.48,Note,,0000,0000,0000,,{\i1}Osechi Ryori: {\i0}é uma refeição especial para os três primeiros dias do ano. Servidas em caixas, algumas vezes contém peixe grelhado, o presente da Nodoka-chan.
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Abertura
 Dialogue: 5,0:02:29.69,0:02:30.31,OpeningTop,,0000,0000,0000,,{\k12\fnArial\c&H000000&\3c&HFFFFFF&}♫ {\r}{\k48}CHATTING {\k1}NOW
 Dialogue: 5,0:02:30.31,0:02:33.27,OpeningTop,,0000,0000,0000,,{\fnArial\c&H000000&\3c&HFFFFFF&}♫ {\r}{\k7}ga{\k20}chi {\k21}de {\k9}ka{\k27}shi{\k10}ma{\k28}shi {\k24}NE{\k20}VER {\k42}ENDING {\k34}GIRL'S {\k43}TALK
 Dialogue: 5,0:02:33.27,0:02:35.81,OpeningTop,,0000,0000,0000,,{\fnArial\c&H000000&\3c&HFFFFFF&}♫ {\r}{\k17}shuu{\k54}gyou {\k22}cha{\k14}i{\k32}mu {\k13}ma{\k20}de {\k41}ma{\k16}tte{\k18}na{\k9}i
@@ -490,44 +490,44 @@ Dialogue: 5,0:03:33.79,0:03:36.71,Opening,,0000,0000,0000,,Com graça nós criam
 Dialogue: 5,0:03:36.71,0:03:39.30,Opening,,0000,0000,0000,,Traga-me o chá da tarde {\fnArial\c&H000000&\3c&HFFFFFF&}♪
 Dialogue: 5,0:03:39.30,0:03:42.30,Opening,,0000,0000,0000,,Mesmo com meu amor não correspondido,\Nseguiremos com honra! {\fnArial\c&H000000&\3c&HFFFFFF&}♪
 Dialogue: 5,0:03:42.30,0:03:47.06,Opening,,0000,0000,0000,,Se cantarmos vamos brilhar depois da escola {\fnArial\c&H000000&\3c&HFFFFFF&}♪
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Encerramento
-Dialogue: 0,0:22:21.77,0:22:24.36,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k54}Please {\k32}don't {\k32}say {\k31}"You {\k33}are {\k77}lazy"
-Dialogue: 0,0:22:24.36,0:22:27.01,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k45}da{\k38}tte {\k21}ho{\k19}n{\k35}tou {\k31}ha {\k13}C{\k21}RA{\k41}ZY
-Dialogue: 0,0:22:27.01,0:22:32.23,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k42}ha{\k14}ku{\k31}chou{\k36}ta{\k28}chi {\k36}ha {\k53}sou {\k15}mi{\k16}e{\k12}na{\k22}i {\k14}to{\k36}ko{\k18}ro {\k7}de {\k7}ba{\k11}ta {\k15}a{\k13}shi {\k13}su{\k23}ru{\k21}n{\k16}de{\k23}su
-Dialogue: 0,0:22:32.29,0:22:37.59,EndingTop,,0000,0000,0000,,{\an8}{\k26\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}ho{\k11}n{\k32}nou {\k24}ni {\k45}jyu{\k30}jyun {\k31}tyuu{\k25}ji{\k15}tsu{\k20} {\k25}ho{\k12}n{\k37}nou {\k38}mo {\k39}jyuu{\k24}jyuu {\k33}shou{\k47}ti
-Dialogue: 0,0:22:37.59,0:22:43.02,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k22}ze{\k13}n{\k45}to {\k31}you{\k27}you {\k18}da{\k44}shi{\k10} {\k17}da{\k19}ka{\k12}ra {\k16}ta{\k14}ma{\k41}ni {\k43}kyuu{\k18}ke{\k9}i {\k17}shi{\k48}tyau{\k16}n{\k26}de{\k37}su
-Dialogue: 0,0:22:47.72,0:22:50.37,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k17}chii{\k13}ka{\k17}mi{\k56}chi {\k8}a{\k12}re{\k19}ba {\k29}so{\k16}re{\k17}ga {\k32}ou{\k29}dou
-Dialogue: 0,0:22:50.37,0:22:53.75,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k10}ha{\k26}sho{\k12}re{\k53}ru {\k19}tsu{\k10}ba{\k15}sa {\k28}mo {\k10}a{\k17}re{\k17}ba {\k38}jou{\k83}tou
-Dialogue: 0,0:22:58.16,0:23:03.39,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398}{\k35}ya{\k23}ba{\k9} {\k22}tsu{\k28}me {\k20}wa{\k48}re{\k83}ta {\k65}guruu {\k17}de{\k29}ho{\k25}shuu {\k49}shi{\k70}ta
-Dialogue: 0,0:23:03.40,0:23:08.54,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k49}so{\k47}re{\k18}da{\k35}ke {\k46}de {\k26}na{\k36}n{\k33}ka {\k29}tas{\k24}se{\k22}i{\k42}ka{\k107}n
-Dialogue: 0,0:23:08.77,0:23:14.04,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k11}da{\k8}i{\k16}ji {\k30}na{\k37}no {\k19}ha {\k39}ji{\k37}bu{\k69}n {\k24}ka{\k33}wa{\k16}i{\k32}ga{\k52}ru{\k32}ko{\k72}to
-Dialogue: 0,0:23:14.04,0:23:20.02,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k42}ji{\k42}bu{\k11}n {\k52}wo {\k26}a{\k23}i{\k41}sa{\k20}na{\k18}kya {\k33}hi{\k37}to {\k34}mo {\k19}a{\k30}i{\k84}se{\k32}na{\k54}i
-Dialogue: 0,0:23:20.67,0:23:23.30,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k36}Please {\k29}don't {\k37}say {\k27}"You {\k28}are {\k86}lazy"
-Dialogue: 0,0:23:23.35,0:23:25.99,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k28}da{\k36}tte {\k26}ho{\k13}n{\k35}tou {\k28}ha {\k13}C{\k24}RA{\k24}ZY
-Dialogue: 0,0:23:26.01,0:23:31.24,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398&}{\k28}nou{\k16}a{\k21}ru {\k36}ta{\k36}ka {\k21}ha {\k50}sou{\k8} {\k10}mi{\k9}e{\k22}na{\k21}i {\k11}to{\k37}ko{\k17}ni {\k32}bi{\k24}kku {\k13}ka{\k5}ku{\k10}su{\k27}n{\k44}de{\k25}su
-Dialogue: 0,0:23:31.24,0:23:33.95,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k41}sou{\k41}zou {\k28}ni {\k27}is{\k39}shou {\k18}ke{\k12}n{\k21}me{\k25}i
-Dialogue: 0,0:23:33.95,0:23:36.63,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k17}ge{\k14}n{\k27}ji{\k23}tsu {\k24}ha{\k28}zet{\k17}ta{\k11}i {\k35}ze{\k13}tsu{\k16}me{\k21}i
-Dialogue: 0,0:23:36.63,0:23:38.78,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k38}hat{\k18}te{\k10}n {\k37}to{\k34}tyuu {\k18}da{\k60}shi
-Dialogue: 0,0:23:38.78,0:23:42.13,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k10}da{\k10}ka{\k23}ra {\k17}fu{\k34}i{\k20}ni {\k45}pit{\k18}ti {\k9}ha{\k10}zu{\k11}re{\k28}ru{\k17}n{\k36}de{\k47}su
-Dialogue: 0,0:22:21.77,0:22:24.36,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Por favor não diga "Você é preguiçosa"
-Dialogue: 0,0:22:24.36,0:22:27.01,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}A verdade é que eu sou louca!
-Dialogue: 0,0:22:27.01,0:22:32.23,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Cisnes, isso mesmo. O que você não pode ver é que\Neles chutam violentamente quando estão nadando.
-Dialogue: 0,0:22:32.29,0:22:37.59,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}Eu sou obediente e leal aos meus instintos,\Nnem ligo que façam piadas sobre mim!
-Dialogue: 0,0:22:37.59,0:22:43.02,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Um futuro brilhante me espera, por isso posso descansar as vezes.
-Dialogue: 0,0:22:47.72,0:22:50.37,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Se houver um atalho, então será mais fácil,
-Dialogue: 0,0:22:50.37,0:22:53.75,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Se eu tivesse asas para encurtar o caminho, seria ótimo!
-Dialogue: 0,0:22:58.16,0:23:03.39,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Droga, quebrei uma unha, então consertei com cola.
-Dialogue: 0,0:23:03.40,0:23:08.54,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Com isso tenho de alguma forma um sentimento de realização.
-Dialogue: 0,0:23:08.77,0:23:14.04,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}O importante é amar a si mesmo
-Dialogue: 0,0:23:14.04,0:23:20.02,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Se você não se ama não pode amar mais ninguém
-Dialogue: 0,0:23:20.67,0:23:23.30,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Por favor não diga "Você é preguiçosa"
-Dialogue: 0,0:23:23.35,0:23:25.99,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}A verdade é que eu sou louca!
-Dialogue: 0,0:23:26.01,0:23:31.24,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Falcões habilidosos, isso mesmo, são capazes de esconder suas garras.
-Dialogue: 0,0:23:31.24,0:23:33.95,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Eu faço o meu melhor para imaginar isso,
-Dialogue: 0,0:23:33.95,0:23:36.63,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}mas a realidade me deixa encurralada...
-Dialogue: 0,0:23:36.63,0:23:38.78,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Ainda estou aprendendo...
-Dialogue: 0,0:23:38.78,0:23:42.13,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}então, às vezes, posso desafinar.
-Comment: 0,0:00:00.05,0:00:00.05,Default,,0000,0000,0000,,Créditos
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Encerramento
+Dialogue: 0,0:22:11.87,0:22:14.46,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k54}Please {\k32}don't {\k32}say {\k31}"You {\k33}are {\k77}lazy"
+Dialogue: 0,0:22:14.46,0:22:17.11,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k45}da{\k38}tte {\k21}ho{\k19}n{\k35}tou {\k31}ha {\k13}C{\k21}RA{\k41}ZY
+Dialogue: 0,0:22:17.11,0:22:22.33,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k42}ha{\k14}ku{\k31}chou{\k36}ta{\k28}chi {\k36}ha {\k53}sou {\k15}mi{\k16}e{\k12}na{\k22}i {\k14}to{\k36}ko{\k18}ro {\k7}de {\k7}ba{\k11}ta {\k15}a{\k13}shi {\k13}su{\k23}ru{\k21}n{\k16}de{\k23}su
+Dialogue: 0,0:22:22.39,0:22:27.69,EndingTop,,0000,0000,0000,,{\an8}{\k26\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}ho{\k11}n{\k32}nou {\k24}ni {\k45}jyu{\k30}jyun {\k31}tyuu{\k25}ji{\k15}tsu{\k20} {\k25}ho{\k12}n{\k37}nou {\k38}mo {\k39}jyuu{\k24}jyuu {\k33}shou{\k47}ti
+Dialogue: 0,0:22:27.69,0:22:33.12,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k22}ze{\k13}n{\k45}to {\k31}you{\k27}you {\k18}da{\k44}shi{\k10} {\k17}da{\k19}ka{\k12}ra {\k16}ta{\k14}ma{\k41}ni {\k43}kyuu{\k18}ke{\k9}i {\k17}shi{\k48}tyau{\k16}n{\k26}de{\k37}su
+Dialogue: 0,0:22:37.82,0:22:40.47,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k17}chii{\k13}ka{\k17}mi{\k56}chi {\k8}a{\k12}re{\k19}ba {\k29}so{\k16}re{\k17}ga {\k32}ou{\k29}dou
+Dialogue: 0,0:22:40.47,0:22:43.85,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k10}ha{\k26}sho{\k12}re{\k53}ru {\k19}tsu{\k10}ba{\k15}sa {\k28}mo {\k10}a{\k17}re{\k17}ba {\k38}jou{\k83}tou
+Dialogue: 0,0:22:48.26,0:22:53.49,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398}{\k35}ya{\k23}ba{\k9} {\k22}tsu{\k28}me {\k20}wa{\k48}re{\k83}ta {\k65}guruu {\k17}de{\k29}ho{\k25}shuu {\k49}shi{\k70}ta
+Dialogue: 0,0:22:53.50,0:22:58.64,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k49}so{\k47}re{\k18}da{\k35}ke {\k46}de {\k26}na{\k36}n{\k33}ka {\k29}tas{\k24}se{\k22}i{\k42}ka{\k107}n
+Dialogue: 0,0:22:58.87,0:23:04.14,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k11}da{\k8}i{\k16}ji {\k30}na{\k37}no {\k19}ha {\k39}ji{\k37}bu{\k69}n {\k24}ka{\k33}wa{\k16}i{\k32}ga{\k52}ru{\k32}ko{\k72}to
+Dialogue: 0,0:23:04.14,0:23:10.12,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k42}ji{\k42}bu{\k11}n {\k52}wo {\k26}a{\k23}i{\k41}sa{\k20}na{\k18}kya {\k33}hi{\k37}to {\k34}mo {\k19}a{\k30}i{\k84}se{\k32}na{\k54}i
+Dialogue: 0,0:23:10.77,0:23:13.40,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k36}Please {\k29}don't {\k37}say {\k27}"You {\k28}are {\k86}lazy"
+Dialogue: 0,0:23:13.45,0:23:16.09,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k28}da{\k36}tte {\k26}ho{\k13}n{\k35}tou {\k28}ha {\k13}C{\k24}RA{\k24}ZY
+Dialogue: 0,0:23:16.11,0:23:21.34,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398&}{\k28}nou{\k16}a{\k21}ru {\k36}ta{\k36}ka {\k21}ha {\k50}sou{\k8} {\k10}mi{\k9}e{\k22}na{\k21}i {\k11}to{\k37}ko{\k17}ni {\k32}bi{\k24}kku {\k13}ka{\k5}ku{\k10}su{\k27}n{\k44}de{\k25}su
+Dialogue: 0,0:23:21.34,0:23:24.05,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k41}sou{\k41}zou {\k28}ni {\k27}is{\k39}shou {\k18}ke{\k12}n{\k21}me{\k25}i
+Dialogue: 0,0:23:24.05,0:23:26.73,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k17}ge{\k14}n{\k27}ji{\k23}tsu {\k24}ha{\k28}zet{\k17}ta{\k11}i {\k35}ze{\k13}tsu{\k16}me{\k21}i
+Dialogue: 0,0:23:26.73,0:23:28.88,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k38}hat{\k18}te{\k10}n {\k37}to{\k34}tyuu {\k18}da{\k60}shi
+Dialogue: 0,0:23:28.88,0:23:32.23,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k10}da{\k10}ka{\k23}ra {\k17}fu{\k34}i{\k20}ni {\k45}pit{\k18}ti {\k9}ha{\k10}zu{\k11}re{\k28}ru{\k17}n{\k36}de{\k47}su
+Dialogue: 0,0:22:11.87,0:22:14.46,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Por favor não diga "Você é preguiçosa"
+Dialogue: 0,0:22:14.46,0:22:17.11,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}A verdade é que eu sou louca!
+Dialogue: 0,0:22:17.11,0:22:22.33,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Cisnes, isso mesmo. O que você não pode ver é que\Neles chutam violentamente quando estão nadando.
+Dialogue: 0,0:22:22.39,0:22:27.69,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}Eu sou obediente e leal aos meus instintos,\Nnem ligo que façam piadas sobre mim!
+Dialogue: 0,0:22:27.69,0:22:33.12,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Um futuro brilhante me espera, por isso posso descansar as vezes.
+Dialogue: 0,0:22:37.82,0:22:40.47,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Se houver um atalho, então será mais fácil,
+Dialogue: 0,0:22:40.47,0:22:43.85,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Se eu tivesse asas para encurtar o caminho, seria ótimo!
+Dialogue: 0,0:22:48.26,0:22:53.49,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Droga, quebrei uma unha, então consertei com cola.
+Dialogue: 0,0:22:53.50,0:22:58.64,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Com isso tenho de alguma forma um sentimento de realização.
+Dialogue: 0,0:22:58.87,0:23:04.14,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}O importante é amar a si mesmo
+Dialogue: 0,0:23:04.14,0:23:10.12,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Se você não se ama não pode amar mais ninguém
+Dialogue: 0,0:23:10.77,0:23:13.40,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Por favor não diga "Você é preguiçosa"
+Dialogue: 0,0:23:13.45,0:23:16.09,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}A verdade é que eu sou louca!
+Dialogue: 0,0:23:16.11,0:23:21.34,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Falcões habilidosos, isso mesmo, são capazes de esconder suas garras.
+Dialogue: 0,0:23:21.34,0:23:24.05,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Eu faço o meu melhor para imaginar isso,
+Dialogue: 0,0:23:24.05,0:23:26.73,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}mas a realidade me deixa encurralada...
+Dialogue: 0,0:23:26.73,0:23:28.88,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Ainda estou aprendendo...
+Dialogue: 0,0:23:28.88,0:23:32.23,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}então, às vezes, posso desafinar.
+Comment: 0,0:00:-09.-85,0:00:-09.-85,Default,,0000,0000,0000,,Créditos
 Dialogue: 0,0:02:30.16,0:02:32.90,Créditos,,0000,0000,0000,,{\pos(655,450)}Tradução: Otacon Link
 Dialogue: 0,0:02:32.91,0:02:35.74,Créditos,,0000,0000,0000,,{\pos(664,436)}Karaoke: Otacon Link
 Dialogue: 0,0:02:43.96,0:02:47.25,Kyun Fansub,,0000,0000,0000,,{\fad(300,0)\pos(640,240)}Kyun Fansub apresenta:
