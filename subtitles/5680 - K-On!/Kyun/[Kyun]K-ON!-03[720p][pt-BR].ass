@@ -369,8 +369,8 @@ Dialogue: 0,0:23:54.27,0:23:57.37,Default,mio,0000,0000,0000,,Nós vamos pratica
 Dialogue: 0,0:23:58.66,0:23:59.34,Default,mugi,0000,0000,0000,,Vamos lá!
 Dialogue: 0,0:23:59.34,0:24:03.55,Default,mugi,0000,0000,0000,,Eu sempre sonhei em viajar com amigas!
 Comment: 0,0:00:00.05,0:00:00.05,Default,,0000,0000,0000,,Avisos
-Dialogue: 0,0:02:45.74,0:02:50.75,Title,,0000,0000,0000,,{\pos(640,445)}Treinamento Especial
-Dialogue: 0,0:23:39.68,0:23:42.95,Preview Title,,0000,0000,0000,,{\be1\pos(640,300)\fad(0,500)}Próximo Episódio
+Dialogue: 0,0:02:45.83,0:02:50.76,Title,,0000,0000,0000,,{\pos(640,445)}Treinamento Especial
+Dialogue: 0,0:23:39.76,0:23:42.95,Preview Title,,0000,0000,0000,,{\be1\pos(640,300)\fad(0,500)}Próximo Episódio
 Dialogue: 0,0:24:06.21,0:24:09.45,Preview Title,,0000,0000,0000,,{\be1\fad(800,0)\pos(640,300)}Acampamento de Treino
 Dialogue: 0,0:03:46.17,0:03:50.85,Note,,0000,0000,0000,,Ginásio: corresponde aos 4 últimos anos do Ensino Fundamental.
 Dialogue: 0,0:04:22.59,0:04:24.76,Note,,0000,0000,0000,,Placa: Sala de Preparação

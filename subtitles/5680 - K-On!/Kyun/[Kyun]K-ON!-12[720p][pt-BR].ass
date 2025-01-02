@@ -63,409 +63,409 @@ Dialogue: 0,0:01:03.07,0:01:04.99,Default,,0000,0000,0000,,Isso é um banquete.
 Dialogue: 0,0:01:04.99,0:01:06.21,Default,,0000,0000,0000,,Obrigada.
 Dialogue: 0,0:01:06.21,0:01:08.27,Default,,0000,0000,0000,,Me ligue se acontecer alguma coisa.
 Dialogue: 0,0:01:16.11,0:01:17.97,Default,,0000,0000,0000,,Eu vou ficar bem.
-Comment: 0,0:02:58.49,0:02:58.53,Default,,0000,0000,0000,,Parte A
-Dialogue: 0,0:02:59.19,0:03:01.43,Default,,0000,0000,0000,,Então ela ainda está com febre?
-Dialogue: 0,0:03:01.43,0:03:05.08,Default,,0000,0000,0000,,Sim, e nesse ritmo é provável que\N ela não venha amanhã também.
-Dialogue: 0,0:03:05.44,0:03:07.58,Default,,0000,0000,0000,,Só faltam quatro dias.
-Dialogue: 0,0:03:07.58,0:03:12.13,Default,,0000,0000,0000,,Se eu pudesse ao menos pegar o resfriado por ela...
-Dialogue: 0,0:03:12.13,0:03:14.43,Default,,0000,0000,0000,,E como você faria isso?
-Dialogue: 0,0:03:14.43,0:03:17.33,Default,,0000,0000,0000,,Talvez... pela boca!
-Dialogue: 0,0:03:17.33,0:03:18.59,Default,,0000,0000,0000,,Que garota destemida...
-Dialogue: 0,0:03:18.78,0:03:20.63,Default,,0000,0000,0000,,Com licença!
-Dialogue: 0,0:03:21.30,0:03:23.28,Default,,0000,0000,0000,,Não assuste as novatas.
-Dialogue: 0,0:03:28.27,0:03:29.58,Default,,0000,0000,0000,,Entendo.
-Dialogue: 0,0:03:29.58,0:03:30.48,Default,,0000,0000,0000,,Droga.{Geez}
-Dialogue: 0,0:03:30.48,0:03:32.73,Default,,0000,0000,0000,,Como ela ousa pegar um resfriado em um momento tão importante?
-Dialogue: 0,0:03:32.73,0:03:34.35,Default,,0000,0000,0000,,Isso mostra o quão preguiçosa ela é.
-Dialogue: 0,0:03:34.35,0:03:35.88,Default,,0000,0000,0000,,Foi você quem adoeceu ela!
-Dialogue: 0,0:03:35.88,0:03:37.10,Default,,0000,0000,0000,,Quem, eu?
-Dialogue: 0,0:03:37.10,0:03:40.21,Default,,0000,0000,0000,,Isso mesmo! Pense um pouco.
-Dialogue: 0,0:03:41.05,0:03:43.91,Default,,0000,0000,0000,,Mas talvez seja porque...
-Dialogue: 0,0:03:44.22,0:03:46.37,Default,,0000,0000,0000,,Escolham as roupas que vocês vão usar na apresentação.
-Dialogue: 0,0:03:47.14,0:03:48.08,Default,,0000,0000,0000,,Você está forçando a gente?
-Dialogue: 0,0:03:48.23,0:03:49.95,Default,,0000,0000,0000,,Quando ela fez tantas?
-Dialogue: 0,0:03:49.95,0:03:51.96,Default,,0000,0000,0000,,Vocês podem escolher qualquer uma.
-Dialogue: 0,0:03:51.96,0:03:53.21,Default,,0000,0000,0000,,Por exemplo, este...
-Dialogue: 0,0:03:53.61,0:03:55.04,Default,,0000,0000,0000,,Roupa de garçonete!
-Dialogue: 0,0:03:55.04,0:03:56.24,Default,,0000,0000,0000,,Seja bem-vinda.
-Dialogue: 0,0:03:56.24,0:03:57.13,Default,,0000,0000,0000,,Sem chance.
-Dialogue: 0,0:03:57.71,0:03:58.59,Default,,0000,0000,0000,,Essa é ainda pior!
-Dialogue: 0,0:03:59.59,0:04:02.09,Default,,0000,0000,0000,,T-Talvez eu use esta...
-Dialogue: 0,0:04:02.09,0:04:05.37,Default,,0000,0000,0000,,Sensei, até que isso é divertido.
-Dialogue: 0,0:04:05.37,0:04:06.79,Default,,0000,0000,0000,,Eu sei, não é?
-Dialogue: 0,0:04:06.79,0:04:08.54,Default,,0000,0000,0000,,Volte a si!
-Dialogue: 0,0:04:08.54,0:04:10.43,Default,,0000,0000,0000,,Ei, olhe, olhe!
-Dialogue: 0,0:04:10.67,0:04:12.38,Default,,0000,0000,0000,,Como esse fica?
-Dialogue: 0,0:04:12.92,0:04:15.31,Default,,0000,0000,0000,,Esse é tão bonito.
-Dialogue: 0,0:04:15.31,0:04:18.16,Default,,0000,0000,0000,,Você está certa, sem mencionar que parece fácil se mover nesta roupa.
-Dialogue: 0,0:04:18.16,0:04:19.32,Default,,0000,0000,0000,,Bem, se nós temos de escolher uma...
-Dialogue: 0,0:04:19.52,0:04:21.81,Default,,0000,0000,0000,,Vamos ficar com esse!
-Dialogue: 0,0:04:21.81,0:04:24.54,Default,,0000,0000,0000,,Ficar com esse... Ficar com esse...
-Dialogue: 0,0:04:24.54,0:04:26.62,Default,,0000,0000,0000,,Onee-chan gostou muito dele...
-Dialogue: 0,0:04:26.78,0:04:29.99,Default,,0000,0000,0000,,e ela acabou ficando o dia inteiro vestindo aquele {\i1}yukata.{\i0}
-Dialogue: 0,0:04:29.99,0:04:31.45,Default,,0000,0000,0000,,O que deve ter resultado em ela pegar um resfriado...
-Dialogue: 0,0:04:31.45,0:04:32.79,Default,,0000,0000,0000,,Ela está no primário?
-Dialogue: 0,0:04:32.79,0:04:35.15,Default,,0000,0000,0000,,Isso é bem típico da Yui-senpai.
-Dialogue: 0,0:04:35.15,0:04:40.89,Default,,0000,0000,0000,,Bem, aquelas roupas são legais, mas...
-Dialogue: 0,0:04:40.89,0:04:45.24,Default,,0000,0000,0000,,Se você pensa nisso com mais calma, elas são meio embaraçosas.
-Dialogue: 0,0:04:45.24,0:04:46.64,Default,,0000,0000,0000,,Certo, Mio?
-Dialogue: 0,0:04:47.84,0:04:52.60,Default,,0000,0000,0000,,Azusa, por que você não começa a praticar a parte da guitarra principal hoje?
-Dialogue: 0,0:04:53.70,0:04:56.51,Default,,0000,0000,0000,,Já que a Yui talvez não melhore a tempo?
-Dialogue: 0,0:04:57.64,0:04:58.52,Default,,0000,0000,0000,,Mas...
-Dialogue: 0,0:04:58.74,0:05:01.44,Default,,0000,0000,0000,,É só para o caso de realmente precisarmos.
-Dialogue: 0,0:05:02.78,0:05:03.97,Default,,0000,0000,0000,,Nos vemos depois das aulas.
-Dialogue: 0,0:05:03.97,0:05:04.80,Default,,0000,0000,0000,,Até mais.
-Dialogue: 0,0:05:07.16,0:05:08.34,Default,,0000,0000,0000,,Me desculpe.
-Dialogue: 0,0:05:14.80,0:05:16.14,Default,,0000,0000,0000,,Mais um...
-Dialogue: 0,0:05:18.98,0:05:19.92,Default,,0000,0000,0000,,Cheguei.
-Dialogue: 0,0:05:27.64,0:05:29.19,Default,,0000,0000,0000,,Onee-chan...
-Dialogue: 0,0:05:29.19,0:05:30.37,Default,,0000,0000,0000,,Yummy!
-Dialogue: 0,0:05:35.78,0:05:37.31,Default,,0000,0000,0000,,Azusa, você pode fazer isso?
-Dialogue: 0,0:05:37.48,0:05:39.40,Default,,0000,0000,0000,,Sim, de certa forma.
-Dialogue: 0,0:05:40.14,0:05:43.12,Default,,0000,0000,0000,,Então, vamos começar do início mais uma vez.
-Dialogue: 0,0:05:43.12,0:05:43.85,Default,,0000,0000,0000,,Claro.
-Dialogue: 0,0:05:44.90,0:05:46.65,Default,,0000,0000,0000,,Olá!
-Dialogue: 0,0:05:46.65,0:05:48.08,Default,,0000,0000,0000,,Você está aqui!
-Dialogue: 0,0:05:48.08,0:05:48.78,Default,,0000,0000,0000,,Senpai!
-Dialogue: 0,0:05:49.14,0:05:50.78,Default,,0000,0000,0000,,Como você está se sentindo?
-Dialogue: 0,0:05:50.78,0:05:52.83,Default,,0000,0000,0000,,Huh? Oh, como eu estou me sentindo?
-Dialogue: 0,0:05:55.08,0:05:56.85,Default,,0000,0000,0000,,Isso foi forçado...
-Dialogue: 0,0:05:56.85,0:05:59.08,Default,,0000,0000,0000,,Bem, isso significa que você está bem.
-Dialogue: 0,0:05:59.30,0:06:02.86,Default,,0000,0000,0000,,Espere, você deveria ter vindo de manhã se estava se sentindo melhor.
-Dialogue: 0,0:06:02.86,0:06:04.71,Default,,0000,0000,0000,,Nós estávamos preocupadas com você.
-Dialogue: 0,0:06:05.41,0:06:08.06,Default,,0000,0000,0000,,Hmm, bem... sim!
-Dialogue: 0,0:06:08.06,0:06:10.78,Default,,0000,0000,0000,,Eu me senti melhor derrepente depois que as aulas acabaram!
-Dialogue: 0,0:06:10.78,0:06:12.18,Default,,0000,0000,0000,,Você só queria matar aula, certo?
-Dialogue: 0,0:06:12.35,0:06:14.87,Default,,0000,0000,0000,,Bem, vamos praticar agora!
-Dialogue: 0,0:06:14.87,0:06:15.63,Default,,0000,0000,0000,,Certo?
-Dialogue: 0,0:06:16.81,0:06:18.65,Default,,0000,0000,0000,,C-Claro.
-Dialogue: 0,0:06:21.51,0:06:23.23,Default,,0000,0000,0000,,Ta-da...
-Dialogue: 0,0:06:23.76,0:06:24.65,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:06:25.46,0:06:26.66,Default,,0000,0000,0000,,O que vocês acham?
-Dialogue: 0,0:06:26.66,0:06:28.17,Default,,0000,0000,0000,,Eu não tenho certeza...
-Dialogue: 0,0:06:28.17,0:06:29.40,Default,,0000,0000,0000,,Eu acho que foi coincidência.
-Dialogue: 0,0:06:30.70,0:06:32.14,Default,,0000,0000,0000,,Será que é a minha imaginação?
-Dialogue: 0,0:06:32.14,0:06:33.45,Default,,0000,0000,0000,,Vamos tentar mais uma vez.
-Dialogue: 0,0:06:33.45,0:06:34.62,Default,,0000,0000,0000,,Sim.
-Dialogue: 0,0:06:41.59,0:06:42.40,Default,,0000,0000,0000,,Yui...
-Dialogue: 0,0:06:42.40,0:06:43.23,Default,,0000,0000,0000,,Sim?
-Dialogue: 0,0:06:44.14,0:06:48.04,Default,,0000,0000,0000,,Você estava perfeita! Eu nunca senti isso antes!
-Dialogue: 0,0:06:48.04,0:06:50.49,Default,,0000,0000,0000,,O seu ritmo estava muito preciso!
-Dialogue: 0,0:06:50.49,0:06:51.09,Default,,0000,0000,0000,,Aconteceu alguma coisa?
-Dialogue: 0,0:06:51.26,0:06:52.59,Default,,0000,0000,0000,,N-Nada...
-Dialogue: 0,0:06:52.94,0:06:54.11,Default,,0000,0000,0000,,A calma antes da tempestade...
-Dialogue: 0,0:06:55.32,0:06:58.39,Default,,0000,0000,0000,,Qual é o problema de estar perfeito?
-Dialogue: 0,0:06:59.36,0:07:01.93,Default,,0000,0000,0000,,Para mim estava muito bom.
-Dialogue: 0,0:07:01.93,0:07:04.86,Default,,0000,0000,0000,,Sim, é como a Azusa-chan disse...
-Dialogue: 0,0:07:06.17,0:07:07.57,Default,,0000,0000,0000,,Ela está certa.
-Dialogue: 0,0:07:07.57,0:07:09.53,Default,,0000,0000,0000,,Nós só estávamos confusas.
-Dialogue: 0,0:07:09.53,0:07:12.82,Default,,0000,0000,0000,,Ritsu-san e Tsumugi-san, vocês se preocupam de mais.
-Dialogue: 0,0:07:13.61,0:07:14.62,Default,,0000,0000,0000,,"Ritsu-san"?
-Dialogue: 0,0:07:14.82,0:07:16.08,Default,,0000,0000,0000,,"Tsumugi-san"?
-Dialogue: 0,0:07:17.30,0:07:19.22,Default,,0000,0000,0000,,Por que você não se entrega logo,
-Dialogue: 0,0:07:19.22,0:07:19.75,Default,,0000,0000,0000,,Ui-chan?
-Dialogue: 0,0:07:19.75,0:07:21.09,Default,,0000,0000,0000,,Você estava aqui o tempo todo—
-Dialogue: 0,0:07:21.09,0:07:22.62,Default,,0000,0000,0000,,Espere, Ui-chan?!
-Dialogue: 0,0:07:23.38,0:07:26.96,Default,,0000,0000,0000,,Mesmo que você consiga enganar os olhos delas, você não me engana!
-Dialogue: 0,0:07:27.36,0:07:29.51,Default,,0000,0000,0000,,Os seus seios são maiores que os da Yui-chan!
-Dialogue: 0,0:07:30.41,0:07:33.33,Default,,0000,0000,0000,,D-Do que você está falando?
-Dialogue: 0,0:07:33.33,0:07:35.08,Default,,0000,0000,0000,,Então diga o meu apelido.
-Dialogue: 0,0:07:35.08,0:07:36.89,Default,,0000,0000,0000,,A-Azusa #2!
-Dialogue: 0,0:07:36.89,0:07:38.06,Default,,0000,0000,0000,,Ela é uma impostora.
-Dialogue: 0,0:07:38.98,0:07:40.26,Default,,0000,0000,0000,,Me desculpem.
-Dialogue: 0,0:07:40.49,0:07:42.83,Default,,0000,0000,0000,,Em todo caso, você parece mesmo com ela.
-Dialogue: 0,0:07:42.83,0:07:44.60,Default,,0000,0000,0000,,Eu nem percebi.
-Dialogue: 0,0:07:44.89,0:07:47.75,Default,,0000,0000,0000,,Eu não sabia que você tocava guitarra.
-Dialogue: 0,0:07:47.75,0:07:51.03,Default,,0000,0000,0000,,Não, Onee-chan só me deixou tocar nela algumas vezes.
-Dialogue: 0,0:07:51.66,0:07:54.33,Default,,0000,0000,0000,,Então é assim que se toca!
-Dialogue: 0,0:07:54.33,0:07:56.03,Default,,0000,0000,0000,,É isso que está dizendo aqui.
-Dialogue: 0,0:07:56.30,0:07:57.83,Default,,0000,0000,0000,,Tão típico...
-Dialogue: 0,0:07:58.17,0:08:02.15,Default,,0000,0000,0000,,Talvez seja melhor a Yui ficar de fora.
-Dialogue: 0,0:08:02.15,0:08:02.91,Default,,0000,0000,0000,,Ei.
-Dialogue: 0,0:08:03.28,0:08:05.09,Default,,0000,0000,0000,,Me desculpe, Azusa-chan.
-Dialogue: 0,0:08:05.09,0:08:06.43,Default,,0000,0000,0000,,Está tudo bem.
-Dialogue: 0,0:08:06.43,0:08:09.25,Default,,0000,0000,0000,,Depois de ver a Onee-chan caída na cama,
-Dialogue: 0,0:08:09.25,0:08:11.55,Default,,0000,0000,0000,,eu senti que devia fazer alguma coisa...
-Dialogue: 0,0:08:12.88,0:08:14.13,Default,,0000,0000,0000,,Olá!
-Dialogue: 0,0:08:14.33,0:08:16.29,Default,,0000,0000,0000,,Uau! Um perfeito déjà vu!
-Dialogue: 0,0:08:16.29,0:08:16.93,Default,,0000,0000,0000,,Senpai!
-Dialogue: 0,0:08:16.93,0:08:19.35,Default,,0000,0000,0000,,Me desculpem por deixar vocês preocupadas.
-Dialogue: 0,0:08:19.35,0:08:20.35,Default,,0000,0000,0000,,Você está bem?
-Dialogue: 0,0:08:20.60,0:08:25.18,Default,,0000,0000,0000,,Sim, quando eu acordei estava me sentindo muito melhor...
-Dialogue: 0,0:08:25.18,0:08:27.36,Default,,0000,0000,0000,,Então eu queria prati—
-Dialogue: 0,0:08:28.91,0:08:30.27,Default,,0000,0000,0000,,Isso é nojento...
-Dialogue: 0,0:08:31.71,0:08:33.50,Default,,0000,0000,0000,,Eu estou bem agora.
-Dialogue: 0,0:08:33.50,0:08:34.63,Default,,0000,0000,0000,,Mentirosa...
-Dialogue: 0,0:08:34.63,0:08:36.12,Default,,0000,0000,0000,,Eu também preciso de um lenço.
-Dialogue: 0,0:08:36.91,0:08:39.15,Default,,0000,0000,0000,,Oh, Gita!
-Dialogue: 0,0:08:39.15,0:08:42.18,Default,,0000,0000,0000,,Então é aqui que você estava!
-Dialogue: 0,0:08:42.70,0:08:45.17,Default,,0000,0000,0000,,Sua... está pesada!
-Dialogue: 0,0:08:46.62,0:08:47.83,Default,,0000,0000,0000,,Onee-chan!
-Dialogue: 0,0:08:54.43,0:08:57.09,Default,,0000,0000,0000,,Faça {\i1}ochazuke{\i0} na próxima vez, está bem?
-Dialogue: 0,0:08:58.30,0:09:01.36,Default,,0000,0000,0000,,Você ainda está com uma forte febre!
-Dialogue: 0,0:09:01.36,0:09:02.72,Default,,0000,0000,0000,,Me desculpem.
-Dialogue: 0,0:09:03.89,0:09:06.09,Default,,0000,0000,0000,,Eu acho que não estou pronta ainda.
-Dialogue: 0,0:09:06.09,0:09:09.27,Default,,0000,0000,0000,,Talvez seja melhor que eu fique de fora...
-Dialogue: 0,0:09:09.27,0:09:10.45,Default,,0000,0000,0000,,Não diga isso...
-Dialogue: 0,0:09:10.45,0:09:14.03,Default,,0000,0000,0000,,Azu-nyan, conto com você na guitarra.
-Dialogue: 0,0:09:17.06,0:09:18.13,Default,,0000,0000,0000,,Eu não quero isso.
-Dialogue: 0,0:09:20.37,0:09:21.60,Default,,0000,0000,0000,,Azusa-chan.
-Dialogue: 0,0:09:21.60,0:09:22.46,Default,,0000,0000,0000,,Não!
-Dialogue: 0,0:09:22.46,0:09:25.71,Default,,0000,0000,0000,,Se nós não podemos nos apresentar juntas, eu prefiro nem me apresentar!
-Dialogue: 0,0:09:29.57,0:09:30.88,Default,,0000,0000,0000,,Espere, Azusa!
-Dialogue: 0,0:09:33.88,0:09:36.99,Default,,0000,0000,0000,,Yui, não venha ao clube de música leve até a nossa apresentação.
-Dialogue: 0,0:09:36.99,0:09:38.96,Default,,0000,0000,0000,,E-Eu estou sendo evitada?!
-Dialogue: 0,0:09:38.96,0:09:39.89,Default,,0000,0000,0000,,Não.
-Dialogue: 0,0:09:40.08,0:09:44.31,Default,,0000,0000,0000,,Descanse até a hora da performance e fique melhor.
-Dialogue: 0,0:09:44.31,0:09:47.32,Default,,0000,0000,0000,,E então nós vamos nos apresentar juntas.
-Dialogue: 0,0:09:47.32,0:09:50.14,Default,,0000,0000,0000,,Não perca a esperança até lá, ok?
-Dialogue: 0,0:09:51.34,0:09:52.48,Default,,0000,0000,0000,,Mio-chan...
-Dialogue: 0,0:09:53.37,0:09:56.15,Default,,0000,0000,0000,,Azusa, você precisa praticar também.
-Dialogue: 0,0:09:56.15,0:09:59.45,Default,,0000,0000,0000,,Não apenas por causa da ausência da Yui, mas pelo seu próprio bem.
-Dialogue: 0,0:09:59.45,0:10:00.85,Default,,0000,0000,0000,,Senpai...
-Dialogue: 0,0:10:01.81,0:10:05.20,Default,,0000,0000,0000,,Vamos fazer o que podemos agora!
-Dialogue: 0,0:10:09.44,0:10:10.96,Default,,0000,0000,0000,,Ok, boa noite.
-Dialogue: 0,0:10:10.96,0:10:12.45,Default,,0000,0000,0000,,Boa noite.
-Dialogue: 0,0:10:16.53,0:10:18.18,Default,,0000,0000,0000,,Eu vou dormir muito.
-Dialogue: 0,0:10:18.18,0:10:20.49,Default,,0000,0000,0000,,A única coisa que eu posso fazer agora é dormir.
-Dialogue: 0,0:10:21.56,0:10:23.68,Default,,0000,0000,0000,,Eu com certeza vou melhorar a tempo!
-Comment: 0,0:10:30.02,0:10:30.02,Default,,0000,0000,0000,,Parte B
-Dialogue: 0,0:10:36.58,0:10:38.56,Default,,0000,0000,0000,,Yui-chan ainda não chegou...
-Dialogue: 0,0:10:40.63,0:10:41.57,Default,,0000,0000,0000,,Você já ligou para ela?
-Dialogue: 0,0:10:42.07,0:10:44.74,Default,,0000,0000,0000,,Ela me mandou uma mensagem dizendo que com certeza chegaria a tempo.
-Dialogue: 0,0:10:45.32,0:10:47.04,Default,,0000,0000,0000,,É 12:30...
-Dialogue: 0,0:10:50.67,0:10:52.25,Default,,0000,0000,0000,,A gente não devia praticar?
-Dialogue: 0,0:10:53.32,0:10:54.95,Default,,0000,0000,0000,,Mesmo sem a Yui.
-Dialogue: 0,0:10:57.83,0:10:58.71,Default,,0000,0000,0000,,Acho que não temos outra escolha—
-Dialogue: 0,0:10:58.71,0:10:59.59,Default,,0000,0000,0000,,Não!
-Dialogue: 0,0:11:00.09,0:11:01.63,Default,,0000,0000,0000,,Não tem como eu fazer isso!
-Dialogue: 0,0:11:01.63,0:11:05.14,Default,,0000,0000,0000,,Não faz sentido se apresentar sem a Yui-senpai!
-Dialogue: 0,0:11:12.32,0:11:13.36,Default,,0000,0000,0000,,O que aconteceu?
-Dialogue: 0,0:11:13.76,0:11:15.92,Default,,0000,0000,0000,,A apresentação vai ser atrasada em 10 minutos,
-Dialogue: 0,0:11:15.92,0:11:18.75,Default,,0000,0000,0000,,mas venham ao auditório às 13:00, como planejado.
-Dialogue: 0,0:11:19.28,0:11:20.36,Default,,0000,0000,0000,,Tudo bem.
-Dialogue: 0,0:11:22.05,0:11:23.87,Default,,0000,0000,0000,,Estão todas aqui, certo?
-Dialogue: 0,0:11:27.30,0:11:31.54,Default,,0000,0000,0000,,"Clube de música leve: todas prontas para a apresentação."
-Dialogue: 0,0:11:32.12,0:11:33.16,Default,,0000,0000,0000,,Nodoka?
-Dialogue: 0,0:11:37.59,0:11:38.84,Default,,0000,0000,0000,,A um tempo atrás...
-Dialogue: 0,0:11:47.81,0:11:49.60,Default,,0000,0000,0000,,Eu peguei um monte!
-Dialogue: 0,0:12:06.80,0:12:07.95,Default,,0000,0000,0000,,Yui-chan.
-Dialogue: 0,0:12:07.95,0:12:09.61,Alternative,,0000,0000,0000,,{\an8}Use isso.
-Dialogue: 0,0:12:09.61,0:12:10.80,Alternative,,0000,0000,0000,,{\an8}Vai ficar tudo bem?
-Dialogue: 0,0:12:11.25,0:12:13.50,Default,,0000,0000,0000,,Oh, Yui-chan, você está aqui para nos visitar mais uma vez.
-Dialogue: 0,0:12:11.55,0:12:13.50,Alternative,,0000,0000,0000,,{\an8}O que você está fazendo?!
-Dialogue: 0,0:12:13.71,0:12:14.46,Default,,0000,0000,0000,,Sim!
-Dialogue: 0,0:12:13.50,0:12:15.63,Alternative,,0000,0000,0000,,{\an8}Me desculpe, Keita-kun!
-Dialogue: 0,0:12:15.63,0:12:16.69,Alternative,,0000,0000,0000,,{\an8}Eu nunca vou te perdoar!
-Dialogue: 0,0:12:16.69,0:12:18.04,Alternative,,0000,0000,0000,,{\an8}Kei-chan!
-Dialogue: 0,0:12:18.04,0:12:19.35,Alternative,,0000,0000,0000,,{\an8}Me desculpe!
-Dialogue: 0,0:12:19.35,0:12:20.86,Alternative,,0000,0000,0000,,{\an8}Corra, seu idiota!
-Dialogue: 0,0:12:21.95,0:12:23.94,Alternative,,0000,0000,0000,,{\an8}Fique parado!
-Dialogue: 0,0:12:29.20,0:12:30.06,Default,,0000,0000,0000,,O que ela estava fazendo?
-Dialogue: 0,0:12:30.06,0:12:32.98,Default,,0000,0000,0000,,Então ela sempre foi um tanto estranha.
-Dialogue: 0,0:12:32.98,0:12:34.85,Default,,0000,0000,0000,,Mas por que você está nos contando isso agora?
-Dialogue: 0,0:12:35.35,0:12:39.36,Default,,0000,0000,0000,,O que eu estou querendo dizer é que quando a Yui põe algo na cabeça, ela vai até o fim.
-Dialogue: 0,0:12:39.64,0:12:42.69,Default,,0000,0000,0000,,Eu estou certa de que ela já se esqueceu que teve um resfriado.
-Dialogue: 0,0:12:42.69,0:12:43.61,Default,,0000,0000,0000,,Então...
-Dialogue: 0,0:12:45.11,0:12:46.33,Default,,0000,0000,0000,,Yo.
-Dialogue: 0,0:12:46.33,0:12:47.76,Default,,0000,0000,0000,,Preste atenção na atmosfera!
-Dialogue: 0,0:12:48.80,0:12:51.42,Default,,0000,0000,0000,,Espere, aonde você esteve esse tempo todo?
-Dialogue: 0,0:12:51.42,0:12:52.83,Default,,0000,0000,0000,,Nós estávamos esperando por você.
-Dialogue: 0,0:12:53.10,0:12:56.42,Default,,0000,0000,0000,,Oh, é óbvio que eu não estava perdendo tempo.
-Dialogue: 0,0:12:56.71,0:13:01.35,Default,,0000,0000,0000,,Após levar em conta o frio, eu aperfeiçoei as yukatas com proteção para resfriado!
-Dialogue: 0,0:13:01.35,0:13:03.80,Default,,0000,0000,0000,,Se você pudesse por esse esforço em outras coisas...
-Dialogue: 0,0:13:03.95,0:13:06.40,Default,,0000,0000,0000,,E é disso que eu estou falando!
-Dialogue: 0,0:13:07.67,0:13:09.50,Default,,0000,0000,0000,,Com licença...
-Dialogue: 0,0:13:10.67,0:13:11.75,Default,,0000,0000,0000,,Yui!
-Dialogue: 0,0:13:11.75,0:13:14.02,Default,,0000,0000,0000,,Você devia ter avisado que estava aqui!
-Dialogue: 0,0:13:15.08,0:13:16.54,Default,,0000,0000,0000,,Me desculpem.
-Dialogue: 0,0:13:18.05,0:13:19.37,Default,,0000,0000,0000,,Azu-nyan?
-Dialogue: 0,0:13:19.37,0:13:23.23,Default,,0000,0000,0000,,Você é uma pessoa muito má por nos deixar preocupadas...
-Dialogue: 0,0:13:23.84,0:13:25.18,Default,,0000,0000,0000,,Você é muito má!
-Dialogue: 0,0:13:26.27,0:13:28.17,Default,,0000,0000,0000,,Você deveria pedir desculpas para ela.
-Dialogue: 0,0:13:28.17,0:13:30.40,Default,,0000,0000,0000,,Azusa é a que ficou mais preocupada com você.
-Dialogue: 0,0:13:30.40,0:13:31.79,Default,,0000,0000,0000,,Sério?
-Dialogue: 0,0:13:32.16,0:13:33.58,Default,,0000,0000,0000,,Azu-nyan...
-Dialogue: 0,0:13:33.58,0:13:35.82,Default,,0000,0000,0000,,Você não tem jeito!
-Dialogue: 0,0:13:35.82,0:13:37.83,Default,,0000,0000,0000,,Quando uma pessoa pega um resfriado...
-Dialogue: 0,0:13:39.62,0:13:43.45,Default,,0000,0000,0000,,Azu-nyan, me desculpe por te deixar preocupada.
-Dialogue: 0,0:13:43.45,0:13:47.43,Default,,0000,0000,0000,,Eu prometo que farei o meu melhor.
-Dialogue: 0,0:13:47.43,0:13:48.30,Default,,0000,0000,0000,,Certo?
-Dialogue: 0,0:13:49.57,0:13:51.64,Default,,0000,0000,0000,,Nós faremos a melhor apresentação de todas!
-Dialogue: 0,0:13:53.00,0:13:53.97,Default,,0000,0000,0000,,Certo.
-Dialogue: 0,0:13:55.92,0:13:57.44,Default,,0000,0000,0000,,Vou deixar passar dessa vez.
-Dialogue: 0,0:13:57.44,0:13:59.17,Default,,0000,0000,0000,,Vamos fazer as pazes!{Let's make up}
-Dialogue: 0,0:14:00.73,0:14:05.04,Default,,0000,0000,0000,,Ela estava mesmo preocupada comigo?
-Dialogue: 0,0:14:05.04,0:14:05.99,Default,,0000,0000,0000,,Provavelmente...
-Dialogue: 0,0:14:08.90,0:14:11.37,Default,,0000,0000,0000,,O tempo acabou, vamos lá.
-Dialogue: 0,0:14:13.20,0:14:15.09,Default,,0000,0000,0000,,Esperem, aonde está a Gita?
-Dialogue: 0,0:14:15.77,0:14:17.73,Default,,0000,0000,0000,,Eu lembro de ter deixado ela aqui.
-Dialogue: 0,0:14:18.37,0:14:20.29,Default,,0000,0000,0000,,Ui-chan levou para casa!
-Dialogue: 0,0:14:20.66,0:14:23.80,Default,,0000,0000,0000,,Onee-chan, eu vou deixar sua guitarra aqui.
-Dialogue: 0,0:14:24.79,0:14:26.42,Default,,0000,0000,0000,,Obrigada, Ui...
-Dialogue: 0,0:14:27.51,0:14:30.10,Default,,0000,0000,0000,,É verdade! O que eu faço agora?
-Dialogue: 0,0:14:30.10,0:14:31.96,Default,,0000,0000,0000,,Você não tem jeito.
-Dialogue: 0,0:14:31.96,0:14:33.35,Default,,0000,0000,0000,,Sawa-chan-sensei...
-Dialogue: 0,0:14:33.62,0:14:36.31,Default,,0000,0000,0000,,Aqui, use esta.
-Dialogue: 0,0:14:38.36,0:14:40.14,Default,,0000,0000,0000,,Você vai ficar bem sem sua Gita?
-Dialogue: 0,0:14:41.96,0:14:43.19,Default,,0000,0000,0000,,Eu devo dizer que...
-Dialogue: 0,0:14:43.60,0:14:45.77,Default,,0000,0000,0000,,Eu não consigo tocar outra guitarra além da Gita.
-Dialogue: 0,0:14:45.77,0:14:46.65,Default,,0000,0000,0000,,Como esperado...
-Dialogue: 0,0:14:47.10,0:14:48.74,Default,,0000,0000,0000,,Aqui vou eu!
-Dialogue: 0,0:14:54.22,0:14:56.47,Default,,0000,0000,0000,,Uau! Incrível!
-Dialogue: 0,0:14:56.47,0:14:57.94,Default,,0000,0000,0000,,Tem tantas pessoas aqui!
-Dialogue: 0,0:14:59.26,0:15:00.61,Default,,0000,0000,0000,,Eu vou ficar aqui.
-Dialogue: 0,0:15:00.61,0:15:01.46,Default,,0000,0000,0000,,Ui-chan?
-Dialogue: 0,0:15:01.97,0:15:03.84,Default,,0000,0000,0000,,Oh, você está aqui!
-Dialogue: 0,0:15:05.85,0:15:10.84,Default,,0000,0000,0000,,A seguir a performance do clube de música leve, Chá Depois da Escola.
-Dialogue: 0,0:15:17.18,0:15:18.37,Default,,0000,0000,0000,,Onee-chan...
-Dialogue: 0,0:15:25.04,0:15:26.65,Default,,0000,0000,0000,,Um, dois, três.
-Dialogue: 0,0:15:51.66,0:15:53.37,Default,,0000,0000,0000,,A-Aqui está.
-Dialogue: 0,0:15:56.58,0:15:57.85,Default,,0000,0000,0000,,Eu tenho de correr!
-Dialogue: 0,0:16:04.48,0:16:08.23,Default,,0000,0000,0000,,Eu me lembro de ter corrido assim no dia da cerimônia de abertura.
-Dialogue: 0,0:16:08.55,0:16:10.86,Default,,0000,0000,0000,,Eu disse a mim mesma que deveria fazer alguma coisa.
-Dialogue: 0,0:16:11.09,0:16:13.86,Default,,0000,0000,0000,,Mas eu não sabia o que fazer.
-Dialogue: 0,0:16:13.86,0:16:17.53,Default,,0000,0000,0000,,Eu estava preocupada achando que eu cresceria sem fazer nada.
-Dialogue: 0,0:16:47.81,0:16:49.61,Default,,0000,0000,0000,,Ei, eu...
-Dialogue: 0,0:16:53.14,0:16:56.81,Default,,0000,0000,0000,,A eu de antes, você não precisa se preocupar.
-Dialogue: 0,0:17:00.39,0:17:04.41,Default,,0000,0000,0000,,Você vai em breve achar algo que pode fazer,
-Dialogue: 0,0:17:05.21,0:17:07.18,Default,,0000,0000,0000,,algo em que pode por seu coração...
-Dialogue: 0,0:17:09.88,0:17:11.13,Default,,0000,0000,0000,,no mais...
-Dialogue: 0,0:17:12.14,0:17:13.40,Default,,0000,0000,0000,,mais...
-Dialogue: 0,0:17:15.80,0:17:17.30,Default,,0000,0000,0000,,importante lugar!
-Dialogue: 0,0:17:26.56,0:17:27.86,Default,,0000,0000,0000,,Onee-chan!
-Dialogue: 0,0:17:28.36,0:17:30.19,Default,,0000,0000,0000,,Oh, Ui!
-Dialogue: 0,0:17:30.19,0:17:31.47,Default,,0000,0000,0000,,Paz!
-Dialogue: 0,0:17:33.79,0:17:36.13,Default,,0000,0000,0000,,Vá, Onee-chan!
-Dialogue: 0,0:18:02.84,0:18:05.77,Default,,0000,0000,0000,,Sawa-chan-sensei, obrigada.
-Dialogue: 0,0:18:07.01,0:18:09.25,Default,,0000,0000,0000,,Agora é todo seu.
-Dialogue: 0,0:18:09.87,0:18:12.15,Default,,0000,0000,0000,,Yamanaka-sensei, você é tão legal!
-Dialogue: 0,0:18:12.95,0:18:15.38,Default,,0000,0000,0000,,Pessoal, eu sinto muito.
-Dialogue: 0,0:18:16.20,0:18:17.86,Default,,0000,0000,0000,,Agora pensando sobre isso...
-Dialogue: 0,0:18:19.60,0:18:22.82,Default,,0000,0000,0000,,é sempre eu quem está causando problemas...
-Dialogue: 0,0:18:24.61,0:18:28.46,Default,,0000,0000,0000,,Mesmo num momento tão importante...
-Dialogue: 0,0:18:29.45,0:18:31.42,Default,,0000,0000,0000,,Amarre sua gravata direito.
-Dialogue: 0,0:18:32.19,0:18:34.42,Default,,0000,0000,0000,,Nós todas te amamos, Yui.
-Dialogue: 0,0:18:36.21,0:18:37.63,Default,,0000,0000,0000,,Vá!
-Dialogue: 0,0:18:39.27,0:18:40.76,Default,,0000,0000,0000,,Yui!
-Dialogue: 0,0:18:42.82,0:18:46.52,Default,,0000,0000,0000,,Hmm... Deixe que eu nos apresente de novo, nós somos o Chá Depois da Escola.
-Dialogue: 0,0:18:47.13,0:18:51.87,Default,,0000,0000,0000,,Eu cheguei atrasada porque esqueci minha guitarra em casa.
-Dialogue: 0,0:18:51.87,0:18:53.52,Default,,0000,0000,0000,,Gita, me desculpe por te deixar para trás.
-Dialogue: 0,0:18:54.20,0:18:55.48,Default,,0000,0000,0000,,Então era isso...
-Dialogue: 0,0:18:55.81,0:19:01.45,Default,,0000,0000,0000,,Nós começamos o clube de música leve com o Budokan como meta.
-Dialogue: 0,0:19:01.45,0:19:04.20,Default,,0000,0000,0000,,Nós todas trabalhamos duro para comprar uma guitarra.
-Dialogue: 0,0:19:04.20,0:19:07.70,Default,,0000,0000,0000,,Nós tomamos chá e conversamos na sala de música todo dia.
-Dialogue: 0,0:19:07.96,0:19:10.37,Default,,0000,0000,0000,,Nós tivemos acampamentos de treino na casa de verão da Mugi.
-Dialogue: 0,0:19:10.37,0:19:12.71,Default,,0000,0000,0000,,Nós fomos procurar calouras para entrar para o clube.
-Dialogue: 0,0:19:13.59,0:19:18.36,Default,,0000,0000,0000,,Eu não posso dizer que realmente praticamos duro...
-Dialogue: 0,0:19:18.36,0:19:19.55,Default,,0000,0000,0000,,Mas neste momento, este lugar é...
-Dialogue: 0,0:19:19.87,0:19:21.55,Default,,0000,0000,0000,,Esse auditório é...
-Dialogue: 0,0:19:22.06,0:19:24.05,Default,,0000,0000,0000,,o nosso Budokan!
-Dialogue: 0,0:19:25.90,0:19:27.85,Default,,0000,0000,0000,,Nós vamos tocar com todo nosso coração até o fim!
-Dialogue: 0,0:19:29.01,0:19:30.31,Default,,0000,0000,0000,,Fuwa Fuwa Time!
-Dialogue: 0,0:21:31.47,0:21:33.01,Default,,0000,0000,0000,,Mais uma vez!
-Dialogue: 0,0:22:08.10,0:22:10.87,Default,,0000,0000,0000,,Eu amo música leve!
-Dialogue: 0,0:22:11.67,0:22:13.28,Default,,0000,0000,0000,,Ricchan, vamos tocar mais uma música!
-Dialogue: 0,0:22:13.28,0:22:14.33,Default,,0000,0000,0000,,Tudo bem!
-Dialogue: 0,0:22:14.33,0:22:15.13,Default,,0000,0000,0000,,Yui!
-Dialogue: 0,0:22:15.13,0:22:16.47,Default,,0000,0000,0000,,Oh, Nodoka-chan!
-Dialogue: 0,0:22:16.47,0:22:17.87,Default,,0000,0000,0000,,O tempo acabou!
-Comment: 0,0:23:50.03,0:23:50.03,Default,,0000,0000,0000,,Preview
-Dialogue: 0,0:23:50.42,0:23:54.20,Default,,0000,0000,0000,,Que tal um hotpot de leite de soja com\Nmarshmallow ou de curry de chocolate.{Frase épica x.X}
-Dialogue: 0,0:23:58.06,0:23:59.46,Default,,0000,0000,0000,,Deixe me ver...
-Dialogue: 0,0:24:06.55,0:24:08.80,Default,,0000,0000,0000,,Não é nada!
-Dialogue: 0,0:24:09.63,0:24:11.28,Default,,0000,0000,0000,,Veja, bigode!
-Dialogue: 0,0:24:11.28,0:24:13.37,Default,,0000,0000,0000,,...aqui, hoje.
-Dialogue: 0,0:24:13.37,0:24:14.92,Default,,0000,0000,0000,,É algo importante?
-Dialogue: 0,0:24:14.92,0:24:17.13,Default,,0000,0000,0000,,Acho que sim...
-Dialogue: 0,0:24:17.13,0:24:17.89,Default,,0000,0000,0000,,Até mais.
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Avisos
-Dialogue: 0,0:03:23.28,0:03:28.27,Title,,0000,0000,0000,,{\fs50\pos(460,450)}Final
-Dialogue: 0,0:03:23.28,0:03:28.27,Title,,0000,0000,0000,,{\fs50\pos(825,450)}K-ON!
-Dialogue: 0,0:23:49.78,0:23:53.20,Preview Title,,0000,0000,0000,,{\fad(0,400)\pos(640,300)}Próximo Episódio
-Dialogue: 0,0:24:16.14,0:24:19.60,Preview Title,,0000,0000,0000,,{\fs60\fad(500,0)\pos(400,300)}Extra
-Dialogue: 0,0:24:16.14,0:24:19.60,Preview Title,,0000,0000,0000,,{\fs60\fad(500,0)\pos(845,300)}Um Dia de Inverno!
-Dialogue: 0,0:03:42.18,0:03:43.82,Preview Title,,0000,0000,0000,,{\fad(500,0)\pos(640,550)}Alguns dias antes
-Dialogue: 0,0:05:31.68,0:05:34.52,Preview Title,,0000,0000,0000,,{\fad(500,0)\pos(640,550)}No dia seguinte
-Dialogue: 0,0:22:11.47,0:22:19.85,K6InsertRoma,,0000,0000,0000,,{\fad(1500,0)\pos(843,606)}Fim <3
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Notas
+Comment: 0,0:02:48.59,0:02:48.63,Default,,0000,0000,0000,,Parte A
+Dialogue: 0,0:02:49.29,0:02:51.53,Default,,0000,0000,0000,,Então ela ainda está com febre?
+Dialogue: 0,0:02:51.53,0:02:55.18,Default,,0000,0000,0000,,Sim, e nesse ritmo é provável que\N ela não venha amanhã também.
+Dialogue: 0,0:02:55.54,0:02:57.68,Default,,0000,0000,0000,,Só faltam quatro dias.
+Dialogue: 0,0:02:57.68,0:03:02.23,Default,,0000,0000,0000,,Se eu pudesse ao menos pegar o resfriado por ela...
+Dialogue: 0,0:03:02.23,0:03:04.53,Default,,0000,0000,0000,,E como você faria isso?
+Dialogue: 0,0:03:04.53,0:03:07.43,Default,,0000,0000,0000,,Talvez... pela boca!
+Dialogue: 0,0:03:07.43,0:03:08.69,Default,,0000,0000,0000,,Que garota destemida...
+Dialogue: 0,0:03:08.88,0:03:10.73,Default,,0000,0000,0000,,Com licença!
+Dialogue: 0,0:03:11.40,0:03:13.38,Default,,0000,0000,0000,,Não assuste as novatas.
+Dialogue: 0,0:03:18.37,0:03:19.68,Default,,0000,0000,0000,,Entendo.
+Dialogue: 0,0:03:19.68,0:03:20.58,Default,,0000,0000,0000,,Droga.{Geez}
+Dialogue: 0,0:03:20.58,0:03:22.83,Default,,0000,0000,0000,,Como ela ousa pegar um resfriado em um momento tão importante?
+Dialogue: 0,0:03:22.83,0:03:24.45,Default,,0000,0000,0000,,Isso mostra o quão preguiçosa ela é.
+Dialogue: 0,0:03:24.45,0:03:25.98,Default,,0000,0000,0000,,Foi você quem adoeceu ela!
+Dialogue: 0,0:03:25.98,0:03:27.20,Default,,0000,0000,0000,,Quem, eu?
+Dialogue: 0,0:03:27.20,0:03:30.31,Default,,0000,0000,0000,,Isso mesmo! Pense um pouco.
+Dialogue: 0,0:03:31.15,0:03:34.01,Default,,0000,0000,0000,,Mas talvez seja porque...
+Dialogue: 0,0:03:34.32,0:03:36.47,Default,,0000,0000,0000,,Escolham as roupas que vocês vão usar na apresentação.
+Dialogue: 0,0:03:37.24,0:03:38.18,Default,,0000,0000,0000,,Você está forçando a gente?
+Dialogue: 0,0:03:38.33,0:03:40.05,Default,,0000,0000,0000,,Quando ela fez tantas?
+Dialogue: 0,0:03:40.05,0:03:42.06,Default,,0000,0000,0000,,Vocês podem escolher qualquer uma.
+Dialogue: 0,0:03:42.06,0:03:43.31,Default,,0000,0000,0000,,Por exemplo, este...
+Dialogue: 0,0:03:43.71,0:03:45.14,Default,,0000,0000,0000,,Roupa de garçonete!
+Dialogue: 0,0:03:45.14,0:03:46.34,Default,,0000,0000,0000,,Seja bem-vinda.
+Dialogue: 0,0:03:46.34,0:03:47.23,Default,,0000,0000,0000,,Sem chance.
+Dialogue: 0,0:03:47.81,0:03:48.69,Default,,0000,0000,0000,,Essa é ainda pior!
+Dialogue: 0,0:03:49.69,0:03:52.19,Default,,0000,0000,0000,,T-Talvez eu use esta...
+Dialogue: 0,0:03:52.19,0:03:55.47,Default,,0000,0000,0000,,Sensei, até que isso é divertido.
+Dialogue: 0,0:03:55.47,0:03:56.89,Default,,0000,0000,0000,,Eu sei, não é?
+Dialogue: 0,0:03:56.89,0:03:58.64,Default,,0000,0000,0000,,Volte a si!
+Dialogue: 0,0:03:58.64,0:04:00.53,Default,,0000,0000,0000,,Ei, olhe, olhe!
+Dialogue: 0,0:04:00.77,0:04:02.48,Default,,0000,0000,0000,,Como esse fica?
+Dialogue: 0,0:04:03.02,0:04:05.41,Default,,0000,0000,0000,,Esse é tão bonito.
+Dialogue: 0,0:04:05.41,0:04:08.26,Default,,0000,0000,0000,,Você está certa, sem mencionar que parece fácil se mover nesta roupa.
+Dialogue: 0,0:04:08.26,0:04:09.42,Default,,0000,0000,0000,,Bem, se nós temos de escolher uma...
+Dialogue: 0,0:04:09.62,0:04:11.91,Default,,0000,0000,0000,,Vamos ficar com esse!
+Dialogue: 0,0:04:11.91,0:04:14.64,Default,,0000,0000,0000,,Ficar com esse... Ficar com esse...
+Dialogue: 0,0:04:14.64,0:04:16.72,Default,,0000,0000,0000,,Onee-chan gostou muito dele...
+Dialogue: 0,0:04:16.88,0:04:20.09,Default,,0000,0000,0000,,e ela acabou ficando o dia inteiro vestindo aquele {\i1}yukata.{\i0}
+Dialogue: 0,0:04:20.09,0:04:21.55,Default,,0000,0000,0000,,O que deve ter resultado em ela pegar um resfriado...
+Dialogue: 0,0:04:21.55,0:04:22.89,Default,,0000,0000,0000,,Ela está no primário?
+Dialogue: 0,0:04:22.89,0:04:25.25,Default,,0000,0000,0000,,Isso é bem típico da Yui-senpai.
+Dialogue: 0,0:04:25.25,0:04:30.99,Default,,0000,0000,0000,,Bem, aquelas roupas são legais, mas...
+Dialogue: 0,0:04:30.99,0:04:35.34,Default,,0000,0000,0000,,Se você pensa nisso com mais calma, elas são meio embaraçosas.
+Dialogue: 0,0:04:35.34,0:04:36.74,Default,,0000,0000,0000,,Certo, Mio?
+Dialogue: 0,0:04:37.94,0:04:42.70,Default,,0000,0000,0000,,Azusa, por que você não começa a praticar a parte da guitarra principal hoje?
+Dialogue: 0,0:04:43.80,0:04:46.61,Default,,0000,0000,0000,,Já que a Yui talvez não melhore a tempo?
+Dialogue: 0,0:04:47.74,0:04:48.62,Default,,0000,0000,0000,,Mas...
+Dialogue: 0,0:04:48.84,0:04:51.54,Default,,0000,0000,0000,,É só para o caso de realmente precisarmos.
+Dialogue: 0,0:04:52.88,0:04:54.07,Default,,0000,0000,0000,,Nos vemos depois das aulas.
+Dialogue: 0,0:04:54.07,0:04:54.90,Default,,0000,0000,0000,,Até mais.
+Dialogue: 0,0:04:57.26,0:04:58.44,Default,,0000,0000,0000,,Me desculpe.
+Dialogue: 0,0:05:04.90,0:05:06.24,Default,,0000,0000,0000,,Mais um...
+Dialogue: 0,0:05:09.08,0:05:10.02,Default,,0000,0000,0000,,Cheguei.
+Dialogue: 0,0:05:17.74,0:05:19.29,Default,,0000,0000,0000,,Onee-chan...
+Dialogue: 0,0:05:19.29,0:05:20.47,Default,,0000,0000,0000,,Yummy!
+Dialogue: 0,0:05:25.88,0:05:27.41,Default,,0000,0000,0000,,Azusa, você pode fazer isso?
+Dialogue: 0,0:05:27.58,0:05:29.50,Default,,0000,0000,0000,,Sim, de certa forma.
+Dialogue: 0,0:05:30.24,0:05:33.22,Default,,0000,0000,0000,,Então, vamos começar do início mais uma vez.
+Dialogue: 0,0:05:33.22,0:05:33.95,Default,,0000,0000,0000,,Claro.
+Dialogue: 0,0:05:35.00,0:05:36.75,Default,,0000,0000,0000,,Olá!
+Dialogue: 0,0:05:36.75,0:05:38.18,Default,,0000,0000,0000,,Você está aqui!
+Dialogue: 0,0:05:38.18,0:05:38.88,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:05:39.24,0:05:40.88,Default,,0000,0000,0000,,Como você está se sentindo?
+Dialogue: 0,0:05:40.88,0:05:42.93,Default,,0000,0000,0000,,Huh? Oh, como eu estou me sentindo?
+Dialogue: 0,0:05:45.18,0:05:46.95,Default,,0000,0000,0000,,Isso foi forçado...
+Dialogue: 0,0:05:46.95,0:05:49.18,Default,,0000,0000,0000,,Bem, isso significa que você está bem.
+Dialogue: 0,0:05:49.40,0:05:52.96,Default,,0000,0000,0000,,Espere, você deveria ter vindo de manhã se estava se sentindo melhor.
+Dialogue: 0,0:05:52.96,0:05:54.81,Default,,0000,0000,0000,,Nós estávamos preocupadas com você.
+Dialogue: 0,0:05:55.51,0:05:58.16,Default,,0000,0000,0000,,Hmm, bem... sim!
+Dialogue: 0,0:05:58.16,0:06:00.88,Default,,0000,0000,0000,,Eu me senti melhor derrepente depois que as aulas acabaram!
+Dialogue: 0,0:06:00.88,0:06:02.28,Default,,0000,0000,0000,,Você só queria matar aula, certo?
+Dialogue: 0,0:06:02.45,0:06:04.97,Default,,0000,0000,0000,,Bem, vamos praticar agora!
+Dialogue: 0,0:06:04.97,0:06:05.73,Default,,0000,0000,0000,,Certo?
+Dialogue: 0,0:06:06.91,0:06:08.75,Default,,0000,0000,0000,,C-Claro.
+Dialogue: 0,0:06:11.61,0:06:13.33,Default,,0000,0000,0000,,Ta-da...
+Dialogue: 0,0:06:13.86,0:06:14.75,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:15.56,0:06:16.76,Default,,0000,0000,0000,,O que vocês acham?
+Dialogue: 0,0:06:16.76,0:06:18.27,Default,,0000,0000,0000,,Eu não tenho certeza...
+Dialogue: 0,0:06:18.27,0:06:19.50,Default,,0000,0000,0000,,Eu acho que foi coincidência.
+Dialogue: 0,0:06:20.80,0:06:22.24,Default,,0000,0000,0000,,Será que é a minha imaginação?
+Dialogue: 0,0:06:22.24,0:06:23.55,Default,,0000,0000,0000,,Vamos tentar mais uma vez.
+Dialogue: 0,0:06:23.55,0:06:24.72,Default,,0000,0000,0000,,Sim.
+Dialogue: 0,0:06:31.69,0:06:32.50,Default,,0000,0000,0000,,Yui...
+Dialogue: 0,0:06:32.50,0:06:33.33,Default,,0000,0000,0000,,Sim?
+Dialogue: 0,0:06:34.24,0:06:38.14,Default,,0000,0000,0000,,Você estava perfeita! Eu nunca senti isso antes!
+Dialogue: 0,0:06:38.14,0:06:40.59,Default,,0000,0000,0000,,O seu ritmo estava muito preciso!
+Dialogue: 0,0:06:40.59,0:06:41.19,Default,,0000,0000,0000,,Aconteceu alguma coisa?
+Dialogue: 0,0:06:41.36,0:06:42.69,Default,,0000,0000,0000,,N-Nada...
+Dialogue: 0,0:06:43.04,0:06:44.21,Default,,0000,0000,0000,,A calma antes da tempestade...
+Dialogue: 0,0:06:45.42,0:06:48.49,Default,,0000,0000,0000,,Qual é o problema de estar perfeito?
+Dialogue: 0,0:06:49.46,0:06:52.03,Default,,0000,0000,0000,,Para mim estava muito bom.
+Dialogue: 0,0:06:52.03,0:06:54.96,Default,,0000,0000,0000,,Sim, é como a Azusa-chan disse...
+Dialogue: 0,0:06:56.27,0:06:57.67,Default,,0000,0000,0000,,Ela está certa.
+Dialogue: 0,0:06:57.67,0:06:59.63,Default,,0000,0000,0000,,Nós só estávamos confusas.
+Dialogue: 0,0:06:59.63,0:07:02.92,Default,,0000,0000,0000,,Ritsu-san e Tsumugi-san, vocês se preocupam de mais.
+Dialogue: 0,0:07:03.71,0:07:04.72,Default,,0000,0000,0000,,"Ritsu-san"?
+Dialogue: 0,0:07:04.92,0:07:06.18,Default,,0000,0000,0000,,"Tsumugi-san"?
+Dialogue: 0,0:07:07.40,0:07:09.32,Default,,0000,0000,0000,,Por que você não se entrega logo,
+Dialogue: 0,0:07:09.32,0:07:09.85,Default,,0000,0000,0000,,Ui-chan?
+Dialogue: 0,0:07:09.85,0:07:11.19,Default,,0000,0000,0000,,Você estava aqui o tempo todo—
+Dialogue: 0,0:07:11.19,0:07:12.72,Default,,0000,0000,0000,,Espere, Ui-chan?!
+Dialogue: 0,0:07:13.48,0:07:17.06,Default,,0000,0000,0000,,Mesmo que você consiga enganar os olhos delas, você não me engana!
+Dialogue: 0,0:07:17.46,0:07:19.61,Default,,0000,0000,0000,,Os seus seios são maiores que os da Yui-chan!
+Dialogue: 0,0:07:20.51,0:07:23.43,Default,,0000,0000,0000,,D-Do que você está falando?
+Dialogue: 0,0:07:23.43,0:07:25.18,Default,,0000,0000,0000,,Então diga o meu apelido.
+Dialogue: 0,0:07:25.18,0:07:26.99,Default,,0000,0000,0000,,A-Azusa #2!
+Dialogue: 0,0:07:26.99,0:07:28.16,Default,,0000,0000,0000,,Ela é uma impostora.
+Dialogue: 0,0:07:29.08,0:07:30.36,Default,,0000,0000,0000,,Me desculpem.
+Dialogue: 0,0:07:30.59,0:07:32.93,Default,,0000,0000,0000,,Em todo caso, você parece mesmo com ela.
+Dialogue: 0,0:07:32.93,0:07:34.70,Default,,0000,0000,0000,,Eu nem percebi.
+Dialogue: 0,0:07:34.99,0:07:37.85,Default,,0000,0000,0000,,Eu não sabia que você tocava guitarra.
+Dialogue: 0,0:07:37.85,0:07:41.13,Default,,0000,0000,0000,,Não, Onee-chan só me deixou tocar nela algumas vezes.
+Dialogue: 0,0:07:41.76,0:07:44.43,Default,,0000,0000,0000,,Então é assim que se toca!
+Dialogue: 0,0:07:44.43,0:07:46.13,Default,,0000,0000,0000,,É isso que está dizendo aqui.
+Dialogue: 0,0:07:46.40,0:07:47.93,Default,,0000,0000,0000,,Tão típico...
+Dialogue: 0,0:07:48.27,0:07:52.25,Default,,0000,0000,0000,,Talvez seja melhor a Yui ficar de fora.
+Dialogue: 0,0:07:52.25,0:07:53.01,Default,,0000,0000,0000,,Ei.
+Dialogue: 0,0:07:53.38,0:07:55.19,Default,,0000,0000,0000,,Me desculpe, Azusa-chan.
+Dialogue: 0,0:07:55.19,0:07:56.53,Default,,0000,0000,0000,,Está tudo bem.
+Dialogue: 0,0:07:56.53,0:07:59.35,Default,,0000,0000,0000,,Depois de ver a Onee-chan caída na cama,
+Dialogue: 0,0:07:59.35,0:08:01.65,Default,,0000,0000,0000,,eu senti que devia fazer alguma coisa...
+Dialogue: 0,0:08:02.98,0:08:04.23,Default,,0000,0000,0000,,Olá!
+Dialogue: 0,0:08:04.43,0:08:06.39,Default,,0000,0000,0000,,Uau! Um perfeito déjà vu!
+Dialogue: 0,0:08:06.39,0:08:07.03,Default,,0000,0000,0000,,Senpai!
+Dialogue: 0,0:08:07.03,0:08:09.45,Default,,0000,0000,0000,,Me desculpem por deixar vocês preocupadas.
+Dialogue: 0,0:08:09.45,0:08:10.45,Default,,0000,0000,0000,,Você está bem?
+Dialogue: 0,0:08:10.70,0:08:15.28,Default,,0000,0000,0000,,Sim, quando eu acordei estava me sentindo muito melhor...
+Dialogue: 0,0:08:15.28,0:08:17.46,Default,,0000,0000,0000,,Então eu queria prati—
+Dialogue: 0,0:08:19.01,0:08:20.37,Default,,0000,0000,0000,,Isso é nojento...
+Dialogue: 0,0:08:21.81,0:08:23.60,Default,,0000,0000,0000,,Eu estou bem agora.
+Dialogue: 0,0:08:23.60,0:08:24.73,Default,,0000,0000,0000,,Mentirosa...
+Dialogue: 0,0:08:24.73,0:08:26.22,Default,,0000,0000,0000,,Eu também preciso de um lenço.
+Dialogue: 0,0:08:27.01,0:08:29.25,Default,,0000,0000,0000,,Oh, Gita!
+Dialogue: 0,0:08:29.25,0:08:32.28,Default,,0000,0000,0000,,Então é aqui que você estava!
+Dialogue: 0,0:08:32.80,0:08:35.27,Default,,0000,0000,0000,,Sua... está pesada!
+Dialogue: 0,0:08:36.72,0:08:37.93,Default,,0000,0000,0000,,Onee-chan!
+Dialogue: 0,0:08:44.53,0:08:47.19,Default,,0000,0000,0000,,Faça {\i1}ochazuke{\i0} na próxima vez, está bem?
+Dialogue: 0,0:08:48.40,0:08:51.46,Default,,0000,0000,0000,,Você ainda está com uma forte febre!
+Dialogue: 0,0:08:51.46,0:08:52.82,Default,,0000,0000,0000,,Me desculpem.
+Dialogue: 0,0:08:53.99,0:08:56.19,Default,,0000,0000,0000,,Eu acho que não estou pronta ainda.
+Dialogue: 0,0:08:56.19,0:08:59.37,Default,,0000,0000,0000,,Talvez seja melhor que eu fique de fora...
+Dialogue: 0,0:08:59.37,0:09:00.55,Default,,0000,0000,0000,,Não diga isso...
+Dialogue: 0,0:09:00.55,0:09:04.13,Default,,0000,0000,0000,,Azu-nyan, conto com você na guitarra.
+Dialogue: 0,0:09:07.16,0:09:08.23,Default,,0000,0000,0000,,Eu não quero isso.
+Dialogue: 0,0:09:10.47,0:09:11.70,Default,,0000,0000,0000,,Azusa-chan.
+Dialogue: 0,0:09:11.70,0:09:12.56,Default,,0000,0000,0000,,Não!
+Dialogue: 0,0:09:12.56,0:09:15.81,Default,,0000,0000,0000,,Se nós não podemos nos apresentar juntas, eu prefiro nem me apresentar!
+Dialogue: 0,0:09:19.67,0:09:20.98,Default,,0000,0000,0000,,Espere, Azusa!
+Dialogue: 0,0:09:23.98,0:09:27.09,Default,,0000,0000,0000,,Yui, não venha ao clube de música leve até a nossa apresentação.
+Dialogue: 0,0:09:27.09,0:09:29.06,Default,,0000,0000,0000,,E-Eu estou sendo evitada?!
+Dialogue: 0,0:09:29.06,0:09:29.99,Default,,0000,0000,0000,,Não.
+Dialogue: 0,0:09:30.18,0:09:34.41,Default,,0000,0000,0000,,Descanse até a hora da performance e fique melhor.
+Dialogue: 0,0:09:34.41,0:09:37.42,Default,,0000,0000,0000,,E então nós vamos nos apresentar juntas.
+Dialogue: 0,0:09:37.42,0:09:40.24,Default,,0000,0000,0000,,Não perca a esperança até lá, ok?
+Dialogue: 0,0:09:41.44,0:09:42.58,Default,,0000,0000,0000,,Mio-chan...
+Dialogue: 0,0:09:43.47,0:09:46.25,Default,,0000,0000,0000,,Azusa, você precisa praticar também.
+Dialogue: 0,0:09:46.25,0:09:49.55,Default,,0000,0000,0000,,Não apenas por causa da ausência da Yui, mas pelo seu próprio bem.
+Dialogue: 0,0:09:49.55,0:09:50.95,Default,,0000,0000,0000,,Senpai...
+Dialogue: 0,0:09:51.91,0:09:55.30,Default,,0000,0000,0000,,Vamos fazer o que podemos agora!
+Dialogue: 0,0:09:59.54,0:10:01.06,Default,,0000,0000,0000,,Ok, boa noite.
+Dialogue: 0,0:10:01.06,0:10:02.55,Default,,0000,0000,0000,,Boa noite.
+Dialogue: 0,0:10:06.63,0:10:08.28,Default,,0000,0000,0000,,Eu vou dormir muito.
+Dialogue: 0,0:10:08.28,0:10:10.59,Default,,0000,0000,0000,,A única coisa que eu posso fazer agora é dormir.
+Dialogue: 0,0:10:11.66,0:10:13.78,Default,,0000,0000,0000,,Eu com certeza vou melhorar a tempo!
+Comment: 0,0:10:20.12,0:10:20.12,Default,,0000,0000,0000,,Parte B
+Dialogue: 0,0:10:26.68,0:10:28.66,Default,,0000,0000,0000,,Yui-chan ainda não chegou...
+Dialogue: 0,0:10:30.73,0:10:31.67,Default,,0000,0000,0000,,Você já ligou para ela?
+Dialogue: 0,0:10:32.17,0:10:34.84,Default,,0000,0000,0000,,Ela me mandou uma mensagem dizendo que com certeza chegaria a tempo.
+Dialogue: 0,0:10:35.42,0:10:37.14,Default,,0000,0000,0000,,É 12:30...
+Dialogue: 0,0:10:40.77,0:10:42.35,Default,,0000,0000,0000,,A gente não devia praticar?
+Dialogue: 0,0:10:43.42,0:10:45.05,Default,,0000,0000,0000,,Mesmo sem a Yui.
+Dialogue: 0,0:10:47.93,0:10:48.81,Default,,0000,0000,0000,,Acho que não temos outra escolha—
+Dialogue: 0,0:10:48.81,0:10:49.69,Default,,0000,0000,0000,,Não!
+Dialogue: 0,0:10:50.19,0:10:51.73,Default,,0000,0000,0000,,Não tem como eu fazer isso!
+Dialogue: 0,0:10:51.73,0:10:55.24,Default,,0000,0000,0000,,Não faz sentido se apresentar sem a Yui-senpai!
+Dialogue: 0,0:11:02.42,0:11:03.46,Default,,0000,0000,0000,,O que aconteceu?
+Dialogue: 0,0:11:03.86,0:11:06.02,Default,,0000,0000,0000,,A apresentação vai ser atrasada em 10 minutos,
+Dialogue: 0,0:11:06.02,0:11:08.85,Default,,0000,0000,0000,,mas venham ao auditório às 13:00, como planejado.
+Dialogue: 0,0:11:09.38,0:11:10.46,Default,,0000,0000,0000,,Tudo bem.
+Dialogue: 0,0:11:12.15,0:11:13.97,Default,,0000,0000,0000,,Estão todas aqui, certo?
+Dialogue: 0,0:11:17.40,0:11:21.64,Default,,0000,0000,0000,,"Clube de música leve: todas prontas para a apresentação."
+Dialogue: 0,0:11:22.22,0:11:23.26,Default,,0000,0000,0000,,Nodoka?
+Dialogue: 0,0:11:27.69,0:11:28.94,Default,,0000,0000,0000,,A um tempo atrás...
+Dialogue: 0,0:11:37.91,0:11:39.70,Default,,0000,0000,0000,,Eu peguei um monte!
+Dialogue: 0,0:11:56.90,0:11:58.05,Default,,0000,0000,0000,,Yui-chan.
+Dialogue: 0,0:11:58.05,0:11:59.71,Alternative,,0000,0000,0000,,{\an8}Use isso.
+Dialogue: 0,0:11:59.71,0:12:00.90,Alternative,,0000,0000,0000,,{\an8}Vai ficar tudo bem?
+Dialogue: 0,0:12:01.35,0:12:03.60,Default,,0000,0000,0000,,Oh, Yui-chan, você está aqui para nos visitar mais uma vez.
+Dialogue: 0,0:12:01.65,0:12:03.60,Alternative,,0000,0000,0000,,{\an8}O que você está fazendo?!
+Dialogue: 0,0:12:03.81,0:12:04.56,Default,,0000,0000,0000,,Sim!
+Dialogue: 0,0:12:03.60,0:12:05.73,Alternative,,0000,0000,0000,,{\an8}Me desculpe, Keita-kun!
+Dialogue: 0,0:12:05.73,0:12:06.79,Alternative,,0000,0000,0000,,{\an8}Eu nunca vou te perdoar!
+Dialogue: 0,0:12:06.79,0:12:08.14,Alternative,,0000,0000,0000,,{\an8}Kei-chan!
+Dialogue: 0,0:12:08.14,0:12:09.45,Alternative,,0000,0000,0000,,{\an8}Me desculpe!
+Dialogue: 0,0:12:09.45,0:12:10.96,Alternative,,0000,0000,0000,,{\an8}Corra, seu idiota!
+Dialogue: 0,0:12:12.05,0:12:14.04,Alternative,,0000,0000,0000,,{\an8}Fique parado!
+Dialogue: 0,0:12:19.30,0:12:20.16,Default,,0000,0000,0000,,O que ela estava fazendo?
+Dialogue: 0,0:12:20.16,0:12:23.08,Default,,0000,0000,0000,,Então ela sempre foi um tanto estranha.
+Dialogue: 0,0:12:23.08,0:12:24.95,Default,,0000,0000,0000,,Mas por que você está nos contando isso agora?
+Dialogue: 0,0:12:25.45,0:12:29.46,Default,,0000,0000,0000,,O que eu estou querendo dizer é que quando a Yui põe algo na cabeça, ela vai até o fim.
+Dialogue: 0,0:12:29.74,0:12:32.79,Default,,0000,0000,0000,,Eu estou certa de que ela já se esqueceu que teve um resfriado.
+Dialogue: 0,0:12:32.79,0:12:33.71,Default,,0000,0000,0000,,Então...
+Dialogue: 0,0:12:35.21,0:12:36.43,Default,,0000,0000,0000,,Yo.
+Dialogue: 0,0:12:36.43,0:12:37.86,Default,,0000,0000,0000,,Preste atenção na atmosfera!
+Dialogue: 0,0:12:38.90,0:12:41.52,Default,,0000,0000,0000,,Espere, aonde você esteve esse tempo todo?
+Dialogue: 0,0:12:41.52,0:12:42.93,Default,,0000,0000,0000,,Nós estávamos esperando por você.
+Dialogue: 0,0:12:43.20,0:12:46.52,Default,,0000,0000,0000,,Oh, é óbvio que eu não estava perdendo tempo.
+Dialogue: 0,0:12:46.81,0:12:51.45,Default,,0000,0000,0000,,Após levar em conta o frio, eu aperfeiçoei as yukatas com proteção para resfriado!
+Dialogue: 0,0:12:51.45,0:12:53.90,Default,,0000,0000,0000,,Se você pudesse por esse esforço em outras coisas...
+Dialogue: 0,0:12:54.05,0:12:56.50,Default,,0000,0000,0000,,E é disso que eu estou falando!
+Dialogue: 0,0:12:57.77,0:12:59.60,Default,,0000,0000,0000,,Com licença...
+Dialogue: 0,0:13:00.77,0:13:01.85,Default,,0000,0000,0000,,Yui!
+Dialogue: 0,0:13:01.85,0:13:04.12,Default,,0000,0000,0000,,Você devia ter avisado que estava aqui!
+Dialogue: 0,0:13:05.18,0:13:06.64,Default,,0000,0000,0000,,Me desculpem.
+Dialogue: 0,0:13:08.15,0:13:09.47,Default,,0000,0000,0000,,Azu-nyan?
+Dialogue: 0,0:13:09.47,0:13:13.33,Default,,0000,0000,0000,,Você é uma pessoa muito má por nos deixar preocupadas...
+Dialogue: 0,0:13:13.94,0:13:15.28,Default,,0000,0000,0000,,Você é muito má!
+Dialogue: 0,0:13:16.37,0:13:18.27,Default,,0000,0000,0000,,Você deveria pedir desculpas para ela.
+Dialogue: 0,0:13:18.27,0:13:20.50,Default,,0000,0000,0000,,Azusa é a que ficou mais preocupada com você.
+Dialogue: 0,0:13:20.50,0:13:21.89,Default,,0000,0000,0000,,Sério?
+Dialogue: 0,0:13:22.26,0:13:23.68,Default,,0000,0000,0000,,Azu-nyan...
+Dialogue: 0,0:13:23.68,0:13:25.92,Default,,0000,0000,0000,,Você não tem jeito!
+Dialogue: 0,0:13:25.92,0:13:27.93,Default,,0000,0000,0000,,Quando uma pessoa pega um resfriado...
+Dialogue: 0,0:13:29.72,0:13:33.55,Default,,0000,0000,0000,,Azu-nyan, me desculpe por te deixar preocupada.
+Dialogue: 0,0:13:33.55,0:13:37.53,Default,,0000,0000,0000,,Eu prometo que farei o meu melhor.
+Dialogue: 0,0:13:37.53,0:13:38.40,Default,,0000,0000,0000,,Certo?
+Dialogue: 0,0:13:39.67,0:13:41.74,Default,,0000,0000,0000,,Nós faremos a melhor apresentação de todas!
+Dialogue: 0,0:13:43.10,0:13:44.07,Default,,0000,0000,0000,,Certo.
+Dialogue: 0,0:13:46.02,0:13:47.54,Default,,0000,0000,0000,,Vou deixar passar dessa vez.
+Dialogue: 0,0:13:47.54,0:13:49.27,Default,,0000,0000,0000,,Vamos fazer as pazes!{Let's make up}
+Dialogue: 0,0:13:50.83,0:13:55.14,Default,,0000,0000,0000,,Ela estava mesmo preocupada comigo?
+Dialogue: 0,0:13:55.14,0:13:56.09,Default,,0000,0000,0000,,Provavelmente...
+Dialogue: 0,0:13:59.00,0:14:01.47,Default,,0000,0000,0000,,O tempo acabou, vamos lá.
+Dialogue: 0,0:14:03.30,0:14:05.19,Default,,0000,0000,0000,,Esperem, aonde está a Gita?
+Dialogue: 0,0:14:05.87,0:14:07.83,Default,,0000,0000,0000,,Eu lembro de ter deixado ela aqui.
+Dialogue: 0,0:14:08.47,0:14:10.39,Default,,0000,0000,0000,,Ui-chan levou para casa!
+Dialogue: 0,0:14:10.76,0:14:13.90,Default,,0000,0000,0000,,Onee-chan, eu vou deixar sua guitarra aqui.
+Dialogue: 0,0:14:14.89,0:14:16.52,Default,,0000,0000,0000,,Obrigada, Ui...
+Dialogue: 0,0:14:17.61,0:14:20.20,Default,,0000,0000,0000,,É verdade! O que eu faço agora?
+Dialogue: 0,0:14:20.20,0:14:22.06,Default,,0000,0000,0000,,Você não tem jeito.
+Dialogue: 0,0:14:22.06,0:14:23.45,Default,,0000,0000,0000,,Sawa-chan-sensei...
+Dialogue: 0,0:14:23.72,0:14:26.41,Default,,0000,0000,0000,,Aqui, use esta.
+Dialogue: 0,0:14:28.46,0:14:30.24,Default,,0000,0000,0000,,Você vai ficar bem sem sua Gita?
+Dialogue: 0,0:14:32.06,0:14:33.29,Default,,0000,0000,0000,,Eu devo dizer que...
+Dialogue: 0,0:14:33.70,0:14:35.87,Default,,0000,0000,0000,,Eu não consigo tocar outra guitarra além da Gita.
+Dialogue: 0,0:14:35.87,0:14:36.75,Default,,0000,0000,0000,,Como esperado...
+Dialogue: 0,0:14:37.20,0:14:38.84,Default,,0000,0000,0000,,Aqui vou eu!
+Dialogue: 0,0:14:44.32,0:14:46.57,Default,,0000,0000,0000,,Uau! Incrível!
+Dialogue: 0,0:14:46.57,0:14:48.04,Default,,0000,0000,0000,,Tem tantas pessoas aqui!
+Dialogue: 0,0:14:49.36,0:14:50.71,Default,,0000,0000,0000,,Eu vou ficar aqui.
+Dialogue: 0,0:14:50.71,0:14:51.56,Default,,0000,0000,0000,,Ui-chan?
+Dialogue: 0,0:14:52.07,0:14:53.94,Default,,0000,0000,0000,,Oh, você está aqui!
+Dialogue: 0,0:14:55.95,0:15:00.94,Default,,0000,0000,0000,,A seguir a performance do clube de música leve, Chá Depois da Escola.
+Dialogue: 0,0:15:07.28,0:15:08.47,Default,,0000,0000,0000,,Onee-chan...
+Dialogue: 0,0:15:15.14,0:15:16.75,Default,,0000,0000,0000,,Um, dois, três.
+Dialogue: 0,0:15:41.76,0:15:43.47,Default,,0000,0000,0000,,A-Aqui está.
+Dialogue: 0,0:15:46.68,0:15:47.95,Default,,0000,0000,0000,,Eu tenho de correr!
+Dialogue: 0,0:15:54.58,0:15:58.33,Default,,0000,0000,0000,,Eu me lembro de ter corrido assim no dia da cerimônia de abertura.
+Dialogue: 0,0:15:58.65,0:16:00.96,Default,,0000,0000,0000,,Eu disse a mim mesma que deveria fazer alguma coisa.
+Dialogue: 0,0:16:01.19,0:16:03.96,Default,,0000,0000,0000,,Mas eu não sabia o que fazer.
+Dialogue: 0,0:16:03.96,0:16:07.63,Default,,0000,0000,0000,,Eu estava preocupada achando que eu cresceria sem fazer nada.
+Dialogue: 0,0:16:37.91,0:16:39.71,Default,,0000,0000,0000,,Ei, eu...
+Dialogue: 0,0:16:43.24,0:16:46.91,Default,,0000,0000,0000,,A eu de antes, você não precisa se preocupar.
+Dialogue: 0,0:16:50.49,0:16:54.51,Default,,0000,0000,0000,,Você vai em breve achar algo que pode fazer,
+Dialogue: 0,0:16:55.31,0:16:57.28,Default,,0000,0000,0000,,algo em que pode por seu coração...
+Dialogue: 0,0:16:59.98,0:17:01.23,Default,,0000,0000,0000,,no mais...
+Dialogue: 0,0:17:02.24,0:17:03.50,Default,,0000,0000,0000,,mais...
+Dialogue: 0,0:17:05.90,0:17:07.40,Default,,0000,0000,0000,,importante lugar!
+Dialogue: 0,0:17:16.66,0:17:17.96,Default,,0000,0000,0000,,Onee-chan!
+Dialogue: 0,0:17:18.46,0:17:20.29,Default,,0000,0000,0000,,Oh, Ui!
+Dialogue: 0,0:17:20.29,0:17:21.57,Default,,0000,0000,0000,,Paz!
+Dialogue: 0,0:17:23.89,0:17:26.23,Default,,0000,0000,0000,,Vá, Onee-chan!
+Dialogue: 0,0:17:52.94,0:17:55.87,Default,,0000,0000,0000,,Sawa-chan-sensei, obrigada.
+Dialogue: 0,0:17:57.11,0:17:59.35,Default,,0000,0000,0000,,Agora é todo seu.
+Dialogue: 0,0:17:59.97,0:18:02.25,Default,,0000,0000,0000,,Yamanaka-sensei, você é tão legal!
+Dialogue: 0,0:18:03.05,0:18:05.48,Default,,0000,0000,0000,,Pessoal, eu sinto muito.
+Dialogue: 0,0:18:06.30,0:18:07.96,Default,,0000,0000,0000,,Agora pensando sobre isso...
+Dialogue: 0,0:18:09.70,0:18:12.92,Default,,0000,0000,0000,,é sempre eu quem está causando problemas...
+Dialogue: 0,0:18:14.71,0:18:18.56,Default,,0000,0000,0000,,Mesmo num momento tão importante...
+Dialogue: 0,0:18:19.55,0:18:21.52,Default,,0000,0000,0000,,Amarre sua gravata direito.
+Dialogue: 0,0:18:22.29,0:18:24.52,Default,,0000,0000,0000,,Nós todas te amamos, Yui.
+Dialogue: 0,0:18:26.31,0:18:27.73,Default,,0000,0000,0000,,Vá!
+Dialogue: 0,0:18:29.37,0:18:30.86,Default,,0000,0000,0000,,Yui!
+Dialogue: 0,0:18:32.92,0:18:36.62,Default,,0000,0000,0000,,Hmm... Deixe que eu nos apresente de novo, nós somos o Chá Depois da Escola.
+Dialogue: 0,0:18:37.23,0:18:41.97,Default,,0000,0000,0000,,Eu cheguei atrasada porque esqueci minha guitarra em casa.
+Dialogue: 0,0:18:41.97,0:18:43.62,Default,,0000,0000,0000,,Gita, me desculpe por te deixar para trás.
+Dialogue: 0,0:18:44.30,0:18:45.58,Default,,0000,0000,0000,,Então era isso...
+Dialogue: 0,0:18:45.91,0:18:51.55,Default,,0000,0000,0000,,Nós começamos o clube de música leve com o Budokan como meta.
+Dialogue: 0,0:18:51.55,0:18:54.30,Default,,0000,0000,0000,,Nós todas trabalhamos duro para comprar uma guitarra.
+Dialogue: 0,0:18:54.30,0:18:57.80,Default,,0000,0000,0000,,Nós tomamos chá e conversamos na sala de música todo dia.
+Dialogue: 0,0:18:58.06,0:19:00.47,Default,,0000,0000,0000,,Nós tivemos acampamentos de treino na casa de verão da Mugi.
+Dialogue: 0,0:19:00.47,0:19:02.81,Default,,0000,0000,0000,,Nós fomos procurar calouras para entrar para o clube.
+Dialogue: 0,0:19:03.69,0:19:08.46,Default,,0000,0000,0000,,Eu não posso dizer que realmente praticamos duro...
+Dialogue: 0,0:19:08.46,0:19:09.65,Default,,0000,0000,0000,,Mas neste momento, este lugar é...
+Dialogue: 0,0:19:09.97,0:19:11.65,Default,,0000,0000,0000,,Esse auditório é...
+Dialogue: 0,0:19:12.16,0:19:14.15,Default,,0000,0000,0000,,o nosso Budokan!
+Dialogue: 0,0:19:16.00,0:19:17.95,Default,,0000,0000,0000,,Nós vamos tocar com todo nosso coração até o fim!
+Dialogue: 0,0:19:19.11,0:19:20.41,Default,,0000,0000,0000,,Fuwa Fuwa Time!
+Dialogue: 0,0:21:21.57,0:21:23.11,Default,,0000,0000,0000,,Mais uma vez!
+Dialogue: 0,0:21:58.20,0:22:00.97,Default,,0000,0000,0000,,Eu amo música leve!
+Dialogue: 0,0:22:01.77,0:22:03.38,Default,,0000,0000,0000,,Ricchan, vamos tocar mais uma música!
+Dialogue: 0,0:22:03.38,0:22:04.43,Default,,0000,0000,0000,,Tudo bem!
+Dialogue: 0,0:22:04.43,0:22:05.23,Default,,0000,0000,0000,,Yui!
+Dialogue: 0,0:22:05.23,0:22:06.57,Default,,0000,0000,0000,,Oh, Nodoka-chan!
+Dialogue: 0,0:22:06.57,0:22:07.97,Default,,0000,0000,0000,,O tempo acabou!
+Comment: 0,0:23:40.13,0:23:40.13,Default,,0000,0000,0000,,Preview
+Dialogue: 0,0:23:40.52,0:23:44.30,Default,,0000,0000,0000,,Que tal um hotpot de leite de soja com\Nmarshmallow ou de curry de chocolate.{Frase épica x.X}
+Dialogue: 0,0:23:48.16,0:23:49.56,Default,,0000,0000,0000,,Deixe me ver...
+Dialogue: 0,0:23:56.65,0:23:58.90,Default,,0000,0000,0000,,Não é nada!
+Dialogue: 0,0:23:59.73,0:24:01.38,Default,,0000,0000,0000,,Veja, bigode!
+Dialogue: 0,0:24:01.38,0:24:03.47,Default,,0000,0000,0000,,...aqui, hoje.
+Dialogue: 0,0:24:03.47,0:24:05.02,Default,,0000,0000,0000,,É algo importante?
+Dialogue: 0,0:24:05.02,0:24:07.23,Default,,0000,0000,0000,,Acho que sim...
+Dialogue: 0,0:24:07.23,0:24:07.99,Default,,0000,0000,0000,,Até mais.
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Avisos
+Dialogue: 0,0:03:13.38,0:03:18.37,Title,,0000,0000,0000,,{\fs50\pos(460,450)}Final
+Dialogue: 0,0:03:13.38,0:03:18.37,Title,,0000,0000,0000,,{\fs50\pos(825,450)}K-ON!
+Dialogue: 0,0:23:39.88,0:23:43.30,Preview Title,,0000,0000,0000,,{\fad(0,400)\pos(640,300)}Próximo Episódio
+Dialogue: 0,0:24:06.24,0:24:09.70,Preview Title,,0000,0000,0000,,{\fs60\fad(500,0)\pos(400,300)}Extra
+Dialogue: 0,0:24:06.24,0:24:09.70,Preview Title,,0000,0000,0000,,{\fs60\fad(500,0)\pos(845,300)}Um Dia de Inverno!
+Dialogue: 0,0:03:32.28,0:03:33.92,Preview Title,,0000,0000,0000,,{\fad(500,0)\pos(640,550)}Alguns dias antes
+Dialogue: 0,0:05:21.78,0:05:24.62,Preview Title,,0000,0000,0000,,{\fad(500,0)\pos(640,550)}No dia seguinte
+Dialogue: 0,0:22:01.57,0:22:09.95,K6InsertRoma,,0000,0000,0000,,{\fad(1500,0)\pos(843,606)}Fim <3
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Notas
 Dialogue: 0,0:00:10.93,0:00:17.19,Note,,0000,0000,0000,,{\i1}Takuan: {\i0} é um picles japonês tradicional ({\i1}tsukemono{\i0}), feito de nabo.{http://en.wikipedia.org/wiki/Takuan}
-Dialogue: 0,0:04:26.78,0:04:32.79,Note,,0000,0000,0000,,{\i1}Yukata:{\i0} é uma vestimenta japonesa de verão; uma forma casual de quimono usada em eventos tradicionais.{http://pt.wikipedia.org/wiki/Yukata}
-Dialogue: 0,0:08:54.43,0:09:01.36,Note,,0000,0000,0000,,{\i1}Ochazuke:{\i0} é um prato que consiste em arroz embebido em chá verde quente, com guarnições variadas. Uma delas é o {\i1}Tsukemono.{\i0}{http://www.nippobrasil.com.br/zz_historia/culinaria/321.shtml}
-Dialogue: 0,0:23:50.42,0:23:56.46,Note,,0000,0000,0000,,{\i1}Hotpot:{\i0} uma panela com fogareiro e molho é colocada na mesa e os alimentos são cozidos na hora.{http://en.wikipedia.org/wiki/Hotpot}\N{\i1}Curry:{\i0} termo genérico para uma variedade de comidas picantes, bem conhecidos na cozinha asiática.{http://en.wikipedia.org/wiki/Curry}
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Insert #1
-Dialogue: 1,0:15:39.28,0:15:41.53,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}fu{\kf20}de{\kf41}pe{\kf15}n {\kf38}fu{\kf51}fu
-Dialogue: 0,0:15:42.35,0:15:44.66,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf25}fu{\kf21}ru{\kf39}e{\kf19}ru {\kf35}fu{\kf52}fu
-Dialogue: 1,0:15:45.53,0:15:50.67,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf19}ha{\kf22}ji{\kf40}me{\kf20}te {\kf39}ki{\kf40}mi {\kf40}he {\kf38}no {\kf40}gree{\kf38}ting {\kf138}card
-Dialogue: 0,0:15:51.81,0:15:54.02,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf13}a{\kf25}fu{\kf32}re{\kf27}ru {\kf28}pas{\kf56}sion
-Dialogue: 1,0:15:54.94,0:15:57.09,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}a{\kf13}fu{\kf48}re{\kf18}ta {\kf35}ac{\kf41}tion
-Dialogue: 0,0:15:58.13,0:16:02.53,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}na{\kf17}mi{\kf31}da {\kf24}shi{\kf44}cha{\kf36}u {\kf43}ka{\kf38}mo{\kf147}ne
-Dialogue: 1,0:16:04.14,0:16:09.86,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf24}ki{\kf20}mi {\kf24}no {\kf18}e{\kf21}ga{\kf12}o {\kf41}sou{\kf36}zou {\kf46}shi{\kf39}te {\kf28}i{\kf26}i{\kf20}to{\kf24}ko {\kf18}mi{\kf20}se{\kf22}ta{\kf15}ku {\kf22}na{\kf33}ru{\kf23}yo
-Dialogue: 0,0:16:09.66,0:16:16.56,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf26}jo{\kf18}u{\kf36}ne{\kf38}tsu {\kf44}wo {\kf18}ni{\kf20}gi{\kf37}ri{\kf42}shi{\kf39}me {\kf17}fu{\kf21}ri{\kf39}mu{\kf42}ka{\kf35}se{\kf39}na{\kf139}kya
-Dialogue: 1,0:16:17.49,0:16:23.90,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf21}a{\kf18}i {\kf47}wo {\kf15}ko{\kf22}me{\kf30}te {\kf26}su{\kf22}ra{\kf39}su{\kf17}ra {\kf23}to{\kf29}ne {\kf50}saa {\kf36}ka{\kf41}ki{\kf34}da{\kf43}so{\kf88}u
-Dialogue: 0,0:16:23.81,0:16:30.42,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf19}u{\kf21}ke{\kf40}to{\kf19}tta {\kf19}ki{\kf19}mi {\kf51}ni {\kf44}shi{\kf23}a{\kf17}wa{\kf22}se {\kf57}ga {\kf40}tsu{\kf39}na{\kf44}ga{\kf33}ru {\kf40}yo{\kf41}u{\kf33}ni
-Dialogue: 1,0:16:30.09,0:16:36.43,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}ha{\kf21}shi{\kf37}ru {\kf17}ki{\kf23}se{\kf41}ki {\kf14}ki{\kf23}ra{\kf41}ki{\kf18}ra {\kf20}da{\kf36}ne {\kf19}so{\kf22}u {\kf35}ka{\kf47}wa{\kf37}ku {\kf42}ma{\kf81}de
-Dialogue: 0,0:16:36.37,0:16:38.40,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf22}ma{\kf16}t{\kf35}te{\kf21}te {\kf12}fu{\kf28}de{\kf17}pe{\kf12}n
-Dialogue: 1,0:16:38.32,0:16:45.02,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf42}go{\kf29}me{\kf8}n{\kf23}ne {\kf55}ball{\kf37}pen {\kf167}wa {\kf15}o{\kf12}ya{\kf22}su{\kf17}mi {\kf24}shi{\kf18}te{\kf161}te
-Dialogue: 0,0:16:44.97,0:16:49.67,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf19}ka{\kf22}na{\kf16}ri {\kf23}ho{\kf25}n{\kf15}ki {\kf310}yo
-Dialogue: 1,0:16:56.69,0:17:03.05,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf22}a{\kf20}i {\kf44}wo {\kf16}ko{\kf23}me{\kf43}te {\kf12}su{\kf24}ra{\kf39}su{\kf16}ra {\kf22}to{\kf40}ne {\kf22}sa{\kf14}a {\kf38}ka{\kf33}ki{\kf48}da{\kf38}so{\kf82}u
-Dialogue: 0,0:17:02.98,0:17:09.57,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf24}u{\kf20}ke{\kf35}to{\kf23}tta {\kf24}ki{\kf19}mi {\kf50}ni {\kf38}shi{\kf23}a{\kf23}wa{\kf18}se {\kf54}ga {\kf43}tsu{\kf41}na{\kf42}ga{\kf34}ru {\kf37}yo{\kf43}u{\kf28}ni
-Dialogue: 1,0:17:09.26,0:17:15.67,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}yu{\kf18}me {\kf35}wo {\kf18}mi{\kf29}se{\kf40}te {\kf18}gu{\kf19}ru{\kf41}gu{\kf19}ru {\kf29}to{\kf32}ne {\kf17}i{\kf21}za {\kf38}ma{\kf43}i{\kf38}o{\kf34}do{\kf92}ru
-Dialogue: 0,0:17:15.55,0:17:21.10,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf25}ga{\kf18}n{\kf34}ba{\kf29}re {\kf13}fu{\kf26}de{\kf56}pen {\kf37}ko{\kf19}ko{\kf19}ma{\kf22}de {\kf37}ki{\kf17}ta {\kf38}ka{\kf125}ra
-Dialogue: 1,0:17:21.03,0:17:24.67,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf23}ka{\kf20}na{\kf17}ri {\kf22}ho{\kf18}n{\kf21}ki {\kf203}yo
-Dialogue: 5,0:15:39.28,0:15:41.53,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Caneta tinteiro, fufu
-Dialogue: 6,0:15:42.35,0:15:44.66,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Tremendo, fufu
-Dialogue: 5,0:15:45.53,0:15:50.67,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Estou escrevendo um cartão para você pela primeira vez
-Dialogue: 6,0:15:51.81,0:15:54.02,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Transbordando paixão
-Dialogue: 5,0:15:54.94,0:15:57.09,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Transbordando ação
-Dialogue: 6,0:15:58.13,0:16:02.53,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Eles podem me fazer chorar
-Dialogue: 5,0:16:04.14,0:16:09.86,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Imaginar o seu sorriso me dá vontade de aparecer
-Dialogue: 6,0:16:09.66,0:16:16.56,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Eu preciso segurar minha paixão e fazer você se virar para mim
-Dialogue: 5,0:16:17.49,0:16:23.90,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Vou começar a escrever com todo o meu amor
-Dialogue: 6,0:16:23.81,0:16:30.42,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}para que meu amor te alcance quando você receber isso
-Dialogue: 5,0:16:30.09,0:16:36.43,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}O caminho está brilhando, mas apenas enquanto a tinta está molhada
-Dialogue: 6,0:16:36.37,0:16:38.40,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Espere, caneta tinteiro
-Dialogue: 5,0:16:38.32,0:16:45.02,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Me desculpe, caneta esferográfica, mas você fica de fora hoje
-Dialogue: 6,0:16:44.97,0:16:49.67,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Eu estou séria
-Dialogue: 5,0:16:56.69,0:17:03.05,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Vou começar a escrever com todo o meu amor
-Dialogue: 6,0:17:02.98,0:17:09.57,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}para que meu amor te alcance quando você receber isso
-Dialogue: 5,0:17:09.26,0:17:15.67,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}ele me mostra um sonho, então começa a rodar e dançar
-Dialogue: 6,0:17:15.55,0:17:21.10,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Continue em frente, caneta tinteiro, já que conseguiu chegar até aqui
-Dialogue: 5,0:17:21.03,0:17:24.67,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Eu estou séria
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Fuwa Fuwa Time
-Dialogue: 1,0:19:43.64,0:19:47.13,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}Ki{\kf9}mi {\kf21}wo {\kf19}mi{\kf16}te{\kf15}ru {\kf35}to {\kf15}i{\kf19}tsu{\kf16}mo {\kf33}haa{\kf16}to {\kf16}do{\kf20}ki {\kf15}do{\kf24}ki
-Dialogue: 0,0:19:49.02,0:19:53.29,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf17}Yu{\kf16}re{\kf14}ru {\kf16}o{\kf18}mo{\kf16}i {\kf17}wa {\kf15}mar{\kf21}sh{\kf16}ma{\kf16}llow {\kf17}mi{\kf17}ta{\kf18}i {\kf15}ni {\kf65}fu{\kf33}wa {\kf19}fu{\kf21}wa
-Dialogue: 1,0:19:53.27,0:19:58.18,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf38}I{\kf19}tsu{\kf16}mo {\kf16}ga{\kf33}n{\kf35}ba{\kf24}ru{\kf92} {\kf33}ki{\kf17}mi {\kf15}no {\kf18}yo{\kf34}ko{\kf34}ga{\kf27}o
-Dialogue: 0,0:19:58.59,0:20:03.80,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf41}Zu{\kf17}t{\kf17}to {\kf16}mi{\kf34}te{\kf18}te{\kf80}mo {\kf34}ki{\kf36}dzu{\kf32}ka{\kf34}na{\kf34}i {\kf14}yo{\kf74}ne
-Dialogue: 1,0:20:03.94,0:20:06.11,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf38}Yu{\kf17}me {\kf15}no {\kf20}na{\kf30}ka {\kf36}na{\kf21}ra
-Dialogue: 0,0:20:06.67,0:20:14.68,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf31}fu{\kf19}ta{\kf14}ri {\kf19}no {\kf131}kyo{\kf76}ri{\kf28} {\kf33}chi{\kf33}ji{\kf16}me{\kf48}ra{\kf34}re{\kf51}ru {\kf52}no{\kf30}ni {\kf146}na
-Dialogue: 1,0:20:14.80,0:20:25.42,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf32}A{\kf39}a {\kf30}ka{\kf21}mi{\kf49}sa{\kf17}ma {\kf19}o{\kf29}ne{\kf19}ga{\kf50}i {\kf15}fu{\kf19}ta{\kf48}ri {\kf50}da{\kf36}ke {\kf64}no {\kf35}D{\kf38}re{\kf61}a{\kf63}m {\kf60}Ti{\kf34}me {\kf41}ku{\kf98}da{\kf36}sa{\kf19}i
-Dialogue: 0,0:20:25.50,0:20:34.79,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf31}O{\kf38}ki{\kf28}ni{\kf20}i{\kf49}ri {\kf21}no {\kf16}u{\kf31}sa{\kf64}chan {\kf17}da{\kf18}i{\kf163}te{\kf35} {\kf35}ko{\kf35}n{\kf68}ya {\kf63}mo {\kf47}o{\kf50}ya{\kf36}su{\kf24}mi
-Dialogue: 1,0:20:36.15,0:20:39.09,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf23}wa {\kf12}Fu{\kf16}wa {\kf41}Ti{\kf33}me {\kf16}Fu{\kf17}wa {\kf8}Fu{\kf25}wa {\kf35}Ti{\kf17}me
-Dialogue: 0,0:20:38.84,0:20:41.79,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf21}wa {\kf9}Fu{\kf23}wa {\kf35}Ti{\kf28}me {\kf9}Fu{\kf27}wa {\kf14}Fu{\kf18}wa {\kf40}Ti{\kf20}me
-Dialogue: 1,0:20:41.48,0:20:44.48,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf20}wa {\kf16}Fu{\kf18}wa {\kf33}Ti{\kf36}me {\kf11}Fu{\kf19}wa {\kf6}Fu{\kf25}wa {\kf44}Ti{\kf21}me
-Dialogue: 1,0:21:33.40,0:21:44.02,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf32}A{\kf39}a {\kf30}ka{\kf21}mi{\kf49}sa{\kf17}ma {\kf19}o{\kf29}ne{\kf19}ga{\kf50}i {\kf15}fu{\kf19}ta{\kf48}ri {\kf50}da{\kf36}ke {\kf64}no {\kf35}D{\kf38}re{\kf61}a{\kf63}m {\kf60}Ti{\kf34}me {\kf41}ku{\kf98}da{\kf36}sa{\kf19}i
-Dialogue: 0,0:21:44.10,0:21:53.39,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf31}O{\kf38}ki{\kf28}ni{\kf20}i{\kf49}ri {\kf21}no {\kf16}u{\kf31}sa{\kf64}chan {\kf17}da{\kf18}i{\kf163}te{\kf35} {\kf35}ko{\kf35}n{\kf68}ya {\kf63}mo {\kf47}o{\kf50}ya{\kf36}su{\kf24}mi
-Dialogue: 1,0:21:54.75,0:21:57.69,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf23}wa {\kf12}Fu{\kf16}wa {\kf41}Ti{\kf33}me {\kf16}Fu{\kf17}wa {\kf8}Fu{\kf25}wa {\kf35}Ti{\kf17}me
-Dialogue: 0,0:21:57.44,0:22:00.39,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf21}wa {\kf9}Fu{\kf23}wa {\kf35}Ti{\kf28}me {\kf9}Fu{\kf27}wa {\kf14}Fu{\kf18}wa {\kf40}Ti{\kf20}me
-Dialogue: 1,0:22:00.08,0:22:03.08,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf20}wa {\kf16}Fu{\kf18}wa {\kf33}Ti{\kf36}me {\kf11}Fu{\kf19}wa {\kf6}Fu{\kf25}wa {\kf44}Ti{\kf21}me
-Dialogue: 0,0:19:43.64,0:19:47.13,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Quando eu te vejo, meu coração faz BOOM BOOM.
-Dialogue: 1,0:19:49.02,0:19:53.29,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Como um marshmallow, meus\Nsentimentos são leves e fofos.
-Dialogue: 0,0:19:53.27,0:19:58.18,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}E mesmo que eu esteja sempre olhando para a sua séria feição,
-Dialogue: 1,0:19:58.59,0:20:03.80,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}você não percebe.
-Dialogue: 0,0:20:03.94,0:20:06.11,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Mesmo que seja apenas um sonho,
-Dialogue: 1,0:20:06.67,0:20:14.68,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}eu consigo diminuir a distância entre nós!
-Dialogue: 0,0:20:14.80,0:20:25.42,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Deus, por favor me dê meu tão sonhado\Nmomento de nós dois juntos.
-Dialogue: 1,0:20:25.50,0:20:34.79,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Segurando meu coelho favorito, eu\Nvou dormir de novo nesta noite.
-Dialogue: 0,0:20:36.15,0:20:39.09,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
-Dialogue: 1,0:20:38.84,0:20:41.79,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
-Dialogue: 0,0:20:41.48,0:20:44.48,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
-Dialogue: 0,0:21:33.40,0:21:44.02,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Deus, por favor me dê meu tão sonhado\Nmomento de nós dois juntos.
-Dialogue: 1,0:21:44.10,0:21:53.39,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Segurando meu coelho favorito, eu\Nvou dormir de novo nesta noite.
-Dialogue: 0,0:21:54.75,0:21:57.69,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
-Dialogue: 1,0:21:57.44,0:22:00.39,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
-Dialogue: 0,0:22:00.08,0:22:03.08,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Abertura
+Dialogue: 0,0:04:16.88,0:04:22.89,Note,,0000,0000,0000,,{\i1}Yukata:{\i0} é uma vestimenta japonesa de verão; uma forma casual de quimono usada em eventos tradicionais.{http://pt.wikipedia.org/wiki/Yukata}
+Dialogue: 0,0:08:44.53,0:08:51.46,Note,,0000,0000,0000,,{\i1}Ochazuke:{\i0} é um prato que consiste em arroz embebido em chá verde quente, com guarnições variadas. Uma delas é o {\i1}Tsukemono.{\i0}{http://www.nippobrasil.com.br/zz_historia/culinaria/321.shtml}
+Dialogue: 0,0:23:40.52,0:23:46.56,Note,,0000,0000,0000,,{\i1}Hotpot:{\i0} uma panela com fogareiro e molho é colocada na mesa e os alimentos são cozidos na hora.{http://en.wikipedia.org/wiki/Hotpot}\N{\i1}Curry:{\i0} termo genérico para uma variedade de comidas picantes, bem conhecidos na cozinha asiática.{http://en.wikipedia.org/wiki/Curry}
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Fude Pen Boru Pen
+Dialogue: 1,0:15:29.38,0:15:31.63,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}fu{\kf20}de{\kf41}pe{\kf15}n {\kf38}fu{\kf51}fu
+Dialogue: 0,0:15:32.45,0:15:34.76,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf25}fu{\kf21}ru{\kf39}e{\kf19}ru {\kf35}fu{\kf52}fu
+Dialogue: 1,0:15:35.63,0:15:40.77,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf19}ha{\kf22}ji{\kf40}me{\kf20}te {\kf39}ki{\kf40}mi {\kf40}he {\kf38}no {\kf40}gree{\kf38}ting {\kf138}card
+Dialogue: 0,0:15:41.91,0:15:44.12,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf13}a{\kf25}fu{\kf32}re{\kf27}ru {\kf28}pas{\kf56}sion
+Dialogue: 1,0:15:45.04,0:15:47.19,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}a{\kf13}fu{\kf48}re{\kf18}ta {\kf35}ac{\kf41}tion
+Dialogue: 0,0:15:48.23,0:15:52.63,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}na{\kf17}mi{\kf31}da {\kf24}shi{\kf44}cha{\kf36}u {\kf43}ka{\kf38}mo{\kf147}ne
+Dialogue: 1,0:15:54.24,0:15:59.96,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf24}ki{\kf20}mi {\kf24}no {\kf18}e{\kf21}ga{\kf12}o {\kf41}sou{\kf36}zou {\kf46}shi{\kf39}te {\kf28}i{\kf26}i{\kf20}to{\kf24}ko {\kf18}mi{\kf20}se{\kf22}ta{\kf15}ku {\kf22}na{\kf33}ru{\kf23}yo
+Dialogue: 0,0:15:59.76,0:16:06.66,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf26}jo{\kf18}u{\kf36}ne{\kf38}tsu {\kf44}wo {\kf18}ni{\kf20}gi{\kf37}ri{\kf42}shi{\kf39}me {\kf17}fu{\kf21}ri{\kf39}mu{\kf42}ka{\kf35}se{\kf39}na{\kf139}kya
+Dialogue: 1,0:16:07.59,0:16:14.00,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf21}a{\kf18}i {\kf47}wo {\kf15}ko{\kf22}me{\kf30}te {\kf26}su{\kf22}ra{\kf39}su{\kf17}ra {\kf23}to{\kf29}ne {\kf50}saa {\kf36}ka{\kf41}ki{\kf34}da{\kf43}so{\kf88}u
+Dialogue: 0,0:16:13.91,0:16:20.52,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf19}u{\kf21}ke{\kf40}to{\kf19}tta {\kf19}ki{\kf19}mi {\kf51}ni {\kf44}shi{\kf23}a{\kf17}wa{\kf22}se {\kf57}ga {\kf40}tsu{\kf39}na{\kf44}ga{\kf33}ru {\kf40}yo{\kf41}u{\kf33}ni
+Dialogue: 1,0:16:20.19,0:16:26.53,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}ha{\kf21}shi{\kf37}ru {\kf17}ki{\kf23}se{\kf41}ki {\kf14}ki{\kf23}ra{\kf41}ki{\kf18}ra {\kf20}da{\kf36}ne {\kf19}so{\kf22}u {\kf35}ka{\kf47}wa{\kf37}ku {\kf42}ma{\kf81}de
+Dialogue: 0,0:16:26.47,0:16:28.50,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf22}ma{\kf16}t{\kf35}te{\kf21}te {\kf12}fu{\kf28}de{\kf17}pe{\kf12}n
+Dialogue: 1,0:16:28.42,0:16:35.12,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf42}go{\kf29}me{\kf8}n{\kf23}ne {\kf55}ball{\kf37}pen {\kf167}wa {\kf15}o{\kf12}ya{\kf22}su{\kf17}mi {\kf24}shi{\kf18}te{\kf161}te
+Dialogue: 0,0:16:35.07,0:16:39.77,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf19}ka{\kf22}na{\kf16}ri {\kf23}ho{\kf25}n{\kf15}ki {\kf310}yo
+Dialogue: 1,0:16:46.79,0:16:53.15,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf22}a{\kf20}i {\kf44}wo {\kf16}ko{\kf23}me{\kf43}te {\kf12}su{\kf24}ra{\kf39}su{\kf16}ra {\kf22}to{\kf40}ne {\kf22}sa{\kf14}a {\kf38}ka{\kf33}ki{\kf48}da{\kf38}so{\kf82}u
+Dialogue: 0,0:16:53.08,0:16:59.67,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf24}u{\kf20}ke{\kf35}to{\kf23}tta {\kf24}ki{\kf19}mi {\kf50}ni {\kf38}shi{\kf23}a{\kf23}wa{\kf18}se {\kf54}ga {\kf43}tsu{\kf41}na{\kf42}ga{\kf34}ru {\kf37}yo{\kf43}u{\kf28}ni
+Dialogue: 1,0:16:59.36,0:17:05.77,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}yu{\kf18}me {\kf35}wo {\kf18}mi{\kf29}se{\kf40}te {\kf18}gu{\kf19}ru{\kf41}gu{\kf19}ru {\kf29}to{\kf32}ne {\kf17}i{\kf21}za {\kf38}ma{\kf43}i{\kf38}o{\kf34}do{\kf92}ru
+Dialogue: 0,0:17:05.65,0:17:11.20,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf25}ga{\kf18}n{\kf34}ba{\kf29}re {\kf13}fu{\kf26}de{\kf56}pen {\kf37}ko{\kf19}ko{\kf19}ma{\kf22}de {\kf37}ki{\kf17}ta {\kf38}ka{\kf125}ra
+Dialogue: 1,0:17:11.13,0:17:14.77,K6InsertRoma,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf23}ka{\kf20}na{\kf17}ri {\kf22}ho{\kf18}n{\kf21}ki {\kf203}yo
+Dialogue: 5,0:15:29.38,0:15:31.63,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Caneta tinteiro, fufu
+Dialogue: 6,0:15:32.45,0:15:34.76,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Tremendo, fufu
+Dialogue: 5,0:15:35.63,0:15:40.77,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Estou escrevendo um cartão para você pela primeira vez
+Dialogue: 6,0:15:41.91,0:15:44.12,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Transbordando paixão
+Dialogue: 5,0:15:45.04,0:15:47.19,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Transbordando ação
+Dialogue: 6,0:15:48.23,0:15:52.63,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Eles podem me fazer chorar
+Dialogue: 5,0:15:54.24,0:15:59.96,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Imaginar o seu sorriso me dá vontade de aparecer
+Dialogue: 6,0:15:59.76,0:16:06.66,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Eu preciso segurar minha paixão e fazer você se virar para mim
+Dialogue: 5,0:16:07.59,0:16:14.00,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Vou começar a escrever com todo o meu amor
+Dialogue: 6,0:16:13.91,0:16:20.52,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}para que meu amor te alcance quando você receber isso
+Dialogue: 5,0:16:20.19,0:16:26.53,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}O caminho está brilhando, mas apenas enquanto a tinta está molhada
+Dialogue: 6,0:16:26.47,0:16:28.50,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Espere, caneta tinteiro
+Dialogue: 5,0:16:28.42,0:16:35.12,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Me desculpe, caneta esferográfica, mas você fica de fora hoje
+Dialogue: 6,0:16:35.07,0:16:39.77,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Eu estou séria
+Dialogue: 5,0:16:46.79,0:16:53.15,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Vou começar a escrever com todo o meu amor
+Dialogue: 6,0:16:53.08,0:16:59.67,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}para que meu amor te alcance quando você receber isso
+Dialogue: 5,0:16:59.36,0:17:05.77,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}ele me mostra um sonho, então começa a rodar e dançar
+Dialogue: 6,0:17:05.65,0:17:11.20,K7InsertTL,,0000,0000,0000,,{\fad(200,200)\be1}Continue em frente, caneta tinteiro, já que conseguiu chegar até aqui
+Dialogue: 5,0:17:11.13,0:17:14.77,K8InsertTLUp,,0000,0000,0000,,{\fad(200,200)\be1}Eu estou séria
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Fuwa Fuwa Time
+Dialogue: 1,0:19:33.74,0:19:37.23,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf20}Ki{\kf9}mi {\kf21}wo {\kf19}mi{\kf16}te{\kf15}ru {\kf35}to {\kf15}i{\kf19}tsu{\kf16}mo {\kf33}haa{\kf16}to {\kf16}do{\kf20}ki {\kf15}do{\kf24}ki
+Dialogue: 0,0:19:39.12,0:19:43.39,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf17}Yu{\kf16}re{\kf14}ru {\kf16}o{\kf18}mo{\kf16}i {\kf17}wa {\kf15}mar{\kf21}sh{\kf16}ma{\kf16}llow {\kf17}mi{\kf17}ta{\kf18}i {\kf15}ni {\kf65}fu{\kf33}wa {\kf19}fu{\kf21}wa
+Dialogue: 1,0:19:43.37,0:19:48.28,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf38}I{\kf19}tsu{\kf16}mo {\kf16}ga{\kf33}n{\kf35}ba{\kf24}ru{\kf92} {\kf33}ki{\kf17}mi {\kf15}no {\kf18}yo{\kf34}ko{\kf34}ga{\kf27}o
+Dialogue: 0,0:19:48.69,0:19:53.90,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf41}Zu{\kf17}t{\kf17}to {\kf16}mi{\kf34}te{\kf18}te{\kf80}mo {\kf34}ki{\kf36}dzu{\kf32}ka{\kf34}na{\kf34}i {\kf14}yo{\kf74}ne
+Dialogue: 1,0:19:54.04,0:19:56.21,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf38}Yu{\kf17}me {\kf15}no {\kf20}na{\kf30}ka {\kf36}na{\kf21}ra
+Dialogue: 0,0:19:56.77,0:20:04.78,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf31}fu{\kf19}ta{\kf14}ri {\kf19}no {\kf131}kyo{\kf76}ri{\kf28} {\kf33}chi{\kf33}ji{\kf16}me{\kf48}ra{\kf34}re{\kf51}ru {\kf52}no{\kf30}ni {\kf146}na
+Dialogue: 1,0:20:04.90,0:20:15.52,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf32}A{\kf39}a {\kf30}ka{\kf21}mi{\kf49}sa{\kf17}ma {\kf19}o{\kf29}ne{\kf19}ga{\kf50}i {\kf15}fu{\kf19}ta{\kf48}ri {\kf50}da{\kf36}ke {\kf64}no {\kf35}D{\kf38}re{\kf61}a{\kf63}m {\kf60}Ti{\kf34}me {\kf41}ku{\kf98}da{\kf36}sa{\kf19}i
+Dialogue: 0,0:20:15.60,0:20:24.89,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf31}O{\kf38}ki{\kf28}ni{\kf20}i{\kf49}ri {\kf21}no {\kf16}u{\kf31}sa{\kf64}chan {\kf17}da{\kf18}i{\kf163}te{\kf35} {\kf35}ko{\kf35}n{\kf68}ya {\kf63}mo {\kf47}o{\kf50}ya{\kf36}su{\kf24}mi
+Dialogue: 1,0:20:26.25,0:20:29.19,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf23}wa {\kf12}Fu{\kf16}wa {\kf41}Ti{\kf33}me {\kf16}Fu{\kf17}wa {\kf8}Fu{\kf25}wa {\kf35}Ti{\kf17}me
+Dialogue: 0,0:20:28.94,0:20:31.89,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf21}wa {\kf9}Fu{\kf23}wa {\kf35}Ti{\kf28}me {\kf9}Fu{\kf27}wa {\kf14}Fu{\kf18}wa {\kf40}Ti{\kf20}me
+Dialogue: 1,0:20:31.58,0:20:34.58,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf20}wa {\kf16}Fu{\kf18}wa {\kf33}Ti{\kf36}me {\kf11}Fu{\kf19}wa {\kf6}Fu{\kf25}wa {\kf44}Ti{\kf21}me
+Dialogue: 1,0:21:23.50,0:21:34.12,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf32}A{\kf39}a {\kf30}ka{\kf21}mi{\kf49}sa{\kf17}ma {\kf19}o{\kf29}ne{\kf19}ga{\kf50}i {\kf15}fu{\kf19}ta{\kf48}ri {\kf50}da{\kf36}ke {\kf64}no {\kf35}D{\kf38}re{\kf61}a{\kf63}m {\kf60}Ti{\kf34}me {\kf41}ku{\kf98}da{\kf36}sa{\kf19}i
+Dialogue: 0,0:21:34.20,0:21:43.49,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf31}O{\kf38}ki{\kf28}ni{\kf20}i{\kf49}ri {\kf21}no {\kf16}u{\kf31}sa{\kf64}chan {\kf17}da{\kf18}i{\kf163}te{\kf35} {\kf35}ko{\kf35}n{\kf68}ya {\kf63}mo {\kf47}o{\kf50}ya{\kf36}su{\kf24}mi
+Dialogue: 1,0:21:44.85,0:21:47.79,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf23}wa {\kf12}Fu{\kf16}wa {\kf41}Ti{\kf33}me {\kf16}Fu{\kf17}wa {\kf8}Fu{\kf25}wa {\kf35}Ti{\kf17}me
+Dialogue: 0,0:21:47.54,0:21:50.49,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf21}wa {\kf9}Fu{\kf23}wa {\kf35}Ti{\kf28}me {\kf9}Fu{\kf27}wa {\kf14}Fu{\kf18}wa {\kf40}Ti{\kf20}me
+Dialogue: 1,0:21:50.18,0:21:53.18,Fuwa Fuwa Time,,0000,0000,0000,,{\kf20\fad(200,200)\be1}{\kf11}Fu{\kf20}wa {\kf16}Fu{\kf18}wa {\kf33}Ti{\kf36}me {\kf11}Fu{\kf19}wa {\kf6}Fu{\kf25}wa {\kf44}Ti{\kf21}me
+Dialogue: 0,0:19:33.74,0:19:37.23,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Quando eu te vejo, meu coração faz BOOM BOOM.
+Dialogue: 1,0:19:39.12,0:19:43.39,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Como um marshmallow, meus\Nsentimentos são leves e fofos.
+Dialogue: 0,0:19:43.37,0:19:48.28,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}E mesmo que eu esteja sempre olhando para a sua séria feição,
+Dialogue: 1,0:19:48.69,0:19:53.90,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}você não percebe.
+Dialogue: 0,0:19:54.04,0:19:56.21,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Mesmo que seja apenas um sonho,
+Dialogue: 1,0:19:56.77,0:20:04.78,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}eu consigo diminuir a distância entre nós!
+Dialogue: 0,0:20:04.90,0:20:15.52,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Deus, por favor me dê meu tão sonhado\Nmomento de nós dois juntos.
+Dialogue: 1,0:20:15.60,0:20:24.89,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Segurando meu coelho favorito, eu\Nvou dormir de novo nesta noite.
+Dialogue: 0,0:20:26.25,0:20:29.19,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
+Dialogue: 1,0:20:28.94,0:20:31.89,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
+Dialogue: 0,0:20:31.58,0:20:34.58,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
+Dialogue: 0,0:21:23.50,0:21:34.12,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Deus, por favor me dê meu tão sonhado\Nmomento de nós dois juntos.
+Dialogue: 1,0:21:34.20,0:21:43.49,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Segurando meu coelho favorito, eu\Nvou dormir de novo nesta noite.
+Dialogue: 0,0:21:44.85,0:21:47.79,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
+Dialogue: 1,0:21:47.54,0:21:50.49,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
+Dialogue: 0,0:21:50.18,0:21:53.18,FFT - bottom,,0000,0000,0000,,{\fad(200,200)\be1}Tempo leve e fofo.
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Abertura
 Dialogue: 5,0:01:25.56,0:01:26.18,OpeningTop,,0000,0000,0000,,{\k12\fnArial\c&H000000&\3c&HFFFFFF&}♫ {\r}{\k48}CHATTING {\k1}NOW
 Dialogue: 5,0:01:26.18,0:01:29.14,OpeningTop,,0000,0000,0000,,{\fnArial\c&H000000&\3c&HFFFFFF&}♫ {\r}{\k7}ga{\k20}chi {\k21}de {\k9}ka{\k27}shi{\k10}ma{\k28}shi {\k24}NE{\k20}VER {\k42}ENDING {\k34}GIRL'S {\k43}TALK
 Dialogue: 5,0:01:29.14,0:01:31.68,OpeningTop,,0000,0000,0000,,{\fnArial\c&H000000&\3c&HFFFFFF&}♫ {\r}{\k17}shuu{\k54}gyou {\k22}cha{\k14}i{\k32}mu {\k13}ma{\k20}de {\k41}ma{\k16}tte{\k18}na{\k9}i
@@ -516,44 +516,44 @@ Dialogue: 5,0:02:29.66,0:02:32.58,Opening,,0000,0000,0000,,Com graça nós criam
 Dialogue: 5,0:02:32.58,0:02:35.17,Opening,,0000,0000,0000,,Traga-me o chá da tarde {\fnArial\c&H000000&\3c&HFFFFFF&}♪
 Dialogue: 5,0:02:35.17,0:02:38.17,Opening,,0000,0000,0000,,Mesmo com meu amor não correspondido,\Nseguiremos com honra! {\fnArial\c&H000000&\3c&HFFFFFF&}♪
 Dialogue: 5,0:02:38.17,0:02:42.93,Opening,,0000,0000,0000,,Se cantarmos vamos brilhar depois da escola {\fnArial\c&H000000&\3c&HFFFFFF&}♪
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,Encerramento
-Dialogue: 0,0:22:21.92,0:22:24.51,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k54}Please {\k32}don't {\k32}say {\k31}"You {\k33}are {\k77}lazy"
-Dialogue: 0,0:22:24.51,0:22:27.16,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k45}da{\k38}tte {\k21}ho{\k19}n{\k35}tou {\k31}ha {\k13}C{\k21}RA{\k41}ZY
-Dialogue: 0,0:22:27.16,0:22:32.38,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k42}ha{\k14}ku{\k31}chou{\k36}ta{\k28}chi {\k36}ha {\k53}sou {\k15}mi{\k16}e{\k12}na{\k22}i {\k14}to{\k36}ko{\k18}ro {\k7}de {\k7}ba{\k11}ta {\k15}a{\k13}shi {\k13}su{\k23}ru{\k21}n{\k16}de{\k23}su
-Dialogue: 0,0:22:32.44,0:22:37.74,EndingTop,,0000,0000,0000,,{\an8}{\k26\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}ho{\k11}n{\k32}nou {\k24}ni {\k45}jyu{\k30}jyun {\k31}tyuu{\k25}ji{\k15}tsu{\k20} {\k25}ho{\k12}n{\k37}nou {\k38}mo {\k39}jyuu{\k24}jyuu {\k33}shou{\k47}ti
-Dialogue: 0,0:22:37.74,0:22:43.17,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k22}ze{\k13}n{\k45}to {\k31}you{\k27}you {\k18}da{\k44}shi{\k10} {\k17}da{\k19}ka{\k12}ra {\k16}ta{\k14}ma{\k41}ni {\k43}kyuu{\k18}ke{\k9}i {\k17}shi{\k48}tyau{\k16}n{\k26}de{\k37}su
-Dialogue: 0,0:22:47.87,0:22:50.52,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k17}chii{\k13}ka{\k17}mi{\k56}chi {\k8}a{\k12}re{\k19}ba {\k29}so{\k16}re{\k17}ga {\k32}ou{\k29}dou
-Dialogue: 0,0:22:50.52,0:22:53.90,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k10}ha{\k26}sho{\k12}re{\k53}ru {\k19}tsu{\k10}ba{\k15}sa {\k28}mo {\k10}a{\k17}re{\k17}ba {\k38}jou{\k83}tou
-Dialogue: 0,0:22:58.31,0:23:03.54,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398}{\k35}ya{\k23}ba{\k9} {\k22}tsu{\k28}me {\k20}wa{\k48}re{\k83}ta {\k65}guruu {\k17}de{\k29}ho{\k25}shuu {\k49}shi{\k70}ta
-Dialogue: 0,0:23:03.55,0:23:08.69,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k49}so{\k47}re{\k18}da{\k35}ke {\k46}de {\k26}na{\k36}n{\k33}ka {\k29}tas{\k24}se{\k22}i{\k42}ka{\k107}n
-Dialogue: 0,0:23:08.92,0:23:14.19,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k11}da{\k8}i{\k16}ji {\k30}na{\k37}no {\k19}ha {\k39}ji{\k37}bu{\k69}n {\k24}ka{\k33}wa{\k16}i{\k32}ga{\k52}ru{\k32}ko{\k72}to
-Dialogue: 0,0:23:14.19,0:23:20.17,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k42}ji{\k42}bu{\k11}n {\k52}wo {\k26}a{\k23}i{\k41}sa{\k20}na{\k18}kya {\k33}hi{\k37}to {\k34}mo {\k19}a{\k30}i{\k84}se{\k32}na{\k54}i
-Dialogue: 0,0:23:20.82,0:23:23.45,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k36}Please {\k29}don't {\k37}say {\k27}"You {\k28}are {\k86}lazy"
-Dialogue: 0,0:23:23.50,0:23:26.14,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k28}da{\k36}tte {\k26}ho{\k13}n{\k35}tou {\k28}ha {\k13}C{\k24}RA{\k24}ZY
-Dialogue: 0,0:23:26.16,0:23:31.39,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398&}{\k28}nou{\k16}a{\k21}ru {\k36}ta{\k36}ka {\k21}ha {\k50}sou{\k8} {\k10}mi{\k9}e{\k22}na{\k21}i {\k11}to{\k37}ko{\k17}ni {\k32}bi{\k24}kku {\k13}ka{\k5}ku{\k10}su{\k27}n{\k44}de{\k25}su
-Dialogue: 0,0:23:31.39,0:23:34.10,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k41}sou{\k41}zou {\k28}ni {\k27}is{\k39}shou {\k18}ke{\k12}n{\k21}me{\k25}i
-Dialogue: 0,0:23:34.10,0:23:36.78,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k17}ge{\k14}n{\k27}ji{\k23}tsu {\k24}ha{\k28}zet{\k17}ta{\k11}i {\k35}ze{\k13}tsu{\k16}me{\k21}i
-Dialogue: 0,0:23:36.78,0:23:38.93,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k38}hat{\k18}te{\k10}n {\k37}to{\k34}tyuu {\k18}da{\k60}shi
-Dialogue: 0,0:23:38.93,0:23:42.28,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k10}da{\k10}ka{\k23}ra {\k17}fu{\k34}i{\k20}ni {\k45}pit{\k18}ti {\k9}ha{\k10}zu{\k11}re{\k28}ru{\k17}n{\k36}de{\k47}su
-Dialogue: 0,0:22:21.92,0:22:24.51,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Por favor não diga "Você é preguiçosa"
-Dialogue: 0,0:22:24.51,0:22:27.16,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}A verdade é que eu sou louca!
-Dialogue: 0,0:22:27.16,0:22:32.38,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Cisnes, isso mesmo. O que você não pode ver é que\Neles chutam violentamente quando estão nadando.
-Dialogue: 0,0:22:32.44,0:22:37.74,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}Eu sou obediente e leal aos meus instintos,\Nnem ligo que façam piadas sobre mim!
-Dialogue: 0,0:22:37.74,0:22:43.17,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Um futuro brilhante me espera, por isso posso descansar as vezes.
-Dialogue: 0,0:22:47.87,0:22:50.52,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Se houver um atalho, então será mais fácil,
-Dialogue: 0,0:22:50.52,0:22:53.90,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Se eu tivesse asas para encurtar o caminho, seria ótimo!
-Dialogue: 0,0:22:58.31,0:23:03.54,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Droga, quebrei uma unha, então consertei com cola.
-Dialogue: 0,0:23:03.55,0:23:08.69,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Com isso tenho de alguma forma um sentimento de realização.
-Dialogue: 0,0:23:08.92,0:23:14.19,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}O importante é amar a si mesmo
-Dialogue: 0,0:23:14.19,0:23:20.17,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Se você não se ama não pode amar mais ninguém
-Dialogue: 0,0:23:20.82,0:23:23.45,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Por favor não diga "Você é preguiçosa"
-Dialogue: 0,0:23:23.50,0:23:26.14,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}A verdade é que eu sou louca!
-Dialogue: 0,0:23:26.16,0:23:31.39,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Falcões habilidosos, isso mesmo, são capazes de esconder suas garras.
-Dialogue: 0,0:23:31.39,0:23:34.10,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Eu faço o meu melhor para imaginar isso,
-Dialogue: 0,0:23:34.10,0:23:36.78,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}mas a realidade me deixa encurralada...
-Dialogue: 0,0:23:36.78,0:23:38.93,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Ainda estou aprendendo...
-Dialogue: 0,0:23:38.93,0:23:42.28,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}então, às vezes, posso desafinar.
-Comment: 0,0:00:17.00,0:00:17.00,Default,,0000,0000,0000,,Créditos
+Comment: 0,0:00:-09.-90,0:00:-09.-90,Default,,0000,0000,0000,,Encerramento
+Dialogue: 0,0:22:12.02,0:22:14.61,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k54}Please {\k32}don't {\k32}say {\k31}"You {\k33}are {\k77}lazy"
+Dialogue: 0,0:22:14.61,0:22:17.26,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k45}da{\k38}tte {\k21}ho{\k19}n{\k35}tou {\k31}ha {\k13}C{\k21}RA{\k41}ZY
+Dialogue: 0,0:22:17.26,0:22:22.48,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k42}ha{\k14}ku{\k31}chou{\k36}ta{\k28}chi {\k36}ha {\k53}sou {\k15}mi{\k16}e{\k12}na{\k22}i {\k14}to{\k36}ko{\k18}ro {\k7}de {\k7}ba{\k11}ta {\k15}a{\k13}shi {\k13}su{\k23}ru{\k21}n{\k16}de{\k23}su
+Dialogue: 0,0:22:22.54,0:22:27.84,EndingTop,,0000,0000,0000,,{\an8}{\k26\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}ho{\k11}n{\k32}nou {\k24}ni {\k45}jyu{\k30}jyun {\k31}tyuu{\k25}ji{\k15}tsu{\k20} {\k25}ho{\k12}n{\k37}nou {\k38}mo {\k39}jyuu{\k24}jyuu {\k33}shou{\k47}ti
+Dialogue: 0,0:22:27.84,0:22:33.27,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k22}ze{\k13}n{\k45}to {\k31}you{\k27}you {\k18}da{\k44}shi{\k10} {\k17}da{\k19}ka{\k12}ra {\k16}ta{\k14}ma{\k41}ni {\k43}kyuu{\k18}ke{\k9}i {\k17}shi{\k48}tyau{\k16}n{\k26}de{\k37}su
+Dialogue: 0,0:22:37.97,0:22:40.62,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k17}chii{\k13}ka{\k17}mi{\k56}chi {\k8}a{\k12}re{\k19}ba {\k29}so{\k16}re{\k17}ga {\k32}ou{\k29}dou
+Dialogue: 0,0:22:40.62,0:22:44.00,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k10}ha{\k26}sho{\k12}re{\k53}ru {\k19}tsu{\k10}ba{\k15}sa {\k28}mo {\k10}a{\k17}re{\k17}ba {\k38}jou{\k83}tou
+Dialogue: 0,0:22:48.41,0:22:53.64,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398}{\k35}ya{\k23}ba{\k9} {\k22}tsu{\k28}me {\k20}wa{\k48}re{\k83}ta {\k65}guruu {\k17}de{\k29}ho{\k25}shuu {\k49}shi{\k70}ta
+Dialogue: 0,0:22:53.65,0:22:58.79,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k49}so{\k47}re{\k18}da{\k35}ke {\k46}de {\k26}na{\k36}n{\k33}ka {\k29}tas{\k24}se{\k22}i{\k42}ka{\k107}n
+Dialogue: 0,0:22:59.02,0:23:04.29,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k11}da{\k8}i{\k16}ji {\k30}na{\k37}no {\k19}ha {\k39}ji{\k37}bu{\k69}n {\k24}ka{\k33}wa{\k16}i{\k32}ga{\k52}ru{\k32}ko{\k72}to
+Dialogue: 0,0:23:04.29,0:23:10.27,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k42}ji{\k42}bu{\k11}n {\k52}wo {\k26}a{\k23}i{\k41}sa{\k20}na{\k18}kya {\k33}hi{\k37}to {\k34}mo {\k19}a{\k30}i{\k84}se{\k32}na{\k54}i
+Dialogue: 0,0:23:10.92,0:23:13.55,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k36}Please {\k29}don't {\k37}say {\k27}"You {\k28}are {\k86}lazy"
+Dialogue: 0,0:23:13.60,0:23:16.24,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}{\k28}da{\k36}tte {\k26}ho{\k13}n{\k35}tou {\k28}ha {\k13}C{\k24}RA{\k24}ZY
+Dialogue: 0,0:23:16.26,0:23:21.49,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&H5FF398&}{\k28}nou{\k16}a{\k21}ru {\k36}ta{\k36}ka {\k21}ha {\k50}sou{\k8} {\k10}mi{\k9}e{\k22}na{\k21}i {\k11}to{\k37}ko{\k17}ni {\k32}bi{\k24}kku {\k13}ka{\k5}ku{\k10}su{\k27}n{\k44}de{\k25}su
+Dialogue: 0,0:23:21.49,0:23:24.20,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HB4F168&}{\k41}sou{\k41}zou {\k28}ni {\k27}is{\k39}shou {\k18}ke{\k12}n{\k21}me{\k25}i
+Dialogue: 0,0:23:24.20,0:23:26.88,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}{\k17}ge{\k14}n{\k27}ji{\k23}tsu {\k24}ha{\k28}zet{\k17}ta{\k11}i {\k35}ze{\k13}tsu{\k16}me{\k21}i
+Dialogue: 0,0:23:26.88,0:23:29.03,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}{\k38}hat{\k18}te{\k10}n {\k37}to{\k34}tyuu {\k18}da{\k60}shi
+Dialogue: 0,0:23:29.03,0:23:32.38,EndingTop,,0000,0000,0000,,{\an8\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}{\k10}da{\k10}ka{\k23}ra {\k17}fu{\k34}i{\k20}ni {\k45}pit{\k18}ti {\k9}ha{\k10}zu{\k11}re{\k28}ru{\k17}n{\k36}de{\k47}su
+Dialogue: 0,0:22:12.02,0:22:14.61,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Por favor não diga "Você é preguiçosa"
+Dialogue: 0,0:22:14.61,0:22:17.26,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}A verdade é que eu sou louca!
+Dialogue: 0,0:22:17.26,0:22:22.48,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Cisnes, isso mesmo. O que você não pode ver é que\Neles chutam violentamente quando estão nadando.
+Dialogue: 0,0:22:22.54,0:22:27.84,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}Eu sou obediente e leal aos meus instintos,\Nnem ligo que façam piadas sobre mim!
+Dialogue: 0,0:22:27.84,0:22:33.27,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Um futuro brilhante me espera, por isso posso descansar as vezes.
+Dialogue: 0,0:22:37.97,0:22:40.62,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Se houver um atalho, então será mais fácil,
+Dialogue: 0,0:22:40.62,0:22:44.00,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}Se eu tivesse asas para encurtar o caminho, seria ótimo!
+Dialogue: 0,0:22:48.41,0:22:53.64,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Droga, quebrei uma unha, então consertei com cola.
+Dialogue: 0,0:22:53.65,0:22:58.79,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Com isso tenho de alguma forma um sentimento de realização.
+Dialogue: 0,0:22:59.02,0:23:04.29,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}O importante é amar a si mesmo
+Dialogue: 0,0:23:04.29,0:23:10.27,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Se você não se ama não pode amar mais ninguém
+Dialogue: 0,0:23:10.92,0:23:13.55,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}Por favor não diga "Você é preguiçosa"
+Dialogue: 0,0:23:13.60,0:23:16.24,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF3F1&}A verdade é que eu sou louca!
+Dialogue: 0,0:23:16.26,0:23:21.49,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&H5FF398&}Falcões habilidosos, isso mesmo, são capazes de esconder suas garras.
+Dialogue: 0,0:23:21.49,0:23:24.20,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HB4F168&}Eu faço o meu melhor para imaginar isso,
+Dialogue: 0,0:23:24.20,0:23:26.88,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HD3D95D&}mas a realidade me deixa encurralada...
+Dialogue: 0,0:23:26.88,0:23:29.03,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HFFAA9B&}Ainda estou aprendendo...
+Dialogue: 0,0:23:29.03,0:23:32.38,Ending,,0000,0000,0000,,{\org(0,0)\be1\fad(150,150)\3c&HED6DB3&}então, às vezes, posso desafinar.
+Comment: 0,0:00:07.10,0:00:07.10,Default,,0000,0000,0000,,Créditos
 Dialogue: 0,0:01:26.14,0:01:28.92,Créditos,,0000,0000,0000,,{\pos(655,450)}Tradução: Otacon Link
 Dialogue: 0,0:01:28.92,0:01:31.73,Créditos,,0000,0000,0000,,{\pos(664,436)}Karaoke: Otacon Link
 Dialogue: 0,0:01:39.93,0:01:43.24,Kyun Fansub,,0000,0000,0000,,{\fad(300,0)\pos(640,240)}Kyun Fansub apresenta:
